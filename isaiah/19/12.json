@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Sadino ngarud, ita, dagiti nasiribmo? Ket ibagada ngarud kenka, ket ammoda no ania ti tinaripnong ni Yahweh Tsevaot iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ngarud, ita"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "dagiti nasiribmo"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ket ibagada"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngarud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ket ammoda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no ania"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ti tinaripnong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T14:41:55.260792207Z",
+  "model": "glm-5.3"
+}

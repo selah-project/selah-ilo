@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ti insultianda dagiti kabusormo, Yahweh; ti insultianda dagiti bakas ni Mashiachmo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "insultianda"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dagiti kabusormo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "insultianda"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "dagiti bakas"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ni Mashiachmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:33.315504771Z",
+  "model": "glm-5.3"
+}

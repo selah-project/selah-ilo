@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Intuldong manen ni Shaul ⟨את⟩ dagiti mensahero a makita ⟨את⟩ ni Dawid, a kumuykuyoda: Iyalkayo ⟨את⟩ ti kama agraman kenkuana kaniak, tapno maipatayna.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "intuldong manen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti mensahero"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "dagiti mensahero"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a makita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kumuykuyoda"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Iyalkayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti kama agraman kenkuana"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "ti kama"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "tapno maipatayna"
+    }
+  ],
+  "timestamp": "2026-09-26T10:59:57.049043234Z",
+  "model": "glm-5.3"
+}

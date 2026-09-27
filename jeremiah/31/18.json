@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 31:18",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Nangngegek, saan a maminsan a nangngegek nak ni Efrayim nga agsangsangit: Pinaregtesmo nakon, ket naaregtesak, a kas uyok a saan a napursua iti lutok; Isublimo nakon, ket agsubliak, ta Sika nga ti Yahweh, ti Elohimko.",
+  "tokens": [
+    {
+      "surface": "שמוע",
+      "gloss": "nangngegek, saan a maminsan"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nak a nangngegek"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "מתנודד",
+      "gloss": "ngga agsangsangit a mapan-mapan"
+    },
+    {
+      "surface": "יסרתני",
+      "gloss": "pinaregtesmo nakon"
+    },
+    {
+      "surface": "ואוסר",
+      "gloss": "ket naaregtesak"
+    },
+    {
+      "surface": "כעגל",
+      "gloss": "a kas uyok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "למד",
+      "gloss": "napursua"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "isublimo nakon"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "ket agsubliak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohimko"
+    }
+  ],
+  "timestamp": "2026-09-26T17:11:09.615415416Z",
+  "model": "glm-5.3"
+}

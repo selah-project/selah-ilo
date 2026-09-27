@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 14:2",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Nagsangit ti Yehudah, ken dagiti ruarna ket naluyada, nangisitda iti ⟨ti⟩ daga, ken ti singa ti Yerushalayim nangato.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "nagsangit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "ken dagiti ruarna"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "naluyada"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "nangisitda"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "וצוחת",
+      "gloss": "ken ti singa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "nangato"
+    }
+  ],
+  "timestamp": "2026-09-26T16:46:44.505127434Z",
+  "model": "glm-5.3"
+}

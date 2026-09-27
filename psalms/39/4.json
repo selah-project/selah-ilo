@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Napudot ti pusok iti unegko; idi agpanpanunotak, adda ti apoy a natudok; ket nagsaok iti dilaek.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Napudot"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "iti unegko"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "idi agpanpanunotak"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "natudok"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nagsaok"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "iti dilaek"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:18.822355218Z",
+  "model": "glm-5.3"
+}

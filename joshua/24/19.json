@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 24:19",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Kinuna ni Yehoshua iti tattao: Saan kayo a makay nga agserbi ⟨iti⟩ ni ⟨את⟩ Yahweh, ta nasantoan nga Elohim isu, El a makibinug isu; saanna a patawaren dagiti inlabsayo ken dagiti basbasyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tattao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תוכלו",
+      "gloss": "kayo a makay"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ngaan agserbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nasantoan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנוא",
+      "gloss": "makibinug"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a patawaren"
+    },
+    {
+      "surface": "לפשעכם",
+      "gloss": "dagiti inlabsayo"
+    },
+    {
+      "surface": "ולחטאותיכם",
+      "gloss": "ken dagiti basbasyo"
+    }
+  ],
+  "timestamp": "2026-09-26T09:33:53.713010730Z",
+  "model": "glm-5.3"
+}

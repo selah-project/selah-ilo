@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ta ti nalinteg matnagna kadagiti pito a beses, ket agtakder manen; ngem dagiti dakes matnagda iti kadakesan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kadagiti pito a beses"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "matnagna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ket agtakder manen"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ngem dagiti dakes"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "matnagda"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "iti kadakesan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:43:42.490551911Z",
+  "model": "glm-5.3"
+}

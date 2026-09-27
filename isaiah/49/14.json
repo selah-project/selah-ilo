@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Kinuna ni Tsiyon: Binin-iannak ni Yahweh, ket ni Adonay nakaipongan kaniak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ni Tsiyon"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "binin-iannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ket ni Adonay"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "nakaipongan kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T15:38:31.642166737Z",
+  "model": "glm-5.3"
+}

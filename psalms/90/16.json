@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 90,
+  "translation": "Agparang koma kadagiti adipenmo ti aramidmo, ken ti daydayawmo kadagiti annakda.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Agparang koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "adipenmo"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ti aramidmo"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ken ti daydayawmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "annakda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:20.905664837Z",
+  "model": "glm-5.3"
+}

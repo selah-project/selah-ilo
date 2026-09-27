@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 138,
+  "translation": "Agdaydayawanda Kenni Yahweh amin dagiti ari ti daga, ta nangngegda dagiti sao ti ngiwatMo.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "agdaydayawanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nangngegda"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ti ngiwatMo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:47.800992883Z",
+  "model": "glm-5.3"
+}

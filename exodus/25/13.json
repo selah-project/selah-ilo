@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Aramidenmo dagiti bara iti kayo ti akasia, ket balitokannam ⟨את⟩ dagitoy.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aramidenmo"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "dagiti bara"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "iti kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ti akasia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "balitokannam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy (dagiti bara)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "iti balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:59.894668522Z",
+  "model": "glm-5.3"
+}

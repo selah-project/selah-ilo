@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Nangngegmo ti timekok; saanmo a ilemmeng ti tengam iti panagangesek, iti panangaw-awagak iti tulong.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ti timekok"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Nangngegmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "ilemmeng"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ti tengam"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "iti panagangesek"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "iti panangaw-awagak iti tulong"
+    }
+  ],
+  "timestamp": "2026-09-27T00:03:46.615899531Z",
+  "model": "glm-5.3"
+}

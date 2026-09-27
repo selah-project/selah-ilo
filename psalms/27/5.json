@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ta iti tolda ilemmengnanak iti aldaw ti kinasakit, iti lemmeng ti toldana aglemmengna kadakuak, iti bato ipangatona nak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "ilemmengnanak"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "iti tolda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ti kinasakit"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "aglemmengna kadakuak"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "iti lemmeng"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ti toldana"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "iti bato"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ipangatona nak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:43.009815953Z",
+  "model": "glm-5.3"
+}

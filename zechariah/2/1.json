@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kinintalaek ⟨את⟩ dagiti matak ket nakitaak, ket sinamsamaman! uppat a sanga",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "kinintalaek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti matak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matak"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "nakitaak"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sinamsamaman"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "a sanga"
+    }
+  ],
+  "timestamp": "2026-09-26T20:28:53.713574933Z",
+  "model": "glm-5.3"
+}

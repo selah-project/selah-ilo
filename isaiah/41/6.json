@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ti lalaki tulonganna ⟨את⟩ ti kaarrubana, ken iti kabsatna kinuna: Agbilegka.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kaarrubana"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ti kaarrubana"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "tulonganna"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ken iti kabsatna"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Agbilegka"
+    }
+  ],
+  "timestamp": "2026-09-26T15:24:18.587363367Z",
+  "model": "glm-5.3"
+}

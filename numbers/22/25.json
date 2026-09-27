@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Nakita ti burdek ⟨ti⟩ ⟨את⟩ mensahero ni Yahweh, ket timmaleb iti bangbanglo, ket innalana ⟨ti⟩ ⟨את⟩ saka ni Bilam iti bangbanglo, ket innayonna gapu ti patayenna.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "ti burdek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mensahero"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mensahero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "timmaled \/ timmaleb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "bangbanglo"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "timaleb (innaal)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saka"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "bangbanglo"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "innayon (iniipay)"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "ti patayenna"
+    }
+  ],
+  "timestamp": "2026-09-26T07:03:30.373317974Z",
+  "model": "glm-5.3"
+}

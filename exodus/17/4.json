@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Sinangi ni Moshe kenni Yahweh, nga kuna: Ania ti aramidenko iti daytoy a tattao? Bassit pay laeng ket agbatoenda kaniak.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "sinangi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ti aramidenko"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "iti daytoy a tattao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit laeng"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "ket agbatoenda kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T04:05:38.283612934Z",
+  "model": "glm-5.3"
+}

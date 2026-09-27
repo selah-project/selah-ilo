@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 12:2",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ket napasamak, idi nangngeg ni Yarovam nga anak ni Nevat — naedit pay laeng idiay Mitsrayim, taimmay nagtaray manipud iti rupa ni Shelomoh nga ari, ket nagnaed ni Yarovam idiay Mitsrayim —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "idi nangngeg"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "idi ti tao"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "naedit pay laeng"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "idiay Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "nagtaray"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manipud iti rupa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ni Shelomoh nga ari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ket nagnaed"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "idiay Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T12:50:48.276572175Z",
+  "model": "glm-5.3"
+}

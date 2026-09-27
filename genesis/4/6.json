@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Kinuna ni Yahweh iti Kayin: Apay a nagingerka, ken apay a natnag ti rupam?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "nagingerka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ken apay"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    }
+  ],
+  "timestamp": "2026-09-26T01:38:37.953376870Z",
+  "model": "glm-5.3"
+}

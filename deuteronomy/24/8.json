@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 24:8",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Agannadka iti saksakit ti tsaraat: salaknibanmo un-unay ken aramiden no kas iti amin a isuroda ⟨את⟩ kadakayo dagiti padi, dagiti Levi; kas iti imbilinko kadakuada, kasta ti salaknibanyo nga aramiden.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "agannadka"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "iti saksakit"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ti tsaraat"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "salakniban"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "un-unay"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ken aramiden"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kas iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "isuroda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "imbilinko kadakuada"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "salaknibanyo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aramiden"
+    }
+  ],
+  "timestamp": "2026-09-26T08:25:36.587762531Z",
+  "model": "glm-5.3"
+}

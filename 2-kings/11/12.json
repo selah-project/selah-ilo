@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket iparuaranna ⟨את⟩ ti anak a lalaki ti ari, ket idonna iti sanguanana ⟨את⟩ ti korona ken ⟨את⟩ ti pammasingked, ket pinadada nga ari ⟨את⟩ isuna ket inlanaanna, ket diniknikanda ti ima ken kinunada: Agbiag ti ari!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ket iparuaranna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anak a lalaki ti ari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ti anak a lalaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket idonna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti sanguanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti korona"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "ti korona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pammasingked"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ti pammasingked"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ket pinadada nga ari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isuna"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "ket inlanaanna"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "diniknikanda"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ti ima"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ken kinunada"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Agbiag"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T13:49:42.062410206Z",
+  "model": "glm-5.3"
+}

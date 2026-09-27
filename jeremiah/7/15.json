@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket ibbawak ⟨את⟩ dakayo manipud iti rupak, kas iti inibbawak ⟨את⟩ amin dagiti kabsatnyo, ⟨את⟩ amin ti putot ni Efrayim.",
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "ibbawak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "inibbawak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti kabsatnyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "dagiti kabsatnyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin ti putot ni Efrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ti putot"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T16:24:35.001631020Z",
+  "model": "glm-5.3"
+}

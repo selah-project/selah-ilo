@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Agdaydayawda kenni Yahweh iti hesedna, ken dagiti nakapatnagyna kadagiti anak ti tao.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "agdaydayawda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "iti hesedna"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ken dagiti nakapatnagyna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:42.101914631Z",
+  "model": "glm-5.3"
+}

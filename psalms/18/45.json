@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Iti panagdengngeg ti awag mamatida kaniak; dagiti anak ti ganganaet agkalkalda kaniak.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "iti panagdengngeg"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ti awag"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mamatida"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ti ganganaet"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "agkalkalda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:55:37.392354471Z",
+  "model": "glm-5.3"
+}

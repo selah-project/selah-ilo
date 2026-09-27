@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket naimbag ti sao iti mata ni Adonay, ta dimanda ni Shelomoh ⟨את⟩ daytoy a sao.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ket naimbag"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti mata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "dimanda"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T12:23:05.738997064Z",
+  "model": "glm-5.3"
+}

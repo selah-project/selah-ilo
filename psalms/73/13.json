@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Acsaar — a sukat — pinudnoko ti pusok, ket nagdigosak dagiti imak iti kawawanan-basol.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "acsaar"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "a sukat"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "pinudnoko"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "ket nagdigosak"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "iti kawawanan-basol"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dagiti imak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:49:03.895725233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 75,
+  "translation": "Saan kayo nga ipangato iti ngato ti saramyo; saan kayo nga agsao iti natagas a tengnged.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "kayo nga ipangato"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ti saramyo"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "agsaokayo"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "iti tengnged"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "natagas"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:51.714296482Z",
+  "model": "glm-5.3"
+}

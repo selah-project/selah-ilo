@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Kunaenda ti balay ni Aharon: ti agnanayon ti hesedna.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Kunaenda"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ita⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:36.543309786Z",
+  "model": "glm-5.3"
+}

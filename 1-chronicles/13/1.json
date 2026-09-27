@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket timmulong ni David kadagiti kakapitan ti sangaribu ken ti sangagasut, iti tunggal nangidaulo.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "timtuloganna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua iti"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kadagiti kakapitan"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ti sangaribu"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "ken ti sangagasut"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti tunggal"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "nangidaulo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:45.414718086Z",
+  "model": "glm-5.3"
+}

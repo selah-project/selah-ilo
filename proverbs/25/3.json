@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Dagiti langit iti katayag, ken ti daga iti kaadalem, ket ti puso dagiti ari — awan ti mabalin a sukisoken.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Dagiti langit"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "iti katayag"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ken ti daga"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "iti kaadalem"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ket ti puso"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ti mabalin a sukisoken"
+    }
+  ],
+  "timestamp": "2026-09-26T22:43:07.725038902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ken saanda nga agbalin a kas kadagiti apoda, ti maysa a kapototan a tangken ken agsupsupiat, ti maysa a kapototan a saan a nangisaad ti pusona, a saan a matalek ⟨iti⟩ ⟨את⟩ El ti espírituna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saanda"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nga agbalin"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "a kas kadagiti apoda"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ti maysa a kapototan"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "a tangken"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ken agsupsupiat"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ti maysa a kapototan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a nangisaad"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a saan"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "a matalek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ti espírituna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:54.240956548Z",
+  "model": "glm-5.3"
+}

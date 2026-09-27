@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Nakita dagiti isla ket nagbutengda, dagiti patingga ti daga ket nariwnogda, nagasidegda ken immayda.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "איים",
+      "gloss": "dagiti isla"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ket nagbutengda"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dagiti patingga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "nariwnogda"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "nagasidegda"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "ken immayda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:24:18.586113458Z",
+  "model": "glm-5.3"
+}

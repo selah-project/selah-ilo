@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 15:3",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken nagna isuna kadagiti amin a basol ti amana a rinaibuanna; ken saan a nagbalin a naan-anay ti pusona kadua ni Yahweh ti Elohimna, a kas ti puso ni David nga amana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "a basol"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rinaibuanna"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sakbayenna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a nagbalin"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "naan-anay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ti Elohimna"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "a kas ti puso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga amana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:00:27.991314290Z",
+  "model": "glm-5.3"
+}

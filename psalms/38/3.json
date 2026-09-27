@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ta dagiti panam intudo kaniak, ken timmabgek kaniak ti imam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "dagiti panam"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "intudo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "timmabkek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:08.771950145Z",
+  "model": "glm-5.3"
+}

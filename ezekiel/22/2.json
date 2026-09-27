@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ken sika, anak ti tao, ukomam kadi, ukomam kadi ⟨את⟩ ti ili ti dara, ket ipamuyam ⟨kaniakuana⟩ ⟨את⟩ amin dagiti pakaiddaayanna?",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ukomam kadi"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ukomam kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ili"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "ket ipamuyam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti pakaiddaayanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "dagiti pakaiddaayanna"
+    }
+  ],
+  "timestamp": "2026-09-26T18:38:59.089508978Z",
+  "model": "glm-5.3"
+}

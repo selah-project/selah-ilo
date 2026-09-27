@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 115,
+  "translation": "Binendisionanna dagiti agbutbuteng kenni Yahweh, dagiti bassit a kadua dagiti dakkel.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "dagiti agbutbuteng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "dagiti bassit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "dagiti dakkel"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:22.494813944Z",
+  "model": "glm-5.3"
+}

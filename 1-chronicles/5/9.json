@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "ket iti daya nagnaedda agingga iti panagserrek ⟨iti⟩ saan a mataeng a daga, manipud iti karayan Perat, ta nagadu dagiti ayupda iti daga ti Gilad.",
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "ket iti daya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagnaedda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "iti panagserrek"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "iti saan a mataeng a daga"
+    },
+    {
+      "surface": "למן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "iti karayan"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "dagiti ayupda"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nagadu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ti Gilad"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:47.318890474Z",
+  "model": "glm-5.3"
+}

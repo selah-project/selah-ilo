@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kinunak kenni Yahweh: Adonay sika; ti kinsayaatko, saan ⟨a maipapan⟩ kaduam.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Kinunak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "ti kinsayaatko"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "maipapan kaduam"
+    }
+  ],
+  "timestamp": "2026-09-26T20:51:50.374513236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket napasamak, idi nakita ni Zimri a nalaakan ti ili, nga immay isuna iti armon ti balay ti ari, ket sinurbana iti rabawna ⟨את⟩ ti balay ti ari iti apoy, ket natay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ket napasamak"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "idi nakita"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ni Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "nalaakan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nga immay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "armon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ket sinurbana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti rabawna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ti ari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    }
+  ],
+  "timestamp": "2026-09-26T12:59:47.666461369Z",
+  "model": "glm-5.3"
+}

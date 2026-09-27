@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ta ⟨ti⟩ ⟨את⟩ amin a daga a kitaem, iko-ikkonakanto kenka daytoy ket kadagiti putotmo agingga iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a daga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "iko-ikkonakanto"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ket kadagiti putotmo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T01:54:37.720716272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ni Yahweh nagnaed a kas ari iti layus, ken ni Yahweh agturay nga ari agingga agnanayon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "iti layus"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agturay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agingga agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:22.243327044Z",
+  "model": "glm-5.3"
+}

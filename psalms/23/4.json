@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Uray no sumrekak iti lidad ti sipnget ti patay, saanak a mabuteng iti dakes, ta sika ti kaduak; ti bakbakodmo ken ti tungtongmo, dagitoy ti mangwanaw kaniak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Uray pay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "sumrekak"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "iti lidad"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ti sipnget ti patay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "a mabuteng"
+    },
+    {
+      "surface": "רע",
+      "gloss": "iti dakes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ti kaduak"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "ti bakbakodmo"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "ken ti tungtongmo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "ti mangwanaw kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:00.303839916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "ket nakarkaro ti bayad ti kararua da, ket agsardeng nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ket nakarkaro"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "ti bayad"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ti kararua da"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ket agsardeng"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nga agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:31.929294082Z",
+  "model": "glm-5.3"
+}

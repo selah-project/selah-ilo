@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Kunaen ni Yisrael: ti agnanayon ti hesedna.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "Kunaen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ita⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:36.543149487Z",
+  "model": "glm-5.3"
+}

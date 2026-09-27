@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ta immuno ni Aram ti dakes a maibusor kenka, ni Efraim ken ti anak ni Remalyahu, a mangkuna,",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "immuno"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "maibusor kenka"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ni Aram"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efraim"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ken ti anak"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a mangkuna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:23:34.680777561Z",
+  "model": "glm-5.3"
+}

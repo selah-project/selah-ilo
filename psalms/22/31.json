@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti kaputotan ti agserbikennu; maibaga kenni Adonay iti sumaruno a kaputotan.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "ti kaputotan"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "agserbikennu"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "maibaga"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kenni Adonay"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "iti sumaruno a kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:42.654431172Z",
+  "model": "glm-5.3"
+}

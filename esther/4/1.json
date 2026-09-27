@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ni Mordekhai inammona ⟨את⟩ amin a nairamid, ket risrisenna ni Mordekhai ⟨את⟩ dagiti badona, ket nagsuot iti sako ken dapo, ket nagrua iti tengnga ti ili, ket nagungar ti ungar a dakkel ken mapait.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "ken ni Mordekhai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "inammona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "nairamid"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ket risrisenna"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti badona"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "dagiti badona"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "ket nagsuot"
+    },
+    {
+      "surface": "שק",
+      "gloss": "iti sako"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ken dapo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ket nagrua"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ket nagungar"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "ti ungar"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ken mapait"
+    }
+  ],
+  "timestamp": "2026-09-26T23:14:04.188762291Z",
+  "model": "glm-5.3"
+}

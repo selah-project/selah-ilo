@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket natdanada ⟨ti⟩ mangpabasa kadakuada ⟨את⟩ iti Yisrael, ⟨tapno⟩ mammo no dengngengenda ⟨את⟩ dagiti bilin ni Yahweh, a bilinanna ⟨את⟩ dagiti kakkabsat da ama babaen iti ima ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ket natdanada"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "⟨ti⟩ mangpabasa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iti Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "⟨tapno⟩ mammo"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "no dengngengenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bilin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "dagiti bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilinanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kakkabsat da ama"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "dagiti kakkabsat da ama"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen iti ima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T09:39:38.456653367Z",
+  "model": "glm-5.3"
+}

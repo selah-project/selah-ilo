@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 38:20",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ni Yahweh ti isalakannak; ket dagiti kantak kantahentayo ti amin nga aldaw ti biagtayo iti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "ti isalakannak"
+    },
+    {
+      "surface": "ונגנותי",
+      "gloss": "ket dagiti kantak"
+    },
+    {
+      "surface": "ננגן",
+      "gloss": "kantahentayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "חיינו",
+      "gloss": "ti biagtayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T15:16:34.482278785Z",
+  "model": "glm-5.3"
+}

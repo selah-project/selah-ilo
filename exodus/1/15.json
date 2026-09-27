@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinuna ti ari ti Mitsrayim kadagiti partera a Hebrea a babai — a ti nagan ti maysa ket Shifrah ken ti nagan ti maikadua ket Puah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kadagiti partera"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "a Hebrea a babai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifrah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ken ti nagan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puah"
+    }
+  ],
+  "timestamp": "2026-09-26T03:23:29.259062207Z",
+  "model": "glm-5.3"
+}

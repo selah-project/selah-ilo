@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ngem daida ken dagiti amaentayo nagpakaarisda, ken nangatiddogda ⟨את⟩ tengngedda, ket saanda a nangngeg kadagiti bilinmo.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ngem daida"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "ken dagiti amaentayo"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "nagpakaarisda"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ken nangatiddogda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tengngedda"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "tengngedda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "a nangngeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "bilinmo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:29:33.503682624Z",
+  "model": "glm-5.3"
+}

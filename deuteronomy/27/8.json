@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ken isuratmo kadagiti bato ⟨את⟩ amin a sao ti daytoy a Torah, nalawag unay.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "isuratmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kadagiti bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a sao ti daytoy a Torah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "a sao"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ti Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "באר",
+      "gloss": "nalawag"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "unay"
+    }
+  ],
+  "timestamp": "2026-09-26T08:28:27.661377755Z",
+  "model": "glm-5.3"
+}

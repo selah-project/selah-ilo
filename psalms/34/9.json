@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ti manam-it ket makitakayo a naimbag ni Yahweh; nasiaket ti tao a sumurot kenkuana.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "ti manam-it"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ket makitakayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nasiaket"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "a sumurot"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:48.904744351Z",
+  "model": "glm-5.3"
+}

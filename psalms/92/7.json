@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "Ti lalaki a mangeddeng saanna nga ammo, ket ti epok saanna a maawatanto ⟨את⟩ daytoy.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "בער",
+      "gloss": "a mangeddeng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nga ammo"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ket ti epok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "a maawatanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:00.299674621Z",
+  "model": "glm-5.3"
+}

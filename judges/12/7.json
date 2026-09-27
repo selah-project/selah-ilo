@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Inukomna ni Yiphtakh ⟨את⟩ ti Yisrael innem a tawen; ket natay ni Yiphtakh a Giladiano, ket nakaulog iti dagiti ili ti Gilad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Inukomna"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ni Yiphtakh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "שש",
+      "gloss": "innem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ni Yiphtakh"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "a Giladiano"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ket nakaulog"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "iti dagiti ili"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ti Gilad"
+    }
+  ],
+  "timestamp": "2026-09-26T10:02:59.076772065Z",
+  "model": "glm-5.3"
+}

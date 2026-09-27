@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Inawagan ni Shaul ⟨את⟩ ti pagilian ket binilangannana ida iti Telaim: dua a gasut a ribu a makataytay, ken sangapulo a ribu ⟨את⟩ dagiti lalaki ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "inawagan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagilian"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti pagilian"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ket binilangannana ida"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "iti Telaim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua a gasut"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "a makataytay"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "ken sangapulo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lalaki ni Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T10:51:52.403924502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Inliklikannakami dagiti tali ti patay, ket dagiti pigessan ti Sheol nakitannakami; nakasangsangit ket daduma a rigat ti nasarakak.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "Inliklikannakami"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "dagiti tali"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ti patay"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "ket dagiti pigessan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ti Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "nakitannakami"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nakasangsangit"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ket daduma a rigat"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ti nasarakak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:27.556434788Z",
+  "model": "glm-5.3"
+}

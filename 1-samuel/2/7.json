@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ni Yahweh ti agpanglaw ken ti agpayak, ti agpababa, ken ti agipangato met.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "ti agpanglaw"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "ket ti agpayak"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ti agpababa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ken met"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "ti agipangato"
+    }
+  ],
+  "timestamp": "2026-09-26T10:23:02.634885048Z",
+  "model": "glm-5.3"
+}

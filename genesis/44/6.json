@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Nakaabotanna dauda, ket inbagana kaniada ⟨את⟩ dagiti sao a dagitoy.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "nakaabotanna"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "inbagana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T03:07:37.425270477Z",
+  "model": "glm-5.3"
+}

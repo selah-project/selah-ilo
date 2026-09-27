@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Inaramidna ti ⟨את⟩ abbong ti ruangan ti Mishkan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti abbong ti ruangan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "abbong"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ti Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:49:09.718995609Z",
+  "model": "glm-5.3"
+}

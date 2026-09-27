@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Isu a dagiti pastol, dengngegyo ⟨את⟩ ti sao ni Yahweh:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "isu a"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "dagiti pastol"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengngegyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sao ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T18:57:19.445672509Z",
+  "model": "glm-5.3"
+}

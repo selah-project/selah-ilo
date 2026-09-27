@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "ket saan nga agkita kadagiti altar, ti aramid ti imana, ket saan nga agkita iti inaramid dagiti ramirana — dagiti Ashera ken dagiti larawan ti init.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "nga agkita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "kadagiti altar"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ket iti"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "dagiti ramirana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nga agkita"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "dagiti Ashera"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "dagiti larawan ti init"
+    }
+  ],
+  "timestamp": "2026-09-26T14:47:07.335533637Z",
+  "model": "glm-5.3"
+}

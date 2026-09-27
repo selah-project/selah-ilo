@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kinuna ni Yahweh ken ni Moshe: Agyaman kadi a nagiddan ti ima ni Yahweh? Ita makitam no ti saok ti makasarakka wenno saan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ti ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "nagiddan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makitam"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "no makasarakka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ti saok"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    }
+  ],
+  "timestamp": "2026-09-26T06:31:59.045763155Z",
+  "model": "glm-5.3"
+}

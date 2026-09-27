@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Yahweh, saanmo a parendanak iti rigom, ken saanmo a disiplinarenak iti pannarigsokam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "iti rigom"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "a parendanak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saanmo"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "iti pannarigsokam"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "a disiplinarenak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:58.472109222Z",
+  "model": "glm-5.3"
+}

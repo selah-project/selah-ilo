@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Mabalindan nga ibaga dagiti napanunotan a lallaki ni Yahweh, dagidiay napanunotan manipud iti ima ti kabusor.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Mabalindan nga ibaga"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "dagiti napanunotan a lallaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dagidiay"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "napanunotan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ti kabusor"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:57.240345120Z",
+  "model": "glm-5.3"
+}

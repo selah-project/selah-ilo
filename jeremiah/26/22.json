@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ingonna ti ari a ni Yehoyakim dagiti lallaki nga agturong iti Mitsrayim — kennuana ⟨את⟩ ni Elnatan nga anak ni Akhbor ken dagiti lallaki a kadua ⟨את⟩ na — iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ingonna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kennuana ni Elnatan"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "ni Elnatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "ni Akhbor"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ken dagiti lallaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na",
+      "marks": "kadua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T17:05:51.798816055Z",
+  "model": "glm-5.3"
+}

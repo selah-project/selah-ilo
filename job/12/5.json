@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ti lampara ket kadisdain kadagiti kapanunotan ti nakaela, naisagana kadagiti matmatnag iti saka.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "ti lampara"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ket kadisdain"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "kadagiti kapanunotan"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "ti nakaela"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "naisagana"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "kadagiti matmatnag"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "iti saka"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:51.426291665Z",
+  "model": "glm-5.3"
+}

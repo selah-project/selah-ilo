@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket nagkururitkayo iti toldakayo, ket kinunakayo: Gapu iti panagayaw ni Yahweh ⟨אתנו⟩, inruarnatayo manipud iti daga ti Mitsrayim, nga itedanna ⟨אתנו⟩ iti ima ti Emori, nga dadaelennakami.",
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "ket nagkururitkayo"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "iti toldakayo"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ket kinunakayo"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "gapu iti panagayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "inruarnatayo"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "inruarnatayo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nga itedanna"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "iti ima ti Emori"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Emori"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "nga dadaelennakami"
+    }
+  ],
+  "timestamp": "2026-09-26T22:02:05.156160297Z",
+  "model": "glm-5.3"
+}

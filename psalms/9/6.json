@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Insupiammo dagiti umili, ipukpukawmo ti dakes, ipurawmo ti naganda iti agnanayon ken iti amin a panawen.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "insupiammo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "ipukpukawmo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ti naganda"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "ipurawmo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken iti amin a panawen"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:53.662469266Z",
+  "model": "glm-5.3"
+}

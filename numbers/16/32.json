@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ket linuktan ti daga ⟨את⟩ ngiwatna ket bambammatoyna ⟨את⟩ daida ken ⟨את⟩ dagiti balayda ken ⟨את⟩ amin a tao a kakuyog ni Korah ken ⟨את⟩ amin a tagikuada.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "ket linuktan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngiwatna"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ngiwatna"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ket bambammatoyna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "daida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti balayda"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "dagiti balayda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a tao a kakuyog ni Korah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "a tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "kakuyog ni Korah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a tagikuada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "a tagikuada"
+    }
+  ],
+  "timestamp": "2026-09-26T06:45:03.390571760Z",
+  "model": "glm-5.3"
+}

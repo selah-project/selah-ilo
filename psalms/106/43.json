@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Adu a beses isinalakannadakuada, ngem insuppiatanda iti bukodda a tapno, ket natnagda gapu iti basolda.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "beses"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "adu"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "isinalakannadakuada"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "insuppiatanda"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "iti bukodda a tapno"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "ket natnagda"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "gapu iti basolda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:25.947188654Z",
+  "model": "glm-5.3"
+}

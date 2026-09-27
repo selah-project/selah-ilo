@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket nagkarararua ni Yonah kenni Yahweh, ti Elohimna, manipud iti bagis ti ikan.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "nagkarararua"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ti Elohimna"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "manipud iti bagis"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ti ikan"
+    }
+  ],
+  "timestamp": "2026-09-26T20:02:20.591013323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ken sika, aganka agingga iti patingga, ket aginanka, ket agtakderka iti pasetmo, iti patingga dagiti aldaw.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aganka"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "agingga iti patingga"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "ket aginanka"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ket agtakderka"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "iti pasetmo"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "iti patingga"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "dagiti aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T23:21:02.769635275Z",
+  "model": "glm-5.3"
+}

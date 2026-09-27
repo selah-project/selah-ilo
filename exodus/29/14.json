@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ken ⟨את⟩ ti lasag ti baka, ken ⟨את⟩ ti kudilna, ken ⟨את⟩ ti tuonanna, isulepem iti apoy iti ruar ti kampo; daton iti basol isuna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lasag ti baka"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lasag"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kudilna"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "kudilna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tuonanna"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "tuonanna"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "isulepem"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "daton iti basol"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:24:24.231063168Z",
+  "model": "glm-5.3"
+}

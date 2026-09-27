@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Ta rininnaak kadagiti manlalaok, no makitak ti kappia dagiti dakes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "rininnaak"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "kadagiti manlalaok"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nakitak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:53.115513614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "Ti amin a daga agtalleklatak kenka ket agkantada kenka, agkantada iti nagammo. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "agtalleklatak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ket agkantada"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "agkantada"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "iti nagammo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:35:31.988580287Z",
+  "model": "glm-5.3"
+}

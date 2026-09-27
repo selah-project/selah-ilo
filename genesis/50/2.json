@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Kinuna ni Yosef kadagiti adipenna — dagiti agpulongpulong — a pagbalinen ti amana, ket binalinanda dagiti agpulongpulong ⟨את⟩ ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti adipenna"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti agpulongpulong"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "dagiti agpulongpulong"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "a pagbalinen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "binalinanda"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "dagiti agpulongpulong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T03:25:59.039564524Z",
+  "model": "glm-5.3"
+}

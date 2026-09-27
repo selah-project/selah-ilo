@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "ket nagna kadagiti dalan dagiti ari ti Yisrael, ket nagaramid met kadagiti natunaw a ladawan para kadagiti Baal.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ket nagna"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "kadagiti dalan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket met"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "dagiti natunaw a ladawan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagaramid"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "para kadagiti Baal"
+    }
+  ],
+  "timestamp": "2026-09-26T23:54:22.231044937Z",
+  "model": "glm-5.3"
+}

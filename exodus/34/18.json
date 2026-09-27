@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ti fiesta ti tinapay nga awan lebadura salaknibem ⟨את⟩; iti pito nga aldaw mangananka ti tinapay nga awan lebadura, a nabilinak kenka, iti naisagana a tiempo, iti bulan ti Abib; ta iti bulan ti Abib immayka a ruar manipud iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti fiesta ti tinapay nga awan lebadura"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fiesta"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ti tinapay nga awan lebadura"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "salaknibem"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangananka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tinapay nga awan lebadura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "nabilinak"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "iti naisagana a tiempo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ti Abib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ti Abib"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "immayka a ruar"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T04:35:52.575243677Z",
+  "model": "glm-5.3"
+}

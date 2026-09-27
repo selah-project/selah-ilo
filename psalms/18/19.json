@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Simmarungkarda kaniak iti aldaw ti didigrafiak, ngem ni Yahweh nagbalin a salaknibannak — saan, a salaknib kaniak.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "simmarungkarda kaniak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "ti didigrafiak"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ngem nagbalin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "a salaknib"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:56:01.594536621Z",
+  "model": "glm-5.3"
+}

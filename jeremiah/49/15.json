@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Ta kitaem, bassit ti inikkak kadagiti nasion, ken makabaawka kadagiti tao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ti inikkak"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti nasion"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "ken makabaawka"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kadagiti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T17:53:09.006506398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ti lakay ken ti nakaawat ti rupa, isu ti ulo; ken ti propeta a mangisuro iti saan a pudno, isu ti ipus.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "ti lakay"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "ken ti nakaawat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ti rupa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ket ti propeta"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "a mangisuro"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "iti saan a pudno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "ti ipus"
+    }
+  ],
+  "timestamp": "2026-09-26T14:32:52.448853033Z",
+  "model": "glm-5.3"
+}

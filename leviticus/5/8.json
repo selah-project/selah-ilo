@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket itedna ⟨אתם⟩ iti padi, ket iparuarna ⟨את⟩ ti umuna para iti basol a daton, ket sipuenna ⟨את⟩ ti ulona manipud iti sanguanan ti tengngenna, ken saan a pagbingayanna.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ket itedna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dagiti kalapati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ket iparuarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "para iti basol a daton"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "ti umuna"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ket sipuenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulona"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ti ulona"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "manipud iti sanguanan"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "ti tengngenna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "pagbingayanna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:07:53.408441625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Inted ni Aharon ⟨את⟩ ti imana iti rabaw dagiti danum ti Mitsrayim, ket immay dagiti baka-baka ket binalkotanda ⟨את⟩ ti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "inted"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "dagiti danum"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "dagiti baka-baka"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ket binalkotanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:41:40.343477384Z",
+  "model": "glm-5.3"
+}

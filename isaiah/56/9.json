@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Amin a sibibiag nga animal iti talon, umaykayo a mangmangan, amin a sibibiag nga animal iti kakatuan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "a sibibiag nga animal"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "umaykayo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "a mangmangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "a sibibiag nga animal"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "iti kakatuan"
+    }
+  ],
+  "timestamp": "2026-09-26T15:48:16.462588400Z",
+  "model": "glm-5.3"
+}

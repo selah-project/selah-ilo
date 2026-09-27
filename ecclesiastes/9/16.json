@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket kinunak: Nasaysayaat ti kinasirib ngem ti bileg; ngem ti kinasirib ti pobre ket mabasa, ken dagiti saona saan a nangngegen.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "ket kinunak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nasaysayaat"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti kinasirib"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "ngem ti bileg"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "ngem ti kinasirib"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "ti pobre"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ken dagiti saona"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "nangngegen"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:50.112626616Z",
+  "model": "glm-5.3"
+}

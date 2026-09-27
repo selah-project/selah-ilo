@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 143,
+  "translation": "Tarayen, sungbatannak, Yahweh; maungpay ti angesko; saanmo a ilemmeng ti rupam kaniak, no kasta agpadaak kadagiti agbaba iti liwang.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Tarayen"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sungbatannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "maungpay"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ti angesko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "a ilemmeng"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "no kasta agpadaak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "agbaba"
+    },
+    {
+      "surface": "בור",
+      "gloss": "iti liwang"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:13.934620347Z",
+  "model": "glm-5.3"
+}

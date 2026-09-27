@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Agyaman da kenni Yahweh gapu iti hesedna, ken kadagiti pasingkedna para kadagiti anak ti tao.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Agyaman da"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "gapu iti hesedna"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ken kadagiti pasingkedna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para kadagiti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:43.856459673Z",
+  "model": "glm-5.3"
+}

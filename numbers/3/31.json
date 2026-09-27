@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 3:31",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken ti salaknibenda: ti arko, ken ti lamisaan, ken ti lampara, ken dagiti altar, ken dagiti kasangkapan ti nasantoan a serbiranda iti dagitoy, ken ti masakh, ken amin a serbina.",
+  "tokens": [
+    {
+      "surface": "ומשמרתם",
+      "gloss": "ken ti salaknibenda"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arko"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "ken ti lamisaan"
+    },
+    {
+      "surface": "והמנרה",
+      "gloss": "ken ti lampara"
+    },
+    {
+      "surface": "והמזבחת",
+      "gloss": "ken dagiti altar"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ken dagiti kasangkapan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantoan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "serbiranda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iti dagitoy"
+    },
+    {
+      "surface": "והמסך",
+      "gloss": "ken ti masakh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "serbina"
+    }
+  ],
+  "timestamp": "2026-09-26T06:08:23.208586201Z",
+  "model": "glm-5.3"
+}

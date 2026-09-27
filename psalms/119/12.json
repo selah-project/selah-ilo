@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Bendisionka, sika nga Yahweh; isursurmoakon dagiti bilinmo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bendisionka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "isursurmoakon"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dagiti bilinmo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:36.184552607Z",
+  "model": "glm-5.3"
+}

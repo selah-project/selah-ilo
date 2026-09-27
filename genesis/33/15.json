@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Kinuna ni Esav: Ibatiak ngata kaniak kadagiti tattao a ⟨את⟩ adda kaniak. Ket kinunana: Apay daytoy? Makabirukak ti tiempo iti matmatanan ni apok.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "Ibatiak"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngata"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tattao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tattao a adda kaniak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "Makabirukak"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ti tiempo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti matmatanan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni apok"
+    }
+  ],
+  "timestamp": "2026-09-26T02:38:35.764633106Z",
+  "model": "glm-5.3"
+}

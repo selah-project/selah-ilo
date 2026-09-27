@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Ti intero nga aldaw dinayawdak dagiti kabusok; dagiti nakairuam kaniak nagsumpada.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ti intero"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "dinayawdak"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dagiti kabusok"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "dagiti nakairuam"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "nagsumpada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:28.496117214Z",
+  "model": "glm-5.3"
+}

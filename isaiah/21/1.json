@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Masolho ti kaatapan ti baybay: kas dagiti angin a timpuyok iti Negev nga agballasiw — immay dayta manipud iti kaatapan, manipud iti daga a nakabutengan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "masolho"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ti kaatapan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "kas dagiti angin a timpuyok"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "iti Negev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "nga agballasiw"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "manipud iti kaatapan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "a nakabutengan"
+    }
+  ],
+  "timestamp": "2026-09-26T14:48:51.172527473Z",
+  "model": "glm-5.3"
+}

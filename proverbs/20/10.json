@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Bato ken sabali a bato, eipah ken sabali a eipah — kasukod a rupa kenni Yahweh dagitoy dua.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ken sabali a bato"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eipah"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ken sabali a eipah"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kasukod a rupa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dua pay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:41:12.099845301Z",
+  "model": "glm-5.3"
+}

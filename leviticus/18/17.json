@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ti lamolamo ti babai ken ti anakna a babai saanmo a luktan; ⟨ti⟩ anak a babai ti anakna a lalaki ken ⟨את⟩ ti anak a babai ti anakna a babai saanmo nga alaen a mangluktan ti lamolamona; kabagian a babaina dagitoy; dakes nga aramid daytoy.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "lamolamo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babai"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "ken ti anakna a babai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "luktam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anak a babai"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ti anakna a lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti anak a babai"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "ti anakna a babai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "a mangluktan"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "lamolamona"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "kabagian a babaina"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "dakes nga aramid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T05:38:20.473955079Z",
+  "model": "glm-5.3"
+}

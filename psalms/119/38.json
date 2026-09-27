@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ipatakdermo ti saom kadagiti adipenmo, a maipapan iti panagbuteng kenka.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Ipatakdermo"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kadagiti adipenmo"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ti saom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "maipapan iti panagbuteng kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:29.460549695Z",
+  "model": "glm-5.3"
+}

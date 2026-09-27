@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Isu ti nangipatakder ⟨את⟩ ti Eilat ken naisublina iti Yehudah, kalpasan a nakatogawi ti ari kadagiti amana.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nangipatakder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Eilat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ti Eilat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "naisublina"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "iti Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan a"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nakatogawi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "amana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:43:06.555729166Z",
+  "model": "glm-5.3"
+}

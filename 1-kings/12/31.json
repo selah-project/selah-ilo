@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket inaramidna ⟨את⟩ ti balay kadagiti nangato a lugar, ken inaramidna dagiti padi manipud kadagiti patingga ti umili, a saan nga isuda manipud kadagiti anak ni Levi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "במות",
+      "gloss": "kadagiti nangato a lugar"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramidna"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "manipud kadagiti patingga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngaan isuda"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "manipud kadagiti anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    }
+  ],
+  "timestamp": "2026-09-26T12:50:18.838520678Z",
+  "model": "glm-5.3"
+}

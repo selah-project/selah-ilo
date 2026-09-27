@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Siak, ni Kohelet, nagbalinak nga ari ti Yisrael iti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ni Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nagbalinak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ngga ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:29.941623634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ken ti ubasanmo saanmo a daluson amin, ken dagiti natumba a bunga ti ubasanmo saanmo a puloten; para kadagiti impan ken ti aggianan nga italinaedmo kadakuada; siak Yahweh ti Elohim yo.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "ken ti ubasanmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "daluson amin"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "ken dagiti natumba a bunga"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ti ubasanmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "puloten"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "para kadagiti impan"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ken ti aggianan"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "italinaedmo kadakuada"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dagiti impan ken ti aggianan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohim yo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:35:04.743550880Z",
+  "model": "glm-5.3"
+}

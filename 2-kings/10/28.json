@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket ni Yehu dinadaelna ⟨את⟩ ti Baal manipud iti Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "dinadaelna"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ti Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "manipud iti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T13:35:11.665552272Z",
+  "model": "glm-5.3"
+}

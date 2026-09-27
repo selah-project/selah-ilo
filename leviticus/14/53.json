@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ipalubosna ti sibibiag a billit ⟨iti ruar⟩ ti ili, iti rupa ti talon, ken paayanna ti ⟨את⟩ balay, ket nalinis daytoyen.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ipalubosna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti billit"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ti billit"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sibibiag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ruar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "paayanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "nalinis"
+    }
+  ],
+  "timestamp": "2026-09-26T05:23:50.869017620Z",
+  "model": "glm-5.3"
+}

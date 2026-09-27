@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 141,
+  "translation": "Iyegmo, Yahweh, ti salaknib iti ngiwatko; salaknibanna ti ruangan dagiti bibigko.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Iyegmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ti salaknib"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "iti ngiwatko"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "salaknibanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ruangan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dagiti bibigko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:59.164610235Z",
+  "model": "glm-5.3"
+}

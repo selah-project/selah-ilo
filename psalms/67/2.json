@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 67,
+  "translation": "Ni Elohim agasi koma kaniakami ken bendisionannakami koma, palstiawananna koma ti rupana ⟨את⟩ kaduakami. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ni Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "agasi koma kaniakumi"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ken bendisionannakami koma"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "palstiawananna koma"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kaduakami"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:38:04.466822483Z",
+  "model": "glm-5.3"
+}

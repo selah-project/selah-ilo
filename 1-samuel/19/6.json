@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket nangngeg ni Shaul iti timek ni Yehonatan, ket nangisaad iti sumpa ni Shaul: Agsibibiag ni Yahweh — saan a pulos a mapatay.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ket nangngeg"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ket nangisaad iti sumpa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Agsibibiag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "saan a pulos"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a mapatay"
+    }
+  ],
+  "timestamp": "2026-09-26T10:58:15.055756179Z",
+  "model": "glm-5.3"
+}

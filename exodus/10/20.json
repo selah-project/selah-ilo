@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Pinigsaan ni Yahweh ⟨את⟩ ti puso ni Paro, ket saan nga immandana ⟨את⟩ dagiti anak a lalaki ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "pinigsaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti puso ni Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nga immandana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak a lalaki ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T03:43:54.054359315Z",
+  "model": "glm-5.3"
+}

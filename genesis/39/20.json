@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Inalana ti apo ni Yosef ⟨את⟩ ken inkabilna iti balay ti pagturungan, ti disso a nakadenaen dagiti balud ti ari, ket ⟨nagnaed⟩ sadiay iti balay ti pagturungan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ti apo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "inkabilna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ti pagturungan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ti disso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "dagiti balud"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "nakadenaen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ti pagturungan"
+    }
+  ],
+  "timestamp": "2026-09-26T02:59:57.993872798Z",
+  "model": "glm-5.3"
+}

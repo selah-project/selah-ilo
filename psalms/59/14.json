@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Dadaelenda ⟨iti⟩ rang-ay, dadaelenda ken awananda; ket ammoda a ni Elohim ti agturay iti Yaakov, agingga kadagiti patingga ti daga. Selah.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "dadaelenda"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "iti rang-ay"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dadaelenda"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "ken awananda"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ket ammoda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ti agturay"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "iti Yaakov"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "agingga kadagiti patingga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:44.879952959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ket agsubli ni Ravshakeh, ket nakitana ⟨את⟩ ti ari ti Ashur a makilablaban iti Libnah, ta nangngegna a immakar manipud iti Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ket agsubli"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Ravshakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ket nakitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ari ti Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "makilablaban"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngegna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "immakar"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "manipud iti Lakhish"
+    }
+  ],
+  "timestamp": "2026-09-26T15:18:16.411081592Z",
+  "model": "glm-5.3"
+}

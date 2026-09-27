@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Kinunak: Elko, saanmo koma akon a alaen idi baetan dagiti aldawko; iti kaputotan kadagiti kaputotan ⟨ti⟩ dagiti tawenmo.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "alaenmo akon"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "idi baetan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldawko"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "iti kaputotan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "kadagiti kaputotan"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "dagiti tawenmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:42.284814632Z",
+  "model": "glm-5.3"
+}

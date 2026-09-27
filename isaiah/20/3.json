@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket kinuna ni Yahweh: Kasla ti panagna ti adipenko a ni Yeshayahiu a lamolamo ken awan sapatos iti tallo a tawen, a tanda ken pammagbaga maibusor iti Mitsrayim ken maibusor iti Kush.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kasla"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ti panagna"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ti adipenko"
+    },
+    {
+      "surface": "יישעיהו",
+      "gloss": "a ni Yeshayahiu"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "a lamolamo"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "ken awan sapatos"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "iti tallo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "אות",
+      "gloss": "a tanda"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "ken pammagbaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "maibusor iti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken maibusor iti"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-26T14:50:01.943129850Z",
+  "model": "glm-5.3"
+}

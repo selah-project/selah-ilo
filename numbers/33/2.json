@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Insurat ni Moshe ⟨את⟩ dagiti panagruarna segun kadagiti panagbaniagada, babaen ti bilin ni Yahweh; ken dagitoy dagiti panagbaniagada segun kadagiti panagruaranda.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Insurat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti panagruarna"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "dagiti panagruarna"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "segun kadagiti panagbaniagada"
+    },
+    {
+      "surface": "על",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ken dagitoy"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "dagiti panagbaniagada"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "segun kadagiti panagruaranda"
+    }
+  ],
+  "timestamp": "2026-09-26T07:25:09.564714224Z",
+  "model": "glm-5.3"
+}

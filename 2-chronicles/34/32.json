@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Pinatakderna ⟨את⟩ amin a nabirukan iti Yerushalayim ken iti Binyamin, ket inaramid dagiti agnanaed ti Yerushalayim kalpasan ti tulag ti Elohim, ti Elohim dagiti ammada.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "pinatakderna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a nabirukan iti Yerushalayim ken iti Binyamin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a nabirukan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ken iti Binyamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ket inaramid"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "kalpasan ti tulag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "dagiti ammada"
+    }
+  ],
+  "timestamp": "2026-09-26T23:56:46.455994916Z",
+  "model": "glm-5.3"
+}

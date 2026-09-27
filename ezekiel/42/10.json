@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Iti kalawa ti diker ti liwa, iti dalan ti daya, iti rupa ti naisina a lugar ken iti rupa ti pasdek, dagiti kuarto.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "iti kalawa"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ti diker"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti liwa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ti daya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "ti naisina a lugar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "ti pasdek"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "dagiti kuarto"
+    }
+  ],
+  "timestamp": "2026-09-26T19:13:02.223888842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ken ti maikatlo a linia: leshem, shevo ken ahlamah.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ken ti linia"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "leshem"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "shevo"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ken ahlamah"
+    }
+  ],
+  "timestamp": "2026-09-26T04:43:54.755985539Z",
+  "model": "glm-5.3"
+}

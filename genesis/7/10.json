@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket napasamak, kalpasan ti pito nga aldaw, a ti danum ti layus ket adda idi iti daga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "kalpasan ti pito a"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ken ti danum"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ti layus"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adda idi"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T01:46:30.624615321Z",
+  "model": "glm-5.3"
+}

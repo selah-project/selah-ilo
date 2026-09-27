@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ken ni Yahweh ti Elohim yo, isu ti mangidadael kadakuada manipud iti sango yo, ken mangibbet kadakuada ⟨את⟩ manipud iti sango yo; ket tungpalen yo ⟨את⟩ ti daga da, kas iti insao ni Yahweh ti Elohim yo kadakayo.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ken ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohim yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "mangidadael kadakuada"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "manipud iti sango yo"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "ken mangibbet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "manipud iti sango yo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ket tungpalen yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga da"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ti daga da"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "insao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohim yo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T09:30:54.755275934Z",
+  "model": "glm-5.3"
+}

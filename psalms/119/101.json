@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Manipud iti amin a dakes a dalan pinuuranak dagiti sakaak, tapno salaknibennak ti saom.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "manipud iti amin"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "pinuuranak"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "dagiti sakaak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "salaknibennak"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ti saom"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:23.156656162Z",
+  "model": "glm-5.3"
+}

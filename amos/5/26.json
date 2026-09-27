@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "ket inbaybay-onyo ⟨את⟩ si Sikkut, ti ariyo, ken ⟨את⟩ si Kiun, dagiti ladawanyo, ti bituen dagiti diosyo, a inaramidyo kadakayo.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "ket inbaybay-onyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sikkut, ti ariyo"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "si Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "ti ariyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "si Kiun, dagiti ladawanyo"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "si Kiun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "dagiti ladawanyo"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "ti bituen"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "dagiti diosyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "inaramidyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T19:52:42.570536183Z",
+  "model": "glm-5.3"
+}

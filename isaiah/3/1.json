@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ta kitaen, ti Apo a ni Yahweh Tsevaot mangikkat manipud iti Yerushalayem ken manipud iti Yehudah ti suporta ken ti pagtengngayan, amin a suporta ti tinapay ken amin a suporta ti danum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "ti Apo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "mangikkat"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "manipud iti Yerushalayem"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "ken manipud iti Yehudah"
+    },
+    {
+      "surface": "משען",
+      "gloss": "ti suporta"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "ken ti pagtengngayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "משען",
+      "gloss": "suporta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "משען",
+      "gloss": "suporta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T14:20:21.586682083Z",
+  "model": "glm-5.3"
+}

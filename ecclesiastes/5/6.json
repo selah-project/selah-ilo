@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ta iti kaadu dagiti an-annip ken biddaw ken adu a sao; ta ⟨את⟩ ni Elohim butengem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "iti kaadu"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "dagiti an-annip"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ken biddaw"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ken sao"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "adu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "butengem"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:15.691947012Z",
+  "model": "glm-5.3"
+}

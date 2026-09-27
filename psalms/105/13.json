@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Nagsursorda manipud iti umili agingga iti umili, manipud iti pagarian agingga iti umili a sabali.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "nagsursorda"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "manipud iti umili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "umili"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "manipud iti pagarian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "a sabali"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:21.632186190Z",
+  "model": "glm-5.3"
+}

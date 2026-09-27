@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Bendisionandakayo ni Yahweh, amin a dagiti buyotna; dagiti adipenna, dagiti agaramid iti kayatna.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bendisionandakayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "a dagiti buyotna"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "dagiti agaramid"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "iti kayatna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:08.097845451Z",
+  "model": "glm-5.3"
+}

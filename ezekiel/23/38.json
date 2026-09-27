@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Pay daytoy ti inaramidda kaniak: rinaugitanda ⟨את⟩ ti nasantuan a lugarko iti dayta nga aldaw, ket ⟨את⟩ dagiti Shabbatok binainanda.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Pay"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "rinaugitanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nasantuan a lugarko"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ti nasantuan a lugarko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ket ⟨את⟩",
+      "marks": "dagiti Shabbatok"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "dagiti Shabbatok"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "binainanda"
+    }
+  ],
+  "timestamp": "2026-09-26T18:43:14.599955086Z",
+  "model": "glm-5.3"
+}

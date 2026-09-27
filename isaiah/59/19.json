@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 59:19",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Ket agbutengda manipud iti laud ⟨iti⟩ ⟨את⟩ ti nagan ni Yahweh, ken manipud iti pagsirangan ti init ⟨iti⟩ ⟨את⟩ ti daydayawna; ta sumrek ti kabusor a kas karayan, ti Espiritu ni Yahweh mangitalaw iti dayta.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ket agbutengda"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "manipud iti laud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וממזרח",
+      "gloss": "ken manipud iti pagsirangan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daydayawna"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ti daydayawna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "a kas karayan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ti kabusor"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti Espiritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נססה",
+      "gloss": "mangitalaw"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:08:36.850878952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 33:21",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "masuktiranto met ti tulakko ⟨את⟩ kenn David nga adipenko, nga awanenna iti anak a mangituray iti tronona, ken ⟨את⟩ dagiti Levita, dagiti padi, a mangiserbi kadakuak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulakko"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "masuktiranto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenn David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "adipenko"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "iti panagbalin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a mangituray"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tronona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levita"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "a mangiserbi kadakuak"
+    }
+  ],
+  "timestamp": "2026-09-26T17:23:03.473775132Z",
+  "model": "glm-5.3"
+}

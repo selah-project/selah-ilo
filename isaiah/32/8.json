@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ngem ti nalawa nangikeddeng kadagiti nalawa a banag, ket iti nalawa a banag isu agtakder.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "ngem ti nalawa"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "kadagiti nalawa a banag"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "nangikeddeng"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ket isuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "nalawa a banag"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "agtakder"
+    }
+  ],
+  "timestamp": "2026-09-26T15:04:29.654664130Z",
+  "model": "glm-5.3"
+}

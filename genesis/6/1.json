@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Nalpasen a nagrugi ti tattao nga adraddadu iti rupa ti daga, ket naiyanak dagiti anak a babai kadakuada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nalpasen a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "החל",
+      "gloss": "nagrugi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "nga adraddadu"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ket dagiti anak a babai"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "naiyanak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:26.629460888Z",
+  "model": "glm-5.3"
+}

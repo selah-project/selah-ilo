@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket iparuarok ⟨ti⟩ imak ket lagaokenko ti Mitsrayim babaen kadagiti amin a kaginaok aparmiden a maipapan iti unegna; kalpasanna itultuloyanna ⟨ti⟩ panangibbawi koma.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ket iparuarok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "imak"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ket lagaokenko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "babaen kadagiti amin"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "kaginaok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aparmiden"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "iti unegna"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "itultuloyanna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:33:52.384643302Z",
+  "model": "glm-5.3"
+}

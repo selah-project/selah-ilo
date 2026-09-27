@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 108,
+  "translation": "Mataragka, nevel ken kinnor; ipataragkak ti bannawag.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Mataragka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ken kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ipataragkak"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ti bannawag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:40.881126364Z",
+  "model": "glm-5.3"
+}

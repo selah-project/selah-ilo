@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 14:9",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "No ti propeta, no maallilaw <no nagsao iti sao> — siak a Yahweh, siak ti nakaililaw ⟨את⟩ ti propeta a dayta, ket intayabko ⟨את⟩ ti imak kadakuana, ket dadaelenkon <kenkuana> manipud iti tengnga ti umilik a Yisrael.",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "ken ti propeta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "maallilaw"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iti sao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתיתי",
+      "gloss": "ti nakaililaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti propeta"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ti propeta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "a dayta"
+    },
+    {
+      "surface": "ונטיתי",
+      "gloss": "ket intayabko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ti imak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "והשמדתיו",
+      "gloss": "ket dadaelenkon"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "manipud iti tengnga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti umilik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T18:20:55.675397349Z",
+  "model": "glm-5.3"
+}

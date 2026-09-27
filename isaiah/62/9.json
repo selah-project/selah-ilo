@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Ta dagiti agurnong kanno ket manganandanto, ket daydayawendanto ⟨את⟩ ni Yahweh, ket dagiti agtitipon kanno ket uminumandanto iti dagiti sangoan ti nasantuakon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "dagiti agurnong kanno"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "manganandanto"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "ket daydayawendanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "ket dagiti agtitipon kanno"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "uminumandanto"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "iti dagiti sangoan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ti nasantuakon"
+    }
+  ],
+  "timestamp": "2026-09-26T15:57:23.156747159Z",
+  "model": "glm-5.3"
+}

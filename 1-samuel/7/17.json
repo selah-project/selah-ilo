@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ti panagsublina ket idiay Ramah, ta sadiay ti balayna, ket sadiay dinipatna ⟨את⟩ ti Yisrael, ken nagbangon sadiay iti altar kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "panagsublina"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "idiay Ramah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balayna"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ket sadiay"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dinipatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "nagbangon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T10:28:36.784100523Z",
+  "model": "glm-5.3"
+}

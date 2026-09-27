@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ken aramidenmo ti limapulo a krampit a balitok, ket ikapetmo ⟨את⟩ dagiti kurtina, ti maysa iti kabsatna a babai, babaen kadagiti krampit; ket agbalin ti Mishkan a maysa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ken aramidenmo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limapulo"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "krampit"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "ken ikapetmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kurtina"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dagiti kurtina"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "kabsatna a babai"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "babaen kadagiti krampit"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T04:18:09.757400955Z",
+  "model": "glm-5.3"
+}

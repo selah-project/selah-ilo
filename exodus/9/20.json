@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ti mabuteng ⟨iti⟩ ⟨את⟩ sao ni Yahweh, kadagiti adipen ni Paro, inpannana ⟨את⟩ dagiti adipenna ken ⟨את⟩ ti darassana iti ⟨dagiti⟩ balbalay.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "ti mabuteng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sao ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "kadagiti adipen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "inpannana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti adipenna"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti darassana"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ti darassana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "balbalay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:41:16.561888486Z",
+  "model": "glm-5.3"
+}

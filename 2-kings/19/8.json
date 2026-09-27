@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket agsubli ni Ravshakeh ket nakitana ⟨את⟩ ti ari ti Ashur a makigubat iti Livanah, ta nangngeganna a naganumen manipud iti Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ket agsubli"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ket nakitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ari ti Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "a makigubat"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livanah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeganna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "naganumen"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "manipud iti Lakhish"
+    }
+  ],
+  "timestamp": "2026-09-26T22:08:34.463431260Z",
+  "model": "glm-5.3"
+}

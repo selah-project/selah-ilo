@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket kasta ti aramidenna para kadagiti amin a ganganaet nga asawana, nga agipasda iti insenso ken agsakripisio kadagiti didiosenda.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ket kasta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti aramidenna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para kadagiti amin"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "a asawana"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "a ganganaet"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "nga agipasda iti insenso"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "ken agsakripisio"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "kadagiti didiosenda"
+    }
+  ],
+  "timestamp": "2026-09-26T12:45:30.838625613Z",
+  "model": "glm-5.3"
+}

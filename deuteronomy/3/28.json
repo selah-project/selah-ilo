@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Bilinam ⟨את⟩ ni Yehoshua, pabilegam ken paingelam; ta isuna ti lumabas iti sanguan ti umili daytoy, ken isuna ti ipatawidanna ⟨את⟩ da ⟨את⟩ ti daga a kitam.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "Bilinam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "pabilegam"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "ken paingelam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ken isuna"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "ipatawidanna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ da",
+      "marks": "da (dagiti umili)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kitam"
+    }
+  ],
+  "timestamp": "2026-09-26T07:36:54.234273427Z",
+  "model": "glm-5.3"
+}

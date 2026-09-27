@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken ⟨את⟩ ni Aharon ken ⟨את⟩ dagiti anakna ikabilmo a mangsalaknib ⟨את⟩ iti padianda; ket ti saan a padi a sumangab ket patayen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ikabilmo"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "a mangsalaknib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti padianda"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "iti padianda"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ket ti saan a padi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a sumangab"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ket patayen"
+    }
+  ],
+  "timestamp": "2026-09-26T06:06:01.342738933Z",
+  "model": "glm-5.3"
+}

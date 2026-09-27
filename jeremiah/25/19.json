@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "⟨את⟩ ni Paro ari ti Mitsrayim ken ⟨את⟩ dagiti adipenna ken ⟨את⟩ dagiti pangulona ken ⟨את⟩ amin ti umilina.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti adipenna"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pangulona"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "dagiti pangulona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin ti umilina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    }
+  ],
+  "timestamp": "2026-09-26T17:07:44.585804410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Dakkel a kanito! ti ribuk ti adu a umili, a rumaragsak a kas ti risiris ti baybay; ken ti panagtignay dagiti pagilian — a kas ti bawang ti napigsa a danum — agbawanganda.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Dakkel a kanito!"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ti ribuk"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ti adu a umili"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "a kas ti risiris"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "rumaragsak"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "ken ti panagtignay"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "a kas ti bawang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "agbawanganda"
+    }
+  ],
+  "timestamp": "2026-09-26T14:44:23.906172827Z",
+  "model": "glm-5.3"
+}

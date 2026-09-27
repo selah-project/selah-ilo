@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 15:16",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Idi, dinna ni Menachem ⟨את⟩ ti Tiphsah ken ⟨את⟩ amin nga adda kadakuana ken ⟨את⟩ dagiti pagbeddenganna manipud iti Tirtsa, ta saananda a naglukat kenkuana, ket dinna ⟨את⟩ amin a dagiti mabalisod a babai, binakagna.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Idi"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "ni Menachem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Tiphsah"
+    },
+    {
+      "surface": "תפסח",
+      "gloss": "Tiphsah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "adda kadakuana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pagbeddenganna"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "dagiti pagbeddenganna"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "manipud iti Tirtsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saananda"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "naglukat"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ket dinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a dagiti mabalisod a babai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "ההרותיה",
+      "gloss": "dagiti mabalisod a babai"
+    },
+    {
+      "surface": "בקע",
+      "gloss": "binakagna"
+    }
+  ],
+  "timestamp": "2026-09-26T13:48:39.744170355Z",
+  "model": "glm-5.3"
+}

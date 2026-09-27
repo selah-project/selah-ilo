@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ni Yahweh manipud iti langit kinita ti anak ti tao, nga kitaen no adda maysa a makaammo, maysa nga agbiruk ⟨את⟩ iti Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "manipud iti langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "kinita nga agpalned"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nga kitaen"
+    },
+    {
+      "surface": "היש",
+      "gloss": "no adda"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maysa a makaammo"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "agbiruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:17.392923002Z",
+  "model": "glm-5.3"
+}

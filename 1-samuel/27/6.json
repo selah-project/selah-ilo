@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ket inted na kaniana ni Akish iti dayta nga aldaw ⟨את⟩ Tsiklag; kasta nga immay Tsiklag a tagikua dagiti ari ni Yehudah agingga iti daytoy nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ket inted"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na kaniana"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ni Akish"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti dayta nga aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨dayta⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "kasta nga"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "immay"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "a tagikua dagiti ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daytoy nga aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨daytoy⟩"
+    }
+  ],
+  "timestamp": "2026-09-26T11:16:04.810656577Z",
+  "model": "glm-5.3"
+}

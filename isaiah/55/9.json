@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "Ta nangatngato unay dagiti langit ngem ti daga, kasta met ti nangatngato dagiti dalanko kadagiti dalanyo, ken dagiti kapanunotanko kadagiti kapanunotanyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "nangatngato unay"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ngem ti daga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta met"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "nangatngato"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dagiti dalanko"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "kadagiti dalanyo"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "ken dagiti kapanunotanko"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "kadagiti kapanunotanyo"
+    }
+  ],
+  "timestamp": "2026-09-26T15:49:48.452551335Z",
+  "model": "glm-5.3"
+}

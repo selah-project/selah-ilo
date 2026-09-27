@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ti kinapudno ken ti kinalinteg ti agsalaknib kaniak, ta nakaur-urayak Kenka.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "kinapudno"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ken ti kinalinteg"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ti agsalaknib kaniak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "nakaur-urayak Kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:26.205027758Z",
+  "model": "glm-5.3"
+}

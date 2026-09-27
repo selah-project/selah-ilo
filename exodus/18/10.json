@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kinuna ni Yitro: Bendisionaan ni Yahweh, a nagdissuar ⟨אתכם⟩ kadakayo manipud iti ima ti Mitsrayim ken manipud iti ima ni Paro, a nagdissuar ⟨את⟩ ti umili babaen ti ima ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ni Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Bendisionaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "nagdissuar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ken manipud iti ima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "nagdissuar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ti ima"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T04:02:05.247985722Z",
+  "model": "glm-5.3"
+}

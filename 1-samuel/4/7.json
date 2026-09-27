@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket nabaludandanag dagiti Pelishtio, ta kinunada: Immay ti Elohim iti kampo. Ket kinunada: Away kadakami! ta saan a napasamak ti kastoy idi kalman ken sakbay ti kalman.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nabaludandanag"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "dagiti Pelishtio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Immay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Away"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ti kastoy"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "idi kalman"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ken sakbay ti kalman"
+    }
+  ],
+  "timestamp": "2026-09-26T10:34:00.133886898Z",
+  "model": "glm-5.3"
+}

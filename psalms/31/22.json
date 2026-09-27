@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Madaydayawka a Yahweh, ta naisangayan ti hesedna kaniak iti maysa a ili a nasged.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Madaydayawka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "naisangayan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti maysa a ili"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "a nasged"
+    }
+  ],
+  "timestamp": "2026-09-26T21:05:54.986989854Z",
+  "model": "glm-5.3"
+}

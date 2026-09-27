@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ket nagined ni Esav iti bantay Seir — ni Esav, isu ti Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ket nagined"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    }
+  ],
+  "timestamp": "2026-09-26T02:46:20.159175506Z",
+  "model": "glm-5.3"
+}

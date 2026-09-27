@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kinuana ni Yitro, apo a babai ni Moshe, ⟨את⟩ ni Tsipora, asawa ni Moshe, kalpasan ti panangibbuyongna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ni Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "apo a babai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "ni Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ti panangibbuyongna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:04:57.897019223Z",
+  "model": "glm-5.3"
+}

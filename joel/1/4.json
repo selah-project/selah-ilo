@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti nabati ti gazam, inkan ti arbei; ket ti nabati ti arbei, inkan ti yelek; ket ti nabati ti yelek, inkan ti khasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Ti nabati"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "ti gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "inkan"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ti arbei"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ket ti nabati"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ti arbei"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "inkan"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "ti yelek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ket ti nabati"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "ti yelek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "inkan"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "ti khasil"
+    }
+  ],
+  "timestamp": "2026-09-26T19:43:10.368199233Z",
+  "model": "glm-5.3"
+}

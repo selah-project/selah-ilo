@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Kinuna ni Yisrael: Apay a dinakayo a dakes kaniak, a mangibaga iti tao no adda pay kadakayo a kabsat?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "dinakayo a dakes"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "a mangibaga"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "no adda pay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "אח",
+      "gloss": "kabsat"
+    }
+  ],
+  "timestamp": "2026-09-26T03:08:16.183782042Z",
+  "model": "glm-5.3"
+}

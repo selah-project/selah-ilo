@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Naipakaammuan iti balay ni David, a kunana: Naginana ti Aram iti Efrayim, ket naginnog ti pusona ket ti peso ti umilina, a kas ti panaginnog dagiti kayo iti kakayuan gapu iti angin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "naipakaammuan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "naginana"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "ket naginnog"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "ket ti peso"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "a kas ti panaginnog"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dagiti kayo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "iti kakayuan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-09-26T14:30:16.213222513Z",
+  "model": "glm-5.3"
+}

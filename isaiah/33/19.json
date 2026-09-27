@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Saanmo a makita ⟨את⟩ ti umili a napigsa, umili a naadalem ti dila a saan a maaw-awatan, dila a pinepeleng, awan ti pannakaawatanna.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umili a napigsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "a napigsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "mo a makita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "a naadalem"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ti dila"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "a saan a maaw-awatan"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "a pinepeleng"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ti pannakaawatanna"
+    }
+  ],
+  "timestamp": "2026-09-26T15:06:45.999566961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Imbagana: Ania ti inaramidmo? Ti timek ti dara ti kabsatmo agsisigaw kaniak manipud iti daga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "inaramidmo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "timek"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dara"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kabsatmo"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "agsisigaw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:13.333342730Z",
+  "model": "glm-5.3"
+}

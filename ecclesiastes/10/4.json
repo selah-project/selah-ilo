@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "No ti anges ti agturay sumanged kenka, saanmo a baybay-an ti dissom, ta ti pananginnaaw mangted inna kadagiti dakdakkel a basol.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "anges"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "ti agturay"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "sumanged"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "ti dissom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "baybay-anmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ti pananginnaaw"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "mangted inna"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "kadagiti basol"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "dakdakkel"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:30.156382464Z",
+  "model": "glm-5.3"
+}

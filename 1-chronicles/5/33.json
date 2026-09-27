@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ni Merayot nagputot ⟨את⟩ kenn Ammarya, ket ni Ammarya nagputot ⟨את⟩ kenn Akituv.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammarya"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Ammarya"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ket ni Ammarya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akituv"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:47.474054851Z",
+  "model": "glm-5.3"
+}

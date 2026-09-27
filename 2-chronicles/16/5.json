@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Idi nangngeg ni Baasha, linuktanna ti panagipatakder ⟨את⟩ ti Ramah ket pinardenna ⟨את⟩ ti trabahona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Idi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "linuktanna"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ti panagipatakder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Ramah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramah"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "pinardenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti trabahona"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ti trabahona"
+    }
+  ],
+  "timestamp": "2026-09-26T23:51:22.290378013Z",
+  "model": "glm-5.3"
+}

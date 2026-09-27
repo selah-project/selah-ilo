@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Kunak iti panagririimpek: ti amin a tao ket ulbod.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "iti panagririimpek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "a tao"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ulbod"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:06.960679201Z",
+  "model": "glm-5.3"
+}

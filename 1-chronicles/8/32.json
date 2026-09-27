@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 8:32",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket ni Miklot nagputot ⟨את⟩ ni Shimah; ket isuda met, iti sanguan dagiti kabsatda, nagnaedda iti Yerushalayim a kadua dagiti kabsatda.",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "ket ni Miklot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shimah"
+    },
+    {
+      "surface": "שמאה",
+      "gloss": "ni Shimah"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ket isuda met"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "dagiti kabsatda"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagnaedda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "dagiti kabsatda"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:50.661741422Z",
+  "model": "glm-5.3"
+}

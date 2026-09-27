@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Yahweh, iti ragsakmo intakdermo ti bantayko a bileg; inlemmengmo ti rupam, ket nagbalinak a mabuteng.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "iti ragsakmo"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "intakdermo"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "ti bantayko"
+    },
+    {
+      "surface": "עז",
+      "gloss": "a bileg"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "inlemmengmo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nagbalinak"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "a mabuteng"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:34.865942818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "ket napasamak, idi nangngeg ni Baasha, ket naginedel manipud iti panagipatakder ⟨את⟩ ti Rama, ket nagnaed iti Tirtzah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "idi nangngeg"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "naginedel"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "manipud iti panagipatakder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ti Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "iti Tirtzah"
+    }
+  ],
+  "timestamp": "2026-09-26T12:59:41.261137966Z",
+  "model": "glm-5.3"
+}

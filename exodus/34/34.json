@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "No ummay ni Moshe iti sanguanan ni Yahweh tapno makisarita ⟨את⟩ kenkuana, ikkatna ⟨את⟩ ti belo agingga nga immuar; ket immuar isuna ket imbagana kadagiti anak ni Yisrael ⟨את⟩ ti imbilinna.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "no ummay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "tapno makisarita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ikkatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti belo"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "ti belo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "ruaranna"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ket immuar"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ket imbagana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imbilinna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "imbilinna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:32:51.861783055Z",
+  "model": "glm-5.3"
+}

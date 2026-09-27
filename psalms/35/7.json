@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ta awan gapuna ilemmengda kaniak ti abut ken ti lawada; awan gapuna inkalkalda ⟨ti abut⟩ ti kararuak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "awan gapuna"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ilemmengda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ti abut"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "ken ti lawada"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "awan gapuna"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "inkalkalda"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ti kararuak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:09:27.166433982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ta insakbaymo kenkuana dagiti bendision nga naimbag, ket inkabilmo iti ulona korona iti napino a balitok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "insakbaymo kenkuana"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "dagiti bendision"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nga naimbag"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "inkabilmo"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "iti ulona"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korona"
+    },
+    {
+      "surface": "פז",
+      "gloss": "iti napino a balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:26.809415652Z",
+  "model": "glm-5.3"
+}

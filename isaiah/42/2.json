@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Saan a mangtangi ken saan a mangipangato ⟨ti timekna⟩, ken saan a pagbalinanna a maungar iti ruar ti timekna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "a mangtangi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a mangipangato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "a pagbalinanna a maungar"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ti timekna"
+    }
+  ],
+  "timestamp": "2026-09-26T15:30:26.103026820Z",
+  "model": "glm-5.3"
+}

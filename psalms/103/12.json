@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Kas ti kaadayo ti daya manipud iti laud, kasta ti inadayona ⟨את⟩ dagiti basoltayo manipud kadatayo.",
+  "tokens": [
+    {
+      "surface": "כרחוק",
+      "gloss": "kas ti kaadayo"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ti daya"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "manipud iti laud"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "kasta ti inadayona"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kadatayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti basoltayo"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "dagiti basoltayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:12.235614063Z",
+  "model": "glm-5.3"
+}

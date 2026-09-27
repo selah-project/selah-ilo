@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 84,
+  "translation": "Ta nasayaat ti maysa nga aldaw iti dagiti inggisanmo ngem sangaribu; pinilak ti agtakder iti sanguanan iti balay ti Elohimko, ngem ti agnaed kadagiti tolda ti dakes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "iti dagiti inggisanmo"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "ngem sangaribu"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "pinilak"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "ti agtakder iti sanguanan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohimko"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "ngem ti agnaed"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "kadagiti tolda"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:44.540809902Z",
+  "model": "glm-5.3"
+}

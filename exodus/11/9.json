@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kinuna ni Yahweh kenni Moshe: saan a dengngegen ni Paro kadakayo, tapno madakdakkel dagiti paradisonak iti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a dengngegen"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "madakdakkel"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "dagiti paradisonak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:37:47.975794662Z",
+  "model": "glm-5.3"
+}

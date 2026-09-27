@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 56:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Ken dagiti anak ti ganganaet a nakaisina kenni Yahweh, nga agserbi kenkuana ken nga ayaten ⟨את⟩ ti nagan ni Yahweh, nga agbalin nga adipenna, tunggal mangsalaknib iti Shabbat a saan a pagdakesenna, ken dagiti mangitalinaed iti tulagko —",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ken dagiti anak"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ti ganganaet"
+    },
+    {
+      "surface": "הנלוים",
+      "gloss": "a nakaisina"
+    },
+    {
+      "surface": "על",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "nga agserbi kenkuana"
+    },
+    {
+      "surface": "ולאהבה",
+      "gloss": "ken nga ayaten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "nga agbalin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ngadakuana"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "a dagiti adipen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tunggal"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mangsalaknib"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "iti Shabbat"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "a saan a pagdakesenna"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "ken dagiti mangitalinaed"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "iti tulagko"
+    }
+  ],
+  "timestamp": "2026-09-26T15:53:31.131599118Z",
+  "model": "glm-5.3"
+}

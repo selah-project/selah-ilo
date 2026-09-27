@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 63,
+  "translation": "Ti ari ket agsagsagana iti Elohim; tunggal maysa a agsumpa kadakuana ket agdaydayaw; ta ti ngiwat dagiti agsao iti Pacifico ket maiserraan.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "agsagsagana"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "agdaydayaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "a agsumpa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "maiserraan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwat"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "dagiti agsao"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "iti Pacifico"
+    }
+  ],
+  "timestamp": "2026-09-26T21:36:35.327176125Z",
+  "model": "glm-5.3"
+}

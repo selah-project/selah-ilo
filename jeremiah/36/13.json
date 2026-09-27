@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ket inbagana kandakuada ni Mikhayahu ⟨את⟩ amin dagiti sao a nangngegna idi agbasbasa ni Barukh iti libro kadagiti lapayag ti umili.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ket inbagana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kandakuada"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "ni Mikhayahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngegna"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "idi agbasbasa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ni Barukh"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "iti libro"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kadagiti lapayag"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T17:24:21.290231299Z",
+  "model": "glm-5.3"
+}

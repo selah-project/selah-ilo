@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ti agpatay iti ayup, ibayadna dayta; ken ti agpatay iti tao, patayenda.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Ti agpatay"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ayup"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "ibayadna dayta"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ken ti agpatay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "patayenda"
+    }
+  ],
+  "timestamp": "2026-09-26T05:49:55.716819961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Pukkawandatayo dagiti berebrenan: Itakmoyo ⟨את⟩ dagiti pappawisna ken italtalekanda.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Itakmoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pappawisna"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "dagiti berebrenan"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ken italtalekanda"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kennakuami"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "kadagiti sikoyna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:46:54.105360200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 98,
+  "translation": "Ipammati ni Yahweh ti panangisalakanna; iti sango dagiti mata dagiti umili inpaltiingna ti kinalintegnya.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "ipammati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "panangisalakanna"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "iti sango dagiti mata"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "inpaltiingna"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kinalintegnya"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:45.837647879Z",
+  "model": "glm-5.3"
+}

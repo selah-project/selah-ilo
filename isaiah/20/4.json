@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Kasta ti itulodto ti ari ti Ashur ⟨את⟩ dagiti mabihag ti Mitsrayim ken ⟨את⟩ dagiti naipatalaw ti Kush — dagiti ubbing ken dagiti lakay, a lamolamo ken awan sapatos, a nakaisiliw ti barukongna — ti lamolamo ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ti itulodto"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti mabihag ti Mitsrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "dagiti mabihag"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti naipatalaw ti Kush"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "dagiti naipatalaw"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ti Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "dagiti ubbing"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "ken dagiti lakay"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "a lamolamo"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "ken awan sapatos"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "a nakaisiliw"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ti barukongna"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ti lamolamo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T14:50:01.945560248Z",
+  "model": "glm-5.3"
+}

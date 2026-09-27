@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ket amin a lallaki ti Yisrael, idi makitada ⟨את⟩ ti lalaki,immayda nga agtaray manipud iti rupana ken immaduda un-unay.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ket amin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lallaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "idi makitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "immayda nga agtaray"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "manipud iti rupana"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ken immaduda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "un-unay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:03:03.888043631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Babaen iti daya nga angin dadaelmo dagiti barko ti Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "babaen iti angin"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "daya"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "dadaelmo"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "dagiti barko"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ti Tarshish"
+    }
+  ],
+  "timestamp": "2026-09-26T21:24:27.462681815Z",
+  "model": "glm-5.3"
+}

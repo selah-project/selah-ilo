@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 144,
+  "translation": "Dagiti nuangtayo ket agkargada; awan ti panagrusok, ket awan ti panagruar, ket awan ti panagtangkis kadagiti kalawaan tayo.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "dagiti nuangtayo"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "agkargada"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ti panagrusok"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "ti panagruar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "ti panagtangkis"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "kadagiti kalawaan tayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:27.451928586Z",
+  "model": "glm-5.3"
+}

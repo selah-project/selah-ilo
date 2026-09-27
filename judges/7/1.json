@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 7:1",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Nagbangon a nasapa ni Yerubbaal — isu ni Gideon — ken ti amin a tao nga adda ⟨אתו⟩, ket nagkampo da iti tubbong ti Charod; ket ti kampo ti Midian ket adda iti amiananna, iti bantay ti Moreh, iti tanap.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nagbangon a nasapa"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "ni Yerubbaal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ni Gideon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kaduana"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagkampo da"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עין",
+      "gloss": "tubbong"
+    },
+    {
+      "surface": "חרד",
+      "gloss": "ti Charod"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "ket ti kampo"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ti Midian"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "iti amianan"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "המורה",
+      "gloss": "ti Moreh"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "iti tanap"
+    }
+  ],
+  "timestamp": "2026-09-26T09:50:23.088603637Z",
+  "model": "glm-5.3"
+}

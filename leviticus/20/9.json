@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ta ti tao, ti tao a sumpaanna ⟨את⟩ amana ken ⟨את⟩ inana — matayen a matay; ti amana ken inana sumpaanna; ti darana ⟨ket⟩ iti kenkuana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "sumpaanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "inana"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "inana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "matay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amana"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ken inana"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "sumpaanna"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ti darana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T05:43:00.281656099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "No linipatnay ti nagan ti Elohimtayo, ken nanglukat dagiti imamayo iti El a sabsabali,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "linipatnay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "ken nanglukat"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "dagiti imamayo"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "iti El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "a sabsabali"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:58.873729830Z",
+  "model": "glm-5.3"
+}

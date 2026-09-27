@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Bakrang dagiti bakrang, kinuna ni Kohelet, ti amin ket bakrang.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Bakrang"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "dagiti bakrang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "ni Kohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "bakrang"
+    }
+  ],
+  "timestamp": "2026-09-26T23:11:21.734233723Z",
+  "model": "glm-5.3"
+}

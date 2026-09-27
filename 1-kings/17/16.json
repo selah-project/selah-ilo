@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ti banga ti inaaw saan a nalpas, ken ti soso ti lana saan a nagkurang, kas iti sao ni Yahweh a nagsao babaen iti ima ni Eliyahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "ti banga"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "ti inaaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "a nalpas"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "ken ti soso"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "a nagkurang"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kas iti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen iti ima"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-26T12:58:00.303519382Z",
+  "model": "glm-5.3"
+}

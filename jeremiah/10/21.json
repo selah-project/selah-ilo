@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ta nakadadaelda dagiti pastol, ken ⟨את⟩ si Yahweh saanda a biniruk; gapu ta kasta, saanda a nakaammo, ken ti amin a karneroda naipwaras.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "nakadadaelda"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "dagiti pastol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "a biniruk"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ta kasta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "a nakaammo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "a karneroda"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "naipwaras"
+    }
+  ],
+  "timestamp": "2026-09-26T16:32:16.669728498Z",
+  "model": "glm-5.3"
+}

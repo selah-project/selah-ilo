@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 144,
+  "translation": "Ti Mangited iti panangisalakan kadagiti ari, ti nangluksan kenni ⟨את⟩ David a adipenna manipud iti tabak ti dakes.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Ti Mangited"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "panangisalakan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kadagiti ari"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "ti nangluksan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "a adipenna"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "manipud iti tabak"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:14.557916910Z",
+  "model": "glm-5.3"
+}

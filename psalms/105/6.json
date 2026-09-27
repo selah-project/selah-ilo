@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Dagiti kaputotan ni Avraham, adipenna, dagiti annak ni Yaakov, dagiti pinilina.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Dagiti kaputotan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "adipenna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "dagiti pinilina"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:00.191010394Z",
+  "model": "glm-5.3"
+}

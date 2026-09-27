@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 137,
+  "translation": "Laglipenmo, Yahweh, kadagiti anak ni Edom ⟨את⟩ ti aldaw ti Yerushalayim; dagiti kinunada: Ibaliennyo, ibaliennyo agingga iti pundasionna.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Laglipenmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak ni"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aldaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "dagiti kinunada"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Ibaliennyo"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ibaliennyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "ti pundasionna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:50.750387972Z",
+  "model": "glm-5.3"
+}

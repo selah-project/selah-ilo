@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Itedanna ti udanda a yelo, apoy a silsilsilaw iti dagada.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "itedanna"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "ti udanda"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "a yelo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "a silsilsilaw"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "iti dagada"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:47.796219586Z",
+  "model": "glm-5.3"
+}

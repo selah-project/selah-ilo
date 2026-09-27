@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Kas iti amin a ipakpakitaak ⟨את⟩ kenka — ti tabnit ti Mishkan ken ⟨את⟩ ti tabnit ti amin a ramramitna — kasta ti aramidenyo.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "kas iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ipakpakitaak"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ kenka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tabnit ti Mishkan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ti tabnit"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tabnit"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ti tabnit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ramramitna"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ti aramidenyo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:15:32.731937543Z",
+  "model": "glm-5.3"
+}

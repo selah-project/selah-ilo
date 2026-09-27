@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket nagnaed ni David iti kuta, ket inawaganna dayta ti Ili ni David; ket inpatakder ni David iti lawlaw, manipud iti Millo ket agpadpada ⟨iti‬ uneg ti balay.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "iti kuta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket inawaganna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ti Ili"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ket inpatakder"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iti lawlaw"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ket agpadpada iti uneg ti balay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:05:13.711980611Z",
+  "model": "glm-5.3"
+}

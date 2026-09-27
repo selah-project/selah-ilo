@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ti timek ni Yahweh agdadael kadagiti sedro; ket ni Yahweh dadaelenna ⟨את⟩ dagiti sedro ti Lebanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ti timek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "agdadael"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "kadagiti sedro"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ket dadaelenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sedro ti Lebanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "dagiti sedro"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ti Lebanon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:14:44.083046066Z",
+  "model": "glm-5.3"
+}

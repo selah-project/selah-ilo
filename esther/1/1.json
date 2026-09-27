@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Napasamak iti dagiti aldaw ni Akhashverosh — isu ni Akhashverosh, ti ari nga agturay manipud iti Hodu agingga iti Kush, pito ken duapulo ken sangagasut a probinsia —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "iti dagiti aldaw"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ni Akhashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ni Akhashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "manipud iti Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "וועשרים",
+      "gloss": "ken duapulo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ken sangagasut"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "a probinsia"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:05.101886413Z",
+  "model": "glm-5.3"
+}

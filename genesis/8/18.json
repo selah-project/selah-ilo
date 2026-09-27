@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket rimmuar ni Noach, ken dagiti annakna, ken asawana, ken dagiti asawa dagiti annakna ⟨את⟩ a kaduana.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ket rimmuar"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ken dagiti annakna"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ken asawana"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ken dagiti asawa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a kaduana",
+      "marks": "Noach ken amin a kaduana"
+    }
+  ],
+  "timestamp": "2026-09-26T01:49:14.210514347Z",
+  "model": "glm-5.3"
+}

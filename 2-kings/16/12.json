@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket immay ti ari manipud idiay Damasek, ket nakita ti ari ⟨את⟩ ti altar, ket immangato ti ari iti altar, ket nangited iti ngatona.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "manipud idiay Damasek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "immangato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nangited iti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngatona"
+    }
+  ],
+  "timestamp": "2026-09-26T13:53:56.546531596Z",
+  "model": "glm-5.3"
+}

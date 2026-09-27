@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket inigsitda ⟨את⟩ ni Haman iti kayo a naisagana na kenni Mordekhai, ket ti riat ti ari ket timmalna.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "ket inigsitda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ti kayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "naisagana"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kenni Mordekhai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ket ti riat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "timmalna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:37.447758108Z",
+  "model": "glm-5.3"
+}

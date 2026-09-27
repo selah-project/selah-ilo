@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Saanmo nga ited kadagiti babai ti bilegmo, ken dagiti dalanmo iti panangdadael kadagiti ari.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nga ited"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "kadagiti babai"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ti bilegmo"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "ken dagiti dalanmo"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "iti panangdadael"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "kadagiti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:58.450035518Z",
+  "model": "glm-5.3"
+}

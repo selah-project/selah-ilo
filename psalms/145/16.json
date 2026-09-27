@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Lukatam ⟨את⟩ imam, ket punoem ti kaykayat ti amin a sibibiag.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Lukatam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "ket punoem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a sibibiag"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kaykayat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:54.016771038Z",
+  "model": "glm-5.3"
+}

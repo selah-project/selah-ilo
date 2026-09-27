@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ⟨את⟩ ti agpangato a sakripisio inyawadda kaniya kadagiti pasetna, ken ⟨את⟩ ti ulona, ket insulpogna iti rabaw ti altar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti agpangato a sakripisio"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti agpangato a sakripisio"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "inyawadda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "kadagiti pasetna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "insulpogna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T05:09:08.148737743Z",
+  "model": "glm-5.3"
+}

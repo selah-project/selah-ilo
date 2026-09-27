@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ken bilinenna ti padi, ken pattatenna ⟨את⟩ ti billit ti maysa iti ramit a burnay, iti ngato ti sibibiag a danum.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "bilinenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "pattatenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti billit"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ti billit"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ramit"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "burnay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sibibiag"
+    }
+  ],
+  "timestamp": "2026-09-26T05:26:11.838936201Z",
+  "model": "glm-5.3"
+}

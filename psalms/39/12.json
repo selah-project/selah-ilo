@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Babaen kadagiti tapiit maipapan iti basol dinusaanmo ti lalaki, ket impukawmo kas ti mikkat ti kaayatanna; pudno a awan linaonna ti amin a tao. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Babaen kadagiti tapiit"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipapan iti"
+    },
+    {
+      "surface": "עון",
+      "gloss": "basol"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "dinusaanmo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ket impukawmo"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kas ti mikkat"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "ti kaayatanna"
+    },
+    {
+      "surface": "אך",
+      "gloss": "pudno a"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "awan linaonna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:14:43.599898861Z",
+  "model": "glm-5.3"
+}

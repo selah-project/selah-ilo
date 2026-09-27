@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Kitaen, tinuktanna ti bato ket agsibbul danum, ken dagiti karayan agburburundosda — makabael kadi nga itedna pay ti tinapay, wenno isaadna kadi ti lasag para iti umilina?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kitaen"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "tinuktanna"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "agsibbul"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "agburburundosda"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "no pay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makabael"
+    },
+    {
+      "surface": "תת",
+      "gloss": "nga itedna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "isaadna"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ti lasag"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "para iti umilina"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:58.666290157Z",
+  "model": "glm-5.3"
+}

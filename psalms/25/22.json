@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Tubosan ti Elohim ⟨את⟩ ni Yisrael manipud iti amin a rigatna.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Tubosan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manipud iti amin"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "a rigatna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:26.205358762Z",
+  "model": "glm-5.3"
+}

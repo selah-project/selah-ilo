@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ta no saan, pattayem a pattayem; ti imam ti agtakder nga umuna kenkuana a mamattay kenkuana, ket ti ima dagiti amin a tattao ti maudi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pattayem"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "a pattayem"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "nga umuna"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "a mamattay kenkuana"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ket ti ima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dagiti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a tattao"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "ti maudi"
+    }
+  ],
+  "timestamp": "2026-09-26T08:00:08.564875153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Dagiti abaga ti inaramidda kenkuana, naisilpo a kaduana; iti dua nga igidna naisilpo.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "dagiti abaga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "naisilpo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "igidna"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "naisilpo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:48:31.126459431Z",
+  "model": "glm-5.3"
+}

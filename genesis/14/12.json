@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Inalada ⟨את⟩ ni Lot ken ⟨את⟩ ti riknana, anak ti kabsat ni Avram, ket immayda — ket isu ket agtaeng iti Sedom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ni Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti riknana"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ti riknana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ti kabsat"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ket immayda"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ket isu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agtaeng"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "iti Sedom"
+    }
+  ],
+  "timestamp": "2026-09-26T01:54:47.991304894Z",
+  "model": "glm-5.3"
+}

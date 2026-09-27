@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Palawaenna ti amianan iti ngato ti awan linaon, ket italenna ⟨את⟩ ti daga iti awan ti aniaman.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "Palawaenna"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ti amianan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ti awan linaon"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "italenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "iti awan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ti aniaman"
+    }
+  ],
+  "timestamp": "2026-09-27T00:03:24.168280407Z",
+  "model": "glm-5.3"
+}

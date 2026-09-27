@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Rumuar ti immuna, nalabbasit ⟨isu⟩, aminna aufs a kas iti maysa a bado; ket inawaganda ti naganna ⟨a ni⟩ Esav.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ti immuna"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "nalabbasit"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "aminna"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "a kas iti maysa a bado"
+    },
+    {
+      "surface": "שער",
+      "gloss": "aufs"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ket inawaganda"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-26T02:21:01.504247461Z",
+  "model": "glm-5.3"
+}

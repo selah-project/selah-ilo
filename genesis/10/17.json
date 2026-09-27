@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken ⟨את⟩ ti Hivita, ken ⟨את⟩ ti Arkita, ken ⟨את⟩ ti Sinita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Hivita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ti Hivita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Arkita"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ti Arkita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Sinita"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ti Sinita"
+    }
+  ],
+  "timestamp": "2026-09-26T01:53:05.648072852Z",
+  "model": "glm-5.3"
+}

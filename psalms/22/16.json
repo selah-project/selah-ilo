@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Namaga a kas pingping ti banga ti bilegko, ket ti dildilko naisagepsek iti pangngiwak, ket iti tapok ti matay indalem nak.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "namaga"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "a kas pingping ti banga"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ket ti dildilko"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "naisagepsek"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "iti pangngiwak"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "iti tapok"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ti matay"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "indalem nak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:58:15.426052351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Saan a nagdildila iti dilaenna, saan a nangaramid iti kaarrubana iti dakes, ken saan a nangala iti bidi iti ngato ti asidegna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nagdildila"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "dilaenna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nangaramid"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "iti kaarrubana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "ken bidi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nangala"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ti asidegna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:46.088286664Z",
+  "model": "glm-5.3"
+}

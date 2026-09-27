@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 132,
+  "translation": "Ti taraonna bendisionankon, dagiti pobrena pagbusorek iti tinapay.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "ti taraonna"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bendisionankon"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "bendisionanto"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "dagiti pobrena"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "pagbusorek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "iti tinapay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:48.408080768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 129,
+  "translation": "Kanta ti Panagpangato. Adu a beses pinigsadak manipud iti kabibiagko — kunaen ni Yisrael ita:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti Panagpangato"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Adu a beses"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "pinigsadak"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "manipud iti kabibiagko"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kunaen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:14.061278303Z",
+  "model": "glm-5.3"
+}

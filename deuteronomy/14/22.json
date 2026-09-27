@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Sangapulo a pasetenmo a pudno ti ⟨את⟩ amin nga apit ti binimmo, ti rumuar manipud iti talon, tawen tunggal tawen.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo a paseten"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "pasetenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin nga apit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "apit"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ti binimmo"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "manipud iti talon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tawen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tunggal tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T08:07:22.537766847Z",
+  "model": "glm-5.3"
+}

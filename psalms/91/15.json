@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Awagan nakonto a sungbatannak; kaduana siak iti rigat; isalakannak ken idaydayawak.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "awagan nakonto"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "sungbatannak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "iti rigat"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "isalakannak"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "idaydayawak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:31.687892553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ta kinunak: ti hesed mabangbangon nga agnanayon; ⟨iti⟩ dagiti langit patakderam ti kinapudnom kadakuada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ti hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "mabangbangon"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "patakderam"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ti kinapudnom"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:20.817371174Z",
+  "model": "glm-5.3"
+}

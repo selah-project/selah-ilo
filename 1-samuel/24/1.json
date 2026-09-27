@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Immay ni David manipud idiay, ket nagtaed kadagiti salakniban ti Ein Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "immay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "manipud idiay"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagtaed"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "kadagiti salakniban"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-26T11:12:05.628067939Z",
+  "model": "glm-5.3"
+}

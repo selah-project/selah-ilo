@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Lumto ti nakaudi a kaputotanna nga maikkat; iti kaputotan a sabsabali maikkatanda ⟨ti⟩ naganda.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Lumto"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "ti nakaudi a kaputotanna"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "nga maikkat"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "iti kaputotan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "a sabsabali"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "maikkatanda"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ti naganda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:07.498038241Z",
+  "model": "glm-5.3"
+}

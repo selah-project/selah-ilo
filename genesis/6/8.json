@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ni Noakh ket nakabiruk iti grasia kadagiti mata ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Ni Noakh ket"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nakabiruk"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grasia"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:29.653576661Z",
+  "model": "glm-5.3"
+}

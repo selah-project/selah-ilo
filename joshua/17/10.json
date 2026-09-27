@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ti abagatan ket kenni Efrayim, ket ti amianan ket kenni Menashe, ket ti baybay ti beddengna; ket iti Asher makaabotda iti amianan, ket iti Yissaskar iti daya.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "iti abagatan"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kenni Efrayim"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "ket iti amianan"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "kenni Menashe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "ti beddengna"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "ket iti Asher"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "makaabotda"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "iti amianan"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "ket iti Yissaskar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "iti daya"
+    }
+  ],
+  "timestamp": "2026-09-26T09:20:52.728123316Z",
+  "model": "glm-5.3"
+}

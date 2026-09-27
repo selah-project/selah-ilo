@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Agadu ti pennadanda, dagiti nangtaray kadagiti sabsabali ⟨a dios⟩; saannak a ibulos ti darada a datonda, ken saannak a isao ⟨את⟩ dagiti naganda kadagiti bibigko.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Agadu"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ti pennadanda"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kadagiti sabsabali"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "dagiti nangtaray"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saannak"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ibulos"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ti darada a datonda"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ken saannak"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "isao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti naganda"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "dagiti naganda"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibigko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:51:50.374892226Z",
+  "model": "glm-5.3"
+}

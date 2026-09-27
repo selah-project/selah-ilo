@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ken ita, isumpaak kaniak babaen ni Yahweh a saanmo a pappardasien ⟨את⟩ ti uubbatko kalpasan kaniak, ken a saanmo a dadaelen ⟨את⟩ ti naganko manipud iti balay ti amak.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ken ita"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "isumpaak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "babaen ni Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a saanmo"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "a pappardasien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti uubbatko"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ti uubbatko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan kaniak"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ken a saanmo"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "a dadaelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganko"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ti naganko"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ti amak"
+    }
+  ],
+  "timestamp": "2026-09-26T11:04:21.135659695Z",
+  "model": "glm-5.3"
+}

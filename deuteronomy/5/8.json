@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Saanmo a aramiden iti bagim ti lario, wenno aniaman a porma ti adda iti langit iti ngato, ken ti adda iti daga iti baba, ken ti adda iti danum iti baba ti daga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramiden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iti bagim"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ti lario"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aniaman"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "porma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ken ti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ken ti"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T07:44:05.447350382Z",
+  "model": "glm-5.3"
+}

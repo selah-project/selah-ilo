@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Idi intedda kakuada ⟨את⟩ ti Kiryat-Arba, ti ama ni Anak — daytoy ti Khevron, iti bantay ni Yehudah — ken ⟨את⟩ dagiti parangna nga agpalikmut kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "intedda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kakuada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ti Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ti ama"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "ni Anak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ti Khevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti parangna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti parangna"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "nga agpalikmut kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T09:24:30.564274387Z",
+  "model": "glm-5.3"
+}

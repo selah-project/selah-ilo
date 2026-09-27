@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "Ta kitaen, umay ni Yahweh iti apoy, ken kas iti alipuspos dagiti kalesana, nga ibalesna iti baken ti langona, ken ti sangona kadagiti silab ti apoy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "ken kas iti alipuspos"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "dagiti kalesana"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "nga ibalesna"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "iti baken"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ti langona"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "ken ti sangona"
+    },
+    {
+      "surface": "בלהבי",
+      "gloss": "kadagiti silab"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T16:11:12.426775377Z",
+  "model": "glm-5.3"
+}

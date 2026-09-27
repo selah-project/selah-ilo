@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kinunana ni Yahweh kenni Moshe, nga aramiden:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga aramiden"
+    }
+  ],
+  "timestamp": "2026-09-26T05:07:25.199085654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ta ⟨את⟩ ti nogales ti pasan-na, ken ⟨את⟩ ti pagtakkien ti abaganna, ti baston ti mangipenpen kennuana — indadaelmo a kas iti aldaw ti Midian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nogales ti pasan-na"
+    },
+    {
+      "surface": "על",
+      "gloss": "ti nogales"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "ti pasan-na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pagtakkien ti abaganna"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ti pagtakkien"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ti abaganna"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ti baston"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "ti mangipenpen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "indadaelmo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "a kas iti aldaw"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ti Midian"
+    }
+  ],
+  "timestamp": "2026-09-26T14:29:50.965669226Z",
+  "model": "glm-5.3"
+}

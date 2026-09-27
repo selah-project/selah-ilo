@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 13:30",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Nagbalin ti pagbeddengan da manipud iti Makhana'im, amin ti Bashan, amin ti pagarian ni Og, ari ti Bashan, ken amin dagiti purok ni Yair a mabalin iti Bashan, innem a pulo nga ili.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ti pagbeddengan da"
+    },
+    {
+      "surface": "ממחנים",
+      "gloss": "manipud iti Makhana'im"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ti Bashan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ti pagarian"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ni Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ti Bashan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "חות",
+      "gloss": "dagiti purok"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ni Yair"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "iti Bashan"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "innem a pulo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "nggili nga ili"
+    }
+  ],
+  "timestamp": "2026-09-26T09:13:25.358672328Z",
+  "model": "glm-5.3"
+}

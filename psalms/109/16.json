@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Ta saan a nalagipan nga aramiden ti hesed, ket sinurotna ti lalaki a pobre ken ti agsapsapul, ken ti nabadbag ⟨a⟩ puso, nga ipatay.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nalagipan"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ti hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ket sinurotna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a pobre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ken ti agsapsapul"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ken ti nabadbag"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "nga ipatay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:07.498693125Z",
+  "model": "glm-5.3"
+}

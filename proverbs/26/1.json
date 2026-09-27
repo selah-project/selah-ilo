@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Kas ti niebe iti kalgaw ken kas ti udan iti apit, kasta ti daydayaw saan a naisiat iti mangmang.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "Kas ti niebe"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "iti kalgaw"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "ken kas ti udan"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "iti apit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "a naisiat"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "iti mangmang"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:44:02.606231558Z",
+  "model": "glm-5.3"
+}

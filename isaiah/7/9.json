@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "ken ti ulo ti Ephrayim ket Shomron, ken ti ulo ti Shomron ket ti anak a lalaki ni Remalyahu. No diankayonto mamati, saankayonto a matalinaed.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "ken ti ulo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ti Ephrayim"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ket Shomron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ken ti ulo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ti Shomron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ti anak a lalaki"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "ni Remalyahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "לא",
+      "gloss": "di"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "ankayonto mamati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a di"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "ankayonto matalinaed"
+    }
+  ],
+  "timestamp": "2026-09-26T14:22:19.032912850Z",
+  "model": "glm-5.3"
+}

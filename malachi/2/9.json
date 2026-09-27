@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken siak met, initedkayo ⟨את⟩ a naidisdissan ken naibaba iti sanguanan ti umili, segun iti saanyo nga agsalaknib ⟨את⟩ kadagiti dalanko ken agiyidda kadagiti rupa iti torah.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ken met"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "initedkayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo (dagiti padi)"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "a naidisdissan"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "ken naibaba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "segun iti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "saanyo"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "agsalaknib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti dalanko"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "kadagiti dalanko"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "ken agiyidda"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "kadagiti rupa"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "iti torah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:08.098405457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket isublangda dagiti lakay ti gimong ⟨את⟩ dagiti imada iti ulo ti baka sango ni Yahweh, ket patayenna ⟨את⟩ ti baka sango ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "ket isublangda"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti imada"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dagiti imada"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ket patayenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:01:12.165307859Z",
+  "model": "glm-5.3"
+}

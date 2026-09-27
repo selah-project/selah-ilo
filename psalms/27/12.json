@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Saanmo nga itednak iti kararua dagiti kabusork, ta immaddang laban kaniak dagiti saksi ti ulbod, ket agangesda iti ranggas.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saanmo nga"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "itednak"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "iti kararua"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dagiti kabusork"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "immaddang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "laban kaniak"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "dagiti saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ti ulbod"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ket agangesda"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "iti ranggas"
+    }
+  ],
+  "timestamp": "2026-09-26T21:01:43.745468036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Amin dagiti tulang[ko] agkunkunada: Yahweh, siasino ti kapada Mo, Ti mangisalakan ti makaaway manipud iti lalaki a napigsa ngem isuna, ken ti makaaway ken ti pakpobre manipud iti mangtatakaw kenkuana?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "dagiti tulang[ko]"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "agkunkunada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ti kapada Mo"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mangisalakan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ti makaaway"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "lalaki a napigsa ngem isuna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud iti isuna"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ken ti makaaway"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ken ti pakpobre"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "manipud iti mangtatakaw kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:27.542065722Z",
+  "model": "glm-5.3"
+}

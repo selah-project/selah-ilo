@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ti tiempo nga ayaten, ken ti tiempo a di-ayaten; ti tiempo ti gubat, ken ti tiempo ti kappia.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ti tiempo"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "nga ayaten"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti tiempo"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "a di-ayaten"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ti tiempo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti tiempo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti kappia"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:45.022823278Z",
+  "model": "glm-5.3"
+}

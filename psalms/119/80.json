@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Adda koma ti pusok a natibker kadagiti bilinmo, tapno saanak a mabain.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "adda koma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "a natibker"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "kadagiti bilinmo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "a mabainak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:08.955385453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Pinrekda ⟨את⟩ ti daton agingga iti isasangbay ni Yosef iti tengnga ti aldaw, ta nangngegda a sadiay manganenda ti tinapay.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "pinrekda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daton"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ti daton"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "iti isasangbay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "iti tengnga ti aldaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nangngegda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "manganenda"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:09:03.567542375Z",
+  "model": "glm-5.3"
+}

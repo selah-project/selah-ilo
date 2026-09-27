@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinuna ni Shelomoh nga agbangon ti balay para iti nagan ni Yahweh ken ti balay para iti pagarianna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "nga agbangon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "para iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ken ti balay"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "para iti pagarianna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:42:35.979604405Z",
+  "model": "glm-5.3"
+}

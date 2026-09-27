@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 136,
+  "translation": "Agdaydayawkayo kenni Adonay kadagiti apo, ta ti hesedna ⟨agnanayon⟩.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Agdaydayawkayo"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kenni Adonay kadagiti"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "apo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:27.005373180Z",
+  "model": "glm-5.3"
+}

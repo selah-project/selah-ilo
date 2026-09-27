@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "ket nagbutbutengda unay unay, ket kinunada: Ania, dagiti dua nga ari saanda a nagtakder iti sanguanana, ket no kasano a sumuratakderkami a dakami?",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ket nagbutbutengda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "a nagtakder"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti sanguanana"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ket no kasano"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "a sumuratakderkami"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "a dakami"
+    }
+  ],
+  "timestamp": "2026-09-26T13:36:18.605321356Z",
+  "model": "glm-5.3"
+}

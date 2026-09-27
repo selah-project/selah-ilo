@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "No ti lalaki a napukot ti ulona agted iti puso, ket no ti anak ti tarabon ti tao ti maipasngay.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "napukot ti ulona"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "agted iti puso"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ti anak ti"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "tarabon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "maipasngay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:50:18.811691060Z",
+  "model": "glm-5.3"
+}

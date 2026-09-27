@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "ket alaen ti ama ti ubing a babai ken ti inana, nga iluanda ⟨את⟩ dagiti putahe ti kinabirhen ti ubing a babai kadagiti lakay ti ili, iti ruaran.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ket alaen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti ubing a babai"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ken ti inana"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "nga iluanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti putahe ti kinabirhen"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "putahe ti kinabirhen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti ubing a babai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken\/kadagiti"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "lakay"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "iti ruaran"
+    }
+  ],
+  "timestamp": "2026-09-26T08:20:50.860658431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Apay a kunaam a kabsatko isuna, ta alaek ⟨את⟩ isuna ⟨iti⟩ asawak? Ket ita, kitaem, ti asawam, alam ken umayka.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "a kunaam"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "a kabsatko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ta alaek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "iti asawak"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Ket ita"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ti asawam"
+    },
+    {
+      "surface": "קח",
+      "gloss": "alam"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ken umayka"
+    }
+  ],
+  "timestamp": "2026-09-26T01:54:55.834325752Z",
+  "model": "glm-5.3"
+}

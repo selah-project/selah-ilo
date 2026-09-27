@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "a naipenpenko para iti tiempo ti rigat, para iti aldaw ti gubat ken panagubbat?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "naipenpenko"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "para iti tiempo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "para iti aldaw"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ken panagubbat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:59:21.516024785Z",
+  "model": "glm-5.3"
+}

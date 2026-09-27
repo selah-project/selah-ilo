@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken ni Avraham ket anak ti sangagasut a tawen idi naipasngay kenkuana ⟨את⟩ ni Yitskhak nga anakna.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "ken ni Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ti sangagasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "idi naipasngay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:08:58.885504804Z",
+  "model": "glm-5.3"
+}

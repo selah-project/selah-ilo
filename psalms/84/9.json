@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 84,
+  "translation": "Yahweh Elohim Tsevaot, dengngegem ti kararagko; agpayso a dengngegem, Elohim ni Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dengngegem"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ti kararagko"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "agpayso a dengngegem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:44.540257065Z",
+  "model": "glm-5.3"
+}

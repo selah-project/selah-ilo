@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Kinuada ⟨את⟩ ti bado ni Yosef, ket innatayda maysa a kalding a bassit, ket inlemmekda ⟨את⟩ ti bado iti dara.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kinuada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bado"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ti bado"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "innatayda"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kalding"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "a bassit"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "inlemmekda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bado"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ti bado"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "iti dara"
+    }
+  ],
+  "timestamp": "2026-09-26T02:52:43.234521293Z",
+  "model": "glm-5.3"
+}

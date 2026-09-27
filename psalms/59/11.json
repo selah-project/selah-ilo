@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Ti Elohim ti hesedko umunana kaniak; ti Elohim ipakitaannak ⟨iti⟩ dagiti kabusorko a nagur-uray.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedko"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "umunana kaniak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ipakitaannak"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "iti kabusorko a nagur-uray"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:36.517250581Z",
+  "model": "glm-5.3"
+}

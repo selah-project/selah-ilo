@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Agingga no kaano, Yahweh, a malipatmo kaniak — agnanayon? Agingga no kaano a ilemmengmo ⟨את⟩ ti rupam manipud kaniak?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "a malipatmo kaniak"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "a ilemmengmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupam"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "manipud kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:10.080142544Z",
+  "model": "glm-5.3"
+}

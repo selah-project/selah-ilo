@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Dinukkul ni Shaul ⟨את⟩ ti Amalek manipud iti Khavila agingga iti sumrekka iti Shur, a iti sanguanan ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Dinukkul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ti Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "manipud iti Khavila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "sumrekka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "iti Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sanguanan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T10:52:26.266475496Z",
+  "model": "glm-5.3"
+}

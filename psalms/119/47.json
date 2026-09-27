@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "ket maragsakak kadagiti bilinmo a tinagayak",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "maragsakak"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "kadagiti bilinmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tinagayak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:07.704559844Z",
+  "model": "glm-5.3"
+}

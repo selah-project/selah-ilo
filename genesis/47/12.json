@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Binalabalay ni Yosef ⟨את⟩ amana ken ⟨את⟩ dagiti kakabsatna ken ⟨את⟩ amin a balay ti amana, iti tinapay segun ti kadakkel dagiti ubbingda.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "Binalabalay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kakabsatna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dagiti kakabsatna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a balay ti amana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a balay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "iti tinapay"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "segun ti"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "kadakkel dagiti ubbingda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:14:15.051328843Z",
+  "model": "glm-5.3"
+}

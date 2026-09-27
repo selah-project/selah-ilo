@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Lukatam ti ngiwatmo, ukomam ti kinalinteg, ket ukomam ti napulates ken ti makapobre.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Lukatam"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ti ngiwatmo"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ukomam"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ti kinalinteg"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ket ukomam"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ti napulates"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ken ti makapobre"
+    }
+  ],
+  "timestamp": "2026-09-26T22:46:18.597502905Z",
+  "model": "glm-5.3"
+}

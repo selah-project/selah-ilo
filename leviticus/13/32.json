@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket kitaen ti padi ti ⟨את⟩ sakit iti maikapito nga aldaw, ket kitaen, no saan a nagwaras ti ugo ken saan adda dutdut a balitok kenkuana, ket ti langa ti ugo awan ti kaunegna ngem ti kudil,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sakit"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti sakit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket kitaen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "nagwaras"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ti ugo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dutdut"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ti langa"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ti ugo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "nauneg"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ti kudil"
+    }
+  ],
+  "timestamp": "2026-09-26T05:27:16.821119075Z",
+  "model": "glm-5.3"
+}

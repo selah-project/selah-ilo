@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket rimmuar ti ari a ni Yehoram iti dayta nga aldaw manipud iti Shomron, ket binilanganna ⟨את⟩ ti amin a Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "rimmuar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "binilanganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T13:20:34.365048155Z",
+  "model": "glm-5.3"
+}

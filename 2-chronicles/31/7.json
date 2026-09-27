@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 31:7",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Iti maikatlo a bulan, nangrugi dagiti bunton a mapundar; ken iti maikapito a bulan nalpasda.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "nangrugi"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "dagiti bunton"
+    },
+    {
+      "surface": "ליסוד",
+      "gloss": "a mapundar"
+    },
+    {
+      "surface": "ובחדש",
+      "gloss": "ken iti bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nalpas"
+    }
+  ],
+  "timestamp": "2026-09-26T23:55:09.431662989Z",
+  "model": "glm-5.3"
+}

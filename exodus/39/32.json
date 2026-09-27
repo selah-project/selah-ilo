@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "ket nalpasen ti amin a serbi ti Mishkan, ti Tolda ti Gimong; ket inaramidda dagiti anak ni Yisrael segun ti amin a bilin ni Yahweh ⟨את⟩ ni Moshe — kasta da nga aramid.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "ket nalpasen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "a serbi"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ket inaramidda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "segun ti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "da nga aramid"
+    }
+  ],
+  "timestamp": "2026-09-26T04:51:57.450285351Z",
+  "model": "glm-5.3"
+}

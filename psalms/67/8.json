@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 67,
+  "translation": "Bendisionannakami ti Elohim, ken ti amin nga ikkarisna ti daga agbutengda kenkuana ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "bendisionannakami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ken agbutengda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ngi ikkarisna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:37:33.232097956Z",
+  "model": "glm-5.3"
+}

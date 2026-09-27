@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Ta kukuak amin nga ayup ti kakayatan, ken dagiti ayup iti bantay — sangaribu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kukuak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nga ayup"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ti kakayatan"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ken dagiti ayup"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sangaribu"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:43.157944909Z",
+  "model": "glm-5.3"
+}

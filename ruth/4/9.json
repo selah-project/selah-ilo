@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 4:9",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken kinuna ni Boaz kadagiti lakay ken ti amin nga umili: Saksikayo ita nga aldaw a ginatangko ⟨את⟩ amin a kukuana ni Elimelekh, ken ⟨את⟩ amin a kukuana ni Khilyon ken ni Makhlon, manipud iti ima ni Naomi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ken kinuna"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ni Boaz"
+    },
+    {
+      "surface": "לזקנים",
+      "gloss": "kadagiti lakay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga umili"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ginatangko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a kukuana ni Elimelekh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "kukuana ni Elimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kukuana ni Khilyon ken ni Makhlon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לכליון",
+      "gloss": "kukuana ni Khilyon"
+    },
+    {
+      "surface": "ומחלון",
+      "gloss": "ken ni Makhlon"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ni Naomi"
+    }
+  ],
+  "timestamp": "2026-09-26T23:05:11.934059833Z",
+  "model": "glm-5.3"
+}

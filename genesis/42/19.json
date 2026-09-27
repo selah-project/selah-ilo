@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 42:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "No nalinteg kayo, maysa kadagiti kabsatyo maibalud iti pagtarayan ti balayyo; ket dakayo, aganka, iyegyo bagas baet ti gamin dagiti balbalayyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kadagiti kabsatyo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "maibalud"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "משמרכם",
+      "gloss": "ti pagtarayanyo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ket dakayo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "aganka"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "iyegyo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bagas"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "gamin"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "dagiti balbalayyo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:03:53.343051940Z",
+  "model": "glm-5.3"
+}

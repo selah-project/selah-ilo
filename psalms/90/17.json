@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 90,
+  "translation": "ket adda koma ti kinanasayaat ni Adonay nga Elohimtayo kadatayo, ket ipatakderanna koma ti aramid dagiti imatayo kadatayo; wenno, ti aramid dagiti imatayo ipatakderannanto daytoy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda koma"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "ti kinanasayaat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga Elohimtayo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadatayo"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ket ti aramid"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "dagiti imatayo"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "ipatakderanna koma"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadatayo"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "wenno, ti aramid"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "dagiti imatayo"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "ipatakderannanto daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:51.710627194Z",
+  "model": "glm-5.3"
+}

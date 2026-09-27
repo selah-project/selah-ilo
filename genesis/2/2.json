@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 2:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Inalpasen ni Elohim iti maikapito nga aldaw ti obrana a kinonna, ket naginaar iti maikapito nga aldaw iti amin nga obrana a kinonna.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "inalpasen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito nga aldaw"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ti obrana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kinonna"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "naginaar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito nga aldaw"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "nga obrana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kinonna"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:43.130881136Z",
+  "model": "glm-5.3"
+}

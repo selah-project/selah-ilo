@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket maisuppiat ti umili — lalaki iti lalaki, ken lalaki iti kaarrubana; aglabanda ti ubbing iti lakay, ken ti naang-aw iti naidaydayaw.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ket maisuppiat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "iti lalaki"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ken lalaki"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "iti kaarrubana"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "aglabanda"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti ubbing"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "iti lakay"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "ken ti naang-aw"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "iti naidaydayaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:07:54.611600905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Mangisursuroenna ti imak iti gubat, ket naikkat ti busor ti tanso babaen kadagiti brasok.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Mangisursuroenna"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ti imak"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "ket naikkat"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ti busor"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ti tanso"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "babaen kadagiti brasok"
+    }
+  ],
+  "timestamp": "2026-09-26T20:55:58.754760624Z",
+  "model": "glm-5.3"
+}

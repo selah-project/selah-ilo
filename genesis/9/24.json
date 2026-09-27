@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket nakasirak ni Noach manipud iti arakna, ket ammona ⟨את⟩ ti inaramid ti bassit nga anakna kennuana.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "nakasirak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "manipud iti arakna"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ammona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inaramid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ti anakna"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "bassit"
+    }
+  ],
+  "timestamp": "2026-09-26T01:50:22.594920124Z",
+  "model": "glm-5.3"
+}

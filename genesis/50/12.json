@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Inaramidda dagiti annakna kenkuana kasta, a kas ti bilinna kadakuada.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "צום",
+      "gloss": "bilinna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:23:04.020828540Z",
+  "model": "glm-5.3"
+}

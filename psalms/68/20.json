@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Bendisionan ti Adonay — iti inaldaw-aldaw nga agdangkatna ⟨iti⟩ datiak — ti El ti panangisalakantayo. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bendisionan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ti Adonay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "iti inaldaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "-aldaw"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "agdangkatna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "iti datiak"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ti El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ti panangisalakantayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:37.966905355Z",
+  "model": "glm-5.3"
+}

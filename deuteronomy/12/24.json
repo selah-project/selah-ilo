@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Saanmo makan dayta; iti daga ibulosmo a kas danum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "makan dayta"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ibulosmo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "a kas danum"
+    }
+  ],
+  "timestamp": "2026-09-26T08:03:49.422137526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Idi rabii, immay dagiti pugo ket linpuksanda ⟨את⟩ ti kampo; ket iti bigat, adda ti pannakaiyonna ti ambon a nailikmut iti lawlaw ti kampo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "idi rabii"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "immay"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "dagiti pugo"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "linpuksanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kampo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ket iti bigat"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ti pannakaiyonna"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ti ambon"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a nailikmut"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "iti lawlaw ti kampo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:02:56.797984361Z",
+  "model": "glm-5.3"
+}

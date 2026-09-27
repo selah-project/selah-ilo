@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket isuna ket napait ti kararua, ket nagkararag kenni Yahweh ken nagsangsangit un-unno.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ket isuna"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "napait"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "nagkararag"
+    },
+    {
+      "surface": "על",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ken nagsangsangit"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "un-unno"
+    }
+  ],
+  "timestamp": "2026-09-26T10:22:28.931577520Z",
+  "model": "glm-5.3"
+}

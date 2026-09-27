@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Yahweh, iti bigat madengngegmo ti timekok; iti bigat isaadko ⟨ti kararag⟩ kenka ket agurayak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "madengngegmo"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ti timekok"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "isaadko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "ket agurayak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:44:46.794858817Z",
+  "model": "glm-5.3"
+}

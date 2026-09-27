@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ti patingga ti sao: amin nabati — ⟨את⟩ ti Elohim butengem ken ⟨את⟩ dagiti bilinna salaknibem, ta daytoy ti amin ti tao.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "ti patingga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nabati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "butengem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bilinna"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "dagiti bilinna"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "salaknibem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:38.761930951Z",
+  "model": "glm-5.3"
+}

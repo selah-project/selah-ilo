@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 90,
+  "translation": "Ipunuamkami iti bigat iti hesedmo, ket agkantakami ken agragsakkami iti amin a dagiti aldawmi.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Ipunuamkami"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iti hesedmo"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "ket agkantakami"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ken agragsakkami"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin a"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dagiti aldawmi"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:20.905273765Z",
+  "model": "glm-5.3"
+}

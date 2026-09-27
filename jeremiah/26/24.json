@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ngem ti ima ni Akhikam nga anak ni Shafan adda ⟨kadua⟩ kennuana ⟨את⟩ ni Yirmeyahu, tapno saan a maited ⟨את⟩ na kadagiti imas ti umili a patayenda.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ti ima"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "ni Akhikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ni Shafan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kennuana ni Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ni Yirmeyahu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "tapno saan"
+    },
+    {
+      "surface": "תת",
+      "gloss": "maited"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na",
+      "marks": "kadagiti imas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kadagiti imas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "a patayenda"
+    }
+  ],
+  "timestamp": "2026-09-26T17:05:51.801623482Z",
+  "model": "glm-5.3"
+}

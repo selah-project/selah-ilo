@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Immatakay ni Adoni-Bezek, ket tinungpalanda a linaldat, ket inalada ⟨את⟩, ket inniddanda ⟨את⟩ dagiti ramay ti imana ken ti sakaana.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "immatakay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "tinungpalanda"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "a linaldat"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni Adoni-Bezek"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "inniddanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ramay"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "dagiti ramay"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "ken ti sakaana"
+    }
+  ],
+  "timestamp": "2026-09-26T09:35:44.093935743Z",
+  "model": "glm-5.3"
+}

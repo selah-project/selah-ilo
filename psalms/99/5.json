@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 99,
+  "translation": "Ipatay-ngatayo ni Yahweh ti Elohimtayo, ket agsangbaykayo iti pagtakkilan ti saka na; nasantuan ti Siak.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Ipatay-ngatayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ket agsangbaykayo"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "iti pagtakkilan"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ti saka na"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti Siak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:49.492751484Z",
+  "model": "glm-5.3"
+}

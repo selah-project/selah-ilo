@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Isu ti agawag kaniak: Amak sika, Elko, ken ti bato ti panangisalakanko.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "agawag kaniak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Amak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elko"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ken ti bato"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ti panangisalakanko"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:37.463514869Z",
+  "model": "glm-5.3"
+}

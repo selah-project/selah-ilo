@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "aginganay no umayak ken alaek ⟨את⟩ dakayo iti maysa a daga a kas iti dagayokayo, daga ti bagas ken bino, daga ti tinapay ken dagiti ubasan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "aginganay"
+    },
+    {
+      "surface": "באי",
+      "gloss": "no umayak"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ken alaek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maysa a daga"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "a kas iti dagayokayo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "bagas"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ken bino"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "ken dagiti ubasan"
+    }
+  ],
+  "timestamp": "2026-09-26T15:19:23.043340071Z",
+  "model": "glm-5.3"
+}

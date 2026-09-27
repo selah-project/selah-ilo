@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kinuana ni Shemuël ⟨את⟩ ti plaska ti lana, ket inibbosna iti ulona ken kininnianna, ket kinuna: Saan kadi a ilinaanka ni Yahweh iti tawidna a mangituray?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti plaska ti lana"
+    },
+    {
+      "surface": "פך",
+      "gloss": "ti plaska"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "inibbosna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulona"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "kininnianna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ilinaanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "tawidna"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "a mangituray"
+    }
+  ],
+  "timestamp": "2026-09-26T10:44:27.792853464Z",
+  "model": "glm-5.3"
+}

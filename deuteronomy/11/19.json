@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket adaduemoyo ⟨ti⟩ dagitoy, ⟨את⟩ dagiti annakmo, a mangsao kadakuada — no agtugawka iti balaymo, no agtatakderka iti dalan, no mataremka ket no agtakderka manen.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "adaduemoyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti annakmo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "dagiti annakmo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "a mangsao"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "no agtugawka"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "iti balaymo"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "no agtatakderka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "no mataremka"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "no agtakderka manen"
+    }
+  ],
+  "timestamp": "2026-09-26T07:52:20.069806035Z",
+  "model": "glm-5.3"
+}

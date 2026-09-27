@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ni Reayah ti anak ni Shoval nagputot ⟨את⟩ Jiachat, ket ni Jiachat nagputot ⟨את⟩ ni Achumai ken ⟨את⟩ ni Lahad; dagitoy ti dagiti pamilia dagiti taga-Zorea.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "ken ni Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ni Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jiachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "ket ni Jiachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "ni Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "ni Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ti dagiti pamilia"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "dagiti taga-Zorea"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:59.727315182Z",
+  "model": "glm-5.3"
+}

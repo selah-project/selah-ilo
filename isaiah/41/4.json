@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Siasino ti nagaramid ken nagtungpal, ti mangawag kadagiti nasursurwan manipud iti punganay? Siak, Yahweh, ti umuna, ken ⟨את⟩ dagiti naud-udi — siak ti isu.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "nagaramid"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ken nagtungpal"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ti mangawag"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "kadagiti nasursurwan"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "manipud iti punganay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ti umuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti naud-udi"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "dagiti naud-udi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti isu"
+    }
+  ],
+  "timestamp": "2026-09-26T15:29:24.454350246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Aminkami, Yahweh, ti dakesmi ken ti basol dagiti ammami, ta nagbasolkami kenka.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "aminkami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "ti dakesmi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "dagiti ammami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nagbasolkami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T16:45:43.460546932Z",
+  "model": "glm-5.3"
+}

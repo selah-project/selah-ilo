@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Agagturay ni Yahweh agingga iti amin a pamanawen ken iti agan-anay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "agagturay"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "agingga iti amin a pamanawen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken iti agan-anay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:54:26.916117772Z",
+  "model": "glm-5.3"
+}

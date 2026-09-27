@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Ta kitaem, dagiti kabusormo ket agrururoda, ken dagiti nakem a dakes kennika ket indakkelda ti uloda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dagiti kabusormo"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "agrururoda"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "ken dagiti nakem a dakes kennika"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "indakkelda"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti uloda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:18.401690943Z",
+  "model": "glm-5.3"
+}

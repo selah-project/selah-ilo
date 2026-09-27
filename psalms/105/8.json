@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Lagipenna agingga iti agnanayon ti tulagna, ti sao a bilinna iti sangaribu a kaputotan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Lagipenna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agingga iti agnanayon"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ti tulagna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilinna"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "iti sangaribu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "a kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:00.191274485Z",
+  "model": "glm-5.3"
+}

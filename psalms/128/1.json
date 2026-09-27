@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 128,
+  "translation": "Kanta dagiti Panagpangato. Ania ti ragsak ti tunggal maysa nga agbuteng kenni Yahweh, ti magna kadagiti dalanna!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dagiti Panagpangato"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Ania ti ragsak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nga agbuteng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ti magna"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "kadagiti dalanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:11.599507674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kinuna ni Yahweh kennan ti Satan: Sadino manipud itoy immayka? Ket imsungbat ti Satan ⟨את⟩ ni Yahweh, ket kinuna: Manipud iti panagballasiw-ballasiw iti daga ken iti panagsursor iti daytoy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kennan"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ti Satan"
+    },
+    {
+      "surface": "אי",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "manipud itoy"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "immayka"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "imsungbat"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ti Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "משט",
+      "gloss": "panagballasiw-ballasiw"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "panagsursor"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:48:30.726269737Z",
+  "model": "glm-5.3"
+}

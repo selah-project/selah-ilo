@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ta pay bassit a kanito, ket agbalin a malpas ti riri, ket ti ung-awko iti panagpukaw kanda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "kanito"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ket agbalin a malpas"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ti riri"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "ket ti ung-awko"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "panagpukaw kanda"
+    }
+  ],
+  "timestamp": "2026-09-26T14:33:37.006090609Z",
+  "model": "glm-5.3"
+}

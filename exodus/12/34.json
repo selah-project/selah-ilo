@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket inala ti tattao ⟨את⟩ taepda sakbay nga immalsem, dagiti pagtaepanda naigakod iti damitda iti abagada.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "inala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taepda"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "taepda"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "sakbay"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "nga immalsem"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "dagiti pagtaepanda"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "naigakod"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "iti damitda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "abagada"
+    }
+  ],
+  "timestamp": "2026-09-26T03:47:04.541995913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 148,
+  "translation": "Pinataknegna ⟨da⟩ iti pannakatagal, iti agnanayon; nangited ⟨iti⟩ bilin a saan a maipalabsan.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "pinataknegna"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "iti pannakatagal"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "חק",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nangited"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "maipalabsan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:41.707382306Z",
+  "model": "glm-5.3"
+}

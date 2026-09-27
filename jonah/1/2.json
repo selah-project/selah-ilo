@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Agriingka, aganka iti Nineveh, ti dakkel nga ili, ket agpukawka maipana iti dayta, ta ngimmato ti dakesda iti sango.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Agriingka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aganka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ti dakkel"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ket agpukawka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "maipana iti dayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ngimmato"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ti dakesda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    }
+  ],
+  "timestamp": "2026-09-26T20:04:56.601275389Z",
+  "model": "glm-5.3"
+}

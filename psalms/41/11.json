@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ngem sika, Yahweh, asiannakam, ken ipatakderkamakon, ket maysaakto a mangibales kaniada.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ngem sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "asiannakam"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "ken ipatakderkamakon"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "ket maysaakto a mangibales"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:25.012980671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ken amin a babaí a nangipayso ti pusoda iti kinaempan intarada ⟨את⟩ ti buok dagiti kanding.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "a babaí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nangipayso"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ti pusoda"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩ da"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "iti kinaempan"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "intarada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti buok dagiti kanding"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ti buok dagiti kanding"
+    }
+  ],
+  "timestamp": "2026-09-26T04:40:38.095527629Z",
+  "model": "glm-5.3"
+}

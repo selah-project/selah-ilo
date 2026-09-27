@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Padaydayawennakanto agnanayon, ta inaramidmo dayta, ken agur-urayak ti nagammom, ta naimbang iti sanguan dagiti nasantuam.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Padaydayawennakonto"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "inaramidmo"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ken agur-urayak"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti nagammom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbang"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "dagiti nasantuam"
+    }
+  ],
+  "timestamp": "2026-09-26T21:26:29.794679844Z",
+  "model": "glm-5.3"
+}

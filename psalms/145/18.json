@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Asidegan ni Yahweh dagiti amin nga agawag kenkuana, kadagiti amin nga awagandana iti pudno.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Asidegan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "nga agawag kenkuana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "awagandana"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "iti pudno"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:37.168336485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ken ⟨את⟩ ti sangaribu ken pito a gasut ken pitopulo ket lima a shekel ket inaramidna a kawit para kadagiti poste, ket kinapalna kadagiti uloda ken binalotanna ⟨את⟩ dagitoy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti sangaribu... a shekel"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ti sangaribu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ken pito"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ken lima"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ken pitopulo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "a kawit"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "para kadagiti poste"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "ket kinapalna"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "kadagiti uloda"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "ken binalotanna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy (dagiti poste)"
+    }
+  ],
+  "timestamp": "2026-09-26T04:46:38.956498708Z",
+  "model": "glm-5.3"
+}

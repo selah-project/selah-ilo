@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 120,
+  "translation": "Yahweh, isalakam ti kararuak manipud iti bibig nga ulbod, ken manipud iti dila a mandaraya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "isalakam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "manipud iti bibig"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nga ulbod"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "manipud iti dila"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "a mandaraya"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:38.874851319Z",
+  "model": "glm-5.3"
+}

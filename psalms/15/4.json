@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti pidasen iti matana ket napidas, ngem ⟨את⟩ dagiti agbuteng kenni Yahweh idaydayawanna; nangsumpa a mangdadael ken saan a baliwanna.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "pidasen"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "iti matana"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "napidas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti agbuteng kenni Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "dagiti agbuteng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "idaydayawanna"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nangsumpa"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "a mangdadael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "baliwanna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:46.088499837Z",
+  "model": "glm-5.3"
+}

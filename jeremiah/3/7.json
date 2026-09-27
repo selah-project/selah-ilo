@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken kinunak: Kalpasan ti panaramidna ⟨את⟩ amin a dagitoy, agsublika kaniak — ket saan a nagsubli; ket nakita ti traydor a kabsatna, ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ken kinunak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "ti panaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a dagitoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "a dagitoy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "traydor"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "ti kabsatna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:07:56.424929941Z",
+  "model": "glm-5.3"
+}

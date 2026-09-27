@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ni Yoktan nagputot ⟨את⟩ ni Almodad ken ⟨את⟩ ni Shelef ken ⟨את⟩ ni Khatsarmavet ken ⟨את⟩ ni Yerakh.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "ni Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Khatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Khatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Yerakh"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerakh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:40.426979422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kinaramid ni Aharon ken dagiti anakna ⟨את⟩ amin dagiti sao a binilin ni Yahweh babaen ti ima ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kinaramid"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ken dagiti anakna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti sao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "binilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen ti ima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T05:14:04.241799922Z",
+  "model": "glm-5.3"
+}

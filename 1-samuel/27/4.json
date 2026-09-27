@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Naipabigat kenni Shaul a nagtaray ni David iti Gat, ket saan metten nanginayon a biruenna.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "naipabigat"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kenni Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "nagtaray"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "iti Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan metten"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "nanginayon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "a biruenna"
+    }
+  ],
+  "timestamp": "2026-09-26T11:17:40.132765909Z",
+  "model": "glm-5.3"
+}

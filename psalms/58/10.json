@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "Sakbay nga ammoenna dagiti kalderoyo ti siit, a kas iti sibibiag, a kas iti nasilsilap, ipukpukawna ida iti napigsa nga angin ⟨iti puersa⟩.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "sakbay"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ammoenna"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "dagiti kalderoyo"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "siit"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sibibiag"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "nasilsilap"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "ipukpukawna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:06.504374065Z",
+  "model": "glm-5.3"
+}

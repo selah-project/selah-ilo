@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket inaramid ni Moshe ken ni Elazar ti padi, a kas ti bilin ni Yahweh ⟨את⟩ kenkuana ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ket inaramid"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ken ni Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kenkuana ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T07:16:49.670905749Z",
+  "model": "glm-5.3"
+}

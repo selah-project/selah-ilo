@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 17:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "ket napasamak daytoy: no agurnong ti agapit iti natagtagiray a balayok, ket ti imana agputputol kadagiti bachoy; ket napasamak met: kas iti agbalkot kadagiti bachoy iti tanap dagiti Rephaim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "כאסף",
+      "gloss": "no agurnong"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ti agapit"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "iti natagtagiray a balayok"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ket ti imana"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "kadagiti bachoy"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "agputputol"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket napasamak met"
+    },
+    {
+      "surface": "כמלקט",
+      "gloss": "kas iti agbalkot"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "kadagiti bachoy"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "iti tanap"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "dagiti Rephaim"
+    }
+  ],
+  "timestamp": "2026-09-26T14:47:07.330775098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Dagiti ilim a pagdadaelan aramidenko, ket sika agbalinka a dadaelan, ket ammom a siak ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "Dagiti ilim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "pagdadaelan"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "aramidenko"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "dadaelan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "agbalinka"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ket ammom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T19:04:31.416930953Z",
+  "model": "glm-5.3"
+}

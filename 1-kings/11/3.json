@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket napasamak, adda kadakuana dagiti babai a prinsesa, pito a gasut, ken dagiti bali, tallo a gasut; ket dagiti asawana binaliwanda ⟨את⟩ ti pusona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "dagiti babai"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "prinsesa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "ken dagiti bali"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "binaliwanda"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "dagiti asawana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pusona"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ti pusona"
+    }
+  ],
+  "timestamp": "2026-09-26T12:51:53.255587459Z",
+  "model": "glm-5.3"
+}

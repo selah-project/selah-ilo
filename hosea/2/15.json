@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 2:15",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket ukomko kenkuana ⟨את⟩ dagiti aldaw dagiti Baal, a naginsenso kadakuada, ken sinuksukna ti aringgingna ken ti adornona, ket simmurot kadagiti kaayatna, ket siak ⟨את⟩ linipatanna, kuna ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "ket ukomko"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti aldaw"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "dagiti Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "naginsenso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "ken sinuksukna"
+    },
+    {
+      "surface": "נזמה",
+      "gloss": "ti aringgingna"
+    },
+    {
+      "surface": "וחליתה",
+      "gloss": "ken ti adornona"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ket simmurot"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "kaayatna"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ siak",
+      "marks": "siak — napukaw a banag"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "linipatanna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T19:31:46.249349804Z",
+  "model": "glm-5.3"
+}

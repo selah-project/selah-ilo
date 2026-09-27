@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket nakita dagiti dalan ti danum, ket naipakpakita dagiti nagtacderan ti daga, iti pananggaritmo, Yahweh, manipud iti angeg ti angin ti agiwmo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "dagiti dalan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "ket naipakpakita"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "dagiti nagtacderan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "iti pananggaritmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "manipud iti angeg"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti angin"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ti agiwmo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:07.672977345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ta ti pangaawet agbalin a bubu ti maammo, ket agdadael ⟨iti⟩ ⟨את⟩ puso ti taripato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ti pangaawet"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "agbalin a bubu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ti maammo"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "agdadael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "taripato"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:16.651076477Z",
+  "model": "glm-5.3"
+}

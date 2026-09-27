@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti Sheol ken ti Abaddon ⟨ket⟩ masansan a maan-anayen iti sanguanan ni Yahweh — no dadduma pay dagiti puso dagiti anak ti tao.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ti Sheol"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "ken ti Abaddon"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "no dadduma pay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "dagiti puso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak ti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:38:02.543734006Z",
+  "model": "glm-5.3"
+}

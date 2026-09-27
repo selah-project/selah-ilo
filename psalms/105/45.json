@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Tapno salaknibenda dagiti estatutona ken ti torahna tumulonganda. Idaydayawyo ti Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Tapno"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "salaknibenda"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "dagiti estatutona"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "ken ti torahna"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "tumulonganda"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Idaydayawyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ti Yah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:27.558961306Z",
+  "model": "glm-5.3"
+}

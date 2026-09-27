@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 144,
+  "translation": "Nakaragsakan ti umili a kastoy ti kasasaadna; nakaragsakan met ti umili a ni Yahweh ti Elohimna.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "nakaragsakan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "a kastoy ti kasasaadna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kenkuana⟩"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nakaragsakan met"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "a ni Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ti Elohimna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:27.452100898Z",
+  "model": "glm-5.3"
+}

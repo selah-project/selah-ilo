@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Napasamak a ni Shaul kinitna ⟨את⟩ ni David, manipud iti aldaw a dayta ken agnanayon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kinitna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "manipud iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "a dayta"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ken agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T10:58:45.773355296Z",
+  "model": "glm-5.3"
+}

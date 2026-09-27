@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ta kasukir ni Yahweh ti nalikmutan a tao, ket ti sikretona ⟨את⟩ dagiti nalinteg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kasukir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "ti nalikmutan a tao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti nalinteg"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "ti sikretona"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:54.323032165Z",
+  "model": "glm-5.3"
+}

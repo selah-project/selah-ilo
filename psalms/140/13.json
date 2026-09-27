@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Ammoak a ti ukom ti pobre aramidento ni Yahweh, ken ti ukom dagiti nakasapulan.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ammoak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ti pobre"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ken ti ukom"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "dagiti nakasapulan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:59.116006052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ti buyotna ken dagiti napili na: innem ken uppat a pulo a ribu ken lima a gasut.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ken ti buyotna"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ken dagiti napili na"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "innem"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ken uppat a pulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ken lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    }
+  ],
+  "timestamp": "2026-09-26T06:05:43.021026674Z",
+  "model": "glm-5.3"
+}

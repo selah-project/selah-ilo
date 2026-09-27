@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Ti adalem a danum, kas iti bado, ti inabbongmo; iti rabaw dagiti bantay agtakder dagiti danum.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ti adalem a danum"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kas iti bado"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "ti inabbongmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dagiti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:38.107276269Z",
+  "model": "glm-5.3"
+}

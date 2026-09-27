@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Siasino ti lalaki a kayatna ti biag, nga ayatenna dagiti aldaw, a makakita ti naimbag?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siasino"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "a kayatna"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nga ayatenna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a makakita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ti naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:42.559006962Z",
+  "model": "glm-5.3"
+}

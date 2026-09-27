@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 136,
+  "translation": "Kadagiti agaramid kadagiti dakkel a silaw, ta ti hesedna agnanayon.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kadagiti agaramid"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "kadagiti silaw"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:09.716518123Z",
+  "model": "glm-5.3"
+}

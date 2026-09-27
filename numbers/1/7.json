@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ni Nakhshon, anak a lalaki ni Aminadav, iti Yehudah.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "iti Yehudah"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    }
+  ],
+  "timestamp": "2026-09-26T06:03:10.065663887Z",
+  "model": "glm-5.3"
+}

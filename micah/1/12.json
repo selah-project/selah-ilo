@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ta nagur-uray ti agnanaed iti Maroth ti naimbagan, ta timmudol ti dakes manipud ken ⟨את⟩ Yahweh agingga iti ruaran ti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "nagur-uray"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ti naimbagan"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ti agnanaed"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "iti Maroth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "timmudol"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ken ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "agingga iti ruaran"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T20:02:00.854517612Z",
+  "model": "glm-5.3"
+}

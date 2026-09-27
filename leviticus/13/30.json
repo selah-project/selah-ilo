@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "kitaen ti padi ti ⟨את⟩ sakit, ket kitaen, no nauneg ti langana ngem ti kudil ket adda kenkuana dutdut a balitok a naingpis, iparuar ti padi a nakarugit ⟨את⟩ dayta a tao: ugo dayta, leptra ti ulo wenno ti barbas dayta.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sakit"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti sakit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket kitaen"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "ti langana"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "nauneg"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ti kudil"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dutdut"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "דק",
+      "gloss": "naingpis"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "iparuar a nakarugit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta a tao"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "ugo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "leptra"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "ti barbas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T05:27:16.820315347Z",
+  "model": "glm-5.3"
+}

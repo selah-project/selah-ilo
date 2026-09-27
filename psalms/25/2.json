@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Elohimko, kenka nakatalekak; saan koma a naulawak, saan koma a mangiragsak kaniak dagiti kabusorko.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nakatalekak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan koma"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "naulawak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan koma"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "mangiragsak"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dagiti kabusorko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:02:29.138593585Z",
+  "model": "glm-5.3"
+}

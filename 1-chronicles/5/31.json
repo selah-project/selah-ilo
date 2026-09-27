@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ni Avishua nagputot ⟨את⟩ kenni Bukki, ni Bukki nagputot ⟨את⟩ kenni Uzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Ni Avishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "kenni Bukki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ni Bukki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "kenni Uzi"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:47.544326938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Nagna ni Avram, nagna ken nagsuror, nga agpa-abagatan.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Nagna"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "nagsuror"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "agpa-abagatan"
+    }
+  ],
+  "timestamp": "2026-09-26T01:55:20.731394015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 8:13",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Inayon ni Moshe ⟨את⟩ dagiti anak ni Aharon, ket sinuotanna ida kadagiti kuto, ket sinikoganna ⟨את⟩ ida iti abanet, ket inda ikabil... ibinodanna kadakuada dagiti pudong; kas iti bilin ni Yahweh kenni ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "inayon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ni Aharon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "sinuotanna ida"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kadagiti kuto"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "ket sinikoganna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abanet"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "abanet"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ibinodanna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "dagiti pudong"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T05:16:35.847630855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Itedda dagiti anak ni Aharon ti padi ⟨ti⟩ apoy iti altar, ket urnosenda dagiti kayo iti ⟨ti⟩ apoy.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "itedda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "urnosenda"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "dagiti kayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:44.106719666Z",
+  "model": "glm-5.3"
+}

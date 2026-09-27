@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ket ti sumrek iti balay kadagiti amin nga aldaw ti panagrikepananna ket maanakanaget agingga iti rabii",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "ti sumrek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "panagrikepananna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "maanakanaget"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T05:28:16.797139173Z",
+  "model": "glm-5.3"
+}

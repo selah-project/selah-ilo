@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ket inedna kadakami iti daytoy a lugar, ket itedna kadakami ⟨את⟩ daytoy a daga, daga a agburbor iti gatas ken balballos.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "inedna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ti lugar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "a agburbor"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "iti gatas"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ken balballos"
+    }
+  ],
+  "timestamp": "2026-09-26T08:26:34.495060641Z",
+  "model": "glm-5.3"
+}

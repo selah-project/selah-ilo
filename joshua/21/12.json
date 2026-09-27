@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ngem ⟨את⟩ ti talon ti ili ken ⟨את⟩ dagiti purokna intedda ken ni Kalev, anak ni Yefuneh, kas ti tawidna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti talon ti ili"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti purokna"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "dagiti purokna"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "intedda"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ken ni Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ni Yefuneh"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "kas ti tawidna"
+    }
+  ],
+  "timestamp": "2026-09-26T09:24:30.564466467Z",
+  "model": "glm-5.3"
+}

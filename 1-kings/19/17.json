@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 19:17",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "ket agbalin a ti nakatalon manipud iti tabak ni Khazael ket patayen ni Yehu, ket ti nakatalon manipud iti tabak ni Yehu ket patayen ni Elisha.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "הנמלט",
+      "gloss": "ti nakatalon"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "manipud iti tabak"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Khazael"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "ket patayen"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "והנמלט",
+      "gloss": "ket ti nakatalon"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "manipud iti tabak"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "ket patayen"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    }
+  ],
+  "timestamp": "2026-09-26T13:10:48.552983631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 54:13",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 54,
+  "translation": "Ken amin dagiti anakmo dagiti nasursuro ni Yahweh, ken dakkel ti kappia dagiti anakmo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dagiti anakmo"
+    },
+    {
+      "surface": "למודי",
+      "gloss": "dagiti nasursuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ken dakkel"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dagiti anakmo"
+    }
+  ],
+  "timestamp": "2026-09-26T15:43:28.544328459Z",
+  "model": "glm-5.3"
+}

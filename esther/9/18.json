@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "esther 9:18",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Dagiti Yehudim a adda iti Shushan ket nagtiponda idi ti sangapulo ket tallo nga aldawna ken idi ti sangapulo ket uppat nga aldawna, ket naginarda idi ti sangapulo ket lima nga aldawna, ket inaramidda ⟨אתו⟩ daytoy nga aldaw nga aldaw ti panangan ken ragsak.",
+  "tokens": [
+    {
+      "surface": "והיהודיים",
+      "gloss": "dagiti Yehudim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "iti Shushan"
+    },
+    {
+      "surface": "נקהלו",
+      "gloss": "nagtiponda"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ken sangapulo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "ובארבעה",
+      "gloss": "ken uppat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "ket naginarda"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ken sangapulo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ket inaramidda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "daytoy nga aldaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "panangan"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ken ragsak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:14:54.186186952Z",
+  "model": "glm-5.3"
+}

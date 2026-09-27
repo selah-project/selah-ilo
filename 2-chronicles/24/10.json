@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "ket naragsakanda amin dagiti prinsipe ken ti amin a umili, ket impanda ket ibbetda iti kahon agingga a nalpasen.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ket naragsakanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "dagiti prinsipe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "impanda"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ibbetda"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "iti kahon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "a nalpasen"
+    }
+  ],
+  "timestamp": "2026-09-26T23:54:03.768643510Z",
+  "model": "glm-5.3"
+}

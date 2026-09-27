@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 16:7",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Isunga mangsangit ni Moab iti Moab, amin da ket mangsangit; kadagiti pasas a kakanen ti Kir-Hareset agdungdungkayo — nadadael unaykayo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "isunga"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "mangsangit"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ni Moab"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "iti Moab"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "mangsangit"
+    },
+    {
+      "surface": "לאשישי",
+      "gloss": "kadagiti pasas a kakanen"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ti Kir"
+    },
+    {
+      "surface": "חרשת",
+      "gloss": "Hareset"
+    },
+    {
+      "surface": "תהגו",
+      "gloss": "agdungdungkayo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "נכאים",
+      "gloss": "nadadael unaykayo"
+    }
+  ],
+  "timestamp": "2026-09-26T14:48:07.995051548Z",
+  "model": "glm-5.3"
+}

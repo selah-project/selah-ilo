@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Idi nakita ti nagbukel kadagiti aramidna a natayon ni Shaul, natnag met isuna iti tabak ket natay.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ti nagbukel"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kadagiti aramidna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:41.795868671Z",
+  "model": "glm-5.3"
+}

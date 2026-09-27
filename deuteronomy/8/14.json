@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket timmangkod ti puso-mo, ket limmokatam ⟨את⟩ ni Yahweh nga Elohim-mo, ti nangruar kenka iti daga ti Mitsrayim, iti balay dagiti adipen;",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ket timmangkod"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ti puso-mo"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ket limmokatam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ngaad Elohim-mo"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "ti nangruar kenka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "dagiti adipen"
+    }
+  ],
+  "timestamp": "2026-09-26T07:49:10.033440360Z",
+  "model": "glm-5.3"
+}

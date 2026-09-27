@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Kinuana a napan ni Moshe manipud kenni Paro, nagpaay manipud ⟨iti⟩ ili, ket impalawagna dagiti imana ken ni Yahweh, ket naginen dagiti timek ken ti amburayog, ken ti udan saan a nausaran ⟨iti⟩ daga.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nagpaay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manipud kenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti ili"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "impalawagna"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "dagiti imana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "naginen"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "dagiti timek"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "ken ti amburayog"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "ken ti udan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "nausaran"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T03:38:56.742567269Z",
+  "model": "glm-5.3"
+}

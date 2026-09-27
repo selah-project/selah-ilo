@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "ket pinatay ni Zikhri, maysa a lalaki a bileg iti Efrayim, ⟨את⟩ ni Maaseyahu anak ti ari, ken ⟨את⟩ ni Azrikam ti mangituray iti balay, ken ⟨את⟩ ni Elkana ti maikadua iti ari.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "pinatay"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "lalaki a bileg"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "iti Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Maaseyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mangituray"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Elkana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "iti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T23:55:38.213245100Z",
+  "model": "glm-5.3"
+}

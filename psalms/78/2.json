@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Lukatekto ti ngiwatko iti maysa a parabola; ibbutiakto dagiti nailemmeng a kapanunotan manipud idi minuna.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Lukatekto"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "iti maysa a parabola"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwatko"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ibbutiakto"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "dagiti nailemmeng a kapanunotan"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manipud idi"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "minuna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:36.186156674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 29:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ken alaenda ⟨את⟩ dagitoy manipud kadagiti imada, ket ipappukawmo iti altar iti ngato ti naawidan a daton, a banglo a nakairuruan iti sanguanan ni Yahweh; apuyan a daton dayta kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "alaenda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dagitoy",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "manipud kadagiti imada"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "ipappukawmo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti naawidan a daton"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "a banglo"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "a nakairuruan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "apuyan a daton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:30:36.491081585Z",
+  "model": "glm-5.3"
+}

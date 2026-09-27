@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "ket napasamak ti sao ni Yahweh ken ni Yirmeyahu iti Takhpankhes a kunkuna",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ni Yirmeyahu"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "iti Takhpankhes"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    }
+  ],
+  "timestamp": "2026-09-26T17:37:55.825487511Z",
+  "model": "glm-5.3"
+}

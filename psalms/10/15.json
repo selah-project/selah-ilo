@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Dadaelenmo ti braso ti dakes ken ti dakes a tao; darasuenmo ti kinadakesna — saan a mabiruk.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Dadaelenmo"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ti braso"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ken ti dakes a tao"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "darasuenmo"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ti kinadakesna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "a mabiruk"
+    }
+  ],
+  "timestamp": "2026-09-26T20:51:00.147361230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Nalpusen ti kararuak iti panangisalakam; iti saom, agur-urayak.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "nalpusen"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "iti panangisalakam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "iti saom"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "agur-urayak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:32.812506617Z",
+  "model": "glm-5.3"
+}

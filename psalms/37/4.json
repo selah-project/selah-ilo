@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ken agragsakka kenni Yahweh, ket itednakanto kadagiti kiddaw ti pusom.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "agragsakka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "itednakanto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "kadagiti kiddaw"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ti pusom"
+    }
+  ],
+  "timestamp": "2026-09-26T21:11:59.955177466Z",
+  "model": "glm-5.3"
+}

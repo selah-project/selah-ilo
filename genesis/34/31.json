@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Kinunada: Kas iti maysa a baing kadi nga aramidenna ⟨את⟩ ti kakabsatmi a babai?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kinunada"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "a baing"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kakabsatmi a babai"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "kakabsatmi a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T02:45:20.581593394Z",
+  "model": "glm-5.3"
+}

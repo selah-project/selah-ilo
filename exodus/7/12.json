@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket ti tunggal maysa ket ibinellengna ti batonna, ket nagbalin da nga uleg; ngem ti baton ni Aharon intulokna ⟨את⟩ dagiti baton da.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "ibinelleng da"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "batonna"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nagbalin da"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "nga uleg"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "intulokna"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "baton"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti batonda"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "dagiti batonda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:31:16.209094793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "Agingga no kaano, dagiti dakes, Yahweh? Agingga no kaano dagiti dakes a makliwliwag?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "makliwliwag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:54.843159090Z",
+  "model": "glm-5.3"
+}

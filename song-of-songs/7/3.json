@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ti pusodmo ket kas maysa a sisidlan a bilog, saan a maawan ti naibinlaklaka; ti tianmo ket kas maysa a monton ti trigo, nailikmutan kadagiti lirio.",
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "ti pusodmo"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "kas maysa a sisidlan"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "a bilog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "maawan"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "ti naibinlaklaka"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ti tianmo"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "kas maysa a monton"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ti trigo"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "nailikmutan"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "kadagiti lirio"
+    }
+  ],
+  "timestamp": "2026-09-26T23:02:08.854953166Z",
+  "model": "glm-5.3"
+}

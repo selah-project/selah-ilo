@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 143,
+  "translation": "Kanta ni David. Yahweh, dengngegem ti kararagak, pangegem ⟨iti⟩ dawatdawatko; iti pammatim isungbatannakon, iti kinalintegmo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengngegem"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ti kararagak"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pangegem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "dawatdawatko"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "iti pammatim"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "isungbatannakon"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "iti kinalintegmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:13.922065292Z",
+  "model": "glm-5.3"
+}

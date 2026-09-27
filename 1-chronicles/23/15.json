@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Dagiti anak ni Moshe: ni Gershom ken ni Eliezer.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ni Gershom"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ken ni Eliezer"
+    }
+  ],
+  "timestamp": "2026-09-26T23:40:01.137345961Z",
+  "model": "glm-5.3"
+}

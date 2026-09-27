@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 15:25",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket ita, pangpardonam koma ⟨את⟩ ti basolko, ket agsublika kaniak, ket agsangsangbayak kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ket ita"
+    },
+    {
+      "surface": "שא",
+      "gloss": "pangpardonam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti basolko"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ti basolko"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "agsangsangbayak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T10:47:39.120057066Z",
+  "model": "glm-5.3"
+}

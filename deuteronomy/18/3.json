@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ken daytoy ti agbalin a linteg dagiti padi manipud ⟨מאת⟩ ti pagarian, manipud ⟨מאת⟩ dagiti agsaksakripisio ti sakripisio — no baka wenno karnero — ket itedna kadagiti padi ti im, dagiti agiang ken ti tian.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ken daytoy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti agbalin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "linteg"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨מאת⟩",
+      "marks": "ti pagarian"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti pagarian"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨מאת⟩",
+      "marks": "dagiti agsaksakripisio"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "dagiti agsaksakripisio"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "ti sakripisio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "שה",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kadagiti padi"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ti im"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "dagiti agiang"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "ken ti tian"
+    }
+  ],
+  "timestamp": "2026-09-26T08:16:03.615357278Z",
+  "model": "glm-5.3"
+}

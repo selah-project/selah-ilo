@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 115,
+  "translation": "Dagiti talinga da, ngem saan da a makngngeg; ilong da, ngem saan da a makaamoy.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "dagiti talinga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "da a makngngeg"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ilong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "da a makaamoy"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:24.141858616Z",
+  "model": "glm-5.3"
+}

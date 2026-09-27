@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken ti lalaki a mangited ti panagtogdana iti maysa ayup — sigud a matayen; ket ⟨את⟩ ti ayup patayen yo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ken ti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a mangited"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "ti panagtogdana"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "iti maysa ayup"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sigud a"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "matayen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ket ⟨את⟩",
+      "marks": "ti ayup"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ti ayup"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "patayen yo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:47:16.576965549Z",
+  "model": "glm-5.3"
+}

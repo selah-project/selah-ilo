@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 96,
+  "translation": "Itedkayo kenni Yahweh ti daydayaw ti naganana; agalakayo ti minchah ken sumrekayo kadagiti arubayanna.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Itedkayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganana"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "agalakayo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ti minchah"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ken sumrekayo"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "kadagiti arubayanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:37.874560034Z",
+  "model": "glm-5.3"
+}

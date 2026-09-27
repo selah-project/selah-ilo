@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Tinapay dagiti napigsa a kinapudno ti inmakal ti tunggal maysa; ipatulodna kadakuada ti taraon agingga a busngiada.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "dagiti napigsa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "inakal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "taraon"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipatulodna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "agingga a busngiada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:34.494980919Z",
+  "model": "glm-5.3"
+}

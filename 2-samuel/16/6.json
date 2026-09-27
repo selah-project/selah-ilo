@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Pinaltoyna bato kenni Dawid ⟨את⟩ ken ⟨את⟩ amin a adipen ti ari a ni Dawid; ket ti amin nga umili ken amin dagiti natibker a lalaki idiay kannawanna ken idiay kawesna.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "pinaltoyna"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a adipen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "a adipen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "dagiti natibker a lalaki"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "idiay kannawanna"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "ken idiay kawesna"
+    }
+  ],
+  "timestamp": "2026-09-26T11:54:05.027034787Z",
+  "model": "glm-5.3"
+}

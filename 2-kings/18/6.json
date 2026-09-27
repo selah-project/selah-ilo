@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket nagtipon isuna kenni Yahweh, saan a simmanglad manipud iti panagsurot kenkuana, ket salaknibenna dagiti bilinna nga imbilin ni Yahweh ⟨את⟩ kenni Moshe.",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "ket nagtipon"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "סר",
+      "gloss": "simmanglad"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "manipud iti panagsurot kenkuana"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ket salaknibenna"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "dagiti bilinna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "imbilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T13:53:09.465014879Z",
+  "model": "glm-5.3"
+}

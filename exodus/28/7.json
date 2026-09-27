@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Dua nga abaganna a naisilpo ti agruknoy kadagiti dua nga apana, ket naisilpo ⟨daytoy⟩.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "abaga"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "a naisilpo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agruknoy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanianna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "apana"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ket naisilpo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:21:50.555659661Z",
+  "model": "glm-5.3"
+}

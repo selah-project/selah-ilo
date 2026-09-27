@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ta saan nga ibbaybay ni Yahweh ⟨את⟩ ti pagilianna gapu iti nagdakkel a naganna, ta nagayat ni Yahweh nga aramidennakayo ⟨את⟩ a pagilianna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "ibbaybay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagilianna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti pagilianna"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "naganna"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nagdakkel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "nagayat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a pagilianna"
+    }
+  ],
+  "timestamp": "2026-09-26T10:41:40.006632041Z",
+  "model": "glm-5.3"
+}

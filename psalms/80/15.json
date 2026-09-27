@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, agsublika padi, kitaem manipud iti langit ket makitam, ken bisitaem daytoy a mula ti ubas —",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "נא",
+      "gloss": "padi"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "manipud iti langit"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "makitam"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "bisitaem"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "mula ti ubas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:38.438028819Z",
+  "model": "glm-5.3"
+}

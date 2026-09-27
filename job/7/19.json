@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 7:19",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Mano koma ti atiddog a saanmo ak a liliwen, saanmo ak a baybay-an agingga nga ummeyak ti lawayko?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Mano koma ti atiddog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "liliwen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תרפני",
+      "gloss": "baybay-ak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "בלעי",
+      "gloss": "ummeyak"
+    },
+    {
+      "surface": "רקי",
+      "gloss": "ti lawayko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:50:15.232748017Z",
+  "model": "glm-5.3"
+}

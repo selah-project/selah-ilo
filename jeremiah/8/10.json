@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Isu nga itedko ⟨את⟩ dagiti asawada kadagiti sabsabali, dagiti talonda kadagiti agtawid; ta manipud iti bassit agingga iti dakkel, amin da ket agganansia iti ganansia, manipud iti propeta agingga iti padi, amin da ket agaramid iti saan a pudno.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "isu nga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti asawada"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "dagiti asawada"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kadagiti sabsabali"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "dagiti talonda"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "kadagiti agtawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "manipud iti bassit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "amin da"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "agganansia"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "iti ganansia"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "manipud iti propeta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "iti padi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "amin da"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agaramid iti"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "saan a pudno"
+    }
+  ],
+  "timestamp": "2026-09-26T16:30:37.859085707Z",
+  "model": "glm-5.3"
+}

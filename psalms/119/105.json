@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti lampara para kadagiti sakaak ti saom, ket lawag para iti dalank.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lampara"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "para kadagiti sakaak"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ti saom"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ket lawag"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "para iti dalank"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:45.804263218Z",
+  "model": "glm-5.3"
+}

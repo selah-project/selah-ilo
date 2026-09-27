@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Ti pagbeddengan impanmo, saanda a malabsan, saanda a maysubli nga abbongenda ti daga.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "ti pagbeddengan"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "impanmo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saanda a"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "malabsan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saanda a"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "maysubli"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "nga abbongenda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:43.034824453Z",
+  "model": "glm-5.3"
+}

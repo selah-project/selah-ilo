@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Nagtaray ni Esav a sumaruno kenkuana, kinumkomna, kinaptanna iti tengngena, dinakna, ket nagisisingda.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "nagtaray"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "a sumaruno kenkuana"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "kinumkomna"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kinaptanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "tengngena"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "dinakna"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "nagisisingda"
+    }
+  ],
+  "timestamp": "2026-09-26T02:43:47.056810714Z",
+  "model": "glm-5.3"
+}

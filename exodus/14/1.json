@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Kinuna ni Yahweh kenni Moshe ⟨a nagkuna⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a nagkuna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:52:43.401876859Z",
+  "model": "glm-5.3"
+}

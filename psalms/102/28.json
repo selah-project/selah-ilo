@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Ngem sika isu met laeng, ken dagiti tawenmo saan a malpas.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngem sika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu met laeng"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ken dagiti tawenmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "a malpas"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:42.285515057Z",
+  "model": "glm-5.3"
+}

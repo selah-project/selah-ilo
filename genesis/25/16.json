@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Dagitoy ti dagiti anak a lalaki ni Yishmael, ken dagitoy ti dagiti naganda, kadagiti pagtaenganda ken kadagiti pagturayanda: sangapulo ket dua a prinsipe segun kadagiti pagilianda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ni Yishmael"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ken dagitoy"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "dagiti naganda"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "kadagiti pagtaenganda"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "ken kadagiti pagturayanda"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "prinsipe"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "segun kadagiti pagilianda"
+    }
+  ],
+  "timestamp": "2026-09-26T02:18:25.238495899Z",
+  "model": "glm-5.3"
+}

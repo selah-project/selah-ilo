@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ti panagnaedmo, ti panagruarmo ken ti panagsublimo — ammok, ken ⟨את⟩ ti panagparabmo kaniak.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ti panagnaedmo"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ti panagruarmo"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ti panagsublimo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ammok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti panagparabmo"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ti panagparabmo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T15:18:48.918097319Z",
+  "model": "glm-5.3"
+}

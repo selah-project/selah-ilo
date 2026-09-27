@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Itan agtakderkayo, ket ukomko kadakayo ⟨את⟩ sango ni Yahweh — ⟨את⟩ amin dagiti nalinteg nga aramid ni Yahweh, a kinna kadakayo ⟨את⟩ ken kadagiti ammoyo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Itan"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "agtakderkayo"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "ket ukomko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti nalinteg nga aramid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "dagiti nalinteg nga aramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kinna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "kadagiti ammoyo"
+    }
+  ],
+  "timestamp": "2026-09-26T10:42:04.400794375Z",
+  "model": "glm-5.3"
+}

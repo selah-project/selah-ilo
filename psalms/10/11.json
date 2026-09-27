@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kinunana iti pusona: Linimmo ni El, lemmenganna ti rupana, saan pulos a makakita iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Kinunana"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "iti pusona"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "Linimmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "lemmenganna"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan pulos"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a makakita"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:59.994149883Z",
+  "model": "glm-5.3"
+}

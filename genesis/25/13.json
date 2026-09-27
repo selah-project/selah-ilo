@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 25:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken dagitoy ti dagiti nagan dagiti anak a lalaki ni Yishmael, kadagiti naganda, segun kadagiti kaputotanda: ti imbaknang ni Yishmael, Nevayot, ken Kedar, ken Adveel, ken Mivsam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ken dagitoy"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ni Yishmael"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "kadagiti naganda"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "segun kadagiti kaputotanda"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "imbaknang"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ni Yishmael"
+    },
+    {
+      "surface": "נבית",
+      "gloss": "Nevayot"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "ken Kedar"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "ken Adveel"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "ken Mivsam"
+    }
+  ],
+  "timestamp": "2026-09-26T02:18:25.235475299Z",
+  "model": "glm-5.3"
+}

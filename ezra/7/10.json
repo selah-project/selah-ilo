@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ta ni Ezra naisaganaanna ti pusona ⟨ti⟩ agsukisok ⟨את⟩ ti torah ni Yahweh, ken ⟨ti⟩ aramiden, ken ⟨ti⟩ isursuro iti Yisrael ⟨ti⟩ bilin ken ukom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "ni Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "naisaganaanna"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "nga agsukisok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti torah ni Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "ken aramiden"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "ken isursuro"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iti Yisrael"
+    },
+    {
+      "surface": "חק",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken ukom"
+    }
+  ],
+  "timestamp": "2026-09-26T23:23:38.863148398Z",
+  "model": "glm-5.3"
+}

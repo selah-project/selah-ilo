@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Binendisionan ti umili amin dagiti lallaki a nagbulontario nga agnaed idiay Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "binendisionan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "nagbulontario"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "nga agnaed"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "idiay Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:29:14.881793848Z",
+  "model": "glm-5.3"
+}

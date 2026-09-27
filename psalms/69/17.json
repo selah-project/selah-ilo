@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Sungbatannak, Yahweh, ta naimbag ti hesedmo; iti kaadu ti asim iturongmo ti rupam kaniak.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Sungbatannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "iti kaadu"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ti asim"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "iturongmo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:39.969112922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 33:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "ket ginatanganna ⟨את⟩ ti paset ti talon a sadiay naiwarasanna ti toldana, manipud iti ima dagiti annak ni Khamor, ama ni Shekhem, iti sangagasut a kesitah.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "ginatanganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti paset ti talon"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ti paset"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "naiwarasanna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ti toldana"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ni Khamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ni Shekhem"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "iti sangagasut"
+    },
+    {
+      "surface": "קשיטה",
+      "gloss": "a kesitah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:59:10.012740166Z",
+  "model": "glm-5.3"
+}

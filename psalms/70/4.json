@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 70,
+  "translation": "Agsublida gapu iti tikor ti basolanda, dagiti agkukuna: He-akh, he-akh.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Agsublida"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "iti tikor"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ti basolanda"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "dagiti agkukuna"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-akh"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-akh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:27.352395250Z",
+  "model": "glm-5.3"
+}

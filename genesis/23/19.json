@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 23:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Kalpasan daytoy, inkanabad ni Avraham ⟨את⟩ ni Saraya asawana iti liwang ti talon ti Makpela, iti sanguan ni Mamre — daytoy ti Hebron — iti daga ti Kanaan.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "inkanabad"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Saraya asawana"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ni Saraya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "liwang"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "ti Makpela"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sanguan ni"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ti Hebron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-26T02:13:57.323106363Z",
+  "model": "glm-5.3"
+}

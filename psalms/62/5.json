@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Lam-ii, no ti patakderdna laeng ti kirbedda a itinnegnan, ragsakenda ti kabuktutan; bendisionanda iti ngiwatda, ngem iti unegda agsagsasumpada. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lam-ii"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "ti patakderdna"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "kirbedda"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "a itinnegnan"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ragsakenda"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ti kabuktutan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "iti ngiwatda"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "bendisionanda"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "ngem iti unegda"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "agsagsasumpada"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:36.741468764Z",
+  "model": "glm-5.3"
+}

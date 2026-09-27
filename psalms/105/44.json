@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Ket itedna kaniada dagiti daga dagiti umili, ket ti trabaho dagiti nasion tawidenda.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ket itedna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "dagiti daga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ket ti trabaho"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "dagiti nasion"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "tawidenda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:12.340379635Z",
+  "model": "glm-5.3"
+}

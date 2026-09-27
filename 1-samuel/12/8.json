@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "No simmangpet ni Yaakov iti Mitsrayim, dagiti ammoyo nagkararagda kenni Yahweh, ket innatol ni Yahweh ⟨את⟩ kenni Moshe ken ⟨את⟩ kenni Aharon, ket inruarda ⟨את⟩ dagiti ammoyo manipud iti Mitsrayim ket pinaeddada idiay daytoy a disso.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "No"
+    },
+    {
+      "surface": "בא",
+      "gloss": "simmangpet"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "nagkararagda"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "dagiti ammoyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ket innatol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ket inruarda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti ammoyo"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "dagiti ammoyo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "ket pinaeddada"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "idiay disso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T10:42:04.400971018Z",
+  "model": "glm-5.3"
+}

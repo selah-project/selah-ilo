@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "No nadukar a madukar, ityonna ⟨iti⟩ saksi ti nadukar; saan a mangibayar ti nadukar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "nadukar"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "a madukar"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "ityonna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨iti⟩ saksi"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ti nadukar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "a mangibayar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:06:36.565124709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 124,
+  "translation": "Kanta ti Panagpangato, ni David. No saan idi a ni Yahweh ti adda kadatayo — ibagam ita, Yisrael:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti Panagpangato"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "No saan idi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ti adda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadatayo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:12.970868579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 4:1",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Dengngegyo ⟨ti⟩ sao ni Yahweh, dagiti anak ti Yisrael; ta adda timpenna a rimsua ti ribongan ni Yahweh kadagiti agnanaed iti daga: ta awan ti kinapudno, ket awan ti hesed, ket awan ti ammmo iti Elohim iti daga.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "dengngegyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "timpenna a rimsua ti ribongan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan ti"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kinapudno"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan ti"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan ti"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ammmo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T19:33:07.370289527Z",
+  "model": "glm-5.3"
+}

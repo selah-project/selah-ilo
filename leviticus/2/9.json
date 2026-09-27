@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ti padi ket alaenna manipud iti daton ⟨את⟩ ti paset a panaglagipan-na ken ipaanginna daytoy iti altar, a sakripisio-apoy, bangles a ayat iti Yahweh.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "ken ti padi ket alaenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "daton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti paset a panaglagipan-na"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "ti paset a panaglagipan-na"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ken ipaanginna daytoy"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "a sakripisio-apoy"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bangles"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "a ayat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "iti Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:52:48.939743511Z",
+  "model": "glm-5.3"
+}

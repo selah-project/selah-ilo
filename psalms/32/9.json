@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Saan koma a kayo a kas ti kabalio, a kas ti buriko nga awan ti pannakaammoda; iti pened ken iti remso, ti aramidda, a pangipenadda, no koma agasidegda kadakuam.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "koma a kayo"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "a kas ti kabalio"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "a kas ti buriko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nga awan"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ti pannakaammo"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "iti pened"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "ken iti remso"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ti aramidda"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "a pangipenadda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no koma saan"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "agasidegda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kadakuam"
+    }
+  ],
+  "timestamp": "2026-09-26T21:06:54.250606717Z",
+  "model": "glm-5.3"
+}

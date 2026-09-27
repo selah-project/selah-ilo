@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket ita, ni amak nangikarga kadakayo ti nadagsen a pammadayo, ngem siak mangnayon iti pammadayoyo; ni amak dinusa ⟨את⟩ dakayo babaen ti latigo, ngem siak dusaek ⟨את⟩ dakayo babaen ti alakanban.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ket ita"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ni amak"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "nangikarga"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pammadayo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nadagsen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ngem siak"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "mangnayon"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "pammadayoyo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ni amak"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "dinusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "babaen ti latigo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ngem siak"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "dusaek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "babaen ti alakanban"
+    }
+  ],
+  "timestamp": "2026-09-26T12:47:42.990894173Z",
+  "model": "glm-5.3"
+}

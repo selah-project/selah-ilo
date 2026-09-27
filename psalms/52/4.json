@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Dagiti dakes ti maisipmo, dilaam, kasla maysa a navalja a nasiit, nga agaramid iti daya.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Dagiti dakes"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "maisipmo"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "dilaam"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "kasla maysa a navalja"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "a nasiit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nga agaramid"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "iti daya"
+    }
+  ],
+  "timestamp": "2026-09-26T21:31:44.169885515Z",
+  "model": "glm-5.3"
+}

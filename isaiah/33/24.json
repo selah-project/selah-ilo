@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ken saan a kunaenna ti agnanaed: Sakitdiak; ti umili nga agnanaed iti dayta ket naited ti patawad ti basolna.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a kunaenna"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ti agnanaed"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "Sakitdiak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "nga agnanaed"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "naited ti patawad"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ti basolna"
+    }
+  ],
+  "timestamp": "2026-09-26T15:05:09.243228305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Nangngeg ti Elohim ket naer, ket naay-ayanna un-unnoi ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "ket naer"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "ket naay-ayanna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "un-unnoi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:05.231179170Z",
+  "model": "glm-5.3"
+}

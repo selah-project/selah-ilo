@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 84,
+  "translation": "No kaman a kayatayo dagiti pagnaedam a nasantuan, a Yahweh Tsevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "No kaman"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "a kayatayo"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "dagiti pagnaedam a nasantuan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:00.036396147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Natay ni Shemuel, ket timmipon ti amin nga Yisrael ket sinaludsodanda ⟨⟨⟩⟩ cana, ket nailubongda cana iti balayna iti Rama. Ket immakar ni David ket napan nga agbaba iti liwa ti Paran.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Natay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "ket timmipon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ngañ Yisrael"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ket sinaludsodanda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cana"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ket nailubongda cana"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "iti balayna"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "iti Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ket immakar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ket napan nga agbaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ti Paran"
+    }
+  ],
+  "timestamp": "2026-09-26T11:12:34.019637106Z",
+  "model": "glm-5.3"
+}

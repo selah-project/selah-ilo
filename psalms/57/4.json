@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Ipatnagna ⟨ni Elohim⟩ manipud iti langit ken isalakannak; iyallilawna ti agngangat kaniak. Selah. Ipatnagna ni Elohim ti hesedna ken ti kinapudnona.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ipatnagna"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "manipud iti langit"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "isalakannak"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "iyallilawna"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "ti agngangat kaniak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ipatnagna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ti kinapudnona"
+    }
+  ],
+  "timestamp": "2026-09-26T21:32:49.897898998Z",
+  "model": "glm-5.3"
+}

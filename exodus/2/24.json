@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Nangngeg ni Elohim ⟨את⟩ ti panagasedda, ket naalagan ni Elohim ⟨את⟩ ti tulagna, ⟨iti⟩ ⟨את⟩ ni Avraham, ⟨iti⟩ ⟨את⟩ ni Yitskhak, ken ⟨את⟩ ni Yakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagasedda"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ti panagasedda"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "naalagan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulagna"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ti tulagna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yakov"
+    }
+  ],
+  "timestamp": "2026-09-26T03:26:42.659687066Z",
+  "model": "glm-5.3"
+}

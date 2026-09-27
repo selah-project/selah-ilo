@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "ket nakitana a nasayaat ti panaginna, ken nakitana ⟨את⟩ ti daga a naimbag, ket intignayna ti abagna a mangibati, ket nagbalin nga adipen a mangserbi iti buis.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ket nakitana"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ti panaginna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ket intignayna"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ti abagna"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "a mangibati"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "למס",
+      "gloss": "iti buis"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ngaadipen a mangserbi"
+    }
+  ],
+  "timestamp": "2026-09-26T03:21:05.335373689Z",
+  "model": "glm-5.3"
+}

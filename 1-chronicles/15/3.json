@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Pinagimong ni David ⟨את⟩ ti amin nga umili ti Yisrael iti Yerushalayim, a mangipangato ⟨את⟩ ti arko ni Yahweh iti dissona, a pinagsaganana kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "pinagimong"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin nga umili ti Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "a mangipangato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "dissona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "pinagsagana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:59.528842126Z",
+  "model": "glm-5.3"
+}

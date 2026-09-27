@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ket ita, agpadaayka nga adda ⟨את⟩ ti apok, ti ari ti Ashur, ket itedko kenka dua a ribu a kabalyo, no makabaelka a mangited para kenka kadagiti agsakay kadakuada.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ket ita"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "agpadaayka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngarud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ti apok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ket itedko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dua a ribu"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kabalyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "makabaelka"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "a mangited"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para kenka"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "kadagiti agsakay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T15:21:25.610453177Z",
+  "model": "glm-5.3"
+}

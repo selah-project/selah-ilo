@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Nauaw ti kararwak iti Elohim, iti El a sibibiag — kaano ti umayko ken makitak ⟨ti⟩ rupa ti Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "Nauaw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "iti El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a sibibiag"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kaano"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ti umayko"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ken makitak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨ti⟩ rupa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T21:18:11.473457613Z",
+  "model": "glm-5.3"
+}

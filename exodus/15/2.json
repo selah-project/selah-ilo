@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Yah ti bilegko ken ti kantak, ket nagbalin nga isu ti salakannak; daytoy ti Elko, ket daydayawenko; ti Elohim ni amak, ket ipangatko kenkuana.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ken ti kantak"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngaisu ti"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "salakannak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ti Elko"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "ket daydayawenko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ni amak"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "ket ipangatko kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T03:53:56.985005171Z",
+  "model": "glm-5.3"
+}

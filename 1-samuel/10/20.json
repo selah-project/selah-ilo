@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Inayon ni Shemuël ⟨את⟩ amin a tribo ti Yisrael, ket natili ti tribo ni Binyamin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "inayon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a tribo ti Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "a tribo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ket natili"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ti tribo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-26T10:40:57.700254422Z",
+  "model": "glm-5.3"
+}

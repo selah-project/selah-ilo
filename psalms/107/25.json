@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Kinunana, ket inyatakderna ti angin ti bagyo, ket immangato dagiti allonna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "inyatakderna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti angin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ti bagyo"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "ket immangato"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "dagiti allonna"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:06.632716945Z",
+  "model": "glm-5.3"
+}

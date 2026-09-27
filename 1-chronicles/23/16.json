@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Dagiti anak ni Gershom: ni Shebuel ti pangulu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ni Gershom"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "ni Shebuel"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti pangulu"
+    }
+  ],
+  "timestamp": "2026-09-26T23:40:01.137489985Z",
+  "model": "glm-5.3"
+}

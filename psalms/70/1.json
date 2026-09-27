@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 70,
+  "translation": "Ti mannangidaulo; salmo ni David, ⟨a pakalagipan⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ti mannangidaulo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "a pakalagipan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:27.350347892Z",
+  "model": "glm-5.3"
+}

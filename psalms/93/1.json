@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 93,
+  "translation": "Nangituray ni Yahweh; ti kiday sinuotanna; sinuotan ni Yahweh ti bileg, binaknaganna ti bagina; napatakder pay ti lubong, saan a matnag.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ti kiday"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "sinuotanna"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "sinuotan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "binaknaganna ti bagina"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pay"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "napatakder"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ti lubong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "a matnag"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:58.117362945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Sadino dagiti hesedmo a dagiti umuna, Adonay, nga nangisumpaka kenni David iti pammatim?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Sadino"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "dagiti hesedmo"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "a dagiti umuna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "nga nangisumpaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kenni David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "iti pammatim"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:33.315073466Z",
+  "model": "glm-5.3"
+}

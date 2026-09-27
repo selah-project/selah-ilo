@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Ni Adonay ti agited ⟨iti⟩ sao; dagiti babbai a mangibaga ti damag ket maysa a buyot nga adu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ti agited"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "dagiti babbai a mangibaga ti damag"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "maysa a buyot"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nga adu"
+    }
+  ],
+  "timestamp": "2026-09-26T21:40:30.315803969Z",
+  "model": "glm-5.3"
+}

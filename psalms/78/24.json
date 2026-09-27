@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket inudanna kadakuada ti man a mangan, ken ti bagas ti langit initedna kadakuada.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "inudanna"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "a mangan"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ti bagas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:13.812425830Z",
+  "model": "glm-5.3"
+}

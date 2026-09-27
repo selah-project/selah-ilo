@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ken ni Moshe sumadan a bukodna laeng iti Yahweh, ngem daida saan nga agsumda, ket dagiti tattao saan a sumanda kenkuana.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "sumadan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "a bukodna laeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ngem daida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "nga agsumda"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ket dagiti tattao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "a sumanda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T04:11:19.361357042Z",
+  "model": "glm-5.3"
+}

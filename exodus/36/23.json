@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Inaramidna ⟨את⟩ dagiti tabla ti ⟨Mishkan⟩; duapulo a tabla iti paset ti abagatan, agpaabagatan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tabla"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dagiti tabla"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "a tabla"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "iti paset"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ti abagatan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "agpaabagatan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:42:15.063550773Z",
+  "model": "glm-5.3"
+}

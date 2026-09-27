@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 20:1",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Dimmagsat dagiti anak nga Yisrael, ti sibubukel a gimong, iti liwat ti Tsin iti umuna a bulan, ket timmenged ti ili iti Kadesh; ket natay idiay ni Miryam ket nailubong idiay.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Dimmagsat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti sibubukel"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a gimong"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "iti liwat"
+    },
+    {
+      "surface": "צן",
+      "gloss": "ti Tsin"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ti umuna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "timmenged"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti Kadesh"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ni Miryam"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "ket nailubong"
+    },
+    {
+      "surface": "שם",
+      "gloss": "idiay"
+    }
+  ],
+  "timestamp": "2026-09-26T06:53:36.494448062Z",
+  "model": "glm-5.3"
+}

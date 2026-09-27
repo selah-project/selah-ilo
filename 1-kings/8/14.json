@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket immaysa ti ari ⟨את⟩ rupana ket binendisionanna ⟨את⟩ ti amin a gimong ti Yisrael, ket ti amin a gimong ti Yisrael agtakder.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "immaysa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rupana"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rupana"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a gimong ti Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket ti amin"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "agtakder"
+    }
+  ],
+  "timestamp": "2026-09-26T12:39:51.141278169Z",
+  "model": "glm-5.3"
+}

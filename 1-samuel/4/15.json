@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ni Eli ket anak ti siam a pulo ket walo a tawen, ket dagiti matana ket timmangken, ken saan a makabael a makita.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "ken ni Eli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ti siam a pulo"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ket walo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "dagiti matana"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "timmangken"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "makabael"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a makita"
+    }
+  ],
+  "timestamp": "2026-09-26T10:33:09.712265598Z",
+  "model": "glm-5.3"
+}

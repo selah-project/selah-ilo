@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 22:6",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ket binendisionan ni Yehoshua daida, ket ipinaidda, ket nagnada a nagturong kadagiti toldada.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "binendisionan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ipinaidda"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nagnada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a nagturong"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "kadagiti toldada"
+    }
+  ],
+  "timestamp": "2026-09-26T09:27:09.880424962Z",
+  "model": "glm-5.3"
+}

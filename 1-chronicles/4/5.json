@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken kenni Ashkhur, amana ti Tekoa, adda idi dua nga asawa: ni Khelah ken ni Naarah.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "Ken kenni Ashkhur"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amana"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "ti Tekoa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adda idi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "nga asawa"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ni Khelah"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "ken ni Naarah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:17.669905722Z",
+  "model": "glm-5.3"
+}

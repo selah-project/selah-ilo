@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ti payo iti puso ti lalaki ⟨ket⟩ danum a naadalem, ket ti lalaki ti pannakaammo isuna ti mangala ⟨kadagiti dayta⟩.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "a naadalem"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ti payo"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "iti puso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ket ti lalaki"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ti pannakaammo"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "mangala"
+    }
+  ],
+  "timestamp": "2026-09-26T22:40:08.908116683Z",
+  "model": "glm-5.3"
+}

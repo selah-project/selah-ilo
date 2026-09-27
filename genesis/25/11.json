@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Kalpasan ti ipapatay ni Avraham, binendisionan ni Elohim ⟨את⟩ ni Yitskhak nga anakna; ket nagtaeng ni Yitskhak iti asideg ti Baer-Lachai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nangrugi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ti ipapatay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "binendisionan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagtaeng"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iti asideg"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Baer"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-09-26T02:18:35.630226270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ket iti sanguanan dagiti kamaro adda maysa a dalan a kalawana sangapulo a kodo nga agpauneg, iti maysa a kodo ti kalawa; ket dagiti ruaranada ket adda iti amianan.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "ket iti sanguanan"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "dagiti kamaro"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kodo"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "kalawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga agpauneg"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "uneg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kalawa ti dalan"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kodo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "ket dagiti ruaranada"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "iti amianan"
+    }
+  ],
+  "timestamp": "2026-09-26T19:13:36.841940435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Kalpasanna naganak iti babai, ket inawaganna ⟨את⟩ ti naganenna a Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naganak"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babai"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganenna"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "naganenna"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-09-26T02:31:09.777286627Z",
+  "model": "glm-5.3"
+}

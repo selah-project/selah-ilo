@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "ken dagiti bato a shoham ken dagiti bato a pangikabilan, para iti ephod ken para iti choshen",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "ken dagiti bato"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "a shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ken dagiti bato"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "a pangikabilan"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "para iti ephod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ken para iti choshen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:33:18.595824892Z",
+  "model": "glm-5.3"
+}

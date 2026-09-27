@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ket inurnong dagiti Pelishtio ⟨את⟩ dagiti kampo da iti gubat, ken naurnongda idiay Sokho nga adda iti Yehudah, ket nagkampo da iti nagbaetan ti Sokho ken ti Azeqah, idiay Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ket inurnong"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kampo da"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "dagiti kampo da"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ken naurnongda"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "idiay Sokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "iti Yehudah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ket nagkampo da"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "ti Sokho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken ti"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeqah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Efes-Damim"
+    }
+  ],
+  "timestamp": "2026-09-26T10:54:37.486568206Z",
+  "model": "glm-5.3"
+}

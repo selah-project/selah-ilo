@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ken naglabanda dagiti Plishtim ⟨iti⟩ Yisrael, ket immtaray dagiti lallaki ti Yisrael manipud iti sango dagiti Plishtim, ken natnag dagiti natay iti bantay Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ken dagiti Plishtim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "naglabanda"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iti Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ket immtaray"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manipud iti sango"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Plishtim"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ket natnag"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "dagiti natay"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-26T11:23:42.063022824Z",
+  "model": "glm-5.3"
+}

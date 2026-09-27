@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ken ⟨את⟩ ti Hiwi ken ⟨את⟩ ti Arki ken ⟨את⟩ ti Sini,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Hiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ti Hiwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ti Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ti Sini"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:40.487197943Z",
+  "model": "glm-5.3"
+}

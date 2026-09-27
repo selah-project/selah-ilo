@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 144,
+  "translation": "A dagiti anakkami a lalaki kas dagiti naimula a nalukmeg kadagiti kabibiagda, dagiti anakkami a babai kas dagiti suli ti sulok, naisukatan kadagiti porma ti palasio.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "A"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "dagiti anakkami a lalaki"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "kas dagiti naimula"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "a nalukmeg"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "kadagiti kabibiagda"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "dagiti anakkami a babai"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "kas dagiti suli ti sulok"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "naisukatan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "kadagiti porma"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ti palasio"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:14.558240720Z",
+  "model": "glm-5.3"
+}

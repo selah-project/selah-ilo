@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Saanmo a mangala ti interes manipud iti kabsatmo — interes ti pilak, interes ti makan, interes ti aniaman a banag a maalaan ti interes.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "a mangala ti interes"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "manipud iti kabsatmo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interes"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ti pilak"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interes"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ti makan"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti aniaman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a banag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "maalaan ti interes"
+    }
+  ],
+  "timestamp": "2026-09-26T08:27:12.073467944Z",
+  "model": "glm-5.3"
+}

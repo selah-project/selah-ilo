@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "No kuma ti mangrisris a kas iti leon ti kararuak, agdadael, nga awan ti mangisalakan.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "no kuma"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "mangrisris"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "a kas iti leon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "agdadael"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nga awan"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ti mangisalakan"
+    }
+  ],
+  "timestamp": "2026-09-26T20:46:48.500453255Z",
+  "model": "glm-5.3"
+}

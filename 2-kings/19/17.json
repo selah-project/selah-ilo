@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Sigud a kasta, Yahweh, dinadaelda dagiti ari ti Ashur ⟨את⟩ dagiti umili ken ⟨את⟩ ti dagada.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "sigud a kasta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "dinadaelda"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti umili"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti dagada"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ti dagada"
+    }
+  ],
+  "timestamp": "2026-09-26T14:05:35.396429957Z",
+  "model": "glm-5.3"
+}

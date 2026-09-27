@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken agipatnagak ti kinaaway iti pagbaetanmo ken ti babai, ken iti pagbaetan ti maladmo ken ti maladna; isu ti mangdadael ti ulom, ket sika ti mangdadael iti takkongna.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "ti kinaaway"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "agipatnagak"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "iti pagbaetanmo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti pagbaetan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti pagbaetan"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ti maladmo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti pagbaetan"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "ti maladna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "ti mangdadael kenka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "mangdadael kenkuana"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "takkong"
+    }
+  ],
+  "timestamp": "2026-09-26T01:42:21.627368366Z",
+  "model": "glm-5.3"
+}

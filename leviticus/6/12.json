@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kinuna ni Yahweh kenni Moshe, a kinunana:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinunana"
+    }
+  ],
+  "timestamp": "2026-09-26T05:04:12.414113721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "No dumakkel dagiti nalinteg, agragsak ti umili; ket no agturay ti dakes, agsangsangit ti umili.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "no dumakkel"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "agragsak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "no agturay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "agsangsangit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umili"
+    }
+  ],
+  "timestamp": "2026-09-26T22:46:20.520886890Z",
+  "model": "glm-5.3"
+}

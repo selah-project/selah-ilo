@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 111,
+  "translation": "Dagiti aramid ti imana ket pudno ken ukom; mamatit amin dagiti bilinna.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "dagiti aramid"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pudno"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken ukom"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "mamatit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "dagiti bilinna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:38.525649147Z",
+  "model": "glm-5.3"
+}

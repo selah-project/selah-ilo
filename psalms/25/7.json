@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Dagiti basol ti kabataak ken dagiti pananglabsingko, saanmo a lagipen; no kas iti hesedmo, lagipenmoak a Sika, gapu iti kinanaimmo, ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Dagiti basol"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "ti kabataak"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "ken dagiti pananglabsingko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "a lagipen"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "no kas iti hesedmo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lagipenmoak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kinanaimmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:01:31.582271537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Ti kaaduan ti dalanmo nakapuyka, saan a kinunam: awan ti namnama; nakitam ti biag ti imam — gapu iti dayta saanka a nakapsutan.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ti kaaduan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ti dalanmo"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "nakapuyka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "kinunam"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "namnama"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "nakitam"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "nakapsutan"
+    }
+  ],
+  "timestamp": "2026-09-26T15:53:51.858687497Z",
+  "model": "glm-5.3"
+}

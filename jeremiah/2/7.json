@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket inegakayo ⟨את⟩ iti daga ti Karmel, a mangkan kadagiti bungana ken ti kinapintasna; ngem immaykayo ket pinarugityo ⟨את⟩ ti dagak, ket ti tawidko inaramidyo a nakasukimlan.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "ket inegak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ti Karmel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "a mangkan"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "kadagiti bungana"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "ken ti kinapintasna"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "ket immaykayo"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "ket pinarugityo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dagak"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ti dagak"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ket ti tawidko"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "inaramidyo"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "a nakasukimlan"
+    }
+  ],
+  "timestamp": "2026-09-26T16:15:32.850772607Z",
+  "model": "glm-5.3"
+}

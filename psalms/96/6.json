@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 96,
+  "translation": "Iti sanguanana ti daydayaw ken ti kadakkel; iti nasantuan a lugarna ti bileg ken ti pinta.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ken ti kadakkel"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti sanguanana"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ken ti pinta"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "iti nasantuan a lugarna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:37.874150312Z",
+  "model": "glm-5.3"
+}

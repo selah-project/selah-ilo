@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Manipud kadagitoy nagisina dagiti isla dagiti pagpagilian kadagiti daga-da, tunggal maysa iti sao-na, kadagiti pamilia-da, kadagiti pagilian-da.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "manipud kadagitoy"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "nagisina"
+    },
+    {
+      "surface": "איי",
+      "gloss": "dagiti isla"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dagiti pagpagilian"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "kadagiti daga-da"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "iti sao-na"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kadagiti pamilia-da"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "kadagiti pagilian-da"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:09.296449067Z",
+  "model": "glm-5.3"
+}

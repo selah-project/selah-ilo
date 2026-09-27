@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Maysa a Torah ken maysa a bilin ti adda kadakayo ken ti tagilailay a agtagilailay ⟨את⟩ kadakayo.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken maysa a bilin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ken ti tagilailay"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ti agtagilailay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:42:06.740457795Z",
+  "model": "glm-5.3"
+}

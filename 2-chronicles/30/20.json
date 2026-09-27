@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ket dimmengngeg ni Yahweh kenni Hizkiyahu, ket pinuluyna ⟨את⟩ ti umili.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ket dimmengngeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ni Hizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ket pinuluyna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T23:55:49.637676318Z",
+  "model": "glm-5.3"
+}

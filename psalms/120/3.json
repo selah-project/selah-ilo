@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 120,
+  "translation": "Ania ti maited kenka, ket ania ti mainayon kenka, ti dila a mandaraya?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ti maited"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ket ania"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ti mainayon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ti dila"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "a mandaraya"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:38.875030476Z",
+  "model": "glm-5.3"
+}

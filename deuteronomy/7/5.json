@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ngem no kasta ti aramidenyo kadakuada: dagiti altarda ket iddadaelyo, ken dagiti posteda ket babakenyo, ken dagiti Asherada ket guddayenyo, ken dagiti ladionda ket ipasoyo iti apoy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aramidenyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "dagiti altarda"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "iddadaelyo"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "ken dagiti posteda"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "babakenyo"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "ken dagiti Asherada"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "guddayenyo"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "ken dagiti ladionda"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "ipasoyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T07:47:44.672851862Z",
+  "model": "glm-5.3"
+}

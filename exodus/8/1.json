@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Ibagam kenni Aharon: Itedyo ⟨את⟩ ti imam agraman ti pagtayyekam iti rabaw dagiti karayan, iti rabaw dagiti siong nga agdanum, ken iti rabaw dagiti naegnaan, ken ipangatmo ⟨את⟩ dagiti baka-baka iti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "agraman ti pagtayyekam"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "dagiti siong nga agdanum"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti rabaw"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "dagiti naegnaan"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ken ipangatmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti baka-baka"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "dagiti baka-baka"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:41:40.340608774Z",
+  "model": "glm-5.3"
+}

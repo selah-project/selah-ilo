@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket ni Esav ⟨את⟩ saan ko a kayat; ken inaramidko ⟨את⟩ dagiti bantayna a bambanag, ken ⟨את⟩ ti tawidna a pagtaengan dagiti ayas ti liwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "saan ko a kayat"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "ken inaramidko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bantayna"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "dagiti bantayna"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "a bambanag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tawidna"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ti tawidna"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "a pagtaengan dagiti ayas"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ti liwa"
+    }
+  ],
+  "timestamp": "2026-09-26T20:40:06.669766020Z",
+  "model": "glm-5.3"
+}

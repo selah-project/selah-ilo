@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Kinuna ni Yahweh kenkuana: Ania daytoy iti imam? Ket kinunana: Maysa a baston.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ania daytoy"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "iti imam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "maysa a baston"
+    }
+  ],
+  "timestamp": "2026-09-26T03:28:50.606511139Z",
+  "model": "glm-5.3"
+}

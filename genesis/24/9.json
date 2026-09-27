@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Inikkanna ti adipen ti ⟨את⟩ imana iti baba ti puingan ni Avraham a pagtungpalanna, ket napan nga isinna iti daytoy a sao.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "inikkanna"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ti adipen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "imana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ti puingan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "a pagtungpalanna"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ket napan nga isinna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T02:15:56.628829003Z",
+  "model": "glm-5.3"
+}

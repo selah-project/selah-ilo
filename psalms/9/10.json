@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket agbalin ni Yahweh a kabanbantayan ti nakarigrigat, kabanbantayan kadagiti panawen iti rigat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "a kabanbantayan"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ti nakarigrigat"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kabanbantayan"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "kadagiti panawen"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "iti rigat"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:07.062049277Z",
+  "model": "glm-5.3"
+}

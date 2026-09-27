@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ibilangmo ⟨את⟩ dagiti anak ni Levi babaen ti balay dagiti amada, babaen kadagiti pamilia da; ti amin a lalaki manipud iti anak ti maysa a bulan ken agpangato ibilangmo da.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "ibilangmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ni Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "babaen ti balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dagiti amada"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "babaen kadagiti pamilia da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "manipud iti anak"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ti maysa a bulan"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ken agpangato"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "ibilangmo da"
+    }
+  ],
+  "timestamp": "2026-09-26T06:10:18.583760094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Mamati ka, a anak a babai, ken kitaem, ken itippingmo ti lapayagmo; ket lipatem ti umilim ken ti balay ni amam.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Mamati ka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "a anak a babai"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ken kitaem"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "ket itippingmo"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ti lapayagmo"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ket lipatem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti umilim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ken ti balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ni amam"
+    }
+  ],
+  "timestamp": "2026-09-26T21:20:43.756784047Z",
+  "model": "glm-5.3"
+}

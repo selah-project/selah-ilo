@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket sangapulo ket dua a leon nga agtakder sadiay iti innem a tayaday, manipud ditoy ken manipud dita; saan a naaramid ti kastoy para iti aniaman a pagariyan.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ket dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iti sangapulo"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "a leon"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nga agtakder"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שש",
+      "gloss": "innem"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a tayaday"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "manipud ditoy"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ken manipud dita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "a naaramid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ti kastoy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para iti aniaman"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "a pagariyan"
+    }
+  ],
+  "timestamp": "2026-09-26T12:38:26.635641061Z",
+  "model": "glm-5.3"
+}

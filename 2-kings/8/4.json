@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ti ari adda nagsasao kenni Gechazi, adipen ti lalaki ti Elohim, a kinunana: Ibagam kaniak ta-caleg ⟨את⟩ amin dagiti nangruna nga aramid a inaramid ni Elisha.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ti ari"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "adda nagsasao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "adipen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinunana"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Ibagam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ta-caleg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti nangruna nga aramid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "dagiti nangruna nga aramid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    }
+  ],
+  "timestamp": "2026-09-26T13:35:47.070877848Z",
+  "model": "glm-5.3"
+}

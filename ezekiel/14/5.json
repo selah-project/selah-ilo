@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Tapno matepal ti ⟨את⟩ ti balay ni Yisrael iti bukodda a puso, dagiti nagnaisda kaniak gapu kadagiti didiosenda — amin da.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Tapno"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "matepal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "iti bukodda a puso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "nagnaisda"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "gapu kadagiti didiosenda"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "amin da"
+    }
+  ],
+  "timestamp": "2026-09-26T18:26:18.379161354Z",
+  "model": "glm-5.3"
+}

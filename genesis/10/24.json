@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken ni Arpakhshad ket naiyanakanna ⟨את⟩ ni Shelakh, ket ni Shelakh ket naiyanakanna ⟨את⟩ ni Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ken ni Arpakhshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "naiyanakanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ni Shelakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ket ni Shelakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "naiyanakanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ni Eber"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:38.091139539Z",
+  "model": "glm-5.3"
+}

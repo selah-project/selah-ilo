@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ti aldaw ti panangipatindag kadagiti bakilmo — ti aldaw dayta, maadayo ti beddeng.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ti aldaw"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ti panangipatindag"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "kadagiti bakilmo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "יירחק",
+      "gloss": "maadayo"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ti beddeng"
+    }
+  ],
+  "timestamp": "2026-09-26T20:09:43.875977126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket kitaem, ti matnag ti pader; saan kadi a maibaga kadakayo: Sadino ti kapudaw a inatachapyo?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ket kitaem"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ti matnag"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ti pader"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a maibaga"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "ti kapudaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "inatachapyo"
+    }
+  ],
+  "timestamp": "2026-09-26T18:16:27.250730506Z",
+  "model": "glm-5.3"
+}

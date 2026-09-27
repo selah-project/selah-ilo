@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Kinunada: No nakabiruk kami iti grasia iti matam, maited ti ⟨את⟩ daytoy a daga kadagiti adipenmo a kas tawid; saanmo kamin pagpasaan iti ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kinunada"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "nakabirukkami"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grasia"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "iti matam"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maited"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "kadagiti adipenmo"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "a kas tawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "pagpasaamkamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    }
+  ],
+  "timestamp": "2026-09-26T07:18:57.253596696Z",
+  "model": "glm-5.3"
+}

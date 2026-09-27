@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Agtallok ni Dan a uleg iti dalan, maysa a shefifon iti pagdalanan, a mangngukit kadagiti saka ti kabayo, ket natnag ti agsakayanna agpaud.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "agtallok"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "uleg"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "shefifon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "pagdalanan"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "mangngukit"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "dagiti saka"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kabayo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ti agsakayanna"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "agpaud"
+    }
+  ],
+  "timestamp": "2026-09-26T03:22:16.157953450Z",
+  "model": "glm-5.3"
+}

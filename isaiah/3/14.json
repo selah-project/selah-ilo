@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Umni ni Yahweh iti ukom kadagiti lakay ti umilina ken dagiti naicatoanna; ket dakayo, dinadaelayo ti minusba — ti inagaw ti makapaspaset adda kadagiti balalyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "umni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kadagiti lakay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ken dagiti naicatoanna"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ket dakayo"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "dinadaelayo"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "ti minusba"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "ti inagaw"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ti makapaspaset"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "kadagiti balalyo"
+    }
+  ],
+  "timestamp": "2026-09-26T14:23:45.208466965Z",
+  "model": "glm-5.3"
+}

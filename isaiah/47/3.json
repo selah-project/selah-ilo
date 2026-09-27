@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Malukatan ti lamolamom, makita pay ti insultom; panagbalbales ti alaek, ken saanak a makitungo ⟨iti⟩ tao.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "Malukatan"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ti lamolamom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ti insultom"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "panagbalbales"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "alaek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "makitungo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-09-26T15:41:49.810974854Z",
+  "model": "glm-5.3"
+}

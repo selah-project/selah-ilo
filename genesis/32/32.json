@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ket immuraw para kenkuana ti init idi lumipas ⟨את⟩ Penuel, ket nagtultulang isuna iti panggalna.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "immuraw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para kenkuana"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "idi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "lumipas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ket isuna"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "nagtultulang"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "panggalna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:40:24.206126227Z",
+  "model": "glm-5.3"
+}

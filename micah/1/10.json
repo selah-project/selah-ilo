@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Saan koma a ibagayo dayta iti Gat, saan koma a agsangitkayo; iti Beth-le-Aphrah agbalkilosak iti tapok.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "iti Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan koma"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "a ibagayo"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "agsangitkayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan koma"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "a agsangitkayo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Beth-le-Aphrah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "iti tapok"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "agbalkilosak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:02:00.852135689Z",
+  "model": "glm-5.3"
+}

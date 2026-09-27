@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Kas ti aninnoy no maiparuat kayatna, nalpasenakon; naikuyogkuyogak a kas ti duddu.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "kas ti aninnoy"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "no maiparuat kayatna"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "nalpasenakon"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "naikuyogkuyogak"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "kas ti duddu"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:48.879220539Z",
+  "model": "glm-5.3"
+}

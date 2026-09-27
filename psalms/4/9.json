@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Iti kappia, agkuyogak a matogda ken maturog; ta sika, Yahweh, a maymaysa, iti talna ti pangngaasam a panangagnaedam kaniak.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "iti kappia"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "agkuyog"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "matogda"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "ken maturog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "a maymaysa"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "iti talna"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "ti panangagnaedam kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:41:12.109386582Z",
+  "model": "glm-5.3"
+}

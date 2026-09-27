@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken ti tao a maturog ⟨iti⟩ ⟨את⟩ asawa ti amana — ti nakardaro ti amana ti linukatanna — matayen a matayenda dagusuda; ti darada ⟨ket⟩ iti kaniada.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "maturog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ti nakardaro"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "linukatanna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayen"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "matayenda"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dagusuda"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ti darada"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iti kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T05:43:00.282609791Z",
+  "model": "glm-5.3"
+}

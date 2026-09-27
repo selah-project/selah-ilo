@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Natnagdagiti dagiti umili iti lutonda nga inaramidda; iti lambat nga itilemnganda, natiliw ti saka da.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "iti luto"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nga inaramidda"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "iti lambat"
+    },
+    {
+      "surface": "זו",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "nga itilemnganda"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "natiliw"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "ti sakada"
+    }
+  ],
+  "timestamp": "2026-09-26T20:51:16.834377748Z",
+  "model": "glm-5.3"
+}

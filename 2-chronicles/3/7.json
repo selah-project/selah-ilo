@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket binaketanna ⟨את⟩ ti balay, dagiti baras, dagiti limed, ken dagiti didigrana ken dagiti pagrukopanna iti balitok, ken nagukrad kadagiti kerubin iti dagiti didigra.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "ket binaketanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "dagiti baras"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "dagiti limed"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "ken dagiti didigrana"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "ken dagiti pagrukopanna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "ken nagukrad"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubin"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "dagiti didigra"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:17.292457094Z",
+  "model": "glm-5.3"
+}

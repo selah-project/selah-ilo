@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ni Yahweh, isu ti mapan iti sangoam; isu ti addanto kaduaam; di ka pakandayenna ken di ka baybay-anna; di ka agbuteng ken di ka agsidaan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ti mapan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sangoam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "addanto"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaduaam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "di"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "ka pakandayenna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken di"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "ka baybay-anna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "di"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "agbuteng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken di"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "agsidaan"
+    }
+  ],
+  "timestamp": "2026-09-26T08:48:21.274541083Z",
+  "model": "glm-5.3"
+}

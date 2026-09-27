@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Daytoy ti adipenek, ti sinalaknibko, ti pinilak a nakairuaman ti kararwak; naitedko ti Espirituko kadakuana; ti ukom kadagiti umili iparuaranna.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Daytoy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ti adipenek"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "ti sinalaknibko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "ti pinilak"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "a nakairuaman"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "naitedko"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ti Espirituko"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "iparuaranna"
+    }
+  ],
+  "timestamp": "2026-09-26T15:30:26.102494168Z",
+  "model": "glm-5.3"
+}

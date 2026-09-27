@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Nakita ti apo na nga adda ni Yahweh ⟨את⟩ kadkuana, ken ti amin nga aramiden na, ni Yahweh ti mangipaballigi iti ima na.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ti apo na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kadkuana — ni Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "mangipaballigi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "iti ima na"
+    }
+  ],
+  "timestamp": "2026-09-26T03:01:07.788561185Z",
+  "model": "glm-5.3"
+}

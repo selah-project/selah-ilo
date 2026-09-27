@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken ni Shelomoh ti ari, inayatanna dagiti babai a mannakabagi, nga adu, ken ⟨את⟩ ti anak a babai ni Paro, a Moabita, a Ammonita, a Edomita, a Sidonita, a Hita.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ken ni Shelomoh ti ari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "inayatanna"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "dagiti babai"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "mannakabagi"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti anak a babai ni Paro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabita"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Ammonita"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomita"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Sidonita"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hita"
+    }
+  ],
+  "timestamp": "2026-09-26T12:51:53.254212661Z",
+  "model": "glm-5.3"
+}

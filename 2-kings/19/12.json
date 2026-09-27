@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Naisalakanda kadi ⟨את⟩ ida dagiti dios ti ⟨ti⟩ pagilian a dinadaelda dagiti amaak — ⟨את⟩ Gozan ken ⟨את⟩ Kharan ken Retsef ken dagiti anak ni Eden, a nagtaengdan idiay Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Naisalakanda kadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dios ti pagilian"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dagiti dios"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ti pagilian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "dinadaelda"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "dagiti amaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Kharan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Kharan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ken Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ken dagiti anak"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ni Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "idiay Telassar"
+    }
+  ],
+  "timestamp": "2026-09-26T13:53:41.650430814Z",
+  "model": "glm-5.3"
+}

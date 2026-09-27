@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket pinasantona dagiti padi ken dagiti Levita nga ipangato da ⟨את⟩ ti arko ni Yahweh, ti Elohim ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "ket pinasantona"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ken dagiti Levita"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "nga ipangato da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T23:38:31.173418478Z",
+  "model": "glm-5.3"
+}

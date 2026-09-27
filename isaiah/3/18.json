@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Iti dayta nga aldaw ikkatanna ni Adonay ⟨את⟩ ti daydayaw dagiti timmintinek a koskosin ti saka, ken dagiti pannakaikapkap iti ulo, ken dagiti sukisok a kasla bulan,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta nga aldaw"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ikkatanna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daydayaw dagiti koskosin ti saka"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "dagiti timmintinek a koskosin ti saka"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "ken dagiti pannakaikapkap iti ulo"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "ken dagiti sukisok a kasla bulan"
+    }
+  ],
+  "timestamp": "2026-09-26T14:21:45.130001211Z",
+  "model": "glm-5.3"
+}

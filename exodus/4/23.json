@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket kinunak kenka: Ipatulodmo ⟨את⟩ anakko a agserbikami; ket dimmo kayat ti ipatulodna — kita, siak ti agpapatay ⟨את⟩ anakmo, ti umuna mo a naiyanak.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ket kinunak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipatulodmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakko"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "a agserbikami"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "dimmo kayat"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "ti ipatulodna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ti agpapatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakmo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmo"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "umuna mo a naiyanak"
+    }
+  ],
+  "timestamp": "2026-09-26T03:28:14.374991430Z",
+  "model": "glm-5.3"
+}

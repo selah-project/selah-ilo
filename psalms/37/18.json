@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ammo ni Yahweh dagiti aldaw dagiti naan-anay, ket ti tawidda ket agnanayon nga adda.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "dagiti naan-anay"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "ket ti tawidda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "adda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:26.730869700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "ta saan iti busorko a makasarili, ket ti tabakko saan a makaisalakan kaniak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "iti busorko"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "a makasarili"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "ket ti tabakko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "a makaisalakan kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:18:33.787835234Z",
+  "model": "glm-5.3"
+}

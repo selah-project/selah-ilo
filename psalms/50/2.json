@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Manipud iti Tsiyon, kadagupan ti kinapintas, ti Elohim ket nagparang.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Manipud iti Tsiyon"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "kadagupan"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "ti kinapintas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ket nagparang"
+    }
+  ],
+  "timestamp": "2026-09-26T21:25:39.346067893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ni Avner, anak ni Ner, ti daulo ti buyot ni Shaul, alana ⟨את⟩ ni Ish-Boshet nga anak ni Shaul, ken inpasana iti Mahanaim.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "Ni Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ni Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti daulo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Ish-Boshet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "inpasana"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "iti Mahanaim"
+    }
+  ],
+  "timestamp": "2026-09-26T22:05:19.505127986Z",
+  "model": "glm-5.3"
+}

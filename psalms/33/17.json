@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ti kabalyo ket bakir a panangisalakan, ket iti kaadu ti bilegna saan a makatalaw.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "bakir"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ti kabalyo"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "a panangisalakan"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ket iti kaadu"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ti bilegna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "a makatalaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:14:34.564093531Z",
+  "model": "glm-5.3"
+}

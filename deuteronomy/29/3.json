@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "ngem saan a nangited kenni Yahweh kadakayo ti puso a makabigla, ken dagiti mata a makakita, ken dagiti tayngnga a makangngeg, agingga ita nga aldaw daytoy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nangited"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "a makabigla"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ken dagiti mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a makakita"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ken dagiti tayngnga"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "a makangngeg"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T08:35:36.564401121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Agtalek, ta dakayo ti umili, ken ti kaduayo ti matayto ti bisible.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "agtilek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ken kaduayo"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "matayto"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bisible"
+    }
+  ],
+  "timestamp": "2026-09-26T22:51:15.951762743Z",
+  "model": "glm-5.3"
+}

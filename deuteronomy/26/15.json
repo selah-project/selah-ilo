@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Sukimatmo manipud iti pagtaengan ti nasantoanmo, manipud kadagiti langit, ket bendisionam ⟨את⟩ ti pagilianmo ⟨את⟩ Yisrael ken ⟨את⟩ ti daga a inikam kadakami, kas iti impasodaam kadagiti ammatayo — daga a agsibog ti gatas ken dyaray.",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "sukimatmo"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "manipud iti pagtaengan"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ti nasantoanmo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kadagiti langit"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ket bendisionam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagilianmo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti pagilianmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "inikam"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "impasodaam"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "kadagiti ammatayo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "agsibog ti"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gatas"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ken dyaray"
+    }
+  ],
+  "timestamp": "2026-09-26T08:28:07.308925752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": "Siasino dagitoy nga agparparang a kas ulep, ken a kas dagiti kalapati kadagiti pagtaenganda?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "kas ulep"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "agparparang"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "ken kas dagiti kalapati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "pagtaenganda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:56:12.406627239Z",
+  "model": "glm-5.3"
+}

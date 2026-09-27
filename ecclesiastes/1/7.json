@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Amin dagiti karayan magna iti baybay, ket ti baybay saan a mapnu; iti disso a sadino magna dagiti karayan, sadiay da agsubli nga agay-us.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "magna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ket ti baybay"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "saan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a mapnu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "disso"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "a sadino dagiti karayan"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "magna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "nga agay-us"
+    }
+  ],
+  "timestamp": "2026-09-26T23:06:57.767032986Z",
+  "model": "glm-5.3"
+}

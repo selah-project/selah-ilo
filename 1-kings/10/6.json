@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "ket kinunana iti ari: Nasayo ti sao a nangngegekko iti sadinak a daga, maipapan kadagiti saom ken iti bakersagmo",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Nasayo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nangngegekko"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "iti sadinak a daga"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipapan"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "kadagiti saom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken maipapan"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "iti bakersagmo"
+    }
+  ],
+  "timestamp": "2026-09-26T12:37:00.777578457Z",
+  "model": "glm-5.3"
+}

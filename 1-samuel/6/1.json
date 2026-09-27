@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket ti arko ni Yahweh ket adda idi iti talon dagiti Pelishtio pito a bulan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda idi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtio"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-09-26T10:37:12.559467537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Sangsangailiak iti daga; saanmo a ilemmeng kaniak ⟨ti⟩ dagiti bilinmo.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "sangsangailiak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ilemmeng"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dagiti bilinmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:21.925997913Z",
+  "model": "glm-5.3"
+}

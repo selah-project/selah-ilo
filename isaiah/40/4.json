@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Amin a ginget mataraken, ken amin a bantay ken turod madattuonda, ket ti naikiling agbalin a nalinteg a dalan, ken dagiti nakarigatan a disso agbalin a tanap.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "a ginget"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "mataraken"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "הר",
+      "gloss": "a bantay"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "ken turod"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "madattuonda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ti naikiling"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "a nalinteg a dalan"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "ken dagiti nakarigatan a disso"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "a tanap"
+    }
+  ],
+  "timestamp": "2026-09-26T15:30:20.702790762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ket nagsao ni Yahweh kenni Menashsheh ken iti umilina, ngem saanda a nangngeg.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ket nagsao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umilina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saanda"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "a nangngeg"
+    }
+  ],
+  "timestamp": "2026-09-26T23:56:25.616527783Z",
+  "model": "glm-5.3"
+}

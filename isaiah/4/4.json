@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "No dinigos ni Adonay ⟨את⟩ ti rugit dagiti anak a babai iti Tsiyon, ken ⟨את⟩ ti dara ti Yerushalayim isaonna manipud iti tengngana, babaen iti espiritu ti ukom ken iti espiritu ti panagpuor.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "dinigos"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rugit dagiti anak a babai iti Tsiyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ti rugit"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dagiti anak a babai"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iti Tsiyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti dara ti Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "isaonna"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "manipud iti tengngana"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "iti espiritu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ken iti espiritu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ti panagpuor"
+    }
+  ],
+  "timestamp": "2026-09-26T14:24:07.608882726Z",
+  "model": "glm-5.3"
+}

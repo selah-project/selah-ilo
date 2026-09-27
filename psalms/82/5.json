@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 82,
+  "translation": "Saan da nga ammo ken saan da a maawat; iti sipnget agsursor da; agkuykuyog amin dagiti pagtacengan ti daga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ammo da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "maawat da"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "iti sipnget"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "agsursor da"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "agkuykuyog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "dagiti pagtacengan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:53.804502459Z",
+  "model": "glm-5.3"
+}

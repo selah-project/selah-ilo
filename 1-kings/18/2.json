@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket nagna ni Eliyahu nga agipakita kenni Ahab, ket ti gripon ket napigsa iti Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ket nagna"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "nga agipakita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "ket ti gripon"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "iti Shomron"
+    }
+  ],
+  "timestamp": "2026-09-26T13:02:31.662531300Z",
+  "model": "glm-5.3"
+}

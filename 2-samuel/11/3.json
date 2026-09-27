@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Intulod ni David ket insaludsodna maipapan iti babai; ket kinunana: Saan kadi a daytoy ni Bat-Sheva, anak ni Eliam, asawa ni Uriyah a Hetita?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "intulod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "ket insaludsodna"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "maipapan iti babai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ni Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa ni"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a Hetita"
+    }
+  ],
+  "timestamp": "2026-09-26T11:46:13.496747381Z",
+  "model": "glm-5.3"
+}

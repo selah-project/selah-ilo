@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Naragsakda ta nagin-innardan, ket idiay inpakadaanna iti pigsaan a kaykayatda.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "naragsakda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "nagin-innardan"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "inpakadaanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "iti pigsaan"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "a kaykayatda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:22.416269374Z",
+  "model": "glm-5.3"
+}

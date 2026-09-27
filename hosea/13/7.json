@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Nagbalinak kadakuada a kas ti leon, a kas ti tigre iti dalan agbidbidaak.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "nagbalinak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ti leon"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "a kas ti tigre"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "agbidbidaak"
+    }
+  ],
+  "timestamp": "2026-09-26T19:39:18.793280639Z",
+  "model": "glm-5.3"
+}

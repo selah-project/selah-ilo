@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Dagiti hesed ni Yahweh kantakon nga agnanayon; iti kaputotan ken ⟨iti⟩ kaputotan ipabatok ⟨ko⟩ ti kinapudnom iti ngiwatk.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "dagiti hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kantakon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "iti kaputotan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ken kaputotan"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ipabatok"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ti kinapudnom"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "iti ngiwatk"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:20.817201307Z",
+  "model": "glm-5.3"
+}

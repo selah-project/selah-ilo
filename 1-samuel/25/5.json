@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ni David ket immulaanna dagiti sangapulo nga ubbing, ket kinuna ni David kadagiti ubbing: Sumanka koma kadi iti Karmel, ket umaykayo kenni Nabal, ket saludsodannakayo koma iti nagan ko maipapan ti kappia.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "immulaanna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "dagiti ubbing"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "kadagiti ubbing"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "sumanka koma kadi"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "iti Karmel"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ket umaykayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "ket saludsodannakayo koma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "iti nagan ko"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "maipapan ti kappia"
+    }
+  ],
+  "timestamp": "2026-09-26T11:12:17.637575964Z",
+  "model": "glm-5.3"
+}

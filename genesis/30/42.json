@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": " Ket no ti nakapsueb ti ayup, saanna nga ikabil; ket nagbalin a dagiti nakapsueb ⟨kay⟩ kukuani ni Lavan, ket dagiti naisanga kukuani ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "ket no ti nakapsueb"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ti ayup"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "nga ikail"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket nagbalin a"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "dagiti nakapsueb"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "kukuani ni Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "ket dagiti naisanga"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kukuani ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T02:34:21.816435987Z",
+  "model": "glm-5.3"
+}

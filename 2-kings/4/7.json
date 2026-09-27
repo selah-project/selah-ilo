@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket immay ket inlagipna iti lalaki ti Elohim, ket kinunana, Inka, idalammo ⟨את⟩ ti lana, ket ibayadmo ⟨את⟩ dagiti utangmo, ket sika ken dagiti annakmo a lallaki agbiagkayo iti nabati.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ket inlagipna"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "iti lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "inka"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "idalammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lana"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "ket ibayadmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti utangmo"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "dagiti utangmo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "dagiti annakmo a lallaki"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "agbiagkayo"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "iti nabati"
+    }
+  ],
+  "timestamp": "2026-09-26T13:27:34.593391830Z",
+  "model": "glm-5.3"
+}

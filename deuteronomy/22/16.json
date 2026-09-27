@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "ket kunen ti ama ti ubing a babai kadagiti lakay: ⟨את⟩ ti anakak a babai ti initedko ken daytoy a lalaki a kas asawana, ket dinakesna.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ket kunen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti ubing a babai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "lakay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anakak a babai"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ti anakak a babai"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ti initedko"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ken daytoy a lalaki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a kas asawana"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ket dinakesna"
+    }
+  ],
+  "timestamp": "2026-09-26T08:20:50.860815168Z",
+  "model": "glm-5.3"
+}

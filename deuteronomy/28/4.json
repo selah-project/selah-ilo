@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Bendisionan ti bunga ti tianmo, ken ti bunga ti dagaam, ken ti bunga ti tarakenmo — ti anak dagiti bakaam ken ti anak dagiti karnerom.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bendisionan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ti bunga"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ti tianmo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ken ti bunga"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ti dagaam"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ken ti bunga"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "ti tarakenmo"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "dagiti bakaam"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ken ti anak"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "dagiti karnerom"
+    }
+  ],
+  "timestamp": "2026-09-26T08:31:47.039358872Z",
+  "model": "glm-5.3"
+}

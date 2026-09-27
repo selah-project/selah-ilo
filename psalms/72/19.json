@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Ket bendisionan ti nagan ti daydayawna agnanayon, ket mapnoenna ⟨את⟩ ti amin a daga iti daydayawna; amen ken amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Ket bendisionan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ti daydayawna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ket mapnoenna"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "iti daydayawna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a daga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ken amen"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:59.862164687Z",
+  "model": "glm-5.3"
+}

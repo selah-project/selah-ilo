@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ti timek ni Yahweh mangipen-nget kadagiti babai a urali, ket manggaga kadagiti kakakayuan; ken iti temploNa amin agsao: daydayaw.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "timek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "mangipen-nget"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "kadagiti babai a urali"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "manggaga"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "kadagiti kakakayuan"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "ken iti temploNa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "agsao"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "daydayaw"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:22.243067493Z",
+  "model": "glm-5.3"
+}

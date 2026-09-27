@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ipaparang ni Aharon ⟨את⟩ ti kalding a nagturonan ti suerte kenni Yahweh iti kenkuana, ken aramidenna dayta a daton ti basol.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ipaparang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kalding"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ti kalding"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nagturonan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti kenkuana"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ti suerte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "aramidenna dayta"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ti basol"
+    }
+  ],
+  "timestamp": "2026-09-26T05:32:36.670666411Z",
+  "model": "glm-5.3"
+}

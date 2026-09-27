@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Isu nga ibagam: Adtoy, itedko kenkuana ⟨את⟩ ti tulagko ti kappia.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "isu nga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "adtoy"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulagko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti kappia"
+    }
+  ],
+  "timestamp": "2026-09-26T06:58:39.931802997Z",
+  "model": "glm-5.3"
+}

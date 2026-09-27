@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 14:6",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "⟨את⟩ ti billit a sibibiag alaananna, ken ⟨את⟩ ti kayo a sedro, ken ⟨את⟩ ti puraw a bigis, ken ⟨את⟩ ti solbot, ken ilubongna dagitoy ken ⟨את⟩ ti billit a sibibiag iti dara ti billit a napattat, iti ngato ti danum a sibibiag.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti billit a sibibiag"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ti billit"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "a sibibiag"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alaananna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ti billit a sibibiag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kayo a sedro"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "sedro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti puraw a bigis"
+    },
+    {
+      "surface": "שני",
+      "gloss": "puraw"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "bigis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti solbot"
+    },
+    {
+      "surface": "האזב",
+      "gloss": "solbot"
+    },
+    {
+      "surface": "וטבל",
+      "gloss": "ilubongna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti billit a sibibiag"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ti billit"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "a sibibiag"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ti billit"
+    },
+    {
+      "surface": "השחטה",
+      "gloss": "a napattat"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "a sibibiag"
+    }
+  ],
+  "timestamp": "2026-09-26T05:26:11.839336564Z",
+  "model": "glm-5.3"
+}

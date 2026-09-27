@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 28:11",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Paluomenka ni Yahweh iti naimbag — iti bunga ti tianmo, ken iti bunga dagiti ayupmo, ken iti bunga ti daganmo — iti daga a sinapaan ni Yahweh kadagiti amam a mangited kenka.",
+  "tokens": [
+    {
+      "surface": "והותרך",
+      "gloss": "paluomenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "iti naimbag"
+    },
+    {
+      "surface": "בפרי",
+      "gloss": "iti bunga"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ti tianmo"
+    },
+    {
+      "surface": "ובפרי",
+      "gloss": "ken iti bunga"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "dagiti ayupmo"
+    },
+    {
+      "surface": "ובפרי",
+      "gloss": "ken iti bunga"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ti daganmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sinapaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "kadagiti amam"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "a mangited"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T08:31:44.800127670Z",
+  "model": "glm-5.3"
+}

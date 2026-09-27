@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Kinuana ni David ⟨את⟩ ti ulo ti Pelishtio ket impanna iti Yerushalayim, ken ⟨את⟩ dagiti ramramitna innaikabil iti toldana.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulo ti Pelishtio"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ti Pelishtio"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "impanna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ramramitna"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dagiti ramramit na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innaikabel"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "iti tolda na"
+    }
+  ],
+  "timestamp": "2026-09-26T10:55:07.272080120Z",
+  "model": "glm-5.3"
+}

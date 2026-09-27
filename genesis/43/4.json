@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "No adda ti agipatulodmo ⟨את⟩ ti kabsatmi ⟨את⟩ a kaduami, agbabakami ken aggatangkami kadagiti ti makanmo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "adda ti"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "agipatulodmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kabsatmi"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ti kabsatmi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ a kaduami"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "agbabakami"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "ken aggatangkami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kadagiti ti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:34.733182278Z",
+  "model": "glm-5.3"
+}

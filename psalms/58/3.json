@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "Wen pay, iti puso ti kadakes ti aramidyono; iti daga ti dangraw dagiti imayo ti timbengyo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Wen pay"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "iti puso"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ti kadakes"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "ti aramidyono"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ti dangraw"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "dagiti imayo"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "ti timbengyo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:32:30.054982397Z",
+  "model": "glm-5.3"
+}

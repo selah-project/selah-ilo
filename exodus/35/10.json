@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "ket ti amin a maalam a puso kadakayo, umayda ket ar-amidendan ⟨את⟩ ti amin a binilin ni Yahweh",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ket ti amin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "a maalam"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "umayda"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ket ar-amidendan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "binilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:33:18.596125234Z",
+  "model": "glm-5.3"
+}

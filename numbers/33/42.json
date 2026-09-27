@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ken napannda manipud iti Tsalmonah, ket nagtendaenda iti Punon.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "napannda"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "manipud iti Tsalmonah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagtendaenda"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "iti Punon"
+    }
+  ],
+  "timestamp": "2026-09-26T07:23:56.159656366Z",
+  "model": "glm-5.3"
+}

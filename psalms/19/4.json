@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Awan iti sao ken awan dagiti sao, nga awan ti mabalin a madengngeg ti timekda.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Awan iti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nga awan"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ti mabalin a madengngeg"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ti timekda"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:52.964685901Z",
+  "model": "glm-5.3"
+}

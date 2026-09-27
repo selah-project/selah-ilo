@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kasano nga agmaymaysak laeng a mangibatta ti piggat yo, ti pundo yo, ken ti rido yo?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kasano"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "a mangibatta"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "agmaymaysak laeng"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ti piggat yo"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ti pundo yo"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ken ti rido yo"
+    }
+  ],
+  "timestamp": "2026-09-26T07:28:37.407438698Z",
+  "model": "glm-5.3"
+}

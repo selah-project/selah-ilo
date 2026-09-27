@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Kiniddaw ni David kenni ⟨ti⟩ Elohim no maibanag ti ubing, ket nagayuno ni David, ket immay ket nagtugaw ket immulog iti daga.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "kiniddaw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "no maibanag"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti ubing"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "ket nagayuno"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ayuno"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "ket nagtugaw"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ket immulog"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T11:43:14.639948705Z",
+  "model": "glm-5.3"
+}

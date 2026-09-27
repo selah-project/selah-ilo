@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Immayo ni Elohim kadagiti partera, ket immadu ti tao ket nagpigsada unay.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "immayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kadagiti partera"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "immadu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "nagpigsada"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:25:09.403063774Z",
+  "model": "glm-5.3"
+}

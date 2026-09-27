@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 113,
+  "translation": "Ti mangipaagnaed iti balay ti babai a saan makaanak, a maysa a naragsakan nga ina dagiti annak — idaydayawyo ni Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "ti mangipaagnaed"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "ti babai a saan makaanak"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "naragsakan"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "idaydayawyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:54.556494508Z",
+  "model": "glm-5.3"
+}

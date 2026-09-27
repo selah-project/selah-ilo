@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Ikabilannakami a sasao a panggegap kadagiti umili, a pangkuyog ti ulo kadagiti umili.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Ikabilannakami"
+    },
+    {
+      "surface": "משל",
+      "gloss": "a sasao a panggegap"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "a pangkuyog"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "umili"
+    }
+  ],
+  "timestamp": "2026-09-26T21:20:07.285316465Z",
+  "model": "glm-5.3"
+}

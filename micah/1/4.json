@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket matunaw dagiti bantay iti babbana, ket dagiti tanap mabukelda, kas iti lana iti sanguan ti apoy, kas iti danum a maibulos iti pagbabaan.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "Ket matunaw"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "iti babbana"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "ket dagiti tanap"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "mabukelda"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "kas iti lana"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iti sanguan ti"
+    },
+    {
+      "surface": "האש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kas iti danum"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "a maibulos"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "iti pagbabaan"
+    }
+  ],
+  "timestamp": "2026-09-26T20:06:40.871195215Z",
+  "model": "glm-5.3"
+}

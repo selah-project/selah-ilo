@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Agragsak ti desierto ken ti mamaga a daga, ket agragsak ti tanap, ken agsabsabong a kas ti rosas.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "Agragsak"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ti desierto"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "ken ti mamaga a daga"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "agragsak"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ti tanap"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "agsabsabong"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "a kas ti rosas"
+    }
+  ],
+  "timestamp": "2026-09-26T15:14:05.311941220Z",
+  "model": "glm-5.3"
+}

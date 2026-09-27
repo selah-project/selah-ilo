@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Daydayawem ⟨את⟩ amamoen ken ⟨את⟩ inam, tapno atingay dagiti aldawmo iti daga nga ited kenni Yahweh nga Elohimmo kenka.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Daydayawem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amamoen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "amamoen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "inam"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "inam"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "atingay"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dagiti aldawmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ited"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T04:04:17.185997529Z",
+  "model": "glm-5.3"
+}

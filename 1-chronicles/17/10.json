@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 17:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Kadagiti aldaw a binilinko dagiti mangkokom iti umilik a ni Yisrael, ket babaesen ⟨את⟩ amin dagiti kabusormo; ken ibagak kenka a ni Yahweh ti mangipatayo ⟨iti⟩ balay para kenka.",
+  "tokens": [
+    {
+      "surface": "ולמימים",
+      "gloss": "kadagiti aldaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "binilinko"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "dagiti mangkokom"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umilik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והכנעתי",
+      "gloss": "ket babaesen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti kabusormo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dagiti kabusormo"
+    },
+    {
+      "surface": "ואגד",
+      "gloss": "ken ibagak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "maysa a balay"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "mangipatayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:31.507924609Z",
+  "model": "glm-5.3"
+}

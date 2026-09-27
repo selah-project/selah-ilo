@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 8:10",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken manipud kadagiti annak ni Shelomit, anak ni Yosifyah, ken kaduana sangagasut ken innem a pulo a lallaki.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ken manipud kadagiti annak"
+    },
+    {
+      "surface": "שלומית",
+      "gloss": "ni Shelomit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יוספיה",
+      "gloss": "ni Yosifyah"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ken kaduana"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sangagasut"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ken innem a pulo"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "a lallaki"
+    }
+  ],
+  "timestamp": "2026-09-26T23:22:45.891002714Z",
+  "model": "glm-5.3"
+}

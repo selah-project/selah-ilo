@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Ipatinggana dagiti gubat agingga iti patingga ti daga; ti buslor dadaelenna, ket ti tarad gudduenna, dagiti karo ipuorna iti apoy.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Ipatinggana"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "dagiti gubat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "iti patingga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ti buslor"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "dadaelenna"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ket gudduenna"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ti tarad"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "dagiti karo"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ipuorna"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:23.208085377Z",
+  "model": "glm-5.3"
+}

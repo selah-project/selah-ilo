@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ti agtengngel ti pana saan nga agtakder, ken ti naparparti iti saka na saan a makaisalakan, ken ti agsakay iti kabalio saan a makaisalakan iti kararua na.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "Ken ti agtengngel"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "ti pana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ngagtakder"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "ken ti naparparti"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "iti saka na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "a makaisalakan"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ken ti agsakay"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "iti kabalio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "a makaisalakan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iti kararua na"
+    }
+  ],
+  "timestamp": "2026-09-26T19:47:39.956145004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Agtakderka, Yahweh, isalakannakam, Elohimko, ta binendisionam ⟨את⟩ amin dagiti kabusork iti poggi, dagiti ngipen dagiti dakes pinukarmo.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Agtakderka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "isalakannakam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "binendisionam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti kabusork"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dagiti kabusork"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "iti poggi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti ngipen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "pinukarmo"
+    }
+  ],
+  "timestamp": "2026-09-26T20:44:56.217892730Z",
+  "model": "glm-5.3"
+}

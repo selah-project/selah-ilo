@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ket nagsorsorinda manipud iti maysa a pagilian agingga iti sabali a pagilian, ken manipud iti maysa a pagarian agingga iti sabali a umili.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ket nagsorsorinda"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "manipud iti maysa a pagilian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "sabali a pagilian"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "ken manipud iti maysa a pagarian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sabali a umili"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sabali"
+    }
+  ],
+  "timestamp": "2026-09-26T23:38:32.444872280Z",
+  "model": "glm-5.3"
+}

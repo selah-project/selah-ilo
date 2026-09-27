@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Ti kanawan nga ima ni Yahweh nangatngato unay; ti kanawan nga ima ni Yahweh agaramid bileg.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "ti kanawan nga ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "nangatngato unay"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ti kanawan nga ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bileg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:43.302074823Z",
+  "model": "glm-5.3"
+}

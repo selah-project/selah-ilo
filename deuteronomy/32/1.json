@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Pakingga, dagiti langit, ket agsasaokak; ket dengngegenna ti daga dagiti sao ti ngiwatak.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Pakingga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ket agsasaokak"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ket dengngegenna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwatak"
+    }
+  ],
+  "timestamp": "2026-09-26T08:46:34.464353219Z",
+  "model": "glm-5.3"
+}

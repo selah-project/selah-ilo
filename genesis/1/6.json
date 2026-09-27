@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket kinuna ni Elohim: Agtalem ti rambak iti tengnga ti danum, ket agtalem a mamagbudduay iti nagbaetan ti danum ken ti danum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "agtalem"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rambak"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket agtalem"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "a mamagbudduay"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ken ti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:40.329981053Z",
+  "model": "glm-5.3"
+}

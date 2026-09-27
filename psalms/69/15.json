@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Isalakannak manipud iti naunneg a tapok, ket saanak a matnag; maisalakannak manipud kadagiti kabusorko ken manipud kadagiti nauneg a danum.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Isalakannak"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "manipud iti naunneg a tapok"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "a matnagak"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "maaisalakannak"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "manipud kadagiti kabusorko"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "ken manipud kadagiti nauneg"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a danum"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:56.832517244Z",
+  "model": "glm-5.3"
+}

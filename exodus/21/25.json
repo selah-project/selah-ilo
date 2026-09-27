@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "pukaw imbes iti pukaw, sugali imbes iti sugali, bugbug imbes iti bugbug.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "pukaw"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "imbes iti"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "pukaw"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "sugali"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "imbes iti"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "sugali"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bugbug"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "imbes iti"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bugbug"
+    }
+  ],
+  "timestamp": "2026-09-26T04:09:09.835579413Z",
+  "model": "glm-5.3"
+}

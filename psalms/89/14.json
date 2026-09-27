@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Kadua ti bileg ti imam a kas maysa; napigsa ti imam, nangato ti kannawam.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "imam a kas maysa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "bileg"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imam"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "nangato"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "kannawam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:00.804111782Z",
+  "model": "glm-5.3"
+}

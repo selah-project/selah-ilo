@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Kadagiti tao a mannangsolosso: Saanmo a Dadaelen; ni David; miktam; idi innala ni Shaul ken imbagana, ket salaknibenda ⟨את⟩ ti balay tapno mapatay ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kadagiti tao a mannangsolosso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Saanmo a"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Dadaelen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "idi innala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ket salaknibenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "tapno mapatay ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:07.727805560Z",
+  "model": "glm-5.3"
+}

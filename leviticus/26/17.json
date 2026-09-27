@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ken itedko ti rupak a maibusor kanyayo, ket matnagkayo iti sanguanan dagiti kabusoryo, ket agturayda kanyayo dagiti mangay-ay kanyayo, ket agtaraykayo ket awan ti mannurot ⟨iti kanyayo⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupak"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "a maibusor kanyayo"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "ket matnagkayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dagiti kabusoryo"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "ket agturayda"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kanyayo"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "dagiti mangay-ay kanyayo"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "ket agtaraykayo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ti mannurot"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kanyayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:29.081652405Z",
+  "model": "glm-5.3"
+}

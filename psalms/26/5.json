@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Inkayatko ti gimong dagiti agdadael, ken kadagiti dakes saanak nga agnaed.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Inkayatko"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "dagiti agdadael"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "agnaed"
+    }
+  ],
+  "timestamp": "2026-09-26T21:02:44.844703670Z",
+  "model": "glm-5.3"
+}

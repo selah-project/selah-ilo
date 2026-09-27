@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Mabiruksam ti imam amin dagiti kabusormo; ti kaniam nga imam ket mabiruksam dagiti sumngiit kenka.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "mabiruksam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin dagiti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kabusormo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ti kaniam nga imam"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "mabiruksam"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "dagiti sumngiit kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:03.280880362Z",
+  "model": "glm-5.3"
+}

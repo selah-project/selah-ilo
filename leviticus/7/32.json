@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ⟨את⟩ ti kannawan a paa itedyo a teruma iti padi, manipud kadagiti sakripisio ti panagkappiayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kannawan a paa"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ti paa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kannawan"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "a teruma"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "iti padi"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "manipud kadagiti sakripisio"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "ti panagkappiayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:02:31.983883792Z",
+  "model": "glm-5.3"
+}

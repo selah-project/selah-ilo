@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "No pukawen ni Yahweh nga Elohimmo ⟨את⟩ dagiti pagilian a naited ni Yahweh nga Elohimmo kenka ⟨את⟩ ti daga da, ken agtawidka kadakuada ken agnaedka kadagiti ili da ken kadagiti balay da.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "pukawen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pagilian"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naited"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga da"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ti daga da"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ken agtawidka kadakuada"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ken agnaedka"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "kadagiti ili da"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "ken kadagiti balay da"
+    }
+  ],
+  "timestamp": "2026-09-26T08:12:09.214271569Z",
+  "model": "glm-5.3"
+}

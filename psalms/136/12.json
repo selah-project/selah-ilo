@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 136,
+  "translation": "Babaen iti napigsa nga ima ken iti naunat a braso, ta ti hesedna ket agnanayon.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "babaen iti ima"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ken iti braso"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "naunat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:49.795104054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Ta linawasanna ti kararua a makigutgutot, ken ti kararua a malemen pinnoyna iti naimbag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "linawasanna"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "a makigutgutot"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ken ti kararua"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "a malemen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pinnoyna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iti naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:44.373121839Z",
+  "model": "glm-5.3"
+}

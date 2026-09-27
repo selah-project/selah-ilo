@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Naisagana da ti raraap ⟨iti⟩ dagiti saksakadak; nayak ti kararwak; inkali da ti abang iti sango ko, ket natnag da iti uneg na. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "ti raraap"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "Naisagana da"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "⟨iti⟩ dagiti saksakadak"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "nayak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "inkali da"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango ko"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ti abang"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ket natnag da"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "iti uneg na"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:01.431043060Z",
+  "model": "glm-5.3"
+}

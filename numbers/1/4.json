@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ken ⟨אתכם⟩ agtuged maysa a lalaki para iti tunggal tribu — maysa a lalaki nga ulo ti balay dagiti amana, isu.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "ken ⟨אתכם⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agtuged"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a lalaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "para iti tunggal tribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a lalaki"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ngaulo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:56.410172465Z",
+  "model": "glm-5.3"
+}

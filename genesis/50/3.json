@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Naipnon kadakuana nga uppat a pulo nga aldaw, ta kasta maipno dagiti aldaw ti panagbalin, ket nagdandanonda ⟨אתו⟩ dagiti taga-Mitsrayim pitopulo nga aldaw.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "naipno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "uppat a pulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "maipno"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "ti panagbalin"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "nagdandanonda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kadakuana"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dagiti taga-Mitsrayim"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitopulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T03:25:59.039917668Z",
+  "model": "glm-5.3"
+}

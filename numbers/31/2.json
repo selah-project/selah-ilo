@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Agpumawar ti pumawar dagiti anak a lalaki ni Yisrael ⟨מאת⟩ ti Midian; kalpasanna maurnongka kadagiti tattaom.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Agpumawar"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "ti pumawar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ti Midian"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "ti Midian"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "maurnongka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "kadagiti tattaom"
+    }
+  ],
+  "timestamp": "2026-09-26T07:17:23.144960566Z",
+  "model": "glm-5.3"
+}

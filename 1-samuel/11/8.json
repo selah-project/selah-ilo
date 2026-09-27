@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kinetrena ida iti Vezek, ket dagiti anak a lalaki ti Yisrael tallo a gasut a ribu, ket dagiti lalaki ti Yehudah tallopulo a ribu.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "kinetrena ida"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "iti Vezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ket dagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ket dagiti lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tallopulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-09-26T10:43:14.405512258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Pinurnongna kadakuana dagiti lallaki, ket nagbalin a tengngel ti maysa a gatling iti panagpatay ni Davíd ⟨את⟩ kadakuada; ket napan da idiay Damasko ket agnanaedda idiay, ket nangiturayda idiay Damasko.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Pinurnongna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin a"
+    },
+    {
+      "surface": "שר",
+      "gloss": "tengngel"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ti maysa a gatling"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "iti panagpatay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni Davíd"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada — dagiti lallaki a napan idiay Damasko"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "napan da"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "idiay Damasko"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "agnanaedda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "nangiturayda"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "idiay Damasko"
+    }
+  ],
+  "timestamp": "2026-09-26T12:45:54.175102052Z",
+  "model": "glm-5.3"
+}

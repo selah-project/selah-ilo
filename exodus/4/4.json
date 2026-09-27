@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Isegam ti imam ket tengngelenmo ti ipusna. Iseganna ti imana ket innalana dayta, ket nagbalin dayta a baston iti paladna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "isegam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ket tengngelenmo"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "ti ipusna"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "iseganna"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "innalana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "a baston"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "iti paladna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:28:50.606797860Z",
+  "model": "glm-5.3"
+}

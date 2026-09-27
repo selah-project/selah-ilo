@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Nagtitipon ni Yisrael kenni Baal Peor, ket rimmoot ti dungngo ni Yahweh kenni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "Nagtitipon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kenni Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "rimmoot"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ti dungngo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kenni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T07:00:16.695253623Z",
+  "model": "glm-5.3"
+}

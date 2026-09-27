@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ti asawa nga addaan bileg ket korona ti asawana; ngem ti agpaay ket kas ti raot kadagiti tulangna.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ti asawa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ngaan addaan bileg"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ket korona"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ti asawana"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "ngem kas ti raot"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "kadagiti tulangna"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "ti agpaay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:37:28.335381874Z",
+  "model": "glm-5.3"
+}

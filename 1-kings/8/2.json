@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket natiponda sadiay ti ari a ni Shelomoh amin a lalaki ti Yisrael, iti bulan ti Etanim, iti tiempo ti fiesta — daytoy ti maikapito a bulan.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ket natiponda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "a ni Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "ti Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "iti tiempo ti fiesta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ti bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito"
+    }
+  ],
+  "timestamp": "2026-09-26T12:39:00.140797232Z",
+  "model": "glm-5.3"
+}

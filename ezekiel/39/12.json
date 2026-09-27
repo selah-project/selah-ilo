@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "ket ilubongda ida ti balay ti Yisrael tapno madalus ⟨את⟩ ti daga, iti pito a bulan.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "ket ilubongda ida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "madalus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "iti pito"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "a bulan"
+    }
+  ],
+  "timestamp": "2026-09-26T19:06:30.447525473Z",
+  "model": "glm-5.3"
+}

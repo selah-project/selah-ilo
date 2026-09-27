@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 63,
+  "translation": "Apay a nalabbasit ti badom, ken dagiti badom a kas iti mangdikkdit iti pangpressan ti ubas?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a nalabbasit"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "ti badom"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "ken dagiti badom"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "a kas iti panangdikkdit"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "iti pangpressan ti ubas"
+    }
+  ],
+  "timestamp": "2026-09-26T16:06:19.045321716Z",
+  "model": "glm-5.3"
+}

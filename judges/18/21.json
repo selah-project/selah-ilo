@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kimmadduada ket napanonda, ket inladawanda ti ⟨את⟩ dagiti ubbing ken ⟨את⟩ dagiti ayup ken ⟨את⟩ ti tagikua iti sangoanda.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "kimmadduada"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "napanonda"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "inladawanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ubbing"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "dagiti ubbing"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ayup"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "dagiti ayup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tagikua"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "ti tagikua"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "iti sangoanda"
+    }
+  ],
+  "timestamp": "2026-09-26T10:14:13.374151509Z",
+  "model": "glm-5.3"
+}

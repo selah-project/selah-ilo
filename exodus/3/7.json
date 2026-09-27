@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kinuna ni Yahweh: nakita a nakitak ⟨את⟩ ti panagdamsag ti umiliak a adda iti Mitsrayim, ken ⟨את⟩ ti panagtangarada nangngegko gapu kadagiti agisigisigda, ta ammok ⟨את⟩ dagiti sakitda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagdamsag ti umiliak"
+    },
+    {
+      "surface": "עני",
+      "gloss": "panagdamsag"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti umiliak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti panagtangarada"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "panagtangarada"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nangngegko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gapu kadagiti"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "agisigisigda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ammok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sakitda"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "dagiti sakitda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:28:02.713438769Z",
+  "model": "glm-5.3"
+}

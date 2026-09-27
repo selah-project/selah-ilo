@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ken inaramidna ⟨את⟩ ti efod — balitok, asul, ken purpura, ken eskarlata, ken lino a naabel.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ken inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ti efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ken purpura"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ken ti ulod"
+    },
+    {
+      "surface": "שני",
+      "gloss": "eskarlata"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ken"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "lino a naabel"
+    }
+  ],
+  "timestamp": "2026-09-26T04:48:31.126116971Z",
+  "model": "glm-5.3"
+}

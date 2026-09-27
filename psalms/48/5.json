@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Ta kitaen, dagiti ari nagtiponda, immayda a kadua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "nagtiponda"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "a kadua"
+    }
+  ],
+  "timestamp": "2026-09-26T21:24:27.462135542Z",
+  "model": "glm-5.3"
+}

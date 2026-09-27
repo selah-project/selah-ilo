@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Elohimko, iti kaniak ti kararua makitamata a matnag; gapu koma ta lagipenko manipud iti daga ti Yarden ken dagiti Hermonim, manipud iti bantay Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti kaniak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "makitamata a matnag"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ta lagipenko"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "ken dagiti Hermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "manipud iti bantay"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:04.664387288Z",
+  "model": "glm-5.3"
+}

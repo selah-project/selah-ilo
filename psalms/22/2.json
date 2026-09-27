@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Eloko, Eloko, apay a binayanmoak, adayo manipud iti panangisalakank, ⟨manipud iti⟩ dagiti sao ti panangiriawko?",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eloko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eloko"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "a binayanmoak"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "adayo"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "manipud iti panangisalakank"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ti panangiriawko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:07.854110810Z",
+  "model": "glm-5.3"
+}

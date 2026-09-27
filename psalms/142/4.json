@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 142,
+  "translation": "Idi nalimlimgas ti Espirituko iti ngatoko, ket sika ammo ti dalanko; iti dalan daytoy ti pagdaldalanton, naglemmengda ti pungol kaniak.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "idi nalimlimgas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti ngatoko"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ti Espirituko"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "ti dalanko"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ti pagdaldalanton"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "naglemmengda"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ti pungol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:35.615110319Z",
+  "model": "glm-5.3"
+}

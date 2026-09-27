@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket isu ti agukom iti tebel iti kinalinteg, agukomanto kadagiti umili iti nalinteg a pamayanan.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ket isu"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ti agukom"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "iti tebel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "iti kinalinteg"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "agukomanto"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "iti nalinteg a pamayanan"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:07.061766188Z",
+  "model": "glm-5.3"
+}

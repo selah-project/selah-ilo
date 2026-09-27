@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 53,
+  "translation": "Nagsublida amin, agpada a nagdadaelda; awan ti agaramid iti naimbag, awan, uray maysa.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "amin"
+    },
+    {
+      "surface": "סג",
+      "gloss": "Nagsublida"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "agpada"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "a nagdadaelda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti agaramid"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iti naimbag"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uray"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:26.996316552Z",
+  "model": "glm-5.3"
+}

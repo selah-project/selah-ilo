@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Manipud iti pagtaengan ti panagnaedna, nangkita iti amin dagiti agnanaed iti daga.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "manipud iti pagtaengan"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ti panagnaedna"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "nangkita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יושבי ארץ → ישבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:10.472330262Z",
+  "model": "glm-5.3"
+}

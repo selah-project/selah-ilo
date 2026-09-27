@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Naammo ni Yahweh, ukom ti inaramidna; iti aramid ti imana naseraan ti dakes. Higayon. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Naammo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti inaramidna"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "iti aramid"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "naseraan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-26T20:51:38.790593704Z",
+  "model": "glm-5.3"
+}

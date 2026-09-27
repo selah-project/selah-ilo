@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken ni ⟨את⟩ ti nuang, ken ⟨את⟩ kudilna, ken ⟨את⟩ lasagna, ken ⟨את⟩ tabana, sinema iti apoy iti ruar ti kampo, kas iti bilin ni Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti nuang"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti nuang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kudilna"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "kudilna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "lasagna"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lasagna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "tabana"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "tabana"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sinema"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iti bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T05:18:21.767377854Z",
+  "model": "glm-5.3"
+}

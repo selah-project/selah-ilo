@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 37:22",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "ket aramidenkoda ⟨את⟩ a maysa nga umili iti daga, kadagiti bantay ni Yisrael, ket maysa nga ari ti agturay kadakuada a kas ari, ket saan koma a dumteng nga agbalin dua a pagilian, ket saan koma a mabingbingayda manen kadagiti dua a pagarian.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ket aramidenkoda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "a maysa nga umili"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "a maysa nga umili"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "kadagiti bantay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ket maysa nga ari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti agturay"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a kas ari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a dumteng nga agbalin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "koma"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a pagilian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "a mabingbingayda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "kadagiti dua"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "a pagarian"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    }
+  ],
+  "timestamp": "2026-09-26T19:07:28.266741699Z",
+  "model": "glm-5.3"
+}

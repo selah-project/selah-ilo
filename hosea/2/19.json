@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ta ikkatkono ⟨את⟩ dagiti nagan dagiti Baalim manipud iti ngiwatna, ket saandaon a malagipanda babaen kadagiti naganda.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "ikkatkono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti nagan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "dagiti nagan"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "dagiti Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "manipud iti ngiwatna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "malagipanda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "babaen kadagiti naganda"
+    }
+  ],
+  "timestamp": "2026-09-26T19:33:54.605167510Z",
+  "model": "glm-5.3"
+}

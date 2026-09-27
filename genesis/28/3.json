@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ket ti El Shadday bendisionannaka ⟨את⟩, ket pagbungaannaka, ket padakkelennaka, ket agbalinka a gimong dagiti umili.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ket ti El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bendisionannaka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sika"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "pagbungaannaka"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "padakkelennaka"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "agbalinka"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:33.595325143Z",
+  "model": "glm-5.3"
+}

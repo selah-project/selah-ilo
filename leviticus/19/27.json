@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Saan kayo a mangpenned iti patingga ti ulo yo, ken saanmo a dadaelen ⟨את⟩ ti patingga ti barba mo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "kayo a mangpenned"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "iti patingga"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "ti ulo yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanmo"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "a dadaelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti patingga ti barba mo"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ti patingga"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ti barba mo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:41:34.735801648Z",
+  "model": "glm-5.3"
+}

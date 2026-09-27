@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Ti ngiwatko mangibagbaga ti kinalintegmo, amin nga aldaw ti panangisalakanmo, ta saanak nga ammo ti bilangda.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ti ngiwatko"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "mangibagbaga"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ti kinalintegmo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ti panangisalakanmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "ti bilangda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:43:22.937058168Z",
+  "model": "glm-5.3"
+}

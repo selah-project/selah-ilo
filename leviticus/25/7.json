@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken iti tarabanmo ken iti sibibiag nga animal a ⟨adda⟩ iti dagam — amin a produktona ket mabalin a makan.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "ken iti tarabanmo"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "ken iti sibibiag nga animal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "iti dagam"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "agtalinaed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "produktona"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "a makan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:50:51.106879125Z",
+  "model": "glm-5.3"
+}

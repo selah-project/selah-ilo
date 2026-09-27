@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Ni Ashur pay ket timmipon kadakuada, nagbalinanda a braso kadagiti anak ni Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "timmipon"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nagbalinanda"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "brasoda"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ni Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:37.371181158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 82,
+  "translation": "Siak, kinunak: dioskayo, ken anak ti Elyon aminkayo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ken anak ti"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "aminkayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:53.804779681Z",
+  "model": "glm-5.3"
+}

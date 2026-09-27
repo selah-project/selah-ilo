@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "No ibbetanda dagiti annakna ti torahko, ken kadagiti ukomko saanda nga agnagne.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ibbetanda"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ti torahko"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "ken kadagiti ukomko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "agnagneda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:27.689416644Z",
+  "model": "glm-5.3"
+}

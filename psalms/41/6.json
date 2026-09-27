@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Dagiti kabusorko kinunada a dakes kaniak; kaano matayna, ket agbaon ti naganna?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Dagiti kabusorko"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kaano"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "matayna"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ket agbaon"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:17:23.639537452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Saan da a nangsalaknib ⟨ti⟩ tulag ti Elohim, ken iti torahna saan da a kayat nga agdaldalan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "da a nangsalaknib"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tulag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ken iti torahna"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "saan da a kayat"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "nga agdaldalan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:33.530956635Z",
+  "model": "glm-5.3"
+}

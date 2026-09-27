@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ti amin mapan iti maysa a disso; ti amin nagtaud manipud iti tapok, ket ti amin agsubli iti tapok.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mapan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "maysa a disso"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nagtaud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "iti tapok"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ket ti amin"
+    },
+    {
+      "surface": "שב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ti tapok"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:04.912193218Z",
+  "model": "glm-5.3"
+}

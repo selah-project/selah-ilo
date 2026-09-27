@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kinua ni Aḥaz ⟨את⟩ ti pilak ken ⟨את⟩ ti balitok a nabirukan idiay balay ni Yahweh ken idiay kadagiti pakabirukan ti balay ti ari, ken ipatulodna daytoy kadagiti daton iti ari ti Ashur — ti sukat a maipatienta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kinua"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ni Aḥaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pilak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ti pilak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti balitok"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ti balitok"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a nabirukan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "idiay balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ken idiay kadagiti pakabirukan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ken ipatulodna"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kadagiti daton iti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ti sukat a maipatienta"
+    }
+  ],
+  "timestamp": "2026-09-26T13:56:17.003461024Z",
+  "model": "glm-5.3"
+}

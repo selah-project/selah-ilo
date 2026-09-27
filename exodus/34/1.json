@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Ukkisenmo ⟨a bukodmo⟩ ti dua a tabla iti bato, a kas iti umuna, ket isuratko kadagiti tabla ⟨את⟩ dagiti sao a nangrugi kadagiti umuna a tabla, nga indadaelmo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ukkisenmo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a bukodmo⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "iti bato"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "kas iti umuna"
+    },
+    {
+      "surface": "וכתבתי",
+      "gloss": "ket isuratko"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nangrugi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "umuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "indadaelmo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:36:08.840984904Z",
+  "model": "glm-5.3"
+}

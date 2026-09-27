@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Dagitoy dagiti anak ni Ham, segun kadagiti pamilia da, segun kadagiti pagsasao da, kadagiti daga da, kadagiti nasion da.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segun kadagiti pamilia da"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "segun kadagiti pagsasao da"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "kadagiti daga da"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "kadagiti nasion da"
+    }
+  ],
+  "timestamp": "2026-09-26T01:53:05.648890900Z",
+  "model": "glm-5.3"
+}

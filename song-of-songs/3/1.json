@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Iti katreko, kadagiti rabii, biruok ⟨ti⟩ ⟨את⟩ ay-ayaten ti kararwak ⟨ni⟩; biruokto ngem saan nakitak.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "katreko"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "kadagiti rabii"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "biruok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ay-ayaten ti kararwak"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "ay-ayaten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "biruokto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "nakitak"
+    }
+  ],
+  "timestamp": "2026-09-27T00:04:08.939770084Z",
+  "model": "glm-5.3"
+}

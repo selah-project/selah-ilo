@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 14:8",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ket limmuar kaniada ni Zerach ti Kushita iti buyot iti sangaribu a ribu, ken tallo a gasut a kareta nga iggampit; ket simmangpet agingga iti Maresha.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ket limmuar"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ni Zerach"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "ti Kushita"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "iti buyot"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "iti sangaribu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "ken tallo a gasut a kareta"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ket simmangpet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "iti Maresha"
+    }
+  ],
+  "timestamp": "2026-09-26T23:49:38.885651634Z",
+  "model": "glm-5.3"
+}

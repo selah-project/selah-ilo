@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 65,
+  "translation": "Ti mangpaammu ti tararayo dagiti baybay, ti tararayo dagiti allon da, ken ti dakkel a timek dagiti umili.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Ti mangpaammu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ti tararayo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti baybay"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ti tararayo"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "dagiti allon da"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "ken ti dakkel a timek"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "dagiti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:12.438154705Z",
+  "model": "glm-5.3"
+}

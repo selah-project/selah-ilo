@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ibangonmo ⟨את⟩ ti liwa iti likmutna, ken ikabilmo ⟨את⟩ ti abbong ti ruaran ti liwa.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ibangonmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti liwa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti liwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iti likmutna"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ikabilmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti abbong ti ruaran ti liwa"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "abbong"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ti ruaran"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti liwa"
+    }
+  ],
+  "timestamp": "2026-09-26T04:51:02.813567208Z",
+  "model": "glm-5.3"
+}

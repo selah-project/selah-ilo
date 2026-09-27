@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ni Yahweh saananna nga ibati ⟨ti nalinteg⟩ iti imana, ken saananna a ipasingkedanna iti ukomna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saananna"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "nga ibati"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saananna"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "a ipasingkedanna"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "iti ukomna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:53.660547322Z",
+  "model": "glm-5.3"
+}

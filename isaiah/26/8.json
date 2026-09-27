@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Sipudatto pay iti dalan dagiti ukommo, Yahweh, nagur-uraykami kenka; iti naganmo ken iti lagipmo ti kayat ti kararua.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "sipudatto pay"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dagiti ukommo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "nagur-uraykami kenka"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "iti naganmo"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "ken iti lagipmo"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ti kayat"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    }
+  ],
+  "timestamp": "2026-09-26T14:54:18.464942537Z",
+  "model": "glm-5.3"
+}

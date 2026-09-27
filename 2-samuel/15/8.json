@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "ta ikari ti inikar ti adipenmo idi agiinaedak iti Geshur iti Aram, nga kunana: no agsublinna — agsublinna nak ni Yahweh iti Yerushalayim, agserbirek ⟨את⟩ ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ikari"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "inikar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "idi agiinaedak"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "iti Geshur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "iti Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kunana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "agsublinna"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "agsublinna nak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "agserbirek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T11:52:13.962439306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ta immayda a tenned-nenned kaniak — ti balay ni Yisrael ken ti balay ni Yehudah — kinuna ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "tenned a nangato"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "tinenneda"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ken ti balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T16:22:31.475336152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken nailubong ⟨את⟩ iti lubonganna iti hardin ni Uzza, ket ni Yehoshiahu ti anakna ti nangituray kasukatanna.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "ken nailubong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ni Amon⟩ — ti analupo a sinukatan"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "iti lubonganna"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "iti hardin"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ni Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ket nangituray"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ni Yehoshiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ti anakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "kasukatanna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:00:38.266703426Z",
+  "model": "glm-5.3"
+}

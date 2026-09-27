@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Yahweh, iturongmo ti kappia kadakami, ta pay amin dagiti ar-aramidmi inaramidmo kadakami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשפות",
+      "gloss": "iturongmo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "dagiti ar-aramidmi"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "inaramidmo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    }
+  ],
+  "timestamp": "2026-09-26T14:54:02.209475946Z",
+  "model": "glm-5.3"
+}

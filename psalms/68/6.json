@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Ama dagiti ulila ken mangiukom kadagiti balo — ti Elohim iti nasantuan a pagagnaedanna.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "dagiti ulila"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ken mangiukom"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "kadagiti balo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "iti pagagnaedan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:04.863158018Z",
+  "model": "glm-5.3"
+}

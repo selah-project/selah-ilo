@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Agyamanak kenni Yahweh kadagiti maipapan iti kinakinalintegna, ket agkankantak iti nagan ni Yahweh ti Kangatuan.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Agyamanak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "kadagiti maipapan iti kinakinalintegna"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ket agkankantak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ti Kangatuan"
+    }
+  ],
+  "timestamp": "2026-09-26T20:41:22.002899981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Itedmo kami a kas karnero a makan, ken kadagiti pagilian isinaamkami.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "itedmo kami"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "a kas karnero"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "a makan"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "ken kadagiti pagilian"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "isinaamkami"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:33.003299883Z",
+  "model": "glm-5.3"
+}

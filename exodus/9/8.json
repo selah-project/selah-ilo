@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Kinuna ni Yahweh kenni Moshe ken kenni Aharon: Alaenyo ti panpunno dagiti papalem ti abu ti purnalan, ket isabonganna ni Moshe daytoy ngato iti langit iti sanguanan ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken kenni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "alaenyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ti bukodyo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ti panpunno"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "dagiti papalem"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "abu"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "purnalan"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ket isabonganna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ngato iti langit"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T03:42:54.701280042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Nasaysayaat ti maysa a palad a kappia ngem dagiti dua a palad a punno iti trabaho ken ti panagririna ti angin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nasaysayaat"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "punno"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palad"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ngem ti punnoan"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "dagiti dua a palad"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trabaho"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ken ti panagririna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti angin"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:29.638030372Z",
+  "model": "glm-5.3"
+}

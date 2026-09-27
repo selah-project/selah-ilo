@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Dagiti anak ni Eli — anak ti Belial; saanda nga ammo ⟨את⟩ ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ti Belial"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ngaan ammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T10:24:34.966245956Z",
+  "model": "glm-5.3"
+}

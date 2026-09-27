@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Bendisionandakayo ni Yahweh, amin a dagiti aramidna, iti amin a dissu ti panagturayna; bendisionam, kararuak, ti ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bendisionandakayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "a dagiti aramidna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "a dissu"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ti panagturayna"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "bendisionam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kararuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:08.098213614Z",
+  "model": "glm-5.3"
+}

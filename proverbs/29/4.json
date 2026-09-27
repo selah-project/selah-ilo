@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ti ari babaen ti ukom ituenna ti daga; ket ti lalaki ti ⟨dagiti⟩ daton, dadaelenna dayta.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "babaen ti ukom"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "ituenna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ket ti lalaki"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "dagiti daton"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "dadaelenna dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:46:20.521207070Z",
+  "model": "glm-5.3"
+}

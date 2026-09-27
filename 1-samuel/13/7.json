@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket dagiti Hebreo immallisiwda iti ⟨את⟩ ti Yarden iti daga ti Gad ken ti Gilead; ni Shaul ket adda pay idiay Gilgal, ket amin a tao narialarda a sumurot kenkuana.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "ket dagiti Hebreo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "imballisiwda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ti Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ken ti Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ket ni Shaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "adda pay"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "idiay Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a tao"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "narialarda"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "a sumurot kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T10:38:37.356755112Z",
+  "model": "glm-5.3"
+}

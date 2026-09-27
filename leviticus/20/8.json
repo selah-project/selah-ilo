@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Salaknibennakayo ⟨את⟩ dagiti bilinko ken aramidenyo ⟨אתם⟩; siak ti Yahweh ti nagsantuan kadakayo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Salaknibennakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bilinko"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "dagiti bilinko"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "aramidenyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dagiti bilinko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ti nagsantuan kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:31.958578582Z",
+  "model": "glm-5.3"
+}

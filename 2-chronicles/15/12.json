@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket simrekada iti tulag nga agbirukda ⟨את⟩ kenni Yahweh, ti Elohim dagiti amaanda, iti amin a pusoda ken iti amin a kararuada.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "simrekada"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "iti tulag"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "nga agbirukda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "dagiti amaanda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "pusoda"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "kararuada"
+    }
+  ],
+  "timestamp": "2026-09-26T23:50:18.672574743Z",
+  "model": "glm-5.3"
+}

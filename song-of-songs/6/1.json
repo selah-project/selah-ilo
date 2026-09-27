@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 6:1",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Sadino ti napan ni dodam, ti napinta kadagiti babai? Sadino ti timmipet ni dodam, ket agbirukkami kenkuana kaduam?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Sadino"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ti napan"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "ni dodam"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "ti napinta"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "kadagiti babai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ti timmipet"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "ni dodam"
+    },
+    {
+      "surface": "ונבקשנו",
+      "gloss": "ket agbirukkami kenkuana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaduam"
+    }
+  ],
+  "timestamp": "2026-09-26T23:01:45.431808622Z",
+  "model": "glm-5.3"
+}

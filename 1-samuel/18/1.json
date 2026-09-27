@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "ket napasamak, idi nalpasanna ti panagsao kenni Shaul, a ti kararua ni Yehonatan naikapet iti kararua ni David, ket inayatna ni Yehonatan ⟨ti⟩ a kas ti kararuana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "idi nalpasanna"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ti panagsao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ket ti kararua"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "naikapet"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "iti kararua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "ket inayatna"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "a kas ti kararuana"
+    }
+  ],
+  "timestamp": "2026-09-26T11:01:24.631291336Z",
+  "model": "glm-5.3"
+}

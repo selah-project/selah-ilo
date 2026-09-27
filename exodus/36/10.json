@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ket timmiponanna ⟨את⟩ dagiti lima a kurtina maysa iti maysa, ken lima a kurtina intiponanna maysa iti maysa.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "timmiponanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lima a kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "a kurtina"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ken lima"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "a kurtina"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "intiponanna"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T04:43:13.457131244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Dagiti agbuteng kenka ket makitada kaniak ken agragragsakda, ta iti saom ti inurayko.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "dagiti agbuteng kenka"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "makitada kaniak"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ken agragragsakda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "iti saom"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ti inurayko"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:32.392466095Z",
+  "model": "glm-5.3"
+}

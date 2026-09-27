@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 131,
+  "translation": "Saan kadi? Napnetko ken inulintik ti kararuak, kas maysa a nalak-anen nga ubing iti inana; kas maysa a nalak-anen nga ubing ti kararuak kenkuak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Saan kadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ti sangaili a panangibaga⟩"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "Napnetko"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "ken inulintik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kas maysa a nalak-anen nga ubing"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "inana"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kas maysa a nalak-anen nga ubing"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kenkuak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:59.238953384Z",
+  "model": "glm-5.3"
+}

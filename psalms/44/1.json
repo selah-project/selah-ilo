@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Iti mangidaulo; kadagiti anak ni Korach; maysa a maskil.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "iti mangidaulo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maysa a maskil"
+    }
+  ],
+  "timestamp": "2026-09-26T21:18:56.894435647Z",
+  "model": "glm-5.3"
+}

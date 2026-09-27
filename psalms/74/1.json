@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Panangisuro ni Asaf. Apay, Elohim, pinanawmo ⟨iti agnanayon⟩? Apay umas-asuk ti cocam iti karnero ti paspasturiam?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Panangisuro"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "pinanawmo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "umas-asuk"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ti cocam"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "iti karnero"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "ti paspasturiam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:06.733242019Z",
+  "model": "glm-5.3"
+}

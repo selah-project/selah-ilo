@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 21:22",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken itedkoy ⟨את⟩ ti balaymo a kas ti balay ni Yarovam nga anak ni Nevat, ken a kas ti balay ni Baasha nga anak ni Ajiyahu, maipapan iti panagpaung-ang a naung-angam, ken gapu ta intulodmo ⟨את⟩ ti Yisrael iti basol.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ken itedkoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balaymo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ti balaymo"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "a kas ti balay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngaanak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "ken a kas ti balay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngaanak"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ni Ajiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maipapan iti"
+    },
+    {
+      "surface": "הכעס",
+      "gloss": "panagpaung-ang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכעסת",
+      "gloss": "naung-angam"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "ket intulodmo iti basol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T13:04:42.379516544Z",
+  "model": "glm-5.3"
+}

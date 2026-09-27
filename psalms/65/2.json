@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 65,
+  "translation": "Kaniak ti agin-innak a daydayaw, Elohim, iti Zion, ken kaniakto matuloy ti nasermon.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "agin-innak"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "daydayaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "iti Zion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ken kaniakto"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "matuloy"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nasermon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:39:00.947782664Z",
+  "model": "glm-5.3"
+}

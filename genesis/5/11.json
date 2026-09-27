@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Dagiti amin nga aldaw ni Enosh ket lima a tawen ken siam a gasut a tawen, ket pimmusay.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ket —"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Dagiti amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ni Enosh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ken siam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket pimmusay"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:14.682503010Z",
+  "model": "glm-5.3"
+}

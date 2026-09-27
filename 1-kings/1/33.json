@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 1:33",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinuna ti ari kadakuada: Alaenyo kadakayo ⟨את⟩ dagiti adipen ti aponyo, ket ipangarabay yo ⟨את⟩ ni Shelomoh nga anakko iti kabalyo a tagikuak, ket ipababayo ⟨את⟩ ni Shelomoh iti Gihon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "alaenyo"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti adipen ti aponyo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dagiti adipen"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ti aponyo"
+    },
+    {
+      "surface": "והרכבתם",
+      "gloss": "ket ipangarabay yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga anakko"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הפרדה",
+      "gloss": "ti kabalyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti tagikuak"
+    },
+    {
+      "surface": "והורדתם",
+      "gloss": "ket ipababayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shelomoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "Gihon"
+    }
+  ],
+  "timestamp": "2026-09-26T12:20:03.076469775Z",
+  "model": "glm-5.3"
+}

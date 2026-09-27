@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Tapno maidipingan ti sakam iti dara, ti dila dagiti asom, manipud kadagiti kabusor, manipud iti dayta.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Tapno"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "maidipingan"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ti sakam"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ti dila"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "dagiti asom"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "manipud kadagiti kabusor"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "manipud iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T21:40:12.095139415Z",
+  "model": "glm-5.3"
+}

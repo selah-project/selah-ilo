@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket nangngegak ⟨את⟩ ti timek ni Adonay a nagsao: ⟨את⟩ siasino ti ipatulodko, ken siasino ti mapan kaduata? Ket kinunak: Addakon, ipatulodnak.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "nangngegak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti timek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a nagsao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siasino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ti ipatulodko"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ken siasino"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ti mapan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kaduata"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ket kinunak"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "addakon"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ipatulodnak"
+    }
+  ],
+  "timestamp": "2026-09-26T14:26:31.389668967Z",
+  "model": "glm-5.3"
+}

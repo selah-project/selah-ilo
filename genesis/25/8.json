@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ket natayan ti angegna, ket natay ni Avraham iti nasayaat a kabalakadan, a daan a tao ken nataloandan, ket naurnong ⟨iti⟩ kadagiti taona.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "natayan ti angegna"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "iti kabalakadan"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a daan a tao"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ken nataloandan"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ket naurnong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "kadagiti taona"
+    }
+  ],
+  "timestamp": "2026-09-26T02:21:19.957641436Z",
+  "model": "glm-5.3"
+}

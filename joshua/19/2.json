@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket nagbalin koma ti kadakuada a tawidda: Beersheba, ken Sheba, ken Moladah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "koma ti kadakuada"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "iti tawidda"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beersheba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "(Sheba)"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ken Sheba"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ken Moladah"
+    }
+  ],
+  "timestamp": "2026-09-26T09:22:25.506261078Z",
+  "model": "glm-5.3"
+}

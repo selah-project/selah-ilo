@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Inaramidna pay dagiti kawes ti tanso a limapulo, a mangisilpo ⟨את⟩ ti Tolda, a mangmaysa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kawes"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limapulo"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "a mangisilpo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "להית",
+      "gloss": "a mangmaysa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T04:46:52.433445171Z",
+  "model": "glm-5.3"
+}

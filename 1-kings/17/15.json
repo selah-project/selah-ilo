@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Napan isuna ken kinaramidna kas iti sao ni Eliyahu, ken nanganda — isu, ken isuna, ken ti balayna — kadagiti aldaw.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "napan isuna"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ken kinaramidna"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kas iti sao"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ken nanganda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ken isuna"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ken ti balayna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kadagiti aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T12:58:00.303316965Z",
+  "model": "glm-5.3"
+}

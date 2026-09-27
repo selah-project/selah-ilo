@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kalpasan dagiti sao a daytoy, indakkelna ni Ahashverosh ari ⟨את⟩ ni Haman, anak ni Hamedata ti Agagita, ken inangatonna, ken inkabilna ⟨את⟩ ti trono na ngato iti amin dagiti prinsipe a kaduana ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "indakkelna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "ti Agagita"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "inangatonna"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "inkabilna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti trono"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "trono"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ngato iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "dagiti prinsipe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kaduana ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-26T23:13:27.599006807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "Ngem ibagana a nalinteg ni Yahweh, ti Batoak, ken awan ti kinadakesna.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ngem ibagana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ti Batoak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ti kinadakesna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨iti kinna⟩"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:46.182283992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ket nagpangato ni Elohim manipud kenkuana, iti lugar a nakipanggepna ⟨את⟩ iti kaduana.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nagpangato"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "manipud kenkuana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iti lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nakipanggepna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iti kaduana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:45:36.722060934Z",
+  "model": "glm-5.3"
+}

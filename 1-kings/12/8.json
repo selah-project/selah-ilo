@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Pinuanna ⟨את⟩ ti payo dagiti laklakay a naisuda ti imbayaganda kokuana, ket nagpayo ⟨את⟩ dagiti ubbing a dimmakdakkel ⟨אתו⟩, dagiti agtaktakder iti sanguananna.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "pinuanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti payo dagiti laklakay"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ti payo"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "dagiti laklakay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "imbayaganda kokuana"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "nagpayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ubbing"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "dagiti ubbing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "dimmakdakkel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kadakuana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "agtaktakder"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti sanguananna"
+    }
+  ],
+  "timestamp": "2026-09-26T12:48:19.756572121Z",
+  "model": "glm-5.3"
+}

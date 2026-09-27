@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Inala dagiti lalaki iti taraonda, ket ⟨את⟩ ti ngiwat ni Yahweh saanda dimmandaan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "iti taraonda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti ngiwat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "dimmandaan"
+    }
+  ],
+  "timestamp": "2026-09-26T09:00:49.592182345Z",
+  "model": "glm-5.3"
+}

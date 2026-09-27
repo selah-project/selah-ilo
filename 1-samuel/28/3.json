@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "ket ni Shemuel natay, ket nagdumduma amin a Yisrael kenkuana, ket ilubongda isuna iti Rama, iti ilina; ket ni Shaul nangikkat kadagiti mangawis kadagiti minatay ken ⟨את⟩ dagiti ag-ammo kadagiti nailemmeng manipud iti daga.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ket ni Shemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "nagdumduma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ilubongna"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "iti Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "iti ilina"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ket ni Shaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nangikkat"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "dagiti mangawis kadagiti minatay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ag-ammo kadagiti nailemmeng"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "dagiti ag-ammo kadagiti nailemmeng"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "manipud iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T11:22:05.234407181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 75,
+  "translation": "Ta ni Elohim ti agukom: daytoy ipapabassitna, ken daytoy ipangatona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ti agukom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ipapabassitna"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ken daytoy"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ipangatona"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:51.714867758Z",
+  "model": "glm-5.3"
+}

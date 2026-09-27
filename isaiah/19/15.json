@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ken awan ti aramid a mabalin ti Mitsrayim nga aramiden, ti ulo ken ti sikkong, ti sanga ti palm ken ti pespes.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti mabalin"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ken ti sikkong"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ti sanga ti palm"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ken ti pespes"
+    }
+  ],
+  "timestamp": "2026-09-26T14:43:53.522912107Z",
+  "model": "glm-5.3"
+}

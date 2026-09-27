@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Ta pobre ken makasapul siak, ket ti pusok nasugatan iti kauneganko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pobre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ken makasapul"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ket ti pusok"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nasugatan"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "iti kauneganko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:48.879023501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken saan a nangngeg ni Amatsyahu, ta manipud iti Elohim dayta, tapno maited ida iti ima, ta birbirokda ⟨את⟩ dagiti dios ti Edom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "ni Amatsyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "manipud iti Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "maited ida"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "birbirokda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dios ti Edom"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dagiti dios"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    }
+  ],
+  "timestamp": "2026-09-26T23:52:49.619310170Z",
+  "model": "glm-5.3"
+}

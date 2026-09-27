@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "O Pastol ti Yisrael, dingngegam; nga agiduldulo kas iti pintor ti karnero kenni Yosef; nga agtakder kadagiti kerub, aglawigka.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "O Pastol"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dingngegam"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "nga agiduldulo"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kas iti pintor ti karnero"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kenni Yosef"
+    },
+    {
+      "surface": "יוב",
+      "gloss": "nga agtakder"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kadagiti kerub"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "aglawigka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:03.351694212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 135,
+  "translation": "Kas kakuada dagiti nagaramid kaniada; kas iti amin a mamati kadakuada.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kas kakuada"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agtalinaedda"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "dagiti nagaramid kaniada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:52.114419801Z",
+  "model": "glm-5.3"
+}

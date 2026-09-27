@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 37:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ket inaramidna kenkuana ti beddeng a kalawa ti ima a lumikmut, ken inaramidna ti korona a balitok iti beddengna a lumikmut.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "beddeng"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "kalawa ti ima"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a lumikmut"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "iti beddengna"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a lumikmut"
+    }
+  ],
+  "timestamp": "2026-09-26T04:42:47.374447665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 98,
+  "translation": "Dagiti karayan agpalakpak ti imada; agkakaysa nga agkanta dagiti bantay.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Dagiti karayan"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "agpalakpak"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ti imada"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "agkakaysa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nga agkanta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:49.721789136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Adonay, babaen dagitoy agbiagda, ken iti amin dagitoy ti biag ti angesko; ipatawarmoak, ket ipagbiagmoak.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "babaen dagitoy"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "agbiagda"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ti angesko"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "ipatawarmoak"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "ket ipagbiagmoak"
+    }
+  ],
+  "timestamp": "2026-09-26T15:14:46.645712033Z",
+  "model": "glm-5.3"
+}

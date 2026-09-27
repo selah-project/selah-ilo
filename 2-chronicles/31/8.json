@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket simmangpet ni Hizkiyahu ken dagiti prinsipe, ken nakitada ⟨את⟩ dagiti bunton, ket binendisionanda ⟨את⟩ ni Yahweh ken ⟨את⟩ ti umilina a Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ket simmangpetda"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ni Hizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ken dagiti prinsipe"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bunton"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "dagiti bunton"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ket binendisionanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti umilina"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T23:55:09.431861075Z",
+  "model": "glm-5.3"
+}

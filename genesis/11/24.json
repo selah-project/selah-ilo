@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken nagbiag ni Nahor siam ken duapulo a tawen, ket nagputotanna ⟨את⟩ ni Terah.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nagbiag"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "siam"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ken duapulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nagputotanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    }
+  ],
+  "timestamp": "2026-09-26T01:53:32.813707337Z",
+  "model": "glm-5.3"
+}

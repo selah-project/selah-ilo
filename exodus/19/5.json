@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ita nga adda, no pudno a dengngenyonto ti timekko ket taripatento ⟨את⟩ ti tulagko, ket agbalinkayto a tagikua a naisangsangayan kaniak ngem amin dagiti pagilian, ta kaniak amin ti daga.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ita nga adda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "pudno"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "dengngenyonto"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ti timekko"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "taripatento"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulagko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "agbalinkayto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "tagikua a naisangsangayan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngem amin"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T04:00:50.479870714Z",
+  "model": "glm-5.3"
+}

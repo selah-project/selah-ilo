@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kasakit kadagiti mangibilbilin ⟨dagiti⟩ bilin ti dakes, ken kadagiti mannurat a mangisurat ti rigat.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kasakit"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "kadagiti mangibilbilin"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "dagiti bilin"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "ken kadagiti mannurat"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "a mangisurat"
+    }
+  ],
+  "timestamp": "2026-09-26T14:39:13.810267792Z",
+  "model": "glm-5.3"
+}

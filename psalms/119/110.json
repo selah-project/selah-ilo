@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Insaadda dagiti dakes ti linta kaniak, ket manipud kadagiti bilinmo saanak a naligawan.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "insaadda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "פח",
+      "gloss": "linta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ken manipud kadagiti bilinmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "naligawan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:23.720719713Z",
+  "model": "glm-5.3"
+}

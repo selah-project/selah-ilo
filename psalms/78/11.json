@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket linipatanda dagiti aramidna ken dagiti pasingkedanna a nangipakitana kadakuada.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ket linipatanda"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "dagiti aramidna"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ken dagiti pasingkedanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "nangipakitana kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:33.531183497Z",
+  "model": "glm-5.3"
+}

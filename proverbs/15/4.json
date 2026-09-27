@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti makapagayat a dila ket kayo ti biag; ngem ti panagdakesna ket panakabuong iti kararua.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "makapagayat"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ngem ti panagdakes"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "panakabuong"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "iti kararua"
+    }
+  ],
+  "timestamp": "2026-09-26T22:38:13.870820096Z",
+  "model": "glm-5.3"
+}

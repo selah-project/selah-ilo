@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 19:18",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Nagtaray ni Daud ket nakatalaw, ket immay kenni Shemuel iti Ramah, ket inimbaganna kenni Shemuel ⟨את⟩ ti amin a naramid kenni Shaul; ket nagna isu ken ni Shemuel ket immayda nga agnaed iti Naiot.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ni Daud"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "nagtaray"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "nakatalaw"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "iti Ramah"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "inimbaganna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naramid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ken ni Shemuel"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "agnaedda"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "iti Naiot"
+    }
+  ],
+  "timestamp": "2026-09-26T11:00:31.356235664Z",
+  "model": "glm-5.3"
+}

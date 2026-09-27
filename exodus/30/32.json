@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 30:32",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Iti lasag ti tao saan a maiyon, ken iti pakabukelna saan kayo nga agaramid iti kapadana; nasantuan dayta, nasantuan dayta kadakayo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lasag"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ייסך",
+      "gloss": "maiyon"
+    },
+    {
+      "surface": "ובמתכנתו",
+      "gloss": "ken iti pakabukelna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kayo nga agaramid"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "iti kapadana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:29:17.502196793Z",
+  "model": "glm-5.3"
+}

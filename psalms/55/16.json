@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "Dagiti karukruasan koma iti rabawda; agbabaanda iti Sheol a sibibiag; ta dagiti dakes adda iti pagnaedanda, iti tengngada.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "dagiti karukruasan"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "iti rabawda"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "agbabaanda"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "iti Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a sibibiag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "iti pagnaedanda"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "iti tengngada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:42.171366421Z",
+  "model": "glm-5.3"
+}

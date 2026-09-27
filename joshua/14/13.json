@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ni Yehoshua ti binendisionanna, ket initedna ⟨את⟩ ti Khevron kenni Khalev nga anak a lalaki ni Yefunneh a tawid.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ti Khevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kenni Khalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nganak a lalaki"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ni Yefunneh"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "a tawid"
+    }
+  ],
+  "timestamp": "2026-09-26T09:10:18.508557095Z",
+  "model": "glm-5.3"
+}

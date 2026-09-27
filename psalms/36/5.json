@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ti kinaawanan balakadanna iti pagtugawanna; agtakder ⟨iti⟩ dalan a saan naimbang; ti dakes saan nga ilaksidna.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "kinaawanan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "balakadanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "pagtugawanna"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "nga ilaksidna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:09:11.068210472Z",
+  "model": "glm-5.3"
+}

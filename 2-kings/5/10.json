@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket imbaona ni Elisha ⟨ti⟩ maysa a mensahero kenkuana, nga kunana: Inmoka ket agdigoska pito a beses iti Yarden, ket agsubli ti lasagmo kenka, ket nadaluska.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "imbaona"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "maysa a mensahero"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kunana"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "Inmoka"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "agdigoska"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "a beses"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "iti Yarden"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "ti lasagmo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ket nadaluska"
+    }
+  ],
+  "timestamp": "2026-09-26T13:29:44.112337968Z",
+  "model": "glm-5.3"
+}

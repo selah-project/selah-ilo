@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken saan kayo a mangdadanes ti maysa a tao ⟨את⟩ kakaarrubana, ket agbutengka iti Elohim mo, ta siak ti Yahweh nga Elohim yu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "kaykayo a mangdadanes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakaarrubana"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "kakaarrubana"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ket agbutengka"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "iti Elohim mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohim yu"
+    }
+  ],
+  "timestamp": "2026-09-26T05:52:18.656093623Z",
+  "model": "glm-5.3"
+}

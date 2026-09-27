@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ken ⟨את⟩ Khilen ken ⟨את⟩ dagiti liwliwana, ⟨את⟩ Devir ken ⟨את⟩ dagiti liwliwana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Khilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Khilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti liwliwana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti liwliwana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti liwliwana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti liwliwana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:40.852852525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Kinalinteg dagiti pammasingkedmo agingga iti agnanayon; palawagannak maipapan, ket agbiagak",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "kinalinteg"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dagiti pammasingkedmo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agingga iti agnanayon"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "palawagannak maipapan"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ket agbiagak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:29.008574200Z",
+  "model": "glm-5.3"
+}

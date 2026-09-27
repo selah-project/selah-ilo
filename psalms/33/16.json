@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Awan ti ari a maisalakan babaen ti kaadu ti buyot; ti napigsa a lalaki, saan a maisalakan babaen ti kaadu ti bileg.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "maisalakan"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "babaen ti kaadu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "buyot"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ti napigsa a lalaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "maisalakan"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "babaen ti kaadu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "bileg"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:10.472675656Z",
+  "model": "glm-5.3"
+}

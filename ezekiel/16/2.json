@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Anak ti tao, ipaammoam ⟨את⟩ kenni Yerushalayim ⟨את⟩ dagiti kinaririsna,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ipaammoam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kenni Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kinaririsna"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "dagiti kinaririsna"
+    }
+  ],
+  "timestamp": "2026-09-26T18:25:17.174161183Z",
+  "model": "glm-5.3"
+}

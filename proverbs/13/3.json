@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ti agsalaknib ti ngiwatna, salaknibenna ti kararuana; ti manglukat kadagiti bibigna — ti kadadaelan kukuana.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "ti agsalaknib"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ti ngiwatna"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "salaknibenna"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ti kararuana"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "ti manglukat"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "kadagiti bibigna"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ti kadadaelan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kukuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:38:15.607002856Z",
+  "model": "glm-5.3"
+}

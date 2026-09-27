@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Kitaem, pinurokka, ngem saan a kas iti pirak; piniliakka iti pugon ti pannakadanes.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "pinurokka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kas iti pirak"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "piniliakka"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "iti pugon"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ti pannakadanes"
+    }
+  ],
+  "timestamp": "2026-09-26T15:32:22.728759450Z",
+  "model": "glm-5.3"
+}

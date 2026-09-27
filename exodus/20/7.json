@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Saanmo a mangala iti ⟨את⟩ ti nagan ni Yahweh nga Elohim mo iti biddaw, ta saan a ipatawar ni Yahweh ti ⟨את⟩ mangala iti ⟨את⟩ nagnana iti biddaw.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "a mangala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "iti biddaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "a ipatawar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mangala iti nagnana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mangala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagnana"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nagnana"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "iti biddaw"
+    }
+  ],
+  "timestamp": "2026-09-26T03:55:55.645925851Z",
+  "model": "glm-5.3"
+}

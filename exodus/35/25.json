@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ken amin a babaí nga naempan ti puso intarada iti imada, ket impan da ti tinara: ⟨את⟩ ti asul ken ⟨את⟩ ti purpura, ⟨את⟩ ti nalabbasit a sidosok ti tungo ken ⟨את⟩ ti lino.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "a babaí"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "naempan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "iti imada"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "intarada"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ket impan da"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "ti tinara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti asul"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ti asul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti purpura"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ti purpura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nalabbasit a sidosok ti tungo"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ti sidosok"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ti nalabbasit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lino"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ti lino"
+    }
+  ],
+  "timestamp": "2026-09-26T04:40:38.095183912Z",
+  "model": "glm-5.3"
+}

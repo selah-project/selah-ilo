@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 141,
+  "translation": "Kas ti agtalon ken agbukbukdat iti daga, naiwarwaras dagiti tulangtayo iti ngiwat ti Sheol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kas"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "ti agtalon"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "ken agbukbukdat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "naiwarwaras"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "dagiti tulangtayo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "iti ngiwat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ti Sheol"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:36.277049029Z",
+  "model": "glm-5.3"
+}

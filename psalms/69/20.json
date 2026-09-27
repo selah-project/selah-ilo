@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Sika, Ammonak ti panangdillawko ken ti bainko ken ti panangibabako; dagiti kabusorko amin adda sadiam.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Ammonak"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ti panangdillawko"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "ken ti bainko"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "ken ti panangibabako"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "adda sadiam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dagiti kabusorko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:39.969893533Z",
+  "model": "glm-5.3"
+}

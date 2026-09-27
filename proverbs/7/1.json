@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Anakko, salaknibem dagiti saok, ken dagiti bilinko ipenpenmo ⟨את⟩ kaduam.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anakko"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "salaknibem"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "dagiti saok"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ken dagiti bilinko"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ipenpenmo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kaduam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:40.170258907Z",
+  "model": "glm-5.3"
+}

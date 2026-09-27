@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Ikeddengmo a kas ni Oreb ken a kas ni Zeeb dagiti nangatngato da, ken a kas ni Zevah ken a kas ni Zalmunna amin dagiti prinsipe da:",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Ikeddengmo"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "dagiti nangatngato da"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "a kas ni Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "ken a kas ni Zeeb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "ken a kas ni Zevah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "ken a kas ni Zalmunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "dagiti prinsipe da"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:37.371866635Z",
+  "model": "glm-5.3"
+}

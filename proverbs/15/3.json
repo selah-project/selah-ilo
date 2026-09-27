@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Iti amin a disso, dagiti mata ni Yahweh agbantay kadagiti dakes ken dagiti naimbag.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "disso"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "agbantay"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kadagiti dakes"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ken dagiti naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:38:13.870625712Z",
+  "model": "glm-5.3"
+}

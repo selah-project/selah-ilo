@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket ginuraik ⟨את⟩ ti maikadua a bastonko, ⟨את⟩ ti Pammakapet, a mangipukaw ⟨את⟩ ti pannakakabsat iti nagbaetan ni Yehudah ken iti nagbaetan ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "ginuraik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maikadua a bastonko"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "bastonko"
+    },
+    {
+      "surface": "השני",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Pammakapet"
+    },
+    {
+      "surface": "החבלים",
+      "gloss": "ti Pammakapet"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "a mangipukaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pannakakabsat"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "pannakakabsat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti nagbaetan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T20:35:16.110435923Z",
+  "model": "glm-5.3"
+}

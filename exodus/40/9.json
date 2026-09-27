@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ken alaem ti lana ti panagilana ken ilanaam ti ⟨את⟩ Mishkan ken ⟨את⟩ amin a banag nga adda iti unegna, ket isantonam ⟨את⟩ dayta ken ⟨את⟩ amin a kaldagna, ket agbalin daytoy a nasantuan.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "panagilana"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ilanaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti unegna"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "isantonam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kaldagna"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:50:27.229749764Z",
+  "model": "glm-5.3"
+}

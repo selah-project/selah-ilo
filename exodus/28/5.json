@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ket isuda ti mangala iti ⟨את⟩ ti balitok ken ⟨את⟩ ti asul ken ⟨את⟩ ti purpura ken ⟨את⟩ ti igges nga eskarlata ken ⟨את⟩ ti napino a lino.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ket isuda"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ti mangala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balitok"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ti balitok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti asul"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ti asul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti purpura"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ti purpura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti igges nga eskarlata"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ti igges"
+    },
+    {
+      "surface": "השני",
+      "gloss": "eskarlata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti napino a lino"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ti napino a lino"
+    }
+  ],
+  "timestamp": "2026-09-26T04:21:50.555156204Z",
+  "model": "glm-5.3"
+}

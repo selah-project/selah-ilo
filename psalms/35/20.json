@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ta saanda a nagsao iti kappia; ken iti dagiti talna iti daga, dagiti sao ti anniniw ar-amidda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "iti kappia"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "a nagsao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "dagiti talna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ti anniniw"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "ar-amidda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:06.662628125Z",
+  "model": "glm-5.3"
+}

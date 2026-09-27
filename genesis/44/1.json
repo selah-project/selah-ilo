@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Inutusanna ⟨את⟩ ti agturturay iti ngato ti balayna, a kuna: Punuem ⟨את⟩ ti sako dagiti lalaki iti taraon, kas iti kabaelanda nga iparawang, ken ikabilmo ti pirak ti tunggal maysa iti ngiwat ti sako na.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Inutusanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti agturturay iti ngato ti balayna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato ti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balayna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Punuem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sako dagiti lalaki"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "ti sako"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "iti taraon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "kabaelanda"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "nga iparawang"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ken ikabilmo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "iti ngiwat"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ti sako na"
+    }
+  ],
+  "timestamp": "2026-09-26T03:10:40.050233701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 68:27",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Iti dagiti gimong bendisionanyo ti Elohim, ni Yahweh, manipud iti taudan ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "במקהלות",
+      "gloss": "iti dagiti gimong"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bendisionanyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ממקור",
+      "gloss": "manipud iti taudan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:58.029070672Z",
+  "model": "glm-5.3"
+}

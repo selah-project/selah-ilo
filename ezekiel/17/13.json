@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 17:13",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Kinuatanna iti putot ti pagarian, ken nagtipon ⟨את⟩ iti tulag kenkuana, ken impana ⟨את⟩ kenkuana iti sumpa, ken dagiti nabileg ti daga kinuatana.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuatanna"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "iti putot"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ti pagarian"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kenkuana",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "iti tulag"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "impana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kenkuana",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "iti sumpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "dagiti nabileg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinuatana"
+    }
+  ],
+  "timestamp": "2026-09-26T18:28:58.892782557Z",
+  "model": "glm-5.3"
+}

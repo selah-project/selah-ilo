@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket isuromyo ⟨ti⟩ ⟨את⟩ dagiti saok nga itan iti ppuso yo ken iti kararua yo, ket igappuanyo ⟨ti⟩ dagitoy a kas tandá iti imamyo, ket agbalinanda a kas totapót iti nagbaetan dagiti matamyo.",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "isuromyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti saok"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti saok"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nga itan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ppuso yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "kararua yo"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "ket igappuanyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "a kas tandá"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "imamyo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ket agbalinanda"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "a kas totapót"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "dagiti matamyo"
+    }
+  ],
+  "timestamp": "2026-09-26T07:52:20.069633234Z",
+  "model": "glm-5.3"
+}

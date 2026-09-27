@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Nakita ti babai ⟨את⟩ ni Shemuel ket simmangaw iti dakkel a timek; ket kinuna ti babai kenni Shaul, nga kuna: Apay a dinayaamak — ket sika ni Shaul?",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "simmangaw"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "dinayaamak"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-26T11:17:00.497476934Z",
+  "model": "glm-5.3"
+}

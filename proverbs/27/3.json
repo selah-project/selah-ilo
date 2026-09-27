@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ti dagsen ti bato ken ti pagsiklannan ti darepdep, ngem ti riebeng ti awan baetna ket nadagsen ngem dagitoy a dua.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ti dagsen"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "ken ti pagsiklannan"
+    },
+    {
+      "surface": "החול",
+      "gloss": "ti darepdep"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ngem ti riebeng"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ti awan baetna"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nadagsen"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ngem dagitoy a dua"
+    }
+  ],
+  "timestamp": "2026-09-26T22:43:36.592789137Z",
+  "model": "glm-5.3"
+}

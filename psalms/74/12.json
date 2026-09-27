@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Ket ni Elohim ti arinko manipud iti punganay, agob-obra ⟨kadagiti⟩ panangisalakan iti tengnga ti daga.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "ket ni Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ti arinko"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "manipud iti punganay"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "agob-obra"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "panangisalakan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:49:21.139810838Z",
+  "model": "glm-5.3"
+}

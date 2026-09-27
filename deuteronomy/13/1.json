@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ti ⟨את⟩ amin a sao a bilinko ⟨את⟩ kadakayo, dayta ti salaknibenyonto a aramiden; saanyonto a nayonen iti ngatona, ken saanyonto a pangbassiten manipud iti.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a sao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "bilinko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "salaknibenyonto"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aramiden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "nayonen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti ngatona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "pangbassiten"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud iti"
+    }
+  ],
+  "timestamp": "2026-09-26T08:08:34.240990256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 61:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 61,
+  "translation": "Ket ipatakderda dagiti nadadael iti napalabas, dagiti naawanan nga umuna a lalisenda; ket barbarenda dagiti ili a nadael, dagiti naawanan iti henerasion ken henerasion.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ket ipatakderda"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "dagiti nadadael"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iti napalabas"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "dagiti naawanan"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "nga umuna"
+    },
+    {
+      "surface": "יקוממו",
+      "gloss": "a lalisenda"
+    },
+    {
+      "surface": "וחדשו",
+      "gloss": "ket barbarenda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "a nadael"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "dagiti naawanan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "iti henerasion"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ken henerasion"
+    }
+  ],
+  "timestamp": "2026-09-26T16:06:17.136051911Z",
+  "model": "glm-5.3"
+}

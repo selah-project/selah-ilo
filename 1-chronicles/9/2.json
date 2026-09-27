@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket dagiti immuna nga agnanaed kadagiti tagikuada, kadagiti ilida, ⟨ti⟩ Yisrael, dagiti padi, dagiti Levi ken dagiti Netinim.",
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "ket dagiti agnanaed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "dagiti immuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "kadagiti tagikuada"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "kadagiti ilida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levi"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "ken dagiti Netinim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:12.245237458Z",
+  "model": "glm-5.3"
+}

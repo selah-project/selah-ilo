@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Kitaem dagiti kabusorlak, ta aduda, ken iti nakaro a riringaw dinaksida nak.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dagiti kabusorlak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "aduda"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "ken iti nakaro a riringaw"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "iti ranggas"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "dinaksida nak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:28.280325729Z",
+  "model": "glm-5.3"
+}

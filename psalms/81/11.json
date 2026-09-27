@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 81,
+  "translation": "Siak ti Yahweh nga Elohimmo, ti nangipayonna kenka manipud iti daga ti Mitsrayim: Palawaam ti ngiwatmo ket punnuennak.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmo"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "nangipayonna"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "Palawaam"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ngiwatmo"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "punnuennak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:48.610979118Z",
+  "model": "glm-5.3"
+}

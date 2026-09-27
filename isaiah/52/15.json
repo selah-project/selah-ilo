@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 52:15",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Kasta isbisyan na dagiti adu a pagilian; dagiti ari didigraanda ti ngiwatda; ta ti saanda a nabatianda nakitada, ket ti saanda a nangngeg naannatianda.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "isbisyan na"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "pagilian"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dagiti adu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "יקפצו",
+      "gloss": "didigraanda"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ti ngiwatda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "nabatianda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ket ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nangngegda"
+    },
+    {
+      "surface": "התבוננו",
+      "gloss": "naannatianda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:46:06.222021468Z",
+  "model": "glm-5.3"
+}

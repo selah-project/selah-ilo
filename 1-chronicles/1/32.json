@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Dagiti anak ni Keturah, ti kadua a babai ni Avraham: naganakanna ⟨את⟩ kenni Zimran ken kenni Yokshan ken kenni Medan ken kenni Midyan ken kenni Yishbak ken kenni Shuakh; dagiti anak ni Yokshan: Sheba ken Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "ni Keturah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "ti kadua a babai"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naganakanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "kenni Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "ken kenni Yokshan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "ken kenni Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "ken kenni Midyan"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "ken kenni Yishbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "ken kenni Shuakh"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "ni Yokshan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "ken Dedan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:04.315848869Z",
+  "model": "glm-5.3"
+}

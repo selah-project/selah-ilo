@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "ken aramaendakayo kaniak ti maysa a nasantoan a lugar, ket agnaedak kadagiti tengngada",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ken aramaendakayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ti nasantoan a lugar"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "ket agnaedak"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "kadagiti tengngada"
+    }
+  ],
+  "timestamp": "2026-09-26T04:14:56.741568023Z",
+  "model": "glm-5.3"
+}

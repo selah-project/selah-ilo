@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ukomannak kas iti kinalintegmo, Yahweh nga Elohimko, ket saanda a mangiragsak kaniak.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ukomannak"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "kas iti kinalintegmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga Elohimko"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "a mangiragsak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:46.232054002Z",
+  "model": "glm-5.3"
+}

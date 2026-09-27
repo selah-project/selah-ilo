@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 6:4",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Dagiti anak ni Merari: Mahli ken Mushi; ken dagitoy dagiti pamilia ti Levi a kas kadagiti ammada.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ni Merari"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Mahli"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "ken Mushi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ken dagitoy"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "dagiti pamilia"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ti Levi"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "a kas kadagiti ammada"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:20.661128637Z",
+  "model": "glm-5.3"
+}

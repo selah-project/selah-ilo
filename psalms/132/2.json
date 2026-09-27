@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 132,
+  "translation": "Ti nangipanumpa kenni Yahweh, nanginandona kenni Abir ni Yaakov —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nangipanumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nanginandona"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "kenni Abir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:15.649475714Z",
+  "model": "glm-5.3"
+}

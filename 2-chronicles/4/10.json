@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ⟨את⟩ ti Baybay inikkatna iti kannawan a bangir, iti daya, a sumango iti abagatan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Baybay"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti Baybay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inikkatna"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "iti bangir"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "a kannawan"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "a sumango"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "iti abagatan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:44:07.102630615Z",
+  "model": "glm-5.3"
+}

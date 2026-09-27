@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ket kinuna na kenkuana: Aganka, kitaem ⟨את⟩ ti kappia dagiti kabsatmo ken ⟨את⟩ ti kappia ti tuitionan, ket ibagam kaniak ti sao. Ket ipatulod na isuna manipud iti tanap ti Khevron, ket immay isuna iti Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aganka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kappia dagiti kabsatmo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dagiti kabsatmo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kappia ti tuitionan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ti tuitionan"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "ket ibagam kaniak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "ket ipatulod na isuna"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "manipud iti tanap"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "iti Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-26T02:50:09.561794369Z",
+  "model": "glm-5.3"
+}

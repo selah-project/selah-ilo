@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ken no ti maysa a lalaki ket agbalin a nalinteg, ken aramidenna ti ukom ken ti kinanalinteg,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti maysa a lalaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ken aramidenna"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukom"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ken kinanalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T18:29:48.544792334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Dagiti pangulu dagiti umili naurnongda, a kas umili ti Elohim ni Avraham, ta iti Elohim dagiti tangkikal ti daga — unay a nangatuen.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "Dagiti pangulu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "naurnongda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "dagiti tangkikal"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "a nangatuen"
+    }
+  ],
+  "timestamp": "2026-09-26T21:20:26.982777901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 69:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Ngem siak, ti kararagak kenka, Yahweh, iti tiempo a maawat; Elohim, iti kaadu ti hesedmo, sungbatannak iti kinapudno ti panangisalakanmo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngem siak"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ti kararagak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עת",
+      "gloss": "iti tiempo"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "a maawat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "iti kaadu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sungbatannak"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "iti kinapudno"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ti panangisalakanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:56.832052901Z",
+  "model": "glm-5.3"
+}

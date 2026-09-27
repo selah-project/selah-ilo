@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Iti panangdadael ti tulangko insultoda nak dagiti kabusorko, iti kunkuna da kaniak amin nga aldaw: Sadino ti Elohimmo?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "iti panangdadael"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "ti tulangko"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "insultoda nak"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dagiti kabusorko"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "iti kunkuna da"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "איה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohimmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:56.641667582Z",
+  "model": "glm-5.3"
+}

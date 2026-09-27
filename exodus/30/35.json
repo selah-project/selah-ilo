@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Umadinom nga aramidem dayta ⟨את⟩ a kas insenso — maysa a pinaglalaok, obra ti mannalaok, innasin, nalawag, nasantuan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Umadinom nga aramidem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "insenso"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "a kas insenso"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "maysa a pinaglalaok"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "obra"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "ti mannalaok"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "innasin"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nalawag"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:26:14.572947138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Ti El kadatayo, maysa nga El kadagiti panangisalakan, ken ni Adonay Yahweh, dagiti ruaran manipud iti ipapatay.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ti El"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadatayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maysa nga El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "kadagiti panangisalakan"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "ken ni Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "למות",
+      "gloss": "iti ipapatay"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "dagiti ruaran"
+    }
+  ],
+  "timestamp": "2026-09-26T21:40:12.093505621Z",
+  "model": "glm-5.3"
+}

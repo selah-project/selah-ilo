@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ti Mangidaulo. Maysa a mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ti Mangidaulo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Maysa a mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:39.712517572Z",
+  "model": "glm-5.3"
+}

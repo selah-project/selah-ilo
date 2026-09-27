@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Amin dagiti pagdalanan ni Yahweh ket hesed ken kinapudno, kadagiti agsalaknib iti tulagna ken iti ⟨dagiti⟩ testimoniona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "dagiti pagdalanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ken kinapudno"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "kadagiti agsalaknib"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iti tulagna"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ken iti ⟨dagiti⟩ testimoniona"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:42.958612089Z",
+  "model": "glm-5.3"
+}

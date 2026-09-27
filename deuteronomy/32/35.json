@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 32:35",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Kaniak ti panagbalos ken ti panagbayad; iti panawenna ti panagkuykuy ti sakada; ta asideg ti aldaw ti didigraoda, ken napartak dagiti napartak a mapasamak kaniada.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Kaniak"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ti panagbalos"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ken ti panagbayad"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "iti panawenna"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ti panagkuykuy"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "ti sakada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "asideg"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "ti didigraoda"
+    },
+    {
+      "surface": "וחש",
+      "gloss": "ken napartak"
+    },
+    {
+      "surface": "עתדת",
+      "gloss": "dagiti napartak a mapasamak"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T08:46:38.769242885Z",
+  "model": "glm-5.3"
+}

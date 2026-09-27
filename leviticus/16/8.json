@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ken itedna ni Aharon iti ngato dagiti dua a kalding dagiti pili: ti pili a maysa kenni Yahweh, ken ti pili a maysa kenni Azazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "a kalding"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "dagiti pili"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ti pili"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a maysa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "ken ti pili"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a maysa"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "kenni Azazel"
+    }
+  ],
+  "timestamp": "2026-09-26T05:33:23.902090822Z",
+  "model": "glm-5.3"
+}

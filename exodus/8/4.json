@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Inawagan ni Paro ti Moshe ken ni Aharon, ket kinunana: Agkararagkayo kenni Yahweh, ket ikkatna dagiti baka-baka kaniak ken kadagiti taoak, ket ipatulodko ⟨את⟩ ti tattao tapno agdatonda kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inawagan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ti Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ken ni Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "agkararagkayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ket ikkatna"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "dagiti baka-baka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "ken kadagiti taoak"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "ket ipatulodko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tattao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "tapno agdatonda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T03:41:40.348571803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 30:11",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ngem dadduma a lallaki manipud iti Asher ken manipud iti Menashe ken manipud iti Zevulun ket nagbabaenda ti bagida, ket simmangpetda iti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dadduma a lallaki"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "manipud iti Asher"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ken manipud iti Menashe"
+    },
+    {
+      "surface": "ומזבלון",
+      "gloss": "ken manipud iti Zevulun"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "ket nagbabaenda ti bagida"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ket simmangpetda"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "iti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:55:59.302523811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Tapno agsirib kadagiti plano, tapno mangaramid iti balitok, ken iti pilak, ken iti gambang.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "Tapno agsirib"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "kadagiti plano"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tapno mangaramid"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "iti balitok"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ken iti pilak"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ken iti gambang"
+    }
+  ],
+  "timestamp": "2026-09-26T04:23:42.094617595Z",
+  "model": "glm-5.3"
+}

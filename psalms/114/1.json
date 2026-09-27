@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 114,
+  "translation": "Idi rumuar ti Yisrael manipud iti Mitsrayim, ti balay ni Yaakov manipud iti umili a naisasao ti sabali a pagsasao,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "idi rumuar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manipud iti umili"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "naisasao ti sabali a pagsasao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:04.902690962Z",
+  "model": "glm-5.3"
+}

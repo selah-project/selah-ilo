@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Inaramidna ti karayan iti dissal a bagi ti danum, ken ti namaga a daga iti taudan dagiti danum.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ti dissal"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "iti bagi ti danum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ken ti daga"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "namaga"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "iti taudan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dagiti danum"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:05.242784065Z",
+  "model": "glm-5.3"
+}

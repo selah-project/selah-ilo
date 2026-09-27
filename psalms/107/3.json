@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "ken naurnongda manipud kadagiti daga, manipud iti daya ken manipud iti laud, manipud iti amianan ken manipud iti baybay.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "ken manipud kadagiti daga"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "naurnongda"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "manipud iti daya"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ken manipud iti laud"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "manipud iti amianan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ken manipud iti baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:57.240508841Z",
+  "model": "glm-5.3"
+}

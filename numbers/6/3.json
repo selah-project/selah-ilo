@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "manennga iti arak ken iti naingel nga arak; suka ti arak ken suka ti naingel nga arak, saanna a mainum; ken aniaman a pinarsua a danum dagiti ubas, saanna a mainum; ken dagiti nasadiwa nga ubas ken dagiti napelaw, saanna a makan.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "iti arak"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ken iti naingel nga arak"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "manennga"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "suka"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ti arak"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "ken suka"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ti naingel nga arak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "a mainum"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken aniaman"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "a pinarsua a danum"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "dagiti ubas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "a mainum"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "ken dagiti ubas"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "nasadiwa"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "ken dagiti napelaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a makan"
+    }
+  ],
+  "timestamp": "2026-09-26T06:12:41.455436805Z",
+  "model": "glm-5.3"
+}

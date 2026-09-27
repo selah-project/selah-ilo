@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken no kuna kayo: Ania ti makan mi iti maikapito a tawen, ta ti pudno saan mi nga agmula ken saan mi nga urnongen ⟨את⟩ ti apit mi?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kuna kayo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ti makan mi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ti maikapito"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ta ti pudno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "agmula kamin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "urnongen mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apit mi"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "ti apit mi"
+    }
+  ],
+  "timestamp": "2026-09-26T05:52:18.665347303Z",
+  "model": "glm-5.3"
+}

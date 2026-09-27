@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Inbilinna met ⟨את⟩ ti maikadua, met ⟨את⟩ ti maikatlo, ken met ⟨את⟩ amin dagiti sumursurot iti likudan dagiti grupo, nga agkuna: Kas daytoy a sao ti saritaennyonto ken ni Esav no makasarakanyonto ⟨אתו⟩ isuna.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Inbilinna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maikadua"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maikatlo"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ti maikatlo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ken met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti sumursurot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "dagiti sumursurot"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "iti likudan"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "dagiti grupo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga agkuna"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "Kas ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "saritaennyonto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "no makasarakanyonto"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isuna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:40:51.351395227Z",
+  "model": "glm-5.3"
+}

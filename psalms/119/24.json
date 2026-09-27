@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Pay laeng dagiti testiomoniom ti ragsakko, dagiti lallaki ti pagtudingak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Pay laeng"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dagiti testiomoniom"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "ti ragsakko"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ti pagtudingak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:57.797648663Z",
+  "model": "glm-5.3"
+}

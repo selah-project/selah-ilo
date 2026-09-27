@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Inalada ⟨ti⟩ inibilin ni Moshe iti sango ti Tolda ti Gimong, ket immasideg ti amin a gimong ken nagtakderda iti sangoan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inibilin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "inibilin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "immasideg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "nagtakderda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:10:32.839395280Z",
+  "model": "glm-5.3"
+}

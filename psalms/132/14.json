@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 132,
+  "translation": "Daytoy ti paginanaanak agingga iti agnanayon; ditoy agnaedak, ta kayatko dayta.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "ti paginanaanak"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "agnaedak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "kayatko dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:48.407908595Z",
+  "model": "glm-5.3"
+}

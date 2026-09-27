@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Nakita ni Sarah ⟨את⟩ ti anak ni Hagar ti Ehipsio a naiyanakna kenni Avraham, nga agkukuyaw.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ni Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ni Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ti Ehipsio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naiyanakna"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kenni Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "agkukuyaw"
+    }
+  ],
+  "timestamp": "2026-09-26T02:09:52.062219907Z",
+  "model": "glm-5.3"
+}

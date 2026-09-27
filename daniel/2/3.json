@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kinunana kaniada ti ari: Maysa a manam ti namanamak, ket naallilaw ti angesko nga ammo ⟨את⟩ ti manam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinunana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Maysa a manam"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ti namanamak"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "naallilaw"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ti angesko"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "nga ammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti manam"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ti manam"
+    }
+  ],
+  "timestamp": "2026-09-26T23:14:50.488284499Z",
+  "model": "glm-5.3"
+}

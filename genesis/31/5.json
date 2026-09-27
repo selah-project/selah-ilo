@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket kinunana kaniada: Siak ket nakikita ⟨את⟩ ti rupa ti amamyo, ta awanen kaniak a kas idi kalman ken iti sumaruno a kalman; ken ti Elohim ti amak adda kaduak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "להן",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakikita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupa ti amamyo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupa"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ti amamyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "awanen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "idi kalman"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "iti sumaruno a kalman"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ken ti Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ti amak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kaduak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:10.223551028Z",
+  "model": "glm-5.3"
+}

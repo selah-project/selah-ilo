@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Initedna ⟨ti⟩ ti ⟨את⟩ naimnas a taraon ken ⟨ti⟩ ti ⟨את⟩ tinapay a naramidna iti ima ni Yaakov nga anakna.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naimnas a taraon"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "naimnas a taraon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tinapay"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "naramidna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anakna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:27:44.699709313Z",
+  "model": "glm-5.3"
+}

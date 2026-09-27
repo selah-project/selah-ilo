@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ken ti Lebanon ket saan a makaanay a mapuoran, ken dagiti animalna ket saan a makaanay a natuded a daton.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "ken ti Lebanon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "saan"
+    },
+    {
+      "surface": "די",
+      "gloss": "a makaanay"
+    },
+    {
+      "surface": "בער",
+      "gloss": "a mapuoran"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "ken dagiti animalna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "saan"
+    },
+    {
+      "surface": "די",
+      "gloss": "a makaanay"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "a natuded a daton"
+    }
+  ],
+  "timestamp": "2026-09-26T15:25:45.917832039Z",
+  "model": "glm-5.3"
+}

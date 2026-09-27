@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Idi dayta nga aldaw, innala ni Yehudah ti panagbukbukodna ⟨את⟩ kadagiti kabsatna, ket timmudel agingga iti maysa a lalaki nga Adulamita, a ni Khirah ti nagan na.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "dayta nga aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "innala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti kabsatna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kadagiti kabsatna"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "timmudel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a lalaki"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adulamita"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ti nagan na"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Khirah"
+    }
+  ],
+  "timestamp": "2026-09-26T02:54:38.668323284Z",
+  "model": "glm-5.3"
+}

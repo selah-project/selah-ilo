@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 135,
+  "translation": "Adda tengngedda ngem saanda nga agdengngeg; awan pay angeg iti ngiwatda.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "tengngeg"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kukuada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saanda"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "agdengngeg"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨adda⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "anges"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "iti ngiwatda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:52.114187909Z",
+  "model": "glm-5.3"
+}

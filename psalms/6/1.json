@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Iti mannangida, kadagiti instrumento ti kuerdas, iti maikawalo; maysa a salmos ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "iti mannangida"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "kadagiti instrumento ti kuerdas"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "maikawalo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a salmos"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:58.471847505Z",
+  "model": "glm-5.3"
+}

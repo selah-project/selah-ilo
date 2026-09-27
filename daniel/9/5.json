@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Nagbasolkami, ken nagbiddutkami, ken nangdakeskami, ken nagsuppiatkami, ken nagtallikudkami kadagiti bilinmo ken kadagiti ukommo.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "nagbasolkami"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "nagbiddutkami"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "nangdakeskami"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "nagsuppiatkami"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "nagtallikudkami"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "kadagiti bilinmo"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ken kadagiti ukommo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:19:49.895938461Z",
+  "model": "glm-5.3"
+}

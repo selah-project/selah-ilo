@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ta napigsa ti goelda; isu ti mangisabat ⟨את⟩ ti karbenganda ⟨את⟩ kaduam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ti goelda"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ti mangisabat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karbenganda"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "ti karbenganda"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kaduam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:42:11.072706141Z",
+  "model": "glm-5.3"
+}

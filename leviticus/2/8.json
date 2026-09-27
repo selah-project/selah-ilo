@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken iyegmo ⟨את⟩ ti mincha a aramiden manen iti dagitoy kay Yahweh, ket iyegmo dayta iti ti padi, ket ipaaymo dayta iti ti altar.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "iyegmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ti mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aramiden"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "manen iti dagitoy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "iyegmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "ipaaymo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:05.141142143Z",
+  "model": "glm-5.3"
+}

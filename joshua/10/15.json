@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket nangsubli ni Yehoshua ken ti amin nga umili ti Yisrael a kaduana idiay kampo, idiay Gilgal.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ket nangsubli"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga umili ti Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a kaduana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "idiay Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-26T22:02:59.532856872Z",
+  "model": "glm-5.3"
+}

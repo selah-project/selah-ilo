@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Dagiti signaltayo, saanmi a nakita ⟨ita⟩; awan pay ti propeta, ket awan ⟨את⟩ kaduami ti ammo agingga no kaano.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "signaltayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "propeta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kaduami"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no kaano"
+    }
+  ],
+  "timestamp": "2026-09-26T21:49:21.139184659Z",
+  "model": "glm-5.3"
+}

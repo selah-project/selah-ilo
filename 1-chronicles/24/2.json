@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 24:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Natay ni Nadab ken ni Avihu idiay sango ti amada, ket awan annakda; ket ni Elazar ken ni Itamar nagpadida.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ni Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ken ni Avihu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "idiay sango"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ti amada"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "ket annak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "ולכהנו",
+      "gloss": "ket nagpadida"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ni Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ken ni Itamar"
+    }
+  ],
+  "timestamp": "2026-09-26T23:41:09.943257333Z",
+  "model": "glm-5.3"
+}

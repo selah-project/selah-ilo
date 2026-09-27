@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken ti lalaki a mangala ⟨את⟩ ti babai ken ⟨את⟩ ti inana — zimah dayta; iti apuy sulsuloden da ⟨אתו⟩ ken ⟨את⟩ dagitoy, tapno saan a maysa a zimah ti adda kadagiti uneg yo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ken ti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mangala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti babai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti inana"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ti inana"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zimah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apuy"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "sulsuloden da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isu (ti lalaki)"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagitoy (ti babai ken ti inana)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tapno saan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ti adda"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "maysa a zimah"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "kadagiti uneg yo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:47:16.575695800Z",
+  "model": "glm-5.3"
+}

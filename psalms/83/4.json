@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Iti ti umilim mangar-aramidda ti nailem a panagtipon, ken agtinnulongda iti dagiti nailemanmo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Iti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti umilim"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "mangar-aramidda"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ti nailem a panagtipon"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "ken agtinnulongda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "dagiti nailemanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:18.401831195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ti Aram manipud iti daya ken ti Pilistia manipud iti likud, ket inmanganda ⟨את⟩ ti Yisrael iti amin a ngiwat. Iti amin daytoy saan a nagsubli ti ungotna, ket ti imana adda pay a naunat.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Ti Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "manipud iti daya"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ken ti Pilistia"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "manipud iti likud"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ket inmanganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "פה",
+      "gloss": "a ngiwat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ti ungotna"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ket pay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "naunat"
+    }
+  ],
+  "timestamp": "2026-09-26T14:36:36.533949870Z",
+  "model": "glm-5.3"
+}

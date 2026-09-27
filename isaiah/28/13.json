@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 28:13",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ken agbalin ti sao ni Yahweh kadakuada: bilin iti bilin, bilin iti bilin, linia iti linia, linia iti linia, bassit sadiay, bassit sadiay; tapno agnanoda, ket matnaganda agpaatras, ket madadaelda, ket masiloanda, ken maalaenda.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צו",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "iti bilin"
+    },
+    {
+      "surface": "צו",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "iti bilin"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linia"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "iti linia"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linia"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "iti linia"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "agnanoda"
+    },
+    {
+      "surface": "וכשלו",
+      "gloss": "ket matnaganda"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "agpaatras"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ket madadaelda"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "ket masiloanda"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "ken maalaenda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:01:27.709241921Z",
+  "model": "glm-5.3"
+}

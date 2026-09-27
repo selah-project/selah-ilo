@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 22:10",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ket ti ari ti Yisrael ken ni Yehoshaphat nga ari ti Yehudah agtugawda, tunggal maysa iti tronona, nakaboda kadagiti bado, iti gistianan iti sango ti bangbangra ti Shomron; ket amin dagiti propeta agmumurlatanda iti sanguanda.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ket ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ken ni Yehoshaphat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "agtugawda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tronona"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "nakaboda"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "kadagiti bado"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "iti gistianan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ti bangbangra"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ti Shomron"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket amin"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "dagiti propeta"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "agmumurlatanda"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "iti sanguanda"
+    }
+  ],
+  "timestamp": "2026-09-26T13:13:45.499716229Z",
+  "model": "glm-5.3"
+}

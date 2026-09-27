@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kinuna ni Yahweh: Maipalubos kadi a limgasak ⟨kenni⟩ Avraham ti aramidenko?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "maipalubos kadi a limgasak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "kenni Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aramidenko"
+    }
+  ],
+  "timestamp": "2026-09-26T02:05:09.224636719Z",
+  "model": "glm-5.3"
+}

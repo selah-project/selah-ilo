@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken ⟨את⟩ ti Tarikpado dagiti Ikan imbaga dagiti anak ti HaSenaah; isuda ti nangitakder kadagiti beamna, ket ipinnatakderda dagiti pagtarikadanna, dagiti seraanna, ken dagiti barritanna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Tarikpado dagiti Ikan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tarikpado"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "dagiti ikan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "imbaga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak ti"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "HaSenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "nangitakder"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "ket ipinnatakderda"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "dagiti pagtarikadanna"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "dagiti seraanna"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "ken dagiti barritanna"
+    }
+  ],
+  "timestamp": "2026-09-27T00:05:39.246444078Z",
+  "model": "glm-5.3"
+}

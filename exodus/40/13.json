@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ken isulbaram ⟨את⟩ ni Aharon ⟨את⟩ dagiti nasantoan a bado, ken ilanam ⟨את⟩, ken isantam ⟨את⟩, ket agpadi isu kenkuak.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "isulbaram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti nasantoan a bado"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bado"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nasantoan"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ilanam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isu"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "isantam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isu"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "agpadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kenkuak"
+    }
+  ],
+  "timestamp": "2026-09-26T04:51:36.818526887Z",
+  "model": "glm-5.3"
+}

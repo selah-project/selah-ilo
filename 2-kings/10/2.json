@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket ita, iti panangayed daytoy a surat kadakayo, ken ⟨אתכם⟩ dagiti anak ti apoyoyo, ken ⟨אתכם⟩ ti kalesa ken dagiti kabalyo, ken maysa nga ili a naparang-ay ken ti armas,",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ket ita"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "iti panangayed"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ti surat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ti apoyoyo"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ti kalesa"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "ken dagiti kabalyo"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ken maysa nga ili"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "a naparang-ay"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "ken ti armas"
+    }
+  ],
+  "timestamp": "2026-09-26T13:36:18.601979945Z",
+  "model": "glm-5.3"
+}

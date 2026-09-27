@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Iti Elohim inpadaydayawmi ti amin nga aldaw, ket ti naganmo agyamankami nga agnanayon. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Iti Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "inpadaydayawmi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "ket ti naganmo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngaanayon a paset"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "agyamankami"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:33.002848672Z",
+  "model": "glm-5.3"
+}

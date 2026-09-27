@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ad-adu ti pannakaawatak ngem dagiti lakay, ta dagiti bilinmo salaknibak.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "ngem dagiti lakay"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ad-adu ti pannakaawatak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "salaknibak"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:45.602959642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ikkatanna ⟨את⟩ bagasna a kadagiti plummana ken iballasitna ⟨את⟩ dayta iti aside ti altar, iti daya, iti disso ti dapo.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ikkatanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagasna a kadagiti plummana"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "bagasna"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "kadagiti plummana"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "iballasitna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "iti aside"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "disso"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ti dapo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:13.765197575Z",
+  "model": "glm-5.3"
+}

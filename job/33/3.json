@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Dagiti imbagak iti kinalinteg ti pusok, ken ti ammo ti bibitagak nalawag a mangibaga.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "kinalinteg"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "dagiti imbagak"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ken ti ammo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ti bibitagak"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "nalawag"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "mangibaga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:56:51.805291234Z",
+  "model": "glm-5.3"
+}

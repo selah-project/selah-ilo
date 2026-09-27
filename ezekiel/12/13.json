@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 12:13",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket ikaratak ti lambatok iti rabawna, ken madakel iti silok, ken ipanok isu ⟨iti⟩ Babilonia, iti daga ti Kasdim; ⟨את⟩ ket dayta ⟨ti daga⟩ saan a makitana, ken sadiay isu ti matayanna.",
+  "tokens": [
+    {
+      "surface": "ופרשתי",
+      "gloss": "ikaratak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lambatok"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "lambatok"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti rabawna"
+    },
+    {
+      "surface": "ונתפש",
+      "gloss": "ken madakel"
+    },
+    {
+      "surface": "במצודתי",
+      "gloss": "iti silok"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "ken ipanok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isu",
+      "marks": "⟨iti⟩ Babilonia"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilonia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ti Kasdim"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩ ket dayta",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makitana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ken sadiay"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "matayanna"
+    }
+  ],
+  "timestamp": "2026-09-26T18:13:36.371019477Z",
+  "model": "glm-5.3"
+}

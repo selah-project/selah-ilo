@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Agpaayka kaniak, ken itubosmo ti kararua; gapu kadagiti kabusorko isalakanmoak.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Agpaayka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "itubosmo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu kadagiti"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kabusorko"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "isalakanmoak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:39.969671349Z",
+  "model": "glm-5.3"
+}

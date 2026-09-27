@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Iti amin pay a dagiti sao nga innasaoda, saanmo nga ited ti pusom, tapno saanmo a makangngeg ⟨את⟩ ti adipenmo a mangsumpa kenka.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "innasaoda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ti pusom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "makangngeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipenmo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "a mangsumpa kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:38.665392331Z",
+  "model": "glm-5.3"
+}

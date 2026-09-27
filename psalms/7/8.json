@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "ket ti gimong dagiti umili aglikmutannaka, ken iti ngatoda agsublika iti katngayan.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "ket ti gimong"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "aglikmutannaka"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "ken iti ngatoda"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "iti katngayan"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "agsublika"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:37.372429491Z",
+  "model": "glm-5.3"
+}

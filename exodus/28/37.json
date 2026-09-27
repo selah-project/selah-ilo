@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ikabilmo dayta ⟨אתו⟩ iti linala nga asul, ket agtakder dayta iti rabaw ti turban; iti sanguanan ti turban agtakder dayta.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ikabilmo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (ti naisurat a plaka)"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "linala"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agtakder"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ti turban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sanguanan"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ti turban"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agtakder"
+    }
+  ],
+  "timestamp": "2026-09-26T04:22:51.448543343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ket innaladanna idiay kalesa dagiti adipenna a natay, manipud iti Megiddo, ket immongdadatro ⟨את⟩ iti Yerushalayim, ket inda idiay ilubong iti lubonganna; ket alaen ti umili ti daga ⟨את⟩ ni Yehoakhaz, anak a lalaki ni Yehoshiyahu, ket ilananda ⟨את⟩ ken pinangarinda ⟨את⟩ nga agturiay a kas sukatan ti amana.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "ket innaladanna idiay kalesa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a natay"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "manipud iti Megiddo"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ket immongdadatro"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ket inda idiay ilubong"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "iti lubonganna"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ket alaen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yehoakhaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoakhaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ni Yehoshiyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "ket ilananda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ken (ni Yehoakhaz)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ket pinangarinda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nga agturiay (ni Yehoakhaz)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a kas sukatan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    }
+  ],
+  "timestamp": "2026-09-26T14:04:31.586948441Z",
+  "model": "glm-5.3"
+}

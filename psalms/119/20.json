@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Nadadael ti kararwak iti panagkaskasapayo ⟨iti⟩ dagiti ukommo iti amin a panawen.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "nadadael"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "iti panagkaskasapayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dagiti ukommo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "עת",
+      "gloss": "a panawen"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:21.926254600Z",
+  "model": "glm-5.3"
+}

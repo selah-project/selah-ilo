@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Nagnaed ti arko ti Elohim kadua ti balay ni Oved-Edom iti balayna, tallo a bulan; ket binendisionan ti Yahweh ⟨את⟩ ti balay ni Oved-Edom ken ⟨את⟩ amin a kenkuana.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Nagnaed"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "iti balayna"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "a bulan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ket binendisionan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Oved-Edom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:20.777207492Z",
+  "model": "glm-5.3"
+}

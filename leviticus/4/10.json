@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Kas ti pannkaala? — Kas iti maala manipud iti baka iti sakripisio ti kappia, ket ipasuda ti padi dagitoy iti altar ti natutung a daton.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "iti maala"
+    },
+    {
+      "surface": "משור",
+      "gloss": "manipud iti baka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "iti sakripisio"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "ket ipasuda dagitoy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natutung a daton"
+    }
+  ],
+  "timestamp": "2026-09-26T04:57:41.368839502Z",
+  "model": "glm-5.3"
+}

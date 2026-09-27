@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 21:10",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ket nagsao ni Yahweh babaen kadagiti adipenna a dagiti propeta, a kinunana,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ket nagsao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen kadagiti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "adipenna"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "a dagiti propeta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinunana"
+    }
+  ],
+  "timestamp": "2026-09-26T14:01:53.281603550Z",
+  "model": "glm-5.3"
+}

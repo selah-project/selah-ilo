@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ket uminumka manipud iti karayan, ken ⟨את⟩ dagiti uwak bilinkon nga itagir-itak sadiay.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "manipud iti karayan"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "uminumka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti uwak"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dagiti uwak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "bilinkon"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "nga itagir-itak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T13:00:14.034567409Z",
+  "model": "glm-5.3"
+}

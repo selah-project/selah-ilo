@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Dagiti bilin ni Shelomoh. Ti anak a nalinteg ti panunut ket ragsaken ti amana; ngem ti anak a manmanang ket bigbigatan ti inana.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Dagiti bilin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ti anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "a nalinteg ti panunut"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ragsaken"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ngem ti anak"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "a manmanang"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "bigbigatan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ti inana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:50.324913096Z",
+  "model": "glm-5.3"
+}

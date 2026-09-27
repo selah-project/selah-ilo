@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "No makan toto nga makan iti maikatlo nga aldaw, nangido dayta, saan a maawat.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "No"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "toto nga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "nangido"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "a maawat"
+    }
+  ],
+  "timestamp": "2026-09-26T05:37:05.769698196Z",
+  "model": "glm-5.3"
+}

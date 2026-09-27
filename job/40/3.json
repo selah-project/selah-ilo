@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket simmungbat ni Iyob ⟨את⟩ kenni Yahweh, ket kinuna:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ket simmungbat"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:59:58.264089982Z",
+  "model": "glm-5.3"
+}

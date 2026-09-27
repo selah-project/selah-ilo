@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Kas iti apoy a mangpuyok ti kakayuan, ken kas iti silaw a mangpuyok kadagiti bantay.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "kas iti apoy"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "a mangpuyok"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ti kakayuan"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "ken kas iti silaw"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "a mangpuyok"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kadagiti bantay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:51.721352134Z",
+  "model": "glm-5.3"
+}

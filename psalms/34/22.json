@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ti dakes ti agpapatay iti dakes, ket dagiti agggura iti nalinteg ket agbasolda.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "ti agpapatay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "iti dakes"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Ti dakes"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "ket dagiti agggura"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "iti nalinteg"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ket agbasolda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:05:54.755866578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Inpadana kadakuada ti paimuyong ti ungerna, karura ken gura ken panagrigat, iti panangipadpad dagiti angeles ti dakes.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "inpadana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ti paimuyong"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ti ungerna"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "karura"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "ken gura"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "ken panagrigat"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "ti panangipadpad"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "dagiti angeles"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:51.896124869Z",
+  "model": "glm-5.3"
+}

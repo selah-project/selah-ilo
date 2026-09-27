@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kinuna ni Yahweh kaniak: Alaem ⟨iti bagim⟩ ti dakkel a tabla, ket isuratmo iti dayta babaen ti lapis ti tao: Maher-Shalal-Khash-Baz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "קח",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iti bagim"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "isuratmo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "babaen ti lapis"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Khash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-09-26T14:29:17.290368295Z",
+  "model": "glm-5.3"
+}

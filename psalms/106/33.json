@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Ta inpaitda ti ⟨את⟩ Espituna, ket nagsao a datol ⟨iti⟩ bibigna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "inpaitda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Espituna"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Espituna"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "nagsao a datol"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "iti bibigna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:31.038958868Z",
+  "model": "glm-5.3"
+}

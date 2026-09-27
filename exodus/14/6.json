@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Pinaregtaenna ⟨את⟩ ti karetelana, ken ⟨את⟩ ti pagilianna inalana a kakuyogna.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "pinaregtaenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karetelana"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ti karetelana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pagilianna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti pagilianna"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a kakuyogna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:48:35.739732990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ken iti ad-adu pay ngem dagitoy, anakko, agdardarepka: ti panagaramid kadagiti adu a libro ket awan ti ingganana, ket ti adu a panagsarita ket panagrigat ti lasag.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ken iti ad-adu pay"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "ngem dagitoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakko"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "agdardarepka"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "panagaramid"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "kadagiti libro"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "adu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ti ingganana"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "ken ti adu a panagsarita"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "adu"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "panagrigat"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ti lasag"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:38.650228974Z",
+  "model": "glm-5.3"
+}

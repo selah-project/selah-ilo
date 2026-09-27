@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Imbagada kenni David, a kuna da: Kitaem, dagiti Pelishtio aglalabanda iti Keilah, ket isuda agraraotda ⟨את⟩ dagiti pagdalusan.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Imbagada"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kenni David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna da"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtio"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "aglalabanda"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "iti Keilah"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ket isuda"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "agraraotda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pagdalusan"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "dagiti pagdalusan"
+    }
+  ],
+  "timestamp": "2026-09-26T11:08:39.705741800Z",
+  "model": "glm-5.3"
+}

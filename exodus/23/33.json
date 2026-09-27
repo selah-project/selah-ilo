@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Saan da nga agagnaed iti dagaam, baka pagbasolda ka kaniak, ta agserbika kadagiti ⟨את⟩ diosda, ta agbalin daytay bitad iti siak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "agagnaedada"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "iti dagaam"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "pagbasolda"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "agserbika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti diosda"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dagiti diosda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iti siak"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "a bitad"
+    }
+  ],
+  "timestamp": "2026-09-26T04:05:51.460254918Z",
+  "model": "glm-5.3"
+}

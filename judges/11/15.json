@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket kinunana kennuana: Kastoy ti kinuna ni Yifthakh: Saan a nangala ni Yisrael ⟨את⟩ daga ti Moab ken ⟨את⟩ daga dagiti anak ni Ammon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kinuna"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifthakh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nangala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daga ti Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "daga dagiti anak ni Ammon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-26T10:02:01.877578453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ti agtrabaho iti dagaenna mabutos iti tinapay, ngem ti agtultuloy kadagiti awan linaona ket awan ⟨ti⟩ puso.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "ti agtrabaho"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "iti dagaenna"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "mabutos"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "iti tinapay"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ngem ti agtultuloy"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "kadagiti awan linaona"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    }
+  ],
+  "timestamp": "2026-09-26T22:37:33.338447602Z",
+  "model": "glm-5.3"
+}

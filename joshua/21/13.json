@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken kadagiti anak ni Aharon ti padi intedda ⟨את⟩ ti ili a paglemmengan ti pumatay, ⟨את⟩ Khevron ken ⟨את⟩ dagiti pagdapoanna, ken ⟨את⟩ Libna ken ⟨את⟩ dagiti pagdapoanna.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ken kadagiti anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "intedda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ili"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "a paglemmengan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ti pumatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pagdapoanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti pagdapoanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Libna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pagdapoanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti pagdapoanna"
+    }
+  ],
+  "timestamp": "2026-09-26T09:25:38.879979731Z",
+  "model": "glm-5.3"
+}

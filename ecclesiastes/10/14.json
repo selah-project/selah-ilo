@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken ti bael ket adaduenna ti dagiti sao — ti tao ket saan nga ammon no ania ti mapasamak, ken no ania ti umay kalpasanna, sino ti makibaga kenkuana?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "ken ti bael"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "adaduenna"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammon"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no ania"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "mapasamak"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "umay"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "makibaga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:03.364727396Z",
+  "model": "glm-5.3"
+}

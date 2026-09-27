@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Nakita ni David a napan ni Shaul tapno birbiruenanna ⟨את⟩ ti biagna; ket ni David idiay liptik ti Ziph, iti Khorshah.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Nakita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "napan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "tapno birbiruenanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti biagna"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ti biagna"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ket ni David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "idiay liptik"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ti Ziph"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "iti Khorshah"
+    }
+  ],
+  "timestamp": "2026-09-26T11:06:23.977469030Z",
+  "model": "glm-5.3"
+}

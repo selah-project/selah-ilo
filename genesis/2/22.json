@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket binangon ni Yahweh nga Elohim ⟨את⟩ ti tulang a naalana manipud iti lalaki a kas babai, ket impana isuna iti lalaki.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "binangon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulang"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ti tulang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "naala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a kas babai"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "impana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:02.730391635Z",
+  "model": "glm-5.3"
+}

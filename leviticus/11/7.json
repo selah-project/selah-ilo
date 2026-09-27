@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken ⟨את⟩ ti baboy, ta mangpisi ti saka isuna ken napisi ti pisi ti saka, ngem ti naulit a makan saan nga ipaayna, di nasantuan isuna kadakayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti baboy"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ti baboy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "mangpisi"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ti saka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "ken napisi"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ti pisi"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ti saka"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ngem isuna"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ti naulit a makan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "nga ipaayna"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "di nasantuan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:15:45.982612668Z",
+  "model": "glm-5.3"
+}

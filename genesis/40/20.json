@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Imbayag iti maikatlo nga aldaw — ti aldaw ti panakaiyanak ni ⟨את⟩ Paro — nga inaramidna maysa a raod kadagiti amin nga adipenna, ken inaludo ⟨את⟩ ti ulo ti pangulo dagiti mangisingising iti inum ken ⟨את⟩ ti ulo ti pangulo dagiti agluto, iti tengnga dagiti adipenna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Imbayag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "panakaiyanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "raod"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "adipenna"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "inaludo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulo ti pangulo dagiti mangisingising iti inum"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti pangulo"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "dagiti mangisingising iti inum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti ulo ti pangulo dagiti agluto"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti pangulo"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "dagiti agluto"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:00:17.439028748Z",
+  "model": "glm-5.3"
+}

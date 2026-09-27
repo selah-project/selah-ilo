@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ti tinulaganna kenni ⟨את⟩ Avraham, ken ti sumpana kenni Yitskhak;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "tinulaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ken ti sumpana"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kenni Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:55.779077934Z",
+  "model": "glm-5.3"
+}

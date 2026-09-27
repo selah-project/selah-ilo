@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ken iti balay ti panaginnuman saanmo a sumrek nga agtugaw ⟨את⟩ a mangan ken aginnum.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Ken iti balay"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ti panaginnuman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "a sumrek"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "nga agtugaw"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "a mangan ken aginnum"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "a mangan"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ken aginnum"
+    }
+  ],
+  "timestamp": "2026-09-26T16:43:46.232987976Z",
+  "model": "glm-5.3"
+}

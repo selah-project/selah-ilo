@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 85,
+  "translation": "Ni Yahweh a maminsan mangited ⟨ti⟩ ti naimbag, ket ti dagatayo mangited ⟨ti⟩ apitna.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "a maminsan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mangited"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ti naimbag"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "ket ti dagatayo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mangited"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "apitna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:14.225250753Z",
+  "model": "glm-5.3"
+}

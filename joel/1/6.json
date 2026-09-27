@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 1:6",
+  "book": "joel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ta immay ti maysa nga umili iti dagaak, napigsa, ken awan bilangna; dagiti ngipenna ket ngipen ti leon, ken ti pangngeddang ti babai a leon kenkuana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ti maysa nga umili"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "immay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "dagaak"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilangna"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dagiti ngipenna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ngipen"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leon"
+    },
+    {
+      "surface": "ומתלעות",
+      "gloss": "ken ti pangngeddang"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "babai a leon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:14:07.541134382Z",
+  "model": "glm-5.3"
+}

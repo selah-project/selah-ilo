@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Mabutengkayo kenni Yahweh, dagiti nasantuanna; ta awan ti maikkat kadagiti mabuteng kenkuana.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Mabutengkayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "dagiti nasantuanna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ti maikkat"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kadagiti mabuteng kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:48.905106366Z",
+  "model": "glm-5.3"
+}

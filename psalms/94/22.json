@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "ket ni Yahweh nagbalin a kasaok a pagtakderan nga agngato, ket ti Elohimko a bato a paglemmenganak.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a kasaok"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "a pagtakderan nga agngato"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ket ti Elohimko"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "a bato"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "a paglemmenganak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:36.722410930Z",
+  "model": "glm-5.3"
+}

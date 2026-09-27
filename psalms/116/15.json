@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Napateg iti matmatan ni Yahweh ti pannakatay dagiti matalekna.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "napateg"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti matmatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "ti pannakatay"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "dagiti matalekna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:14.579224074Z",
+  "model": "glm-5.3"
+}

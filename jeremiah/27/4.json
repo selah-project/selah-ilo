@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "ket bilinammo ⟨את⟩ kaniada nga agsao kadagiti apoenda, a kunkuna: Kasta ti kinuna ni Yahweh Tsevaot, ti Elohim ti Yisrael: Kasta ti kunkunayokayo kadagiti apoyokayo.",
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "ket bilinammo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kaniada — dagiti mensahero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga agsao kadagiti"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "apoenda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ti kunkunayokayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "apoyokayo"
+    }
+  ],
+  "timestamp": "2026-09-26T17:08:43.001105811Z",
+  "model": "glm-5.3"
+}

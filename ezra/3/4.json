@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket aramidenda ⟨את⟩ ti fiesta dagiti Sukkot a kas iti naisurat, ken ti natuded a sakripisio ti aldaw iti aldaw iti bilang, segun iti ukom ti sao ti aldaw iti aldawna.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "aramidenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti fiesta dagiti Sukkot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ti fiesta"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "dagiti Sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "a kas iti naisurat"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ken ti natuded a sakripisio"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "iti bilang"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "segun iti ukom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "iti aldawna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:21:39.094520210Z",
+  "model": "glm-5.3"
+}

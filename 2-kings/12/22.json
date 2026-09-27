@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ni Yozavad nga anak ni Shimath ken ni Yehozavad nga anak ni Shomer, dagiti adipenna, dinarenda ⟨את⟩ isuna ket natay isuna; ket inilubongda isuna kadua dagiti ammana iti ili ni David, ket ni Amatsia nga anakna ti nangituray imbes kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויוזבד",
+      "gloss": "Ni Yozavad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ni Shimath"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "ni Yehozavad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ni Shomer"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "dinarenda"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "inilubongda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti ammana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ni Amatsia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "imbes kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:42:57.305583827Z",
+  "model": "glm-5.3"
+}

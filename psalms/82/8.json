@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 82,
+  "translation": "Agtakderka, Elohim, ukomem ti daga, ta sika ti agtawid kadagiti amin a nasion.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "agtakderka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ukomem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "agtawid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a nasion"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:53.805142116Z",
+  "model": "glm-5.3"
+}

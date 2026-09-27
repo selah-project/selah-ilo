@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Ta gapu kenka patayendakami ti amin nga aldaw; bilangendakami a kas dagiti karnero a patayen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gapu kenka"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "patayendakami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "bilangendakami"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "a kas dagiti karnero"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "a patayen"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:58.874137946Z",
+  "model": "glm-5.3"
+}

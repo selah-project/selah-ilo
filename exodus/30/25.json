@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ken aramidentayo ⟨את⟩ dayta ⟨iti⟩ lana ti panagpuro a nasantuan, rinuok a rinuok, obra ti mannagrinook; lana ti panagpuro a nasantuan ti mangyanto.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aramidentayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dayta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ti panagpuro"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a nasantuan"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "rinuok"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "a rinuok"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "obra"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ti mannagrinook"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ti panagpuro"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a nasantuan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti mangyanto"
+    }
+  ],
+  "timestamp": "2026-09-26T04:27:45.932423135Z",
+  "model": "glm-5.3"
+}

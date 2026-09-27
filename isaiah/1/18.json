@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 1:18",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Umaykayo, pagturayenyo koma, ken agsasarita tayo, kinuna ni Yahweh; no ti basolyo ket kas ti nangisit a nalabbasit, mapurawanda a kas ti niebe; no nalabbasitda a kas ti tola, agbalindada a kas ti lana.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "umaykayo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pagturayenyo koma"
+    },
+    {
+      "surface": "ונוכחה",
+      "gloss": "ken agsasarita tayo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ket"
+    },
+    {
+      "surface": "חטאיכם",
+      "gloss": "ti basolyo"
+    },
+    {
+      "surface": "כשנים",
+      "gloss": "kas ti nangisit a nalabbasit"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "a kas ti niebe"
+    },
+    {
+      "surface": "ילבינו",
+      "gloss": "mapurawanda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאדימו",
+      "gloss": "nalabbasitda"
+    },
+    {
+      "surface": "כתולע",
+      "gloss": "a kas ti tola"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "a kas ti lana"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agbalindada"
+    }
+  ],
+  "timestamp": "2026-09-26T14:17:04.671947333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ket kinuna kenni Yehoshafat: Mapankanto kadi ⟨את⟩ kaduak iti gubat ti Ramot ti Gilad? Ket kinuna ni Yehoshafat iti ari ti Yisrael: Kas siak, kas kanka; kas ti umilik, kas ti umilim; kas dagiti kaballok, kas dagiti kaballom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ket kinuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Mapankanto kadi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kaduak",
+      "marks": "kaduak"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ti Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ti Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ket kinuna"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ni Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "Kas siak"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kas kanka"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "kas ti umilik"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "kas ti umilim"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "kas dagiti kaballok"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "kas dagiti kaballom"
+    }
+  ],
+  "timestamp": "2026-09-26T13:19:18.241935063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken dagiti anak ti Keni, ugang ni Moshe, immallonda manipud iti ili dagiti keleng ⟨את⟩ dagiti anak ni Yehudah, iti natyangaw a daga ni Yehudah a adda iti abagatan ti Arad; ket immayda ket nagnaedanda ⟨את⟩ ti ammo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ken dagiti anak"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "ti Keni"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ugang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "im mallonda"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "manipud iti ili"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "dagiti keleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ni Yehudah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "natyangaw a daga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "iti abagatan"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "ti Arad"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagnaedanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ammo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti ammo"
+    }
+  ],
+  "timestamp": "2026-09-26T09:37:28.372029501Z",
+  "model": "glm-5.3"
+}

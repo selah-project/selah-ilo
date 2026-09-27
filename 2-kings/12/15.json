@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ta kadagiti agar-aramat ti trabaho itedda daytoy, ket pinigsaanda babaen daytoy ⟨את⟩ ti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "kadagiti agar-aramat"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ti trabaho"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "itedda daytoy"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ket pinigsaanda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "babaen daytoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T13:46:48.607457080Z",
+  "model": "glm-5.3"
+}

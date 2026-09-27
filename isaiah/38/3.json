@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "ket kinunana: O Yahweh, lagipemno, tumaa, ⟨את⟩ ti panagsursor-ko iti sangoam iti kinapudno ken iti puso a napno, ket ti nasayaat kadagiti matam inaramidko; ket nagtagisangit ni Khizkiyahu iti dakkel a panagsangit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "O"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lagipem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tumaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagsursor-ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "panagsursor-ko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sangoam"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "iti kinapudno"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "ken iti puso"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "a napno"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ket ti nasayaat"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "kadagiti matam"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "inaramidko"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ket nagtagisangit"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ni Khizkiyahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "panagsangit"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "iti dakkel a"
+    }
+  ],
+  "timestamp": "2026-09-26T15:17:36.189264372Z",
+  "model": "glm-5.3"
+}

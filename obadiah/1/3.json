@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "obadiah 1:3",
+  "book": "obadiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti kinabakiad ti pusom ti dinaya kenka, sika nga agnaed iti nagiddaan ti bato, a kangato ti pagtaenganam, a kinunana iti pusona: Asino ti mangipababa kaniak iti daga?",
+  "tokens": [
+    {
+      "surface": "זדון",
+      "gloss": "kinabakiad"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ti pusom"
+    },
+    {
+      "surface": "השיאך",
+      "gloss": "dinaya kenka"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "sika nga agnaed"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "iti nagiddaan"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kangato"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ti pagtaenganam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "iti pusona"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Asino"
+    },
+    {
+      "surface": "יורדני",
+      "gloss": "mangipababa kaniak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T19:59:38.705748065Z",
+  "model": "glm-5.3"
+}

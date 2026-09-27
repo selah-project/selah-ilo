@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Agpastol iti dapo ti puso a nalawlawan, inikkanna; ken saan a makasalakan ⟨את⟩ ti kararua-na, ken saan a makunkuna: Saan kadi a ulbod ti kanawanko?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "agpastol"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "iti dapo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "a nalawlawan"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "inikkanna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "makasalakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kararua-na"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kararuana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "makunkuna"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ulbod"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "ti kanawanko"
+    }
+  ],
+  "timestamp": "2026-09-26T15:39:28.962620046Z",
+  "model": "glm-5.3"
+}

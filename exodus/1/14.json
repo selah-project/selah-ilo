@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket kinapaitanda ⟨את⟩ ti biagda iti nataktak a panagtrabaho, iti lanut ken iti dendem, ken iti amin a panagtrabaho iti talon; amin a panagtrabahoda a pinagtrabahoanda kaniakada ⟨iti⟩ nakaro a kinapigsa.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "kinapaitanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti biagda"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "ti biagda"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "iti panagtrabaho"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nataktak"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "iti lanut"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "ken iti dendem"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "panagtrabaho"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a panagtrabahoda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "panagtrabahoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "pinagtrabahoanda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kaniakada"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "iti nakaro a kinapigsa"
+    }
+  ],
+  "timestamp": "2026-09-26T03:23:29.258892760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "ken iyegmo ⟨את⟩ ti baka iti sangoan ti Tolda ti Gimong, ken ikabilanda — ni Aharon ken dagiti anakna a lalaki — ⟨את⟩ dagiti imada iti rabaw ti ulo ti baka.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "iyegmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ken ikabilanda"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ken dagiti anakna a lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti imada"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dagiti imada"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti baka"
+    }
+  ],
+  "timestamp": "2026-09-26T04:26:04.966468286Z",
+  "model": "glm-5.3"
+}

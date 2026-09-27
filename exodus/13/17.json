@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Idi intuloy ni Paro ⟨את⟩ ti tattao, saan din nga idauluan ni Elohim iti dalan ti daga ti Pelishtim, ta asideg dayta; ta kinuna ni Elohim: baka agbabawi ti tattao no makitada ti gubat ket agsublida iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "idi intuloy"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "intuloy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tattao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "idauluan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ti Pelishtim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "asideg"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "agbabawi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "no makitada"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "agsublida"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:49:51.089723572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 84,
+  "translation": "Ti kaduan ti koro, iti igup ti Gittit, dagiti anak ni Korach, maysa a salm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ti kaduan ti koro"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "igup ti Gittit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dagiti anak ni"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a salm"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:00.036102371Z",
+  "model": "glm-5.3"
+}

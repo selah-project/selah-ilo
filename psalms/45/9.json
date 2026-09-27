@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Mora ken aloe ken kassia ⟨iti⟩ amin a badom; manipud iti dagiti palasio ti garing dagiti instrumento ti kuerdas ket nangragsakanda kenka.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "ken aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kassia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "a badom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "dagiti palasio"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ti garing"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dagiti instrumento ti kuerdas"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "nangragsakanda kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T21:20:43.756361543Z",
+  "model": "glm-5.3"
+}

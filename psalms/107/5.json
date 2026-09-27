@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Makmatta da ken maursoda, ti kararua da iti unegda ket nakapsut.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Makmatta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ken"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "maursoda"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ti kararua da"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iti unegda"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "ket nakapsut"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:43.855742345Z",
+  "model": "glm-5.3"
+}

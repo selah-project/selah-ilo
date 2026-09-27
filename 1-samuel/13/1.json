@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Anak ti maysa a tawen ni Shaul idi immuna a nagturay, ket dua a tawen nga inturayna ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "maysa a tawen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "idi immuna a nagturay"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ket dua"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inturayna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T10:44:28.044922556Z",
+  "model": "glm-5.3"
+}

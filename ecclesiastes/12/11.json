@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Dagiti sao dagiti nasirib ket kasla dagiti tuded, ken kasla dagiti pako a nainget a naisurot — naitedda babaen kadagiti mannakabael kadagiti gimong, manipud iti maysa a pastol.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dagiti nasirib"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "kasla dagiti tuded"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "ken kasla dagiti pako"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "a nainget a naisurot"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mannakabael"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "kadagiti gimong"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "naitedda"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "manipud iti pastol"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:38.650061481Z",
+  "model": "glm-5.3"
+}

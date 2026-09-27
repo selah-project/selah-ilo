@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 18:10",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "ket nalaekanda dayta iti ngudo dagiti tallo a tawen, idi maikanem a tawen ni Khizkiyahu, daytoy ket ti maikasiam a tawen ni Hoshea ari ti Yisrael, nalaekan ti Samaria.",
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "ket nalaekanda dayta"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "iti ngudo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "dagiti tallo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "idi … a tawen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "maikanem"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "ni Khizkiyahu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "daytoy ket"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ti … a tawen"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "maikasiam"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ni Hoshea"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "nalaekan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ti Samaria"
+    }
+  ],
+  "timestamp": "2026-09-26T13:53:32.130443197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 20:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Inurnongda ni Moshe ken ni Aharon ⟨את⟩ ti gimong iti sango ti bato, ket kinuna ni Moshe kadakuada: Dengngegyo, dagiti agsapsapal koma, no manipud iti daytoy a bato dawatayo a mangparuar iti danum kadakayo?",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "inurnongda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti gimong"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sango"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengngegyo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "dagiti agsapsapal"
+    },
+    {
+      "surface": "המן",
+      "gloss": "no manipud iti"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "נוציא",
+      "gloss": "dawatayo a mangparuar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "iti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T06:52:47.933855697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "Ipategak: ta nakabuteng a naramidannak; nakaskasdaaw dagiti aramidmo, ket ti kararuak ammo na un-unnoy.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ipategak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "nakabuteng"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "a naramidannak"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "nakaskasdaaw"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dagiti aramidmo"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ket ti kararuak"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ammo na"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "un-unnoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:05.368981849Z",
+  "model": "glm-5.3"
+}

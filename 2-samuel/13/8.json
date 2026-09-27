@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Nagna ni Tamar iti balay ni Amnon a kabsatna, ket isu agturog; kinuana ⟨את⟩ ti masa, impesona, ket aramidenna iti rupana ti tinapay a puso, ket linutona ⟨את⟩ dagiti tinapay a puso.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Nagna"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "a kabsatna"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ket isu"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "agturog"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti masa"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "ti masa"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "impesona"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "ket aramidenna"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "iti rupana"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "ket linutona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tinapay a puso"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "dagiti tinapay a puso"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:10.415490812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Imbaga ni Ahab kenni Izebel ⟨את⟩ amin nga inaramid ni Eliyahu, ken ⟨את⟩ amin nga inapatayna ⟨את⟩ amin a dagiti propeta babaen ti tabak.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Imbaga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "kenni Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "inapatayna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "dagiti propeta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "babaen ti tabak"
+    }
+  ],
+  "timestamp": "2026-09-26T13:12:05.655835528Z",
+  "model": "glm-5.3"
+}

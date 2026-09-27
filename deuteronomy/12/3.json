@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ken dadaelennunto ⟨את⟩ dagiti altarda, ket dektemto ⟨את⟩ dagiti posteda, ken dagiti Ashera da masulo yo iti apoy; ken dagiti ladawan ti diosda puennuonto, ken awanennunto ⟨את⟩ ti nagananda manipud iti dayta a lugar.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "ken dadaelennunto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti altarda"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "dagiti altarda"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "ket dektemto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti posteda"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "dagiti posteda"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "ken dagiti Ashera da"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "masulo yo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "ken dagiti ladawan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ti diosda"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "puennuonto"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "ken awanennunto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagananda"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ti nagananda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "dayta a lugar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:50.549365550Z",
+  "model": "glm-5.3"
+}

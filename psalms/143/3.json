@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 143,
+  "translation": "Ta tinulodna ti kabusor ti kararuak, dinaelna iti daga ti biagko, inagnaedannakon iti sipnget, a kas dagiti natay idi ugma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "tinulodna"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "dinaelna"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ti biagko"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "inagnaedannakon"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "iti sipnget"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "a kas dagiti natay"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "idi ugma"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:13.922661924Z",
+  "model": "glm-5.3"
+}

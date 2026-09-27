@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti nalukmay a sungbat pagsublienna ti naangget; ngem ti sao a makasakit ipangatona tiakig.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "sungbat"
+    },
+    {
+      "surface": "רך",
+      "gloss": "nalukmay"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "pagsublienna"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ti naangget"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ngem ti sao"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "a makasakit"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ipangatona"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tiakig"
+    }
+  ],
+  "timestamp": "2026-09-26T22:38:13.870063374Z",
+  "model": "glm-5.3"
+}

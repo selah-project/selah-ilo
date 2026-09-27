@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Saanmo a koma nga adayokan kaniak, ta asidegen ti rigat, ta awan makatulong.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saanmo a koma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "adayokan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "asidegen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "makatulong"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:15.777435764Z",
+  "model": "glm-5.3"
+}

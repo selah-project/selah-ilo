@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 26:5",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Agsungbatka ken ibagam iti sango ni Yahweh nga Elohimmo: Arameano nga agbanbaniaga ti amak, ket napan nga agbaba iti Mitsrayim ket nagnaed sadiay kadagiti bassit a tao, ket nagbalin sadiay a pagilian a dakkel, napigsa ken adu.",
+  "tokens": [
+    {
+      "surface": "וענית",
+      "gloss": "agsungbatka"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmo"
+    },
+    {
+      "surface": "ארמי",
+      "gloss": "Arameano"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "agbanbaniaga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amak"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "napan nga agbaba"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "kadagiti tao"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "a pagilian"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ken adu"
+    }
+  ],
+  "timestamp": "2026-09-26T08:23:13.985167988Z",
+  "model": "glm-5.3"
+}

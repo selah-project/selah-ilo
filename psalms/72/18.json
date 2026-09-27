@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Bendisionan ni Yahweh ti Elohim, ti Elohim ni Yisrael, nga agaramid kadagiti nakakaskasdaaw a banag a bukodna laeng.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bendisionan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "kadagiti nakakaskasdaaw a banag"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "a bukodna laeng"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:59.860690634Z",
+  "model": "glm-5.3"
+}

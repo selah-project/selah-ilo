@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ket rumuar ti padi iti ruar ti kampo, ken kitaenna ti padi, ket kenna, nagagasen ti sugat ti sakit manipud iti nasakitan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ruar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kitaenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket kenna"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "nagagasen"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ti sugat"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ti sakit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "iti nasakitan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:21:58.007852098Z",
+  "model": "glm-5.3"
+}

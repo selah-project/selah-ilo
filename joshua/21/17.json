@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken manipud iti tribu ni Binjamin, ⟨את⟩ Givon ken ⟨את⟩ dagiti awayanna, ⟨את⟩ Geva ken ⟨את⟩ dagiti awayanna.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ken manipud iti tribu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti awayanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti awayanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti awayanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti awayanna"
+    }
+  ],
+  "timestamp": "2026-09-26T09:25:07.370671962Z",
+  "model": "glm-5.3"
+}

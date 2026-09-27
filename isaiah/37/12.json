@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Naisalakan kadi dagiti dios ti dagiti pagilian ⟨את⟩ ida, a dinaelda dagiti ammak — ⟨את⟩ Gozan ken ⟨את⟩ Kharan ken Retsef ken dagiti anak ti Eden a idiay Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Naisalakan kadi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ida — dagiti dios ti dagiti pagilian"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dagiti dios"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ti dagiti pagilian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "dinaelda"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "dagiti ammak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Kharan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Kharan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ken Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ken dagiti anak"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ti Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "idiay Telassar"
+    }
+  ],
+  "timestamp": "2026-09-26T15:14:03.602038138Z",
+  "model": "glm-5.3"
+}

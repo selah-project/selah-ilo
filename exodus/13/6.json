@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Pito nga aldaw manganem ti tinapay a saan a maburo, ket iti maikapito nga aldaw fiesta kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "manganem"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "tinapay a saan a maburo"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ket iti"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fiesta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T03:48:01.010973161Z",
+  "model": "glm-5.3"
+}

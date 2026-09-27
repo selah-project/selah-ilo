@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken agtagikuada ti abagatan ⟨את⟩ ti bantay ni Esav, ken ti tanap ⟨את⟩ dagiti Pelishtim; ken agtagikuada ⟨את⟩ ti talon ni Efrayim ken ⟨את⟩ ti talon ti Shomron, ken ni Binyamin ⟨את⟩ ti Gilead.",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "ken agtagikuada"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ti abagatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bantay ni Esav"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ti bantay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "ken ti tanap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtim"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ken agtagikuada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti talon ni Efrayim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti talon ti Shomron"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ti Shomron"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ken ni Binyamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ti Gilead"
+    }
+  ],
+  "timestamp": "2026-09-26T19:59:43.833442629Z",
+  "model": "glm-5.3"
+}

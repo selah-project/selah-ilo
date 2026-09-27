@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken kadagiti kumakanta: Elyashiv; ken kadagiti agbantayiti-ruangan: Shallum, ken Telem, ken Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "kumakanta"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "agbantayiti-ruangan"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "ken Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ken Uri"
+    }
+  ],
+  "timestamp": "2026-09-26T23:24:59.148883957Z",
+  "model": "glm-5.3"
+}

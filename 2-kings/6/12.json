@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket kinuna ti maysa kadagiti adipenna: Saan, apo a ari, no di ni Elisha ti propeta nga adda iti Yisrael, nga ibagana iti ari ti Yisrael ⟨את⟩ dagiti sao nga agsaoem iti kaunegan ti pagturoganmo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "kadagiti adipenna"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a ari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no di"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "propeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iti Yisrael"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ibagana"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "iti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "agsaoem"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "iti kaunegan ti"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "pagturoganmo"
+    }
+  ],
+  "timestamp": "2026-09-26T13:28:12.894220255Z",
+  "model": "glm-5.3"
+}

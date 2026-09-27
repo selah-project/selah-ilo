@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Inayona ⟨את⟩ ti pamilia ni Yehudah, ket naala ⟨את⟩ ti pamilia dagiti Zarkhita; inayona ⟨את⟩ ti pamilia dagiti Zarkhita kadagiti lalaki, ket naala ni Zavdi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "inayona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pamilia ni Yehudah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "naala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pamilia dagiti Zarkhita"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "dagiti Zarkhita"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "inayona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pamilia dagiti Zarkhita"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "dagiti Zarkhita"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "kadagiti lalaki"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "naala"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "ni Zavdi"
+    }
+  ],
+  "timestamp": "2026-09-26T09:07:39.690385151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Kinapili ni Lot iti bukodna ⟨את⟩ ti amin a tanap ti Yarden, ket napan ni Lot iti daya, ket nagiddanda — ti tunggal maysa manipud iti kabsatna.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "kinapili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iti bukodna"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ni Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a tanap ti Yarden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "tanap"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "napan"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ni Lot"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "nagiddanda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iti kabsatna"
+    }
+  ],
+  "timestamp": "2026-09-26T01:55:28.484235652Z",
+  "model": "glm-5.3"
+}

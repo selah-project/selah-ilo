@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "⟨את⟩ dagiti kurtina ti liwa, ⟨את⟩ dagiti poste na ken ⟨את⟩ dagiti baset na, ken ⟨את⟩ ti kurtina ti ruar ti liwa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kurtina ti liwa"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "dagiti kurtina"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti liwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti poste na"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "dagiti poste na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti baset na"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "dagiti baset na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kurtina ti ruar ti liwa"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ti kurtina"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ti ruar"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti liwa"
+    }
+  ],
+  "timestamp": "2026-09-26T04:34:15.589379776Z",
+  "model": "glm-5.3"
+}

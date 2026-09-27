@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 108,
+  "translation": "Ta masalakanda dagiti ay-ayatmo; isalakanna babaen ti imuam a kanawan, ket agsungbatka kaniak.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "masalakanda"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "dagiti ay-ayatmo"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "isalakanna"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ti imuam a kanawan"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ket agsungbatka kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:28.030308094Z",
+  "model": "glm-5.3"
+}

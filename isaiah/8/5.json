@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket nangnay pay ti panagsao ni Yahweh kenniak, a mangibaga:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "nangnay pay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "panagsao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kenniak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a mangibaga"
+    }
+  ],
+  "timestamp": "2026-09-26T14:28:28.638159890Z",
+  "model": "glm-5.3"
+}

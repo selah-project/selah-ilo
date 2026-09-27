@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ken ininumna ti arak ket nainum nga nalumpet, ken naikkat ti bado na iti tengnga ti tolda na.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "ininumna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iti"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ti arak"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "nainum nga nalumpet"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "naikkat ti bado na"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "ti tolda na"
+    }
+  ],
+  "timestamp": "2026-09-26T01:50:22.594134694Z",
+  "model": "glm-5.3"
+}

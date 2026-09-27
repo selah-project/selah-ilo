@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Aramidento ti ⟨את⟩ dagiti badang a kayo ti shitim, ken balkubanto ti ⟨אתם⟩ babbalda ti balitok, ket iti babbalda maiawitanto ti ⟨את⟩ lamisa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti badang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dagiti badang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "balkubanto"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "babbalda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ti balitok"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "maiawitanto"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iti babbalda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lamisa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lamisa"
+    }
+  ],
+  "timestamp": "2026-09-26T04:16:13.305075813Z",
+  "model": "glm-5.3"
+}

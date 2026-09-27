@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Napasamak inton maikadua nga aldaw, inalana ti makhbar, binasana iti danum, inwarwarana iti rupana, ket natay isuna; ket nangituray ni Khazael iti dissina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "inton maikadua nga aldaw"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "ti makhbar"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "binasana"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "inwarwarana"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rupana"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ket nangituray"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "ni Khazael"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "iti dissina"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:31.037376960Z",
+  "model": "glm-5.3"
+}

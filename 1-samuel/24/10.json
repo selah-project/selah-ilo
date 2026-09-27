@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ket kinuna ni David kenni Shaul: Apay a dengngemmo ⟨את⟩ dagiti sao ti tattao, a maminsan: Kitaem, ni David agbirbirok ti dakes kenka?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kenni Shaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "a dengngemmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao ti tattao"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a maminsan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "agbirbirok"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ti dakes kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T11:10:06.635122185Z",
+  "model": "glm-5.3"
+}

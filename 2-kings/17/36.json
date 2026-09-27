@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "No di ket Yahweh ⟨את⟩ laeng — ti immayakayo manipud iti daga ti Mitsrayim ⟨אתכם⟩ iti napigsa unay a bileg ken iti naunat a takdeg — ⟨אתו⟩ ti maarereganyo, kenkuana ti agluklukoykayo, kenkuana ti agsakripisiokayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "no di"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "immayakayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "manipud iti daga ti Mitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "napigsa unay"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ken iti takdeg"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "naunat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ti maarereganyo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ti maarereganyo"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "ti agluklukoykayo"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ti agsakripisiokayo"
+    }
+  ],
+  "timestamp": "2026-09-26T13:57:03.928782318Z",
+  "model": "glm-5.3"
+}

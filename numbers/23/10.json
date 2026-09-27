@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Siasino ti mangibilang ti tapok ni Yaakov, ken ti bilang ⟨את⟩ ti maikapat a paset ti Yisrael? Mataykato ti kararua ko ti ipatay dagiti nalinteg, ken agbalin koma ti patingga ko a kas iti dina.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "mangibilang"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ti tapok"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "ken ti bilang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maikapat a paset"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "ti maikapat a paset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "mataykato"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua ko"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ti ipatay"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ken agbalin"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "ti patingga ko"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "a kas iti dina"
+    }
+  ],
+  "timestamp": "2026-09-26T06:59:53.560361634Z",
+  "model": "glm-5.3"
+}

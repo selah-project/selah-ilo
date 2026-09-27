@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 115,
+  "translation": "Ngem ti Elohimtayo adda ⟨iti⟩ dagiti langit, amin a kayatna aramidenna.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": ""
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "Ngem ti Elohimtayo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "adda ⟨iti⟩ dagiti langit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aramidenna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:48.299224992Z",
+  "model": "glm-5.3"
+}

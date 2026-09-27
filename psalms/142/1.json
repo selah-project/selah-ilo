@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 142,
+  "translation": "Maschil kenni David, idi adda ⟨isuna⟩ iti uriman; kararag.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maschil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kenni David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "idi adda ⟨isuna⟩"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "iti uriman"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "kararag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:35.614416110Z",
+  "model": "glm-5.3"
+}

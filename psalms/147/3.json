@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Agpula kadagiti nakisperdi ti puso, ken agbennit kadagiti sagaidda.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "agpula"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "kadagiti nakisperdi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ken agbennit"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "kadagiti sagaidda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:09.105042157Z",
+  "model": "glm-5.3"
+}

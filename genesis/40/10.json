@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket iti mula ti ubas adda tallo a sanga, ket daytoy kas iti agsabong, timmudo ti sabongna, nagidan dagiti rimpuokna nga ubas.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "ket iti mula ti ubas"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "a sanga"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ket daytoy"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "kas iti agsabong"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "timmudo"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "ti sabongna"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "nagidan"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "dagiti rimpuokna"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "nga ubas"
+    }
+  ],
+  "timestamp": "2026-09-26T02:56:10.390081582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ket inbilanggoanda ⟨את⟩ dagiti babai a adda iti unegna, manipud iti bassit agingga iti dakkel; saanda a nangpatay ti tao, ngem ida idinulon ket nagnaanda iti dalanda.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "inbilanggoanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti babai"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "dagiti babai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti unegna"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "manipud iti bassit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "iti dakkel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "a nangpatay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "ida idinulon"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nagnaanda"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "iti dalanda"
+    }
+  ],
+  "timestamp": "2026-09-26T11:22:21.694527357Z",
+  "model": "glm-5.3"
+}

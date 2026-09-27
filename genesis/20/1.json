@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Napan ni Avraham manipud idiay a mapan iti daga ti Negev, ket nagtaeng iti nagbaetan ti Kadesh ken iti nagbaetan ti Shur, ket nagtaeng a kas sangailian iti Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "napan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "manipud idiay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ti Negev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagtaeng"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ti Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti nagbaetan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ti Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "nagtaeng a kas sangailian"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "iti Gerar"
+    }
+  ],
+  "timestamp": "2026-09-26T02:15:35.721175414Z",
+  "model": "glm-5.3"
+}

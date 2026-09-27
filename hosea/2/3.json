@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kunakayo kadagiti kabsaryo a lalaki: Ammi; ken kadagiti kabsaryo a babai: Ruhama.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Kunakayo"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "kadagiti kabsaryo a lalaki"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "ken kadagiti kabsaryo a babai"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhama"
+    }
+  ],
+  "timestamp": "2026-09-26T19:33:58.132018359Z",
+  "model": "glm-5.3"
+}

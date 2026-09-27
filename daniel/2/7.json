@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 2:7",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Nagsungbatda manen, maikadua a daras, ket kinunada: O ari, ibagam kadagiti adipenmo ti mangarap, ket ipakitami ti paksarna.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Nagsungbatda"
+    },
+    {
+      "surface": "תנינות",
+      "gloss": "maikadua a daras"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "O ari"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "ti mangarap"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "לעבדוהי",
+      "gloss": "kadagiti adipenmo"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "ket ti paksarna"
+    },
+    {
+      "surface": "נהחוה",
+      "gloss": "ipakitami"
+    }
+  ],
+  "timestamp": "2026-09-26T23:15:24.151757341Z",
+  "model": "glm-5.3"
+}

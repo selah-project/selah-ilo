@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Nadakkel a panagdigosak manipud iti kinabasolko, ken manipud iti basolko pakadalsanak.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Nadakkel"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "a panagdigosak"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "manipud iti kinabasolko"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "ken manipud iti basolko"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "pakadalsanak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:26:18.384989003Z",
+  "model": "glm-5.3"
+}

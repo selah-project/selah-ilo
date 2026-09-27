@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 8:14",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket agbalin isu a kas nasantuan a lugar, ken kas bato a pagtinnag-an, ken kas dakkel a bato a pagrigatan, kadagiti dua a balay ni Yisrael, kas silaw ken kas taraon kadagiti agnanaed iti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "a kas nasantuan a lugar"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "ken kas bato"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "a pagtinnag-an"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "ken kas dakkel a bato"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "a pagrigatan"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kadagiti dua"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "a balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "kas silaw"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "ken kas taraon"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "kadagiti agnanaed"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T14:24:44.292520658Z",
+  "model": "glm-5.3"
+}

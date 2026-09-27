@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Kasta ti aramiden ti maysa a baka, wenno ti maysa a karnero a baro, wenno ti maysa nga urbon a karnero manipud kadagiti tupa wenno kadagiti kaldi.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ti aramiden"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "ti maysa a baka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ti maysa a karnero a baro"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "ti maysa nga urbon a karnero"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "manipud kadagiti tupa"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "kadagiti kaldi"
+    }
+  ],
+  "timestamp": "2026-09-26T06:39:56.649074069Z",
+  "model": "glm-5.3"
+}

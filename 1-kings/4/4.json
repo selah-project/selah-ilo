@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ni Benayahu ben Yehoyada, iti tungdong ⟨iti⟩ buyot; ken ni Tsadok ken ni Avyatar, dagiti padi.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "ken ni Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben (anak)"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ni Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti tungdong"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "iti buyot"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ken ni Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ken ni Avyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "dagiti padi"
+    }
+  ],
+  "timestamp": "2026-09-26T12:26:06.937640089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ta adu pay a besbes ti ammo ti pusom, a sika met laeng nangisumpa kadagiti dadduma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "besbes"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ti pusom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "את",
+      "gloss": "sika"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "nangisumpa"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kadagiti dadduma"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:38.665708529Z",
+  "model": "glm-5.3"
+}

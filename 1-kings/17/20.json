@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Immawag isuna kenni Yahweh ket kinunana: Yahweh nga Elohimko, adin kadin a dakes ti aramidmo iti balo a kaduak nga agnanaed, a mangipapatay ⟨את⟩ ti anakna?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "immawag isuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga Elohimko"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "adin kadin"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "balo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "agnanaed a kas bisita"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "kaduak"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "dakes ti aramidmo"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "a mangipapatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anakna"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ti anakna"
+    }
+  ],
+  "timestamp": "2026-09-26T13:00:52.195359782Z",
+  "model": "glm-5.3"
+}

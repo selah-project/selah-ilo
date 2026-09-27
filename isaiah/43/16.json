@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Kasta ti kinuna ni Yahweh, ti Mangited iti dalan iti baybay, ken iti danum a napigsa iti pagdalanan:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "ti Mangited"
+    },
+    {
+      "surface": "בים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ken iti danum"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "a napigsa"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "iti pagdalanan"
+    }
+  ],
+  "timestamp": "2026-09-26T15:26:44.823240185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Kalpasanna kinunak: Adtoy, immayak — iti rolyo ti libro naisurat kaniak.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Kalpasanna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Adtoy"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "immayak"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "iti rolyo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ti libro"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "naisurat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:17:59.612331373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 50:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Nakita dagiti kabsat ni Yosef a natay koman ti amada, ket kinunada: baka madisdissitannakami ni Yosef, ket isu nga agsublinna kadakami ⟨את⟩ ti amin a dakes a ginawidmi ⟨את⟩ kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dagiti kabsat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ti amada"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "koman"
+    },
+    {
+      "surface": "ישטמנו",
+      "gloss": "madisdissitannakami"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "ket agsublinna"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "isu nga agsubli"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a dakes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "a dakes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "ginawidmi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T03:25:54.839797715Z",
+  "model": "glm-5.3"
+}

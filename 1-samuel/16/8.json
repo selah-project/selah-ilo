@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 16:8",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Inawag ni Yishai kenni Avinadav, ket ipananna a lumabas iti sanguanan ni Shemuel; ket kinunana: Iti daytoy met, saan a pinili ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inawag"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ni Yishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "ipananna a lumabas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pinili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T10:50:47.754030644Z",
+  "model": "glm-5.3"
+}

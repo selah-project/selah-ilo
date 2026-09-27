@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Saanmo a patayen nga addaan kimat ti dara ti sakripisio ko, ket saan a maipalubos a lumabas ti bigat ti sakripisio ti fiesta ti Pesach.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "patayenmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga addaan"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kimat"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dara"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ti sakripisio ko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "maipalubos a lumabas"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ti sakripisio"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ti fiesta"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ti Pesach"
+    }
+  ],
+  "timestamp": "2026-09-26T04:38:39.936500973Z",
+  "model": "glm-5.3"
+}

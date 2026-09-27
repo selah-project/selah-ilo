@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 135,
+  "translation": "Ta kenni Yaakov pinilina ti kukuana ni Yah, ni Yisrael a kas tagikuana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kenni Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pinilina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ti kukuana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "a kas tagikuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:48.754637578Z",
+  "model": "glm-5.3"
+}

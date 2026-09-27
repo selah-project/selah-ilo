@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Ngem pinukaamkami ket pinabainmokami, ken saanmo a rummuar kadagiti buyotmi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "pinukaamkami"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "ket pinabainmokami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "rummuar"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "kadagiti buyotmi"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:33.003063032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Binukelna ti baybay ket ipasaanna ida, ket pinataktakderna ti danum a kas maysa a bunton.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "binukelna"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ket ipasaanna ida"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ket pinataktakderna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "נד",
+      "gloss": "maysa a bunton"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:55.892291792Z",
+  "model": "glm-5.3"
+}

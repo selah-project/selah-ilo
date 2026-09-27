@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Aramaem ⟨את⟩ dagiti tabla para iti Mishkan, kakayuan ti sitim, nailtakder.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Aramaem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tabla"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dagiti tabla"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "para iti Mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kakayuan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ti sitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nailtakder"
+    }
+  ],
+  "timestamp": "2026-09-26T04:17:34.755851841Z",
+  "model": "glm-5.3"
+}

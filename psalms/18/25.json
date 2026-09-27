@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket inawaganna a sublienna kaniak ni Yahweh segun ti kinalintegko, segun ti kinalimpekan kadagiti imak iti sanguanan ti matana.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ket insublina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "segun ti kinalintegko"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "segun ti kinalimpekan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dagiti imak"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ti matana"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:15.054557235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Inangatna ⟨את⟩ ti abay ni Eliyahu a natnag manipud iti kaniana, ket nagsubli ket nagtakder iti igid ti karayan ti Yarden.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "inangatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti abay ni Eliyahu"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "abay"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "manipud iti kaniana"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "nagtakder"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "igid"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-26T13:18:10.599633760Z",
+  "model": "glm-5.3"
+}

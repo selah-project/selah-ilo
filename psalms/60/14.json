@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": "Babaen kenni Elohim agaramidtayo ti bileg; ket isuna ti mangdadael kadagiti kabusortayo.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Babaen kenni Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "agaramidtayo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ket isuna"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ti mangdadael"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "kadagiti kabusortayo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:58.563128852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket no saan, agruar ti apoy manipud kenni Avimelekh, ken mangan ⟨את⟩ dagiti lakay ti Shekhem ken ⟨את⟩ ti balay Milo; ket agruar ti apoy manipud kadagiti lakay ti Shekhem ken manipud iti balay Milo, ken mangan ⟨את⟩ ni Avimelekh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ket no"
+    },
+    {
+      "surface": "אין",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "agruar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "manipud kenni Avimelekh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ken mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lakay ti Shekhem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ti Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti balay Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ket agruar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "manipud kadagiti lakay"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ti Shekhem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ken manipud iti balay"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ken mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ni Avimelekh"
+    }
+  ],
+  "timestamp": "2026-09-26T09:55:29.983186134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ken ikuarak ⟨את⟩ dakayo manipud iti tengngana, ken itedko ⟨את⟩ dakayo iti ima dagiti sabsabali a tao, ken aramidenko kadakayo dagiti ukom.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "ken ikuarak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo",
+      "marks": "dakayo a maikuar manipud iti tengngana"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "manipud iti tengngana"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ken itedko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo",
+      "marks": "dakayo a maited iti ima dagiti sabsabali"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "dagiti sabsabali a tao"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ken aramidenko"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "dagiti ukom"
+    }
+  ],
+  "timestamp": "2026-09-26T18:17:56.361531531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ti daulo ti limapulo, ken ti nangato ti rupa, ken ti mangited ti balakad, ken ti maestro a mannalakan, ken ti nalaing a mangngiwngiw.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "ti daulo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ti limapulo"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "ken ti nangato"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ti rupa"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ken ti mangited ti balakad"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ken ti maestro"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "a mannalakan"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ken ti nalaing"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "a mangngiwngiw"
+    }
+  ],
+  "timestamp": "2026-09-26T14:20:21.589637172Z",
+  "model": "glm-5.3"
+}

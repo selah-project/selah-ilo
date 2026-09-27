@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket uray no pudno a nagbiddutak, ⟨את⟩ kadakuak ti agnanaed ti biddutko.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Ket uray no"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "pudno a"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "nagbiddutak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kadakuak",
+      "marks": "kadakuak — ti dissot a pakabirukan ti biddutko"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ti agnanaed"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "ti biddutko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:52:29.155596125Z",
+  "model": "glm-5.3"
+}

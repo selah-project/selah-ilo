@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Nakaasi ken mannakailu ni Yahweh, atiddog ti puotna, ken dakkel ti hesedna.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Nakaasi"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "mannakailu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "atiddog"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ti puot"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:28.871754651Z",
+  "model": "glm-5.3"
+}

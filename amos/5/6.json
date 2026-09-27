@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Biruennakayo ⟨את⟩ ni Yahweh ket agbiagkayo; baliken bumtak kas apoy iti balay ni Yosef ket agdadael, ket awan mamputu iti Bet-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Biruennakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ket agbiagkayo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baliken"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "bumtak"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kas apoy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ket agdadael"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "mamputu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-26T19:53:26.554609168Z",
+  "model": "glm-5.3"
+}

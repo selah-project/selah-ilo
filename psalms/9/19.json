@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ta saan nga agnanayon a malipatan ti nakasapulan; saan nga agnanayon a maawan ti namnama dagiti naparigatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngaanayon"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "a malipatan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ti nakasapulan"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ti namnama"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "dagiti naparigatan"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "a maawan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ngaanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T20:51:38.791003216Z",
+  "model": "glm-5.3"
+}

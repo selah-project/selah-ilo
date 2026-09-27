@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Kinuna kaniakuada ni Yaakov a ti amada: Siak ti inulilanyo — ni Yosef awan, ken ni Shimon awan, ken ⟨את⟩ ni Binyamin alaenyokayo — kaniak amin dagitoy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniakuada"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "a ti amada"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ siak",
+      "marks": "inulilanyo"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "inulilanyo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "ken ni Shimon"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binyamin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "alaenyokayo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "amin dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:38.112248615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Nagtaod ken napan, ket ni Yehonatan simmangpet iti ili.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nagtaod"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "napan"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "simmangpet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "iti ili"
+    }
+  ],
+  "timestamp": "2026-09-26T11:04:43.531953671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Aramiden ni Paro, ken idutokanna dagiti mangidutok iti ⟨ti⟩ daga, ken alaenna ti maikalima a paset ti ⟨את⟩ daga ti Mitsrayim kadagiti pito a tawen ti kaadu.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "Aramiden"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ken idutokanna"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "dagiti mangidutok"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ken alaenna ti maikalima a paset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daga ti Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "kadagiti pito"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ti kaadu"
+    }
+  ],
+  "timestamp": "2026-09-26T03:02:43.071672283Z",
+  "model": "glm-5.3"
+}

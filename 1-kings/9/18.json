@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ken ⟨את⟩ ti Baalath ken ⟨את⟩ ti Tamar iti kaatapan, iti daga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Baalath"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "ti Baalath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "ti Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti kaatapan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T12:41:49.186002095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Iti ti mannurat; iti adipen ni Yahweh, ni Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "iti ti mannurat"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "iti adipen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni Dawid"
+    }
+  ],
+  "timestamp": "2026-09-26T21:08:52.699263420Z",
+  "model": "glm-5.3"
+}

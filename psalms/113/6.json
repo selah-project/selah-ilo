@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 113,
+  "translation": "Ti agpayababa a mangkita iti langit ken iti daga.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "ti agpayababa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a mangkita"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ken iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:28.033386999Z",
+  "model": "glm-5.3"
+}

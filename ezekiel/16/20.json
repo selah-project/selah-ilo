@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Inalaam ⟨את⟩ dagiti anakmo a lallaki ken ⟨את⟩ dagiti anakmo a babai a nagputotam kadakuak, ket insakripisiom ida kadakuada a maanganen — no bassit kadi ti panagputawaymo?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "Inalaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anakmo a lallaki"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dagiti anakmo a lallaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anakmo a babai"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "dagiti anakmo a babai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "nagputotam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kadakuak"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "ket insakripisiom ida"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "a maanganen"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "no bassit kadi"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "ti panagputawaymo"
+    }
+  ],
+  "timestamp": "2026-09-26T18:22:00.288564586Z",
+  "model": "glm-5.3"
+}

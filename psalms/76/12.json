@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 76,
+  "translation": "Ipanotari ken ipaayen kenni Yahweh ti Elohimyo, amin a makapalikmut kenkuana; mangidar-osda kadagiti daton ti Mabuteng.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Ipanotari"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ken ipaayen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohimyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "a makapalikmut kenkuana"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "mangidar-osda"
+    },
+    {
+      "surface": "שי",
+      "gloss": "kadagiti daton"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "ti Mabuteng"
+    }
+  ],
+  "timestamp": "2026-09-26T21:48:23.015645795Z",
+  "model": "glm-5.3"
+}

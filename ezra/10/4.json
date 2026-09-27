@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Agtakderka, ta iti siam ti sao, ket dakami kaduam; agpigsaka ket aridem.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Agtakderka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "iti siam"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ket dakami"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaduam"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "agpigsaka"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ket aridem"
+    }
+  ],
+  "timestamp": "2026-09-26T23:26:47.762067456Z",
+  "model": "glm-5.3"
+}

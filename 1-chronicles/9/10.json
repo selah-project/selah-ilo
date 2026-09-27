@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken manipud kadagiti padi: ni Yedayah, ken ni Yehoyariv, ken ni Yakhin.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ken manipud"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kadagiti padi"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ni Yedayah"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "ken ni Yehoyariv"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ken ni Yakhin"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:36.262787191Z",
+  "model": "glm-5.3"
+}

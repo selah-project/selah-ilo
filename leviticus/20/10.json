@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken ti tao a makaadulterio ⟨iti⟩ ⟨את⟩ asawa ti tao, a makaadulterio ⟨iti⟩ ⟨את⟩ asawa ti kaarrubana — matayen a matay ti agadulterio ken ti agadulterio a babai.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "makaadulterio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "makaadulterio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ti kaarrubana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "matay"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "ti agadulterio"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "ken ti agadulterio a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T05:43:00.282386141Z",
+  "model": "glm-5.3"
+}

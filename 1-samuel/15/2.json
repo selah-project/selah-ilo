@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Kastoy ti kinuna ni Yahweh ti Tsevaot: Nakitaek ⟨את⟩ ti inaramid ni Amalek kenni Yisrael, ti inpatakderanna kenniada iti dalan idi panagballakiwda manipud iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kastoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "nakitaek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inaramid ni Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ni Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kenni Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "inpatakderanna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenniada"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "idi panagballakiwda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T10:51:52.402915211Z",
+  "model": "glm-5.3"
+}

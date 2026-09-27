@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Agtignay kayo iti maysa a plano ket matnag daytoy; nagsao kayo ti sao ket saanto nga agtakder, ta ti El adda kaduay.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "agtignay kayo"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "iti maysa a plano"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ket matnag daytoy"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nagsao kayo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "anto nga agtakder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "adda kaduay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti El"
+    }
+  ],
+  "timestamp": "2026-09-26T14:22:50.903444456Z",
+  "model": "glm-5.3"
+}

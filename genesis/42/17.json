@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ket inurnongna ⟨את⟩ ida iti pagtarayan, tallo nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "inurnongna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "pagtarayan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T03:03:53.335962815Z",
+  "model": "glm-5.3"
+}

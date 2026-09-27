@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket inyegna ⟨את⟩ dagiti nasantuan a banag ti amana ken dagiti bukodna a nasantuan a banag iti balay ni Yahweh — pilak, balitok ken dagiti kaykayam.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ket inyegna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti nasantuan a banag ti amana"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "dagiti nasantuan a banag"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ken dagiti bukodna a nasantuan a banag"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ken balitok"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ken dagiti kaykayam"
+    }
+  ],
+  "timestamp": "2026-09-26T12:55:50.881752406Z",
+  "model": "glm-5.3"
+}

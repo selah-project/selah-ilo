@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Narugitan ti daga, ket impasidaik ti basolna iti dayta, ket induka ti daga ⟨את⟩ dagiti agnegnaedna.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "narugitan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "impasidaik"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ti basolna"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "induka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti agnegnaedna"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "dagiti agnegnaedna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:32:34.542575619Z",
+  "model": "glm-5.3"
+}

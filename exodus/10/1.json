@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Sumrekka kenni Paro, ta siak ti nangagaed ⟨את⟩ iti pusona ken ⟨את⟩ ti puso dagiti adipenna, tapno ikabilko dagitoy a tanda'ko iti tengngana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sumrekka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "nangagaed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti pusona"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pusona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti puso"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikabilko"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tanda'ko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "iti tengngana"
+    }
+  ],
+  "timestamp": "2026-09-26T03:44:00.791008332Z",
+  "model": "glm-5.3"
+}

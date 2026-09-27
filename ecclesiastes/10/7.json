@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Nakitak dagiti adipen a kabalun no adda iti ngato ti kabalio, ken dagiti prinsipe a mangraniaw a kas dagiti adipen iti rabaw ti daga.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "dagiti adipen"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato ti"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kabalio"
+    },
+    {
+      "surface": "וושרים",
+      "gloss": "ken dagiti prinsipe"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "a mangraniaw"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "a kas dagiti adipen"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw ti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:20.450994969Z",
+  "model": "glm-5.3"
+}

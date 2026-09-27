@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 114,
+  "translation": "Ti baybay nakita ket nagtaray, ti Yarden agsubli a mapan iti likudanna.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ket nagtaray"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "a mapan iti likudanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:04.903164454Z",
+  "model": "glm-5.3"
+}

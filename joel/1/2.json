@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Dengngegyo daytoy, dagiti lakay, ket panggepyo ti imek, amin nga agnanaed iti daga: nasapasamak kadi daytoy kadagiti aldawyo, wenno kadagiti aldaw dagiti ammoyo?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengngegyo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ket panggepyo ti imek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "nasapasamak kadi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "kadagiti aldawyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kadagiti aldaw"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "dagiti ammoyo"
+    }
+  ],
+  "timestamp": "2026-09-26T19:43:10.367904339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Daytoy ti dalanda, a kaulbod para kaniada; ngem dagiti umay kalpasanda, iti sao da maragsakanda. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Daytoy"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ti dalanda"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "a kaulbod"
+    },
+    {
+      "surface": "למו",
+      "gloss": "para kaniada"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ngem dagiti umay kalpasanda"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "iti sao da"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "maragsakanda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:29.172799248Z",
+  "model": "glm-5.3"
+}

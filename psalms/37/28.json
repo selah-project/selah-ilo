@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ta ni Yahweh ay-ayatenna ti ukom, ken saannanto a baybay-an ⟨את⟩ dagiti nasantuanna; agnanayon a salakniban da, ngem ti putot dagiti dakes ket maikkat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ay-ayatenna"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saannanto"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "a baybay-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti nasantuanna"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "dagiti nasantuanna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngañanayon"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "a salakniban da"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ngem ti putot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "ket maikkat"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:57.924927491Z",
+  "model": "glm-5.3"
+}

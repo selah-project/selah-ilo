@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Ipayam ti lapayagmo, Yahweh, iti kararagko, ket dengngegem ti timek dagiti arayko.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Ipayam ti lapayagmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "iti kararagko"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "ket dengngegem"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "dagiti arayko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:25.069559600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken sisegna ⟨את⟩ daytoy kadagiti payana, saanna a pagduduaen, ket isubona ti padi ⟨את⟩ daytoy iti altar, iti ngato dagiti kayo a adda iti ngato ti apoy: naipunganay a sakripisio daytoy, daton a mapukaw iti apoy, naimas a banglo iti Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "ken sisegna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy (ti billit)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "kadagiti payana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "pagduduaen"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ket isubona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dagiti kayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ti apoy"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naipunganay a sakripisio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "daton a mapukaw iti apoy"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "banglo"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "naimas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "iti Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:56:17.457138242Z",
+  "model": "glm-5.3"
+}

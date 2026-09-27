@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ti piligesh ni Kalev, ni Maakhah, nanganak ⟨ti⟩ Sheber ken ⟨את⟩ Tirkhanah.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ti piligesh"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ni Maakhah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nanganak"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Sheber"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Tirkhanah"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Tirkhanah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:06.768875660Z",
+  "model": "glm-5.3"
+}

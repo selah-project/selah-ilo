@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ni Barzilay a Giladi nagbaba manipud iti Rogelim, ket nagballasiw ⟨את⟩ ti ari iti Yarden, iti panangibatikanna ⟨את⟩ iti ballasiw ti Yarden.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "ni Barzilay"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "a Giladi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nagbaba"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "manipud iti Rogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ket nagballasiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iti Yarden"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "iti panangibatikanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti ballasiw ti Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "iti Yarden"
+    }
+  ],
+  "timestamp": "2026-09-26T12:03:27.476232729Z",
+  "model": "glm-5.3"
+}

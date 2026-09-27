@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Insurol ni Yahweh ⟨iti⟩ ti umili ⟨את⟩ dagiti uleg a nagpursiga, ket innukkanda ⟨את⟩ ti umili, ket natay adu nga umili manipud iti Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "insurol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "iti ti umili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti uleg a nagpursiga"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "dagiti uleg"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "a nagpursiga"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "ket innukkanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "adu nga umili"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "manipud iti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T06:53:56.758676047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Saanmo a makita ⟨את⟩ ti baka ti kabsatmo wenno ⟨את⟩ ti karnerona a naiyaw-yaw, ket ilemmengmo ida; isubli nga isublimo ida iti kabsatmo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kabsatmo"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karnerona"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "karnerona"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "naiyaw-yaw"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ket ilemmengmo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ida"
+    },
+    {
+      "surface": "השב",
+      "gloss": "isubli"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "isublimo"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "iti kabsatmo"
+    }
+  ],
+  "timestamp": "2026-09-26T08:18:34.564766384Z",
+  "model": "glm-5.3"
+}

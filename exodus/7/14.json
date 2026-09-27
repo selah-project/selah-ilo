@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Nadagsen ti puso ni Paro, umawat nga ibbatanna ti tattao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "Nadagsen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "umawat"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "nga ibbatanna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    }
+  ],
+  "timestamp": "2026-09-26T03:33:53.959371876Z",
+  "model": "glm-5.3"
+}

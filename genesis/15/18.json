@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Iti dayta nga aldaw nangaramid ni Yahweh ⟨את⟩ tulag kennu Avraham, a kumuna: Kadagiti imputotam intedko ⟨את⟩ daytoy a daga, manipud iti karayan ti Mitsrayim agingga iti nangato a karayan, ti karayan ti Perat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nangaramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulag kennu Avraham"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tulag"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kumuna"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "kadagiti imputotam"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "intedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "manipud iti karayan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nangato"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ti Perat"
+    }
+  ],
+  "timestamp": "2026-09-26T01:59:13.780675979Z",
+  "model": "glm-5.3"
+}

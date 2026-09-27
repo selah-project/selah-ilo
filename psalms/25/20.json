@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Salaknibannak ti kararwak ken isalakanannak; diak mailib, ta siak ti nagliwliw Kaniam.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "salaknibannak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ken isalakanannak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "diak"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mailib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "siak ti nagliwliw"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Kaniam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:28.280533104Z",
+  "model": "glm-5.3"
+}

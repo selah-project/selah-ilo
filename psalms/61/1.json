@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 61,
+  "translation": "Ti agturay ⟨iti kanta⟩, iti panagtigtignay kadagiti instrumento ti kuerdas, a sao ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ti agturay ⟨iti kanta⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "panagtigtignay kadagiti instrumento ti kuerdas"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a sao ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T21:37:40.476548198Z",
+  "model": "glm-5.3"
+}

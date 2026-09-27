@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Iti dayta a tiempo inparang-ay ti ari ni Shadrakh, Meyshakh ken Abed-Nego iti probinsia ti Babilonia.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Iti dayta a tiempo"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "inparang-ay"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "kenni Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ken ni"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "iti probinsia"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ti Babilonia"
+    }
+  ],
+  "timestamp": "2026-09-26T23:16:58.779313569Z",
+  "model": "glm-5.3"
+}

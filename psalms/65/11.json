@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 65,
+  "translation": "Dagiti taltalna innaulam, naipababa dagiti gueddayna; kadagiti nakaro nga udan pumalemek, ti bunengna binendisionam.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "dagiti taltalna"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "innaulam"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "naipababa"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "dagiti gueddayna"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "kadagiti nakaro nga udan"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "pumalemek"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "ti bunengna"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "binendisionam"
+    }
+  ],
+  "timestamp": "2026-09-26T21:36:17.803371419Z",
+  "model": "glm-5.3"
+}

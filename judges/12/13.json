@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Kalpasanna innemehan ni Avdon a anak ni Hillel ti Piratonita ⟨ti⟩ ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "innemehan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "a anak"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "Piratonita"
+    }
+  ],
+  "timestamp": "2026-09-26T10:00:25.933949894Z",
+  "model": "glm-5.3"
+}

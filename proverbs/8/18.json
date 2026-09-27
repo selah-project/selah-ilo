@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kadakuak ti kayamanan ken daydayaw, kayamanan nga agnanayon ken kinalinteg.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ti kayamanan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ken daydayaw"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kadakuak",
+      "marks": "⟨את⟩ a kas mekle: addaak, kadakuak"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "nga agnanayon"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ken kinalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:00.574668030Z",
+  "model": "glm-5.3"
+}

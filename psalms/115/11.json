@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 115,
+  "translation": "Dagiti agbuteng kenni Yahweh, agbatikayo kenni Yahweh; tulonganda ken kalasaganda isuna.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Dagiti agbuteng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "agbatikayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "tulonganda"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ken kalasaganda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:17.493095592Z",
+  "model": "glm-5.3"
+}

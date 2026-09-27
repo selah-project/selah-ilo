@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ket ni Yahweh ⟨את⟩ ni Yosef, ket nagbalin isuna a lalaki a nakaaddaan balligi; ket adda isuna iti balay ti apo na a Mitsrita.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lalaki"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "nakaaddaan balligi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ti apo na"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "a Mitsrita"
+    }
+  ],
+  "timestamp": "2026-09-26T03:01:07.783382655Z",
+  "model": "glm-5.3"
+}

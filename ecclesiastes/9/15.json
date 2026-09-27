@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket nabirukan idiay maysa a pobre a nasirib a lalaki, ket isu ti nangisalakan ⟨את⟩ ti ili babaen ti kinasiribna; ngem awan tao a naglagip ⟨את⟩ iti dayta a pobre a lalaki.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ket nabirukan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "pobre"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nasirib"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "ket nangisalakan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ili"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "babaen ti kinasiribna"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ket tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "naglagip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti dayta a pobre a lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "ti pobre"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:50.112440124Z",
+  "model": "glm-5.3"
+}

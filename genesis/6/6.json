@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken nagmadi ni Yahweh a nagaramid ⟨את⟩ ti tao iti daga, ken timmangken iti pusona.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "nagmadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagaramid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "ken timmangken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pusona"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:29.653157370Z",
+  "model": "glm-5.3"
+}

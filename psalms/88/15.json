@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Apay, Yahweh, nga ikkatmo ti kararuak? Apay ilemmengmo ti rupam kaniak?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ikkatmo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua ko"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ilemmengmo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:08.807928548Z",
+  "model": "glm-5.3"
+}

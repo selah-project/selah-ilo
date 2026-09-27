@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kinet biag ni Enosh kalpasan ti panakaiyanakanna ⟨ti⟩ ⟨את⟩ Kennan sangapulo ket lima a tawen ken walo a gasut a tawen, ket nakaipannakayan kadagiti anak a lalaki ken kadagiti anak a babai.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kinet biag"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ti panakaiyanakanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kennan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kennan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ken walo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nakaipannakayan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kadagiti anak a lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ken kadagiti anak a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:14.682335657Z",
+  "model": "glm-5.3"
+}

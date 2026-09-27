@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Sadino ti ari ti Chamat, ken ti ari ti Arpad, ken ti ari ti ili ti Sefarvayim, Hena ken Ivah?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Sadino"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ti Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ken ti ari"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "ti Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ken ti ari"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "ti Sefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ken Ivah"
+    }
+  ],
+  "timestamp": "2026-09-26T13:58:24.689686975Z",
+  "model": "glm-5.3"
+}

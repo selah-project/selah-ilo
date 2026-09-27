@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 26:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "ket ti nasurokan iti kurtina ti Tolda, ti gudua a kurtina a nasurokan, agsurok iti likudan ti Mishkan.",
+  "tokens": [
+    {
+      "surface": "וסרח",
+      "gloss": "ket ti agsurok"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "a nasurokan"
+    },
+    {
+      "surface": "ביריעת",
+      "gloss": "iti kurtina"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ti gudua"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "a kurtina"
+    },
+    {
+      "surface": "העדפת",
+      "gloss": "a nasurokan"
+    },
+    {
+      "surface": "תסרח",
+      "gloss": "agsurok"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "likudan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:16:50.387169392Z",
+  "model": "glm-5.3"
+}

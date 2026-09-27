@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 79,
+  "translation": "Agingga no kaano, Yahweh, nga agririingka nga agnanayon? Agpuor koma a kas apoy ti pannariingmo?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Agingga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "agririingka"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nga agnanayon"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "Agpuor koma"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ti pannariingmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:22.724617019Z",
+  "model": "glm-5.3"
+}

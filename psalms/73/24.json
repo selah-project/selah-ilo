@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Iti tudingmo iturongmo nak, ket kalpasanna iti daydayaw alaemnak.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Iti tudingmo"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "iturongmo nak"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ket kalpasanna"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "iti daydayaw"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "alaemnak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:49.684818751Z",
+  "model": "glm-5.3"
+}

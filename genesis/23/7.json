@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Nagtindog ni Avraham ket nagdayaw iti pagilian ti daga, iti dagiti anak ni Chet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Nagtindog"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ket nagdayaw"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "iti pagilian"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "iti dagiti anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ni Chet"
+    }
+  ],
+  "timestamp": "2026-09-26T02:12:52.011956897Z",
+  "model": "glm-5.3"
+}

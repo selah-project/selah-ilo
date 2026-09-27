@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Idi ti tawen nga immay ni Tartan iti Ashdod, idi intulod ⟨את⟩ isuna ni Sargon ari ti Ashur, ket nakilaban iti Ashdod ket inalana daytoy.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "idi ti tawen"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "ni Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "iti Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "idi intulod"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isuna",
+      "marks": "ni Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "ni Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ket nakilaban"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "iti Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ket inalana daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T14:50:01.938070829Z",
+  "model": "glm-5.3"
+}

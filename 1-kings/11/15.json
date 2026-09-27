@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket napasamak, idi adda ni David ⟨את⟩ kadua ti Edom, idi panagngato ni Yoab a pangulo ti buyot nga ipunponna ⟨את⟩ dagiti natnag, a linabsabna ti amin a lalaki iti Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "idi adda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kadua"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "idi panagngato"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "a pangulo"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "nga ipunponna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti natnag"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "dagiti natnag"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a linabsabna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "iti Edom"
+    }
+  ],
+  "timestamp": "2026-09-26T12:46:49.389519146Z",
+  "model": "glm-5.3"
+}

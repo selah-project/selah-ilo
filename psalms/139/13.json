@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "Ta sika ti nangala kadagiti batiak; insiksikmo akon iti bati-batian ti inak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "nangala"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "kadagiti batiak"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "insiksikmo akon"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "iti bati-batian"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ti inak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:05.368706303Z",
+  "model": "glm-5.3"
+}

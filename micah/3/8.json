@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ngem ti siak, napnoak iti bileg ⟨iti⟩ ⟨את⟩ Espiritu ni Yahweh, ken iti ukom ken iti kinapigsa, a mangibaga kenn Yaakov ti payawna ken kenn Yisrael ti basolna.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ngem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ti siak"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "napnoak"
+    },
+    {
+      "surface": "כח",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Espiritu ni Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Espiritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken iti ukom"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ken iti kinapigsa"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "a mangibaga"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kenn Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ti payawna"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ken kenn Yisrael"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ti basolna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:04:34.081538392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Kaduaan dagiti nalinteg ti lalaki a makadakes, ket kaduaan ti dakes ti lalaki a nalinteg iti dalan.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "kaduaan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "עול",
+      "gloss": "a makadakes"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ket kaduaan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "a nalinteg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "iti dalan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:38.216706539Z",
+  "model": "glm-5.3"
+}

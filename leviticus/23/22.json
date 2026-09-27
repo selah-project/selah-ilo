@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "No apitenno ⟨את⟩ ti apit ti daganayo, saanmo a linteg ti patingga ti talonmo iti apitmo, ket ti nabati ti apitmo saanmo a bilang; ⟨את⟩ kaniada ibatiyo kadagiti mimpongay ken ti tagaili — siak ni Yahweh ti Elohimyo.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "no apitenno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apit"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "apit"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "daganayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "linteg"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "patingga"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "talonmo"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "iti apitmo"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ti nabati"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "apitmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "bilang"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kadagiti mimpongay"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ken ti tagaili"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ibatiyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kaniada"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimyo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:55:58.281864182Z",
+  "model": "glm-5.3"
+}

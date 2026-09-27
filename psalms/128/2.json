@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 128,
+  "translation": "Ti trabaho dagiti imam manganmo; ania ti ragsakmo, ket naimbag kaniak.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Ti trabaho"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "dagiti imam"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "manganmo"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "ania ti ragsakmo"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ket naimbag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:11.599845594Z",
+  "model": "glm-5.3"
+}

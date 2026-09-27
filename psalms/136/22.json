@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 136,
+  "translation": "tawid kenni Yisrael, adipenna: ta ti hesedna agnanayon.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "tawid"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kenni Yisrael"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "adipenna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:19.621311608Z",
+  "model": "glm-5.3"
+}

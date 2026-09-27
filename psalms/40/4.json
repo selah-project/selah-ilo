@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket indatonna ti ngiwatk ti maysa a baro a kanta, daydayaw kenni Elohimtayo; makita dagiti adu ken agbutengda, ken agtalekda kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ket indatonna"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ti ngiwatk"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ti maysa a kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baro"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "daydayaw"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kenni Elohimtayo"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makita"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dagiti adu"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ken agbutengda"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ken agtalekda"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:17:01.879906327Z",
+  "model": "glm-5.3"
+}

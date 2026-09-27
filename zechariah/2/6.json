@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket kinunak, Sadino ngarud mapanka sika? Ket kinunana kaniak, Agsukat iti ⟨את⟩ Yerushalayim, nga makita no manka kalawaanna ken no manka kaatiddoganna.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ket kinunak"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "sadino ngarud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mapanka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "למד",
+      "gloss": "agsukat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nga makita"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "no manka"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "kalawaanna"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "ken no manka"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "kaatiddoganna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:15.075845250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 97,
+  "translation": "Ulep ken sipnget ti agliklikmut kenkuana; kinalinteg ken ukom ti pagtungtungan ti tronona.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "ulep"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ken sipnget"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ti agliklikmut kenkuana"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kinalinteg"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken ukom"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ti pagtungtungan"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ti tronona"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:38.875932882Z",
+  "model": "glm-5.3"
+}

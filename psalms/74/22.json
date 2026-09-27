@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Agtakderka, Elohim, itudingmo ti itudingmo; lagipenmo ti kinalisdisanmo manipud kenni ti sinto, iti amin nga aldaw.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Agtakderka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "itudingmo"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "ti itudingmo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lagipenmo"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ti kinalisdisanmo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "kenni ti sinto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T21:50:04.721799536Z",
+  "model": "glm-5.3"
+}

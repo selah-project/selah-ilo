@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Nagsiddaaw dagiti dila da a kas ti uleg, ti bisa ti maysa a kobot ket adda iti baba dagiti bibig da. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Nagsiddaaw"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dagiti dila da"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kas ti"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "uleg"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ti bisa"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "ti maysa a kobot"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "dagiti bibig da"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:00.164163949Z",
+  "model": "glm-5.3"
+}

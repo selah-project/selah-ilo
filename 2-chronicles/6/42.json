@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Yahweh Elohim, saanmo nga ibabawi ti rupana ti Mashiachmo; lagipem ti hesed ni David, adipenmo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "nga ibabawi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupa"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "ti Mashiachmo"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "lagipem"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "ti hesed"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adipenmo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:44:26.333443399Z",
+  "model": "glm-5.3"
+}

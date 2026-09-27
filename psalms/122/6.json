@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 122,
+  "translation": "Saludsodyo ti kappia ti Yerushalayim; agkappiada dagiti ay-ayatam.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Saludsodyo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "agkappiada"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "dagiti ay-ayatam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:46.781496482Z",
+  "model": "glm-5.3"
+}

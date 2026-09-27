@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 127,
+  "translation": "Kasla dagiti pana iti ima ti mannakabalin, kasta dagiti annak ti ubbing.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "dagiti pana"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ti mannakabalin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ti ubbing"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:50.102089860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket kinunana: No tungpalanyo ti pannakayanak ⟨את⟩ dagiti Hebrea a babai ken makitam kadagiti bato ti pannakayanak — no anak a lalaki isuna, patayenyo ⟨את⟩ isuna; no anak a babai isuna, agbiag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "no tungpalanyo ti pannakayanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Hebrea a babai"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "dagiti Hebrea a babai"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "ken makitam"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kadagiti bato"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "patayenno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isuna (ti anak a lalaki)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "היא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "agbiag"
+    }
+  ],
+  "timestamp": "2026-09-26T03:23:29.259238080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ni Aminadav ket nagputot ⟨ti⟩ ni Nakhshon, ken ni Nakhshon ket nagputot ⟨ti⟩ ni Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Ken ni Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Nakhshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ni Nakhshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "ken ni Nakhshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Salmah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:26.461556444Z",
+  "model": "glm-5.3"
+}

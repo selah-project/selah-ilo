@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ken saandon a maimawagan pay ⟨את⟩ ti naganmo nga Avram, ket agbalinton a naganmo ti Avraham, ta ama ti adu a nasion ti inikkak.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saandon"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "maimawagan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganmo nga Avram"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalinton"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a naganmo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ti adu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a nasion"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ti inikkak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:06:45.870641259Z",
+  "model": "glm-5.3"
+}

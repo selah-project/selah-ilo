@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinuna ni David kenkuana: Ti daram ket ⟨iti⟩ ulom, ta ti ngiwatmo ti nangisungbat kenka, a kumuna: Siak ti pinatayko ⟨את⟩ ti Mashiach ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "daram"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ulom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ngiwatmo"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "nangisungbat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kumuna"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "pinatayko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mashiach ni Yahweh"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T11:26:00.728715593Z",
+  "model": "glm-5.3"
+}

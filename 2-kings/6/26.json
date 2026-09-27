@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 6:26",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket napasamak, ti ari ti Yisrael agballasiw iti rabaw ti diding, ket maysa a babai immawag kenkuana, a kinunana: Isalakanmo nak, apo, apo a ari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "agballasiw"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "ti diding"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ket maysa a babai"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "immawag"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinunana"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "isalakanmo nak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apo a ari"
+    }
+  ],
+  "timestamp": "2026-09-26T13:24:17.162027799Z",
+  "model": "glm-5.3"
+}

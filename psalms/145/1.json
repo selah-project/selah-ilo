@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Dagoy ni David. Ipatayagakanto Kenka, Elohimko, ti ari, ket bendisionannakanto ti naganmo iti agnanayon ken iti naud-udi.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Dagoy"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Ipatayagakanto Kenka"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "ket bendisionannakanto"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken iti naud-udi"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:06.462138692Z",
+  "model": "glm-5.3"
+}

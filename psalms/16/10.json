@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ta saanmo a baybay-an ti kararwak iti Sheol, saanmo a ited ti nasantuanmo a makita ti banganar",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "a baybay-an"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "iti Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "a ited"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "ti nasantuanmo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a makita"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ti banganar"
+    }
+  ],
+  "timestamp": "2026-09-26T20:49:04.737431416Z",
+  "model": "glm-5.3"
+}

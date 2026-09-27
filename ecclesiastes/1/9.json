@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti ania a napasamak — isu ti mapasamak; ken ti ania nga inaramid — isu ti aramiden; ket awan ti aniaman a baro iti babaen ti init.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ti ania"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "a napasamak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ti mapasamak"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ken ti ania"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "nga inaramid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ti aramiden"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti aniaman"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "a baro"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti babaen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:29.940605125Z",
+  "model": "glm-5.3"
+}

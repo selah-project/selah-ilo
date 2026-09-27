@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kadakayo, O dagiti lallaki, ti agawagak, ket ti timekko maipan kadagiti anak ti tao.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ti agawagak"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "ket ti timekko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maipan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:50.830535403Z",
+  "model": "glm-5.3"
+}

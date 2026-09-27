@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Sika ti agturay iti kangato ti baybay; no mangato dagiti allonona, sika ti mangipardeng kaniada.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "agturay"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "iti kangato"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "iti panangato"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "dagiti allonona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "mangipardeng kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:07.396119503Z",
+  "model": "glm-5.3"
+}

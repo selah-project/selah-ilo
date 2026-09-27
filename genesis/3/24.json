@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Pinurawanna ⟨את⟩ ti tao, ken ipinanaonna nga agiina iti daya ti Gadan ti Eden ⟨את⟩ dagiti kerubim ken ⟨את⟩ ti sinmaglawa nga espada a mangitalek-talek, tapno bantayanna ⟨את⟩ ti dalan ti kayo ti biag.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "pinurawanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ipinanaonna"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "ti Gadan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ti Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kerubim"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "dagiti kerubim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti sinmaglawa"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ti sinmaglawa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "nga espada"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "a mangitalek-talek"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "tapno bantayanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dalan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ti kayo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ti biag"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:22.768889646Z",
+  "model": "glm-5.3"
+}

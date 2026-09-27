@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket inabakda ⟨את⟩ ti nabati a nakaalis ni Amalek, ket nagnaedda sadiay agingga iti daytoy nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ket inabakda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nabati a nakaalis ni Amalek"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ti nabati"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "a nakaalis"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "ni Amalek"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ket nagnaedda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:45.734367781Z",
+  "model": "glm-5.3"
+}

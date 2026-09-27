@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ken aramidem ⟨ti⟩ ⟨את⟩ deme ti ephod, amin nga asul.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deme ti ephod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "deme"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul"
+    }
+  ],
+  "timestamp": "2026-09-26T04:25:35.062657711Z",
+  "model": "glm-5.3"
+}

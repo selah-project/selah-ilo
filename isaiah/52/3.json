@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Ta kasta ti kinuna ni Yahweh: nailableyakayo nga awan bayad, ket saan iti pirak a mailakayo manen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga awan bayad"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "nailableyakayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "iti pirak"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "a mailakayo manen"
+    }
+  ],
+  "timestamp": "2026-09-26T15:49:26.761681622Z",
+  "model": "glm-5.3"
+}

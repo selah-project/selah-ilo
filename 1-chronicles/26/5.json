@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 26:5",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ni Ammiel ti maikanem, ni Jissaskar ti maikapito, ni Peullethai ti maikawalo, ta binendisionanna ni Elohim ⟨tio⟩.",
+  "tokens": [
+    {
+      "surface": "עמיאל",
+      "gloss": "ni Ammiel"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ti maikanem"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ni Jissaskar"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ti maikapito"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "ni Peullethai"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ti maikawalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:42:09.570829619Z",
+  "model": "glm-5.3"
+}

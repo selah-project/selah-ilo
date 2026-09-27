@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Ni Elohim, imulaannak manipud kadagiti kaubbingsak, ket agingga ita, ibagak ⟨ti⟩ dagiti nakapkapsa amin nga aramidmo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "imulaannak"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "manipud kadagiti kaubbingsak"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ket agingga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ibagak"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dagiti nakapkapsa amin nga aramidmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:44:08.173522123Z",
+  "model": "glm-5.3"
+}

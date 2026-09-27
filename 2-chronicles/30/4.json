@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ket ti sao ket nalinteg kadagiti mata ti ari ken kadagiti mata ti amin a gimong.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "ket nalinteg"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ken kadagiti mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin a"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T23:54:37.715079796Z",
+  "model": "glm-5.3"
+}

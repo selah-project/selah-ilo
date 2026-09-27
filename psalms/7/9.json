@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ni Yahweh agukuom kadagiti umili: ukomennak, Yahweh, segun ti kinalintegko ken ti pannakawasakko nga adda iti siak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "agukuom"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "ukomennak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "segun ti kinalintegko"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "ken ti pannakawasakko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nga adda iti siak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:41:44.052787143Z",
+  "model": "glm-5.3"
+}

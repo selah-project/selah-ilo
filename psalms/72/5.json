@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Agbutengdakan a kadua ti init, ken sango ti bulan, kaputotan agingga kadagiti kaputotan.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "agbutengdakan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ken sango ti"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kaputotan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": " agingga kadagiti kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:04.232415084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket inikkat ti ari ⟨את⟩ ti singsingna manipud iti imatna, ken intedna kenni Haman, anak ni Hamedata, ti Agagita, kabusor dagiti Yehudim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Ket inikkat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti singsingna"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ti singsingna"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "imatna"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ken intedna"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "kenni Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ni Hamedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "ti Agagita"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "kabusor"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "dagiti Yehudim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:13:24.416957636Z",
+  "model": "glm-5.3"
+}

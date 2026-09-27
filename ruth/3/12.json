@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Itan, a pudno, amin a siak ti goel, ngem adda met maysa a goel nga asingager ngem kaniak.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "itan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "pudno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ngem adda met"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "asingager"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ngem kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:05:03.530954409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Kinunana pay: Ita, kasta no kasasaad dagiti saom — ti mabirukan ⟨את⟩ kenkuana, agbalinna a adipen kaniak, ket dakayo ket agbalinkayo nga awan basol.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "no kasasaad dagiti saom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "mabirukan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalinna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "a adipen"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ket dakayo"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "agbalinkayo"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "awan basol"
+    }
+  ],
+  "timestamp": "2026-09-26T03:06:20.764991104Z",
+  "model": "glm-5.3"
+}

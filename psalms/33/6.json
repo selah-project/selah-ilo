@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Babaen iti sao ni Yahweh naparsua dagiti langit, ken babaen iti anges ti ngiwatna amin a buyotda.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Babaen iti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "naparsua"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ken babaen iti anges"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ti ngiwatna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "a buyotda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:08:30.013760976Z",
+  "model": "glm-5.3"
+}

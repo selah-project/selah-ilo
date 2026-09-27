@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ti aldaw iti aldaw agbukel iti sao, ket ti rabii iti rabii mangipakita ti ammo.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ti aldaw"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "agbukel iti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ket ti rabii"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "mangipakita"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ti ammo"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:52.964525602Z",
+  "model": "glm-5.3"
+}

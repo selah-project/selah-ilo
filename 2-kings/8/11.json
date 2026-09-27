@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Intakderanna ⟨את⟩ ti rupana ket insardengna agingga a nakabain, ket nagsangit ti tao ti Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Intakderanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupana"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ket insardengna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "בש",
+      "gloss": "a nakabain"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ket nagsangit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T13:38:17.669019408Z",
+  "model": "glm-5.3"
+}

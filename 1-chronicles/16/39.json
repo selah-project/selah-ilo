@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 16:39",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ken ⟨את⟩ ni Tsadok ti padi ken dagiti kabsatna a dagiti padi, iti sango ti Mishkan ni Yahweh, iti nangato a lugar a adda iti Givon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Tsadok ti padi"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ken dagiti kabsatna"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "iti nangato a lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "iti Givon"
+    }
+  ],
+  "timestamp": "2026-09-26T23:38:54.448230053Z",
+  "model": "glm-5.3"
+}

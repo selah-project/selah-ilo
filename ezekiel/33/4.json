@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "ket ti mamati, no nangngeg ⟨את⟩ ti timek ti shopar ket saan a nakaammu, ket immay ti tabak ken inalana, ti darana adda ⟨iti⟩ ulona.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ti mamati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti timek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "timek"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "ti shopar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "nakaammu"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ti tabak"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ti darana"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "iti ulona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adda"
+    }
+  ],
+  "timestamp": "2026-09-26T19:02:00.126950746Z",
+  "model": "glm-5.3"
+}

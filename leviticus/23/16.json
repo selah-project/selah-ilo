@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 23:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "agingga iti bigat kalpasan ti maikapito a Shabbat, bilangen yoyo ti limapulo nga aldaw, ket ipaay yoyo ti baro a daton a mina ken Yahweh.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "iti bigat kalpasan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ti Shabbat"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ti maikapito"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "bilangen yoyo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limapulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "ket ipaay yoyo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ti daton a mina"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "baro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ken Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:52:48.232214095Z",
+  "model": "glm-5.3"
+}

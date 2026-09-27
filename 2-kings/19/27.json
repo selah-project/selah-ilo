@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ti panagnanaedmo, ti panagruammo ken ti panagsublimo, ammok; ken ⟨את⟩ ti panagraragmo kadakuak.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ti panagnanaedmo"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ti panagruammo"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "ti panagsublimo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ammok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti panagraragmo"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ti panagraragmo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kadakuak"
+    }
+  ],
+  "timestamp": "2026-09-26T14:01:10.322176125Z",
+  "model": "glm-5.3"
+}

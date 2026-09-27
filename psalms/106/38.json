@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Ket ibinulodda ti dara ti awan basol, ti dara dagiti annakda a lallaki ken annakda a babbai, nga ipamarsuada kadagiti didiosen ti Kenaan, ket narugitan ti daga iti dara.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "ibinulodda"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ti awan basol"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "dagiti annakda a lallaki"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "ken annakda a babbai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ipamarsuada"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "kadagiti didiosen"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "ket narugitan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "iti dara"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:40.275342929Z",
+  "model": "glm-5.3"
+}

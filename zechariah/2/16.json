@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket tawidenni Yahweh ⟨את⟩ ni Yehudah a kas pasetna iti daga ti nasantuan, ket pilienna manen ti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "ket tawidenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "a kas pasetna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantuan"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ket pilienna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T20:26:11.079197126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "⟨את⟩ ti lamisaan ken ⟨את⟩ dagiti badana ken ⟨את⟩ amin a kasasaadanna ken ⟨את⟩ ti tinapay ti rupa;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lamisaan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ti lamisaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti badana"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dagiti badana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kasasaadanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a kasasaadanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tinapay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ti rupa"
+    }
+  ],
+  "timestamp": "2026-09-26T04:37:34.574053957Z",
+  "model": "glm-5.3"
+}

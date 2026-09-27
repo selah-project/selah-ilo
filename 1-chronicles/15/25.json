@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 15:25",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "ket napasamak, ni David ken dagiti lakay ti Yisrael ken dagiti daulo ti sangaribu — dagiti immay nga ipangato ⟨את⟩ ti arko ti tulag ni Yahweh manipud iti balay ni Oved-Edom — iti ragsak.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ken dagiti lakay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ken dagiti daulo"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ti sangaribu"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "dagiti immay"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "nga ipangato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "iti ragsak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:38:43.829582077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "NGEM ⟨את⟩ ti amin a pagarian saanakon a dadaelen; maysa a tribu ti itedko kadagiti anakmo, gapu kenn David nga adipenko, ken gapu kenn Yerushalayim a piniliak.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "NGEM"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a pagarian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "pagarian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "dadaelen"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "kadagiti anakmo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu kenn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nga adipenko"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ken gapu kenn"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "piniliak"
+    }
+  ],
+  "timestamp": "2026-09-26T12:46:49.388848755Z",
+  "model": "glm-5.3"
+}

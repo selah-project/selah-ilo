@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ni Yoel ti pangulu, ken ni Shafam ti maikadua, ken ni Yaanay ken ni Shafat, iti Bashan.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Ni Yoel"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti pangulu"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "ken ni Shafam"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "ken ni Yaanay"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ken ni Shafat"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "iti Bashan"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:38.733043486Z",
+  "model": "glm-5.3"
+}

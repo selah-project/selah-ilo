@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ken saan yo a mangitalinaed ti aniaman daytoy agingga iti bigat; ket ti naiwanan daytoy agingga iti bigat ket iti apoy yo tongoen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "yo a mangitalinaed"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ti aniaman daytoy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "ket ti naiwanan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "yo tongoen"
+    }
+  ],
+  "timestamp": "2026-09-26T03:45:23.838149563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "ket iti aldaw ti panangiuga yo iti ⟨את⟩ ti omer, agiparangyo kadagiti karnero a awan biddutna, anak ti maysa a tawen, a daton a mapuor kenni Yahweh:",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ket agiparangyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "ti panangiugayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ti omer"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "kadagiti karnero"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "awan biddutna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ti maysa a tawen"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "a daton a mapuor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:46:55.357276178Z",
+  "model": "glm-5.3"
+}

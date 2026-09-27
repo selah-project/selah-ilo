@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Nagliing ni Uriah iti sango ti balay ti ari ⟨את⟩ amin a dagiti adipen ti apona, ket saan a nagbaba iti balayna.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Nagliing"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a dagiti adipen ti apona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "a dagiti adipen"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ti apona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a nagbaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balayna"
+    }
+  ],
+  "timestamp": "2026-09-26T11:41:08.344719091Z",
+  "model": "glm-5.3"
+}

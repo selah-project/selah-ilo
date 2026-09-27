@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket immay isuna kenni apokanna, ket kinuna: Siasino ka, anakak? Ket ibagana kenniana ⟨את⟩ amin nga inaramidna kenniana ti lalaki.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "ket immay isuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "apokanna"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siasino"
+    },
+    {
+      "surface": "את",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anakak"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ibagana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kenniana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kenniana"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T23:04:29.759001686Z",
+  "model": "glm-5.3"
+}

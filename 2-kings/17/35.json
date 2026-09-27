@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Nangted iti ה maysa a tulag kenkuada ⟨אתם⟩ ni Yahweh ket binilinanda, a kuna: saankayo a maarereg kadagiti sabsabali a dios, ken saankayo a mangipalubos kadakuada, ken saankayo a mangserbi kadakuada, ken saankayo a mangsakripisio kadakuada.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "nangted iti maysa a tulag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "kenkuada"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tulag"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "binilinanda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saankayo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "a maarereg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kadagiti dios"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "sabsabali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saankayo"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "a mangipalubos"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saankayo"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "a mangserbi kadakuada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saankayo"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "a mangsakripisio"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T13:57:03.927566909Z",
+  "model": "glm-5.3"
+}

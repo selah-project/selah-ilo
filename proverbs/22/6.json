@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Issuromo ti anak no kasano ti dalan ⟨na⟩; uray no umadayen ⟨na⟩, saan na nga ibaybay-ay dayta.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "issuromo"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "על",
+      "gloss": "no kasano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ngiwat"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ti dalan na"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "umadayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ibaybay-ay"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:31.338600435Z",
+  "model": "glm-5.3"
+}

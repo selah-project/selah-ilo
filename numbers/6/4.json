@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Amin nga aldaw ti panangisina na, ti aniaman a maaramid manipud iti mula ti arak, manipud kadagiti bukel agingga iti ukis, saanna a makan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ti panangisina na"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ti aniaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "maaramid"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "manipud iti mula ti arak"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ti arak"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "manipud kadagiti bukel"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "זג",
+      "gloss": "iti ukis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a makan"
+    }
+  ],
+  "timestamp": "2026-09-26T06:12:41.459852530Z",
+  "model": "glm-5.3"
+}

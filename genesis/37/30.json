@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Nagsubli iti kabsatna ket kinuna: Awanen ti ubbing, ket siak — sadino ti mapanak?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kabsatna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ti ubbing"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "awanen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "בא",
+      "gloss": "mapanak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:52:43.233878979Z",
+  "model": "glm-5.3"
+}

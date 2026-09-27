@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Inala ti babai ⟨ti⟩ ⟨את⟩ dagiti dua a lalaki ket ilemmengna ida; ket kinuna: Kasta, immayda kaniak dagiti lalaki, ngem saan ko ammo no sadinonto ida.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Inala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dua a lalaki"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a lalaki"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "ilemmengna ida"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "באו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ko ammo"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "no sadinonto"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ida"
+    }
+  ],
+  "timestamp": "2026-09-26T08:55:56.785038274Z",
+  "model": "glm-5.3"
+}

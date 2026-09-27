@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Dagiti mangkan a balitok, tallopulo; dagiti mangkan a pirak iti maikadua a kita, uppat a gasut ken sangapulo; dagiti dadduma a bbasi, sangaribu.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "dagiti mangkan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tallopulo"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "dagiti mangkan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pirak"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "iti maikadua a kita"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ken sangapulo"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "dagiti bbasi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "dagiti dadduma"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sangaribu"
+    }
+  ],
+  "timestamp": "2026-09-26T23:21:11.235223065Z",
+  "model": "glm-5.3"
+}

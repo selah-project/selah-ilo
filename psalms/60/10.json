@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": "Ti Moab ket kalderasko a panagdigos; iti Edom iyallikko ti sapatokko; iti nakemko, Pelesheth, mangiragsakka.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Ti Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kalderas"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "panagdigosko"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "iyallikko"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ti sapatokko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti nakemko"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesheth"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "mangiragsakka"
+    }
+  ],
+  "timestamp": "2026-09-26T21:34:26.233036125Z",
+  "model": "glm-5.3"
+}

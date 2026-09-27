@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Immay iti Shomeron ken tinynayalna ⟨את⟩ ti amin a nabati kani Akhahab iti Shomeron, agingga iti pannakadadaelna, kas iti sao ni Yahweh a nagsao kennu Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "iti Shomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tinynayalna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a nabati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "a nabati"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kani Akhahab"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "iti Shomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "iti pannakadadaelna"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kas iti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-26T13:40:20.029954217Z",
+  "model": "glm-5.3"
+}

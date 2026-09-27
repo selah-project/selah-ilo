@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken dagiti anak ni Yediael: Bilhan; ken dagiti anak ni Bilhan: Yeush, ken Binyamin, ken Ehud, ken Kenaanah, ken Zetan, ken Tarshish, ken Aji-shahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ken dagiti anak"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "ni Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ken dagiti anak ni"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ken Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "ken Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "ken Kenaanah"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "ken Zetan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "ken Tarshish"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "ken Aji-shahar"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:59.065163451Z",
+  "model": "glm-5.3"
+}

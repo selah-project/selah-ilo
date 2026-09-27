@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ni Kayin ken ti datonna, saan nga inay-ayat; ket naginger ni Kayin unay, ket natnag ti rupana.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ni Kayin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ti datonna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "inay-ayat"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "naginger"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "ni Kayin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ti rupana"
+    }
+  ],
+  "timestamp": "2026-09-26T01:38:37.953127866Z",
+  "model": "glm-5.3"
+}

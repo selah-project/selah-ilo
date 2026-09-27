@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Inalana manipud kadagiti imada, inpormana ⟨את⟩ dayta iti pakaukit, ket inaramidna nga anak a baka a natunaw; ket kinanada: Dagitoy dagiti diosmo, Yisrael, a nangipayon kenka manipud iti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "manipud kadagiti imada"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "inpormana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (ti balitok)"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "iti pakaukit"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "nga anak a baka"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "a natunaw"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinanada"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "dagiti diosmo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "nangipayon kenka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T04:35:26.007771289Z",
+  "model": "glm-5.3"
+}

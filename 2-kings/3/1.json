@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 3:1",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ni Yehoram, anak ni Ahab, nangituray iti Yisrael iti Shomron, iti maikasangapulo ket walo a tawen ni Yehoshafat, ari ti Yehudah, ket nangituray kadagiti sangapulo ket dua a tawen.",
+  "tokens": [
+    {
+      "surface": "ויהורם",
+      "gloss": "ni Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "iti Shomron"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "ni Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ket nangituray"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T13:20:51.400095405Z",
+  "model": "glm-5.3"
+}

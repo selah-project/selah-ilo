@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Kinisenna nga agtalek dagiti lampara iti sango ni Yahweh, kas iti bilin ni Yahweh ⟨kaduak ni⟩ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "kinisenna nga agtalek"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "dagiti lampara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T04:49:09.718266686Z",
+  "model": "glm-5.3"
+}

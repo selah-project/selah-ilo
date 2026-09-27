@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket agdadael ti amin a balay ni Ahab, ket ikkatak manipud kenni Ahab ti agi-i iti diding, ken ti naserraan ken ti naibaba iti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "agdadael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ikkatak"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "manipud kenni Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "agi-i"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "iti diding"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "ken ti naserraan"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ken ti naibaba"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T13:33:15.010466437Z",
+  "model": "glm-5.3"
+}

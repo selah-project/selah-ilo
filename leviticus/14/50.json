@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ken patayenna ti ⟨את⟩ maysa a billit iti maysa a banga a daga, iti ngato ti danum a sibibiag.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "patayenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maysa a billit"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ti billit"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "banga"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "daga"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sibibiag"
+    }
+  ],
+  "timestamp": "2026-09-26T05:21:08.239550268Z",
+  "model": "glm-5.3"
+}

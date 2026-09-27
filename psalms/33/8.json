@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Agbutenganda manipud kenni Yahweh amin ⟨iti⟩ daga; agbutenganda kenkuana amin dagiti agnanaed iti tebel.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Agbutenganda"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "manipud kenni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "agbutenganda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "iti tebel"
+    }
+  ],
+  "timestamp": "2026-09-26T21:08:30.014125438Z",
+  "model": "glm-5.3"
+}

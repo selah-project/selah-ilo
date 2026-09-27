@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "No agtarayanto ti Mishkan, ibabanda dagiti Levita ⟨את⟩ ti Mishkan; ket no agkampanto ti Mishkan, ipatindoganda dagiti Levita ⟨את⟩ ti Mishkan; ket ti tiruar, ti umasideg, matayon.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "no agtarayanto"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "ibabanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mishkan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levita"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "ket no agkampanto"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "ipatindoganda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mishkan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levita"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ket ti tiruar"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ti umasideg"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "matayon"
+    }
+  ],
+  "timestamp": "2026-09-26T06:00:33.866147851Z",
+  "model": "glm-5.3"
+}

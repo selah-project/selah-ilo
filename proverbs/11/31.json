@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kitaen, ti nalinteg iti daga mabayadanna, no ti dakes ken ti mannakabasol pay!",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kitaen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mabayadanna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ken ti mannakabasol"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:54.285149487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 32:1",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ti pagtarakenan ket adu nga adda kadagiti anak ni Reuven ken kadagiti anak ni Gad, adu unay; ket nakitada ⟨את⟩ ti daga ni Yaazer ken ⟨את⟩ ti daga Gilad, ket samtan ti disso ket maysa a disso ti pagtarakenan.",
+  "tokens": [
+    {
+      "surface": "ומקנה",
+      "gloss": "ti pagtarakenan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak ni"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "ken kadagiti anak ni"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "adu unay"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga ni Yaazer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga Gilad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket samtan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ti disso"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "disso"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ti pagtarakenan"
+    }
+  ],
+  "timestamp": "2026-09-26T07:19:34.539895023Z",
+  "model": "glm-5.3"
+}

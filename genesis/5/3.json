@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket nagbiag ni Adam tallopulo ken sangagasut a tawen, ken nakaiputingna iti kapanunutan a kas iti bagi na ken kas iti ladawan na, ket tinawagnana ⟨את⟩ ti naganna a Shet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Ket nagbiag"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tallopulo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ken sangagasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ken nakaiputingna"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "iti kapanunutan a kas iti bagi na"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "ken kas iti ladawan na"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket tinawagnana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "שת",
+      "gloss": "a Shet"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:51.128879875Z",
+  "model": "glm-5.3"
+}

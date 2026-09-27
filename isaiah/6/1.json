@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Idi tawen ti ipupusay ni ari Uzziyahu, nakitak ni ⟨את⟩ Adonay nga agtugaw iti trono a nangato ken natayag, ket ti sikipan ti bakne ti bado kenkuana ket nangpunno ⟨את⟩ ti templo.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "idi tawen ti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ipupusay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzziyahu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Adonay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agtugaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "רם",
+      "gloss": "nangato"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ket natayag"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "ket ti sikipan ti bakne ti bado kenkuana"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "nangpunno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti templo"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ti templo"
+    }
+  ],
+  "timestamp": "2026-09-26T14:29:18.270616287Z",
+  "model": "glm-5.3"
+}

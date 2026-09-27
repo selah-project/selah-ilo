@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Tinulnoganda nak a kas danum ti amin nga aldaw; linikmutanda nak agkakaysa.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "tinulnoganda nak"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "a kas danum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "linikmutanda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nak"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "agkakaysa"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:01.984060678Z",
+  "model": "glm-5.3"
+}

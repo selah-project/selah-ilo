@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Saanmo nga ited, Yahweh, dagiti kaykayat ti dakes; ti bubululongna saanmo a paburbaruen, no kasta agngatoda. Selah",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nga ited"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "dagiti kaykayat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "ti bubululongna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "a paburbaruen"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "agngatoda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:39.954762630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 48:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Ken naisaysayatan kenni Yaakov, ken kinuna: Sadinoka, umay kadi ti anakmo a lalaki a ni Yosef. Nagpigsa ni Yisrael ket nagtugaw iti rabaw ti kama.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "naisaysayatan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kenni Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ken kinuna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sadinoka"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ti anakmo a lalaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "a ni Yosef"
+    },
+    {
+      "surface": "בא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "nagpigsa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagtugaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ti kama"
+    }
+  ],
+  "timestamp": "2026-09-26T03:16:48.187119568Z",
+  "model": "glm-5.3"
+}

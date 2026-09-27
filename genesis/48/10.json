@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Dagiti mata ni Yisrael natiddogdan gapu iti katandaan, saan a makakita; ket inlaona ⟨את⟩ dagitay kenuana, ket sinammitekanna dagitay, ket dinakeranna dagitay.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "dagiti mata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "natiddogdan"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "gapu iti katandaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "nakabael"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a makakita"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "inlaona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitay"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenuana"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ket sinammitekanna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dagitay"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "ket dinakeranna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dagitay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:13:15.166140987Z",
+  "model": "glm-5.3"
+}

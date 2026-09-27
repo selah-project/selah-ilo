@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Paras, Kush ken Put ⟨את⟩ kaduada; amin dagitoy addaan kalasag ken kasko.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ken Put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kaduada"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "amin dagitoy"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kalasag"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ken kasko"
+    }
+  ],
+  "timestamp": "2026-09-26T19:05:26.481891492Z",
+  "model": "glm-5.3"
+}

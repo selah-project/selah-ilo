@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 41:3",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ken ⟨את⟩ amin dagiti Yehudi a adda ⟨את⟩ kaduana, kenni ⟨את⟩ Gedalyahu iti Mitspah, ken ⟨את⟩ dagiti Kasdi a nasarakanda sadiay — ⟨את⟩ dagiti lallaki ti gubat — sinaky ni Yishmael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti Yehudi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "dagiti Yehudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaduana",
+      "marks": "dagiti Yehudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "iti Mitspah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Kasdi"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "dagiti Kasdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "a nasarakanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lallaki ti gubat"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sinaky"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ni Yishmael"
+    }
+  ],
+  "timestamp": "2026-09-26T17:31:19.923980134Z",
+  "model": "glm-5.3"
+}

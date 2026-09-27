@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Dagiti matayo ti nakita ⟨את⟩ ti aramid ni Yahweh iti Baal Peor: ta ti amin a lalaki a nagnada kalpasan ni Baal Peor, dinadaelna manipud iti tengngam ni Yahweh ti Elohimmo.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "Dagiti matayo"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ti nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "iti Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagnada"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "dinadaelna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohimmo"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "manipud iti tengngam"
+    }
+  ],
+  "timestamp": "2026-09-26T07:43:35.936203922Z",
+  "model": "glm-5.3"
+}

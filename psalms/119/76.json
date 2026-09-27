@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Adda koma, agkadua, ti hesedmo a mangliwa kaniak, kas iti imbagam kadagiti adipenmo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "adda koma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "agkadua"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "a mangliwa kaniak"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "kas iti imbagam"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kadagiti adipenmo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:32.760959815Z",
+  "model": "glm-5.3"
+}

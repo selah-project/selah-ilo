@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Nalemekak iti tuknaw, ken awan pagtakderan; immayak kadagiti naadalem a danum, ken ti tayon rinabawannak.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "nalemekak"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "tuknaw"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "pagtakderan"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "immayak"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "kadagiti naadalem"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a danum"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ken ti tayon"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "rinabawannak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:18.679231960Z",
+  "model": "glm-5.3"
+}

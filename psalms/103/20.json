@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Bendisionanyo ni Yahweh, dagiti anghelna, dagiti mannakabalin iti bileg, agaramid iti saona, nga agdengngeg iti timek ti saona.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bendisionanyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "dagiti anghelna"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "dagiti mannakabalin"
+    },
+    {
+      "surface": "כח",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iti saona"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "nga agdengngeg"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ti saona"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:55.838131881Z",
+  "model": "glm-5.3"
+}

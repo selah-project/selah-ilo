@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 97,
+  "translation": "Nangituray ni Yahweh; agragsak ti daga, agsadsadi la dagiti adu nga isla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "agragsak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "agsadsadi la"
+    },
+    {
+      "surface": "איים",
+      "gloss": "dagiti isla"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:38.875615288Z",
+  "model": "glm-5.3"
+}

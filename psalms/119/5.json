@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ah, no koma a naitakder dagiti dalanko nga salakniben dagiti lintegmo.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Ah, no koma"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "a naitakder"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dagiti dalanko"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "nga salakniben"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dagiti lintegmo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:30.512411357Z",
+  "model": "glm-5.3"
+}

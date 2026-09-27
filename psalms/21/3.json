@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ti kayat ti pusona initemo kenkuana, ket ti kiddaw ti bibigna saanmo a naiparit. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ti kayat"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "initemo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ket ti kiddaw"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ti bibigna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "a naiparit"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:26.809219103Z",
+  "model": "glm-5.3"
+}

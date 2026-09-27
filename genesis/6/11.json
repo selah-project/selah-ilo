@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket nadadael ti daga iti sango ni Elohim, ket napnuan ti daga iti raraw.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "ket nadadael"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango ni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ket napnuan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "iti raraw"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:24.310532811Z",
+  "model": "glm-5.3"
+}

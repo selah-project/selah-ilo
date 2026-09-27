@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 32:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ket nagsubli ni Moshe ket timmabok manipud iti bantay, ken dagiti dua a tabla ti Pammaksi iti imana — dagiti tabla a naisurat iti dua bangirna, manipud daytoy a bangir ken manipud dayta a bangir da naisurat.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Ket nagsubli"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "timmabok"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ken dagiti dua"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "a tabla"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ti Pammaksi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "dagiti tabla"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "a naisurat"
+    },
+    {
+      "surface": "משני",
+      "gloss": "iti dua"
+    },
+    {
+      "surface": "עבריהם",
+      "gloss": "bangirna"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "manipud daytoy"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ken manipud dayta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "naisurat"
+    }
+  ],
+  "timestamp": "2026-09-26T04:33:52.439354417Z",
+  "model": "glm-5.3"
+}

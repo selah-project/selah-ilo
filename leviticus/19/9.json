@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "No maminsan nga apitenyo ⟨את⟩ ti apit ti daganayo, saanmo a apiten amin ti patingga ti talonmo nga apiten, ken dagiti maipulot ti apitmo saanmo a puloten.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "no maminsan nga apitenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apit"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ti apit"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ti daganayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "apiten amin"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "patingga"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ti talonmo"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "nga apiten"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ken dagiti maipulot"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ti apitmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "puloten"
+    }
+  ],
+  "timestamp": "2026-09-26T05:35:04.742884121Z",
+  "model": "glm-5.3"
+}

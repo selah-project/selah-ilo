@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti masa ti ginget ti vision: apay kadi iti sika ita, ta immay aminmo kadagiti atep?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ti masa"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ti ginget"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ti vision"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kadi iti sika"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "immay"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "aminmo"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "kadagiti atep"
+    }
+  ],
+  "timestamp": "2026-09-26T14:50:36.283955099Z",
+  "model": "glm-5.3"
+}

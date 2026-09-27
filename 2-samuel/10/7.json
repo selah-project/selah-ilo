@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Nangngeg ni David, ket immulaana ⟨את⟩ ni Yoab ken ⟨את⟩ amin ti buyot dagiti mannakabalin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Nangngeg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ket immulaana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin ti buyot dagiti mannakabalin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "dagiti mannakabalin"
+    }
+  ],
+  "timestamp": "2026-09-26T11:39:26.037351671Z",
+  "model": "glm-5.3"
+}

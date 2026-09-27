@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kinunana: Ania ti basolk, ta sika ti agited ⟨את⟩ ti adipenmo iti ima ni Akhav, a mangipatay kaniak?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinunana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ti basolk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ti agited"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipenmo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Akhav"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "a mangipatay kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T13:01:50.652905763Z",
+  "model": "glm-5.3"
+}

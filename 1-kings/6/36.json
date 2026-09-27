@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket ipatakderna ⟨את⟩ ti kaunegan a kalmanaw: tallo a linia ti narebbeng a bato ken maysa a linia ti naisagana a tarikayo a sedro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ket ipatakderna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kaunegan a kalmanaw"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti kalmanaw"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "kaunegan"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "a linia"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "ti narebbeng a bato"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "ken maysa a linia"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "ti naisagana a tarikayo"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "a sedro"
+    }
+  ],
+  "timestamp": "2026-09-26T12:32:04.193040462Z",
+  "model": "glm-5.3"
+}

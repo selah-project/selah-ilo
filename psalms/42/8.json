@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ti naadalem agawag iti naadalem iti timek dagiti bumusbor a danummo; amin dagiti allonmo ken dagiti naadalem nga allonmo ti nakaballasiw kaniak.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Ti naadalem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "naadalem"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "agawag"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "dagiti bumusbor a danummo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "dagiti allonmo"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "ken dagiti naadalem nga allonmo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nakaballasiw"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:04.664541790Z",
+  "model": "glm-5.3"
+}

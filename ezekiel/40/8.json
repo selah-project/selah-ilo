@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket sinukatna ⟨את⟩ ti korredor ti tungus manipud iti balay, kawayan a maysa.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Ket sinukatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti korredor ti tungus"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ti korredor"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ti tungus"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kawayan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T19:16:29.516338947Z",
+  "model": "glm-5.3"
+}

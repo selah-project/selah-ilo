@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ket saanda a pagdakesenda ⟨את⟩ dagiti nasantuan a banag dagiti anak ni Yisrael, ⟨את⟩ dagiti itedda kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "a pagdakesenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti nasantuan a banag"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "dagiti nasantuan a banag"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti itedda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "itedda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:45:25.521072768Z",
+  "model": "glm-5.3"
+}

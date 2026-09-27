@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti dagiti anak ni Yosef: ti Efrayim, Elishama nga anak ni Ammihud; ti Menashe, Gamliel nga anak ni Pedahsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Ti dagiti anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ti Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ni Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ti Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "ni Pedahsur"
+    }
+  ],
+  "timestamp": "2026-09-26T05:58:39.653376949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 98,
+  "translation": "Agbunogkayo kenni Yahweh, amin a daga; agsangtakkayo ken agragsakayo ken agkankantakayo.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "agbunogkayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "agsangtakkayo"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "ken agragsakayo"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "ken agkankantakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:45.837994738Z",
+  "model": "glm-5.3"
+}

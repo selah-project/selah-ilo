@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ni Yaakov ket immutek ken imbagana: Ibagaam man ngarud ti naganmo. Ket imbagana: Apay a daytoy ti immutekam kadagiti naganko? Ket binendisionanna ⟨את⟩ isua idiay.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "immutek"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ken imbagana"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ibagaam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "man ngarud"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naganmo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "immutekam"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "kadagiti naganko"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "idiay"
+    }
+  ],
+  "timestamp": "2026-09-26T02:40:24.203801650Z",
+  "model": "glm-5.3"
+}

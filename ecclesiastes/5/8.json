@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken ti paruay ti daga iti amin: maysa nga ari iti maysa a talon ti agserbi.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ken ti paruay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "agserbi"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:15.692295968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ni Yaakov ket nagna iti dalanna, ket sinnumbanganda kenkuana dagiti mensahero ni Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "iti dalanna"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "sinnumbanganda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "dagiti mensahero"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T02:39:49.514862102Z",
+  "model": "glm-5.3"
+}

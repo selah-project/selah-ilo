@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Dagiti anak dagiti adipenmo agnaeddanda, ken ti putotda iti sangoam matarayaganto.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dagiti adipenmo"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "agnaeeddanda"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ken ti putotda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sangoam"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "matarayaganto"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:03.285721397Z",
+  "model": "glm-5.3"
+}

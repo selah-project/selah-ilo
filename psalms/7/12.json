@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ti Elohim a mangukom ket nalinteg, ket El a aggura iti amin nga aldaw.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "a mangukom"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "a aggura"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T20:41:44.053417861Z",
+  "model": "glm-5.3"
+}

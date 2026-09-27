@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ken ni Elasah nagputot ⟨את⟩ kenni Sismay, ket ni Sismay nagputot ⟨את⟩ kenni Shallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "ken ni Elasah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Sismay"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "kenni Sismay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "ket ni Sismay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kenni Shallum"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:45.849739051Z",
+  "model": "glm-5.3"
+}

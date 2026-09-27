@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket inurnong ni David ⟨את⟩ amin nga Yisrael manipud iti Shihor ti Mitsrayim agingga iti panagserrek ti Hamat, nga iyegda ⟨את⟩ ti arko ti Elohim manipud iti Kiryat-Yearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "inurnong"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin nga Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ngа Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shihor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "panagserrek"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ti Hamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "nga iyegda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko ti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "manipud iti Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-Yearim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:37:20.332285320Z",
+  "model": "glm-5.3"
+}

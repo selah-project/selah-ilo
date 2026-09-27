@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "a sadiay dagiti billit agnagneda; ti hasidah, dagiti kallantis ti balayna.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "dagiti billit"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "agnagneda"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "ti hasidah"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "kadagiti kallantis"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ti balayna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:28.256622691Z",
+  "model": "glm-5.3"
+}

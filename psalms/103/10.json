@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Saan a kas kadagiti basoltayo ti inaramidna kadatayo, ken saan a kas kadagiti daradtayo ti binayadna kadatayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "kas kadagiti basoltayo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadatayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "kas kadagiti daradtayo"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "binayadna"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadatayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:12.235176681Z",
+  "model": "glm-5.3"
+}

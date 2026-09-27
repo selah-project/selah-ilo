@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ket ipinatakderna maysa nga altar kenni Baal iti balay ti Baal a binangonna iti Shomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ket ipinatakderna"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "maysa nga altar"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kenni Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ti Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "binangonna"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "iti Shomron"
+    }
+  ],
+  "timestamp": "2026-09-26T13:00:14.130125998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "ket nalaak dagiti pagballasiwan, ken ⟨את⟩ dagiti latian sinarapuda iti apoy, ket dagiti lallaki ti gubat nabutengda.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "ket dagiti pagballasiwan"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "nalaak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti latian"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "dagiti latian"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "sinarapuda"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ket dagiti lallaki"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nabutengda"
+    }
+  ],
+  "timestamp": "2026-09-26T17:56:35.523172944Z",
+  "model": "glm-5.3"
+}

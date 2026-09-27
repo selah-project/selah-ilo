@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Inaramidna ⟨את⟩ ti altar ti natuno a daton iti kayo ti shitah; lima a suko ti kaatiddoganna ken lima a suko ti kalawaanna, kuadrado, ken tallo a suko ti katayagna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti altar ti natuno a daton"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natuno a daton"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "iti kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a suko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ti kaatiddoganna"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ken lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a suko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ti kalawaanna"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kuadrado"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ken tallo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a suko"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ti katayagna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:45:35.637446118Z",
+  "model": "glm-5.3"
+}

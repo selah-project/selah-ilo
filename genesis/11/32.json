@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Nagbiag ni Terakh: lima a tawen ken dua a gasut a tawen, ket natay ni Terakh iti Kharan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Nagbiag"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Dagiti aldaw"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ni Terakh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ken dua a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ni Terakh"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "iti Kharan"
+    }
+  ],
+  "timestamp": "2026-09-26T01:57:55.305065018Z",
+  "model": "glm-5.3"
+}

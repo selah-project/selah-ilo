@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 100,
+  "translation": "Ammoenyoyo a ni Yahweh ⟨isú⟩ ti Elohim; isu ti nangaramid kadakayo, ken saan a dakayo; dakayo ti umilina, ken karneo iti pagpastolanna.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "ammoenyoyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨isú⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ti nangaramid kadakayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ken karneo"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "iti pagpastolanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:57.248430510Z",
+  "model": "glm-5.3"
+}

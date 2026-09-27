@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "ket makitana ti goel ti dara ⟨את⟩ ti mammatay iti ruar ti patingga ti ili ti pagtagaananna, ket patayenna ti goel ti dara ⟨את⟩ ti mammatay; awanan basol ti dara kenkuana.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "makitana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti goel ti dara"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ti goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ti patingga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ti pagtagaananna"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "patayenna"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ti goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mammatay"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ti mammatay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "דם",
+      "gloss": "basol ti dara"
+    }
+  ],
+  "timestamp": "2026-09-26T07:27:13.620385165Z",
+  "model": "glm-5.3"
+}

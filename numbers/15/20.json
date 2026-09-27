@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti umuna a paset ti masa yo, ti maysa a tinapay a masa, itatangyo a kas daton; kas iti daton ti pagbaybayan, kasta nga itatangyo ⟨את⟩ dayta.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ti umuna a paset"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "ti masa yo"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ti maysa a tinapay a masa"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "itatangyo"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "a kas daton"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "kas iti daton"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ti pagbaybayan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta nga"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "itatangyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (ti tinapay a masa)"
+    }
+  ],
+  "timestamp": "2026-09-26T06:44:28.033498872Z",
+  "model": "glm-5.3"
+}

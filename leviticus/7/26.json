@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ti aniaman a dara, saan kayo a mangan iti amin a pagnaedanyo, iti billit ken iti ayup.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti aniaman"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kayo a mangan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "pagnaedanyo"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "iti billit"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ken iti ayup"
+    }
+  ],
+  "timestamp": "2026-09-26T05:06:01.160063947Z",
+  "model": "glm-5.3"
+}

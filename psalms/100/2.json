@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 100,
+  "translation": "Agserbikaday ⟨את⟩ kenni Yahweh iti ragsak; sumrekayo iti sanguana iti panagkanta.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "agserbikaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "iti ragsak"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sumrekayo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti sanguana"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "iti panagkanta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:57.248238920Z",
+  "model": "glm-5.3"
+}

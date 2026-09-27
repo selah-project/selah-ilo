@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Dagiti agsubsubli ti dakes imbes ti naimbag, nangibusoranda kaniak, ta agtultuloyak iti naimbag.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "Dagiti agsubsubli"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "imbes"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "nangibusoranda kaniak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "agtultuloyak iti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T21:13:28.072974967Z",
+  "model": "glm-5.3"
+}

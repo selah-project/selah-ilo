@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Dagiti annak ni Asher: Yimnah ken Yishvah ken Yishvi ken Beriah, ken Serakh nga kabsatda a babai.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Dagiti annak ni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "Yimnah"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "ken Yishvah"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "ken Yishvi"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ken Beriah"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "ken Serakh"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "nga kabsatda a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:16.289314999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti apistila — inkatmo amin dagiti dakes iti daga; gapu kenna, ayatek dagiti pamaneknekmo.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "apistila"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "inkatmo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "gapu kenna"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ayatek"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dagiti pamaneknekmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:51.508751550Z",
+  "model": "glm-5.3"
+}

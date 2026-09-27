@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ⟨את⟩ ni Izebel makan dagiti aso iti paset ti daga ti Yizreel, ket awan ti mangidulin ⟨iti nakem⟩. Ket linuktanna ti ruangan ket timmalipad.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ni Izebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "makan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dagiti aso"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "iti paset"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ti Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ti mangidulin ⟨iti nakem⟩"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ket linuktanna"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "timmalipad"
+    }
+  ],
+  "timestamp": "2026-09-26T13:33:39.227029789Z",
+  "model": "glm-5.3"
+}

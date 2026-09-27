@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ngem ti intero a Yisrael ken Yehudah ket ay-ayatenda ⟨את⟩ ni David, ta no rumuar ken sumrek ⟨isuna⟩ iti sangoanda.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ngem ti intero a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ken Yehudah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ay-ayatenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta no"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ken sumrek"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "iti sangoanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:03:18.443103669Z",
+  "model": "glm-5.3"
+}

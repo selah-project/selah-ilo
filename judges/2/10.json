@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket nainayon, ti intero a henerasion dayta ket naurnongda kadagiti ammada, ket dimmanggay ti sabali a henerasion kalpasanda, a saan nga ammo ⟨את⟩ ni Yahweh ken ⟨את⟩ ti aramid a kinuna nga aramidenna para iti Yisrael, ngem ti naisurat: ammo ti aramidna — ti patarus a literal: ti aramid a naaramid para iti Yisrael, ket naisurat a saan nga ammo ni Yahweh",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ket nainayon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "intero a"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "henerasion"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "naurnongda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ammada"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dimmanggay"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasion"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sabali a"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "kalpasanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan nga"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramid"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para iti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T09:35:24.187395428Z",
+  "model": "glm-5.3"
+}

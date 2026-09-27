@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket intuldongna ⟨את⟩ ni Eljakim a agtigturay iti balay, ken ni Shevna ti mannurat, ken ⟨את⟩ dagiti lakay a padi a nagkulkulkulbos iti sako, ken ni Yeshayahu ti propeta, anak ni Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "intuldongna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Eljakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "ni Eljakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "agtigturay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "ken ni Shevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ti mannurat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti lakay a padi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a padi"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "a nagkulkulkulbos"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "iti sako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ni Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ti propeta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ni Amots"
+    }
+  ],
+  "timestamp": "2026-09-26T14:00:55.195009856Z",
+  "model": "glm-5.3"
+}

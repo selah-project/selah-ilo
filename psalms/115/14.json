@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 115,
+  "translation": "Mangnayon ni Yahweh kadakayo, kadakayo ken kadagiti annakyo.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "mangnayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "annakyo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:22.495052052Z",
+  "model": "glm-5.3"
+}

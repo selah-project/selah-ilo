@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 126,
+  "translation": "Agsublika, O Yahweh, ⟨את⟩ ti panangsublikmi, a kas dagiti agayus a danum idiay Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Agsublika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panangsublikmi"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ti panangsublikmi"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "a kas dagiti agayus a danum"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "idiay Negev"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:24.094785866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Makulang kadi siak kadagiti aginuka, a idiyegyo ⟨את⟩ daytoy nga aginuka idiay sangoak? Umay kadi daytoy iti balayko?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Makulang"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "kadagiti aginuka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "idiyegyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "nga aginuka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "idiay sangoak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "יָבֹא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "balayko"
+    }
+  ],
+  "timestamp": "2026-09-26T11:04:51.649203946Z",
+  "model": "glm-5.3"
+}

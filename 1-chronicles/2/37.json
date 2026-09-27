@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ken ni Zabad nagputot ⟨את⟩ kenni Eflal, ket ni Eflal nagputot ⟨את⟩ kenni Oved;",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ken ni Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "kenni Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ket ni Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "kenni Oved"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:45.848729134Z",
+  "model": "glm-5.3"
+}

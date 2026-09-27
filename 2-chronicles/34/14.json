@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 34:14",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Idi ipuaranda ⟨את⟩ ti pirak a naipen iti balay ni Yahweh, nakita ni Khilkiyahu ti padi ⟨את⟩ ti libro ti torah ni Yahweh iti ima ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ובהוציאם",
+      "gloss": "idi ipuaranda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pirak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "naipen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ni Khilkiyahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti libro"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ti libro"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ti torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T23:56:51.516198869Z",
+  "model": "glm-5.3"
+}

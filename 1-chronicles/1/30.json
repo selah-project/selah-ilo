@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Mishma, ken Dumah, Massa, Khadad, ken Tema.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "Mishma"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ken Dumah"
+    },
+    {
+      "surface": "משא",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "Khadad"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ken Tema"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:04.315457097Z",
+  "model": "glm-5.3"
+}

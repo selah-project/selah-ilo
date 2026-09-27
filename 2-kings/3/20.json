@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket napasamak iti bigat, iti panangited ti minchah, ket iyawat, adda danum nga ummay manipud iti dalan ti Edom, ket napnuan ti daga ⟨את⟩ ti danum.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "iti panangited"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ti minchah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket iyawat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "adda danum"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nga ummay"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "manipud iti dalan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ket napnuan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti danum"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T13:21:35.998779221Z",
+  "model": "glm-5.3"
+}

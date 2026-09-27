@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Saemmo ti gimong, nga ar-aramaten: Sumangkaykayo manipud iti lawlaw ti pagagnaedan ni Korach, Daton ken Abiram.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "saemmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga ar-aramaten"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "sumangkaykayo"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "manipud iti lawlaw"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ti pagagnaedan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Daton"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "ken Abiram"
+    }
+  ],
+  "timestamp": "2026-09-26T06:41:38.334947593Z",
+  "model": "glm-5.3"
+}

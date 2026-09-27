@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 76,
+  "translation": "Sika, sika ti nakamabuteng, ken asinonto ti agtakder iti sangoam manipud idi ti riroam?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ti nakamabuteng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ken asinonto"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ti agtakder"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sangoam"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "manipud idi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ti riroam"
+    }
+  ],
+  "timestamp": "2026-09-26T21:50:42.393449844Z",
+  "model": "glm-5.3"
+}

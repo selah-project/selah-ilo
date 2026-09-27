@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kinuna: Saanka kadi a mangibbet kadakami ⟨את⟩, ta ammom ti panagsardengmi iti desierto, ket agbalinka a mata kadakami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "mangibbet"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kadakami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ammom"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "panagsardengmi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti desierto"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "agbalinka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "a mata"
+    }
+  ],
+  "timestamp": "2026-09-26T06:27:03.102034890Z",
+  "model": "glm-5.3"
+}

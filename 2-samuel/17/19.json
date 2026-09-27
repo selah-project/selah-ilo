@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Kinuana ti babai ket inwarasna ⟨את⟩ ti abbong iti sango ti balon, ket inwarasna met iti rabawna ti inidda a bagas, ket saan a naammoan ti sao.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "ket inwarasna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti abbong"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ti abbong"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sango"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "ti balon"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "ket inwarasna met"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti rabawna"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "ti inidda a bagas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "a naammoan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    }
+  ],
+  "timestamp": "2026-09-26T11:56:59.956674787Z",
+  "model": "glm-5.3"
+}

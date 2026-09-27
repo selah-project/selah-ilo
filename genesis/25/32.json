@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Kinuna ni Esav: Kitaem, siak ket mapan agmatay, ket apay daytoy kaniak — ti kas umuna nga anak?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mapan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "agmatay"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ket apay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "ti kas umuna nga anak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:23:21.329450422Z",
+  "model": "glm-5.3"
+}

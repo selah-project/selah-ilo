@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Inganasi ti tao ti nagnaan kadagiti amin a taraban, kadagiti billit ti langit ken kadagiti amin nga ayup ti talon; ngem iti tao saan a nabirukan ti tumulong a makitukumpas kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inganasi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ti nagnaan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "a taraban"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "kadagiti billit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ken kadagiti amin"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nga ayup"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "ngem iti tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "a nabirukan"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ti tumulong"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "a makitukumpas kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:51.622887180Z",
+  "model": "glm-5.3"
+}

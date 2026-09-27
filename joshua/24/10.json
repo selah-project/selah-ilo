@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Saanak a nagayat nga dengngegen ni Bilam, ket binendisionanna ⟨אתכם⟩ nga addan, ken inyaliek ⟨אתכם⟩ manipud iti imana.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "nagayatak"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "nga dengngegen"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "ni Bilam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "nga addan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "inaliek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "manipud iti imana"
+    }
+  ],
+  "timestamp": "2026-09-26T09:31:53.001961507Z",
+  "model": "glm-5.3"
+}

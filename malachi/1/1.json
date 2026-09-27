@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti pabelleng ti sao ni Yahweh iti Yisrael babaen iti im ni Malakhi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ti pabelleng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen iti im"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ni Malakhi"
+    }
+  ],
+  "timestamp": "2026-09-26T20:40:06.668615990Z",
+  "model": "glm-5.3"
+}

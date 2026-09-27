@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Agkantakami iti salakanmo, ken iti nagan ti Elohimtayo agbandilakami — ni Yahweh mangporme iti amin a kiddawmo.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "agkantakami"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "iti salakanmo"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ken iti nagan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "agbandilakami"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "mangporme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "a kiddawmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:11.086103138Z",
+  "model": "glm-5.3"
+}

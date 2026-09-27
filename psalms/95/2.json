@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 95,
+  "translation": "Agsumbangirkami iti rupana agraman iti panagyaman, iti dagiti kanta agsingsingakami kenkuana.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Agsumbangirkami"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iti rupana"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "agraman iti panagyaman"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "iti dagiti kanta"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "agsingsingakami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:04.577849110Z",
+  "model": "glm-5.3"
+}

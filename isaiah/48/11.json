@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Lemaan kaniak, lemaan kaniak, aramidenko dayta; ta kasano a madadael? ken ti daydayawko, iti sabali, saan a itedko.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "lemaan kaniak"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "lemaan kaniak"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aramidenko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kasano"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "a madadael"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ken ti daydayawko"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "iti sabali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "a itedko"
+    }
+  ],
+  "timestamp": "2026-09-26T15:32:22.729510375Z",
+  "model": "glm-5.3"
+}

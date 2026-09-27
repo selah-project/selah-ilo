@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Kitaem ti tulag, ta napnuan dagiti sipnget a lugar ti daga kadagiti pagtaengan ti ranggas.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napnuan"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "dagiti sipnget a lugar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "kadagiti pagtaengan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ti ranggas"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:48.390818997Z",
+  "model": "glm-5.3"
+}

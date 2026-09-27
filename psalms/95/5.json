@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 95,
+  "translation": "Ti baybay ti kukuaanna, ken isu ti nangaramid ⟨iti dayta⟩, ken dagiti imana ti nangiporma iti ⟨ti⟩ namaga a daga.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kukuaanna"
+    },
+    {
+      "surface": "הים",
+      "gloss": "baybay"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ken isu"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "nangaramid iti dayta"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "ken ti namaga a daga"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "dagiti imana"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "nangiporma"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:13.842294095Z",
+  "model": "glm-5.3"
+}

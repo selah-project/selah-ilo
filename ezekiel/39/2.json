@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 39:2",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Pagsublikanto ken paginemkanto, ken ipangatokanto manipud kadagiti kaadayoan nga apit ti amianan, ken ipanakanto kadagiti bantay ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושבבתיך",
+      "gloss": "Pagsublikanto"
+    },
+    {
+      "surface": "וששאתיך",
+      "gloss": "paginemkanto"
+    },
+    {
+      "surface": "והעליתיך",
+      "gloss": "ipangatokanto"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "manipud kadagiti kaadayoan"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ti amianan"
+    },
+    {
+      "surface": "והבאותיך",
+      "gloss": "ipanakanto"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T19:09:31.993446154Z",
+  "model": "glm-5.3"
+}

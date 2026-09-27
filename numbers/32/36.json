@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "ken ⟨ti⟩ Beth-Nimrah ken ⟨ti⟩ Beth-Haran, dagiti ili a nasiribngatan, ken dagiti koralan ti karnero.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Beth-Nimrah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimrah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Beth-Haran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "a nasiribngatan"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "ken dagiti koralan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ti karnero"
+    }
+  ],
+  "timestamp": "2026-09-26T07:15:36.685600168Z",
+  "model": "glm-5.3"
+}

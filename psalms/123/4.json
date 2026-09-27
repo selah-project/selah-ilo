@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 123,
+  "translation": "Nakaadu ti panagbusor ti kararuantayo iti pangngaraw kadagiti agin-inana, iti baya-aw kadagiti ngato unay.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Nakaadu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ti panagbusor"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ti kararuantayo"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "iti pangngaraw"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "kadagiti agin-inana"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "iti baya-aw"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "kadagiti ngato unay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:32.241183056Z",
+  "model": "glm-5.3"
+}

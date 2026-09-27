@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Dagiti anak ni Kham: Kush, ken Mitsrayim, Put, ken Kenaan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Kham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ken Mitsrayim"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ken Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:13.471094819Z",
+  "model": "glm-5.3"
+}

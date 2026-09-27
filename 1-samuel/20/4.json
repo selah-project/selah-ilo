@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket kinuna ni Yehonatan kenni David: Ania ti kayat ti kararua a mammo, ket aramidenko ⟨iti⟩ kadakam?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ti kayat"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ket aramidenko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kadakam"
+    }
+  ],
+  "timestamp": "2026-09-26T11:00:55.866305277Z",
+  "model": "glm-5.3"
+}

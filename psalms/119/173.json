@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti imam koma ti tumulong kaniak, ta dagiti bilinmo ti piniliak.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "koma ti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "ti tumulong kaniak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ti piniliak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:33.996081758Z",
+  "model": "glm-5.3"
+}

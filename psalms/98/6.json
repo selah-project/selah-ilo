@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 98,
+  "translation": "Dagiti trumpeta ken ti timek ti shofar, agpukaw kayo iti sanguan ti ari, ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Dagiti trumpeta"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ken ti timek"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ti shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "agpukaw kayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:49.721427469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ita ti koma, Yahweh nga Elohimko, sika ti nangituray ⟨iti⟩ adipenmo a kasukat ni David nga amaik, ket siak ket bassit pay a ubbing, saan ko a mammo ti panagruwar ken ti panagsubli.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ita ti koma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga Elohimko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adipenmo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "iti adipenmo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a kasukat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nga amaik"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ubbing"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "bassit pay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ko a mammo"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ti panagruwar"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ken ti panagsubli"
+    }
+  ],
+  "timestamp": "2026-09-26T12:25:25.011116532Z",
+  "model": "glm-5.3"
+}

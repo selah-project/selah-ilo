@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Nagpaay ni Aharon iti altar, ket pinatayna ⟨ti⟩ ⟨את⟩ bassit a baka, ti basol a daton a para kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nagpaay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "pinatayna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bassit a baka"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "bassit a baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ti basol a daton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T05:10:32.840721043Z",
+  "model": "glm-5.3"
+}

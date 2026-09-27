@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ikkatmo ti bunagmo manipud kaniak; gapu iti panagsupiat ti imam siak ket naibusak.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Ikkatmo"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "manipud kaniak"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "ti bunagmo"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "iti panagsupiat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "naibusak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:14:43.599734791Z",
+  "model": "glm-5.3"
+}

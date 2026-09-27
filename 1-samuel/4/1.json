@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Napasamak ti sao ni Shemuel a maipan iti amin a Yisrael, ket immay ti Yisrael a makitkita kadagiti Pelishtio iti gubat, ket nagkamparda iti asideg ti Eben-ha-Ezer, ket dagiti Pelishtio ket nagkamparda iti Apek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a maipan iti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "a makitkita"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "kadagiti Pelishtio"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ket nagkamparda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti asideg"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ti Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ket dagiti Pelishtio"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "nagkamparda"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "iti Apek"
+    }
+  ],
+  "timestamp": "2026-09-26T10:31:54.518474521Z",
+  "model": "glm-5.3"
+}

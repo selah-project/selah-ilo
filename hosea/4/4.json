@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ngem ti tao, saanna a ribongan, ken saanna a kanungpalan ti tao; ket ti umilim ket kas kadagiti agribong iti padi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "a ribongan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saanna"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "a kanungpalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ket ti umilim"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "kas kadagiti agribong iti"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "padi"
+    }
+  ],
+  "timestamp": "2026-09-26T19:33:07.373752606Z",
+  "model": "glm-5.3"
+}

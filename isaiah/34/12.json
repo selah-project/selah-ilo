@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Dagiti nadaydayawanna ket awan sadiay a maawagan iti pagariuan; ken amin dagiti pangulina ket agbalin nga awan.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "dagiti nadaydayawanna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "iti pagariuan"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "a maawagan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "dagiti pangulina"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "nga awan"
+    }
+  ],
+  "timestamp": "2026-09-26T15:13:16.872567132Z",
+  "model": "glm-5.3"
+}

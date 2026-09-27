@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Ipabadosko ti langit iti nangisit, ken ti sako ti ikabilko a kas abbongda.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Ipabadosko"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "iti nangisit"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ken ti sako"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ti ikabilko"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "a kas abbongda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:51:35.515054309Z",
+  "model": "glm-5.3"
+}

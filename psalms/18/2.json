@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kinuna: Ayatenka, a Yahweh, bilegk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Ayatenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "bilegk"
+    }
+  ],
+  "timestamp": "2026-09-26T20:54:19.384365182Z",
+  "model": "glm-5.3"
+}

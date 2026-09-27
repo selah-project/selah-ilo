@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Dagiti adu a pastol dinadaelda ti talonk ti ubas, dippigenda ⟨את⟩ ti pasetko, inydan ⟨את⟩ ti paset a kaykayatko iti tangatang, a Nagbalin ⟨a⟩ Nasagana.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "dagiti pastol"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "dinadaelda"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ti talonk ti ubas"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "dippigenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pasetko"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "ti pasetko"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "inydan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti paset a kaykayatko"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ti paset"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "a kaykayatko"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "iti tangatang"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "a Nasagana"
+    }
+  ],
+  "timestamp": "2026-09-26T16:39:51.231982413Z",
+  "model": "glm-5.3"
+}

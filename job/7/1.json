@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Saan kadi nga adda bilin a panagserbi ti tao iti daga, ket dagiti aldawna a kas iti dagiti aldaw ti agtrabaho iti bayad?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "bilin a panagserbi"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "ket a kas iti dagiti aldaw"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ti agtrabaho iti bayad"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dagiti aldawna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:49:25.672256724Z",
+  "model": "glm-5.3"
+}

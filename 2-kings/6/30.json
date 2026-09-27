@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Napasamak, idi nangngeg ti ari ⟨את⟩ dagiti sao ti babai, rinsanna ⟨את⟩ dagiti badonana idi agballasiw iti rabaw ti diding, ken nakita ti umili, ken, adu, ti sako iti lasagna iti uneg.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "idi nangngeg"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "rinsanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti badona"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "dagiti badona"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "idi isu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "agballasiw"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "ti diding"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ken, adu"
+    },
+    {
+      "surface": "השק",
+      "gloss": "ti sako"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lasagna"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iti uneg"
+    }
+  ],
+  "timestamp": "2026-09-26T13:30:30.657808398Z",
+  "model": "glm-5.3"
+}

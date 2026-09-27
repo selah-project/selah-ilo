@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Sinurotna ni David, isuna ken uppat a gasut a lallaki; ket nagtakderda dua a gasut a lallaki, a naepdekan, nga agballasiw ⟨את⟩ ti karayan ti Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "sinurotna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ken uppat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lallaki"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ket nagtakderda"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua a gasut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lallaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "naepdekan"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "nga agballasiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karayan"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "ti Besor"
+    }
+  ],
+  "timestamp": "2026-09-26T11:17:22.094725443Z",
+  "model": "glm-5.3"
+}

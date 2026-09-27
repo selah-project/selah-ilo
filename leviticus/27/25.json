@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ken ti amin a pategmo ket adda ⟨iti⟩ shekel ti nasantuan ⟨a lugar⟩; duapulo a gera ti shekel.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "pategmo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "iti shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantuan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "ti shekel"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:42.000438569Z",
+  "model": "glm-5.3"
+}

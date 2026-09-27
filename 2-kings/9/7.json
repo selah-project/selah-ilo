@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket patayenmo ⟨את⟩ ti balay ni Ahab ti apom, ket mangibalesak ti dara dagiti adipenko a propeta, ken ti dara amin dagiti adipen ni Yahweh, manipud iti ima ni Izebel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "patayenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ti apom"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "ket mangibalesak"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dagiti adipenko"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "a propeta"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "ken ti dara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dagiti adipen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ni Izebel"
+    }
+  ],
+  "timestamp": "2026-09-26T13:33:15.009629390Z",
+  "model": "glm-5.3"
+}

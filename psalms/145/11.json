@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Ti daydayaw ti pagarianmo ibagada, ken ti bilegmo agsaonda.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "daydayaw"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ti pagarianmo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ibagada"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ken ti bilegmo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "agsaonda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:08.917523555Z",
+  "model": "glm-5.3"
+}

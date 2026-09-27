@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Pinanawanda ni ⟨את⟩ Yahweh, ket nagserbida kenni Baal ken kenni Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "pinanawanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "nagserbida"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kenni Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "ken kenni Ashtarot"
+    }
+  ],
+  "timestamp": "2026-09-26T09:35:42.287112766Z",
+  "model": "glm-5.3"
+}

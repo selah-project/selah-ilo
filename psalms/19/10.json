@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ti panagbuteng ken ni Yahweh nadalus, agtakkder nga agnanayon; dagiti ukom ni Yahweh pudnoda, nalintegda amin a maingping.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Ti panagbuteng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ken ni Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "nadalus"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "agtakkder"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ngaanayon"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dagiti ukom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pudnoda"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "nalintegda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "amin a maingping"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:00.494294675Z",
+  "model": "glm-5.3"
+}

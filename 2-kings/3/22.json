@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket immayda a nasapa iti bigat, ket ti init naglawag iti rabaw ti danum, ket nakita ti Moab manipud iti sumungbat ⟨את⟩ ti danum a nalabbasit a kas dara.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ket immayda a nasapa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "ket ti init"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "naglawag"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "manipud iti sumungbat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti danum"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "a nalabbasit"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "a kas dara"
+    }
+  ],
+  "timestamp": "2026-09-26T13:22:53.102040708Z",
+  "model": "glm-5.3"
+}

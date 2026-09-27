@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ti ⟨את⟩ dagiti bado ti panagserbi a pagserbian iti Kasantoan, ti ⟨את⟩ dagiti nasantuan a bado kenn Aharon ti padi, ket ti ⟨את⟩ dagiti bado dagiti anakna a mangpadi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bado"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "ti panagserbi"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "a pagserbian"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti Kasantoan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti nasantuan a bado"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kenn Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bado dagiti anakna"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a mangpadi"
+    }
+  ],
+  "timestamp": "2026-09-26T04:48:58.036510922Z",
+  "model": "glm-5.3"
+}

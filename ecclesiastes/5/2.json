@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ta ti inap umay iti kaadu ti aramid, ken ti timek ti awan sirsib iti kaadu dagiti sao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ti inap"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "iti kaadu"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ken ti timek"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ti awan sirsib"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "iti kaadu"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "dagiti sao"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:07.642120910Z",
+  "model": "glm-5.3"
+}

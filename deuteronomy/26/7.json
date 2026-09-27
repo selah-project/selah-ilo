@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Immawag kami ken ni Yahweh, ti Elohim dagiti ama tayo, ket nangngeg ni Yahweh ⟨את⟩ ti timekmi, ket nakita ⟨את⟩ ti panagrigatmi ken ⟨את⟩ ti panagbannogmi ken ⟨את⟩ ti panagsakopmi.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "immawag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "dagiti ama tayo"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti timekmi"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "ti timekmi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagrigatmi"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ti panagrigatmi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti panagbannogmi"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ti panagbannogmi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti panagsakopmi"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "ti panagsakopmi"
+    }
+  ],
+  "timestamp": "2026-09-26T08:23:13.987750233Z",
+  "model": "glm-5.3"
+}

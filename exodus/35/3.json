@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Saanyo a sursuruten ti apoy kadagiti amin a pagtaenganyo iti aldaw ti Shabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "sursurutenyo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "pagtaenganyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ti Shabbat"
+    }
+  ],
+  "timestamp": "2026-09-26T04:39:14.700935308Z",
+  "model": "glm-5.3"
+}

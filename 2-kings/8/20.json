@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Idi dagiti aldawna immaway ti Edom manipud iti baba ti ima ti Yehudah, ket impangturayda kadakuada ti ari.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "idi dagiti aldawna"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "immaway"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "manipud iti baba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ti ima"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ket impangturayda"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T13:35:38.827533933Z",
+  "model": "glm-5.3"
+}

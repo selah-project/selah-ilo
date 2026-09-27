@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Siak ti nangaramid ⟨ti⟩ daga, ket ti tao iti rabawna siak ti nangparsua; siak — dagiti imak ti nangpalawa ⟨ti⟩ langit, ken ti amin a buyorna bilinak.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nangaramid"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ket ti tao"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iti rabawna"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "nangparsua"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dagiti imak"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "nangpalawa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "buyorna"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "bilinak"
+    }
+  ],
+  "timestamp": "2026-09-26T15:33:16.761004439Z",
+  "model": "glm-5.3"
+}

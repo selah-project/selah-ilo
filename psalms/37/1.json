@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ti Salmo ni David. Saanmo nga agsidaorang kadagiti dakes, saanmo nga ag-ingget kadagiti agaramid iti di-linteg.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti Salmo ni David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "agsidaorang"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "kadagiti dakes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ag-ingget"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "kadagiti agaramid"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "iti di-linteg"
+    }
+  ],
+  "timestamp": "2026-09-26T21:11:59.954661925Z",
+  "model": "glm-5.3"
+}

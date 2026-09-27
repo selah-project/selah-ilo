@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 9:12",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ni Shelomoh a ti ari ket itedna iti reyna ti Sheba ⟨את⟩ amin a kayatna, aniaman a dimandaanna, iti pannakainaig iti naiyeganna kenni ti ari; ket agsubli ken nagna nga mapan iti daga na, isu ken dagiti adipenna.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ken ti ari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "למלכת",
+      "gloss": "iti reyna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חפצה",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "dimandaanna"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "iti pannakainaig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "naiyeganna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ותהפך",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "לארצה",
+      "gloss": "nga mapan iti daga"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ועבדיה",
+      "gloss": "ken dagiti adipenna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:45:39.575370673Z",
+  "model": "glm-5.3"
+}

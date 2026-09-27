@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Insaruna ti pangulo dagiti mangipaay iti inum ⟨את⟩ ti linnawawana kenni Yosef, ket kinunana kenkuana: Iti linnawawak, ket aduy, maysa a mula nga ubas iti sanguanak.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "insaruna"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti pangulo"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "dagiti mangipaay iti inum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti linnawawana"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "ti linnawawana"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kenni Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "iti linnawawak"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket aduy"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "mula nga ubas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:56:10.385684429Z",
+  "model": "glm-5.3"
+}

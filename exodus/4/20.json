@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Inala ni Moshe ⟨את⟩ ti asawana ken ⟨את⟩ dagiti anakna, ket inpangkaarida iti buriko, ket nagsubli iti daga ti Mitsrayim; ket inala ni Moshe ⟨את⟩ ti baston ni Elohim iti imana.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "inala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti asawana"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ti asawana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anakna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "inpangkaarida"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "buriko"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baston"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ti baston"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "iti imana"
+    }
+  ],
+  "timestamp": "2026-09-26T03:30:10.983241981Z",
+  "model": "glm-5.3"
+}

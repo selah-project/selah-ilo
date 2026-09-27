@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken pinatakderna ⟨את⟩ dagiti poste iti sango ti templo, maysa iti kannawan ken maysa iti kabbalabbatan, ket ti nagan ti kannawanna inkunana Yakhin, ket ti nagan ti kabbalabbatanna Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "pinatakderna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti poste"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "dagiti poste"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti sango"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ti templo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "iti kannawan"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ken maysa"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "iti kabbalabbatan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket ti nagan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ti kannawanna"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ket ti nagan"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "ti kabbalabbatanna"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-26T23:42:30.817096125Z",
+  "model": "glm-5.3"
+}

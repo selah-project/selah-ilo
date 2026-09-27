@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "ket ni Shallum nagputot ⟨את⟩ ni Khilkiyah, ket ni Khilkiyah nagputot ⟨את⟩ ni Azarjah",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ket ni Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khilkiyah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Khilkiyah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ket ni Khilkiyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:53.277892825Z",
+  "model": "glm-5.3"
+}

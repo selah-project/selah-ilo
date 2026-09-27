@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 5:18",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Dakes kadakayo, dagiti mangawit ti kadakesan babaen kadagiti lubid ti inutil, ken kas iti nakaro a lubid ti karison, ti basol.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Dakes kadakayo"
+    },
+    {
+      "surface": "משכי",
+      "gloss": "dagiti mangawit"
+    },
+    {
+      "surface": "העון",
+      "gloss": "ti kadakesan"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "babaen kadagiti lubid"
+    },
+    {
+      "surface": "השוא",
+      "gloss": "ti inutil"
+    },
+    {
+      "surface": "וכעבות",
+      "gloss": "ken kas iti nakaro a lubid"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ti karison"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "ti basol"
+    }
+  ],
+  "timestamp": "2026-09-26T22:07:30.010505685Z",
+  "model": "glm-5.3"
+}

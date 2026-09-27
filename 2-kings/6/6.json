@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kinuna ti tao ti Elohim, Sadinon natnag? Ket inipakitana ⟨את⟩ ti disso, ket kinitanna ti kayo ket inilonna sadiay, ket naglutang ti landok.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "sadinon"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "inipakitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti disso"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ti disso"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "kinitanna"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ti kayo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "inilonna"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "naglutang"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ti landok"
+    }
+  ],
+  "timestamp": "2026-09-26T13:23:56.750645893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna ken ⟨את⟩ ti dagdagaraanna, ⟨את⟩ Nahalal ken ⟨את⟩ ti dagdagaraanna — uppat nga ili.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti dagdagaraanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ti dagdagaraanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti dagdagaraanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ti dagdagaraanna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ngaan ili"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    }
+  ],
+  "timestamp": "2026-09-26T09:24:26.178203311Z",
+  "model": "glm-5.3"
+}

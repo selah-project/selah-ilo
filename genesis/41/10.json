@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Naak-ak ni Paroh kadagiti adipenna ket inna ikabil ⟨את⟩ siak iti pagbaludan, iti balay ti opisial dagiti agipapatay — ⟨את⟩ siak ken ⟨את⟩ ti opisial dagiti agtitinapay.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "naak-ak"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "adipenna"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "inna ikabil"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "siak"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "iti pagbaludan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti opisial"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "dagiti agipapatay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ siak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti opisial dagiti agtitinapay"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti opisial"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "dagiti agtitinapay"
+    }
+  ],
+  "timestamp": "2026-09-26T02:58:41.866753199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken intono umay ti aldaw, nagtaray daytoy: ni Elkana ket nangbaknang iti sakripisio, ket itedna kenni Penina asawana ken kadagiti amin nga annakna a lalaki ken annakna a babai dagiti paset.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ken"
+    },
+    {
+      "surface": "היום",
+      "gloss": "intono umay ti aldaw"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "nagsakripisio"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ni Elkana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "kenni Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawana"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ken kadagiti amin"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "nga annakna a lalaki"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "ken annakna a babai"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "dagiti paset"
+    }
+  ],
+  "timestamp": "2026-09-26T10:25:12.332522992Z",
+  "model": "glm-5.3"
+}

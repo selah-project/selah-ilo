@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ania mainayon pay ni David kenka, iti daydayaw ⟨את⟩ ti adipenmo? Ket sika, ⟨את⟩ ti adipenmo, ammoam.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "mainayon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "iti daydayaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipenmo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipenmo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ammoam"
+    }
+  ],
+  "timestamp": "2026-09-26T23:38:21.234513503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ti mannagitalo. Maysa a mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ti mannagitalo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:10.079856590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Inurnong ni Moshe ⟨את⟩ ti amin a gimong dagiti anak ni Yisrael, ket kinunana kadakuada: Dagitoy dagiti sao a bilin ni Yahweh nga aramiden ⟨dagitoy⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "inurnong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a gimong dagiti anak ni Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T04:39:14.700531173Z",
+  "model": "glm-5.3"
+}

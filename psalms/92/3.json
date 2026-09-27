@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "Nga ibaga iti bigat ti hesedmo, ken ti pammatim kadagiti rabii.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Nga ibaga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ken ti pammatim"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "kadagiti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:59.401518454Z",
+  "model": "glm-5.3"
+}

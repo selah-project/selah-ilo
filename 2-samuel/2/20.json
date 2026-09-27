@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket immirayar ni Avner iti likudanna, ket kinunana: Sika kadi daytoy, ni Asahel? Ket kinunana: Siak.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ket immirayar"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ni Avner"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "iti likudanna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Sika kadi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "ni Asahel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Siak"
+    }
+  ],
+  "timestamp": "2026-09-26T11:27:08.543538441Z",
+  "model": "glm-5.3"
+}

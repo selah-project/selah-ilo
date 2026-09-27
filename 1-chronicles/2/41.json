@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket ni Shallum nagputot ⟨את⟩ kenni Yekamyah, ket ni Yekamyah nagputot ⟨את⟩ kenni Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ket ni Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yekamyah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "kenni Yekamyah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "ket ni Yekamyah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "kenni Elishama"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:12.816648430Z",
+  "model": "glm-5.3"
+}

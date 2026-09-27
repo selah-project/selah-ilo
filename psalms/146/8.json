@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 146,
+  "translation": "Ni Yahweh manglukat ⟨iti mata⟩ dagiti bulag; ni Yahweh mangitakder kadagiti nakayango; ni Yahweh ay-ayatenna dagiti nalinteg.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "manglukat"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "dagiti bulag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "mangitakder"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "kadagiti nakayango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ay-ayatenna"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:19.570848319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ket inna inpuorna ⟨את⟩ ti natuded a sakripisiona ken ⟨את⟩ ti minchahna, ket inna ayus ⟨את⟩ ti nayayus a mainumna, ket inna wisikan ⟨את⟩ ti dara dagiti shlemim a kukuana iti rabaw ti altar.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "ket inna inpuorna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti natuded a sakripisiona"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ti natuded a sakripisiona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti minchahna"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ti minchahna"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ket inna ayus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nayayus a mainumna"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "ti nayayus a mainumna"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ket inna wisikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dara"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "dagiti shlemim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kukuana"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T13:58:06.577592817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 40:10",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Dagiti kuarto ti ruangan iti dalan ti daya, tallo manipud ditoy ken tallo manipud ditoy; maysa a sukatan kadagiti tallo, ken maysa a sukatan kadagiti poste, ditoy ken ditoy.",
+  "tokens": [
+    {
+      "surface": "ותאי",
+      "gloss": "dagiti kuarto"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ti daya"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "manipud ditoy"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ken tallo"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "manipud ditoy"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "maysa a sukatan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": ""
+    },
+    {
+      "surface": "לשלשתם",
+      "gloss": "kadagiti tallo"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "ken maysa a sukatan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": ""
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "kadagiti poste"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "ומפו",
+      "gloss": "ken ditoy"
+    }
+  ],
+  "timestamp": "2026-09-26T19:16:55.960656643Z",
+  "model": "glm-5.3"
+}

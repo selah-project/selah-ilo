@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Inaramidko para kaniak dagiti hardin ken dagiti paradiso, ket inmulaak kadakuada dagiti kayo ti amin a bunga.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "inaramidko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "dagiti hardin"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ken dagiti paradiso"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ket inmulaak"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dagiti kayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:09.606984125Z",
+  "model": "glm-5.3"
+}

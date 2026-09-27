@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Dagiti ablan da saan a mabalin a bado, ken saan da a maabbungan kadagiti ar-aramidda; dagiti ar-aramidda ket ar-arami ti basol, ken ti aramid ti biolensia adda kadagiti palad da.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "dagiti ablan da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mabalin nga agbalin"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "a bado"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "maabbungan da"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "kadagiti ar-aramidda"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "dagiti ar-aramidda"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ar-arami"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ken ti aramid"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ti biolensia"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "kadagiti palad da"
+    }
+  ],
+  "timestamp": "2026-09-26T16:03:15.723886146Z",
+  "model": "glm-5.3"
+}

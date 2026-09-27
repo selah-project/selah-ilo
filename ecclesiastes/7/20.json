@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ta awan nalinteg a tao iti daga nga mangaramid ti nasayaat ken saan nga agbasol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mangaramid"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ti nasayaat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "agbasol"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:49.619288780Z",
+  "model": "glm-5.3"
+}

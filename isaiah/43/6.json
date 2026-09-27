@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Ikunak iti amianan: Idaydayawko? saan — Itedmo; ken iti abagatan: Saanmo nga sardengem; iparuarmo dagiti anakko a lallaki manipud iti adayo, ken dagiti annakko a babai manipud iti patingga ti daga.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ikunak"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "iti amianan"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Itedmo"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "ken iti abagatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "nga sardengem"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "iparuarmo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anakko a lallaki"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "manipud iti adayo"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "ken dagiti annakko a babai"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "manipud iti patingga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T15:23:38.633057307Z",
+  "model": "glm-5.3"
+}

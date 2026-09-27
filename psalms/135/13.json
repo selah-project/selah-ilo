@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 135,
+  "translation": "Yahweh, ti naganmo agnanayon; Yahweh, ti lagipmo iti kaputotan ken kaputotan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ti lagipmo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "iti kapputotan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ken kapputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:10.214773655Z",
+  "model": "glm-5.3"
+}

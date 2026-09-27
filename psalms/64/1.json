@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 64,
+  "translation": "Kadagiti agturay iti kanta, maysa a mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kadagiti agturay iti kanta"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T21:38:25.650976113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "No adda iti panagdidigsana, nagtarigagay isuna ⟨את⟩ ti rupa ni Yahweh ti Elohimna, ket nagpakumbaba unay iti sanguanan ti Elohim dagiti amana.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "no adda iti panagdidigsana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "nagtarigagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ti Elohimna"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "ket nagpakumbaba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:56:25.616926049Z",
+  "model": "glm-5.3"
+}

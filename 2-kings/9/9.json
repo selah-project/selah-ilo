@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket ikabilko ti balay ni Akhab a kas ti balay ni Yarovam nga anak ni Nevat, ken a kas ti balay ni Baasha nga anak ni Achiyah.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ket ikabilko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Akhab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Akhab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "a kas ti balay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "ken a kas ti balay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ni Achiyah"
+    }
+  ],
+  "timestamp": "2026-09-26T13:33:39.225552385Z",
+  "model": "glm-5.3"
+}

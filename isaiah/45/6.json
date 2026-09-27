@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Tapno ammo da, manipud iti panagbettak ti init ken manipud iti panaglennedna, ta awan, no diak; siak ti Yahweh, ket awan pay.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ammo da"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "manipud iti panagbettak"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "ken manipud iti panaglennedna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "awan"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "no diak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-26T15:37:41.426199821Z",
+  "model": "glm-5.3"
+}

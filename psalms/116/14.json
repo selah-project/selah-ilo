@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Dagiti botok kenni Yahweh ibayadko, iti sanguanan ⟨ayo⟩ ti amin a umilina.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "dagiti botok"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ibayadko"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ayo⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a umilina"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:14.579048548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket ni Yehoshua adda nakabado kadagiti narugit a bado, ken nangtakder iti sanguanan ti anghel.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "Ket ni Yehoshua"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "nakabado"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "kadagiti bado"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "narugit"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ken nangtakder"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ti anghel"
+    }
+  ],
+  "timestamp": "2026-09-26T20:28:33.182211291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Natakkalak a kas maysa a karnero a naperdan; biruken ti adipenmo, ta dagiti bilinmo saan a linipatko.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "natakkalak"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "kas maysa a karnero"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "a naperdan"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "biruken"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "linipatko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:33.996751031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket dinawatna ti rupa ni Yahweh, ket nangngeg kennuana ni Yahweh, ta nakitana ⟨את⟩ ti panangipedped ti Yisrael, ta mangipedped ⟨אתם⟩ ti ari ti Aram.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ket dinawatna"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ni Yehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupa ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupa ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ket nangngeg"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panangipedped ti Yisrael"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ti panangipedped"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "mangipedped"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ti ari ti Aram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    }
+  ],
+  "timestamp": "2026-09-26T13:50:32.827902493Z",
+  "model": "glm-5.3"
+}

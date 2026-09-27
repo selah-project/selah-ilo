@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti dalan ti kinamatalek pinilak; dagiti ukommo iniddaak iti sanguanak.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ti kinamatalek"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "pinilak"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dagiti ukommo"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "iniddaak iti sanguanak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:50.422834972Z",
+  "model": "glm-5.3"
+}

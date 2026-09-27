@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 112,
+  "translation": "Daydayawyo ni Yah! Naragsak ti lalaki a mabuteng kenni ⟨את⟩ Yahweh, a ragsak iti unay iti bilinna.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Daydayawyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Naragsak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "a mabuteng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "iti bilinna"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ragsak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "iti unay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:15.468022853Z",
+  "model": "glm-5.3"
+}

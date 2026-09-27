@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Iti dayta a tiempo maluktan dagiti mata dagiti bulag, ket dagiti tenga dagiti bungngol maluktanda.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "iti dayta a tiempo"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "maluktan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti mata"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "dagiti bulag"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ket dagiti tenga"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "dagiti bungngol"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "maluktanda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:16:28.471200518Z",
+  "model": "glm-5.3"
+}

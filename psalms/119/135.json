@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ipalawagmo ti rupam iti adipenmo, ken isuromoak ⟨את⟩ dagiti lintegmo.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "האר",
+      "gloss": "Ipalawagmo"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "iti adipenmo"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ken isuromoak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lintegmo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dagiti lintegmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:18.976222324Z",
+  "model": "glm-5.3"
+}

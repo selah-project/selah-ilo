@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ni Yoyada nagputot ⟨את⟩ ni Yonatan, ket ni Yonatan nagputot ⟨את⟩ ni Yaddua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "ni Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ni Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ket ni Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaddua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ni Yaddua"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:18.390058677Z",
+  "model": "glm-5.3"
+}

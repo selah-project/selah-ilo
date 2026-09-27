@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 7:8",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "ket inaramid ni Shelomoh ⟨את⟩ ti fiesta iti dayta tiempo, pito nga al-aldaw, ket ti amin a Yisrael kaduana, gimong a dakkel unay, manipud iti panagserrek ti Hamat agingga iti karayan ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiesta"
+    },
+    {
+      "surface": "החג",
+      "gloss": "ti fiesta"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dayta tiempo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga al-aldaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "a dakkel"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "מלבוא",
+      "gloss": "manipud iti panagserrek"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:46:29.879406860Z",
+  "model": "glm-5.3"
+}

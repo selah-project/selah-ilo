@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 2:22",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket naammuan ti sao kenni Mordecai, ket ibinigana kenni Ester ti reina, ket kinuna ni Ester iti ari iti nagan ni Mordecai.",
+  "tokens": [
+    {
+      "surface": "ויודע",
+      "gloss": "naammuan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kenni Mordecai"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ibinigana"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kenni Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ti reina"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "iti ari"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordecai"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:22.474683707Z",
+  "model": "glm-5.3"
+}

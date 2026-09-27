@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Agragsakak ken agliwliwak iti hesedmo, ta nakitaam ⟨את⟩ ti panagdidigraak, ammo ti pannakasapit ti kararwak.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "agragsakak"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ken agliwliwak"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "iti hesedmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "nakitaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagdidigraak"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ti panagdidigraak"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ti pannakasapit"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:54.275080556Z",
+  "model": "glm-5.3"
+}

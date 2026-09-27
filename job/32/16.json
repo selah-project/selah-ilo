@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "ket inurayko, ta saanda a nagsao, ta nagtakderda, saanda a sumungbat pay.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "ket inurayko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "a nagsao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nagtakderda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "a sumungbat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:57:40.664159690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 63,
+  "translation": "Ti salmo ni David, idi adda ⟨isuna⟩ iti liw ti Yehudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ti salmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "idi adda ⟨isuna⟩"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti liw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:39:42.097401046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Agtakderka, sumrekakammo iti Nineveh, ti dakkel nga ili, ken iyawagmo kadagiti umilik ⟨את⟩ ti panangiyawag a siak ti agsasaok kenka;",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Agtakderka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sumrekakammo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ti dakkel"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ken iyawagmo"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kadagiti umilik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panangiyawag"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ti panangiyawag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti agsasaok"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T20:03:26.824272840Z",
+  "model": "glm-5.3"
+}

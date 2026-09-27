@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kedemoth ken ⟨את⟩ ti daga iti lawlawna, ken ⟨את⟩ Mephaath ken ⟨את⟩ ti daga iti lawlawna — uppat nga ili.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemoth"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Mephaath"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mephaath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    }
+  ],
+  "timestamp": "2026-09-26T09:24:58.797600021Z",
+  "model": "glm-5.3"
+}

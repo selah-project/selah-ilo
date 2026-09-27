@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Dagiti tinunaw a dios saanmo a aramiden para kenka.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "dagiti dios"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "tinunaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramiden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T04:35:52.572387493Z",
+  "model": "glm-5.3"
+}

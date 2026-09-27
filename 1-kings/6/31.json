@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken ⟨iti⟩ ⟨את⟩ pagserrekan ti Debir inaramidna dagiti pagserraan a kayo ti olibo; ti ibar ken dagiti poste, maikalima a paset ⟨ti diding⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "pagserrekan ti Debir"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pagserrekan"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "ti Debir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dagiti pagserraan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ti olibo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ti ibar"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "dagiti poste"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "maikalima a paset"
+    }
+  ],
+  "timestamp": "2026-09-26T12:33:26.770051611Z",
+  "model": "glm-5.3"
+}

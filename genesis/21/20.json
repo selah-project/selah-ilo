@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ket adda ni Elohim ⟨את⟩ ti ubbing, ket dimmakkel ket nagtaeng iti kaislaan, ket nagbalin a mangibusor.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ubbing"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti ubbing"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "dimmakkel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagtaeng"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti kaislaan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nanayon"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "mangibusor"
+    }
+  ],
+  "timestamp": "2026-09-26T02:12:30.687070978Z",
+  "model": "glm-5.3"
+}

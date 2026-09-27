@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Sumangpet ni Yehudah, ket inted ni Yahweh ⟨את⟩ dagiti Kanaan ken dagiti Perisio iti imada, ket tinipada ida iti Bezek — sangapulo a ribu a lalaki.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Sumangpet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket inted"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Kanaan ken dagiti Perisio"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "dagiti Kanaan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ken dagiti Perisio"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "iti imada"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ket tinipada ida"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "iti Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T09:36:36.518272162Z",
+  "model": "glm-5.3"
+}

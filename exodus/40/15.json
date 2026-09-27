@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ken ilanam ⟨את⟩ dagitoy a kas ti panaglanaam ⟨את⟩ kadagiti amada, ket agpadi da kenkuak; ket agbalin daytoy a panaglanada a kas padianda iti tiempo a saan a maipatingga, kadagiti kaputotanda.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ilanam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas ti"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "panaglanaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti amada"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "amada"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "agpadi da"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kenkuak"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "להית",
+      "gloss": "a nagbalin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "panaglanada"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "a kas padianda"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iti tiempo a saan a maipatingga"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kadagiti kaputotanda"
+    }
+  ],
+  "timestamp": "2026-09-26T04:51:36.819187779Z",
+  "model": "glm-5.3"
+}

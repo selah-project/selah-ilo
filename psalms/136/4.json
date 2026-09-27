@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 136,
+  "translation": "Kadagiti Agaramid kadagiti dakkdakkel a paila, ⟨isu laeng⟩, ta ti hesedna ⟨agnanayon⟩.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kadagiti Agaramid"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "paila"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dakkdakkel"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "isu laeng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:27.005525656Z",
+  "model": "glm-5.3"
+}

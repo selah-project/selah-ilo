@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Idadadaelmo dagiti agsasao iti palso; ti tao ti dara ken ti panandaya nasukatan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "idadadaelmo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti agsasao"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "iti palso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ken ti panandaya"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "nasukatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T20:43:54.024062001Z",
+  "model": "glm-5.3"
+}

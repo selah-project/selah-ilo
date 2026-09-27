@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ket kinuna ni David: Itedda kadi dagiti lakay ti Keilah ⟨את⟩ siak ken ⟨את⟩ dagiti taoak iti ima ni Shaul? Ket kinuna ni Yahweh: Iteddada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "itedda kadi"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ti Keilah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "siak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti taoak"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti taoak"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "iteddada"
+    }
+  ],
+  "timestamp": "2026-09-26T11:05:16.828154536Z",
+  "model": "glm-5.3"
+}

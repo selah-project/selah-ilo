@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 110,
+  "translation": "Ni Adonay iti kanawanmo, dadaelanna dagiti ari iti aldaw ti ungetna.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "kanawanmo"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "dadaelanna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ti ungetna"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dagiti ari"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:11.975830743Z",
+  "model": "glm-5.3"
+}

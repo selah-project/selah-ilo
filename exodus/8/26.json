@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Nagrua ni Moshe manipud kenni Paro, ket immidarayo kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nagrua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manipud kenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ket immidarayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T03:42:24.364261056Z",
+  "model": "glm-5.3"
+}

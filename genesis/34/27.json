@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ti anak a lalaki ni Yaakov simmangladda kadagiti napatay, ket dinulinada ti ili ta dinutaanda ti kabsatda a babai.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ti anak a lalaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "באו",
+      "gloss": "simmanglad"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "napatay"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "dinulinada"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "dinutaanda"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "kabsatda a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T02:49:41.419088998Z",
+  "model": "glm-5.3"
+}

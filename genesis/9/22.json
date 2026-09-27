@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket nakita ni Cham, ti ama ni Kenaan, ⟨את⟩ ti nakawan-bado ti amana, ket impakdaarna kadagiti dua a kabsatna iti ruar.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ti ama"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ni Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nakawan-bado"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ti nakawan-bado"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "impakdaarna"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kadagiti dua"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "a kabsatna"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "iti ruar"
+    }
+  ],
+  "timestamp": "2026-09-26T01:50:22.594446282Z",
+  "model": "glm-5.3"
+}

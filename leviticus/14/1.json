@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Kinuna ni Yahweh kenni Moshe nga kunaen:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kunaen"
+    }
+  ],
+  "timestamp": "2026-09-26T05:21:58.007404170Z",
+  "model": "glm-5.3"
+}

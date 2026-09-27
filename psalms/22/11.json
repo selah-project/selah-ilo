@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Iti kenka ti insardengko ti bagik manipud iti matrix, manipud iti tian ni inak; Elko, sika.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "iti kenka"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ti insardengko ti bagik"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "manipud iti matrix"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "manipud iti tian"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ni inak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:15.776563306Z",
+  "model": "glm-5.3"
+}

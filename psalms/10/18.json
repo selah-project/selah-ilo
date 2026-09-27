@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti ukoman ti ulila ken ti naumsit, a saan a maisulongan pay ti tao a manipud iti daga.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ti ukoman"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ti ulila"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ken ti naumsit"
+    },
+    {
+      "surface": "בל",
+      "gloss": "a saan"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "a maisulongan pay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "agbutbuteken"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:50.984620096Z",
+  "model": "glm-5.3"
+}

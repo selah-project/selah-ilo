@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Dagiti ari ti Tarshish ken dagiti isla minchah ti ipennada; dagiti ari ti Sheva ken ti Seva regalo ti iyangatarda.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ti Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "ken dagiti isla"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ti ipennada"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ti Sheva"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ken ti Seva"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "regalo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ti iyangatarda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:51.148417312Z",
+  "model": "glm-5.3"
+}

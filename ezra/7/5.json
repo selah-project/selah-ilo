@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "anak ni Avishua, anak ni Pinekhas, anak ni Elazar, anak ni Aharon, ti pangulu a padi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ni Avishua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ni Pinekhas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ni Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti pangulu"
+    }
+  ],
+  "timestamp": "2026-09-26T23:22:47.403254869Z",
+  "model": "glm-5.3"
+}

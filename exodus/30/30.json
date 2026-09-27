@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ken ⟨את⟩ ni Aharon ken ⟨את⟩ dagiti anakna a lalaki imiyakam, ket isantonaem ⟨אתם⟩ a agserbi a padi Kaniak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna a lalaki"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "imiyakam"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ket isantonaem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isuda"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a agserbi a padi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T04:29:17.501700880Z",
+  "model": "glm-5.3"
+}

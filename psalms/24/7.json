@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Iyangat-yo dagiti pagturungan, dagiti uloyo, ket maisangbay kayo, dagiti ruangan ti agnanayon, ket sumrek ti ari ti daydayaw.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Iyangat-yo"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dagiti pagturungan"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "dagiti uloyo"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "ket maisangbay kayo"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "dagiti ruangan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ti agnanayon"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ket sumrek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ti daydayaw"
+    }
+  ],
+  "timestamp": "2026-09-26T21:03:20.157120449Z",
+  "model": "glm-5.3"
+}

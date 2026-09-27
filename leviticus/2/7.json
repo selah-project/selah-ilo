@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "No mincha ti kaldero, ti datonmo: iti lana ti napino nga arina ⟨ti⟩ aramiden.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "No"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "kaldero"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "datonmo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "napino nga arina"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "iti lana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramiden"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:05.140986174Z",
+  "model": "glm-5.3"
+}

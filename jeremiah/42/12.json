@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ken itedko kadakayo ti asi, ket asiannakanto ⟨את⟩ kadakayo, ket isubliko ⟨את⟩ kadakayo iti daga yo.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ken itedko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "ti asi"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "asiannakanto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "isubliko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "daga yo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:11:16.158156074Z",
+  "model": "glm-5.3"
+}

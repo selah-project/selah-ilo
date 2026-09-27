@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "Ti ammo nakapukaw unay, maipasngay kaniak; nangato unay, saanak a makabael iti dayta.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "nakapukaw unay"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ti ammo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "maipasngay kaniak"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "nangato unay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makabael"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:37.908012103Z",
+  "model": "glm-5.3"
+}

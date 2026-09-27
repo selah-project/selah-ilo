@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket nakita ti reina ti Sheba ⟨את⟩ ti kinasirib ni Shelomoh ken ti balay a inpatakderna.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ti reina"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ti Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kinasirib ni Shelomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ti kinasirib"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ken ti balay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "inpatakderna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:46:16.739174291Z",
+  "model": "glm-5.3"
+}

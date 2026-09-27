@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Pinatakedna ti daga kadagiti pagtalinaedanna, saan a kumuyog daytoy — agnanayon ken nanayon.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "pinatakedna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "pagtalinaedanna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "kumuyog daytoy"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken nanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:38.106977464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 19:10",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ti inam ket kas iti ubas iti dara mo, naimula iti asideg ti danum; adda bungana ken adda dagiti sangana gapu iti adu a danum.",
+  "tokens": [
+    {
+      "surface": "אמך",
+      "gloss": "ti inam"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "kas iti ubas"
+    },
+    {
+      "surface": "בדמך",
+      "gloss": "iti dara mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "naimula"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "adda bungana"
+    },
+    {
+      "surface": "וענפה",
+      "gloss": "ken adda dagiti sangana"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "gapu iti danum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    }
+  ],
+  "timestamp": "2026-09-26T18:30:19.735115626Z",
+  "model": "glm-5.3"
+}

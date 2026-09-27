@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Nadadaelkami unay kenka, ket saan kami a nagsalaknib ⟨את⟩ dagiti bilin ken ⟨את⟩ dagiti alagaden ken ⟨את⟩ dagiti ukom a imbilinmo ⟨את⟩ ni Moshe ti adipenmo.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "Nadadaelkami unay"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "nagdadaelkami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan kami"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "a nagsalaknib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bilin"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "dagiti bilin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti alagaden"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "dagiti alagaden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ukom"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dagiti ukom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "imbilinmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:26:02.031824806Z",
+  "model": "glm-5.3"
+}

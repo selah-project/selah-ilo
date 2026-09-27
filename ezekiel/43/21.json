@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Ket alaem ⟨את⟩ ti par a daton ti basol, ket ipuoranda daytoy iti naisangayan a disso ti balay, iti ruar ti nasantuan a lugar.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ket alaem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti par"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti par"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a daton ti basol"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "ket ipuoranda"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "iti naisangayan a disso"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "ti nasantuan a lugar"
+    }
+  ],
+  "timestamp": "2026-09-26T19:20:25.910347412Z",
+  "model": "glm-5.3"
+}

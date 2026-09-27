@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 6:18",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket dakayo laeng: salaknibyo koma nga agsardeng kadagiti banag a herem, no kadi pagheremenyo koma no alaenyo iti maysa a banag a herem, ken ikabilenyo ti ⟨את⟩ kampo ni Yisrael a herem, ken pirdaenyo isuna ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ורק",
+      "gloss": "ket laeng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "salaknibyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iti"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "iti herem"
+    },
+    {
+      "surface": "פן",
+      "gloss": "no kadi"
+    },
+    {
+      "surface": "תחרימו",
+      "gloss": "pagheremenyo"
+    },
+    {
+      "surface": "ולקחתם",
+      "gloss": "no alaenyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iti"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "iti herem"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ken ikabilenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampo ni Yisrael"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "a herem"
+    },
+    {
+      "surface": "ועכרתם",
+      "gloss": "ken pirdaenyo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    }
+  ],
+  "timestamp": "2026-09-26T08:57:44.760932056Z",
+  "model": "glm-5.3"
+}

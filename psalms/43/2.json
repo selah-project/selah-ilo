@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Ta sika ti Elohim, ti bilegko; apay a binayagannak? Apay a makimmad a nagsursor ak iti panangiddit ti kabusor?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "a binayagannak"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "makimmad"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "nagsursor ak"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "iti panangiddit"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    }
+  ],
+  "timestamp": "2026-09-26T21:18:25.185371561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket dagiti anak ni Yisrael inaramidda kas iti insao ni Moshe, ket dinawatda manipud iti Mitsrayim dagiti kasangkapan a pirak ken dagiti kasangkapan a balitok ken dagiti damit.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ket dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kas iti insao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ket dinawatda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dagiti kasangkapan a pirak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pirak"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ken dagiti kasangkapan a balitok"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ken dagiti damit"
+    }
+  ],
+  "timestamp": "2026-09-26T03:47:04.543891487Z",
+  "model": "glm-5.3"
+}

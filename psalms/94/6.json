@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "Ti balo ken ti tagaili papatayenda, ken dagiti ulila mammatayenda.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "ti balo"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "ken ti tagaili"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "papatayenda"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ken dagiti ulila"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "mammatayenda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:31.225315711Z",
+  "model": "glm-5.3"
+}

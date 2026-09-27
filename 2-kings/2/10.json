@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket kinunana: Nasukir ti sinaludsodmo; no makitam ⟨את⟩ a maalaak manipud ⟨את⟩ kadagiti, agbalin koma kadagiti kastoy; ngem no saan, saan nga agbalin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "nasukir ti sinudsodmo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "saludsod"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makitam"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "maalaak"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "maalaak"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "manipud ⟨את⟩ kadagiti"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "agbalin koma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ngem no"
+    },
+    {
+      "surface": "אין",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    }
+  ],
+  "timestamp": "2026-09-26T13:17:29.814470496Z",
+  "model": "glm-5.3"
+}

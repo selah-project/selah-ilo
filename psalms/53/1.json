@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 53,
+  "translation": "Iti ti Mannanonod, iti Machalat, maysa a panursuro ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Iti ti Mannanonod"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "panursuro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:26.995696310Z",
+  "model": "glm-5.3"
+}

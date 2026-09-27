@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 64,
+  "translation": "Agraragsak ti nalinteg iti Yahweh, ket agkammali kenni; ken agdaydayawda amin dagiti nalinteg ti puso.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "agraragsak"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "iti Yahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "agkammali"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "agdaydayawda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    }
+  ],
+  "timestamp": "2026-09-26T21:34:26.524644260Z",
+  "model": "glm-5.3"
+}

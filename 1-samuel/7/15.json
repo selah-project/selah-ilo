@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "ket immun-uumok ni Shemuel ⟨את⟩ ti Yisrael amin nga aldaw ti biag na.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ket immun-uumok"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ti biag na"
+    }
+  ],
+  "timestamp": "2026-09-26T10:34:32.655019935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket ni Yahweh impulogna ti maysa a dakkel nga angin iti baybay, ket adda nagpnuay a bora iti baybay, ket ti barko ket agipateg nga madadael.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "impulogna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti maysa a angin"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ti dakkel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "baybay"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "סער",
+      "gloss": "nagpnuay a bora"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "בים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "ket ti barko"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "ket agipateg"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "nga madadael"
+    }
+  ],
+  "timestamp": "2026-09-26T20:04:56.601665973Z",
+  "model": "glm-5.3"
+}

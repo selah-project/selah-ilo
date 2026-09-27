@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ta asino ti mangan, ken asino ti agyaman iti ruar kaniak?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "asino"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ti mangan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ken asino"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ti agyaman"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:33.404449015Z",
+  "model": "glm-5.3"
+}

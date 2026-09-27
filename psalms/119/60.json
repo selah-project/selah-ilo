@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Kalpaskonak ket saanak a nagin-inut nga salaknibennakayo ⟨ti⟩ bilinmo.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "Kalpaskonak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanak"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "a nagin-inut"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "nga salaknibennakayo"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ti bilinmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:40.499741074Z",
+  "model": "glm-5.3"
+}

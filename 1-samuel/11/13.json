@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 11:13",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kinuna ni Shaul: saan a patayen ti maysa a tao iti daytoy nga aldaw, ta iti daytoy nga aldaw inaramid ni Yahweh ti panangisalakan iti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "patayen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a tao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "iti daytoy nga aldaw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ti panangisalakan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T10:37:17.871671596Z",
+  "model": "glm-5.3"
+}

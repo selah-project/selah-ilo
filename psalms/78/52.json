@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket ti umilina ipanruarna a kas iti karnero, ket tinurongannada a kas iti tirong iti naatap a lugar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ket ipanruarna"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "a kas iti karnero"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "ket tinurongannada"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "a kas iti tirong"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti naatap a lugar"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:51.896830392Z",
+  "model": "glm-5.3"
+}

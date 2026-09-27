@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Ngem nakitana ti rigatda idi nangngegna ⟨את⟩ ti panggeyanda.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ngem nakitana"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ti rigatda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ida"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "idi nangngegna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panggeyanda"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ti panggeyanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:25.947396309Z",
+  "model": "glm-5.3"
+}

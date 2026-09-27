@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "ta agbirokka iti basolko, ken iti basolkon ti agsapulka?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "agbirokka"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "iti basolko"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "ken iti basolkon"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "agsapulka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:49:39.688619306Z",
+  "model": "glm-5.3"
+}

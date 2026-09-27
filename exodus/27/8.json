@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Nabukongan, kadagiti tabla, aramidem ⟨את⟩ daytoy; kas iti naipakita ⟨את⟩ kenka iti bantay, kasta aramidendan.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "nabukongan"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "kadagiti tabla"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy (ti altar)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "naipakita"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kenka"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "aramidendan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:19:12.318049514Z",
+  "model": "glm-5.3"
+}

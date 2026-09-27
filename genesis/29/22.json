@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Urnoyenna ni Lavan ⟨את⟩ amin dagiti lallaki ti lugar ket inaramidna ti maysa a bangbangir.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "urnoyenna"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti lallaki ti lugar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ti lugar"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ti maysa a bangbangir"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:16.311231175Z",
+  "model": "glm-5.3"
+}

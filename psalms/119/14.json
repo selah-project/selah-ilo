@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Iti dalan dagiti pammasingkedmo ragsakak, a kas iti amin a kayamanan.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dagiti pammasingkedmo"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "ragsakak"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הון",
+      "gloss": "a kayamanan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:10.702313211Z",
+  "model": "glm-5.3"
+}

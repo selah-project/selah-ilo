@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Umadan ka, mapanka iti Tsarephath, a tagikua ti Tsidon, ket agnanaedka sadiay; kitaem, bilinkon sadiay maysa a babai a balo a mangtaraon kenka.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Umadan ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mapanka"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "iti Tsarephath"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "tagikua ti Tsidon"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ket agnanaedka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "bilinkon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "maysa a babai"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "balo"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "a mangtaraon kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T12:56:36.626844556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 6:11",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ni Yehudah met, naisagana ti apit para kenka, idi agsubliak a mangisubli ti umilik.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Ni Yehudah"
+    },
+    {
+      "surface": "שת",
+      "gloss": "naisagana"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ti apit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para kenka"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "idi agsubliak"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ti panagsubli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti umilik"
+    }
+  ],
+  "timestamp": "2026-09-26T19:29:14.081291007Z",
+  "model": "glm-5.3"
+}

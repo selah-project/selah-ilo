@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Maysa iti maysa umasidegda, ket ti angin saan a sumrek iti nagbaetanda.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "iti maysa"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "umasidegda"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ket ti angin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "iti nagbaetanda"
+    }
+  ],
+  "timestamp": "2026-09-26T23:01:15.540907780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Kinuna ni David iti amin a gimong: Bendisionanyo ⟨את⟩ ni Yahweh nga Elohimyo; ket binendisionan ti amin a gimong ni Yahweh, ti Elohim dagiti apoda; ket nayukelda ken nagpakumbabaanda kenni Yahweh ken kenni ari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "a gimong"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bendisionanyo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨itay⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga Elohimyo"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ket binendisionan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "a gimong"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "dagiti apoda"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "ket nayukelda"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ken nagpakumbabaanda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "ken kenni ari"
+    }
+  ],
+  "timestamp": "2026-09-26T23:43:21.286979068Z",
+  "model": "glm-5.3"
+}

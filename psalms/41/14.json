@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Nabendisionan ni Yahweh, ti Elohim ni Yisrael, manipud iti agnanayon agingga iti agnanayon, amen ken amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Nabendisionan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "manipud iti agnanayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ken amen"
+    }
+  ],
+  "timestamp": "2026-09-26T21:13:10.639290037Z",
+  "model": "glm-5.3"
+}

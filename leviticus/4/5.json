@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Alaenna ti naipongan a padi iti dara ti toro, ken iyeganna ⟨את⟩ daytoy iti Tolda ti Gimong.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "alaenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "naipongan"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti toro"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "iyeganna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy (iti dara ti toro)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T05:03:05.395881818Z",
+  "model": "glm-5.3"
+}

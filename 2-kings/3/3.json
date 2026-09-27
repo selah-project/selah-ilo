@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ngem iti dagiti basol ni Yerovam, anak a lalaki ni Nevat, a ti pimmadaydayawanna ⟨את⟩ ti Yisrael, nadekkeknak; saan a nagsubli kadaydayawan.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "iti dagiti basol"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yerovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "pimmadaydayawanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "nadekkeknak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "סר",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kadaydayawan"
+    }
+  ],
+  "timestamp": "2026-09-26T13:20:51.401531670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Iti agnanayon, Yahweh, ti saom agtaktakder kadagiti langit.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ti saom"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "agtaktakder"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kadagiti langit"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:26.960781838Z",
+  "model": "glm-5.3"
+}

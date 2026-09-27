@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 124,
+  "translation": "Ti kararuatayo kas billit timmaliway iti looc dagiti mangtalooc; natnek, narba ti looc, ket isu met tal-iwaykami.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Ti kararuatayo"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kas billit"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "timmaliway"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "iti looc"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "dagiti mangtalooc"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "ti looc"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "narba"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ket isu met"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "tal-iwaykami"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:52.132146654Z",
+  "model": "glm-5.3"
+}

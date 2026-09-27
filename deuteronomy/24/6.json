@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Saan nga alaen a prenda ti gilingan wenno ti akinngato a gilingan, ta ti biag ti isu nga alaen a prenda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "alaen a prenda"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "gilingan"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ti akinngato a gilingan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "biag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "inala a prenda"
+    }
+  ],
+  "timestamp": "2026-09-26T08:25:36.586250413Z",
+  "model": "glm-5.3"
+}

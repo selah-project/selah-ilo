@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 133,
+  "translation": "Kanta dagiti Panagpangato, ni David. Kitaem, ania a naimbag ket ania a nasam-it, ti panagnanaed dagiti kabsat, agkakaysa!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dagiti Panagpangato"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a naimbag"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ket ania"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "a nasam-it"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ti panagnanaed"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "dagiti kabsat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "agkakaysa"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:31.099779369Z",
+  "model": "glm-5.3"
+}

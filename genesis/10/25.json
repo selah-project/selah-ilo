@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken kangrunaan ni Eber nagputot iti dua nga anak a lalaki; ti nagan ti maysa ket Peleg, ta idi dagiti aldawna naisina ti daga, ket ti nagan ti kabsatna a lalaki ket Yoktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "Ken kangrunaan ni Eber"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "idi dagiti aldawna"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "naisina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ket ti nagan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ti kabsatna a lalaki"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-09-26T01:53:17.712979336Z",
+  "model": "glm-5.3"
+}

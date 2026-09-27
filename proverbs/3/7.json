@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Saanmo a balinen a nasirib kadagiti matam; mabutengka kenni Yahweh ⟨את⟩ ken umikkaka iti dakes.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "a balinen"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nasirib"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "kadagiti matam"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mabutengka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ken umikkaka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "iti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T22:33:21.068583462Z",
+  "model": "glm-5.3"
+}

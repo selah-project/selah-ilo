@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Adda kadi ti panawen a kadakayo ti agnanaed kadagiti balayyo a nabalutsaan, bayat a daytoy a balay ket nadadael?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Adda kadi ti panawen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para kadakayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ti agnanaed"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "kadagiti balayyo"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "a nabalutsaan"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "bayat a daytoy a balay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ket nadadael"
+    }
+  ],
+  "timestamp": "2026-09-26T20:23:22.832900829Z",
+  "model": "glm-5.3"
+}

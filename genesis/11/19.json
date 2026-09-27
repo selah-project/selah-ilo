@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kinapudno ti biag ni Peleg kalpasan idi nakaiputotanna ⟨את⟩ ni Reu siam a tawen ken dua a gasut a tawen, ken nagputot kadagiti anak a lalaki ken dagiti anak a babai.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Kinapudno ti biag"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan idi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nakaiputotanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "siam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ken dua a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ken nagputot"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kadagiti anak a lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ken dagiti anak a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T01:54:24.013828567Z",
+  "model": "glm-5.3"
+}

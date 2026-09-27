@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Ti basol ti ngiwatda, ti sao ti bibigda, ket maalaenda iti kadakkelanda; ken ti sumpa ken ti pakaiddissuan ibagada.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ti ngiwatda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ti bibigda"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ket maalaenda"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "iti kadakkelanda"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ken ti sumpa"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "ken ti pakaiddissuan"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ibagada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:44.879725676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Binendisyonan ni Elohim ⟨את⟩ ti maikapito nga aldaw ket pinasantona ⟨את⟩ dayta, ta iti dayto naginaar isuna iti amin nga obrana a ninarsua babaen ni Elohim nga aramiden.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "binendisyonan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maikapito nga aldaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "pinasantona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayto"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "naginaar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "nga obrana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ninarsua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngem aramiden"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:43.131338145Z",
+  "model": "glm-5.3"
+}

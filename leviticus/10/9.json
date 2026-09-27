@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Bino ken nakabuteng nga inumin — saanmono a inumen, sika ken dagiti annakmo a lalaki ⟨את⟩ kaduam, no sumrekayo iti Tolda ti Gimong, ket saankayo a matay — linteg nga agnanayon kadagiti kaputotanmoyo.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "Bino"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ken nakabuteng nga inumin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "inumen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ken dagiti annakmo a lalaki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kaduam"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "no sumrekayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "mataykayo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "linteg"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kadagiti kaputotanmoyo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:13:32.372890012Z",
+  "model": "glm-5.3"
+}

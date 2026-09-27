@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ta kasano koma ti makabaelnak ket makitak ti dakes a umabot ⟨iti⟩ ⟨את⟩ umilik, ken kasano koma ti makabaelnak ket makitak iti pannakadadael ti kaputotak?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kasano"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makabaelnak"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "ket makitak"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "umabot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umilik"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umilik"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "ken kasano"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makabaelnak"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "ket makitak"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "iti pannakadadael"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ti kaputotak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:13:58.660382989Z",
+  "model": "glm-5.3"
+}

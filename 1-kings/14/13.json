@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 14:13",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Agdardardawanda kenkuana amin nga umili ni Yisrael, ket ilubonganda ⟨את⟩ kenkuana, ta daytoy laeng ti umay kenni Yaravam iti tanem, ta nasaran kenkuana ti maysa a naimbag a sao iti rupas ni Yahweh, ti Elohim ti Yisrael, iti balay ni Yaravam.",
+  "tokens": [
+    {
+      "surface": "וספדו",
+      "gloss": "agdardardawanda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וקברו",
+      "gloss": "ilubonganda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "kenni Yaravam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "tanem"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nasaran"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti rupas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    }
+  ],
+  "timestamp": "2026-09-26T13:01:13.824627528Z",
+  "model": "glm-5.3"
+}

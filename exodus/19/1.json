@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Idi maikatlo a bulan, idi rummuar dagiti annak ni Yisriel manipud iti daga ti Ehipto, iti dayta nga aldaw immayda iti desierto Sinai.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "idi maikatlo a bulan"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "idi rummuar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "באו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "iti desierto"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-26T04:00:10.412242263Z",
+  "model": "glm-5.3"
+}

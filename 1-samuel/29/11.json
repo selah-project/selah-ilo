@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ni David ket nagbangon nga agsapa, isuna ken dagiti babbalayna, a mapan iti bigat, nga agsubli iti daga ti Pelishtim; ket ti Pelishtim immayda a nagpangato iti Yizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nagbangon nga agsapa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ken dagiti babbalayna"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "a mapan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "nga agsubli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ti Pelishtim"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ket ti Pelishtim"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "immayda a nagpangato"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-26T11:15:32.209595455Z",
+  "model": "glm-5.3"
+}

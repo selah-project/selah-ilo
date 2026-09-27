@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "Likud ken sango nakuyokannak, ket inkabilmo iti nak ti imam.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "likud"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "ken sango"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "nakuyokannak"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ket inkabilmo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti nak"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "ti imam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:37.907675162Z",
+  "model": "glm-5.3"
+}

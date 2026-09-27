@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "Kuna yo kenni Elohim: Ania a nakabut-eng dagiti aramidmo! Iti kaadu ti bilegmo, agbunbunton kadagiti kabusormo kenka.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Kuna yo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kenni Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "a nakabut-eng"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dagiti aramidmo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Iti kaadu"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ti bilegmo"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "agbunbunton"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kadagiti kabusormo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:35:31.988405180Z",
+  "model": "glm-5.3"
+}

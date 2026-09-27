@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Sika ti dimmadael kadagiti ulo ni Livyatan; itedmo a kanen daytoy kadagiti umili, kadagiti umili ti awdanum a daga.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "dimmadael"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kadagiti ulo"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "ni Livyatan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "itedmo a kanen daytoy"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "a kanen"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "kadagiti umili ti awdanum a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:46.716970593Z",
+  "model": "glm-5.3"
+}

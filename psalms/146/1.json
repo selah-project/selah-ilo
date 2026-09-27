@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 146,
+  "translation": "Agdaydayawayo ni Yah; agdaydayawka, ti kararua ko, ⟨את⟩ ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "agdaydayawayo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "agdaydayawka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:21.245991794Z",
+  "model": "glm-5.3"
+}

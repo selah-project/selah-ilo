@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Nagbaba ni Yahweh a mangita ⟨iti⟩ ⟨את⟩ ti siudad ken ⟨iti⟩ ⟨את⟩ ti torre a binangon dagiti anak ni Adam.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "nagbaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "a mangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti siudad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti siudad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti torre"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "ti torre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "binangon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ni Adam"
+    }
+  ],
+  "timestamp": "2026-09-26T01:55:50.955342907Z",
+  "model": "glm-5.3"
+}

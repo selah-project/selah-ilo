@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 20:13",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken ti amin nga umili ni Yehudah agtaktakder sadiay sanguanan ni Yahweh, agraman dagiti babassitda, dagiti asawada, ken dagiti annakda.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin nga umili"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "agtaktakder"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sadiay sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "agraman"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "dagiti babassitda"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "dagiti asawada"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ken dagiti annakda"
+    }
+  ],
+  "timestamp": "2026-09-26T23:51:52.673875898Z",
+  "model": "glm-5.3"
+}

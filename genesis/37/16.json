@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ket kinuna na: ⟨את⟩ dagiti kabsatak ti birukko. Ipadmo man kaniak: Sadino da nga agpastor?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kabsatak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dagiti kabsatak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "birukko"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ipadmo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "man"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "agpastor"
+    }
+  ],
+  "timestamp": "2026-09-26T02:50:09.563690930Z",
+  "model": "glm-5.3"
+}

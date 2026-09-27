@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Masdan a maibaba, agyuko, ket dagiti nakaro iti rigat ket matnatnag iti bilegna.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "masdan a maibaba"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "agyuko"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ket matnatnag"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "iti bilegna"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "dagiti nakaro iti rigat"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:59.993961645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Nagsao ni Moshe iti umili, a kunana: Saganaen yo manipud ⟨iti kadakayo⟩ dagiti lalaki iti buyot, ket agtuganda iti Midian nga itedda ti pumawar ni Yahweh iti Midian.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Nagsao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "Saganaen yo"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "iti buyot"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ket agtuganda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nga itedda"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "ti pumawar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "iti Midian"
+    }
+  ],
+  "timestamp": "2026-09-26T07:17:23.145150829Z",
+  "model": "glm-5.3"
+}

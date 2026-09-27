@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Dagiti anak ni Arakh, pito a gasut ken limapulo ken pito.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Arakh"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ken lima"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ken pito a pulo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:21:15.501941292Z",
+  "model": "glm-5.3"
+}

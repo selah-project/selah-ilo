@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket saan a nangilagip ti sar dagiti mangiinum ⟨את⟩ Yosef, ket linipatanna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nangilagip"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "dagiti mangiinum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ket linipatanna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:52:04.600227690Z",
+  "model": "glm-5.3"
+}

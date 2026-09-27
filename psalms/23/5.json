@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Igandatmo ti maysa a lamisaan iti sango nak, iti sanguanan dagiti kabusor ko; binendisionanmo iti lana ti ulok; ti koppak, apnapno.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "igandatmo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango nak"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ti maysa a lamisaan"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "dagiti kabusor ko"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "binendisionanmo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "iti lana"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ti ulok"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "ti koppak"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "apnapno"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:50.484947430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket intulodna babaen iti ima ni Natan ti propeta, ket inawaganna ⟨את⟩ ti nagnana a Yedidyah, gapu ken Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "intulodna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen iti ima"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ti propeta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagnana"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti nagnana"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidyah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "gapu ken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T11:43:28.359250363Z",
+  "model": "glm-5.3"
+}

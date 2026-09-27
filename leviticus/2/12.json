@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kas daton ti immuna a bunga iyegyo ⟨את⟩ dagitoy kenni Yahweh, ngem iti altar saanda a mapan-ngato a kas bangles a ayat.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "kas daton"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ti immuna a bunga"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "iyegyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ngem iti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda a"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "mapan-ngato"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "a kas bangles"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "a ayat"
+    }
+  ],
+  "timestamp": "2026-09-26T04:52:48.940445543Z",
+  "model": "glm-5.3"
+}

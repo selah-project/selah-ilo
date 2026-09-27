@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Agbaliwka manipud iti dakes ken aramidem ti naimbag; birukenmo ti kappia ken tallikudem daytoy.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Agbaliwka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "manipud iti dakes"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ken aramidem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ti naimbag"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "birukenmo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ken tallikudem daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:42.559368351Z",
+  "model": "glm-5.3"
+}

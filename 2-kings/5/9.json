@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 5:9",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Immay ni Naaman kadagiti kabaliona ken kadagiti karetelana, ket immatakder iti ruaran ti balay ni Elisha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "ni Naaman"
+    },
+    {
+      "surface": "בסוסו",
+      "gloss": "kadagiti kabaliona"
+    },
+    {
+      "surface": "וברכבו",
+      "gloss": "ken kadagiti karetelana"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "immtakder"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iti ruaran"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "לאלישע",
+      "gloss": "ni Elisha"
+    }
+  ],
+  "timestamp": "2026-09-26T13:29:44.110376175Z",
+  "model": "glm-5.3"
+}

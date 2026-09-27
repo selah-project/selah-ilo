@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Dagitoy ti nagan dagiti anak ni Esav: ni Eliphaz, anak ni Adah, asawa ni Esav; ken ni Reuel, anak ni Bashemat, asawa ni Esav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Eliphaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ni Adah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "ni Bashemat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    }
+  ],
+  "timestamp": "2026-09-26T02:44:42.138052246Z",
+  "model": "glm-5.3"
+}

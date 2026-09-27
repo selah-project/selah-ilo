@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ikkatko ti tao ken ti ayup, ikkatko dagiti billit ti langit ken dagiti ikan ti baybay, ken dagiti pagtinnegan ⟨את⟩ dagiti dakes; ket maikkatko ti tao manipud iti rupa ti daga, kinuna ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Ikkatko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "ken ti ayup"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ikkatko"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dagiti billit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ken dagiti ikan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "ken dagiti pagtinnegan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dakes"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ket maikkatko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T20:23:19.319465870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken ⟨את⟩ dagiti dua a bato, ken ⟨את⟩ ti taba a kadakuada a iti pagsennaan, ken ⟨את⟩ ti yawyaw iti ngato ti atay — a kadua dagiti bato ikkatenna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti dua a bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pagsennaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti yawyaw"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "yawyaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "bato"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ikkatenna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:35.874957408Z",
+  "model": "glm-5.3"
+}

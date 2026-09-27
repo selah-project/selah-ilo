@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Nangrugi ni Shelomoh a mangipundar ⟨ti⟩ ⟨את⟩ balay ni Yahweh iti Yerushalayim, iti bantay Moriyah, a nakita kenni David amana, iti lugar a pinentruk ni David iti gumoran ni Arnan ti Yebusita.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Nangrugi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "a mangipundar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Moriyah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kenni David"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "amana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "pinentruk"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iti lugar"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "iti gumoran"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ni Arnan"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ti Yebusita"
+    }
+  ],
+  "timestamp": "2026-09-26T23:43:29.727602233Z",
+  "model": "glm-5.3"
+}

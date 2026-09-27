@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket natay ni Yosep ken amin a kakabsatna ken amin a tao iti dayta a panawon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosep"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kakabsatna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ti tao iti panawon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T03:22:48.054465141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Ta sika, Adonay, naimbag ken agpatawar, ken adu ti hesedmo kadagiti amin a mangawag kenka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "ken agpatawar"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ken adu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "a mangawag kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:25.069242426Z",
+  "model": "glm-5.3"
+}

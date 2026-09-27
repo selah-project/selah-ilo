@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "No mabirukan a kasapulan a sibibiag ti nakaw iti imana — manipud iti baka agingga iti buriko agingga iti karnero — dua a bayad ti bayadanna.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "mabirukan"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "a kasapulan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "ti nakaw"
+    },
+    {
+      "surface": "משור",
+      "gloss": "iti baka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "iti buriko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "שה",
+      "gloss": "iti karnero"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a sibibiag"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua a bayad"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ti bayadanna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:12:29.771293822Z",
+  "model": "glm-5.3"
+}

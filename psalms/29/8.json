@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ti timek ni Yahweh aggingined ti daga a saan a pagtaengan; aggingined ni Yahweh ti daga a saan a pagtaengan ti Kadesh.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ti timek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "aggingined"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ti daga a saan a pagtaengan"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "aggingined"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ti daga a saan a pagtaengan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ti Kadesh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:14:44.084077282Z",
+  "model": "glm-5.3"
+}

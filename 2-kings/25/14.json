@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken ⟨את⟩ dagiti kaldero ken ⟨את⟩ dagiti pala ken ⟨את⟩ dagiti gun-am ken ⟨את⟩ dagiti pinggan ken ⟨את⟩ amin a ramramit ti tanso a ti aramatenenda iti panagserbi, inalada.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kaldero"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "dagiti kaldero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pala"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "dagiti pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti gun-am"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "dagiti gun-am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pinggan"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "dagiti pinggan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amin a ramramit ti tanso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "a ramramit"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ti tanso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "ti aramatenenda iti panagserbi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "inalada"
+    }
+  ],
+  "timestamp": "2026-09-26T14:11:19.169095165Z",
+  "model": "glm-5.3"
+}

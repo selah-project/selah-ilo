@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ken kadagiti tattao idiay Khormah, ken kadagiti tattao idiay Bor-Ashan, ken kadagiti tattao idiay Atakh",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "ken kadagiti tattao idiay"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Khormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ken kadagiti tattao idiay"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ken kadagiti tattao idiay"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atakh"
+    }
+  ],
+  "timestamp": "2026-09-26T11:18:13.590507352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Kasta, tayenam ida kadagiti bagiwmo, ken ikbutengmo ida kadagiti bagyom.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "tayenam ida"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "kadagiti bagiwmo"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "ken kadagiti bagyom"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ikbutengmo ida"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:51.721523119Z",
+  "model": "glm-5.3"
+}

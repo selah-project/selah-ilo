@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken sika, ken ti pagilianmo, ken amin dagiti adipenmo — agpangatoda dagiti ullek.",
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "ken ti pagilianmo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dagiti adipenmo"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "agpangatoda"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "dagiti ullek"
+    }
+  ],
+  "timestamp": "2026-09-26T03:37:33.094822879Z",
+  "model": "glm-5.3"
+}

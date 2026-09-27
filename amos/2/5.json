@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket ipatulodko ti apoy iti Yehudah, ken makkanda dagiti kastilio ti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ket ipatulodko"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "iti Yehudah"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ken makkanda"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "dagiti kastilio"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T19:50:53.121869621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 50:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Nakita dagiti agnanaed iti daga, ti Kanaan, ⟨את⟩ ti panagdao idiay pagdalusan ti Atad, ket kinunada: Nakaro a panagdao daytoy ti Mitsrayim; isunga awagan ti naganna Abel-Mitsrayim, a daytoy ti labes ti Yarden.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagdao"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "panagdao"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "idiay pagdalusan"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "Atad"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "panagdao"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nakaro"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "isunga"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "awagan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "naganna"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Abel"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "labes"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-26T03:23:04.020688009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ket napasamak manen ti gubat ti Plishtim ⟨את⟩ ti Yisrael, ket napan nga agbaba ni David ken dagiti adipenna a kaduana, ket nakigubatda ⟨את⟩ dagiti Plishtim, ket naawan ti bileg ni David.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "gubat"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "ti Plishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "napan nga agbaba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ken dagiti adipenna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "nakigubatda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Plishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Plishtim"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "naawan ti bileg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T12:06:03.947119681Z",
+  "model": "glm-5.3"
+}

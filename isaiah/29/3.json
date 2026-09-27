@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ket agkampoak a kas ti bilog nga agpaliklik iti rabawmo, ket serekko iti rabawmo ti pagkampuan, ket ipatdekko iti rabawmo dagiti tambor ti panangserra.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "ket agkampoak"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "a kas ti bilog"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "iti rabawmo"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ket serekko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "iti rabawmo"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ti pagkampuan"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ket ipatdekko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "iti rabawmo"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "dagiti tambor ti panangserra"
+    }
+  ],
+  "timestamp": "2026-09-26T15:08:23.915547346Z",
+  "model": "glm-5.3"
+}

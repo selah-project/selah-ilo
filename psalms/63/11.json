@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 63,
+  "translation": "Maipabasolda iti bileg ti tabak; agbalindanto a paset kadagiti uleg.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "maipabasolda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "paset"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "kadagiti uleg"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agbalindanto"
+    }
+  ],
+  "timestamp": "2026-09-26T21:36:35.326993893Z",
+  "model": "glm-5.3"
+}

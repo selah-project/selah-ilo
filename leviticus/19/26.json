@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Saan kayo a mangan iti sangueg a dara; saan kayo nga agmannalon ken saan kayo nga agbabasol iti tanda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kayo a mangan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sangueg a dara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "kayo nga agmannalon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "kayo nga agbabasol iti tanda"
+    }
+  ],
+  "timestamp": "2026-09-26T05:41:34.735415254Z",
+  "model": "glm-5.3"
+}

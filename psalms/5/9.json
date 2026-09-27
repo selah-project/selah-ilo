@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Yahweh, ituraymonak iti kinalintegmo gapu kadagiti kabusorko; ipalintegmo iti sanguanak ti dalanmo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ituraymonak"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "iti kinalintegmo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu kadagiti"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "kabusorko"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "ipalintegmo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanak"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ti dalanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T20:42:06.431007575Z",
+  "model": "glm-5.3"
+}

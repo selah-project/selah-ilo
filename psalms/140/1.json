@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Ti mannangimaton iti kanta. Maysa a mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ti mannangimaton iti kanta"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:49.678525944Z",
+  "model": "glm-5.3"
+}

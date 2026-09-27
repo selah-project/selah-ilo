@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 9:11",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken inaramid ti ari ⟨ti⟩ ⟨את⟩ dagiti kayo ti algum a pagdalanan iti balay ni Yahweh ken iti balay ti ari, ken kinnor ken nebal para kadagiti kumakanta; ket saan a nakita ti kas dagitoy iti umuna iti daga ti Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kayo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dagiti kayo"
+    },
+    {
+      "surface": "האלגומים",
+      "gloss": "ti algum"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "pagdalanan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ken iti balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "ken kinnor"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "ken nebal"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "para kadagiti kumakanta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "kas dagitoy"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "iti umuna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:45:39.575176009Z",
+  "model": "glm-5.3"
+}

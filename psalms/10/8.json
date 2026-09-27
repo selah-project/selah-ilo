@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Agnanaed a lummeng kadagiti bakuran; iti lemmengan patayenna ti innos; dagiti matana ket agbantayda nga aglemmeng kadagiti makarigrigat.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "agnanaed a lummeng"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "iti pananglemmeng"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "kadagiti bakuran"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "iti lemmengan"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "patayenna"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ti innos"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "dagiti matana"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "kadagiti makarigrigat"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "agbantayda nga aglemmeng"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:47.263340237Z",
+  "model": "glm-5.3"
+}

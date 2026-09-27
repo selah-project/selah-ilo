@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "ket agsursorak iti nalawa a disso, ta dagiti bilimmo insapulko",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "agsursorak"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "iti nalawa a disso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "dagiti bilimmo"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "insapulko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:07.704111427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket napasamak, no nalpas ni Moshe nga agisurat ⟨את⟩ dagiti sao ti daytoy a Torah iti libro, agingga a naamin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ket napasamak"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "no nalpas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "nga agisurat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao ti daytoy a Torah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ti Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "a naamin"
+    }
+  ],
+  "timestamp": "2026-09-26T08:45:24.610653088Z",
+  "model": "glm-5.3"
+}

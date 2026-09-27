@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket ita, sika ti agkuna: Umka, ibagam kenn apom: Samen ni Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ket ita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti agkuna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Umka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "kenn apom"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Samen"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-26T13:01:50.654905413Z",
+  "model": "glm-5.3"
+}

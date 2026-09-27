@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 98,
+  "translation": "Inlagipanna ti hesedna ken ti kna pudnona iti balay ni Yisrael; nakita dagiti amin nga igid ti daga ⟨את⟩ ti panangisalakan ti Elohimtayo.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "inlagipanna"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedna"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "ken ti kna pudnona"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dagiti amin"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "igid"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panangisalakan"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "panangisalakan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:45.837842123Z",
+  "model": "glm-5.3"
+}

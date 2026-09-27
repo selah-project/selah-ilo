@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 39:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ti pannakaikapet ti ephodna a sidada ⟨iti⟩, maipud iti isu, kas iti aramidna: balitok, asul, ken purpura, ken sinida ti uleg, ken nalino a nasisida a lino, kas iti bilin ni Yahweh ⟨את⟩ ni Moshe.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "ti pannakaikapet"
+    },
+    {
+      "surface": "אפדתו",
+      "gloss": "ti ephodna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sidada iti"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "maipud iti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "kas iti aramidna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ken purpura"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ken uleg"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ti sinida"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ken nañob a lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "a nasisida"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilinna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T04:47:52.396684587Z",
+  "model": "glm-5.3"
+}

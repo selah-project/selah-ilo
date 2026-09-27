@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ti ni Khetshron, ti pamilia dagiti Khetshroni; ti ni Kharmi, ti pamilia dagiti Kharmi.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "Ti ni Khetshron"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "dagiti Khetshroni"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ti ni Kharmi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "dagiti Kharmi"
+    }
+  ],
+  "timestamp": "2026-09-26T07:00:46.040569712Z",
+  "model": "glm-5.3"
+}

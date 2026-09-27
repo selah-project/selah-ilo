@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Italekmo kenni Yahweh ken aramidem ti naimbag; agnaedka iti daga ket tulinenmo ti kinapudno.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Italekmo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ken aramidem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ti naimbag"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "agnaedka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ket tulinenmo"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ti kinapudno"
+    }
+  ],
+  "timestamp": "2026-09-26T21:11:59.955048389Z",
+  "model": "glm-5.3"
+}

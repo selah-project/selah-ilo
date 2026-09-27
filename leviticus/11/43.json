@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Saan yo a nakakesaan ⟨את⟩ dagiti kararuaryo iti aniaman nga agdadur-as, ken saan kayo a magrugit kadakuada, a magrugitkayo kadakuada.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "nakakesaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kararuaryo"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "dagiti kararuaryo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti aniaman"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "nga agdadur-as"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "nga agdadur-as"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "magrugit"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "magrugitkayo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T05:17:51.186791341Z",
+  "model": "glm-5.3"
+}

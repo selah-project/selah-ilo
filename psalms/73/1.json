@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Maysa a salmo kenni Asaf. Sigurado a naimbag ti Elohim iti Yisrael, kadagiti nalinaliseg a puso.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Maysa a salmo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kenni Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Sigurado a"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "iti Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "nalinaliseg a puso"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:53.114509562Z",
+  "model": "glm-5.3"
+}

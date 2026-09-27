@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 15:18",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken ti babai a pagtugawan ti lalaki ⟨את⟩ iti bukel ti panagtignay, agdigosda iti danum ken madarutdotda agingga iti rabii.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "ken ti babai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "pagtugawanna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "babai"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "panagtignay"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bukel"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "agdigosda"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "madarutdotda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T05:30:44.062291809Z",
+  "model": "glm-5.3"
+}

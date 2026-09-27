@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Ta iti panagmatayna saan na alaen ti amin; saan lumabasbaba ti daydayawna kalpasanna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "iti panagmatayna"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alaenna"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "lumabasbaba"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ti daydayawna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:22:25.672136904Z",
+  "model": "glm-5.3"
+}

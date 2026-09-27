@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Napan nga agturong ni David ken dagiti lalakina ket dinarepanda dagiti Geshuri, ken dagiti Girzi, ken dagiti Amaleki; ta isuda dagiti taga-ili ti daga manipud iti umuna, iti dalan a mapanka iti Shur agingga iti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "napan nga agturong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ken dagiti lalakina"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ket dinarepanda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Geshuri"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "ken dagiti Girzi"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "ken dagiti Amaleki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "dagiti taga-ili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "manipud iti umuna"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "iti panagnaedmo a mapan"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "iti Shur"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T11:16:04.811001063Z",
+  "model": "glm-5.3"
+}

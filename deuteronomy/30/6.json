@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ket tuliennam — ni Yahweh ti Elohim-mo — ⟨את⟩ puso-mo ken ⟨את⟩ ti puso ti kaputotam, a mangayat ⟨iti⟩ ni Yahweh ti Elohim-mo iti amin a puso-mo ken iti amin a kararua-mo, tapno agbiagka.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "ket tulienna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohim-mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso-mo"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "puso-mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti puso ti kaputotam"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ti kaputotam"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "a mangayat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh ti Elohim-mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohim-mo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "a puso-mo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "a kararua-mo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "agbiagka"
+    }
+  ],
+  "timestamp": "2026-09-26T08:36:12.970620019Z",
+  "model": "glm-5.3"
+}

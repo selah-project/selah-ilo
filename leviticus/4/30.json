@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ti padi ket alaenna ti darana iti ramayna ken ikkatkenna kadagiti saraan ti altar ti sakripisio a masuno, ket ⟨את⟩ ti amin a darana ayusanna iti pundamento ti altar.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ket alaenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ti darana"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "iti ramayna"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ken ikkatkenna"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "ti saraan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti sakripisio a masuno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti amin a darana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "a darana"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ayusanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "ti pundamento"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T05:04:04.368747509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket nakilablaban ni Yoav iti Rabbat dagiti anak ti Ammon, ket nalak-amenna ⟨את⟩ ti ili ti pagarianna.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "nakilablaban"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "iti Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "nalak-amenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ili ti pagarianna"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ti pagarianna"
+    }
+  ],
+  "timestamp": "2026-09-26T11:43:28.359520322Z",
+  "model": "glm-5.3"
+}

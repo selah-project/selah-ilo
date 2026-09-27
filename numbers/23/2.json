@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Inaramid ni Balak kas iti imbagana ni Bilam, ket indaton ni Balak ken ni Bilam ti baka ken karnero ⟨iti tunggal maysa nga altar⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ni Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ni Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "indaton"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ni Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "ken ni Bilam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ken karnero"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "iti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T07:02:27.110365449Z",
+  "model": "glm-5.3"
+}

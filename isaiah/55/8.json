@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "Ta saan a ⟨kapada⟩ dagiti kapanunotanko dagiti kapanunotanyo, ken saan a ⟨kapada⟩ dagiti dalanyo dagiti dalanko, kuna ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "a kapada dagiti kapanunotanko"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "dagiti kapanunotanyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "a kapada dagiti dalanyo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dagiti dalanko"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T15:49:38.012260259Z",
+  "model": "glm-5.3"
+}

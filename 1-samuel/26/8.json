@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Kinuna ni Avishai kenni David: Inserra ni Elohim ⟨ti⟩ kabusormo ita nga aldaw ⟨iti⟩ imam; ket ita, papatayek koma ⟨kenkuana⟩ babaen ti gayang, iti daga, maysa a daras, ket saanakon a mangibales kadagiti dua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "ni Avishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "inserra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kabusormo"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "ti kabusormo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "iti imam"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ket ita"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "papatayek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "babaen ti gayang"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "a daras"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanakon"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "mangibales"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kadagiti dua"
+    }
+  ],
+  "timestamp": "2026-09-26T11:21:52.409955759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Nagsungbat ti umili ket kinunana: Saan koma a mapasamak kadami ti mangibbet ⟨את⟩ ken ni Yahweh, no agserbi kadagiti sabsabali a dios.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Nagsungbat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Saan koma a mapasamak"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadami"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ti mangibbet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "no agserbi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kadagiti dios"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "sabsabali"
+    }
+  ],
+  "timestamp": "2026-09-26T09:32:51.380531253Z",
+  "model": "glm-5.3"
+}

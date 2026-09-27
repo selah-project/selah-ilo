@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 36:16",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Saan kamo a dengngeg kenni Hizkiyahu, ta kasta ti kinuna ti ari ti Ashur: Aramidennakayo ⟨את⟩ kaniak ti maysa a bendision ken rumuarkayo kaniak, ket mangan ti tunggal lalaki iti ubasna ken ti tunggal lalaki iti higosna, ket uminum ti tunggal lalaki iti danum ti bukodna a poso.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamo a dengngeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ni Hizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kinuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "aramidennakayo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kaniak",
+      "marks": "kaniak"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bendision"
+    },
+    {
+      "surface": "וצאו",
+      "gloss": "ken rumuarkayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ket mangan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal lalaki"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "iti ubasna"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti tunggal lalaki"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "iti higosna"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ket uminum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal lalaki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "בורו",
+      "gloss": "ti bukodna a poso"
+    }
+  ],
+  "timestamp": "2026-09-26T15:20:04.423551093Z",
+  "model": "glm-5.3"
+}

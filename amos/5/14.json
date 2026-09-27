@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 5:14",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Birukenyo ti naimbag, ken saan ti dakes, tapno agbiagkayo; ket agbalin a kasta — ni Yahweh, ti Elohim ni Tsevaot, ⟨iti⟩ ⟨את⟩ kadakayo — a kas ti imbagayo.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Birukenyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ti naimbag"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "agbiagkayo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "a kasta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ni Tsevaot"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "⟨את⟩ — ti preposision a kadua ni Yahweh, saan a ti marka ti banag"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ti imbagayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:12:31.599631255Z",
+  "model": "glm-5.3"
+}

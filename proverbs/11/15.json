@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Madadael no agbalin a garantia ti ganganaet, ngem ti saan a kayat ti panangted ti ima a kas pammasingked ket natalnaled.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "madadael"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "madadael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "agbalin a garantia"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ti ganganaet"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ngem ti saan a kayat"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "ti panangted ti ima a kas pammasingked"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "natalnaled"
+    }
+  ],
+  "timestamp": "2026-09-26T22:37:07.856825283Z",
+  "model": "glm-5.3"
+}

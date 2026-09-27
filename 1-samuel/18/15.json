@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Nakita ni Shaul a nakaammo unay ti maudi, ken nasdalok ni Shaul iti rupsana.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti maudi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nakaammo unay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "nasdalok"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "iti rupsana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:03:18.442899506Z",
+  "model": "glm-5.3"
+}

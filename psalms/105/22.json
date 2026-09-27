@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Nga agsiling kadagiti prinsipena iti kararuana, ken adaldanna dagiti lakayna iti kinasirib.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "nga agsiling"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "kadagiti prinsipena"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "iti kararuana"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "ken dagiti lakayna"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "adaldanna iti kinasirib"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:16.568361503Z",
+  "model": "glm-5.3"
+}

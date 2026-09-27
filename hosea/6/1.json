@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Umaykayo, ket agsublitayo kenni Yahweh, ta isu ti nagpilas kadakami ket pakasalun-atannakami; inpekna kadakami ket ikuyongannakami.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Umaykayo"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ket agsublitayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "nagpilas"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "ket pakasalun-atannakami"
+    },
+    {
+      "surface": "יך",
+      "gloss": "inpekna"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "ket ikuyongannakami"
+    }
+  ],
+  "timestamp": "2026-09-26T19:32:48.163342422Z",
+  "model": "glm-5.3"
+}

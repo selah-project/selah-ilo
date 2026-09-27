@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ti agbibiag ⟨את⟩ kadagiti nasisirib ket nasisirib; ngem ti kadua kadagiti budoy ket magapo.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ti agbibiag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti nasisirib"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "kadagiti nasisirib"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ket nasisirib"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ngem ti kadua"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kadagiti budoy"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ket magapo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:02.570803965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ni Avigayil nagputot ⟨את⟩ kenni Amasa; ket ti ama ni Amasa ket ni Yeter ti Yishmaelita.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Ken ni Avigayil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "kenni Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ket ti ama"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ni Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ni Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "ti Yishmaelita"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:44.034466821Z",
+  "model": "glm-5.3"
+}

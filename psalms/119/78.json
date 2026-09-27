@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Mabain koma dagiti naparig-ay, ta iti baknar dinadaelanda nak; siak ket agsasaritaak kadagiti bilinmo.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mabain koma"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "dagiti naparig-ay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "iti baknar"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "dinadaelanda nak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "agsasaritaak"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "kadagiti bilinmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:08.955074774Z",
+  "model": "glm-5.3"
+}

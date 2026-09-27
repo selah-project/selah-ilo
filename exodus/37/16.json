@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Inaramidna ⟨את⟩ dagiti kasangkaman a adda iti lamisaan — ⟨את⟩ dagiti pinggan na, ken ⟨את⟩ dagiti kutsaron na, ken ⟨את⟩ dagiti batya na, ken ⟨את⟩ dagiti pagipunan a mausar a mangipuno kadakuada — iti balitok a nadalus.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kasangkaman"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "dagiti kasangkaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lamisaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pinggan na"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "dagiti pinggan na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kutsaron na"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "dagiti kutsaron na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti batya na"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "dagiti batya na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pagipunan"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "dagiti pagipunan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a mausar"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "a mangipuno"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadalus"
+    }
+  ],
+  "timestamp": "2026-09-26T04:45:12.192322237Z",
+  "model": "glm-5.3"
+}

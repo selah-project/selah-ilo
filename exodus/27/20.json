@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ken sika bilinennom ⟨את⟩ dagiti anak a lalaki ni Yisrael, ket mangalaanda kenka lana ti olibo a nadalus, naipukpok, para iti silaw, tapno agsindi a kanayon ti lampara.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "bilinennom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak a lalaki ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ket mangalaanda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ti olibo"
+    },
+    {
+      "surface": "זך",
+      "gloss": "a nadalus"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "naipukpok"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "para iti silaw"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "tapno agsindi"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ti lampara"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "a kanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T04:18:42.961819271Z",
+  "model": "glm-5.3"
+}

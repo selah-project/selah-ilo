@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ket intulodna ni Yahweh ⟨ni⟩ Yerubbaal ken ⟨ni⟩ Bedan ken ⟨ni⟩ Yiftakh ken ⟨ni⟩ Shemuel, ket inisalakannakayo iti ima dagiti kabusoryo nga agpalikmut, ket naginaedyo a nakatalged.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "intulodna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Yiftakh"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ket inisalakanna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kayo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dagiti kabusoryo"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "nga agpalikmut"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ket naginaedyo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "a nakatalged"
+    }
+  ],
+  "timestamp": "2026-09-26T10:39:21.620285895Z",
+  "model": "glm-5.3"
+}

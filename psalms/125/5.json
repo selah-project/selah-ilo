@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 125,
+  "translation": "Ket dagiti agbaliw kadagiti nakikot a danada, ibangonanda ni Yahweh ⟨את⟩ dagiti agobra ti kinabasol; kappia iti Yisrael.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "ket dagiti agbaliw"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "kadagiti nakikot a danada"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "ibangonanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti agobra ti kinabasol"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dagiti agobra"
+    },
+    {
+      "surface": "האון",
+      "gloss": "ti kinabasol"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:28.961791645Z",
+  "model": "glm-5.3"
+}

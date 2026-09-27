@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ukomenda kadi kamo, ukomenda kadi, anak ti tao? Ipaammo kaniada ⟨את⟩ dagiti dakes a banag dagiti amaenda.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Ukomenda kadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ukomenda kadi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dakes a banag"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "dagiti dakes a banag"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "dagiti amaenda"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Ipaammo kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T18:36:35.859776186Z",
+  "model": "glm-5.3"
+}

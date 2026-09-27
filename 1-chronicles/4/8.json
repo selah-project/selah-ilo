@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket ni Kots nagputot ⟨את⟩ Anub ken ⟨את⟩ ti Tsobebah, ken dagiti pamilia ni Akharkhel, anak ni Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Ket ni Kots"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Tsobebah"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "ti Tsobebah"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "ken dagiti pamilia"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "ni Akharkhel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "ni Harum"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:17.670580863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Naikabil ti buktot iti nangato unay a disso, ket dagiti baknang agnanaedda iti ababa a disso.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "naikabil"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ti buktot"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "iti nangato unay a disso"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nangato unay"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ket dagiti baknang"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "iti ababa a disso"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "agnanaedda"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:20.450849758Z",
+  "model": "glm-5.3"
+}

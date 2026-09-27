@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Shabbat daytoy, a panaginnaan, para kanyo, ket padrundayo ⟨את⟩ dagiti kararuaryo — bilin agingga iti lawi.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "panaginnaan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para kanyo"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ket padrundayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kararuaryo"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "dagiti kararuaryo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agingga iti lawi"
+    }
+  ],
+  "timestamp": "2026-09-26T05:38:29.844288567Z",
+  "model": "glm-5.3"
+}

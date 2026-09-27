@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ket ⟨את⟩ ni Binyamin, ti kabsat ni Yosef, saan nga ipatulod ni Yaakov ⟨את⟩ dagiti kabsatna a kadua; ta kinunana: No kasta, ta maatngan kanianna ti dakes.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "ni Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ti kabsat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nga ipatulod"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kabsatna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dagiti kabsatna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "פן",
+      "gloss": "no kasta"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "maatngan kanianna"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:47.995173636Z",
+  "model": "glm-5.3"
+}

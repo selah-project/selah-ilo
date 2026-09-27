@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket ti tapok agsubli iti daga kas idi, ket ti Espiritu agsubli kenni Elohim a nangitedna.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ket agsubli"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ti tapok"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "kas idi"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ket ti Espiritu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "nangitedna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:11:21.734085088Z",
+  "model": "glm-5.3"
+}

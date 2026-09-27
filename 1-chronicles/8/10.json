@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken ⟨את⟩ ni Yeuts ken ⟨את⟩ ni Shavkhya ken ⟨את⟩ ni Mirmah — dagitoy ti annakna, dagiti ulo dagiti ammada.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Shavkhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shavkhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ti annakna"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dagiti ulo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "dagiti ammada"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:27.323850148Z",
+  "model": "glm-5.3"
+}

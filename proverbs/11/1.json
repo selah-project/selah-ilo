@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Dagiti timbang ti panandaya ket dakes iti mata ni Yahweh, ngem ti napno a bato ket ti kayayatna.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "dagiti timbang"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ti panandaya"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ngem ti bato"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "napno"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ti kayayatna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:09.927054501Z",
+  "model": "glm-5.3"
+}

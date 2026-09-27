@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Nagbalinak a kas maysa a lalaki a saan a mamati, ket awanan iti ngiwatna iti panangisungbat.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "nagbalinak"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "a kas maysa a lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a mamati"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awanan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "iti ngiwatna"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "iti panangisungbat"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:11.465746002Z",
+  "model": "glm-5.3"
+}

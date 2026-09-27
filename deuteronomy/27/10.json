@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Dengngegem ti timek ni Yahweh nga Elohim mo, ken aramidem ⟨את⟩ dagiti bilinna ken ⟨את⟩ dagiti lintegna, a bilinko kenka ita nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Dengngegem"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ken aramidem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bilinna"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "dagiti bilinna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti lintegna"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "dagiti lintegna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "bilinko kenka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T08:24:57.891447447Z",
+  "model": "glm-5.3"
+}

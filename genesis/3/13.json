@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kinuna ni Yahweh nga Elohim iti babai: Ania daytoy a bininmo? Ket kinuna ti babai: Ti serpiente ti nanglinlinaw kaniak, ken nagkanak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "iti babai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "bininmo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ti serpiente"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "nanglinlinaw kaniak"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ken nagkanak"
+    }
+  ],
+  "timestamp": "2026-09-26T01:42:21.626867703Z",
+  "model": "glm-5.3"
+}

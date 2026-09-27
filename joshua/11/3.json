@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ti Kenaani a(n)ga manipud iti daya ken manipud iti baybay, ken ti Amori, ken ti Khiti, ken ti Perizzi, ken ti Yevusi iti bantay, ken ti Khivi iti baba ti Khermon, iti daga ti Mitspa.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "ti Kenaani"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "manipud iti daya"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ken manipud iti baybay"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ken ti Amori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ken ti Khiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ken ti Perizzi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ken ti Yevusi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ken ti Khivi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ti Khermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ti Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-26T09:15:37.183043403Z",
+  "model": "glm-5.3"
+}

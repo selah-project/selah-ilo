@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Nangted ni Yaakov kadagiti sakana ket nagna a mapan iti daga dagiti annak ti daya.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "nangted"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kadagiti sakana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ket nagna"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a mapan iti daga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ti daya"
+    }
+  ],
+  "timestamp": "2026-09-26T02:30:59.529625314Z",
+  "model": "glm-5.3"
+}

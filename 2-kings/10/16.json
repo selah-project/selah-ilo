@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket kinuna: Umayka ⟨את⟩ a kaduak, ket kitaem ti kinaelak kenni Yahweh. Ket inpannuronda ⟨אתו⟩ iti kalesana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "umayka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ a kaduak"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ket kitaem"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "ti kinaelak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "ket inpannuronda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ni Yehonadab"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "iti kalesana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:37:12.963374482Z",
+  "model": "glm-5.3"
+}

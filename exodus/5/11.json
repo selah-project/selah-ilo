@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Dakayo, mapankayo, alaenyon ti purao kadakayo, manipud iti sadinoman a mabiruanyo, ta awan ti mabababa iti trabahonyo, awan ti aniaman.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Dakayo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mapankayo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "alaenyon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ti purao"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "manipud iti sadinoman"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "a mabiruanyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "ti mabababa"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "iti trabahonyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti aniaman"
+    }
+  ],
+  "timestamp": "2026-09-26T03:33:15.304469387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Dagiti mata ti amin agur-urayda kenka, ket sika itedmo kadakuada ⟨את⟩ ti makanda iti bukodna a panawen.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Dagiti mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "agur-urayda"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti makananda"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ti makananda"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "iti bukodna a panawen"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:54.016616956Z",
+  "model": "glm-5.3"
+}

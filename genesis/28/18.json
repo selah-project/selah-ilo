@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Immudin ni Yaakov iti bigat, ken inalana ⟨את⟩ ti bato a naisagana iti ulona, ken inaramidna ⟨את⟩ daytoy a poste, ket inulonna ti lana iti rabawna.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "immudin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ken inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bato"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "inaisagana"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "iti ulona"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ken inaramidna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "a poste"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "a poste"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ket inulonna"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "rabawna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:27:01.710001510Z",
+  "model": "glm-5.3"
+}

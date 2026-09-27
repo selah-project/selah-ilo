@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 64,
+  "translation": "Insabatam ⟨את⟩ ti agragsak ken ti agaramid iti nalinteg — dagiti lagipennaka kadagiti dalanmo; kitaem, sika ti nakariing a rabii, ket nagbasolkami; kadakuada agnanayon, ket masalakankami.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "insabatam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti agragsak"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ti agragsak"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ken ti agaramid"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "iti nalinteg"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "kadagiti dalanmo"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "dagiti lagipennaka"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "ti nakariing a rabii"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "ket nagbasolkami"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "ket masalakankami"
+    }
+  ],
+  "timestamp": "2026-09-26T15:59:03.369595936Z",
+  "model": "glm-5.3"
+}

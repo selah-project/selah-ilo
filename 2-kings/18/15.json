@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "ket ited ni Hizkiyahu ⟨את⟩ ti amin a pilak a nabirukan iti balay ni Yahweh ken kadagiti pagipenpenan ti balay ti ari.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ket ited"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a pilak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "a pilak"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a nabirukan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ken kadagiti pagipenpenan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T13:54:22.301827347Z",
+  "model": "glm-5.3"
+}

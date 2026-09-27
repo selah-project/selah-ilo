@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Aramidem iti ti Choshen dua a singsing iti balitok, ken ikkatem ⟨את⟩ dagiti dua a singsing kadagiti dua a patingga ti Choshen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Aramidem"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Choshen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ikkatem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dua a singsing"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "patingga"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Choshen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:22:28.031717671Z",
+  "model": "glm-5.3"
+}

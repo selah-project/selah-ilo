@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ni Davido. Ti sursuro. Nakaragsak ti maysa a naiyawan ti panaglabanawna, a naabbongan ti basol.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ni Davido"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ti sursuro"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nakaragsak"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "naiyawan"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ti panaglabanawna"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "a naabbongan"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "ti basol"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:53.555316369Z",
+  "model": "glm-5.3"
+}

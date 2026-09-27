@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Iti Elohim daydayawek ti sao; iti Yahweh daydayawek ti sao.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "daydayawek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "iti Yahweh"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "daydayawek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    }
+  ],
+  "timestamp": "2026-09-26T21:28:33.912755229Z",
+  "model": "glm-5.3"
+}

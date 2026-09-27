@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 115,
+  "translation": "Adda imada, ngem saanda a makasagud; adda sakaada, ngem saanda a makagna; saanda a makasao iti gorona da.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "imada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saanda"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "a makasagud"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "sakaada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saanda"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "a makagna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "a makasao"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "iti gorona da"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:33.915747632Z",
+  "model": "glm-5.3"
+}

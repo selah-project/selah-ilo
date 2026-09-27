@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "ken ti babbai a madawel iti niddaanna, ken ti zazab ⟨את⟩ ti panagzabna, iti lalaki ken iti babai, ken iti tao a maturog ken ti nakarugit a babai.",
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "ken ti madawel a babai"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "iti niddaanna"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "ken ti zazab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagzabna"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "ti panagzabna"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "iti lalaki"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "ken iti babai"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "ken iti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "maturog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ken"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "nakarugit a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T05:29:21.272207491Z",
+  "model": "glm-5.3"
+}

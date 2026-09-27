@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Ti Elohim iti unegna, saan a matnag; tulungannakanto ti Elohim iti pennek ti bigat.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "iti unegna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "matnag"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "tulungannakonto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "iti pennek"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ti bigat"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:24.450553451Z",
+  "model": "glm-5.3"
+}

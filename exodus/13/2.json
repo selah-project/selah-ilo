@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ipasantuam kaniak ti amin a bakuna, ti mamunaan a manglukat ti anaak ti amin a tian kadagiti anak ni Yisrael, iti tao ken iti ayup, kaniak dayta.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "ipasantuam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin a"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bakuna"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "mamunaan a manglukat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin a"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "tian"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ken iti ayup"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T03:51:11.791945616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Sumungbat kadagiti duapulo a kodo a lubong iti uneg a koro, ken sumungbat iti piso ti ruaran a koro; pasamano iti sanguanan ti pasamano, iti tallo.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "sumungbat"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "iti koro"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "uneg"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ken sumungbat"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "piso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "iti koro"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "ruaran"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "pasamano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sanguanan"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "pasamano"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "iti tallo"
+    }
+  ],
+  "timestamp": "2026-09-26T19:13:36.841394371Z",
+  "model": "glm-5.3"
+}

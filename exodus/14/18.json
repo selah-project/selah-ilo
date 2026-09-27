@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket ammoda dagiti Mitsrayim a siak ti Yahweh, no maidaydayawak kenn Paro, kadagiti karosona ken kadagiti kabaliona.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ket ammoda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dagiti Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "no maidaydayawak"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "kenn Paro"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "kadagiti karosona"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ken kadagiti kabaliona"
+    }
+  ],
+  "timestamp": "2026-09-26T03:53:24.467330783Z",
+  "model": "glm-5.3"
+}

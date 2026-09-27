@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Siak ti ibagak ti kinanalintegmo ken ⟨את⟩ dagiti aramidem, ket saanda a makatulong kadaka.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ibagak"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ti kinanalintegmo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti aramidem"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dagiti aramidem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "makatulong kadaka"
+    }
+  ],
+  "timestamp": "2026-09-26T15:53:51.859156661Z",
+  "model": "glm-5.3"
+}

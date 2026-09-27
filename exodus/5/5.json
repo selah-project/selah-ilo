@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kinuna ni Paro: Kitaen, adu tattan ti tattao ti daga, ket ipasardengyo ⟨את⟩ da manipud kadagiti pasanda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tattan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tattao"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "ipasardengyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "da"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "kadagiti pasanda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:36:15.290153659Z",
+  "model": "glm-5.3"
+}

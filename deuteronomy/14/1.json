@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Dagiti anak kayo ni Yahweh, ti Elohim yo; saan kamo a mangputol ⟨iti bagi yo⟩, ken saan kamo a mangaramid iti kalbo iti pagbaetan dagiti mata yo para iti natay.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohim yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "mangputol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "mangaramid"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "iti kalbo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti pagbaetan"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "dagiti mata yo"
+    },
+    {
+      "surface": "למת",
+      "gloss": "para iti natay"
+    }
+  ],
+  "timestamp": "2026-09-26T08:05:16.450320816Z",
+  "model": "glm-5.3"
+}

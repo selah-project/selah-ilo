@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket dinma ni Yehu ⟨את⟩ amin a natidda iti balay ni Akhav iti Yizreel, ken amin kadakkelanna ken ammoanna ken dagiti padina, agingga a saan a binatianna kenkuana maysa a natidda.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ket dinma"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a natidda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "a natidda"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Akhav"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "iti Yizreel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "kadakkelanna"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "ken ammoanna"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "ken dagiti padina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "a saan"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "binatianna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "maysa a natidda"
+    }
+  ],
+  "timestamp": "2026-09-26T13:37:32.087879424Z",
+  "model": "glm-5.3"
+}

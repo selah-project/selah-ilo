@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ta mapnuen ti daga iti pannaka-ammo ⟨את⟩ ti daydayaw ni Yahweh, kas iti danum nga agabbongda iti rabaw ti baybay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "mapnuen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "iti pannaka-ammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daydayaw ni Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kas iti danum"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "nga agabbongda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ti baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T20:14:16.198335459Z",
+  "model": "glm-5.3"
+}

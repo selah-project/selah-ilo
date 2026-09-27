@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket inikkatda dagiti anak ni Yisrael ⟨את⟩ dagiti Baal ken ⟨את⟩ dagiti Ashtarot, ket nagserbida ⟨את⟩ kenni Yahweh laeng.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "ket inikkatda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "dagiti Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "dagiti Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ket nagserbida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "laeng"
+    }
+  ],
+  "timestamp": "2026-09-26T10:36:49.848556349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ⟨את⟩ ti taba ken ⟨את⟩ dagiti bato ken ⟨את⟩ ti lammin iti atay, manipud iti sakripisio ti basol, inna paason iti altar, kas iti bilin ni Yahweh ⟨את⟩ ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ti taba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bato"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lammin"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ti lammin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "iti atay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "iti sakripisio ti basol"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "inna paason"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iti bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T05:08:45.894170297Z",
+  "model": "glm-5.3"
+}

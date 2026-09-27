@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket innayanna daytoy iti ngiwatok ket kinunana: Kitaen, dinnaenna daytoy dagiti bibigmo, ket maikkat ti dakesmo ken mapatawar ti basolmo.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "innayanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ngiwatok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "dinnaenna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "dagiti bibigmo"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "maikkat"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ti dakesmo"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "ti basolmo"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "mapatawar"
+    }
+  ],
+  "timestamp": "2026-09-26T14:26:31.389498400Z",
+  "model": "glm-5.3"
+}

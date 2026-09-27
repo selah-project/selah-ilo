@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Iyaliwam ti rupam kaniak ket asiannakam; itedmo ti bilegmo iti adipenmo, ket isalakanna ti anak ti adipenmo a babai.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Iyaliwam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ket asiannakam"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ti bilegmo"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "iti adipenmo"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "ket isalakanna"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ti adipenmo a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:29.194857138Z",
+  "model": "glm-5.3"
+}

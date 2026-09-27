@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ni Asher saanna a naipukaw ⟨את⟩ dagiti agnanaed iti Akko ken ⟨את⟩ dagiti agnanaed iti Tsidon, ken ⟨את⟩ ti Axlav, ken ⟨את⟩ ti Akziv, ken ⟨את⟩ ti Jelvah, ken ⟨את⟩ ti Afek, ken ⟨את⟩ ti Rejov.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ni Asher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "a naipukaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti agnanaed iti Akko"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "iti Akko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti agnanaed iti Tsidon"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "iti Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Axlav"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "ti Axlav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Akziv"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "ti Akziv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Jelvah"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "ti Jelvah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Afek"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "ti Afek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Rejov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ti Rejov"
+    }
+  ],
+  "timestamp": "2026-09-26T09:37:03.450957616Z",
+  "model": "glm-5.3"
+}

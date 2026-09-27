@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 148,
+  "translation": "Ti sibibiag nga animal ken amin a taraken nga animal, ti agdaldalluyon a bisin ken ti agtipak nga utan",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "ti sibibiag nga animal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "taraken nga animal"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ti agdaldalluyon a bisin"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "ken ti utan"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "agtipak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:33.963884875Z",
+  "model": "glm-5.3"
+}

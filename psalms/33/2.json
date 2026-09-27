@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ipasngawyo kenni Yahweh iti kinnor; iti nebel nga adu ti pirokna, agkanta kayo kenkuana.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ipasngawyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "iti kinnor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "iti nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "nga adu ti pirokna"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "agkanta kayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:53.272957764Z",
+  "model": "glm-5.3"
+}

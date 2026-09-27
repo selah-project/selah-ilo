@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 113,
+  "translation": "Daddadakaykayo ni Yah! Daddadakaykayo, dagiti adipen ni Yahweh, daddadakaykayo ⟨את⟩ ti nagan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "daddadakaykayo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "daddadakaykayo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dagiti adipen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "daddadakaykayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:03.692842565Z",
+  "model": "glm-5.3"
+}

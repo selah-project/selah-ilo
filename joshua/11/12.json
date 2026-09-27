@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken ⟨את⟩ amin nga ili dagiti ari daytoy ken ⟨את⟩ amin dagiti arida, inala ni Yehoshua, sinaksakna babaen ti ngiwat ti tabak, dinadaelna ⟨את⟩ ⟨ida⟩, kas iti bilin ni Moshe, adipen ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin nga ili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "nga ili"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti arida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dagiti arida"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "inala"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "sinaksakna"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "babaen ti ngiwat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ti tabak"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "dinadaelna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨ida⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "adipen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T09:13:59.244609873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 81,
+  "translation": "Mamati, umilik, ket ipakdaarannak kenka; Yisrael, no mamatika kaniak —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mamati"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umilik"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ket ipakdaarannak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mamatika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:48.610504998Z",
+  "model": "glm-5.3"
+}

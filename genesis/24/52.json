@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "ket nagtallok, no nangngeg ti adipen ni Avraham ⟨iti⟩ ⟨את⟩ dagiti saoda, ket indinnna ti bagianna agingga iti daga iti sanguanan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagtallok"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ti adipen"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti saoda"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "dagiti saoda"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ket indinnna ti bagianna"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "agingga iti daga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "iti sanguanan ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T02:18:18.272971384Z",
+  "model": "glm-5.3"
+}

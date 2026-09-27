@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 4:6",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken siak met, inited ko kadakayo ti kinalinias ti ngipen kadagiti amin nga il-ili yo, ken ti kaawan ti tinapay kadagiti amin a dissu yo; ngem saan kayo a nagsubli kaniak, kuna ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ken siak met"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "inited ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "נקיון",
+      "gloss": "ti kinalinias"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ti ngipen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "il-ili yo"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "ken ti kaawan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "מקומתיכם",
+      "gloss": "dissu yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "kayo a nagsubli"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T19:52:02.845172766Z",
+  "model": "glm-5.3"
+}

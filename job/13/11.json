@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Saan kadi a ti kinadakkelna makabuteng ⟨את⟩ kadakayo, ken ti butengna matnag kanyayo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "ti kinadakkelna"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "makabuteng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ken ti butengna"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "matnag"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kanyayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:50:56.287387546Z",
+  "model": "glm-5.3"
+}

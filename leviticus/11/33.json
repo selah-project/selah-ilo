@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken ti amin a banga a daga a pagturungan ti maysa kadakuada, ti amin a adda iti unegna ket marugit, ken ⟨את⟩ dayta dadaelenyo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "banga"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "matnag"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "maysa kadakuada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "unegna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "iti unegna"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "marugit"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ken ⟨את⟩ dayta",
+      "marks": "dayta (ti banga)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "dadaelenyo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:13:33.012824740Z",
+  "model": "glm-5.3"
+}

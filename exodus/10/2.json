@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken tapno maibagam kadagiti tengnged ti annakmo a lalaki ken ti anak a lalaki ti anakmo a lalaki ⟨את⟩ ti naaramidko iti Mitsrayim ken ⟨את⟩ dagiti tanda'ko nga inikkatko kadakuada, ket ammoyonto a siak ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "ken tapno"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "maibagam"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kadagiti tengnged"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ti annakmo a lalaki"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ken ti anak a lalaki"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ti anakmo a lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naaramidko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "naaramidko"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti tanda'ko"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "dagiti tanda'ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "inikkatko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ket ammoyonto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T03:44:00.791705753Z",
+  "model": "glm-5.3"
+}

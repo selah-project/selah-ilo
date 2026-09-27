@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 13:21",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket ti bayad ti panagpudno ket maysa a pim — para iti arado ken para kadagiti pala, ken para iti tallo a ngipen a sudsud, ken para kadagiti aldab, ken para iti panagtakder kadagiti darab.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "הפצירה",
+      "gloss": "ti panagpudno"
+    },
+    {
+      "surface": "פים",
+      "gloss": "pim"
+    },
+    {
+      "surface": "למחרשת",
+      "gloss": "para iti arado"
+    },
+    {
+      "surface": "ולאתים",
+      "gloss": "ken para kadagiti pala"
+    },
+    {
+      "surface": "ולשלש",
+      "gloss": "ken para iti tallo"
+    },
+    {
+      "surface": "קלשון",
+      "gloss": "a ngipen a sudsud"
+    },
+    {
+      "surface": "ולהקרדמים",
+      "gloss": "ken para kadagiti aldab"
+    },
+    {
+      "surface": "ולהציב",
+      "gloss": "ken para iti panagtakder"
+    },
+    {
+      "surface": "הדרבן",
+      "gloss": "kadagiti darab"
+    }
+  ],
+  "timestamp": "2026-09-26T10:37:37.493637108Z",
+  "model": "glm-5.3"
+}

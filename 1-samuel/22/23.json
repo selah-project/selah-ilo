@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Agniad kaniak, saan ka mabuteng; ta ti agbirbiruk ⟨את⟩ ⟨ti⟩ biagko ket agbirbiruk ⟨את⟩ ⟨ti⟩ biagmo met; ta addaanka iti salaknib.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Agniad"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "kaniak ⟨את⟩",
+      "marks": "akenni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka mabuteng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "agbirbiruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti biagko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti biagko"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "agbirbiruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti biagmo"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ti biagmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "iti salaknib"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "addaanka"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T11:05:57.930516309Z",
+  "model": "glm-5.3"
+}

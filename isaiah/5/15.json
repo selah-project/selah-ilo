@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "ket naibaba ti tao ket inababaw ti lalaki, ken dagiti mata dagiti agngato agpakababa.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ket naibaba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ket inababaw"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ken dagiti mata"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "dagiti agngato"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "agpakababa"
+    }
+  ],
+  "timestamp": "2026-09-26T14:25:10.003358351Z",
+  "model": "glm-5.3"
+}

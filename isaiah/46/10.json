@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Mangibaga ti patingga manipud iti rugi, ken manipud iti kinauna dagiti saan pay a naaramid, a kinuna: ti lignayko ti agtakder, ken ti amin a kayatko aramidento.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Mangibaga"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "manipud iti rugi"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ti patingga"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "ken manipud iti kinauna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "pay a naaramid"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a kinuna"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ti lignayko"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ti agtakder"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "a kayatko"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aramidento"
+    }
+  ],
+  "timestamp": "2026-09-26T15:32:29.316088617Z",
+  "model": "glm-5.3"
+}

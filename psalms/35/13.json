@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 35:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Niak, idi madadaelda, ti badok ket sako; inayunok a magasatan ti kararwak iti ayuno, ket ti kararagko iti takkusko agsubli.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "niak"
+    },
+    {
+      "surface": "בחלותם",
+      "gloss": "idi madadaelda"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "ti badok"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sako"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "inayunok a magasatan"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "iti ayuno"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ket ti kararagko"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "חיקי",
+      "gloss": "takkusko"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "agsubli"
+    }
+  ],
+  "timestamp": "2026-09-26T21:08:41.626151322Z",
+  "model": "glm-5.3"
+}

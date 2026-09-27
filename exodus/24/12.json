@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 24:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Sumaka kaniak iti bantay ket agtay-abawka sadiay, ket itedko kennoka ⟨את⟩ dagiti tableta ti bato, ken ti Torah ken ti bilin a sinuratko a pagisuroanda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Sumaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agtay-abawka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kennoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tableta"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "dagiti tableta"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "ken ti Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "ken ti bilin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "sinuratko"
+    },
+    {
+      "surface": "להורתם",
+      "gloss": "a pagisuroanda"
+    }
+  ],
+  "timestamp": "2026-09-26T04:10:38.688085003Z",
+  "model": "glm-5.3"
+}

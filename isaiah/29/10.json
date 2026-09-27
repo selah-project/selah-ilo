@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ta inbulana kadakayo ni Yahweh ti espiritu ti nauneg a turog, ket inserraenna ⟨את⟩ dagiti matayo — ⟨את⟩ dagiti profeta — ken inabbonganna ⟨את⟩ dagiti uloyo — dagiti makakita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "inbulana"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti espiritu"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ti nauneg a turog"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "ket inserraenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti matayo"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "dagiti matayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti profeta"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "dagiti profeta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti uloyo"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "dagiti uloyo"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "dagiti makakita"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "inabbonganna"
+    }
+  ],
+  "timestamp": "2026-09-26T15:07:03.964545556Z",
+  "model": "glm-5.3"
+}

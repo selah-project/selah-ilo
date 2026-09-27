@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Rummuar ken agbubulaod dagiti danumna, rummegda dagiti bantay iti kinangatona. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "Rummuar"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "agbubulaod"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "dagiti danumna"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "rummegda"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "iti kinangatona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:22:50.547741075Z",
+  "model": "glm-5.3"
+}

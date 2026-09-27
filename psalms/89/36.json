@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Maysa a beses nangisaadak iti kinasantuanko: saan a mandawday kenni David.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Maysa a beses"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nangisaadak"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "iti kinasantuanko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kenni David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "a mandawday"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:45.070803862Z",
+  "model": "glm-5.3"
+}

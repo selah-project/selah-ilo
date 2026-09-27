@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ta napukaw ti biagko iti rang-oy, ken dagiti tawenko iti ungi; natnag ti bilegko gapu iti basolko, ken dagiti tulangko ket nadadaelda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "napukaw"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "iti rang-oy"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ti biagko"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "ken dagiti tawenko"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "iti ungi"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "gapu iti basolko"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ken dagiti tulangko"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "nadadaelda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:14:44.914501511Z",
+  "model": "glm-5.3"
+}

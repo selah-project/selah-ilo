@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Dakes ti makikuna iti ama: Ania ti ipuonam? Ken iti babai: Ania ti ipanganakam?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Dakes ti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "makikuna"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "iti ama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ti ipuonam"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "ken iti babai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "ti ipanganakam"
+    }
+  ],
+  "timestamp": "2026-09-26T15:33:16.758911196Z",
+  "model": "glm-5.3"
+}

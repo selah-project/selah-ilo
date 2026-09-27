@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti agsuppiat iti sao a saan a nasayaat, ken kadagiti sasao a saan a makatulong kadakuada?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "ti agsuppiat"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "iti sao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "a nasayaat"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "ken kadagiti sasao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "a makatulong"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:51:48.138348074Z",
+  "model": "glm-5.3"
+}

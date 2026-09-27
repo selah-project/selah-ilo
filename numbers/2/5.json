@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken dagiti agkampitu iti asidegna ket ti tribo ni Yissaskar, ket ti prinsipe dagiti anak ni Yissaskar ket Nethanel nga anak ni Tsuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "ken dagiti agkampitu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti asidegna"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ti tribo"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ni Yissaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ket ti prinsipe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ni Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Nethanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ni Tsuar"
+    }
+  ],
+  "timestamp": "2026-09-26T06:05:06.113395319Z",
+  "model": "glm-5.3"
+}

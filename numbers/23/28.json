@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Inala ni Balak ⟨את⟩ ni Bilam iti tuktuk ti Peor, ti agsiraratan iti rupa tiyangin.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Inala"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ni Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ni Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iti tuktuk"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "ti Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "ti agsiraratan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "tiyangin"
+    }
+  ],
+  "timestamp": "2026-09-26T06:58:10.142533984Z",
+  "model": "glm-5.3"
+}

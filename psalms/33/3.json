@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Kanti kayo kenkuana iti baro a kanta; saludsodyo ti panagtigtignay iti naganeg a timek ⟨ti panagay-ayam⟩.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Kanti kayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baro"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "saludsodyo"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ti panagtigtignay ⟨ti panagay-ayam⟩"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "iti naganeg a timek"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:53.273143977Z",
+  "model": "glm-5.3"
+}

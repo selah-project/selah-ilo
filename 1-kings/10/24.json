@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken ti intero a daga ket agbirbirukda ⟨ti rupa ni⟩ Shelomoh, mangngeg ⟨את⟩ ⟨ti⟩ kaalamna a naited ni Elohim iti pusona.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti intero"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "agbirbirukda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ti⟩",
+      "marks": "rupa ni Shelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupa ni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "mangngeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ti⟩",
+      "marks": "kaalamna"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "kaalamna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naited"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "iti pusona"
+    }
+  ],
+  "timestamp": "2026-09-26T12:36:34.354269605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Ni Yahweh iti langit naisagana ti tronona, ken ti pagarianna iti amin nangituray.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "naisagana"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ti tronona"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "ken ti pagarianna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "nangituray"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:55.837982828Z",
+  "model": "glm-5.3"
+}

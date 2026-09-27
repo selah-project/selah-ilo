@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Nakita ni Shekhem, ti anak ni Hamor a Hivita, prinsipe ti daga, ⟨את⟩; inalana ⟨את⟩, nakuyogna ⟨את⟩, ket dinigrana.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni Dinah"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "a Hivita"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "prinsipe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni Dinah"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "nakuyogna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni Dinah"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "dinigrana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:48:56.297934732Z",
+  "model": "glm-5.3"
+}

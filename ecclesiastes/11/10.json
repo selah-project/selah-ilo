@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ikkatem ti kiro manipud iti pusom, ken paliiwam ti dakes manipud iti lasagmo; ta ti panagubing ken ti nasilneng a biag ket awan ti linaon.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Ikkatem"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ti kiro"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "manipud iti pusom"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ken paliiwam"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "manipud iti lasagmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ti panagubing"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "ti nasilneng a biag"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "awan ti linaon"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:21.768221295Z",
+  "model": "glm-5.3"
+}

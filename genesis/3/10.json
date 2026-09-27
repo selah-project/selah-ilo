@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket kinuna: Ti ⟨את⟩ timekmo idiay hardin ti nangngekak, ket nabutengak ta naulbaw siak, ket nagtagoak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timekmo"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "timekmo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nangngekak"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "idiay hardin"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "ket nabutengak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "naulbaw"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "ket nagtagoak"
+    }
+  ],
+  "timestamp": "2026-09-26T01:37:18.367711189Z",
+  "model": "glm-5.3"
+}

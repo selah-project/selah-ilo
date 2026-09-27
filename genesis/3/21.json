@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Inaramid ni Yahweh Elohim para kenn Adan ken para kaditi asawana dagiti bado iti lalat nga animal, ken inbakes da.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "para kenn Adan"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "ken para kaditi asawana"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "עור",
+      "gloss": "iti lalat"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "inbakes da"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:22.767848717Z",
+  "model": "glm-5.3"
+}

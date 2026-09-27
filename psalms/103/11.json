@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Ta kas ti katayag dagiti langit ngato ⟨iti⟩ daga, kasta ti kinapigsa ti hesedna kadagiti agbutbuteng kenkuana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta kas"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ti katayag"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kasta ti kinapigsa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "agbutbuteng kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:12.235358772Z",
+  "model": "glm-5.3"
+}

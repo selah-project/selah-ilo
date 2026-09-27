@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kitaenda ⟨את⟩ dagiti anak a babai ti tattao a nasayaatda, ket inalaanda a kas asawada manipud iti amin a pinilida.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "kitaenda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak a babai ti tattao"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dagiti anak a babai"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "da"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "inalaanda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "a kas asawa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manipud iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "pinilida"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:26.630290460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket nangrugi ni Yonah a sumrek iti ili iti panagnaed iti maysa nga aldaw, ketimmawag isuna ket kinunana: no pay uppat a pulo nga aldaw, ket ti Nineveh maibaliktad.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ket nangrugi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ni Yonah"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "a sumrek"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "iti panagnaed"
+    },
+    {
+      "surface": "יום",
+      "gloss": "iti maysa nga aldaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iti maysa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ketimmawag isuna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "no pay"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "uppat a pulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "ket ti Nineveh"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "maibaliktad"
+    }
+  ],
+  "timestamp": "2026-09-26T20:03:26.824580167Z",
+  "model": "glm-5.3"
+}

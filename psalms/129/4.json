@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 129,
+  "translation": "Ni Yahweh ⟨ket⟩ nalinteg; pinutedna dagiti tali dagiti dakes.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "pinutedna"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "dagiti tali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:14.061846577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ket isantonaem isu, ta isu ti idatonna ⟨את⟩ ti tinapay ti Elohim mo; nasantuan isu iti kenka, ta nasantuan siak, ni Yahweh, a mangisanto kadakayo.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "ket isantonaem isu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinapay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohim mo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "idatonna"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "isu iti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "a mangisanto kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:46:05.356820898Z",
+  "model": "glm-5.3"
+}

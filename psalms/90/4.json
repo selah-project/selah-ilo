@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 90,
+  "translation": "Ta ti sangaribu a tawen kadagiti matam ket kas ti aldaw idi kalman, no lumabas daytoy, ken kas maysa a panagbantay iti rabii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ti sangaribu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "kadagiti matam"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kas ti aldaw"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "idi kalman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "ken panagbantay"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "iti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:01.034273439Z",
+  "model": "glm-5.3"
+}

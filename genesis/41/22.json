@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Nakitak iti annipok, ken, adu, pito a balbalati ti immay nga agtakkur iti maysa a kawayan, napnuo ken naimbag.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "iti annipok"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ken, adu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "balbalati"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "immay nga agtakkur"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "iti kawayan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "napnuo"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "ken naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T02:58:30.049110055Z",
+  "model": "glm-5.3"
+}

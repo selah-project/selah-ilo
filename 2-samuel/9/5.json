@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Intulod ni David ti ari ket inalana isu manipud iti balay ni Makhir, anak ni Ammiel, manipud iti Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "intulod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "inalana isu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devar"
+    }
+  ],
+  "timestamp": "2026-09-26T11:37:10.275773197Z",
+  "model": "glm-5.3"
+}

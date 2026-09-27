@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket sumrekakanto iti ari ken matsirika kenkuana a kas daytoy a sao; ket ni Yoab isu ti nangikabil ⟨ti⟩ ⟨את⟩ dagiti sao iti ngiwatna.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "sumrekakanto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "matsirika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy a sao"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nangikabil"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "iti ngiwatna"
+    }
+  ],
+  "timestamp": "2026-09-26T11:48:37.445807384Z",
+  "model": "glm-5.3"
+}

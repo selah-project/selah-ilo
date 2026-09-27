@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Nakasabat ni Yahweh kenni Bilam, ket inikabilna ti sao iti ngiwatna, ken kinuna: Agsublika kenni Balak, ket kasta nga mapaoka.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "nakasabat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "inikabilna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "iti ngiwatna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ken kinuna"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ket kasta"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "nga mapaoka"
+    }
+  ],
+  "timestamp": "2026-09-26T07:00:46.644554287Z",
+  "model": "glm-5.3"
+}

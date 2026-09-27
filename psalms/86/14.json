@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Elohim, dagiti agngato ti panunotda immayda a lumaban kaniak, ket ti gimong dagiti makabuteng a mannakabalin insapulda ti kararwak, ket saanda a nangikabil kenka iti sanguanda.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "dagiti agngato ti panunotda"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "immayda a lumaban"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "ket ti gimong"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "dagiti makabuteng a mannakabalin"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "insapulda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "a nangikabil kenka"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "iti sanguanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:29.194422062Z",
+  "model": "glm-5.3"
+}

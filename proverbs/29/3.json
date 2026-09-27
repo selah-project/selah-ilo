@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ti lalaki nga ay-ayaten ti kinasirib, pagragsakanna ti amana; ket ti agpastor kadagiti babaing mamadut, mangdadael ti kayamanan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ayaten"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kinasirib"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "pagragsakanna"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amana"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ket agpastor"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "babaing mamadut"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "mangdadael"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kayamanan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:46:20.521063254Z",
+  "model": "glm-5.3"
+}

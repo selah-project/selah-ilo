@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "No ti maysa a taga-ruar ket agtagitaed ⟨את⟩ kenka iti dagayon a daga, saan yo koma a dadaelen ⟨את⟩ isuna.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "agtagitaed"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kenka"
+    },
+    {
+      "surface": "גר",
+      "gloss": "taga-ruar"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "iti dagayon a daga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "dadaelenyo koma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:45:01.479847070Z",
+  "model": "glm-5.3"
+}

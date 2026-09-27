@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket imbilinda kaniak ti kastoy a sao uppat a daras, ket sinungbatko ⟨את⟩ ti kastoy a sao kaniada.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "imbilinda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ti kastoy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a sao"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "a daras"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "sinungbatko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ti kastoy a sao"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ti kastoy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a sao"
+    }
+  ],
+  "timestamp": "2026-09-26T23:28:05.764073646Z",
+  "model": "glm-5.3"
+}

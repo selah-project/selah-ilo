@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 65,
+  "translation": "Ti umili a mangpaarriwtot ⟨את⟩ iti rupak a kanayon, mannagsakripisio kadagiti hardin, ken mangpainsenso iti rabaw dagiti ladrilio.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Ti umili"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "a mangpaarriwtot"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana — ti mabalin a maamongan ti panangarriwtot"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa[k]"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kanayon"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mannagsakripisio"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "kadagiti hardin"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ken mangpainsenso"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "kadagiti ladrilio"
+    }
+  ],
+  "timestamp": "2026-09-26T16:11:06.579213498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ken ⟨את⟩ ti karnero ibayadanna nga uppat a beses, gapu ta inaramidna ⟨את⟩ ti sao a daytoy, ken gapu ta saanna nga inasi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti karnero"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "ti karnero"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ibayadanna"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "uppat a beses"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a daytoy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken gapu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "nga inasi"
+    }
+  ],
+  "timestamp": "2026-09-26T11:42:20.249581664Z",
+  "model": "glm-5.3"
+}

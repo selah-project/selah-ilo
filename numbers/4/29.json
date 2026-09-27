@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Dagiti anak a lalaki ni Merari, babaen kadagiti pamilada, babaen kadagiti balay dagiti amada, ibilangem ⟨את⟩ ida.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ni Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "babaen kadagiti pamilada"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dagiti amada"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ibilangem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ida"
+    }
+  ],
+  "timestamp": "2026-09-26T06:09:02.218755740Z",
+  "model": "glm-5.3"
+}

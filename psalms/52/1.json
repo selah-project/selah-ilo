@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Ti Mannangida — maysa a maschil ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ti Mannangida"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maysa a maschil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T21:31:44.169358170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ti anak nga auyang iris ⟨iti⟩ amana, ken pait iti nangipasngay kenkuana.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "iris"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "iti amana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "auyang"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "ken pait"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "iti nangipasngay kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:57.041318994Z",
+  "model": "glm-5.3"
+}

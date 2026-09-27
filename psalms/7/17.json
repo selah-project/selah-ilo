@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Agsubli ti rigatna iti ulona, ket iti patekna tiranganna ti agturong nga agbaba.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ti rigatna"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "iti ulona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ket iti"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "patekna"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "tiranganna"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ti agturong nga agbaba"
+    }
+  ],
+  "timestamp": "2026-09-26T20:41:22.002640500Z",
+  "model": "glm-5.3"
+}

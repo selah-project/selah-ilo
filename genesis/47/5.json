@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Kinuna ni Paro ken ni Yosep, a maminsan: Umayto kadi kennika ti amam ken dagiti kakabsatmo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosep"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a maminsan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ti amam"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "ken dagiti kakabsatmo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "umayto kadi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kennika"
+    }
+  ],
+  "timestamp": "2026-09-26T03:17:10.298894556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket intulod ni Hadadezer ken inruarna ⟨את⟩ ti Aram nga adda iti ballasiw ti karayan, ket simrekda iti Khelam; ket ni Shovakh, ti daulo ti buyot ni Hadadezer, ⟨ti⟩ agtaktakder iti sanguanda.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ket intulod"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ken inruarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "iti ballasiw"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ket simrekda"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "iti Khelam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "ket ni Shovakh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti daulo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "iti sanguanda"
+    }
+  ],
+  "timestamp": "2026-09-26T11:40:26.077166177Z",
+  "model": "glm-5.3"
+}

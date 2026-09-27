@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ket inaramidna ⟨את⟩ dagiti baras a kayo ti shittim, ket binalbalutna ⟨אתם⟩ iti gambang.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti baras"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dagiti baras"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "a kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ti shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ket binalbalutna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iti gambang"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iti gambang"
+    }
+  ],
+  "timestamp": "2026-09-26T04:42:36.775953042Z",
+  "model": "glm-5.3"
+}

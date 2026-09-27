@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Saan da nga ammo ken saan da nga maaw-awatan, ta nailemmaan dagiti matada a saan a makakita, ken dagiti pusoda a saan a makaaw-awat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "da nga ammo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "da nga maaw-awatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טח",
+      "gloss": "nailemmaan"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ti panagkitada"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "dagiti matada"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "ti panunot"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "dagiti pusoda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:39:28.958747032Z",
+  "model": "glm-5.3"
+}

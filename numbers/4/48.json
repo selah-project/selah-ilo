@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket dagiti nabilang da ket walo a ribu ken lima a gasut ken walo nga innem a pulo.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ket nagbalin"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "dagiti nabilang da"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "walo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ken lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ken walo nga innem a pulo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:16:00.556925456Z",
+  "model": "glm-5.3"
+}

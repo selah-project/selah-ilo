@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kaawan ti kaawanan, kinuna ni Koheleth; kaawan ti kaawanan, ti amin ket kaawan.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "kaawan"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ti kaawanan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ni Koheleth"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kaawan"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ti kaawanan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kaawan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:06.354923943Z",
+  "model": "glm-5.3"
+}

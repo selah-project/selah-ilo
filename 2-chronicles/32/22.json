@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ket isinalakanna ni Yahweh ⟨את⟩ ni Yekizkiyahu ken ⟨את⟩ dagiti agnaed iti Yerushalayim manipud iti ima ni Sanheriv, ari ti Ashur, ken manipud iti ima ti amin; ket tinurongannada iti amin nga aglawlaw.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "isinalakanna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yekizkiyahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yekizkiyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti agnaed iti Yerushalayim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dagiti agnaed"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ni Sanheriv"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ken manipud iti ima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "tinurongannada"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "iti amin nga aglawlaw"
+    }
+  ],
+  "timestamp": "2026-09-26T23:57:29.553670435Z",
+  "model": "glm-5.3"
+}

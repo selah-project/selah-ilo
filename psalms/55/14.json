@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "Ngem sika, tao a kas kaniak, kakaarrubaak ken kaammmoak.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngem sika"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "a kas kaniak"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "kakaarrubaak"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "ken kaammmoak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:42.171069992Z",
+  "model": "glm-5.3"
+}

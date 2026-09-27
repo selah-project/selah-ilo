@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Iti agnanayon saannakto a lipaten dagiti bilinmo, ta kadakuada pinagbiagannak.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "lipaten"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "pinagbiagannak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:39.826918030Z",
+  "model": "glm-5.3"
+}

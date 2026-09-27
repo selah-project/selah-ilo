@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Inaramidko ti ukom ken ti kinalinteg; saanmo akon ibati kadagiti mannakadangran.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Inaramidko"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ken ti kinalinteg"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "mo akon ibati"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "kadagiti mannakadangran"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:12.654944421Z",
+  "model": "glm-5.3"
+}

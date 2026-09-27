@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 7:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Dagiti anak ni Tola: Uzi, ken Refaya, ken Yeriel, ken Yahmay, ken Yivsham, ken Shemuel — dagiti ulo iti balay dagiti amada, kadua ni Tola; dagiti mannakabalin iti bileg kadagiti kaputotan da. Ti bilang da idi dagiti aldaw ni David: duapulo ket dua a ribu ken innem a gasut.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "ni Tola"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "ken Refaya"
+    },
+    {
+      "surface": "ויריאל",
+      "gloss": "ken Yeriel"
+    },
+    {
+      "surface": "ויחמי",
+      "gloss": "ken Yahmay"
+    },
+    {
+      "surface": "ויבשם",
+      "gloss": "ken Yivsham"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ken Shemuel"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "dagiti ulo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "dagiti amada"
+    },
+    {
+      "surface": "לתולע",
+      "gloss": "kadua ni Tola"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "dagiti mannakabalin"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "kadagiti kaputotan da"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ti bilang da"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "idi dagiti aldaw"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ket dua"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ken innem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:00.762521562Z",
+  "model": "glm-5.3"
+}

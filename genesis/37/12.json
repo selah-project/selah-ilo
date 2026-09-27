@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ket napan dagiti kabsatna a tarakenen ⟨את⟩ dagiti karnero ti amada iti Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "napan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dagiti kabsatna"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "a tarakenen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti karnero"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dagiti karnero"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ti amada"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "iti Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-26T02:47:40.906931010Z",
+  "model": "glm-5.3"
+}

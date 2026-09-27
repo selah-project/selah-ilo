@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Iti pusok nilemmengko ti saom, tapno saanak a managbasol kenka.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "iti pusok"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "nilemmengko"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ti saom"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "managbasol"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:36.184287818Z",
+  "model": "glm-5.3"
+}

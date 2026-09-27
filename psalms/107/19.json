@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Ket immawagda kenni Yahweh iti kasakitda; manipud kadagiti rigatda isalakannadu.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ket immawagda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "iti kasakitda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "da"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "manipud kadagiti rigatda"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "isalakannadu"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:20.136273992Z",
+  "model": "glm-5.3"
+}

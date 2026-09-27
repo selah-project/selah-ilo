@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Nagtikuen ni Bel, nakurod ni Nevo; sinanglayda ⟨iti⟩ dagiti atin nga ayup ken dagiti taraken nga ayup; dagiti buotenda ket naisangladan — apuy a pagdagsenan ti agsagsagana.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Nagtikuen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ni Bel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "nakurod"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ni Nevo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "agsanglayda"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "dagiti ladladuanda"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "kadagiti atin nga ayup"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ken kadagiti taraken nga ayup"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "dagiti buotenda"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "naisangladan"
+    },
+    {
+      "surface": "משא",
+      "gloss": "apuy a pagdagsenan"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "ti agsagsagana"
+    }
+  ],
+  "timestamp": "2026-09-26T15:38:14.597567305Z",
+  "model": "glm-5.3"
+}

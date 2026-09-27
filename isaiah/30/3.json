@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ket agbalin koma daytoy a kaniakayo ti bileg ni Paro a bain, ket ti panaglemmeng iti aniniong ti Mitsrayim a kadkaduaan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaniakayo"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "a bain"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "ket ti panaglemmeng"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "iti aniniong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "a kadkaduaan"
+    }
+  ],
+  "timestamp": "2026-09-26T15:10:06.527156679Z",
+  "model": "glm-5.3"
+}

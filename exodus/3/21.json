@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Itedko ti ⟨את⟩ tsenna ti daytoy a tao kadagiti mata dagiti taga-Mitsrayim, ket agtultuloy a no mapan kayo, saan kayo a mapan nga awan ti awatyo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsenna"
+    },
+    {
+      "surface": "חן",
+      "gloss": "tsenna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "taga-Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "agtultuloy a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "mapan kayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "a mapan kayo"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ngaan ti awatyo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:27:43.396274157Z",
+  "model": "glm-5.3"
+}

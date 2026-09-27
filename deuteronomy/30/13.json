@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 30:13",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ken saan daytoy iti labes ti baybay, a kuma: Sino ti agballasiw kadakami iti labes ti baybay, ken alaennana kadakami, ken ipangngegnana kadakami ⟨את⟩ daytoy, ken aramidentayo daytoy?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "iti labes"
+    },
+    {
+      "surface": "לים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuma"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ti agballasiw"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "labes"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ken alaennana kadakami"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ken ipangngegnana kadakami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy (ti sao)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "ken aramidentayo daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T08:38:09.023621585Z",
+  "model": "glm-5.3"
+}

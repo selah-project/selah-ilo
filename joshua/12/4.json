@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ken ti beddeng ni Og, ari Bashan, maysa kadagiti nabati a Refaim, nga agnaed iti Ashtarot ken Edrei:",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "ken ti beddeng"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ni Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "kadagiti nabati"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "a Refaim"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "nga agnaed"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "iti Ashtarot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "ken Edrei"
+    }
+  ],
+  "timestamp": "2026-09-26T09:11:32.872227112Z",
+  "model": "glm-5.3"
+}

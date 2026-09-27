@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Nasaysayaat ti patingga ti sao ngem ti rugina; nasaysayaat ti atiddog nga espiritu ngem ti nangato nga espiritu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nasaysayaat"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ti patingga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ngem ti rugina"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasaysayaat"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ti atiddog"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nga espiritu"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ngem ti nangato"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nga espiritu"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:16.651267928Z",
+  "model": "glm-5.3"
+}

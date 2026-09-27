@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "No nakitamo ti mannakatakaw, immayka kaduana, ken kadagiti mannakabain ti pasetmo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "nakitamoi"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ti mannakatakaw"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "immayka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "mannakabain"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ti pasetmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:24:08.327074207Z",
+  "model": "glm-5.3"
+}

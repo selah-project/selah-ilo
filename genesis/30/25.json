@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Idi napasamak dayta, no nayanak ni Rakhel ⟨את⟩ ni Yosef, kinuna ni Yaakov kenni Lavan: Palubosannak, ket mapanak iti dissok ken iti dagaok.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak dayta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nayanak"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ni Rakhel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Palubosannak"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ket mapanak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "dissok"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "ken iti dagaok"
+    }
+  ],
+  "timestamp": "2026-09-26T02:33:29.812605477Z",
+  "model": "glm-5.3"
+}

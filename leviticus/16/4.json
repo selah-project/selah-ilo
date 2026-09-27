@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 16:4",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ti nasantuan a lino a koton isu ti isuelsuonna; dagiti lino a pursoy addada iti lasagna; iti lino a sinturon ipilenna; iti lino a turbante ikappenna; nasantuan a bado dagitoy; ket agdigosna iti danum ⟨את⟩ lasagna, ken isuelsuenna ida.",
+  "tokens": [
+    {
+      "surface": "כתנת",
+      "gloss": "koton"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lino"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "isuelsuonna"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "ken dagiti pursoy"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lino"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "addada"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lasagna"
+    },
+    {
+      "surface": "ובאבנט",
+      "gloss": "ken iti sinturon"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lino"
+    },
+    {
+      "surface": "יחגר",
+      "gloss": "ipilenna"
+    },
+    {
+      "surface": "ובמצנפת",
+      "gloss": "ken iti turbante"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lino"
+    },
+    {
+      "surface": "יצנף",
+      "gloss": "ikappenna"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bado"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ken agdigosna"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasagna"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lasagna"
+    },
+    {
+      "surface": "ולבשם",
+      "gloss": "ken isuelsuenna ida"
+    }
+  ],
+  "timestamp": "2026-09-26T05:39:03.913504024Z",
+  "model": "glm-5.3"
+}

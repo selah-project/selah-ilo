@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Saanak a matay, ta agbiagak, ket ibagak dagiti aramid ni Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saanak"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "matay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "agbiagak"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "ket ibagak"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dagiti aramid"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:25.152952092Z",
+  "model": "glm-5.3"
+}

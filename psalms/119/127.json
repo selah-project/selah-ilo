@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Gapuna kay-ayatek dagiti bilinmo ngatuen ti balitok, ken ngatuen ti napino a balitok.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(iti dayta)"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kay-ayatek"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ngatuen ti balitok"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ken ngatuen ti napino a balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:49.000021272Z",
+  "model": "glm-5.3"
+}

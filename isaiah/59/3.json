@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Ta dagiti paladyo namarisan iti dara, ken dagiti ramayyo iti kadaksanan; dagiti bibigyo nagsaoda kadagiti sao a saan a pudno, ti dilayo agraragto iti kinadakes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "dagiti paladyo"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "namarisan"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "ken dagiti ramayyo"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "iti kadaksanan"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "dagiti bibigyo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nagsaoda"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kadagiti sao a saan a pudno"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "ti dilayo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "iti kinadakes"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "agraragto"
+    }
+  ],
+  "timestamp": "2026-09-26T16:01:07.265446302Z",
+  "model": "glm-5.3"
+}

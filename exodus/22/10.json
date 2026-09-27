@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "ti sumpa ni Yahweh ti agtalgan iti nagbaetan ti dua, no saan a pinatulodna ti imana iti aramid ti kabsatna; ket awatenna ti apona, ket saan a mangibayar.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "ti sumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ti agtalgan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ti dua"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pinatulod"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "iti aramid"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ti kabsatna"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ket awatenna"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ti apona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "a mangibayar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:06:36.564753961Z",
+  "model": "glm-5.3"
+}

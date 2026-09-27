@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Ti mangibuson iti nasayaat a banag ⟨iti⟩ ragsakmo, mapabaro manen a kas ti agila ti kabataanmo.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Ti mangibuson"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "iti nasayaat a banag"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "iti ragsakmo"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "mapabaro manen"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "a kas ti agila"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "ti kabataanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:47.492190339Z",
+  "model": "glm-5.3"
+}

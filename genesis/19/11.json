@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ken ⟨את⟩ dagiti tao a idiay ruangan ti balay, intiganda iti bubon, manipud iti bassit agingga iti dakkel, ket nakapsanda a mangbiruk ti ruangan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti tao"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "idiay ruangan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "intiganda"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "iti bubon"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "manipud iti bassit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "iti dakkel"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "nakapsanda"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "a mangbiruk"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ti ruangan"
+    }
+  ],
+  "timestamp": "2026-09-26T02:01:32.168421480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 35:33",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "ken iti panagdait iti bato a maikabil, ken iti panagdait iti kayo, a mangaramid iti amin a pagaramidan a naisagana",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "ken iti panagdait"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "iti bato"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "a maikabil"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "ken iti panagdait"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "iti kayo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "a mangaramid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "pagaramidan"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "a naisagana"
+    }
+  ],
+  "timestamp": "2026-09-26T04:40:59.210201206Z",
+  "model": "glm-5.3"
+}

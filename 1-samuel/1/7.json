@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket kastoy ti aramidenna, tawen iti tawen; tunggal magna iti balay ni Yahweh, kastoy ti inakngitanna; isu a nagsangit isuna ket saan a mangan.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ket kastoy"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ti aramidenna"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tawen"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "tunggal"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "panagnaonna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ket kastoy"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "ti inakngitanna"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "isu a nagsangit isuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "a mangan"
+    }
+  ],
+  "timestamp": "2026-09-26T10:21:45.544582312Z",
+  "model": "glm-5.3"
+}

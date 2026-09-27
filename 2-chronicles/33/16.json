@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ket inpatakderna manen ⟨את⟩ ti altar ni Yahweh, ket nangidakit kadakuana kadagiti sakripisio ti kappia ken panagyaman, ket kinunana kenni Yehudah nga agserbi ⟨את⟩ kenni Yahweh, ti Elohim ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "inpatakderna manen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti altar ni Yahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "nangidakit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kadagiti sakripisio"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "ken panagyaman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kenni Yehudah"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "nga agserbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T23:57:46.692281214Z",
+  "model": "glm-5.3"
+}

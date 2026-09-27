@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ti ⟨את⟩ pilakmo saanmo nga ited kenkuana iti interes, ket iti panagnayon saanmo nga ited ti makanmo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilakmo"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "pilakmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nga ited"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "iti interes"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "ket iti panagnayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nga ited"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "makanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:51:36.890870797Z",
+  "model": "glm-5.3"
+}

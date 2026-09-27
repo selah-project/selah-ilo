@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "ket dinaddanna ⟨את⟩ dagiti balay dagiti kedeshim a adda iti balay ni Yahweh, a sadino dagiti babai agabelda idiay dagiti tolda para iti Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "dinaddanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti balay"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "dagiti balay"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "dagiti kedeshim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "dagiti babai"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "agabelda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "dagiti tolda"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "para iti Asherah"
+    }
+  ],
+  "timestamp": "2026-09-26T14:08:31.661416011Z",
+  "model": "glm-5.3"
+}

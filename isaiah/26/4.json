@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Agpanunokayo kenni Yahweh agingga agnanayon, ta kenni Yah, Yahweh, bato ti agnanayon.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "agpanunokayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "kenni Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bato"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T14:53:23.000396396Z",
+  "model": "glm-5.3"
+}

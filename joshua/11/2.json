@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ken kadagiti ari a nga adda iti amianan, iti bantay ken iti tanap, iti abagatan ti Kinerot ken iti nababa a daga, ken kadagiti patingga ti Dor iti laud.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a nga"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "iti amianan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "ken iti tanap"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "iti abagatan"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "ti Kinerot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "ken iti nababa a daga"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "ken kadagiti patingga"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ti Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "iti laud"
+    }
+  ],
+  "timestamp": "2026-09-26T09:15:37.182878773Z",
+  "model": "glm-5.3"
+}

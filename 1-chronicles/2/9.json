@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Dagiti anak ni Khetsron a naiputotan kona: ⟨את⟩ ni Yerakhmel, ken ⟨את⟩ ni Ram, ken ⟨את⟩ ni Khelubay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ni Khetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "naiputotan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yerakhmel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerakhmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Khelubay"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Khelubay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:23.497076100Z",
+  "model": "glm-5.3"
+}

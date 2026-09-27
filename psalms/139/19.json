@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "No patayenmo ti dakes, Eloah; dagiti lallaki ti dara, agikkaykayo manipud kaniak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "patayenmo"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "agikkaykayo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manipud kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:03.230889580Z",
+  "model": "glm-5.3"
+}

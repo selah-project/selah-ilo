@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ni Yehudah met laeng ket saan a nasalaknibananna ⟨את⟩ dagiti bilin ni Yahweh nga Elohim da, ket nagnada kadagiti estatuto ti Yisrael a nagaramidanda.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "met laeng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nasalaknibananna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bilin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "dagiti bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim da"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nagnada"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "kadagiti estatuto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nagaramidanda"
+    }
+  ],
+  "timestamp": "2026-09-26T13:56:07.008015131Z",
+  "model": "glm-5.3"
+}

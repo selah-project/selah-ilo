@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kinuna ti ari ti Yisrael: Adyu! ta inawagna ni Yahweh dagitoy tallo nga ari a mangited ⟨את⟩ ⟨אותם⟩ iti ima ti Moab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Adyu!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "inawagna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "dagitoy tallo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "a mangited"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "dagitoy tallo nga ari"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    }
+  ],
+  "timestamp": "2026-09-26T13:15:02.148262330Z",
+  "model": "glm-5.3"
+}

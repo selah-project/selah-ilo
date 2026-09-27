@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "Iti sangapulo a kuerdas ken iti nebel, iti unina a timek iti kinnor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Iti"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sangapulo a kuerdas"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "unina a timek"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "iti kinnor"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:59.401690766Z",
+  "model": "glm-5.3"
+}

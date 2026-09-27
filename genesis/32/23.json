@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Immurong isuna iti rabii idi, ket inalana ⟨את⟩ dagiti dua a asawana ken ⟨את⟩ dagiti dua a adipen a babaina ken ⟨את⟩ dagiti sangapulo ket maysa nga anakna, ket ipinanna ⟨את⟩ ti pagtalinaedan ti Yabboq.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "immurong"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "idi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dua a asawana"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "a asawana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti dua a adipen a babaina"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "a adipen a babaina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti sangapulo ket maysa nga anakna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "ngaanakna"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ipinanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagtalinaedan ti Yabboq"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ti pagtalinaedan"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "ti Yabboq"
+    }
+  ],
+  "timestamp": "2026-09-26T02:34:53.545757726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Yahweh, asiannakami; kenka ti inuraymi; agbalinka a bileg ti umuna a bigat, ken ti panangisalakantayo iti tiempo ti rigat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "asiannakami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "ti inuraymi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "agbalinka"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "a bileg"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "iti umuna a bigat"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ken"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ti panangisalakantayo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "iti tiempo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ti rigat"
+    }
+  ],
+  "timestamp": "2026-09-26T15:07:46.036961970Z",
+  "model": "glm-5.3"
+}

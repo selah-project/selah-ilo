@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Idi nangipundar ti pundasion dagiti agipatpatayo ⟨את⟩ ti templo ni Yahweh, intakderda a nakabado dagiti padi nga addaan kadagiti tambuli, ken dagiti Levita, dagiti anak ni Asaf, kadagiti simbalo, nga ipadayawda ⟨את⟩ ni Yahweh babaen kadagiti im ni David nga ari ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "idi nangipundar"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "dagiti agipatpatayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ti pundasion ⟨ti templo⟩",
+      "marks": "ti templo ni Yahweh"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ti templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "intakderda"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "a nakabado"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "nga addaan kadagiti tambuli"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ken dagiti Levita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "kadagiti simbalo"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "nga ipadayawda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kadagiti im"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T23:22:07.281896364Z",
+  "model": "glm-5.3"
+}

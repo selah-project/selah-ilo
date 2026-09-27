@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 61,
+  "translation": "Manipud iti patingga ti daga kenka agawagak, no makulimgaw ti pusok; iti bato a natayngato ngem kaniak iturongnak.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Manipud iti patingga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "agawagak"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "no makulimgaw"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "iti bato"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "natayngato"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ngem kaniak"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "iturongnak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:37:40.477276355Z",
+  "model": "glm-5.3"
+}

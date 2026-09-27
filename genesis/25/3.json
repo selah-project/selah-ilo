@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ket ni Yokshan nagannak ⟨את⟩ Sheva ken ⟨את⟩ Dedan; ket dagiti anak ni Dedan — isuda ti Ashurim, ken Letushim, ken Leumim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Ket ni Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagannak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ket dagiti anak"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ni Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "ti Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "ken Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ken Leumim"
+    }
+  ],
+  "timestamp": "2026-09-26T02:20:06.170559448Z",
+  "model": "glm-5.3"
+}

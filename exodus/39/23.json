@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 39:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ket ti patak ti bado iti tengngana, kas ti patak ti takra, addaan siping iti pagtakrana a mangpalikmutan, saan a rumrad.",
+  "tokens": [
+    {
+      "surface": "ופי",
+      "gloss": "ket ti patak"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ti bado"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "iti tengngana"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kas ti patak"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "takra"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "siping"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "iti pagtakrana"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mangpalikmutan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "rumrad"
+    }
+  ],
+  "timestamp": "2026-09-26T04:48:40.924746313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Idi ti Beith-Shemesh, agapitda iti apit ti trigo iti tanap, ket immangato ⟨את⟩ dagiti matada ket nakitada ⟨את⟩ ti arko, ket ragsakda gapu iti panangnakita.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "idi ti Beith-Shemesh"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Beith-Shemesh"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "agapitda"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "apit"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "iti tanap"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "immangato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti matada"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "dagiti matada"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ragsakda"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "gapu iti panangnakita"
+    }
+  ],
+  "timestamp": "2026-09-26T10:34:54.062188158Z",
+  "model": "glm-5.3"
+}

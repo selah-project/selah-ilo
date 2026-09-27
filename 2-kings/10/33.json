@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 10:33",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Manipud iti Yarden, iti daya ti init, ⟨את⟩ ti amin a daga ti Gilead, ti Gad, ken ti Reuben, ken ti Manases, manipud iti Aroer nga adda iti karayan Arnon, ken ti Gilead ken ti Bashan.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a daga ti Gilead"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ti Gilead"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "ti Gad"
+    },
+    {
+      "surface": "והראובני",
+      "gloss": "ken ti Reuben"
+    },
+    {
+      "surface": "והמנשי",
+      "gloss": "ken ti Manases"
+    },
+    {
+      "surface": "מערער",
+      "gloss": "manipud iti Aroer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda iti"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "ken ti Gilead"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "ken ti Bashan"
+    }
+  ],
+  "timestamp": "2026-09-26T13:34:35.576193558Z",
+  "model": "glm-5.3"
+}

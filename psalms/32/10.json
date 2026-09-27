@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Adu dagiti lasat ti maipapan iti dakes; ngem ti agtalek kenni Yahweh — hesed ti aglikmut kenkuana.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Adu"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "dagiti lasat"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ti maipapan iti dakes"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "ngem ti agtalek"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יְסֹבְבֶנּוּ",
+      "gloss": "ti aglikmut kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:06:54.250923055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti aniaman nga adda bidutna, saanyo a yawaten; ta saan nga agbalin a mapaneknekan kaniyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ti aniaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "adda"
+    },
+    {
+      "surface": "מום",
+      "gloss": "bidutna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanyo"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "a yawaten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "a mapaneknekan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaniyo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:41:17.469551002Z",
+  "model": "glm-5.3"
+}

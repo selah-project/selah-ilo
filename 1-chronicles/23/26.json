@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ken pay, kadagiti Levita: awan ti mangitalged ⟨iti⟩ ⟨את⟩ Mishkan ken ⟨את⟩ amin a ramitna para iti panagserbina.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ken pay"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kadagiti Levita"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ti mangitalged"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a ramitna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a ramitna"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "para iti panagserbina"
+    }
+  ],
+  "timestamp": "2026-09-26T23:41:16.590145964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Dagiti anak ni Yefet: ni Gomer, ken ni Magog, ken ni Madai, ken ni Yavan, ken ni Tuval, ken ni Meshekh, ken ni Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ni Yefet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ni Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "ken ni Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ken ni Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ken ni Yavan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ken ni Tuval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ken ni Meshekh"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ken ni Tiras"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:03.007624823Z",
+  "model": "glm-5.3"
+}

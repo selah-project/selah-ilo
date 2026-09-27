@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "idi ipakitana ⟨את⟩ ti kayamanan ti daydayaw ti pagarianna ken ⟨את⟩ ti kinadakkel ti pintas ti kadakkelna — adu nga aldaw, walopulo ken sangagasut nga aldaw.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "idi ipakitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kayamanan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ti kayamanan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ti pagarianna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kinadakkel"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ti kinadakkel"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ti pintas"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "ti kadakkelna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adu nga aldaw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "walopulo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ken sangagasut"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:05.102757964Z",
+  "model": "glm-5.3"
+}

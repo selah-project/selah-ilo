@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": "Ta kitaem, ti sipnget agabbonganto iti daga, ken ti nakaro a sipnget iti dagiti umili; ngem iti siammo rummuaranto ni Yahweh, ken ti daydayawna iti siammo ti makita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ti sipnget"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "agabbonganto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ken ti nakaro a sipnget"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "iti dagiti umili"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "ngem iti siammo"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "rummuaranto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "ken ti daydayawna"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "iti siammo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ti makita"
+    }
+  ],
+  "timestamp": "2026-09-26T16:05:26.875360200Z",
+  "model": "glm-5.3"
+}

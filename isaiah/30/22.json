@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ket parugitanyo ⟨את⟩ ti abbong ti pirak kadagiti kita a didiosen, ken ⟨את⟩ ti panangioting ti napuoran a kita ti balitokmo; isangsangalityo da a kas ti maysa a narugit; umeka, kunam kanyana.",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "ket parugitanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti abbong ti pirak"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "ti abbong"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "kadagiti kita a didiosen"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti panangioting"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "ti panangioting"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "ti napuoran a kita"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "ti balitokmo"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "isangsangalityo da"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ti maysa a narugit"
+    },
+    {
+      "surface": "צא",
+      "gloss": "umeka"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "kunam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanyana"
+    }
+  ],
+  "timestamp": "2026-09-26T15:10:59.087337491Z",
+  "model": "glm-5.3"
+}

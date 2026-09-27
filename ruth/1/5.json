@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket natay met ti dua — ni Makhlon ken ni Khilyon — ket naiwanan ti babai, naikkat kadagiti dua nga anakna ken iti asawana.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "ket natayda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ti dua"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "ni Makhlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "ken ni Khlyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ket naiwanan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "משני",
+      "gloss": "manipud kadagiti dua"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "ken iti asawana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:02:48.947342377Z",
+  "model": "glm-5.3"
+}

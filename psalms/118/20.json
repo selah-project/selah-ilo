@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Daytoy ti pagtikanganan kenni Yahweh; dagiti nalinteg sumrekanda iti dayta.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Daytoy"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ti pagtikanganan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sumrekanda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:25.153810790Z",
+  "model": "glm-5.3"
+}

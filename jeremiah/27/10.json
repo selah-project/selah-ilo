@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "ta agpadtoda iti saan nga agpayso kadakayo, tapno maadayokayo manipud iti daga yo, ket italawnak kamo, ket mapukawkayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "saan nga agpayso"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "agpadtoda"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "maadayokayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "maadayokayo manipud iti daga yo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "daga yo"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "ket italawnak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "italawnak"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "ket mapukawkayo"
+    }
+  ],
+  "timestamp": "2026-09-26T17:07:47.580403425Z",
+  "model": "glm-5.3"
+}

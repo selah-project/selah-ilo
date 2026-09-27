@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Tudit ken darakdarak ti patuboyenna kenka, ket makanmo ⟨את⟩ ti mula ti talon.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "tudit"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ken darakdarak"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ti patuboyenna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ket makanmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mula ti talon"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "mula"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:40.391005212Z",
+  "model": "glm-5.3"
+}

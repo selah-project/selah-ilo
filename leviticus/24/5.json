@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ken alaem ti tapuel a napino, ket lutoenmo ⟨את⟩ dayta: sangapulo ket dua a tinapay; dua a sangapulo a paset ti addanto iti tunggal maysa a tinapay.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tapuel a napino"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "lutoenmo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (dagiti tinapay)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ket sangapulo"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "a tinapay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "a sangapulo a paset"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "addanto"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ti maymaysa"
+    }
+  ],
+  "timestamp": "2026-09-26T05:49:24.504047961Z",
+  "model": "glm-5.3"
+}

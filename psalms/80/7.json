@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Ikabilannakami a pagdandanonen kadagiti kaarrubanatayo, ket dagiti kabusoratayo aguyawda ⟨iti bagbagida⟩.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ikabilannakami"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "a pagdandanonen"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kadagiti kaarrubanatayo"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "ket dagiti kabusoratayo"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "aguyawda"
+    },
+    {
+      "surface": "למו",
+      "gloss": "iti bagbagida"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:20.295958588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Kitaen, ti ima ni Yahweh saan a nabiit a saanna a makaisalakan, ket ti lapayagna saan a nadagsen a saanna a makadengngeg.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kitaen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "a nabiit"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ti ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "a makaisalakan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "a nadagsen"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ti lapayagna"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "a makadengngeg"
+    }
+  ],
+  "timestamp": "2026-09-26T16:01:07.265033366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket sika, agtakderka, sumanka iti balaymo; no rumuar dagiti sakam iti ili, ti ubbing ti matayanto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "agtakderka"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "sumanka"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "iti balaymo"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "no rumuar"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "dagiti sakam"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ti matayanto"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ti ubbing"
+    }
+  ],
+  "timestamp": "2026-09-26T12:53:49.093344768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Amin nga awan ti pingir ken kaliskis iti danum, dawel dayta koma.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "pingir"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ken kaliskis"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "dawel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "koma"
+    }
+  ],
+  "timestamp": "2026-09-26T05:12:07.829608235Z",
+  "model": "glm-5.3"
+}

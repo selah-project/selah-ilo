@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Immay ti ari ken ti amin ti umili a ⟨את⟩ kaduana, a napuyotda, ket naginanada sadiay.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaduana",
+      "marks": "kaduana"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "napuyot"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "naginana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T11:52:50.640778798Z",
+  "model": "glm-5.3"
+}

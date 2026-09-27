@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Kinuna ni Yahweh kenni Moshe a kunaen:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunaen"
+    }
+  ],
+  "timestamp": "2026-09-26T05:48:04.677862456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 21:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Kinuna ni Ahab kenni Eliyahu: Nakasarakannak, ta kabusork? Ket kinunana: Nakasaraka, ta inlakam ti bagim nga aramiden ti dakes iti panangkita ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "המצאתני",
+      "gloss": "nakasarakannak"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kabusork"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "nakasaraka"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ta"
+    },
+    {
+      "surface": "התמכרך",
+      "gloss": "inlakam ti bagim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti panangkita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T13:10:26.767093090Z",
+  "model": "glm-5.3"
+}

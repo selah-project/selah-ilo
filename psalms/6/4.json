@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket nabaligaasan unay ti kararwak; ken sika, Yahweh, agingga no kaano?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ket ti kararwak"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "nabaligaasan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "no kaano"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:58.472416827Z",
+  "model": "glm-5.3"
+}

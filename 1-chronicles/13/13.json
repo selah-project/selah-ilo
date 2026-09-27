@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Saan nga inikkat ni David ⟨את⟩ ti arko a mapan kenniana, iti ili ni David, ket inyalinna daytoy idiay balay ni Oved-Edom a Giteo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nga inikkat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a mapan kenniana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "ket inyalinna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "a Giteo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:20.776853647Z",
+  "model": "glm-5.3"
+}

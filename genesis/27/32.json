@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Kinunana ni Yitskhak amana kenkuana: Siasinoka? Ket kinunana: Siak ti anakmo, ti panganaymo, ni Esav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ti anakmo"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ti panganaymo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-26T02:33:03.876593882Z",
+  "model": "glm-5.3"
+}

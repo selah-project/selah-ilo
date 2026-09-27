@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kinapos ni Noach — segun iti amin a timmanduales ⟨את⟩ kenkuana ni Elohim, kasta ti inaramidna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kinapos"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "segun iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "timmanduales"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana ni Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti inaramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T01:45:55.223507086Z",
+  "model": "glm-5.3"
+}

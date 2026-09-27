@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Adda sao a kunaen: Kitaem, daytoy ket baro! — idi pay laeng napasamak daytoy iti agnanayon, a napasamak iti sanguanmi.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "a kunaen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "idi pay laeng"
+    },
+    {
+      "surface": "היה",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היה",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "iti sanguanmi"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:29.941056267Z",
+  "model": "glm-5.3"
+}

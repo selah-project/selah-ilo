@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket napan ni Avimelekh iti Tevetz, ket nakampo iti Tevetz, ket inalana ti ili.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ket napan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ni Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevetz"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ket nakampo"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "iti Tevetz"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ket inalana ti ili"
+    }
+  ],
+  "timestamp": "2026-09-26T09:57:20.459267736Z",
+  "model": "glm-5.3"
+}

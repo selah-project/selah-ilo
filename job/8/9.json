@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "(Ta idi kalman laeng dagitay, ket saan datayo ammo, ta anino dagiti aldawtayo iti daga.)",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "idi kalman"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "dagitay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "datayo ammo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "צל",
+      "gloss": "anino"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dagiti aldawtayo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:49:52.537764328Z",
+  "model": "glm-5.3"
+}

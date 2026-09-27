@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Saan kadi a bassit unay dagiti aldawko? Sardengka, ikkatmo kaniak, ket agragsakak bassit.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit unay"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldawko"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "sardengka"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ikkatmo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "ket agragsakak"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    }
+  ],
+  "timestamp": "2026-09-26T22:49:00.895334224Z",
+  "model": "glm-5.3"
+}

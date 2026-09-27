@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Salaknibanmo ti dilaam manipud iti dakes, ken dagiti bibim manipud iti panagsao ti panandaya.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Salaknibanmo"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ti dilaam"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "manipud iti dakes"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ken dagiti bibim"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "iti panagsao"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ti panandaya"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:42.559238575Z",
+  "model": "glm-5.3"
+}

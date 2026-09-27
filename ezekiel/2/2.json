@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket immay kaniak ti anges, kas iti panagsaona kaniak, ket intakderannakon iti sakak, ket nangngegak ⟨את⟩ ti nagsasao kaniak.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "anges"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "panagsaona"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "ket intakderannakon"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "sakak"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "ket nangngegak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagsasao"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ti nagsasao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:09:08.557596740Z",
+  "model": "glm-5.3"
+}

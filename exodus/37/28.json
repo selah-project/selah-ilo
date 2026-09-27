@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Kinunana ⟨את⟩ dagiti pagkarjon manipud iti kayo ti akasia, ket kinapsotanna ⟨את⟩ dagitoy iti balitok.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pagkarjon"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dagiti pagkarjon"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ket kinapsotanna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T04:44:16.308737767Z",
+  "model": "glm-5.3"
+}

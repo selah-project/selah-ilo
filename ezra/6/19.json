@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket inaramidda dagiti anak ti pagtagilakuan ⟨את⟩ ti Pesach iti sangapulo ket uppat nga aldaw iti umuna a bulan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ti pagtagilakuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ti Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "iti sangapulo ket"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "umuna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:23:34.146986752Z",
+  "model": "glm-5.3"
+}

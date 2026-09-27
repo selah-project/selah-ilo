@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Ta ayatannakon, isu a isalakannak; ipangatoak, ta ammo na ti naganKo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "inayatannak"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "isu a isalakannak"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ipangatoak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo na"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ti naganKo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:31.687717028Z",
+  "model": "glm-5.3"
+}

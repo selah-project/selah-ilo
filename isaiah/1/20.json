@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ngem no saanyo a kayat ken agsuhumantayo, ti tabak ti mangan kenkayo; ta ti ngiwat ni Yahweh ti nagsao.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ngem no"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "saanyo a kayat"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ken agsuhumantayo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ti tabak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ti mangan kenkayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti nagsao"
+    }
+  ],
+  "timestamp": "2026-09-26T14:17:04.675080462Z",
+  "model": "glm-5.3"
+}

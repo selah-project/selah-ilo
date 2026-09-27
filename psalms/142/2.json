@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 142,
+  "translation": "Ti timekok kenni Yahweh — aguyuyek; ti timekok kenni Yahweh — agpakaasiak.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ti timekok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "aguyuyek"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ti timekok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "agpakaasiak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:35.614759617Z",
+  "model": "glm-5.3"
+}

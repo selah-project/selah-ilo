@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Laeng ⟨ti⟩ ⟨את⟩ darana ti saanmo a makan; iti daga a buwisam, kas iti danum.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Laeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "buwisam"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kas iti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T07:58:27.492721747Z",
+  "model": "glm-5.3"
+}

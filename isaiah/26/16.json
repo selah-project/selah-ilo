@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Yahweh, iti panagrigat dimmangedda kenka; nangiparuardan ti naknek a kararua idi ti kastigom kadakuada.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "iti panagrigat"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "dimmangedda kenka"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "nangiparuardan"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ti naknek a kararua"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "ti kastigom"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T14:53:27.607986503Z",
+  "model": "glm-5.3"
+}

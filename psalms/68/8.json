@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "O Elohim, idi rumuarka iti sangoan ti umilim, idi immakarkarim iti desierto — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "idi rumuarka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti umilim"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "idi immakarkarim"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "iti desierto"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:04.863506274Z",
+  "model": "glm-5.3"
+}

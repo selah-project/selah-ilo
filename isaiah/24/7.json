@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Nagsangit ti baro nga arak, nayuyot ti dumala, nagung-ungngay amin dagiti ragsak ti pusoda.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "nagsangit"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "ti baro nga arak"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "nayuyot"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ti dumala"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "nagung-ungngay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin dagiti"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "ragsak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti pusoda"
+    }
+  ],
+  "timestamp": "2026-09-26T14:53:08.649404814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Nagipalaw ni Yosef ti maysa nga ipalaw ken imbagana kadagiti kabsatna, ket nainayonanda lattan ti panagkidmaw ⟨את⟩ kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "nagipalaw"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "maysa nga ipalaw"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kadagiti kabsatna"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "nainayonanda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lattan"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ti panagkidmaw"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:51:42.919726414Z",
+  "model": "glm-5.3"
+}

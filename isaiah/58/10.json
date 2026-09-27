@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "ket itedmo ti kararuam iti makagola, ken busngem ti kararua a nagsagsagaba; ket aglawinto ti lawagmo iti sipnget, ken ti sipngetmo ket kas iti tengnga ti aldaw.",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "ket itedmo"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "iti makagola"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ti kararuam"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ken ti kararua"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "a nagsagsagaba"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "busngem"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "ket aglawinto"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "iti sipnget"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ti lawagmo"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "ken ti sipngetmo"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "ket kas iti tengnga ti aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:08:05.638193728Z",
+  "model": "glm-5.3"
+}

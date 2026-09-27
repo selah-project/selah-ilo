@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Inalaanna ket inyeganna kenni inana, ket nagtugaw iti sakaenna agingga iti tengnga ti aldaw, ket natay.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "inalaanna"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "inyeganna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "inana"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagtugaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "sakaenna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tengnga ti aldaw"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "natay"
+    }
+  ],
+  "timestamp": "2026-09-26T13:23:22.655789365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ni Ezer ti umuna, ni Ovadyah ti maikadua, ni Eliav ti maikatlo;",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ni Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti umuna"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ni Ovadyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ni Eliav"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ti maikatlo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:34.065009803Z",
+  "model": "glm-5.3"
+}

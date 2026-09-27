@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ti talonko ti ubas, ti kukuak, sadiay sango ti sanguanak; ti sangaribu kenka, Shelomoh, ken dua a gasut kadagiti agbantay ⟨את⟩ apitna.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "ti talonko ti ubas"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "ti kukuak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sadiay ti sanguanak"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ti sangaribu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ken dua a gasut"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "kadagiti agbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apitna"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "apitna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:01:57.179606859Z",
+  "model": "glm-5.3"
+}

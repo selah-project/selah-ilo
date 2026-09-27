@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Siakenna laeng ti batok ken ti panangisalakannak, ti nangato a pagkamangank; saanak a matnag.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siakenna"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ti batok"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ken ti panangisalakannak"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ti nangato a pagkamangank"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "a matnag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:36.742587080Z",
+  "model": "glm-5.3"
+}

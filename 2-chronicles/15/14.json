@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "ket insumpada danida kenni Yahweh iti nakaro a timek ken kadagti panagsingasing ken kadagiti trumpeta ken kadagiti shofar.",
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "ket insumpada danida"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nakaro"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "ken kadagiti panagsingasing"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "ken kadagiti trumpeta"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "ken kadagiti shofar"
+    }
+  ],
+  "timestamp": "2026-09-26T23:50:54.694428922Z",
+  "model": "glm-5.3"
+}

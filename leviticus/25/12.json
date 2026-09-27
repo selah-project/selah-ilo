@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ta Yubel dayta — nasantuan ti agbalin a kadakayo; manipud iti talon mangan kayo ⟨את⟩ ti apitna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yubel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangan kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apitna"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ti apitna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:53:30.130145512Z",
+  "model": "glm-5.3"
+}

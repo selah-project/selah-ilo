@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "ken ⟨את⟩ ti altar ti insenso ken ⟨את⟩ dagiti badana ken ⟨את⟩ ti lana ti panagilana ken ⟨את⟩ ti insenso ti samsam ken ⟨את⟩ ti kurtina ti ruangan iti ruangan ti Mishkan;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ti insenso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti badana"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dagiti badana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ti panagilana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti insenso"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ti insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ti samsam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kurtina"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ti kurtina"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "iti ruangan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:37:34.574487568Z",
+  "model": "glm-5.3"
+}

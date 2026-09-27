@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ngem ti amin nga ayup ken ti samsam ti siudad, insamsammi iti bagimi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ngem ti amin"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nga ayup"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ken ti samsam"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ti siudad"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "insamsammi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "iti bagimi"
+    }
+  ],
+  "timestamp": "2026-09-26T07:34:18.394406989Z",
+  "model": "glm-5.3"
+}

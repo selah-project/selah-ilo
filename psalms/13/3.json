@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Agingga no kaano a mangeddengak kadagiti pakaisebbangan iti kararua ko, ti ladingit iti pusok iti lawas nga aldaw? Agingga no kaano a mangato ti kabusor ko iti ngatoko?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "a mangeddengak"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "kadagiti pakaisebbangan"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "iti kararua ko"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "ti ladingit"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "iti pusok"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "iti lawas nga aldaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "a mangato"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ti kabusor ko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti ngatoko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:10.080316463Z",
+  "model": "glm-5.3"
+}

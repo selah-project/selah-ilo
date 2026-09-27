@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Tinawag ni Yahweh Elohim iti tao, ket kinuna kenkuana: Sadino ka?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "tinawag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "sadino ka"
+    }
+  ],
+  "timestamp": "2026-09-26T01:37:18.367326681Z",
+  "model": "glm-5.3"
+}

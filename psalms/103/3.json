@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Ti agpatawar iti amin a basolmo, ti agagas iti amin a sakitmo.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Ti agpatawar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "a basolmo"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "ti agagas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "a sakitmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:09.826966795Z",
+  "model": "glm-5.3"
+}

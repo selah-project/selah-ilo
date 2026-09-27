@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken iti Khoreb nakapagngeryo kenni Yahweh, ket narungcar ni Yahweh kadakayo a mangdadael ⟨את⟩ ⟨kadakayo⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Ken iti Khoreb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "nakapagngeryo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "ket narungcar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "a mangdadael"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨kadakayo⟩"
+    }
+  ],
+  "timestamp": "2026-09-26T07:51:19.838424420Z",
+  "model": "glm-5.3"
+}

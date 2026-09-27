@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ta no kitaek dagiti langitmo, dagiti aramid dagiti ramirmo, ti bulan ken dagiti bituen a binangonmo;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "no kitaek"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "dagiti langitmo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dagiti aramid"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "dagiti ramirmo"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ti bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ken dagiti bituen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "binangonmo"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:19.619253885Z",
+  "model": "glm-5.3"
+}

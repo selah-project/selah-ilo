@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Iti amin a pusok insapulka; saanmo koma a paiyurengak manipud kadagiti bilinmo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "a pusok"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "insapulka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "a paiyurengak"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "manipud kadagiti bilinmo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:40.489841977Z",
+  "model": "glm-5.3"
+}

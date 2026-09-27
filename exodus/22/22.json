@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "No dadaelenyo a nayon ⟨את⟩ ni maipapan iti daydiay, ta no agsangit iti maysa a panagsangit kaniak, madi nga agdengngegak ti panagsangitna.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "dadaelen"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "a nayon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni maipapan iti daydiay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "agsangit"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "iti maysa a panagsangit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "madi nga"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "agdengngegak"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "ti panagsangitna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:08:55.687558483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ken aramidenmo dagiti kurtina a kalding a para iti tolda iti ngato ti Mishkan: sangapulo ket maysa a kurtina ti aramidenmo ⟨את⟩ dagitoy.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ken aramidenmo"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kadagiti kalding"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "para iti tolda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidenmo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T04:18:09.757565585Z",
+  "model": "glm-5.3"
+}

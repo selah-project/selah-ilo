@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "agtarayen koma ti kabusor ti kararwak, ket makaabotna, ken dutduenna a mangidisses iti daga ti biagko, ket ti daydayawko iti tapok ipagnaednana. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "agtarayen koma"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "ket makaabotna"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "ken dutduenna"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ti biagko"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ket ti daydayawko"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "iti tapok"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ipagnaednana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:37.372068034Z",
+  "model": "glm-5.3"
+}

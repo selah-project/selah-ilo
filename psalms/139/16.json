@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "Ti saan pay a napormak nakita dagiti matam, ken iti librom amin da nasuratan — dagiti aldaw a napormada, no uray maysa kadakuada awan pay.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "ti saan pay a napormak"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dagiti matam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "librom"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "amin da"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "nasuratan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "a napormada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no uray"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:05.369357556Z",
+  "model": "glm-5.3"
+}

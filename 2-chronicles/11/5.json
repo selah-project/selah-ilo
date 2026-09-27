@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket nagnaed ni Rehavam iti Yerushalayim, ken binangonna dagiti ili a kas salaknib iti Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ket nagnaed"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ni Rehavam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ken binangonna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "a kas salaknib"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "iti Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:09.415372930Z",
+  "model": "glm-5.3"
+}

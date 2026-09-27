@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ni Zevulun saanna a naipukaw ⟨את⟩ dagiti agnanaed iti Kitron ken ⟨את⟩ dagiti agnanaed iti Nahalal, ket ti Kanaan ket nagtaeng iti tengngana, ket nagbayadda iti buis.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Ni Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "a naipukaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti agnanaed iti Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "iti Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti agnanaed iti Nahalal"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "iti Nahalal"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagtaeng"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ti Kanaan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "iti tengngana"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ket nagbalinanda"
+    },
+    {
+      "surface": "למס",
+      "gloss": "a mangbayad iti buis"
+    }
+  ],
+  "timestamp": "2026-09-26T09:37:03.450739903Z",
+  "model": "glm-5.3"
+}

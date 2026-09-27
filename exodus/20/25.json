@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken no aramidem ti altar iti bato kaniak, saanmo a ibangonam ⟨את⟩ dagiti bato a nasukatan; ta no iyangatmo ti kutsilyom iti daytoy, nabalsam daytoy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ibangonam"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bato"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "nasukatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "kutsilyom"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "iyangatmo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "nabalsam"
+    }
+  ],
+  "timestamp": "2026-09-26T04:05:59.810926700Z",
+  "model": "glm-5.3"
+}

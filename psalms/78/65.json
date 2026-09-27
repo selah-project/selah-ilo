@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket rimsuari ni Adonay a kas maysa a natayngatay, a kas maysa a napigsa a lalaki a sumangal gapu iti arak.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "ket rimsuari"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "a kas maysa a natayngatay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "a kas maysa a napigsa a lalaki"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "a sumangal"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "gapu iti arak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:34.785812038Z",
+  "model": "glm-5.3"
+}

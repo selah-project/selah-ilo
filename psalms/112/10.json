@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 112,
+  "translation": "Makitana ti dakes ken naariw; dagiti ngipenna grinatna ken nalmes; ti kaykayat dagiti dakes agdadael.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makitana"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ken naariw"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "dagiti ngipenna"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "grinatna"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ken nalmes"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ti kaykayat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "agdadael"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:01.358097750Z",
+  "model": "glm-5.3"
+}

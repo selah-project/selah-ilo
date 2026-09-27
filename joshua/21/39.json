@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "⟨את⟩ Cheshbon ken ⟨את⟩ ti daga iti lawlawna, ⟨את⟩ Yaazer ken ⟨את⟩ ti daga iti lawlawna — amin nga ili uppat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ngili"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    }
+  ],
+  "timestamp": "2026-09-26T09:24:58.798087413Z",
+  "model": "glm-5.3"
+}

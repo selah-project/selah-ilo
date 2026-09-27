@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "ken ti bassit a mula a naimulam iti kameram, ken ti anak a pinigsam para kenka.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "ken ti bassit a mula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "naimulam"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iti kameram"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "pinigsam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:38.438175218Z",
+  "model": "glm-5.3"
+}

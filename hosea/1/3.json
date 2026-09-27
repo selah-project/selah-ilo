@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Nagna ken inalana ⟨את⟩ ni Gomer, anak ni Diblayim, ket nagbaknang ken nagputot kenni iti maysa nga anak.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Nagna"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ken inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ni Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "ni Diblayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ket nagbaknang"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ken nagputot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iti maysa nga anak"
+    }
+  ],
+  "timestamp": "2026-09-26T19:34:27.311735603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken iparuatek iti Yerushalayim ⟨את⟩ ti linia ti Shomron ken ⟨את⟩ ti pangisukatan ti balay ni Ajab, ket punasenak ti Yerushalayim a kas ti panangpunas iti pinggan — punasenna ken ibaliktadna ti rupana.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "iparuatek"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti linia"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linia"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pangisukatan"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "pangisukatan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "punasenak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "punasen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pinggan"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "pinggan"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "punasenna"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "ibaliktadna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "rupana"
+    }
+  ],
+  "timestamp": "2026-09-26T14:06:38.430954042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zephaniah 3:19",
+  "book": "zephaniah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Nangsitak, agaramidak ⟨את⟩ kadagiti amin a mangdadael kaniak iti dayta a panawen, ket isalakanko ⟨את⟩ ti makuldog, ken ti naiyalis urnongenko; ken ikabilkoda iti daydayaw ken iti nagan iti amin a daga, iti pungsekda.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Nangsitak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agaramidak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti amin a mangdadael kaniak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מעניך",
+      "gloss": "a mangdadael kaniak"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "iti dayta a panawen"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dayta a panawen"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "ket isalakanko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti makuldog"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "ti makuldog"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "ken ti naiyalis"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "urnongenko"
+    },
+    {
+      "surface": "ושמתים",
+      "gloss": "ken ikabilkoda"
+    },
+    {
+      "surface": "לתהלה",
+      "gloss": "iti daydayaw"
+    },
+    {
+      "surface": "ולשם",
+      "gloss": "ken iti nagan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "iti pungsekda"
+    }
+  ],
+  "timestamp": "2026-09-26T20:21:38.736270289Z",
+  "model": "glm-5.3"
+}

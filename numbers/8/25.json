@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken manipud iti anak a limapulo a tawen agsubli ⟨isuna⟩ manipud iti buyot ti panagserbi, ket saan ⟨na⟩ nga agserbi iti adu pay.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "ken manipud iti anak"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limapulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tawen"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "manipud iti buyot"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ti panagserbi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "agserbi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iti adu pay"
+    }
+  ],
+  "timestamp": "2026-09-26T06:19:18.434195256Z",
+  "model": "glm-5.3"
+}

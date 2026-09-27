@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 13:16",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ni Shaul ken ni Yonatan nga anakna, ken ti umili a nais kadakuada, agnanaedda idiay Giva ti Binjamin; ngem dagiti Pilisteo nangananameda idiay Mikhmas.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ken ni Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ken ti umili"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a nais"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "agnanaedda"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "idiay Giva"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ken dagiti Pilisteo"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "nangananameda"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "idiay Mikhmas"
+    }
+  ],
+  "timestamp": "2026-09-26T22:03:45.094007466Z",
+  "model": "glm-5.3"
+}

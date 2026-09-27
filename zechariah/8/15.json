@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "kasta nagsubliak a naisagana kadagiti aldaw daytoy a mangipasayaat ⟨את⟩ ti Yerushalayim ken ⟨את⟩ ti balay ni Yehudah; saan kayo a mabuteng.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "nagsubliak"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "a naisagana"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kadagiti aldaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "a mangipasayaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti balay ni Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kayo a mabuteng"
+    }
+  ],
+  "timestamp": "2026-09-26T20:31:59.433231454Z",
+  "model": "glm-5.3"
+}

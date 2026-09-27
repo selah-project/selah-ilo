@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket rininaek ⟨את⟩ ti biag, ta dakes kaniak ti aramid a naaramid babaen ti init, ta ti amin ket hebel ken rigat ti angin.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ket rininaek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti biag"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "a naaramid"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ken rigat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti angin"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:00.042471862Z",
+  "model": "glm-5.3"
+}

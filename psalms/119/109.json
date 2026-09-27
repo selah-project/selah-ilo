@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti kararuak adda iti imak a tindeg, ket ti torahmo saanak a nanglipat.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "iti imak"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kanayon"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ken ti torahmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nanglipat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:23.720337580Z",
+  "model": "glm-5.3"
+}

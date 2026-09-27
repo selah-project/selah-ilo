@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket agsublida dagiti mensahero kenkuana, ket kinunana kaniada, ania daytoy nga agsublikayo?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "agsublida"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "dagiti mensahero"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "agsublikayo"
+    }
+  ],
+  "timestamp": "2026-09-26T13:20:14.844525100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Ken pagpagnanaekonto ti amin a aramidmo, ket maipapan kadagiti porma ti aramidmo agsasaritaak ⟨iti bagik⟩.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "ken pagpagnanaekonto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ti amin a"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "aramidmo"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "ket maipapan kadagiti porma ti aramidmo"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "agsasaritaak ⟨iti bagik⟩"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:32.617988678Z",
+  "model": "glm-5.3"
+}

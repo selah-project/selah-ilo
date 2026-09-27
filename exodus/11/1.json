@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kinuna ni Yahweh kenni Moshe: maysa pay a lashes ti iyegko kadkenni ni Paro ken iti Mitsrayim; kalpasan dayta ibatadanna ⟨את⟩ dakayo manipud ditoy: no ibatadanna ⟨את⟩ dakayo, amin aminna nga isardenganna kayo manipud ditoy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "lashes"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "iyegko"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadkenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ibatadanna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo",
+      "marks": "manipud ditoy"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "manipud ditoy"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "no ibatadanna"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "amin aminna"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "isardeng"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "isardenganna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo",
+      "marks": "manipud ditoy"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "manipud ditoy"
+    }
+  ],
+  "timestamp": "2026-09-26T03:45:15.606007273Z",
+  "model": "glm-5.3"
+}

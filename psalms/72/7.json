@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Agburak ti nalinteg iti aldawna, ken ti kaadu ti kappia agingga awanan ti bulan.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "agburak"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "iti aldawna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ken ti kaadu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "awanan"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ti bulan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:04.235669120Z",
+  "model": "glm-5.3"
+}

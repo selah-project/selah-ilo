@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Sagsalamatak ⟨iti⟩ dakkel a gimong, iti napigsa nga umili daydayawenka.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "sagsalamatak"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "iti gimong"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "iti umili"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "daydayawenka"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:06.662306969Z",
+  "model": "glm-5.3"
+}

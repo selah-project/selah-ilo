@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ta kaduam agtarayak iti maysa a buyot, ken iti Elohimko agluktak iti maysa a didingding.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kaduam"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "agtarayak"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "buyot"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "ken iti Elohimko"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "agluktak"
+    },
+    {
+      "surface": "שור",
+      "gloss": "didingding"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:33.912465092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket sinungbatan ni Yahweh ⟨את⟩ ti anghel a nagsao kadakuak kadagiti naimbag a sao, dagiti sao a panagliwliwa.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ket sinungbatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anghel"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ti anghel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti nagsao"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kadakuak"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kadagiti sao"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "a panagliwliwa"
+    }
+  ],
+  "timestamp": "2026-09-26T20:26:23.405862722Z",
+  "model": "glm-5.3"
+}

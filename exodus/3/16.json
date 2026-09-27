@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Immoka, urnongem ⟨את⟩ dagiti lakay ni Yisrael, ken ibagam kadakuada: Ni Yahweh, ti Elohim dagiti amanyo — ti Elohim ni Avraham, ni Yitskhak ken ni Yaakov — ti naparang kaniak, nga agsao: Panagbisita, bisitaen kadayo — binisitak ⟨אתכם⟩ ken ⟨את⟩ ti naaramid kadakayo iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Immoka"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "urnongem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lakay ni Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "dagiti amanyo"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "naparang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ken ni Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga agsao"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "panagbisita"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "binisitak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kadayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti naaramid"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ti naaramid"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:32:05.643470759Z",
+  "model": "glm-5.3"
+}

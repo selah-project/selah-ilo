@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "ken ⟨את⟩ ti maysa a baybay, ken ⟨את⟩ dagiti sangapulo ket dua a baka iti baba ti baybay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dagiti baka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sangapulo ket dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo ket dua"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T12:26:52.820765142Z",
+  "model": "glm-5.3"
+}

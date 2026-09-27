@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Ngem kinunak: Iti awan linaon nagreketek, iti kinaawan ken angaw naipukpukkosko ti bilegko; ngem ti ukomko ket ⟨iti⟩ ⟨את⟩ ni Yahweh, ket ti guildak ⟨iti⟩ ⟨את⟩ ti Elohimko.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngem siak"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "iti awan linaon"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "nagreketek"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "iti kinaawan"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ken angaw"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "naipukpukkosko"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ti ukomko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "ket ti guildak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Elohimko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohimko"
+    }
+  ],
+  "timestamp": "2026-09-26T15:42:09.360101660Z",
+  "model": "glm-5.3"
+}

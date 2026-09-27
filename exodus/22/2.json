@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "No naglawag ti init ngato kenkuana, adda ti dara a maikaskaso kenkuana; kompletonna ti bayad; no awan ti mabayadanna, maipaglakonto isuna iti bayad ti panagnakawna.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "naglawag"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngato kenkuana"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "kompletonna"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ti bayad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ti mabayadanna"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "maipaglakonto isuna"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "iti bayad ti panagnakawna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:12:29.771054037Z",
+  "model": "glm-5.3"
+}

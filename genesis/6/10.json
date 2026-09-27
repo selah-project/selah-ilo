@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket inpataud ni Noakh tallo nga anak a lalaki — ⟨את⟩ ni Shem, ⟨את⟩ ni Kham, ken ⟨את⟩ ni Yefet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ket inpataud"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noakh"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ni Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Kham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Kham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ni Yefet"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:24.310365108Z",
+  "model": "glm-5.3"
+}

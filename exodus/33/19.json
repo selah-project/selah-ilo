@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Kinunana: Siak ti mangipalabas iti amin a pannakabaknangko iti sango ti rupam, ket tiagnak iti nagan ni Yahweh iti sango mo, ken paggrasiakanto ⟨את⟩ ti tao a paggrasiak, ket maapiak ⟨את⟩ ti tao a maapiak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "ti mangipalabas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "a pannakabaknangko"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "ket tiagnak"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sango mo"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "ket paggrasiakanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao a paggrasiak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "taao a paggrasiak"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ket maapiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao a maapiak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "taao a maapiak"
+    }
+  ],
+  "timestamp": "2026-09-26T04:39:32.756704655Z",
+  "model": "glm-5.3"
+}

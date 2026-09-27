@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Innaipen ti danhona asideg kenkuana, agingga nga immay ti apona iti balayna.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "Innaipen"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ti danhona"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "asideg kenkuana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga nga"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ti apona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balayna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:55:43.038047551Z",
+  "model": "glm-5.3"
+}

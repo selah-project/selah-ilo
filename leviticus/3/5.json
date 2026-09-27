@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken ipangpangluanda ⟨את⟩ daydaytoy dagiti anak ni Aharon iti altar, iti ngato ti natotongpal, a iti ngato ti kaykayo, a iti ngato ti apoy — daton nga inaramid iti apoy, bango a nakair-irkan Kennu Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ipangpangluanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "daydaytoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natotongpal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ti kaykayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ti apoy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "daton nga inaramid iti apoy"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "a nakair-irkan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Kennu Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:55:30.846348133Z",
+  "model": "glm-5.3"
+}

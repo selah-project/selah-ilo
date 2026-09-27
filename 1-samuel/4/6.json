@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket nangngeg dagiti Pelishtio ⟨את⟩ ti timek ti panangngar, ket kinunada: Ania ti timek daytoy a nalatak a panangngar iti kampo dagiti Hebreo? ket ammo da a ti Arko ni Yahweh immay iti kampo.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti timek ti panangngar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "timek"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "ti panangngar"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "panangngar"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nalatak"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "iti kampo"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "dagiti Hebreo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ammo da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    }
+  ],
+  "timestamp": "2026-09-26T10:34:00.133045800Z",
+  "model": "glm-5.3"
+}

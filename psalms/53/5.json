@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 53,
+  "translation": "Saan a dan ammo dagiti agaramid ti kadakesan, dagiti mangmangan ti umilik a kas mangan da iti tinapay? Ti Elohim saananda nga inawag.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Saan a"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dan ammo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dagiti agaramid"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti kadakesan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "dagiti mangmangan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti umilik"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mangan da"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saananda"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nga inawag"
+    }
+  ],
+  "timestamp": "2026-09-26T21:30:50.928286481Z",
+  "model": "glm-5.3"
+}

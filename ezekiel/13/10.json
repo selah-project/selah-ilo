@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ta, ket gapu ta, nailislisanda ⟨את⟩ ti umilik, a kunkuna: Kappia, ket awan kappia; ket isu ket nangipatdek ti pader, ken kitaem, agtatachap da ⟨iti⟩ kapudaw.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ta"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "ket gapu ta"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "nailislisanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umilik"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti umilik"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ket isu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nangipatdek"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "ti pader"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ken kitaem"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "agtatachap da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kapudaw"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "kapudaw"
+    }
+  ],
+  "timestamp": "2026-09-26T18:16:27.249371145Z",
+  "model": "glm-5.3"
+}

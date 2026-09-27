@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ken dagiti dua a paset kadakayo, amin a rummuar iti Shabbat, ket agsalaknibda ⟨את⟩ ti salaknib ti balay ni Yahweh para iti ari.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ken dagiti dua"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "a paset"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "a rummuar"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "iti Shabbat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ket agsalaknibda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti salaknib"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ti salaknib"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para iti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T13:41:29.844406049Z",
+  "model": "glm-5.3"
+}

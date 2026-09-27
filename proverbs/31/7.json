@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Uminum isuna ket malipatanna ti kinapanglawna, ket ti panagrigatna saan a lagipenna pay.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "Uminum isuna"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "ket malipatanna"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "ti kinapanglawna"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "ket ti panagrigatna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "a lagipenna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:46.874548413Z",
+  "model": "glm-5.3"
+}

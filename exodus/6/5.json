@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken pay, siak ket nangngegek ⟨את⟩ ti agsangsangit dagiti anak ni Yisrael, nga ipapagtrabaho dagiti taga-Mitsrayim ⟨את⟩ kadakuada, ken naalagipak ⟨את⟩ ti tulagko.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ken pay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nangngegek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti agsangsangit"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "agsangsangit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "taga-Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ipapagtrabaho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ni Yisrael"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "naalagipak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulagko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "tulagko"
+    }
+  ],
+  "timestamp": "2026-09-26T03:36:42.522964795Z",
+  "model": "glm-5.3"
+}

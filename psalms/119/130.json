@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti pananglukat kadagiti saom agparintaw; mangipaammo kadagiti nakuttong.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Ti pananglukat"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "kadagiti saom"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "agparintaw"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "mangipaammo"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "kadagiti nakuttong"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:16.414945772Z",
+  "model": "glm-5.3"
+}

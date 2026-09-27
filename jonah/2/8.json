@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Idi nakapsut ti kararuak iti unegk, inlagipak ⟨את⟩ ni Yahweh; ket simmangpet kenka ti panagkararagak, iti nasantuan a templo-mo.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "idi nakapsut"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti unegk"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "inlagipak"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ket simmangpet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ti panagkararagak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nasantuan-mo"
+    }
+  ],
+  "timestamp": "2026-09-26T20:02:53.926088503Z",
+  "model": "glm-5.3"
+}

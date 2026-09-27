@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ket napasamak, ti umuna a naykasngal nga anak nga ipasngayna ket agtacder iti nagan ti kabsatna a natay, ket saan a mapukas ti naganna manipud iti Yisrael.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ket napasamak"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ti umuna a naykasngal nga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ipasngayna"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "agtacder"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ti kabsatna"
+    },
+    {
+      "surface": "המת",
+      "gloss": "a natay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "mapukas"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "manipud iti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T08:27:56.573232930Z",
+  "model": "glm-5.3"
+}

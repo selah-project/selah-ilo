@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Malagipko ni Elohim, ket agsungrodak; agpanunotak, ket nakapsut ti angesko. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Malagipko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ket agsungrodak"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "agpanunotak"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ket nakapsut"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ti angesko"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:59.621452831Z",
+  "model": "glm-5.3"
+}

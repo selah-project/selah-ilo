@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "ket insubli ni Yahweh ⟨את⟩ ti kasasaad ni Iyob, idi agsaritana para kadagiti kaduana, ket nainayonan ni Yahweh ⟨את⟩ amin a tagikua ni Iyob iti doble.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "insubli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kasasaad ni Iyob"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ti kasasaad"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "idi agsaritana"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "para"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kadagiti kaduana"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ket nainayonan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a tagikua ni Iyob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ti tagikua ni Iyob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "iti doble"
+    }
+  ],
+  "timestamp": "2026-09-26T23:01:18.523947042Z",
+  "model": "glm-5.3"
+}

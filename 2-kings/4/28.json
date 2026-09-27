@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket kinunana: Siak kadi ti nagsaludsod iti anak ⟨מאת⟩ kenni apo? saan kadi a kinunak: saanmo a linongan ⟨את⟩ kaniak?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "Siak kadi ti nagsaludsod"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iti anak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "iti anak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kenni apo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "a kinunak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "a linongan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T13:26:20.941692831Z",
+  "model": "glm-5.3"
+}

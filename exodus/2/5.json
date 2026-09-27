@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket nagbaba ti anak a babai ni Paro a mangdigos iti karayan, ket dagiti adipenna a babai agnagnada iti igid ti karayan; ket nakitana ⟨את⟩ ti tikaga iti tengnga ti kugon, ken innatonna ⟨את⟩ ti adipen a babaina, ket inalana daytoy.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "nagbaba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ti anak a babai"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "a mangdigos"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "ket dagiti adipenna a babai"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "agnagnada"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "igid"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "nakitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tikaga"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ti tikaga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "kugon"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "innatonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipen a babaina"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "ti adipen a babaina"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "inalana daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T03:27:17.298869638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Natnac ti pusok a kas iti ruot, ket namaga ti pusok, ta linipatko ti panangan ti tinapayko.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "natnac"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "a kas iti ruot"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ket namaga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "linipatko"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ti panangan"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ti tinapayko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:33.953182665Z",
+  "model": "glm-5.3"
+}

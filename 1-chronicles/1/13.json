@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ni Kenaan ket nagputot ⟨את⟩ kenni Tsidon ti kaputotanna a umuna ken ⟨את⟩ kenni Khet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ni Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Tsidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ti kaputotanna a umuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Khet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khet"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:40.486790735Z",
+  "model": "glm-5.3"
+}

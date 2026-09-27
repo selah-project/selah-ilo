@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kinuna kaniada: Koma a kasta ti Yahweh kadakayo, no ipatulodko ⟨את⟩ dakayo ken ⟨את⟩ dagiti annakyo a bassit; kitaeyo, ta dakes ti adda masangoan kadakayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "koma nga agtallok"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ipatulodko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti annakyo a bassit"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "dagiti annakyo a bassit"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "kitaeyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "masangoan"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:42:25.474407631Z",
+  "model": "glm-5.3"
+}

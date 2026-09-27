@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Kenka, kenka laeng binasolko, ken ti dakes iti matam inaramidko, tapno umiska no agsaoKA, ket makadaluska no umukom.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "binasolko"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ken ti dakes"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "iti matam"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "inaramidko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "umiska"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "no agsaoKA iti saom"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "makadaluska"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "no umukom"
+    }
+  ],
+  "timestamp": "2026-09-26T21:27:09.983990991Z",
+  "model": "glm-5.3"
+}

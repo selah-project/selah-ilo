@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 112,
+  "translation": "Saan nga agbuteng iti dakes a damag; natalna ti pusona, agtalek kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "iti damag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "a dakes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "nga agbuteng"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "natalna"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "agtalek"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:52.788774779Z",
+  "model": "glm-5.3"
+}

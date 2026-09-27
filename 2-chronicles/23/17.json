@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 23:17",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Immaya ti amin nga umili iti balay ni Baal, ket dinadaelna daytoy, ken ⟨את⟩ dagiti altaranna ken ⟨את⟩ dagiti ladawanna dinadaelda, ket kenni ⟨את⟩ Mattan, ti padi ni Baal, pinatayda iti sango dagiti altar.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "immaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga umili"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "ויתצהו",
+      "gloss": "dinadaelna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti altaranna"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "dagiti altaranna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ladawanna"
+    },
+    {
+      "surface": "צלמיו",
+      "gloss": "dagiti ladawanna"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "dinadaelda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Mattan"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "Mattan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pinatayda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "dagiti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T23:53:06.892388243Z",
+  "model": "glm-5.3"
+}

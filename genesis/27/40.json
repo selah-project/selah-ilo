@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ken ti espadam ti pagbiagem, ken ⟨את⟩ ti kabsatmo agiadipenka; ket agbalin, no agwaywayaska, nga ikkatmo ti yokona manipud iti tengngedmo.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ken"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ti espadam"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ti pagbiagem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kabsatmo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ti kabsatmo"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "agiadipenka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "agwaywayaska"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "nga ikkatmo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ti yokona"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "tengngedmo"
+    }
+  ],
+  "timestamp": "2026-09-26T02:32:29.470390969Z",
+  "model": "glm-5.3"
+}

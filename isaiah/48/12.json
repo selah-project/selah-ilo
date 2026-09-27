@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Dengngeg nak, Yaakov, ken Yisrael, ti tinawagak: siak ti tao; siak ti umuna, ken siak met ti maudi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dengngeg"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ken Yisrael"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "ti tinawagak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ti umuna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ken"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak met"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ti maudi"
+    }
+  ],
+  "timestamp": "2026-09-26T15:32:22.730702382Z",
+  "model": "glm-5.3"
+}

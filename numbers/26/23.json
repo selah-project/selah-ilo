@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 26:23",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Dagiti anak a lalaki ni Yissaskar babaen kadagiti pamilia da: ni Tola, ti pamilia ti Tolai; ni Puvah, ti pamilia ti Puni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Dagiti anak a lalaki"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "babaen kadagiti pamilia da"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "התולעי",
+      "gloss": "ti Tolai"
+    },
+    {
+      "surface": "לפוה",
+      "gloss": "Puvah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "הפוני",
+      "gloss": "ti Puni"
+    }
+  ],
+  "timestamp": "2026-09-26T07:00:03.240122514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Iti dayta a tiempo, impatader ni Yehoshua ti maysa nga altar kenn Yahweh, ti Elohim ti Yisrael, iti bantay Ebal,",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "iti dayta a tiempo"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "impatader"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti maysa nga altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenn Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    }
+  ],
+  "timestamp": "2026-09-26T09:08:08.242028843Z",
+  "model": "glm-5.3"
+}

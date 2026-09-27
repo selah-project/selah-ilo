@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 5:9",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ti pusok ⟨ket⟩ kadagiti agturturay ti Yisrael, kadagiti mangited iti bagida iti ili; bendisionanyo ni Yahweh!",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "לחוקקי",
+      "gloss": "kadagiti agturturay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "kadagiti mangited iti bagida"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bendisionanyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T09:43:31.663489631Z",
+  "model": "glm-5.3"
+}

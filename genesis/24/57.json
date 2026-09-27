@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Kinunada: Tawagen tayo ti bara, ket saludsodentayo ⟨את⟩ ti ngiwatna.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "tawagen tayo"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ti bara"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "saludsodentayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ngiwatna"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ngiwatna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:19:58.655003196Z",
+  "model": "glm-5.3"
+}

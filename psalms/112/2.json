@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 112,
+  "translation": "Napigsa ti putotna iti daga; ti kaputotan dagiti nalinteg maibendisionan.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Napigsa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "addanto"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ti putotna"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ti kaputotan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "maibendisionan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:15.468312159Z",
+  "model": "glm-5.3"
+}

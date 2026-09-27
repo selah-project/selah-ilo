@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 39:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ket inaramidda dua a singsing a balitok, ket inabilda kadagiti dua a bagi ti ephod, iti baba, sango ti rupana, iti asideg ti panagtiponna, iti ngato ti abelan a sinturon ti ephod.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ket inaramidda"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ket inabilda"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "bagi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "sango"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "iti asideg"
+    },
+    {
+      "surface": "מחברתו",
+      "gloss": "ti panagtiponna"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "abelan a sinturon"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephod"
+    }
+  ],
+  "timestamp": "2026-09-26T04:49:41.084853829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Sadino ti ari ti Chamath, ken ti ari ti Arpad, ken ti ari ti ili iti Sefarvayim, Hena ken Ivah?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ti Chamath"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ken ti ari"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "ti Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ken ti ari"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ti ili iti"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ken Ivah"
+    }
+  ],
+  "timestamp": "2026-09-26T15:18:38.980117776Z",
+  "model": "glm-5.3"
+}

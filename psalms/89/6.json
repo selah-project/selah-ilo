@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ken idaydayaw dagiti langit dagiti pammadayawmo, Yahweh, ken ti kinamatalekmo iti gimong dagiti nasantuan.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "ken idaydayaw"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "dagiti pammadayawmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ken pay"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ti kinamatalekmo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "iti gimong"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "dagiti nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:17.798811643Z",
+  "model": "glm-5.3"
+}

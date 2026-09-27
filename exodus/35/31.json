@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Punnananna ⟨את⟩ ti anges ni Elohim iti kinaammo, iti pannakabael ken iti ammo, ken iti amin nga aramid.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Punnananna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti anges ni Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti anges"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "iti kinaammo"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "iti pannakabael"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ken iti ammo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "nga aramid"
+    }
+  ],
+  "timestamp": "2026-09-26T04:41:14.763043538Z",
+  "model": "glm-5.3"
+}

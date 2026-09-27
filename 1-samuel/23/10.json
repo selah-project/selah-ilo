@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ket kinuna ni David: Yahweh, Elohim ni Yisrael, nangngeg ti adipenmo a biruennanto ni Shaul nga umay iti Keilah a dadaelenna ti ili gapu kenkuak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "(naan-anay)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "biruennanto"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "nga umay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "a dadaelenna"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "gapu kenkuak"
+    }
+  ],
+  "timestamp": "2026-09-26T11:05:16.827845463Z",
+  "model": "glm-5.3"
+}

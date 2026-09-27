@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Ket dinagsanda dagiti kabusorda, ket naiypusda iti baba ti imada.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "ket dinagsanda"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "dagiti kabusorda"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "ket naiypusda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ti imada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:25.947001185Z",
+  "model": "glm-5.3"
+}

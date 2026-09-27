@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket nagsungbat ti ari ti Yisrael ken kinuna: Saokayo: saan a mangidaydayaw ti agsiklad a kas iti mangikkat.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ket nagsungbat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ken kinuna"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "saokayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "a mangidaydayaw"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "ti agsiklad"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "a kas iti mangikkat"
+    }
+  ],
+  "timestamp": "2026-09-26T13:06:05.307147637Z",
+  "model": "glm-5.3"
+}

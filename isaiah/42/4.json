@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Saan a makulog ken saan a madadael, aginggana nga ikabalina ti ukom iti daga; ken iti torahna dagiti isla agur-urayda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "a makulog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "a madadael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aginggana"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "nga ikabalina"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "ken iti torahna"
+    },
+    {
+      "surface": "איים",
+      "gloss": "dagiti isla"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "agur-urayda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:30:26.106441077Z",
+  "model": "glm-5.3"
+}

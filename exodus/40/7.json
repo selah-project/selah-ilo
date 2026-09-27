@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ikabilmo ⟨את⟩ ti labba iti pagbaetan ti Tolda ti Gimong ken ti pagbaetan ti altar, ken ikabilmo idiay danum.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ikabilmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti labba"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ti labba"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti pagbaetan ti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Gimong"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken ti pagbaetan ti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ikabilmo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    }
+  ],
+  "timestamp": "2026-09-26T04:51:02.813374431Z",
+  "model": "glm-5.3"
+}

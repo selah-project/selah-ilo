@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Ta ni Yahweh ti Natngato ket makabuteng, ari a dakkel iti ngato ti amin a daga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ti Natngato"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "makabuteng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "a dakkel"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:25:15.262223698Z",
+  "model": "glm-5.3"
+}

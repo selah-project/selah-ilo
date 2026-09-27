@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 4:6",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Tapno daytoy agbalin a tanda kadakayo, no saludsodan dagiti anak yo intono umay, a kunada: Ania ti kayat dagiti bato daydaytoy kadakayo?",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "saludsodan"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "dagiti anak yo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "intono umay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunada"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "daydaytoy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T08:51:23.293405162Z",
+  "model": "glm-5.3"
+}

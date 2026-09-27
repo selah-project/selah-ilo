@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Nakita ni Yaakov nga adda bagas iti Mitsrayim, ket kinuna ni Yaakov kadagiti anakna: Apay a mangiinsakayo iti agbabbaliseg?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bagas"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "kadagiti anakna"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "mangiinsakayo iti agbabbaliseg"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:47.993680027Z",
+  "model": "glm-5.3"
+}

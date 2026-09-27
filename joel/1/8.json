@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Agdanagka, a kas maysa a dalaga a naisapo iti sako, gapu iti asawana idi ubbingna.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "agdanagka"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "a kas maysa a dalaga"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "naisapo"
+    },
+    {
+      "surface": "שק",
+      "gloss": "iti sako"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "asawana"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "idi ubbingna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:14:07.541778927Z",
+  "model": "glm-5.3"
+}

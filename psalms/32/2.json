@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Nakaragsak ti tao a saan a bilangenna ni Yahweh kennkuana ti basol, ken awan iti Espirituna ti panandaya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nakaragsak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "a bilangenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kennkuana"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "iti Espirituna"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ti panandaya"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:53.555557690Z",
+  "model": "glm-5.3"
+}

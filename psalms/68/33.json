@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Dagiti pagarian ti daga, kantakayo kenni Elohim, agkantakayo kenni Adonay. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "dagiti pagarian"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kantakayo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kenni Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "agkantakayo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:41:53.952273637Z",
+  "model": "glm-5.3"
+}

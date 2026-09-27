@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Ta isalakanna ti makapobre nga agsangit, ken ti makapanglaw nga awan tumulong kenkuana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "isalakanna"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ti makapobre"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "nga agsangit"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ken ti makapanglaw"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nga awan"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "tumulong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:51.148721636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Agtakderka, a Yahweh; a El, italonmo nga agngato ti imam; saanmo nga lippatan dagiti adda iti rigat.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Agtakderka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "italonmo nga agngato"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "nga lippatan"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "dagiti adda iti rigat"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:59.994313883Z",
+  "model": "glm-5.3"
+}

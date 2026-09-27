@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Nasumpaan ti agyalli ti pagbeddengan ti kaarrubana; ket agkuna ti amin a tao: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Nasumpaan"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "agyalli"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "pagbeddengan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ti kaarrubana"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ket agkuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a tao"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-26T08:29:57.270371344Z",
+  "model": "glm-5.3"
+}

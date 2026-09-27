@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Amin da ket nalawag kadagiti maaw-awatan, ken nalinteg kadagiti mangbiruk iti kaammoan.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "amin da"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "nalawag"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "kadagiti maaw-awatan"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "ken nalinteg"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "kadagiti mangbiruk"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kaammoan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:49.184657665Z",
+  "model": "glm-5.3"
+}

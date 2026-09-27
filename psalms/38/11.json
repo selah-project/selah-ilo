@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Agkilkilday ti pusok, innakanna ti bilegko, ken ti lawag dagiti matak — dadduma met laeng dagitoy, awanda ⟨את⟩ kaduak ⟨iti asideg⟩.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "agkilkilday"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "innakanna"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ken ti lawag"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dadduma met laeng dagitoy"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awanda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kaduak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:13:53.943346309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 8:23",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket kinunana: Yahweh, Elohim ti Yisrael, awan ti Elohim a kas kenka iti langit iti ngato ken iti daga iti baba, a mangisalaknib ti tulag ken ti hesed kadagiti adipenmo a agnagnana iti sanguam iti amin a pusoda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "a kas kenka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mangisalaknib"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "ken ti hesed"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "kadagiti adipenmo"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "a agnagnana"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sanguam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "pusoda"
+    }
+  ],
+  "timestamp": "2026-09-26T12:40:46.607271259Z",
+  "model": "glm-5.3"
+}

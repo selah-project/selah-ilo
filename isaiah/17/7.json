@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Iti dayta nga aldaw agkita ti tao iti Mangaramidna, ken dagiti matana agkitada iti Nasantuan ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Iti nga aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "agkita"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Mangaramidna"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "ket dagiti matana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Nasantuan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "agkitada"
+    }
+  ],
+  "timestamp": "2026-09-26T14:47:07.333978563Z",
+  "model": "glm-5.3"
+}

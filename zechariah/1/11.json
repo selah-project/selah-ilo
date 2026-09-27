@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket insungbatda ⟨את⟩ ti anghel ni Yahweh a nagtakder iti nagbaetan dagiti hadas, ket kinunada: Nagsorsor kami iti daga, ket kitaen, ti amin a daga agnanaed ken naulimek.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ket insungbatda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anghel ni Yahweh"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ti anghel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "a nagtakder"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "dagiti hadas"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "nagsorsor kami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket kitaen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "ken naulimek"
+    }
+  ],
+  "timestamp": "2026-09-26T20:23:54.282018798Z",
+  "model": "glm-5.3"
+}

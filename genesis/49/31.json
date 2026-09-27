@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Sadiay nilubonganda ⟨את⟩ ni Avraham ken ⟨את⟩ ni Sarah asawana; sadiay nilubonganda ⟨את⟩ ni Yitskhak ken ⟨את⟩ ni Rivkah asawana; ket sadiay nilubongak ⟨את⟩ ni Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "nilubonganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ni Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawana"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "nilubonganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Rivkah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ni Rivkah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawana"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ket sadiay"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "nilubongak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:51.005336876Z",
+  "model": "glm-5.3"
+}

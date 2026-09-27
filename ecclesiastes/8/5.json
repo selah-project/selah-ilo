@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ti agsalaknib iti bilin saanna nga ammo ti dakes a sao, ket ti panawen ken ti ukom ammo ti puso ti nasirib.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "agsalaknib"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "iti bilin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ket ti panawen"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken ti ukom"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ti nasirib"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:56.277356868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Dagiti anak ni Shimon segun kadagiti pamilia da: ni Nemuel, ti pamilia ti Nemueli; ni Yamin, ti pamilia ti Yamini; ni Yakhin, ti pamilia ti Yakhini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ni Shimon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segun kadagiti pamilia da"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "ni Nemuel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "ti Nemueli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ni Yamin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ti Yamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "ni Yakhin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "ti Yakhini"
+    }
+  ],
+  "timestamp": "2026-09-26T07:02:51.396652603Z",
+  "model": "glm-5.3"
+}

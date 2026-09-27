@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ginmalannak ni Yahweh a kas iti kinalintegko, a kas iti kinalimpias ti imak isublina kaniak.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "Ginmalannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "a kas iti kinalintegko"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "a kas iti kinalimpias"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ti imak"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "isublina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:54:52.164598646Z",
+  "model": "glm-5.3"
+}

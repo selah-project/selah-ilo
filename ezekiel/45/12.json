@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Ken ti shekel — duapulo a gera; duapulo a shekel, lima ken duapulo a shekel, sangapulo ken lima a shekel — ti mane ti agbalin kadakayo.",
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "ken ti shekel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "a gera"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "a shekel"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ken duapulo"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "a shekel"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ken lima"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "a shekel"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "ti mane"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T19:21:21.915243234Z",
+  "model": "glm-5.3"
+}

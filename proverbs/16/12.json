@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kariribukan dagiti ari ti panagaramid ti dakes, ta iti kinalinteg makabaelan ti trono.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "kariribukan"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "panagaramid"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "iti kinalinteg"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "makabaelan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ti trono"
+    }
+  ],
+  "timestamp": "2026-09-26T22:40:11.225242238Z",
+  "model": "glm-5.3"
+}

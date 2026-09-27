@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 142,
+  "translation": "Pagruaram manipud iti pagbaludan ti kararwak, nga agyaman ⟨את⟩ naganmo; aglikmutda kaniak dagiti nalinteg, ta itiddam kaniak.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "pagruaram"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "manipud iti pagbaludan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "nga agyaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naganmo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naganmo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "aglikmutda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "itiddam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:58.951417638Z",
+  "model": "glm-5.3"
+}

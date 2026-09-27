@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 23:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Nangngeg ni Avraham kenni Efron, ket timmingel ni Avraham kenni Efron ti pirak ⟨את⟩ nga imbagana kadagiti lapayag dagiti annak ni Heth — uppat a gasut a sikkel ti pirak, a mausar iti panagtagilako.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "וישקל",
+      "gloss": "ket timmingel"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "לעפרן",
+      "gloss": "kenni Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pirak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kadagiti lapayag"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ni Heth"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "a sikkel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a mausar"
+    },
+    {
+      "surface": "לסחר",
+      "gloss": "iti panagtagilako"
+    }
+  ],
+  "timestamp": "2026-09-26T02:11:45.296099681Z",
+  "model": "glm-5.3"
+}

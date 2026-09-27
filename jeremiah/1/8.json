@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Saanmo koma a mamadpan kadakuada, ta siak ⟨ti⟩ kaduam, mangsalakannakanto, kuna ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "a mamadpan"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ti kaduam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "mangsalakannakanto"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T16:16:10.205939578Z",
+  "model": "glm-5.3"
+}

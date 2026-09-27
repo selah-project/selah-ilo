@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ket isyotmo ⟨את⟩ dayta iti sango ti paroket a adda iti aron ti pammasingked, iti sango ti kapparat a adda iti pammasingked, a sadinoman a makipunganak kenka sadiay.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "isyotmo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pammasingked"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapparat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pammasingked"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "makipunganak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T04:24:54.013435038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ta sika ti umili a makapsapul ket isalakannam; ket dagiti natayag a mata ket ipababaam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a makapsapul"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "isalakannam"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ket dagiti"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "natayag a mata"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ipababaam"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:15.059139824Z",
+  "model": "glm-5.3"
+}

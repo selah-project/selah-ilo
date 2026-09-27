@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 18:32",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ken saan kayo nga agdara iti basol iti dayta, no ipangatonyo ⟨את⟩ ti tabana manipud iti dayta; ken ⟨את⟩ dagiti nasantuan a banag dagiti anak ni Yisrael saan kayo a pagdadaelennyo, ken saan kayo a matayenyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "agdara kayo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "iti basol"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "no ipangatonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tabana"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "tabana"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud iti dayta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti nasantuan a banag"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "dagiti nasantuan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "pagdadaelennyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "matayenyo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:54:48.759555239Z",
+  "model": "glm-5.3"
+}

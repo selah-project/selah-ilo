@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "ken ⟨ti⟩ lana ti panagungno ken ⟨את⟩ ti insenso ti nalang a rekado iti Nasantuan a Lugar; kas iti amin a bilinKo kenka, aramidendada",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "lana ti panagungno"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ti panagungno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "insenso ti nalang a rekado"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ti nalang a rekado"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "iti Nasantuan a Lugar"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kas iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "bilinKo kenka"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "aramidendada"
+    }
+  ],
+  "timestamp": "2026-09-26T04:26:32.882470747Z",
+  "model": "glm-5.3"
+}

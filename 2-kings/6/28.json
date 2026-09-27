@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket kinuna ti ari kenkuana: Ania ti kanniam? Ket kinunana: Daytoy a babai, immabagana kaniak: Iyemmo ⟨את⟩ ti anakmo a lalaki ket makanmi iti dayta nga aldaw, ket ⟨את⟩ ti anakko a lalaki a makanmi intono bigat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti kanniam"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "immabagana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "תני",
+      "gloss": "iyemmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anakmo a lalaki"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ti anakmo a lalaki"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "ket makanmi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "iti dayta nga aldaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti anakko a lalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ti anakko a lalaki"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "a makanmi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "intono bigat"
+    }
+  ],
+  "timestamp": "2026-09-26T13:24:17.164084723Z",
+  "model": "glm-5.3"
+}

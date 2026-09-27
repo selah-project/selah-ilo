@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Gapuna, amin dagiti bilinmo — nalinteg dagitoy amin iti panunotko; ket ti amin a dalan ti ulbod naariwatak.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(iti dayta)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "nalinteg dagitoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ulbod"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "naariwatak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:49.000209719Z",
+  "model": "glm-5.3"
+}

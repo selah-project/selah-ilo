@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Agtakderka, Yahweh; saan a mangabak ti tao; maukomanda dagiti pagilian iti rupam.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Agtakderka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "a mangabak"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "maukomanda"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rupam"
+    }
+  ],
+  "timestamp": "2026-09-26T20:51:38.791150314Z",
+  "model": "glm-5.3"
+}

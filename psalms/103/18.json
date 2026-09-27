@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "kadagiti agsalaknib iti tulagna ken kadagiti aglagip kadagiti bilinna, nga aramiden dagitoy.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "kadagiti agsalaknib"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iti tulagna"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "ken kadagiti aglagip"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "kadagiti bilinna"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "nga aramiden dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:55.837822599Z",
+  "model": "glm-5.3"
+}

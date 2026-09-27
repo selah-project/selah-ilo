@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket kinuna ni Yahweh kenni Shemuel: Dengngegem ti timek ti tattao, iti amin a sasaoenda kenka; ta saan ti sika ti inyay-ayawanda ⟨את⟩, no di ketti siak ti inyay-ayawanda ⟨את⟩, a saan a mangituray kadakuada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengngegem"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sasaoenda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sika"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "inyay-ayawanda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no di ketti"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "siak"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "inyay-ayawanda"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "panangituray"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T10:35:29.982030363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Agsublida dagiti dakes iti Sheol, amin dagiti pagilian a limmipat iti Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Agsublida"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "iti Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "a limmipat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T20:51:38.790832790Z",
+  "model": "glm-5.3"
+}

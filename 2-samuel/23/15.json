@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Kinaykayat ni David, ket kinuna: Siasino ti mangipaay kaniak ti uminum a danum manipud iti bubon ti Bet-Lehem, a iti ruaran?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "Kinaykayat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siasino"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "ti mangipaay kaniak ti uminum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a danum"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "manipud iti bubon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "iti ruaran"
+    }
+  ],
+  "timestamp": "2026-09-26T12:14:05.658178572Z",
+  "model": "glm-5.3"
+}

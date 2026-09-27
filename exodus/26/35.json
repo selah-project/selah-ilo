@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ikabilam ⟨ti⟩ lamisa iti ruar ti paroket, ken ⟨את⟩ ti menora masuhut ti lamisa, iti bangir ti Mishkan nga abagatan; ket ti lamisa ikabilam iti bangir nga amianan.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Ikabilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lamisa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ti lamisa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "ti paroket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ti menora"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "masuhut"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ti lamisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "bangir"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "abagatan"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "ket ti lamisa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ikabilam"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "bangir"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "amianan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:19:15.448702740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Maysa laeng ti nagsaludsodak manipud ⟨את⟩ Yahweh — ⟨את⟩ dayta ti birukenko: ti agnaedak iti balay ni Yahweh amin nga aldaw ti biagko, nga agkita iti kinasayaat ni Yahweh ken agbiruk iti templona.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "nagsaludsodak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ dayta"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "birukenko"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ti agnaedak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ti biagko"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "nga agkita"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "iti kinasayaat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ken agbiruk"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "iti templona"
+    }
+  ],
+  "timestamp": "2026-09-26T21:05:16.331628704Z",
+  "model": "glm-5.3"
+}

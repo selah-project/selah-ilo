@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Natnenam a pudno ⟨את⟩ ti Edom, ket inkar-arna ti pusom sika: agparangarangka, ket agnankaedka iti balaymo; ket apay a mangriribokka iti dakes, a matnatagka — sika ken ti Yehudah a kaduam?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "a pudno"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "natnenam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "inkar-arna sika"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ti pusom"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "agparangarangka"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ket agnankaedka"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "iti balaymo"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ket apay"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "a mangriribokka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "iti dakes"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "a matnatagka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ken ti Yehudah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "a kaduam"
+    }
+  ],
+  "timestamp": "2026-09-26T13:44:05.635566543Z",
+  "model": "glm-5.3"
+}

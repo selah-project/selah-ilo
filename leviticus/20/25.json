@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 20:25",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Isuyna agibbokayo iti nagbaetan ti ayup a saan a madawel ken ti madawel, ken iti nagbaetan ti billit a madawel ken ti saan a madawel; ket saan yo a dadaelen ⟨את⟩ dagiti kararua yo iti ayup ken iti billit ken iti amin a makasulsulit iti daga, a nagsinaak kaniayo a kas madawel.",
+  "tokens": [
+    {
+      "surface": "והבדלתם",
+      "gloss": "isuyna agibbokayo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ti ayup"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "a saan a madawel"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ken ti madawel"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti nagbaetan"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ti billit"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "a madawel"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ken ti saan a madawel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "yo a dadaelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kararua yo"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "dagiti kararua yo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "iti ayup"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "ken iti billit"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "makasulsulit"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "nagsinaak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaniayo"
+    },
+    {
+      "surface": "לטמא",
+      "gloss": "a kas madawel"
+    }
+  ],
+  "timestamp": "2026-09-26T05:40:11.048454923Z",
+  "model": "glm-5.3"
+}

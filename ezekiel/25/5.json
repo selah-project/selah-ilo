@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 25:5",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken itedko ⟨את⟩ ti Rabbah a pagagnaedan dagiti kamelio, ken ⟨את⟩ dagiti anak ni Amon a pagtumnegan dagiti karnero, ket ammuentayo a siak ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ken itedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Rabbah"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "a pagagnaedan"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "dagiti kamelio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anak ni Amon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Amon"
+    },
+    {
+      "surface": "למרבץ",
+      "gloss": "a pagtumnegan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dagiti karnero"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ket ammuentayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T18:46:46.671557709Z",
+  "model": "glm-5.3"
+}

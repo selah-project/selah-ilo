@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 4:10",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ta asino ti agbaba iti aldaw ti bassit a banag? Ket agragsakda, ket makitada ⟨את⟩ ti bato ti estaño iti ima ni Zerubabel — pito, dagitoy — dagiti mata ni Yahweh, da ti agbanniaga iti amin a daga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "asino"
+    },
+    {
+      "surface": "בז",
+      "gloss": "ti agbaba"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "ti bassit a banag"
+    },
+    {
+      "surface": "ושמחו",
+      "gloss": "ket agragsakda"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ket makitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bato"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ti estaño"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "ni Zerubabel"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "המה",
+      "gloss": "da"
+    },
+    {
+      "surface": "משוטטים",
+      "gloss": "ti agbanniaga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T20:27:21.304283430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 7:3",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Inayonda ⟨את⟩ ti datonda iti sango ni Yahweh: innem a kariton a nabbongan ken duapulo a baka — maysa a kariton kadagiti dua a pangulu, ken maysa a baka ti tunggal maysa — ket inayonda ⟨את⟩ dagitoy iti sango ti Mishkan.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Inayonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti datonda"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "ti datonda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שש",
+      "gloss": "innem"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "a kariton"
+    },
+    {
+      "surface": "צב",
+      "gloss": "a nabbongan"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ken"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "a baka"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "maysa a kariton"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "a pangulu"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "ken maysa a baka"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "ket inayonda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dagitoy",
+      "marks": "dagiti kariton ken baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-26T06:16:46.705775089Z",
+  "model": "glm-5.3"
+}

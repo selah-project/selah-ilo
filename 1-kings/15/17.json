@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket immay ti ngato ni Baasha, ari ti Yisrael, a lumaban kenni Yehudah, ket binangonna ⟨את⟩ ti Rama, tapno saan a maited ti agballasiw a mapan ken umay kenni Asa, ari ti Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "immay ti ngato"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "a lumaban kenni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "binangonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "tapno saan"
+    },
+    {
+      "surface": "תת",
+      "gloss": "a maited"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ti mapan"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ken umay"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "kenni Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T13:01:54.353676200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Amin a manglukat iti tian kaniak, ken amin a tagikuaam a lalaki, ti umuna a naiyanak ti baka ken ti karnero.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "a manglukat"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "iti tian"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "a tagikuaam"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "a lalaki"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "ti umuna a naiyanak"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ken ti karnero"
+    }
+  ],
+  "timestamp": "2026-09-26T04:35:52.577261348Z",
+  "model": "glm-5.3"
+}

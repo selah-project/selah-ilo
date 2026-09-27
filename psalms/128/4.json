@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 128,
+  "translation": "Kitaem, ta kastoy ti mabendisionan ti lalaki nga agbuteng kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ti mabendisionan"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nga agbuteng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:11.600178135Z",
+  "model": "glm-5.3"
+}

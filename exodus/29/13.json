@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 29:13",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ken alaem ⟨את⟩ ti amin a taba a mangtakop ⟨את⟩ ti bogbog, ken ⟨את⟩ ti pannukot iti ngato ti atay, ken ⟨את⟩ ⟨dagiti⟩ dua a bato, ken ⟨את⟩ ti taba a adda iti ngatoda, ket ipapuam dagitoy iti altar.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ken alaem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a taba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "mangtakop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bogbog"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ti bogbog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pannukot"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "pannukot"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ti atay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dua a bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "adda iti ngatoda"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "ket ipapuam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:24:24.230728321Z",
+  "model": "glm-5.3"
+}

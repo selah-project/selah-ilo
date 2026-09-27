@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ken daytoy ti bendision a binendisionan ni Moshe, tao ni Elohim, ⟨את⟩ dagiti anak ni Yisrael, sakbay ti pannatayna.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ken daytoy"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ti bendision"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "binendisionan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sakbay"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "ti pannatayna"
+    }
+  ],
+  "timestamp": "2026-09-26T08:44:41.558838550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket tinawaganna ni Elohim ti rambak a Langit; ket naginen rabii, ket naginen bigat — aldaw maikadua.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ket tinawaganna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ti rambak"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket naginen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "rabii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket naginen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bigat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maikadua"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:40.330415711Z",
+  "model": "glm-5.3"
+}

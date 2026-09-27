@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 9:5",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket dagiti sapato, lao ken natagibak, kadagiti saka da, ken dagiti bado a lao kadakuada; ket amin a tinapay ti makan da namaga, nagbalin a bukbukel.",
+  "tokens": [
+    {
+      "surface": "ונעלות",
+      "gloss": "dagiti sapato"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "lao"
+    },
+    {
+      "surface": "ומטלאות",
+      "gloss": "ken natagibak"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "kadagiti saka da"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "ken dagiti bado"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "lao"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket amin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "a tinapay"
+    },
+    {
+      "surface": "צידם",
+      "gloss": "ti makan da"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "namaga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "a bukbukel"
+    }
+  ],
+  "timestamp": "2026-09-26T09:00:46.955466057Z",
+  "model": "glm-5.3"
+}

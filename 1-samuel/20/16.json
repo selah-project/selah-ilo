@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Kinapenna ni Yehonatan ti tulag iti balay ni David ⟨nga kuna⟩: agsapul ni Yahweh dayta maiya ima dagiti kabusor ni David.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Kinapenna ti tulag"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "agsapul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dayta maiya ima"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dagiti kabusor"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T11:03:06.014045013Z",
+  "model": "glm-5.3"
+}

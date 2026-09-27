@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Ta nagpait ti pusok, ken dagiti gingetok ket tinusar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "nagpait"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "ken dagiti gingetok"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "tinusar"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:49.683737523Z",
+  "model": "glm-5.3"
+}

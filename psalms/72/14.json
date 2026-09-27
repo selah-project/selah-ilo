@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Manipud iti panaglinong ken manipud iti panaglaban ibalesanna ti kararua da, ket nangato ti pateg dagiti darana kadagiti matana.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "Manipud iti"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "panaglinong ken manipud iti panaglaban"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ibalesanna"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ti kararua da"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "ket nangato ti pateg"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "dagiti darana"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "kadagiti matana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:53.213062894Z",
+  "model": "glm-5.3"
+}

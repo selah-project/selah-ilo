@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Siak ti agnaak iti sanguanam, ken dagiti natayak ipalintegko, dagiti sumrekan ti tanso dadaelenko, ken dagiti baras ti landok gudduenko.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sanguanam"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "agnaak"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "ken dagiti natayak"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "ipalintegko"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dagiti sumrekan"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ti tanso"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "dadaelenko"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ken dagiti baras"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ti landok"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "gudduenko"
+    }
+  ],
+  "timestamp": "2026-09-26T15:41:33.722754755Z",
+  "model": "glm-5.3"
+}

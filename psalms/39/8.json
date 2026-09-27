@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ket ita, ania ti inurayk? Adonay, ti pagurayko kenka dayta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ket ita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ti inurayk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "ti pagurayko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T21:17:42.132724713Z",
+  "model": "glm-5.3"
+}

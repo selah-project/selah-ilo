@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ket sakripisionana ⟨את⟩ amin a padi dagiti nangato a lugar nga adda sadiay kadagiti altar, ket sinusrodna ⟨את⟩ dagiti tulang ti tao kadagita, ket nagsubli iti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ket sakripisionana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "a padi"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "dagiti nangato a lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adda sadiay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "kadagiti altar"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ket sinusrodna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tulang"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "dagiti tulang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadagita"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ket nagsubli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T14:09:12.140293687Z",
+  "model": "glm-5.3"
+}

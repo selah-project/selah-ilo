@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ti agipatakder, nagipatakderak ⟨ iti ⟩ balay a pagiennaan kenka, maysa a nasagepsepan a disso a pagiennaanmo nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ti agipatakder"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "nagipatakderak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "pagiennaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "nasagepsepan a disso"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "pagiennaanmo"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T12:39:51.140996755Z",
+  "model": "glm-5.3"
+}

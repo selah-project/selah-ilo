@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 53,
+  "translation": "Nangikita ti Elohim manipud iti langit kadagiti anak ti tao, tapno makita no adda maysa a maikanod, ti mangbirok iti ⟨את⟩ ti Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "manipud iti langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "Nangikita"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "tapno makita"
+    },
+    {
+      "surface": "היש",
+      "gloss": "no adda"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maysa a maikanod"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ti mangbirok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:26.996173714Z",
+  "model": "glm-5.3"
+}

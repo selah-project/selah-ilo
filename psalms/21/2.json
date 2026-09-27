@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ni Yahweh, iti bilegmo naragsak ti ari, ket iti panangisalakanmo sadino kadin ti kadakkel ti ragsakna!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "iti bilegmo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "naragsak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "ket iti panangisalakanmo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sadino kadin"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ti ragsakna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "iti kaadu"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:26.809036174Z",
+  "model": "glm-5.3"
+}

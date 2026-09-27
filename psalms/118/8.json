@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Nasaysayaat ti agsillong kenni Yahweh ngem ti agtalek iti tao.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Nasaysayaat"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ti agsillong"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ngem ti agtalek"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "iti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:24.097182771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 113,
+  "translation": "Mangipatakder manipud iti tapok ti pobre, mangipangato manipud iti timpok ti rugit ti agassit.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "mangipatakder"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "manipud iti tapok"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ti pobre"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "manipud iti timpok ti rugit"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "mangipangato"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ti agassit"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:28.033543316Z",
+  "model": "glm-5.3"
+}

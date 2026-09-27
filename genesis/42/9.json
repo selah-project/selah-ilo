@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ni Yosep linipatanna ⟨את⟩ dagiti annip a naannipenna kadakuada, ket kinunana kaniada: Espiya kamo; simmangpetkayo a mangkita iti ⟨את⟩ ti nakawan-bado ti daga.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "linipatanna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Ni Yosep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti annip"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "dagiti annip"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "naannipenna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "espiya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a mangkita iti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nakawan-bado ti daga"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ti nakawan-bado"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "simmangpetkayo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:59.307932295Z",
+  "model": "glm-5.3"
+}

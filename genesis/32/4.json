@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Insuot ni Yaakov dagiti mensahero iti nasangoanna kenni Esav, kabsatna, iti daga ti Seir, iti talon ti Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "insuot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "dagiti mensahero"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti nasangoanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kabsatna"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ti Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    }
+  ],
+  "timestamp": "2026-09-26T02:39:49.516514053Z",
+  "model": "glm-5.3"
+}

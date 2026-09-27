@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Kinuna ni Yosef: Itedyo dagiti tarakenyo, ket itedko kadakayo babaen kadagiti tarakenyo, no awanan ti pirak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "dagiti tarakenyo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ket itedko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "babaen kadagiti tarakenyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "awanan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pirak"
+    }
+  ],
+  "timestamp": "2026-09-26T03:16:29.026229423Z",
+  "model": "glm-5.3"
+}

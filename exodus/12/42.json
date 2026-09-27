@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Rabii ti panagbantay dayta kenni Yahweh, iti panangiruarna kadaida manipud iti daga ti Mitsrayim; dayta ti rabii daytoy kenni Yahweh, panagbantay para kadagiti amin nga anak ni Yisrael kadagiti kaputotanda.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "rabii"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ti panagbantay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "iti panangiruarna kadaida"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ti rabii"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "panagbantay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para kadagiti amin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kadagiti kaputotanda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:47:22.884912783Z",
+  "model": "glm-5.3"
+}

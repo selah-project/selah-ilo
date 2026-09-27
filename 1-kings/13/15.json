@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Kinunana kenkuana: Mapanka kadua ⟨את⟩ nakon iti balay, ket mangan ti tinapay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mapanka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "kadua ⟨את⟩ nakon"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ket mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-09-26T12:50:09.907032253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Suportarenakayo kadagiti biskit ti ubas, palagsakennakayo kadagiti mansanas, ta sakit ti ayat ti siak.",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "suportarenakayo"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "kadagiti biskit ti ubas"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "palagsakennakayo"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "kadagiti mansanas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ti ayat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ti siak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:02:57.509380200Z",
+  "model": "glm-5.3"
+}

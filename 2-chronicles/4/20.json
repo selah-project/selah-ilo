@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ⟨את⟩ dagiti kandela nga addaan kadagiti ilaw da, a siniliwda kas iti ukom iti sanguanan ti Debir — balitok a naseraan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kandela"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "dagiti kandela"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "kadagiti ilaw da"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "a siniliwda"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kas iti ukom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "ti Debir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "a naseraan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:46:11.318994465Z",
+  "model": "glm-5.3"
+}

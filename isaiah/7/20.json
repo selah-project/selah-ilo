@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 7:20",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Iti dayta nga aldaw, gageldonna ni Adonay babaen ti nangato a labaha, babaen dagiti sumanglad iti karayan — babaen ti ari ti Ashur — ⟨את⟩ ti ulo ken ⟨את⟩ ti buok dagiti saka, ket ti barbas ket ikkatenna met.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti dayta nga aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "gageldonna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "בתער",
+      "gloss": "babaen ti labaha"
+    },
+    {
+      "surface": "השכירה",
+      "gloss": "nangato a"
+    },
+    {
+      "surface": "בעברי",
+      "gloss": "babaen dagiti sumanglad"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "iti karayan"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "babaen ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "ken ti buok"
+    },
+    {
+      "surface": "הרגלים",
+      "gloss": "dagiti saka"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti barbas"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "ti barbas"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "ikkatenna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:27:51.482346Z",
+  "model": "glm-5.3"
+}

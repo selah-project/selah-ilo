@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Iti dayta agdardalkanto a nakatalged iti dalanmo, ken ti sakaam saan a matnag.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "agdardalkanto"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "a nakatalged"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "iti dalanmo"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ken ti sakaam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "matnag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:08.024005226Z",
+  "model": "glm-5.3"
+}

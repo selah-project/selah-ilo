@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Kinuna ni Yitschak kenni Yaakov: Sumanganak, manangmangan, ket matalmekam, anakko — sika kadi daytoy, anakko a ni Esav, wenno saan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "sumanganak"
+    },
+    {
+      "surface": "נא",
+      "gloss": "manangmangan"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "matalmekam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakko"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "sika kadi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    }
+  ],
+  "timestamp": "2026-09-26T02:29:20.196842894Z",
+  "model": "glm-5.3"
+}

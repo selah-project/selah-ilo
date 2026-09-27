@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Dengngegem ti timek ti agdaydayawk, no agsangawak kadaka, no mangitaltakdayak kadagiti imak a mapan iti debir a nasantuanmo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dengngegem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ti agdaydayawk"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "no agsangawak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kadaka"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "no mangitaltakdayak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dagiti imak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mapan iti"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nasantuanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:05:20.761805282Z",
+  "model": "glm-5.3"
+}

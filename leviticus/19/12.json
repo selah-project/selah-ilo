@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ken saanyo a agsumpa iti naganko iti palso, ken dadaelem ⟨את⟩ ti nagan ti Elohimm; siak Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "agsumpa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "iti naganko"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "iti palso"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "dadaelem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohimm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:35:04.744411255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Tallo a beses iti tunggal tawen makita ti amin a lalakimo ⟨את⟩ ti rupa ni Adonay Yahweh, ti Elohim ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "a beses"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "iti tunggal tawen"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "a lalakimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupa"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T04:34:41.668875196Z",
+  "model": "glm-5.3"
+}

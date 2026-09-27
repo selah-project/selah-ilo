@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 64,
+  "translation": "Mamati, O Elohim, ti timekok iti bisarbak; isalakanmo ti biagko manipud iti buteng ti kabusor.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ti timekok"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "iti bisarbak"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "manipud iti buteng"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "isalakanmo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ti biagko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:38:25.651611513Z",
+  "model": "glm-5.3"
+}

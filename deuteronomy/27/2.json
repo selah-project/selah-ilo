@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ket iti aldaw a paglabasanyo ⟨את⟩ ti Yarden, iti daga a mangited ni Yahweh nga Elohimmo kenka, ipatindagam kadagiti bato a dakkel ket isidam ⟨את⟩ dagiti iti sid.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket mapasamak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "paglabasanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mangited"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "ipatindagam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "isidam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bato"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "iti sid"
+    }
+  ],
+  "timestamp": "2026-09-26T08:28:39.393950949Z",
+  "model": "glm-5.3"
+}

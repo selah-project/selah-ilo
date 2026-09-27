@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Iti atiddog a biag ipunukna, ket ipakitam kaniaku ti panangisalakankon.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "atiddog"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a biag"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ipunukna"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "ipakitam kaniaku"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "iti panangisalakankon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:31.688037625Z",
+  "model": "glm-5.3"
+}

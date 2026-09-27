@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken dagitoy ti kapututan ni Yitskhak, anak a lalaki ni Avraham: ni Avraham ti nagiputot ⟨את⟩ ni Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ken dagitoy"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ti kapututan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ti nagiputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:20:33.449900691Z",
+  "model": "glm-5.3"
+}

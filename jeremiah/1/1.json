@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Dagiti sao ni Yirmeyahu, anak a lalaki ni Khilkiyahu, manipud kadagiti padi nga adda iti Anatot, iti daga ti Binyamin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Dagiti sao"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ni Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ni Khilkiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kadagiti padi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "iti Anatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ti Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-26T16:15:23.933121152Z",
+  "model": "glm-5.3"
+}

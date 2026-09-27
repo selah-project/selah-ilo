@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "No timmaraan ti maysa a lalaki ⟨את⟩ ti mata ti adipenna wenno ⟨את⟩ ti mata ti bibienna ket narebbana, iti wayawaya ipanawanna gapu iti matana.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "timmaraan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mata"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ti adipenna"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mata"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ti bibienna"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "ket narebbana"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "iti wayawaya"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "ipanawanna"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "matana"
+    }
+  ],
+  "timestamp": "2026-09-26T04:09:09.835924807Z",
+  "model": "glm-5.3"
+}

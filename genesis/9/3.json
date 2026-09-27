@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Amin a rumsua a adda biagna, kadakayo ti agbalin a kas iti kanen — a kas iti natibker a mulla, inikkak kadakayo ⟨את⟩ ti amin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "rumsua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "חי",
+      "gloss": "adda biagna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "a kas iti kanen"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "kas iti natibker a"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "mulla"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "inikkak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    }
+  ],
+  "timestamp": "2026-09-26T01:51:54.095395600Z",
+  "model": "glm-5.3"
+}

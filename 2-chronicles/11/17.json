@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 11:17",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket nanginayonda ⟨את⟩ ti pagarian ti Yehudah ket pinigsupda ⟨את⟩ ni Rehavam anak ni Shelomoh kadagiti tallo a tawen, ta nagnada iti dalan ni David ken ni Shelomoh kadagiti tallo a tawen.",
+  "tokens": [
+    {
+      "surface": "ויחזקו",
+      "gloss": "nanginayonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagarian ti Yehudah"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ti pagarian"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "ויאמצו",
+      "gloss": "ket pinigsupda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Rehavam"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ni Rehavam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "kadagiti tawen"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nagnada"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "ken ni Shelomoh"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "kadagiti tawen"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tallo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:48:21.211182783Z",
+  "model": "glm-5.3"
+}

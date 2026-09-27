@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Natalnaanna ken nanganak ni Sarah kenni Avraham ti maysa nga anak a lalaki iti panagtandaenna, iti timpu a naisao ni Elohim ⟨iti bukodna⟩.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "natalnaanna"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ken nanganak"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ni Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kenni Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ti maysa nga anak a lalaki"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "iti panagtandaenna"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "iti timpu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naisao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T02:09:50.538921572Z",
+  "model": "glm-5.3"
+}

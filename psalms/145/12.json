@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Maammoan dagiti anak ti tao ti bilegna, ken ti daydayaw ti kaaday ti pagarianna.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "maammoan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dagiti anak ti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "bilegna"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ken ti daydayaw"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "kaaday"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ti pagarianna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:08.917709069Z",
+  "model": "glm-5.3"
+}

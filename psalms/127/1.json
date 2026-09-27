@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 127,
+  "translation": "Kanta dagiti Panangato, ni Shelomoh. No ti Yahweh ti saan a mangipatakder ⟨iti⟩ balay, inbain ti trabaho dagiti mangipatakder; no ti Yahweh ti saan a mangsalaknib ⟨iti⟩ ili, inbain ti aramid ti agbantay.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dagiti Panangato"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "mangipatakder"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "inbain"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ti trabaho"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "dagiti mangipatakder"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "mangsalaknib"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "inbain"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ti agbantay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:50.101514252Z",
+  "model": "glm-5.3"
+}

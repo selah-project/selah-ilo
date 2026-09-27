@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Nakakita ka kadagiti adu a bambanag ngem saanmo a salakniben; nakalukat dagiti tengngak ngem saan a nangngeg.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "nakakita ka"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "kadagiti adu a bambanag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saanmo a"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "salakniben"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "nakalukat"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "dagiti tengngak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan a"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nangngeg"
+    }
+  ],
+  "timestamp": "2026-09-26T15:27:38.283074312Z",
+  "model": "glm-5.3"
+}

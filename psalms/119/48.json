@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "ket italaknak dagiti imak kadagiti bilimmo a tinagayak, ket agsasaritaak kadagiti lintegmo",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "italaknak"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dagiti imak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kadagiti bilimmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tinagayak"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "agsasaritaak"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "kadagiti lintegmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:07.704701703Z",
+  "model": "glm-5.3"
+}

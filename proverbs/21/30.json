@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Awan ti buneng, ken awan ti pannakaammo, ken awan ti payo iti sanguan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti buneng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ti pannakaammo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ti payo"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:41:11.583834255Z",
+  "model": "glm-5.3"
+}

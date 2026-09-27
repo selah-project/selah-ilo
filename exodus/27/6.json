@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Aramidem dagiti badit para iti altar, badit nga adu iti kayo ti shitim, ket ibalkagem ⟨את⟩ dagitoy iti tombog.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "dagiti badit"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "para iti altar"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "badit"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "iti kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצצית",
+      "gloss": "ket ibalkagem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy (dagiti badit)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iti tombog"
+    }
+  ],
+  "timestamp": "2026-09-26T04:19:12.317640699Z",
+  "model": "glm-5.3"
+}

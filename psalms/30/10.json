@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ania ti ganansia iti daraak, no agbabaak iti limebengan? Agayyawad kadi ti tapok kenka? Ibaganna kadi ti kinapudnom?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ti ganansia"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "iti daraak"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "no agbabaak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "limebengan"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "agayyawad kadi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ti tapok"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "ibaganna kadi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ti kinapudnom"
+    }
+  ],
+  "timestamp": "2026-09-26T21:02:28.501766692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ken dagitoy ti dagiti nagan da: ni Ben-Khur, iti bantay Efrayim.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ken dagitoy"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ti dagiti nagan da"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ni Ben-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Khur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T12:24:12.083343154Z",
+  "model": "glm-5.3"
+}

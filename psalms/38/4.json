@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Awan ti kinasalun-at iti lasagko gapu iti rikna a rieam, awan ti kappia iti tulangko gapu iti basolko.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Awan"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ti kinasalun-at"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "iti lasagko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "rikna a rieam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "iti tulangko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "iti basolko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:08.772245388Z",
+  "model": "glm-5.3"
+}

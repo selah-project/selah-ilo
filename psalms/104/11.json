@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Ipaieda ti amin a sibibiag nga animal ti talon; dagiti atap a buriko ti puekda ti agipukelda.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "ipaieda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "a sibibiag nga animal"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ti agipukelda"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "dagiti atap a buriko"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ti puekda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:43.035357524Z",
+  "model": "glm-5.3"
+}

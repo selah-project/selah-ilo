@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Idi rabii, inalana ⟨את⟩ ni Lea nga anakna a babai, ket impanna ⟨את⟩ kenkuana, ket sumrek ketkuana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "rabii"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Lea nga anakna a babai"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anakna a babai"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "impanna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ketkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:16.313443091Z",
+  "model": "glm-5.3"
+}

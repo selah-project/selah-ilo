@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Nagtignay ti ari ken dagiti prinsipena ken ti amin a gimong iti Yerushalayim nga aramidentayo ti Pesach iti maikadua a bulan.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "nagtignay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ken dagiti prinsipena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin a"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramidentayo"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ti Pesach"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti maikadua a"
+    },
+    {
+      "surface": "השני",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:54:37.714807044Z",
+  "model": "glm-5.3"
+}

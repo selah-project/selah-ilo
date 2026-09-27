@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 79,
+  "translation": "Saanmo koma a lagipen kadakami dagiti basol ti napalabas; dumteng koma a nasapa kadakami dagiti pakaasim, ta nakapuytayo unay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saanmo koma"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "a lagipen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "dagiti basol"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ti napalabas"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "a nasapa"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "dumteng koma kadakami"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dagiti pakaasim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "nakapuytayo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:22.725212952Z",
+  "model": "glm-5.3"
+}

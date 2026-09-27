@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 146,
+  "translation": "Agdaydayawak ni Yahweh iti panagbiag ko; agkankantaak iti Elohimko no adda pay ti biag ko.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "agdaydayawak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "iti panagbiag ko"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "agkankantaak"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "iti Elohimko"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "no adda pay ti biag ko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:21.246361494Z",
+  "model": "glm-5.3"
+}

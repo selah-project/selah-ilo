@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Agaramid iti lawag ken pinarsua ti sipnget; agaramid iti kappia ken pinarsua ti dakes; siak ti Yahweh, agaramid iti amin dagitoy.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iti lawag"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "ken pinarsua"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ti sipnget"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "iti kappia"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "ken pinarsua"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T15:37:41.428051952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 1:8",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ngem ni Tsadok ti padi ken ni Benayahu nga anak ni Yehoyada ken ni Natan ti propeta, kenni Shimi ken kenni Re'i, ken dagiti napigsa a lalaki ni David — saanda idi a kadua ni Adoniyah.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "Ngem ni Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "ken ni Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ni Yehoyada"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ken ni Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ti propeta"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "kenni Shimi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "kenni Re'i"
+    },
+    {
+      "surface": "והגבורים",
+      "gloss": "ken dagiti napigsa a lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kukuani ni David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda idi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "a nagbalin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "ni Adoniyah"
+    }
+  ],
+  "timestamp": "2026-09-26T12:17:29.840434214Z",
+  "model": "glm-5.3"
+}

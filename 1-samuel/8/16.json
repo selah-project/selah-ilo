@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken ⟨את⟩ dagiti adipen yo ken ⟨את⟩ dagiti babai nga adipen yo ken ⟨את⟩ dagiti kaanakan a lalaki yo — dagiti nasayaat — ken ⟨את⟩ dagiti buriko yo alaanna, ket ipangrunaenna kadagiti ar-aramid na.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti adipen yo"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "dagiti adipen yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti babai nga adipen yo"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "dagiti babai nga adipen yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kaanakan a lalaki yo"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "dagiti kaanakan a lalaki yo"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "dagiti nasayaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti buriko yo"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "dagiti buriko yo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alaenna"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ket ipangrunaenna"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "kadagiti ar-aramid na"
+    }
+  ],
+  "timestamp": "2026-09-26T10:29:41.525742322Z",
+  "model": "glm-5.3"
+}

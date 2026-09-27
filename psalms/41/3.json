@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ti Yahweh salaknibennanto ken pakabiagenna; maipalintegna ⟨iti⟩ daga; ket saanmo nga ited ⟨iti⟩ kararua dagiti kabusorna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ti Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "salaknibennanto"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "ken pakabiagenna"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "maipalintegna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saanmo"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "nga ited"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "iti kararua"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dagiti kabusorna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:39.712853467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "No ti taba ti natayday a bangbangay ken ti taba ti rinaut ti bistia, mabalin a maaramid iti aniaman nga aramid, ngem saan yo pulos a manganen.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "ti taba"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "natayday a bangbangay"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ken ti taba"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "rinaut ti bistia"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mabalin a maaramid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti aniaman"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "manganen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "yo pulos a manganen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:57:15.243162161Z",
+  "model": "glm-5.3"
+}

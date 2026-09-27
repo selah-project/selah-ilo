@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket pinatakder ni Shelomoh ⟨את⟩ ti Gezer ken ⟨את⟩ ti Beth-Khoron ti baba.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "pinatakder"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ti Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Beth-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "-Khoron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ti baba"
+    }
+  ],
+  "timestamp": "2026-09-26T12:41:49.185685618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Gapuna maibaga iti libro dagiti gubat ni Yahweh: ⟨את⟩ Vaheb iti Sufah, ken ⟨את⟩ dagiti karayan ti Arnon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "maibaga"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "iti libro"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "dagiti gubat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vaheb"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Vaheb"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "iti Sufah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti karayan"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "ti Arnon"
+    }
+  ],
+  "timestamp": "2026-09-26T06:50:53.899037115Z",
+  "model": "glm-5.3"
+}

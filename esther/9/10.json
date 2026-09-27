@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Dagiti sangapulo nga anak lallaki ni Haman, anak ni Hamedata, ti kabusor dagiti Yehudi, ti tao a lalaki, pinatayda; ket iti sinamsam saananda nga immanda ⟨את⟩ dagiti imada.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak lallaki"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "kabusor"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "dagiti Yehudi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pinatayda"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "ket iti sinamsam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nga immanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti imada"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dagiti imada"
+    }
+  ],
+  "timestamp": "2026-09-26T23:13:05.530663722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ti aniaman a nataengan saan yo a mangan; iti amin a pagtaengan yo mangan kayo ti tinapay nga awan pattaenna.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ti aniaman a"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "nataengan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan yo a"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "a pagtaengan yo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangan kayo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ti tinapay nga awan pattaenna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:49:12.504568744Z",
+  "model": "glm-5.3"
+}

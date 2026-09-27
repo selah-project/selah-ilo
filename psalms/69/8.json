@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Ta gapu Kenka inbayatko ti kiddaw; ti bain timmakdop ti rupak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gapu Kenka"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "inbayatko"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ti kiddaw"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "timmakdop"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ti bain"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:43:57.042201302Z",
+  "model": "glm-5.3"
+}

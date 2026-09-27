@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "ket ni Azarjah nagputot ⟨את⟩ ni Amarjah, ket ni Amarjah nagputot ⟨את⟩ ni Akituv",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ket ni Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akituv"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:53.277382034Z",
+  "model": "glm-5.3"
+}

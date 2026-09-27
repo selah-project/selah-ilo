@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Inbelleng ni Shaul ⟨את⟩ ti hunang, ta kinuna: Patayek ni David a maipon iti pader; ket nagliklik ni David manipud iti sanguananna, makadua a maising.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "inbelleng"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti hunang"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ti hunang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "patayek"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "a maipon iti pader"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ket nagliklik"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "manipud iti sanguananna"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "makadua a maising"
+    }
+  ],
+  "timestamp": "2026-09-26T10:58:45.773815449Z",
+  "model": "glm-5.3"
+}

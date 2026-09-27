@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket dagitoy dagiti nagan da: iti tribu ni Reuben, Shammua anak ni Zakur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ket dagitoy"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "dagiti nagan da"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "iti tribu"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuben"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Shammua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ni Zakur"
+    }
+  ],
+  "timestamp": "2026-09-26T06:36:49.791153484Z",
+  "model": "glm-5.3"
+}

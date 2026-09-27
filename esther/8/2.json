@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket inikkat ti ari ⟨את⟩ singsingna a naiyegna manipud kenni Haman, ken initedna kenni Mordekai; ket inikkat ni Ester ⟨ti⟩ ⟨את⟩ ni Mordekai iti ngato ti balay ni Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ken inikkat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "singsingna"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "singsingna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "naiyegna"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "manipud kenni Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ken initedna"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kenni Mordekai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ken inikkat"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekai"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:56.345617957Z",
+  "model": "glm-5.3"
+}

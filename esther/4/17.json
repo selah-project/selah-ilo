@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket nagna ni Mordekhay ken inaramidna ⟨את⟩ amin ti nabilin ni Ester kenkuana",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ket nagna"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekhay"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ken inaramidna"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "nabilin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:00.084828490Z",
+  "model": "glm-5.3"
+}

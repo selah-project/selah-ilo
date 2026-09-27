@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Nagtaray isuna ken ni Eli ket kinuna: Ditoyak, ta immayagka kaniak. Ket kinuna ni Eli: Saanak nga immayag; agsublika ken maturogka. Ket napan isuna ket naturog.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "nagtaray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ditoyak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "immayagka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "immayagak"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "maturogka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "napan"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "naturog"
+    }
+  ],
+  "timestamp": "2026-09-26T10:30:19.321147714Z",
+  "model": "glm-5.3"
+}

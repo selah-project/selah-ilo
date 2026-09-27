@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Binendisionan ni David ni ⟨את⟩ Yahweh iti sango dagiti mata ti sibubukel a gimong, ket kinuna ni David: Bendisionaan ka, Yahweh, Elohim ti Yisrael nga ammatayo, manipud iti agnanayon agingga iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "binendisionan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "iti sango dagiti mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti sibubukel"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "bendisionaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ngaatayo"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "manipud iti agnanayon"
+    },
+    {
+      "surface": "וועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:01.922673550Z",
+  "model": "glm-5.3"
+}

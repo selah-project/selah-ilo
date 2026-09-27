@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ta agsipud iti panagsuksukda a kasla dagiti sabsabani, ken iti panangiinumda a naulananda, makanenda a kasla namaga a natudaan a napno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agsipud iti"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "a kasla dagiti sabsabani"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "iti panagsuksukda"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "ken iti panangiinumda"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "naulananda"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "makanenda"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "a kasla natudaan"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "namaga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a napno"
+    }
+  ],
+  "timestamp": "2026-09-26T20:08:59.473149376Z",
+  "model": "glm-5.3"
+}

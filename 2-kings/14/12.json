@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket naabak ti Yehudah iti sanguanan ti Yisrael, ket immalliwanda, tunggal lalaki iti toldana.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "naabak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "immalliwanda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal lalaki"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "iti toldana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:44:05.638582403Z",
+  "model": "glm-5.3"
+}

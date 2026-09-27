@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ta ni Yahweh ti mangited iti karunong; manipud iti ngiwatna ti ammo ken panagawat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mangited"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "karunong"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ngiwatna"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ken panagawat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:33:36.240410310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket alaenda iti dara ken idaddaanda iti dua a posten ti pintoan ken iti angan, kadagiti balay a sadiay makananda ⟨את⟩ dayta kadakuada.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ket alaenda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dara"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ken idaddaanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "posten ti pintoan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "angan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "kadagiti balay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a sadiay"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "makananda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta — ti karnero"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T03:45:49.444882311Z",
+  "model": "glm-5.3"
+}

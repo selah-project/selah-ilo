@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Inikabilna ⟨את⟩ ti turban iti ulona, ken iti turban, iti sango ti rupana, inikabilna ⟨את⟩ ti nalatanngan a balitok, ti korona ti kasantuanan, kas ti imbilin ni Yahweh ⟨את⟩ kenni Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "inikabilna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti turban"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ti turban"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulona"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "inikabilna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sango"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rupana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nalatanngan a balitok"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "nalatanngan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kasantuanan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "imbilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T05:15:11.968377774Z",
+  "model": "glm-5.3"
+}

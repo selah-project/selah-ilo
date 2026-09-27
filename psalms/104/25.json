@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Daytoy ti baybay, dakkel ken nalawa nga ima, sadiay dagiti agykoykoy nga animal nga awan bilang, sibibiag nga animal, bassit a kadua kadagiti dakkel.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ken nalawa"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "nga ima"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "dagiti agykoykoy nga animal"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilang"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "sibibiag nga animal"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua kadagiti"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dakkel"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:40.764358288Z",
+  "model": "glm-5.3"
+}

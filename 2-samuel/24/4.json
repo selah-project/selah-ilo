@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Nagpigsa ti sao ti ari kenni Joab ken kadagiti daulo ti buyot, ket immay ni Joab ken dagiti daulo ti buyot iti sangoan ti ari a bilangenda ⟨את⟩ ti umili, ⟨את⟩ ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nagpigsa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dagiti daulo"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Joab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ken dagiti daulo"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "a bilangenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T12:16:41.953568160Z",
+  "model": "glm-5.3"
+}

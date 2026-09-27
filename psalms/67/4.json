@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 67,
+  "translation": "Dagiti umili agdaydayawanda koma kenka, O Elohim; agdaydayawanda koma kenka dagiti umili, amin da.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "agdaydayawanda koma kenka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "agdaydayawanda koma kenka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "amin da"
+    }
+  ],
+  "timestamp": "2026-09-26T21:38:04.467071977Z",
+  "model": "glm-5.3"
+}

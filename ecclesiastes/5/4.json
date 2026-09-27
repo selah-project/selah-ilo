@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Nasaysayaat ti saanmo nga agaanup, ngem no agaanupka a saanmo a palnen.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nasaysayaat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "nga agaanup"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "no agaanupka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a saanmo"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "nga palnen"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:07.642473218Z",
+  "model": "glm-5.3"
+}

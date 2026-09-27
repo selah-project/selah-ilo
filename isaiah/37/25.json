@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Siak — nagkalapko ken immunumek ti danum, ket ti takder ti sakaak ti mangpukaw kadagiti amin a karayan ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "nagkalapko"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ken immunumek"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "ket mangpukaw"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "iti takder"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ti sakaak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "a karayan"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T15:18:48.912143488Z",
+  "model": "glm-5.3"
+}

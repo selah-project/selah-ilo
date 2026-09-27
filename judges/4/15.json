@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 4:15",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Rinibok ni Yahweh ⟨את⟩ ni Sisera ken ⟨את⟩ amin a kareta ken ⟨את⟩ amin a kampo iti ngiwat ti tabak, iti sangoan ni Barak; simmukat ni Sisera manipud iti karetana ket timmaray kadagiti sakkana.",
+  "tokens": [
+    {
+      "surface": "ויהם",
+      "gloss": "rinibok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Sisera"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kareta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "a kareta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a kampo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "iti ngiwat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ti tabak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ni Barak"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "simmukat"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "karetana"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "timmaray"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "kadagiti sakkana"
+    }
+  ],
+  "timestamp": "2026-09-26T09:43:08.773261369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ken dagiti daulo immpan ⟨את⟩ dagiti bato ti shoham ken ⟨את⟩ dagiti bato a naikabil, para iti efod ken para iti khoshen.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "ken dagiti daulo"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "impan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bato ti shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ti shoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bato a naikabil"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a naikabil"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "para iti efod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ken para iti khoshen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:40:38.095687649Z",
+  "model": "glm-5.3"
+}

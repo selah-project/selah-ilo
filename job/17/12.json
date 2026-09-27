@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ti rabii iti aldaw aramidda, ti lawag asidegapu iti sipnget.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "Ti rabii"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "aramidda"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ti lawag"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "asideg"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sipnget"
+    }
+  ],
+  "timestamp": "2026-09-26T22:52:34.379224944Z",
+  "model": "glm-5.3"
+}

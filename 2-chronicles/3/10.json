@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken iti balay ti nasantuan kadagiti nasantuan inaramidda dua a kerub, aramid ti eskultura, ken binalkotanda ⟨אתם⟩ iti balitok.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ti nasantuan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kadagiti nasantuan"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "dua a kerub"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "eskultura"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "binalkotanda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dagiti kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "iti balitok"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:07.925178944Z",
+  "model": "glm-5.3"
+}

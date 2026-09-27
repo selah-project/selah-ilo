@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Naragsak ti umili nga ammoanda ti riribok; ni Yahweh, iti lawag ti rupam agsursuroda.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "naragsak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "nga ammoanda"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ti riribok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "באור",
+      "gloss": "iti lawag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "agsursuroda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:00.804412402Z",
+  "model": "glm-5.3"
+}

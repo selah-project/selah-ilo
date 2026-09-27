@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken dagiti lalaki a saan a natay, nabugbugda kadagiti rua-oy, ket ti tangis ti ili simmangngato agingga iti langit.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "ken dagiti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "a natay"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "nabugbugda"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "kadagiti rua-oy"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "simmangngato"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "ti tangis"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "agingga iti langit"
+    }
+  ],
+  "timestamp": "2026-09-26T10:33:26.705644429Z",
+  "model": "glm-5.3"
+}

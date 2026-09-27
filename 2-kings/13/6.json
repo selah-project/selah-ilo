@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Nupay kasta, saanda a timmalinga manipud kadagiti basol ti balay ni Yaravam, a nangbasolanna ⟨את⟩ ti Yisrael; nagtultuloyda kadakuana, ket ti asherah ket nagnaed iti Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nupay kasta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "a timmalinga"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "manipud kadagiti basol"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "nangbasolanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagtultuloy"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ti asherah"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "iti Shomron"
+    }
+  ],
+  "timestamp": "2026-09-26T13:49:01.570312470Z",
+  "model": "glm-5.3"
+}

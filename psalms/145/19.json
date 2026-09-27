@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Ti kayayat dagiti mabuteng kenkuana aramidenna, ket ⟨את⟩ ti singada dengngenna ket isalakannana.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Ti kayayat"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dagiti mabuteng kenkuana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti singada"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ti singada"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dengngenna"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ket isalakannana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:37.168534501Z",
+  "model": "glm-5.3"
+}

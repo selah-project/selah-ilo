@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Gapu iti panaglabes kadagiti imak ken ti panagsangaili kadagiti makapuy, ita agtakderak, kinuna ni Yahweh; ikabilkoni iti salakan ti aganges kenkuana.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "panaglabes"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "kadagiti imak"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "ti panagsangaili"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "kadagiti makapuy"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "agtakderak"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ikabilko"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "iti salakan"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ti aganges"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:42.540824557Z",
+  "model": "glm-5.3"
+}

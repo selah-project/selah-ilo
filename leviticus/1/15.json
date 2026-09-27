@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Iparuarna ti padi ⟨iti⟩ altar, ikkatanna ⟨את⟩ ulona, ipangluanna iti altar, ket mausig ti darana iti diding ti altar.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "iparuarna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ikkatanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulona"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulona"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ipangluanna"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "mausig"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ti darana"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "diding"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:13.764996695Z",
+  "model": "glm-5.3"
+}

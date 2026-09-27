@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "Ti nangikabil iti kararuatayo iti biag, ket saan a nangited ti panagmatnag dagiti sakatayo.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ti nangikabil"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "iti kararuatayo"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "iti biag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nangited"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ti panagmatnag"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "dagiti sakatayo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:35:11.266291085Z",
+  "model": "glm-5.3"
+}

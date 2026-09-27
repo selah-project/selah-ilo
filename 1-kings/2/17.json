@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket kinunana: Saoam koma ni Shelomoh ti ari, ta saanna nga isubli ⟨את⟩ ti rupaam, ket itednanto kaniak ⟨את⟩ ni Avishag a Shunamita a kas asawa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "saoam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kenni Shelomoh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "isubli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupaam"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rupaam"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket itednanto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avishag a Shunamita"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "ni Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "a Shunamita"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a kas asawa"
+    }
+  ],
+  "timestamp": "2026-09-26T12:23:50.010823719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ti baknang saan a makaadu, ken ti pobre saan a makabassit manipud iti gudua ti shekel, no agitedda ⟨את⟩ ti daton ni Yahweh, agipatawid kadagiti kararua yo.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "ti baknang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "a makaadu"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "ken ti pobre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "a makabassit"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "manipud iti gudua"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "ti shekel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "no agitedda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daton ni Yahweh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "daton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "agipatawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "kararua yo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:29:56.079108255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ta dagiti dakes a tao ket agdadaelda, ken dagiti kabusor ni Yahweh — a kas ti daydayaw dagiti karnero a lalaki — mapukawda; iti aso mapukawda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes a tao"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "agdadaelda"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ken dagiti kabusor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "a kas ti daydayaw"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "dagiti karnero a lalaki"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "mapukawda"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "iti aso"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "mapukawda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:26.731233463Z",
+  "model": "glm-5.3"
+}

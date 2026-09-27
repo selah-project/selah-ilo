@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Immakar ni Avraham manipud iti sango ti natayna, ket kimmutarna kadagiti anak ni Heth, nga insao na:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Immakar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sango"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ti natayna"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ket kimmutarna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ni Heth"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga insao na"
+    }
+  ],
+  "timestamp": "2026-09-26T02:14:15.645368431Z",
+  "model": "glm-5.3"
+}

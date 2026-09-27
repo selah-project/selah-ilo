@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ulienmo a maikanonna kadagiti annak-mo, ket masaosmo ida no agtugawka iti balay-mo, no agemka iti dalan, no maturogka ket no agtakderka.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "ulienmo a maikanonna"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "kadagiti annak-mo"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "masaosmo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ida"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "no agtugawka"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "iti balay-mo"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "no agemka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "no maturogka"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "no agtakderka"
+    }
+  ],
+  "timestamp": "2026-09-26T07:44:51.526588331Z",
+  "model": "glm-5.3"
+}

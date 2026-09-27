@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket awagam ni Yishay iti sakripisio, ket siak ipakitak kaniam ⟨את⟩ ti aramidem; ket ilanaam kaniak ⟨את⟩ ti ibagak kaniam.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "awagam"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "ni Yishay"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "iti sakripisio"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ipakitak kaniam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramidem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ket ilanaam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ibagak kaniam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ibagak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kaniam"
+    }
+  ],
+  "timestamp": "2026-09-26T10:51:58.176086422Z",
+  "model": "glm-5.3"
+}

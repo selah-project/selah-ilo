@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 28:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ken sika, saoem kadagiti amin a maaram iti puso, a sinungbakanko ti anges ti maaram, ket aramidda ⟨את⟩ dagiti bado ni Aharon, isu nga isu nga nasantuananan, agpadi kaniak.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "saoem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "a maaram"
+    },
+    {
+      "surface": "לב",
+      "gloss": "iti puso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלאתיו",
+      "gloss": "sinungbakanko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti anges"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti maaram"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ket aramidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bado"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "isu nga nasantuananna"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "agpadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T04:21:19.192818190Z",
+  "model": "glm-5.3"
+}

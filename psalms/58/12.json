@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "Ket ti tao agsao: pudno nga adda bunga para iti nalinteg; pudno nga adda Elohim a mangukom iti daga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "agsao"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אך",
+      "gloss": "pudno nga"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "para iti nalinteg"
+    },
+    {
+      "surface": "אך",
+      "gloss": "pudno nga"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "a mangukom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:06.504778758Z",
+  "model": "glm-5.3"
+}

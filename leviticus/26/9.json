@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Agsublikanto ⟨את⟩ kadakayo, ket pagpunuakanto ⟨את⟩ kadakayo, ket pagaduakanto ⟨את⟩ kadakayo, ket ipatakderko ⟨את⟩ ti tulagko kadakayo.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Agsublikanto"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "pagpunuakanto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "pagaduakanto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ipatakderko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulagko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:54:47.156833637Z",
+  "model": "glm-5.3"
+}

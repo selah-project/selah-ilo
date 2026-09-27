@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Ta kinunada dagiti kabusorko kaniak, ken dagiti agbantay iti kararwak nagtinnulaganda nga agkakadua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dagiti kabusorko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ken dagiti agbantay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "iti kararwak"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "nagtinnulaganda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga agkakadua"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:19.791707934Z",
+  "model": "glm-5.3"
+}

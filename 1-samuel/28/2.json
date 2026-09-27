@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 28:2",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "ket kinuna ni David kenni Akhish: isu nga ammoam no ania ti aramiden ti adipenmo. ket kinuna ni Akhish kenni David: isu nga salaknib ti ulok ti ikkatak a sika amin a dagiti aldaw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akhish"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "isu nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ammoam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramiden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aramiden"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ni Akhish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "isu nga"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "salaknib"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ti ulok"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "ikkataka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagiti aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T11:22:05.234204346Z",
+  "model": "glm-5.3"
+}

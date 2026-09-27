@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Kitaem, iti kinalinteg ti agturay nga ari, ken dagiti prinsipe iti ukom ti agturayanda.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "iti kinalinteg"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "agturay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ken dagiti prinsipe"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "agturayanda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:04:25.112205552Z",
+  "model": "glm-5.3"
+}

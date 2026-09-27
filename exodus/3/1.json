@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ni Moshe ket agpastor ⟨iti⟩ tariptipan ni Yitro, apokna a lalaki iti asawana, a padi ti Midian; ken imulona ⟨את⟩ ti tariptip iti likud ti ladaw, ken immay iti bantay ti Elohim, iti Horeb.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ket"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "agpastor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tariptip"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tariptip"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ni Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "apokna a lalaki iti asawana"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "padi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "imulona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tariptip"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ti tariptip"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iti likud"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ti ladaw"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ken immay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "iti Horeb"
+    }
+  ],
+  "timestamp": "2026-09-26T03:27:22.001930477Z",
+  "model": "glm-5.3"
+}

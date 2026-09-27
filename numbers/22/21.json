@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Idi bigat nagtaud ni Bilam ket inselaanna ⟨את⟩ ti buriko a babai, ket nagna kadua dagiti panguluan ti Moav.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nagtaud"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ni Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "idi bigat"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "inselaanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti buriko a babai"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ti buriko a babai"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dagiti panguluan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moav"
+    }
+  ],
+  "timestamp": "2026-09-26T06:55:38.708671178Z",
+  "model": "glm-5.3"
+}

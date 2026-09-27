@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Nangngeg ni Tou, ari ti Hamat, ta inabak ni David ⟨את⟩ ti amin a buyot ni Hadadezer, ari ti Zobah;",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "inabak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a buyot ni Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "buyot"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zobah"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:54.214395109Z",
+  "model": "glm-5.3"
+}

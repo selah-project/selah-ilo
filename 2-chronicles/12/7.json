@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 12:7",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Idi nakita ni Yahweh a nagpakumbabada, immay ti sao ni Yahweh ken ni Shemayah a kunkuna: Nagpakumbabada; saankonto nga agdadael kaniada; ket itedko kaniada bassit a panagsalakan, ket saan a mapuoran ti ngergerko idiay Yerushalayim babaen iti ima ni Shishak.",
+  "tokens": [
+    {
+      "surface": "ובראות",
+      "gloss": "Idi nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "nagpakumbabada"
+    },
+    {
+      "surface": "היה",
+      "gloss": "immay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ni Shemayah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "Nagpakumbabada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saankonto"
+    },
+    {
+      "surface": "אשחיתם",
+      "gloss": "nga agdadael kaniada"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ket itedko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "a panagsalakan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "a mapuoran"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ti ngergerko"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "idiay Yerushalayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen iti ima"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "ni Shishak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:49:17.560980253Z",
+  "model": "glm-5.3"
+}

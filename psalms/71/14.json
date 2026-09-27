@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Ngem siak, agtultuloy nga agur-uray, ket nangnayonak iti amin a panagdaydayawmo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngem siak"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "agtultuloy"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "agur-uray"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "nangnayonak"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "panagdaydayawmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:43:22.936739944Z",
+  "model": "glm-5.3"
+}

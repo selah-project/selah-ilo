@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kas iti saanmo nga ammo ti dalan ti angin, ken no kasano dagiti tulang ⟨iti⟩ tian ti maysa a napno, kasta met ti saanmo nga ammo ⟨את⟩ ti aramid ti Elohim a mangaramid ⟨את⟩ ti amin.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ti angin"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "no kasano dagiti tulang"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "iti tian"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "ti napno"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kasta met"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramid"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mangaramid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ti amin"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:00.249277813Z",
+  "model": "glm-5.3"
+}

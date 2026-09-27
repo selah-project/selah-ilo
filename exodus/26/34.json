@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ikabilam ⟨ti⟩ kapporet iti ngato ti arka ti Patestemonio, iti Kodesh kadagiti Nasantuanan.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Ikabilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ti kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ti Patestemonio"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti Kodesh"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kadagiti Nasantuanan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:19:15.448450732Z",
+  "model": "glm-5.3"
+}

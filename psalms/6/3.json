@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kaasiannak, Yahweh, ta nasakitak; agasannak, Yahweh, ta agsagsagaba dagiti tulangko.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "kaasiannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "nasakitak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "agasannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "agsagsagaba"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "dagiti tulangko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:58.472270498Z",
+  "model": "glm-5.3"
+}

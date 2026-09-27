@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 57:18",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Nakitak ⟨dagiti⟩ dalanna, ket agasakonto kenkuana, ket iturongkonto ⟨kenkuana⟩, ket isublikonto dagiti konso-lo kenkuana ken kadagiti agsangsangit kenkuana.",
+  "tokens": [
+    {
+      "surface": "דרכיו",
+      "gloss": "dalanna"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Nakitak"
+    },
+    {
+      "surface": "וארפאהו",
+      "gloss": "ket agasakonto kenkuana"
+    },
+    {
+      "surface": "ואנחהו",
+      "gloss": "ket iturongkonto"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "ket isublikonto"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "dagiti konso-lo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "ולאבליו",
+      "gloss": "ken kadagiti agsangsangit kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T15:55:43.063049853Z",
+  "model": "glm-5.3"
+}

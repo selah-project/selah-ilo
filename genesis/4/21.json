@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ti nagan ti kabsatna ⟨ti⟩ Yubal; isu ti nagbalin nga amaan kadagiti amin nga agtartaraken kadagiti kinnor ken kadagiti ugab.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ken ti nagan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ti kabsatna"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yubal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nga amaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "agtartaraken"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kadagiti kinnor"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ken kadagiti ugab"
+    }
+  ],
+  "timestamp": "2026-09-26T01:41:09.417488002Z",
+  "model": "glm-5.3"
+}

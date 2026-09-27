@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Kinuna pay ni David: Biag ni Yahweh! No ti Yahweh ti dadaelenna, wenno umay ti aldawna a matay, wenno agbaba iti gubat ket mapukaw;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna pay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Biag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "ti dadaelenna"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ti aldawna"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a matay"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "agbaba"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ket mapukaw"
+    }
+  ],
+  "timestamp": "2026-09-26T11:17:35.633539917Z",
+  "model": "glm-5.3"
+}

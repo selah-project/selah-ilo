@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ken dagiti natayanda maitulnog, ken ti bawbangda agpangato manipud kadagiti bangbangkayda, ken matunaw dagiti bantay manipud iti darada.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "Ken dagiti natayanda"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "maitulnog"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "ken dagiti bangbangkayda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "agpangato"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "ti bawbangda"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "ken matunaw"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "manipud iti darada"
+    }
+  ],
+  "timestamp": "2026-09-26T15:17:14.897419276Z",
+  "model": "glm-5.3"
+}

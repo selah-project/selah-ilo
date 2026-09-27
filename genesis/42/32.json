@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Sangapulo ket dua kami a kabsat, nga anak ti amamin; ti maysa awan, ket ti ubing nga ita nga aldaw adda ⟨את⟩ ti amamin iti daga ti Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "Sangapulo ket"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "a kabsat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ti amamin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "awan"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "ket ti ubing"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amamin"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ti amamin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-26T03:05:19.620514382Z",
+  "model": "glm-5.3"
+}

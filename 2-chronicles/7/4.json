@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket ti ari ken ti amin ti umili nagsakripisioda ti sakripisio iti sanguanan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ket ti ari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "nagsakripisioda"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ti sakripisio"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:45:30.691786198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Adda koma ti daydayaw ni Yahweh nga agnanayon; agragsak koma ni Yahweh kadagiti ar-aramidna.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "adda koma"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "daydayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "agragsak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "kadagiti ar-aramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:54.556207397Z",
+  "model": "glm-5.3"
+}

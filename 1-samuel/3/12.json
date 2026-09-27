@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Iti dayta nga aldaw, ipatdek ko kenni Eli ⟨את⟩ ti amin a kinunak maipapan iti balayna: rugian ken patingga.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ipatdek ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maipapan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iti balayna"
+    },
+    {
+      "surface": "החל",
+      "gloss": "rugian"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ken patingga"
+    }
+  ],
+  "timestamp": "2026-09-26T10:29:10.875117380Z",
+  "model": "glm-5.3"
+}

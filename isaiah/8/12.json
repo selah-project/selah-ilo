@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Saan kayo a kunaen ti keser, iti aniaman a maibaga daytoy a umili a kas keser; ken ⟨את⟩ ti panagbutengna saan kayo a mabuteng, ken saan kayo a madiddaaw.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "kayao a kunaen"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ti keser"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti aniaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "maibaga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "daytoy a umili"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "a kas keser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti panagbutengna"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "ti panagbutengna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan kayo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "a mabuteng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan kayo"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "a madiddaaw"
+    }
+  ],
+  "timestamp": "2026-09-26T14:22:50.905639959Z",
+  "model": "glm-5.3"
+}

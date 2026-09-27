@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Aramidenmo ⟨את⟩ dagiti tabla ti ⟨ti⟩ Mishkan: duapulo a tabla iti bangir ti abagatan, agpa-abagatan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aramidenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tabla"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dagiti tabla"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "iti bangir"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "abagatan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "agpa-abagatan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:19:42.524796673Z",
+  "model": "glm-5.3"
+}

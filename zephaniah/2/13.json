@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket itayonna ti imana iti amianan, ken dadaelennana ⟨את⟩ ti Ashur, ket ikabilanna ⟨את⟩ ti Nineveh a pagdakkelan iti kinaawan, a daga a namaga, kas ti daga a saan a naedian.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ket itayonna"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "amianan"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ken dadaelennana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ket ikabilanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Nineveh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "a pagdakkelan iti kinaawan"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "a daga a namaga"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kas ti daga a saan a naedian"
+    }
+  ],
+  "timestamp": "2026-09-26T20:19:07.886660806Z",
+  "model": "glm-5.3"
+}

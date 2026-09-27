@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ta innakarda a dakes iti kontrakmo, nagdarepda ti nakaro a pakanda a saanda a makabael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "innakarda"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "iti kontrakmo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "a dakes"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "nagdarepda"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ti nakaro a pakanda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "a makabael"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:03.283662366Z",
+  "model": "glm-5.3"
+}

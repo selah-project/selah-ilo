@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "ket saan ⟨ti maysa⟩ a kinuna: Sadino ni Eloah a nangaramid kaniak, ti agited iti kanta iti rabii?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "איה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "a nangaramid kaniak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ti agited"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "iti kanta"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "iti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T22:59:19.557008241Z",
+  "model": "glm-5.3"
+}

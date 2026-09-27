@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Naragsak dagiti agsalaknib iti ukom, dagiti agaramid iti kinalinteg iti amin a panawen.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Naragsak"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "dagiti agsalaknib"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dagiti agaramid"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "iti kinalinteg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "עת",
+      "gloss": "a panawen"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:18.132313463Z",
+  "model": "glm-5.3"
+}

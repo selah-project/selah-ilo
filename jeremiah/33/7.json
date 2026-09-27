@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ket isubliko ⟨את⟩ ti panagsubli ni Yehudah ken ⟨את⟩ ti panagsubli ni Yisrael, ket ibangbangonkoda a kas iti umuna.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "ket isubliko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagsubli ni Yehudah"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ti panagsubli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti panagsubli ni Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ti panagsubli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ket ibangbangonkoda"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "a kas iti umuna"
+    }
+  ],
+  "timestamp": "2026-09-26T17:25:39.117965873Z",
+  "model": "glm-5.3"
+}

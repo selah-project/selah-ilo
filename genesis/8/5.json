@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken ti danum ket agnatnat ken bumabassit agingga iti maikasangapulo a bulan; iti maikasangapulo a bulan, iti maysa nga aldaw ti bulan, naipakita dagiti tengnged dagiti bantay.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "Ken ti danum"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ket"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "agnatnat"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "ken bumabassit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "maikasangapulo"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "iti maikasangapulo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "iti maysa nga aldaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ti bulan"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "naipakita"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dagiti tengnged"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dagiti bantay"
+    }
+  ],
+  "timestamp": "2026-09-26T01:48:20.924386760Z",
+  "model": "glm-5.3"
+}

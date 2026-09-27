@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 6:14",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket ni David nagsala nga amin a bileg iti sanguanan ni Yahweh, ket ni David nakabindo iti ephod a lino.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ket ni David"
+    },
+    {
+      "surface": "מכרכר",
+      "gloss": "nagsala"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nga amin"
+    },
+    {
+      "surface": "עז",
+      "gloss": "a bileg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ket ni David"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "nakabindo"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "iti ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "a lino"
+    }
+  ],
+  "timestamp": "2026-09-26T11:38:33.773687333Z",
+  "model": "glm-5.3"
+}

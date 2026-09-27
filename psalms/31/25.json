@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Agpignaykayo, ket palintegenna ti pusoyo, amin kayo a dagiti agur-uray kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Agpignaykayo"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "ket palintegenna"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ti pusoyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "dagiti agur-uray"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:05:21.822903238Z",
+  "model": "glm-5.3"
+}

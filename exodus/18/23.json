@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "No aramidem ⟨את⟩ daytoy a banag ket inkari met ni Elohim kenka, ket makabaelka nga agtakder, ken isu met amin daytoy a tao umay iti bukodna a disso iti kappia.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a banag"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a banag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "ket inkari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "ket makabaelka"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nga agtakder"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ken isu met"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "daytoy a tao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "bukodna a disso"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "iti kappia"
+    }
+  ],
+  "timestamp": "2026-09-26T04:03:54.975377735Z",
+  "model": "glm-5.3"
+}

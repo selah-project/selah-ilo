@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Pagtuboenna ti dika para kadagiti ayup, ken ti mula para iti panagserbi ti tao, nga iparuarna ti tinapay manipud iti daga.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "pagtuboenna"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ti dika"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "para kadagiti ayup"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "ken ti mula"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "para iti panagserbi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "nga iparuarna"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:08.196745560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket immakar ni Yonah ket napan iti Nineveh, kas iti sao ni Yahweh; ket ti Nineveh ket maysa a dakkel nga ili iti panangikeddeng ti Elohim, iti panagnaed iti tallo nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ket immakar"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ni Yonah"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ket napan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kas iti sao"
+    },
+    {
+      "surface": "י הוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "ket ti Nineveh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ket maysa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "nga ili"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "a dakkel"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "iti panangikeddeng ti Elohim"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "iti panagnaed"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "iti tallo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T20:03:26.824424199Z",
+  "model": "glm-5.3"
+}

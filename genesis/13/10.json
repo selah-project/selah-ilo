@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 13:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Kinippuas ni Lot ⟨את⟩ dagiti matana ket nakitana ⟨את⟩ ti amin a tanap ti Yarden, ta amin daytoy ket naiibanon, sakbay nga dinadael ni Yahweh ⟨את⟩ Sodom ken ⟨את⟩ Amora — a kas tulongan ni Yahweh, a kas daga ti Mitsrayim, inton umanka iti Tsoar.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "kinippuas"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ni Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti matana"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "dagiti matana"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a tanap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "tanap"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "amin daytoy"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "naiibanon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sakbay"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "dinadael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Amora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "a kas tulongan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "a kas daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "inton umanka"
+    },
+    {
+      "surface": "צער",
+      "gloss": "iti Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-26T01:55:28.484000687Z",
+  "model": "glm-5.3"
+}

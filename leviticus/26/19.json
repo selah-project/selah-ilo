@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ken dadaelko ⟨את⟩ ti kinadakkel ti bilegyo, ken itedko ⟨את⟩ ti langityo a kas landok, ken ⟨את⟩ ti dagayo a kas gambang.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "ken dadaelko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kinadakkel ti bilegyo"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ti kinadakkel"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "ti bilegyo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ken itedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti langityo"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "ti langityo"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "a kas landok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti dagayo"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ti dagayo"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "a kas gambang"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:29.082405985Z",
+  "model": "glm-5.3"
+}

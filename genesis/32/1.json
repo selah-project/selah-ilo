@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Immrigatan ni Lavan iti bigat, sinippuanna dagiti anakna a lalaki ken dagiti anakna a babai, ket binendisionanna ⟨את⟩ da, ket nagna isuna ken naggapu ni Lavan iti pagtaenganna.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "immrigatan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "sinippuanna"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "dagiti anakna a lalaki"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "ken dagiti anakna a babai"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "da"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ket nagna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "naggapu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "iti pagtaenganna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:39:49.514061307Z",
+  "model": "glm-5.3"
+}

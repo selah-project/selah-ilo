@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ibaga ni Shemuel kennu ⟨את⟩ amin a dagiti sao, ket saanna a lemmengan; ket kinunana: Yahweh dayta; ti nasayaat kadagiti matana aramidenna.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ibinaga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a dagiti sao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a dagiti sao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "lemmengan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kkuana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ti nasayaat"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "kadagiti matana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aramidenna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:03:58.037875622Z",
+  "model": "glm-5.3"
+}

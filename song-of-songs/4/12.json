@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Maysa a hardin a naserraan ti kabsatak a kasinsin; maysa a taudan a naserraan, maysa a pagtaudan a nasirbekan.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "hardin"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "a naserraan"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ti kabsatak"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "a kasinsin"
+    },
+    {
+      "surface": "גל",
+      "gloss": "maysa a taudan"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "a naserraan"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "maysa a pagtaudan"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "a nasirbekan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:02:36.517028446Z",
+  "model": "glm-5.3"
+}

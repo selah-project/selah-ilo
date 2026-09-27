@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Urnoyekayo kaniak dagiti nasantuanko, dagiti timminal iti tulagko iti sakripisio.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Urnoyekayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "dagiti nasantuanko"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "dagiti timminal"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "iti tulagko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakripisio"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:46.005911680Z",
+  "model": "glm-5.3"
+}

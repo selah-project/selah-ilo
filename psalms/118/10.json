@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Amin a dagiti umili inarmanak; iti nagan ni Yahweh ta ipukawkokuda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "inarmanak"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ipukawkokuda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:26.802719754Z",
+  "model": "glm-5.3"
+}

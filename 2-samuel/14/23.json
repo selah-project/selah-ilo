@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Nagtakder ni Yoav ken napan idiay Geshur, ken impanna ⟨את⟩ ni Avshalom idiay Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nagtakder"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "napan"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "idiay Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "impanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "idiay Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T11:49:11.400902575Z",
+  "model": "glm-5.3"
+}

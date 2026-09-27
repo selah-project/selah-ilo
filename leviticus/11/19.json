@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken ⟨את⟩ ti hasidah, ti anafah segun ti bukodna a sebbangan, ken ⟨את⟩ ti dukhipat ken ⟨את⟩ ti kabag.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti hasidah"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "ti hasidah"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "ti anafah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "segun ti bukodna a sebbangan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti dukhipat"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "ti dukhipat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kabag"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "ti kabag"
+    }
+  ],
+  "timestamp": "2026-09-26T05:16:31.677549964Z",
+  "model": "glm-5.3"
+}

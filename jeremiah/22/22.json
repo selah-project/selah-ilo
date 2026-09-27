@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 22:22",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti angin ti agpaspastor kadagiti amin a pastolmo, ken dagiti ay-ayatmo mapanda iti biang; ta idi ngarud a mabainka ket maibabaanka gapu iti amin a dakesmo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "dagiti pastolmo"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "ti agpaspastor"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ti angin"
+    },
+    {
+      "surface": "ומאהביך",
+      "gloss": "ken dagiti ay-ayatmo"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "iti biang"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "mapanda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אז",
+      "gloss": "idi ngarud"
+    },
+    {
+      "surface": "תבשי",
+      "gloss": "a mabainka"
+    },
+    {
+      "surface": "ונכלמת",
+      "gloss": "ket maibabaanka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gapu iti amin"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "a dakesmo"
+    }
+  ],
+  "timestamp": "2026-09-26T16:54:15.448992381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Kinuana ni Moshe ⟨את⟩ ti baet manipud iti sango ni Yahweh, kas iti imbilinna kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baet"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ti baet"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "manipud iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "imbilinna kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T06:52:47.932970386Z",
+  "model": "glm-5.3"
+}

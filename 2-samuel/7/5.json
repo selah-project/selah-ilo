@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Immoka ken ibagam kadagiti adipenko, kenni David: kasta ti kinuna ni Yahweh: sika kadi ti mangbangon iti kaniak a balay a pagegnaedak?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "immoka"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ken ibagam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "adipenko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ti mangbangon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iti kaniak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "a pagegnaedak"
+    }
+  ],
+  "timestamp": "2026-09-26T11:36:21.175305220Z",
+  "model": "glm-5.3"
+}

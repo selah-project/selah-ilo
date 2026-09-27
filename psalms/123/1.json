@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 123,
+  "translation": "Kankanta ti Panagtagiri-ay. Kenka indatungko ⟨ti⟩ ⟨את⟩ dagiti matak, ti Agnaed iti ⟨ti⟩ langit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kankanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti Panagtagiri-ay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kenka"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "indatungko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti matak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matak"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ti Agnaed"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti langit"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:32.240566866Z",
+  "model": "glm-5.3"
+}

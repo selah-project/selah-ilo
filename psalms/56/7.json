@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Mangurnongda, aglemmengda; sida, dagiti sakak salaknibenda, idi inur-urayda ti kararuak.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "mangurnongda"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "aglemmengda"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sida"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "dagiti sakak"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "salaknibenda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "idi"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "inur-urayda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:31:20.732065394Z",
+  "model": "glm-5.3"
+}

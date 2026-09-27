@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket imbagak met: saanak a mangitalaw ⟨את⟩ kaniada manipud iti sanguan yo; ket agbalinanda kadakayo a kas iti dika, ket dagiti didiosenda agbalinanda a bitag kadakayo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ket met"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "imbagak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "mangitalaw"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kaniada"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "manipud iti sanguan yo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ket agbalinanda"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "a kas iti dika"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "ket dagiti didiosenda"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agbalinanda"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "a bitag"
+    }
+  ],
+  "timestamp": "2026-09-26T09:39:31.673453712Z",
+  "model": "glm-5.3"
+}

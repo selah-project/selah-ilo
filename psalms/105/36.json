@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Ket tinippanna amin dagiti imu-una nga anak iti dagan, ti umuna a bunga ti amin a bilegda.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ket tinippanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "dagiti imu-una nga anak"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "iti dagan"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ti umuna a bunga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "a bilegda"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:31.996026037Z",
+  "model": "glm-5.3"
+}

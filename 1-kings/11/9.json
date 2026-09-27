@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket naakdaway ni Yahweh kenni Shelomoh, ta timmimbukel ti pusona manipud kenni Yahweh, ti Elohim ti Yisrael, a nagparang kennkuana a dua a beses.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "naakdaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "kenni Shelomoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "timmimbukel"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manipud kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "ti nagparang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kennkuana"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dua a beses"
+    }
+  ],
+  "timestamp": "2026-09-26T12:47:21.752266925Z",
+  "model": "glm-5.3"
+}

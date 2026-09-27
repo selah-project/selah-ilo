@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Kinuna ni Sarah: Tawid a kulkullitang imbaga ni Elohim kaniak; tunggal mamatngi agkulkullitang nakon.",
+  "tokens": [
+    {
+      "surface": "ויתאמר→ותאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ni Sarah"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "tawid a kulkullitang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "imbaga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tunggal"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "mamatngi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "agkulkullitang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nakon"
+    }
+  ],
+  "timestamp": "2026-09-26T02:08:58.886206487Z",
+  "model": "glm-5.3"
+}

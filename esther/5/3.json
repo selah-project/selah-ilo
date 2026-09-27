@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kinuna ti ari kenkuana: Ania ti kayatmo, Ester a reina? Ket ania ti kiddawmo? Agingga iti kagudua ti panagari, maited koma kenka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "a reina"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ket ania"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ti kiddawmo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "kagudua"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "ti panagari"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "maited"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T23:13:52.486873676Z",
+  "model": "glm-5.3"
+}

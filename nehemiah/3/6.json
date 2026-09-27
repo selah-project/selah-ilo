@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 3:6",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken ⟨את⟩ ti pagturungan ti daan a pagturungan ket nagibangonda: ni Yoyada anak ni Paseakh ken ni Meshullam anak ni Besodyah; isuda ti nangipatakder kadagiti tariknayna ken kadagiti kandadohna ken kadagiti barasna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pagturungan ti daan a pagturungan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ti pagturungan"
+    },
+    {
+      "surface": "הישנה",
+      "gloss": "ti daan"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "nagibangonda"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseakh"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ken ni Meshullam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "בסודיה",
+      "gloss": "Besodyah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "ti nangaramid kanto"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "nangipatakderda"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "kadagiti tariknayna"
+    },
+    {
+      "surface": "ומנעליו",
+      "gloss": "ken kadagiti kandadohna"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "ken kadagiti barasna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:25:35.916998610Z",
+  "model": "glm-5.3"
+}

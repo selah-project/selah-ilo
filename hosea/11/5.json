@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Saananto nga agsubli iti daga ti Mitsrayim, ken Ashur isuna ti agturayna, ta immanonda ti panagsubli.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saananto"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ngaan agsubli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ken Ashur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "agturayna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "immanonda"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ti panagsubli"
+    }
+  ],
+  "timestamp": "2026-09-26T19:40:08.738284951Z",
+  "model": "glm-5.3"
+}

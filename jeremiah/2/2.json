@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 2:2",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Agtenna ken agikkalkalom kadagiti tengnga ti Yerushalayim, a kumuna: Kasta ti kinuna ni Yahweh: Lagipenko ti hesed ti kabataanmo, ti ayat ti panagassawam, ti panagnamnammo a sumurok kaniak iti yanggan, iti daga a saan a namulaan.",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "Agtenna"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ken agik-ikakalkalom"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kadagiti tengnga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kumuna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "Lagipenko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "ti kabataanmo"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "ti ayat"
+    },
+    {
+      "surface": "כלולתיך",
+      "gloss": "ti panagassawam"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "ti panagnamnammo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a sumurok kaniak"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti yanggan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "זרועה",
+      "gloss": "a namulaan"
+    }
+  ],
+  "timestamp": "2026-09-26T16:14:27.980576923Z",
+  "model": "glm-5.3"
+}

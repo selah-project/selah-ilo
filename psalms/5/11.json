@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ibasolam koma, Elohim; matnagda manipud kadagiti balakadda; itanggarmo koma gapu iti kaaduan dagiti basolda; ta immallilida kenka.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "Ibasolam koma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "matnagda"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "manipud kadagiti balakadda"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "gapu iti kaaduan"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "dagiti basolda"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "itanggarmo koma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "immallilida"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T20:42:06.431514385Z",
+  "model": "glm-5.3"
+}

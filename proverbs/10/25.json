@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kas iti panagballasiw ti alluos, awanen ti dakes; ngem ti nalinteg ket yasad ti agnanayon.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "Kas iti panagballasiw"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "ti alluos"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "awanen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ngem ti nalinteg"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "yasad"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:43.180223017Z",
+  "model": "glm-5.3"
+}

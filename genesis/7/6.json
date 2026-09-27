@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ni Noach ket anak iti innem a gasut a tawen idi ti layus ti danum ket adda iti daga.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Ken ni Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak iti"
+    },
+    {
+      "surface": "שש",
+      "gloss": "innem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "idi ti layus"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:13.477939494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Sadino, ni Adonay Yahweh ket umay a napigsa, ken ti takderenna ti mangituray ⟨kenkuana⟩; sadino, ti gunggonana ⟨kaduana⟩ ken ti aramidenna iti sanguananna.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "a napigsa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ken ti takderenna"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "mangituray"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kenkuana⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ti gunggonana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti gunggona (kaduana)"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "ken ti aramidenna"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti sanguananna"
+    }
+  ],
+  "timestamp": "2026-09-26T15:27:12.318955790Z",
+  "model": "glm-5.3"
+}

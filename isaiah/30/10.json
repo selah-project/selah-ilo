@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Dagitoy ti kinunada kadagiti agkitkita: saan kamo a makita; ken kadagiti agilulin: saan kamo a makaammo kadakami ti nalinteg; sarunokayo kadakami ti nalaka a sao, agilulinkayo ti pannakabulaes.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dagitoy ti"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "kadagiti agkitkita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "kamo a makita"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "ken kadagiti agilulin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "kamo agilulin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sarunokayo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ti nalaka a sao"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "agilulinkayo"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "ti pannakabulaes"
+    }
+  ],
+  "timestamp": "2026-09-26T15:05:25.261593938Z",
+  "model": "glm-5.3"
+}

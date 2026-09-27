@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket agbalinkayo a nasantoan kaniak, ta nasantoan siak a ni Yahweh, ken nagsinaak ⟨את⟩ kaniayo manipud kadagiti pagilian tapno agbalinkayo a kukuak.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "Ket agbalinkayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "a nasantoan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nasantoan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "ken nagsinaak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kaniayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kadagiti pagilian"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "tapno agbalinkayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a kukuak"
+    }
+  ],
+  "timestamp": "2026-09-26T05:40:11.048957054Z",
+  "model": "glm-5.3"
+}

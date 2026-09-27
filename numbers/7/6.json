@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kinuana ni Moshe ⟨את⟩ dagiti karosa ken ⟨את⟩ dagiti baka, ket initedna dagitoy kadagiti Levita.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti karosa"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "dagiti karosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti baka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dagiti baka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti Levita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "kadagiti Levita"
+    }
+  ],
+  "timestamp": "2026-09-26T06:13:19.153614897Z",
+  "model": "glm-5.3"
+}

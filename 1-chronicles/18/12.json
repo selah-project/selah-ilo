@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ken ni Abishay, anak ni Tserujah, dinenna ⟨את⟩ ti Edom iti tanap ti asin — sangapulo ket walo a ribu.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "ken ni Abishay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ni Tserujah"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "dinenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "iti tanap"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ti asin"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:42.222493002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ket inaramid ni Uriya ti padi kas iti amin a bilin ti ari a ni Achaz.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramid"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kas iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    }
+  ],
+  "timestamp": "2026-09-26T13:58:06.582242186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 101,
+  "translation": "Ti aglalam-ek iti limmeng ⟨iti⟩ kaarrubana — ⟨את⟩ dayta ikkatenko; ti addaan iti nangatngato nga mata ken iti nalawa a puso — ⟨את⟩ dayta saan ko a maawat.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "ti aglalam-ek"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "iti limmeng"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ti kaarrubana"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ti aglalam-ek"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "dayta ikkatenko"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "nangatngato"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "nga mata"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ken iti nalawa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "a puso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti nangato ti mata ken nalawa ti puso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ko a maawat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:37.427987470Z",
+  "model": "glm-5.3"
+}

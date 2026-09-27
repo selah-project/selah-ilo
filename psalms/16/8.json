@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Inikkanko ni Yahweh iti sanguanak nga agnanayon; ta iti kanawanak, saanak a matnag.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Inikkanko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "iti sanguanak"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngaanayon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "iti kanawanak"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "a matnag"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:29.323000792Z",
+  "model": "glm-5.3"
+}

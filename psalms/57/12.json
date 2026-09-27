@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Agngatoka, Elohim, iti ngato ti langit; iti ngato ti amin a daga ti daydayawmo.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Agngatoka"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ti daydayawmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:03.649857769Z",
+  "model": "glm-5.3"
+}

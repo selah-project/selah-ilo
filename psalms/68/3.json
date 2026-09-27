@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Kas ti aso a maiwawara, kastoy nga iwarasmo kadakuada; kas ti lilid a malunag iti sango ti apoy, kastoy ti pannkapukaw dagiti dakes iti sango ti Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Kas ... a maiwawara"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "aso"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "maiwawara"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "kas ... a malunag"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "lilid"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iti sango ti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ti pannkapukaw"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iti sango ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T21:40:01.688104279Z",
+  "model": "glm-5.3"
+}

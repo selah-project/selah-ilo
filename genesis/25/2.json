@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ket nagputot kaniana ⟨את⟩ Zimran ken ⟨את⟩ Yokshan ken ⟨את⟩ Medan ken ⟨את⟩ Midyan ken ⟨את⟩ Yishbak ken ⟨את⟩ Shuah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ket nagputot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Yishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Shuah"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuah"
+    }
+  ],
+  "timestamp": "2026-09-26T02:20:06.169254707Z",
+  "model": "glm-5.3"
+}

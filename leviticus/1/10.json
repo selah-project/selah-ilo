@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "No ti datonna ket manipud kadagiti ayup — manipud kadagiti karnero wenno manipud kadagiti kalding — para iti sakripisio a mapan-ngato, lalaki nga awan biddutna ti iparuarra.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kadagiti ayup"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ti datonna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "kadagiti karnero"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kadagiti kalding"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "para iti sakripisio a mapan-ngato"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "awan biddutna"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ti iparuarra"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:55.268628340Z",
+  "model": "glm-5.3"
+}

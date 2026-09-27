@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Isungngan ti padi ⟨את⟩ ti taba iti altar, ket agbalin ti barukong a pagtagikuahan ni Aharon ken dagiti anakna.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Isungngan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ti taba"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "ti barukong"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kabalinan ni Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ken dagiti anakna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:02:31.981436913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket binendisionan ni Elohim ⟨אתם⟩ a kinunana: Agbunga kayo ken agadu kayo, ket punuennyo ⟨את⟩ ti danum iti dagiti baybay, ket agadu ti billit iti daga.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "binendisionan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dagiti tanninim ken billit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinunana"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Agbunga kayo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ken agadu kayo"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ket punuennyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti danum"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "iti dagiti baybay"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ket ti billit"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "agadu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T01:37:58.706019004Z",
+  "model": "glm-5.3"
+}

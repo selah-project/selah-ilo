@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Iti ngatoda dagiti billit ti langit agnaedda; manipud iti nagbaetan dagiti sanga itedda ti timek.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "iti ngatoda"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dagiti billit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "agnaedda"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "manipud iti nagbaetan"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "dagiti sanga"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "itedda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:43.035572303Z",
+  "model": "glm-5.3"
+}

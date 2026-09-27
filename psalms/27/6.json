@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ket ita mapangato ti ulok iti ngato dagiti kabusorko aglikmut kaniak, ket agsakripisioak iti toldana dagiti sakripisio iti panagtallak, agkantaak ken agkankantaak kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ket ita"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "mapangato"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ti ulok"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dagiti kabusorko"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "aglikmut kaniak"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "ket agsakripisioak"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "iti toldana"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "dagiti sakripisio"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "iti panagtallak"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "agkantaak"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ken agkankantaak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:43.010118740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Initedmo ti ragsak iti pusok, ad-adu ngem no dimmakelda ti bagasda ken ti binoda.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Initedmo"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ti ragsak"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "iti pusok"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "ngem no"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ti bagasda"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "ken ti binoda"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "dimdakelda"
+    }
+  ],
+  "timestamp": "2026-09-26T20:44:24.140228359Z",
+  "model": "glm-5.3"
+}

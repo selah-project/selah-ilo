@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti kabbabaas ⟨ti pilagsho na⟩, ti nagananna Reumah, ket naiyanakna met ⟨iti⟩ ⟨את⟩ Tevakh ken ⟨iti⟩ ⟨את⟩ Gakham ken ⟨iti⟩ ⟨את⟩ Takhash ken ⟨iti⟩ ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "kabbabaas...na"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "nagananna"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reumah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "naiyanakna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevakh"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Gakham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gakham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Takhash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Takhash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-09-26T02:12:15.149731282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 8:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Amin dagiti ayup a biag a ⟨את⟩ kadduam, iti amin a lasag, iti tumtayaw ken iti taraken nga ayup, ken iti amin a agsanay, ti agsanay iti daga — ruarem ⟨את⟩ a kadduada, ket aglinnawa da iti daga, ket agbungada ken mannaraida iti daga.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "dagiti ayup a biag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kadduam",
+      "marks": "dagiti ayup a biag a kadduam"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "a lasag"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "iti tumtayaw"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ken iti taraken nga ayup"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "a agsanay"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "ti agsanay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "ruarem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ a kadduam",
+      "marks": "amin dagiti ayup a kadduam"
+    },
+    {
+      "surface": "ושרצו",
+      "gloss": "ket aglinnawa da"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "ket agbungada"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ken mannaraida"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T01:49:14.210228813Z",
+  "model": "glm-5.3"
+}

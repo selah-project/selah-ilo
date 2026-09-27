@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken alaek ⟨את⟩ ti tinapayko ken ⟨את⟩ ti danumko ken ⟨את⟩ ti lasag ti natabakko para kadagiti agputputot kaniak, ket itedko kadagiti lalaki a saan a kabalaamko, sadinonto ngata tiaggayan da?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ken alaek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tinapayko"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ti tinapayko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ti danumko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ti lasag ti natabakko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "natabakko"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "para kadagiti agputputot kaniak"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ket itedko"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "kadagiti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "a kabalaamko"
+    },
+    {
+      "surface": "אי",
+      "gloss": "sadinonto"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ngata"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tiaggayan da"
+    }
+  ],
+  "timestamp": "2026-09-26T11:11:09.930291845Z",
+  "model": "glm-5.3"
+}

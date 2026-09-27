@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Manganda ken agdaydayaw ti amin a nadagsen iti daga sadiay sakbanganna; tumukmodda nga amin ti bumumgsok iti tapok, ken ti kararua ti saan a nakaibiag.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "manganda"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ken agdaydayaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "a nadagsen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sadiay sakbanganna"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "tumukmodda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ti bumumgsok"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "iti tapok"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ken ti kararua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti saan"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "a nakaibiag"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:42.654280512Z",
+  "model": "glm-5.3"
+}

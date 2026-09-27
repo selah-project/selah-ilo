@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken siak, ammoak a saan a mangipalubos koma ti ari ti Mitsrayim a mapanka kayo, malaksid babaen ⟨ti⟩ napigsa nga ima.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ken siak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ammoak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mangipalubos"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "a mapanka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "malaksid"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen ti ima"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "napigsa"
+    }
+  ],
+  "timestamp": "2026-09-26T03:33:52.384384030Z",
+  "model": "glm-5.3"
+}

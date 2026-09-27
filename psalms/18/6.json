@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Dagiti ulkan ti Sheol liniklikanannak, immunaannak dagiti silo ti matay.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "dagiti ulkan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ti Sheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "liniklikanannak"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "immunaannak"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "dagiti silo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ti matay"
+    }
+  ],
+  "timestamp": "2026-09-26T20:56:34.756816460Z",
+  "model": "glm-5.3"
+}

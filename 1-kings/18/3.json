@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket inawag ni Ahab kenni Obadyahu, a ti agturay iti balay, ket ni Obadyahu ket butenganna unay ⟨את⟩ ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ket inawag"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "agturay iti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ket ni Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ket"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "butenganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    }
+  ],
+  "timestamp": "2026-09-26T13:02:31.663912245Z",
+  "model": "glm-5.3"
+}

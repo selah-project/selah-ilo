@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Iti basol ti daga adu dagiti daulona; ket iti tao a nasirib ken ammo, kasta magpaut.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "Iti basol"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "dagiti daulona"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "ket iti tao"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "a nasirib"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ken ammo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "magpaut"
+    }
+  ],
+  "timestamp": "2026-09-26T22:44:04.802540704Z",
+  "model": "glm-5.3"
+}

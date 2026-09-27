@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Nagna ni Rehavam iti Shekhem, ta iti Shekhem simmangpet ti amin a Yisrael nga ipalintegna ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ni Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "iti Shekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "iti Shekhem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "simmangpet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "nga ipalintegna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana (ni Rehavam)"
+    }
+  ],
+  "timestamp": "2026-09-26T23:48:15.281372257Z",
+  "model": "glm-5.3"
+}

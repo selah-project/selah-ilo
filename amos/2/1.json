@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 2:1",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kasta ti kinuna ni Yahweh: Gapu iti tallo a panagbaliw ti Moav ken gapu iti uppat, saan a sublikonna; gapu iti panagpuorna dagiti tulang ti ari ti Edom agingga nga agbalin apog.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "panagbaliw"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken gapu iti"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "sublikonna"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "panagpuorna"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "dagiti tulang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "לשיד",
+      "gloss": "agingga nga agbalin apog"
+    }
+  ],
+  "timestamp": "2026-09-26T19:50:49.059963629Z",
+  "model": "glm-5.3"
+}

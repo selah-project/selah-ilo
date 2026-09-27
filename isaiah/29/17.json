@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Saan kadi a bumassit pay unay ti tiempo, ket ti Lebanon agsubli ⟨iti⟩ karmel, ket ti karmel maibilang ⟨a kas⟩ bakir?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "uned bassit"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ti Lebanon"
+    },
+    {
+      "surface": "לכרמel",
+      "gloss": "iti karmel"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "ket ti karmel"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "iti bakir"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "maibilang"
+    }
+  ],
+  "timestamp": "2026-09-26T15:03:41.239329364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Agpatingga koma ti dakes kadagiti dakes, ket patindogem ti nalinteg; ket ti nalinteg nga Elohim agsukisukenna kadagiti puso ken dagiti perdas.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "agpatingga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kadagiti dakes"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "ket patindogem"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "agsukisukenna"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "kadagiti puso"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "ken dagiti perdas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T20:41:44.053085879Z",
+  "model": "glm-5.3"
+}

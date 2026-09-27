@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Kinuana ⟨את⟩ ti amin dagitoy, ket sinienna ⟨את⟩ ida iti tengnga, ket inkabilna ti tunggal paset a makasuplat iti kabbalayna; ngem ti bilbillit ken ⟨את⟩ saan a sininaenna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iti bagina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin dagitoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "ket sinienna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket inkabilna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "pasetna"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "a makasuplat"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iti kabbalayna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti bilbillit"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ti bilbillit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "sininaenna"
+    }
+  ],
+  "timestamp": "2026-09-26T01:59:57.563376099Z",
+  "model": "glm-5.3"
+}

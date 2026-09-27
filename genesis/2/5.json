@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ken ti amin a mula ti talon, saan pay nga adda iti daga, ken ti amin a ruot ti talon, saan pay a tumubo, ta saan pay a nagtudo ni Yahweh nga Elohim iti daga, ken awan ti tao a mangtalon ⟨את⟩ ti daga.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "mula"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "saan pay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ruot"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "saan pay"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "a tumubo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "nagtudo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ken ti tao"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "a mangtalon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T01:38:40.368817072Z",
+  "model": "glm-5.3"
+}

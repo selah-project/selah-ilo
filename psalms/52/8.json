@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Makitada dagiti nalinteg ken agbutengda, ken aguy-uyawandakenkuana.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "makitada"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ken agbutengda"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "ישחקu",
+      "gloss": "aguy-uyawanda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:31:09.157920756Z",
+  "model": "glm-5.3"
+}

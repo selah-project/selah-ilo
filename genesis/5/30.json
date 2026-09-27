@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kinapui ni Lemek kalpasan ti panaganakna ⟨את⟩ ni Noa ti lima ken siam a pulo a tawen ken ti lima a gasut a tawen, ket naganak kadagiti anak a lalaki ken dagiti anak a babai.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kinapui"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ni Lemek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ti panaganakna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ken siam a pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ken lima"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "naganak"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "anak a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T01:45:45.482416739Z",
+  "model": "glm-5.3"
+}

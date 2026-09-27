@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ti Yahweh suportarannanto iti pagtugtuogan ti sakit; ti amin a pagtugtuoganna binaliwm iti sakitna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ti Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "suportarannanto"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "pagtugtuogan"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ti sakit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "a pagtugtuoganna"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "binaliwm"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "iti sakitna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:39.712988062Z",
+  "model": "glm-5.3"
+}

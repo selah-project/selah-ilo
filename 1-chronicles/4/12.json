@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ni Eshton nagputot ⟨את⟩ kenni Bet-Rafa, ken ⟨את⟩ kenni Paseakh, ken ⟨את⟩ kenni Tekhinah, ama ti ili ni Nakhash; dagitoy dagiti lallaki ti Rekhah.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Ken ni Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Paseakh"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Tekhinah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tekhinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ni Nakhash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "ti Rekhah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:10.612751140Z",
+  "model": "glm-5.3"
+}

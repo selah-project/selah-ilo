@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Yahweh, gapu iti adipenmo ken no kas iti pusom, inaramidmo ⟨את⟩ amin daytoy a kadakkel, nga ipamammammo ⟨את⟩ amin dagiti kadakkel.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adipenmo"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "ken no kas iti pusom"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "inaramidmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin daytoy a kadakkel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "a kadakkel"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "nga ipamammammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti kadakkel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "dagiti kadakkel"
+    }
+  ],
+  "timestamp": "2026-09-26T23:38:21.234788840Z",
+  "model": "glm-5.3"
+}

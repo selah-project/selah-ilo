@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ti maysa a sao a awan pategna ket maibbuskel ⟨iti⟩ kenkuana, ket no matnag ⟨isuna⟩ saanna met a maikabil ti agsubli a sumtakder.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ti maysa a sao"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "a awan pategna"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ket maibbuskel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨iti⟩ kenkuana"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ket no"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "matnag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna met"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "a maikabil"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ti agsubli a sumtakder"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:25.012595115Z",
+  "model": "glm-5.3"
+}

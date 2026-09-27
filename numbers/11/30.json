@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Nagsubli ni Moshe iti kampo, isu ken dagiti lakayen ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ken dagiti lakayen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T06:31:11.999466044Z",
+  "model": "glm-5.3"
+}

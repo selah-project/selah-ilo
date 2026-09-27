@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "iti bantay ken iti tanap-baba ken iti Arabah ken dagiti tanap-tayaw ken iti paglianatan ken iti Negev — ti Hiti, ti Amori, ken ti Kenaani, ti Perizzi, ti Hivi, ken ti Yevusi:",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "ken iti tanap-baba"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "ken iti Arabah"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "ken dagiti tanap-tayaw"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "ken iti paglianatan"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "ken iti Negev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ti Hiti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Amori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ken ti Kenaani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ti Perizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ti Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ken ti Yevusi"
+    }
+  ],
+  "timestamp": "2026-09-26T09:09:54.874841163Z",
+  "model": "glm-5.3"
+}

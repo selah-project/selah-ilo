@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Indaton-tulad ni Yahweh ⟨את⟩ ti saona a naisao, ket nakatakderak a sukatan ni David nga amak ket agtugawak iti trono ti Yisrael, a kas naisao ni Yahweh, ket ibangonek ti balay para iti nagan ni Yahweh ti Elohim ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "indaton-tulad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti saona"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ti saona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naisao"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "nakatakderak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a sukatan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amak"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "agtugawak"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naisao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ibangonek"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "para iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T12:39:23.680748183Z",
+  "model": "glm-5.3"
+}

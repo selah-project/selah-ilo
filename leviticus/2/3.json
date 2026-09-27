@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ti nabati a minchah ket kenni Aharon ken kadagiti anakna — nasantuan kadagiti nasantuanan, manipud kadagiti apoy a daton ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ti nabati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kenni Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ken kadagiti anakna"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kadagiti nasantuanan"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "manipud kadagiti apoy a daton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:55:19.320012912Z",
+  "model": "glm-5.3"
+}

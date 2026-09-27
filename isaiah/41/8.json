@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ngem sika, Yisrael, adipenko, a Yaakov a pinilak, bao ni Avraham a ay-ayatek.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ngem sika"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "adipenko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "a Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "a pinilak"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "a ay-ayatek"
+    }
+  ],
+  "timestamp": "2026-09-26T15:24:18.591442979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "ket inpatnagna na ⟨את⟩ ni Elyakim a tagituray iti balay, ken ⟨את⟩ ni Shevna ti agisurat, ken ⟨את⟩ dagiti lakay dagiti padi, a nabalot da iti sako, kenni Yeshayahu anak ni Amots ti propeta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "inpatnagna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "tagituray iti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Shevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "ti agisurat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti lakay dagiti padi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "nabalot da"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "iti sako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ti propeta"
+    }
+  ],
+  "timestamp": "2026-09-26T15:20:27.532203673Z",
+  "model": "glm-5.3"
+}

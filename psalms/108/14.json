@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 108,
+  "translation": "Iti Elohim aramidentayo ti bileg; ket isu ti laktipanna kadagiti kabusortayo.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Iti Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "aramidentayo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ket isu"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "laktipanna"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "kadagiti kabusortayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:34.712103424Z",
+  "model": "glm-5.3"
+}

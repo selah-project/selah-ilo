@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket ti balay ni Yosef, dagitoy met, immayda iti ngato iti Beth-El; ket ni Yahweh ⟨adda⟩ kadakuada.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "immayda iti ngato"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beth-El"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T09:34:36.342121198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Pinardasmo ti lawlawina, ken ti tronona innaogmo iti daga.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "pinardasmo"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "ti lawlawina"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ken ti tronona"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "innaogmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:40.330570327Z",
+  "model": "glm-5.3"
+}

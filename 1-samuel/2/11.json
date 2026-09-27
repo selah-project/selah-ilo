@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Napan ni Elkana idiay Ramah idiay balayna, ket ti ubing agserbi kenni Yahweh ⟨iti sango⟩ ni Eli ti padi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "napan"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ni Elkana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "idiay Ramah"
+    },
+    {
+      "surface": "על",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balayna"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "ket ti ubing"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "agserbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Eli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    }
+  ],
+  "timestamp": "2026-09-26T10:24:34.965692907Z",
+  "model": "glm-5.3"
+}

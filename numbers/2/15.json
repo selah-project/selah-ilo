@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ti buyotna ken dagiti bilangda: lima ken uppat a pulo a ribu ken innem a gasut ken limapulo.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ken ti buyotna"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ken dagiti bilangda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ken uppat a pulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ken innem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ken limapulo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:08:43.468887587Z",
+  "model": "glm-5.3"
+}

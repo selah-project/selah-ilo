@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Nagtakderanda ken immayda iti Ziph iti sanguanan ni Shaul; ngem ni David ken dagiti adipenna idi iti liwa ti Maon, iti Araba, iti kanawan ti Yeshimon.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "nagtakderanda"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "iti Ziph"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti liwa"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ti Maon"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "iti Araba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kanawan"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "ti Yeshimon"
+    }
+  ],
+  "timestamp": "2026-09-26T11:06:40.217937499Z",
+  "model": "glm-5.3"
+}

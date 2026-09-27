@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ni Avram ket nadagsen unay ⟨iti madi⟩ — iti tagilako nga aldawen, iti pirak ken iti balitok.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Ni Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nadagsen unay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "iti tagilako nga aldawen"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "iti pirak"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "ken iti balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T01:57:32.063980920Z",
+  "model": "glm-5.3"
+}

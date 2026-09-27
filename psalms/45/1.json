@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Iti pangidauloan, iti ⟨iti⟩ Shoshannim; kadagiti anak ni Korach; maysa a mashkil; maysa a kanta ti ay-ayat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Iti pangidauloan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maysa a mashkil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "maysa a kanta"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "ti ay-ayat"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:55.944887138Z",
+  "model": "glm-5.3"
+}

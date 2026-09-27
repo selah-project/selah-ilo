@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ta ikabilmo a bendisionanna iti agnanayon; iragsakmo ⟨את⟩ iti rupaam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "ikabilmo"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "a bendisionanna"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "iragsakmo"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "iti ragsak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti rupaam"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "iti rupaam"
+    }
+  ],
+  "timestamp": "2026-09-26T20:58:37.877865903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "No kadagiti bilinko ti agnaedkayo a magna, ken ⟨את⟩ dagiti bilinak ti salaknibennyo ken aramidennyo ⟨אתם⟩ dagitoy;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "kadagiti bilinko"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "agnaedkayo a magna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "dagiti bilinak"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ti salaknibennyo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ken aramidennyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    }
+  ],
+  "timestamp": "2026-09-26T05:56:54.108773803Z",
+  "model": "glm-5.3"
+}

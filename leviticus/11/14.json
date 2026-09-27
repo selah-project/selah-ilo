@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ken ⟨את⟩ ti daah ken ⟨את⟩ ti aya, iti kitaanna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ti daah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti aya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ti aya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "iti kitaanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:07.680953701Z",
+  "model": "glm-5.3"
+}

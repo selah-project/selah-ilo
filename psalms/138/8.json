@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 138,
+  "translation": "Ni Yahweh malpasanna ⟨ti⟩ a para kaniak; ni Yahweh, ti hesedmo agnanayon; dagiti aramid dagiti imam saanmo nga ipukaw.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "malpasanna"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "a para kaniak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dagiti aramid"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dagiti imam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "ngipukaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:41.829764347Z",
+  "model": "glm-5.3"
+}

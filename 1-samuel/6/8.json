@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket alaenyo ⟨את⟩ ti arko ni Yahweh, ket ikabilnyo ⟨את⟩ iti kariton, ken ⟨את⟩ dagiti banag a balitok a isublinyo kenkuana a kas daton ti basol ikabilnyo iti kahon iti bangirna, ket ipatulodnyo ⟨את⟩ ket mapan.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "ket alaenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ket ikabilnyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ti kariton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti banag a balitok"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dagiti banag"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "a balitok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "a isublinyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "daton ti basol"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "ikabilnyo"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "iti kahon"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "iti bangirna"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "ket ipatulodnyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "ket mapan"
+    }
+  ],
+  "timestamp": "2026-09-26T10:36:48.789232746Z",
+  "model": "glm-5.3"
+}

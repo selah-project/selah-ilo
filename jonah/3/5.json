@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket dimmati dagiti lallaki ti Nineveh kenni Elohim, ket immawaganda iti ayuno ken agsinsaka kadagiti sako, manipud kadagiti kalaklakanda agingga kadagiti kassitaanda.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "dimmati"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ti Nineveh"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kenni Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ket immawaganda"
+    },
+    {
+      "surface": "צום",
+      "gloss": "iti ayuno"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "ket agsinsaka"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "kadagiti sako"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "manipud kadagiti kalaklakanda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "kadagiti kassitaanda"
+    }
+  ],
+  "timestamp": "2026-09-26T20:06:31.072348772Z",
+  "model": "glm-5.3"
+}

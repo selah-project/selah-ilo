@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 76,
+  "translation": "Idi immtakder ti Elohim iti ukom, nga isalakanna amin a kalmaan ti daga. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "idi immtakder"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "nga isalakanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "kalmaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:48:23.014221333Z",
+  "model": "glm-5.3"
+}

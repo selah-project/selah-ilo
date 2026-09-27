@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Saan yo a padanassen ⟨את⟩ ni Yahweh nga Elohim yo, a kas ti pinadanasyo idi Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saan yo"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "a padanassen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh nga Elohim yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga Elohim yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas ti"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "pinadanasyo"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "idi Massah"
+    }
+  ],
+  "timestamp": "2026-09-26T07:41:12.511045192Z",
+  "model": "glm-5.3"
+}

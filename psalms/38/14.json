@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ngem siak, a kas ti mabingi, saanak a nangngeg; ket a kas ti mabungi, a saan a lukatanen ⟨ti⟩ ngiwatna.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngem siak"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "a kas ti mabingi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "a nangngeg"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "ket a kas ti mabungi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "a lukatanen"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ngiwatna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:11.465584376Z",
+  "model": "glm-5.3"
+}

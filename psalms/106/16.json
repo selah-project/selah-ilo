@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Ken kinaykayatanda kenni Moshe idiiti kampo, kenni Aharon ti nasantuan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "kinaykayatanda"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kenni Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "idiiti kampo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kenni Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ti nasantuan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:53.262126717Z",
+  "model": "glm-5.3"
+}

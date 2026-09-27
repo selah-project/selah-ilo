@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ibisbisna manipud iti dayta iti rabaw ti altar pito a besbes, ket dinanaanna ⟨את⟩ ti altar ken ⟨את⟩ amin a ramramitna, ken ⟨את⟩ ti labba ken ⟨את⟩ ti pagtakderanna, tapno masantoan dagitoy.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "ibisbisna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud iti dayta"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "a besbes"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "dinanaanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a ramramitna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ramramitna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti labba"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ti labba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pagtakderanna"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pagtakderanna"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "tapno masantoan dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T05:15:11.969170467Z",
+  "model": "glm-5.3"
+}

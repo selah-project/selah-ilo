@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ket natnag a naginanna ni Yotam kadagiti amaenna a lakay, ket ilubongda isuna ⟨אתו⟩ iti ili ni David; ket nangituray ni Akhaz, anakna, iti пангna.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Ket natnag a naginanna"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ni Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "amaenna a lakay"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ket ilubongda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ket nangituray"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ni A Khaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "iti pangna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:54:03.705737212Z",
+  "model": "glm-5.3"
+}

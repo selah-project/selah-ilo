@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken ti lalaki a mangala ⟨את⟩ iti asawa ti kabsatna — kinarugit dayta; ti uldotan ti kabsatna ti nakauldotna; awan anakanda nga agtalinaedda.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mangala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti asawa ti kabsatna"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "iti asawa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ti kabsatna"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "kinarugit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ti uldotan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ti kabsatna"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "nakauldotna"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "awan anakanda"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agtalinaedda"
+    }
+  ],
+  "timestamp": "2026-09-26T05:48:09.803395404Z",
+  "model": "glm-5.3"
+}

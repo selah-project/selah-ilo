@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 36:6",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Sumrekka ket basaem iti libro a sinuratmo manipud iti ngiwatk ⟨את⟩ dagiti sao ni Yahweh, kadagiti taingnga ti umili, iti balay ni Yahweh, iti aldaw ti panagayuno; ken pay kadagiti taingnga ti amin a Yehudah nga ummay manipud kadagiti ilida, basaem koma ida.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "sumrekka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "basaem"
+    },
+    {
+      "surface": "במגלה",
+      "gloss": "iti libro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "sinuratmo"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "manipud iti ngiwatk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao ni Yahweh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kadagiti taingnga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ti panagayuno"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ken pay"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kadagiti taingnga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehudah"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "nga ummay"
+    },
+    {
+      "surface": "מעריהם",
+      "gloss": "manipud kadagiti ilida"
+    },
+    {
+      "surface": "תקראם",
+      "gloss": "basaem koma ida"
+    }
+  ],
+  "timestamp": "2026-09-26T17:23:50.388174296Z",
+  "model": "glm-5.3"
+}

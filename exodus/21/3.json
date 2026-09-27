@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "No iti bagi na ti immay, iti bagi na ti rumuar; no adda asawa a babai isu, umruar ti asawana a kaduana.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "iti bagi na"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ti immay"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "iti bagi na"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ti rumuar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "adda asawa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "a babai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "umruar"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ti asawana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a kaduana"
+    }
+  ],
+  "timestamp": "2026-09-26T04:13:41.379700581Z",
+  "model": "glm-5.3"
+}

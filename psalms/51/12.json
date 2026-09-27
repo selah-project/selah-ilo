@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Agaramidka iti nakasulisog a puso kaniak, Elohim, ken ti maysa a natalinaay nga Espiritu iyangatmo manen iti unegko",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nakasulisog"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "agaramidka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ken Espiritu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "natalinaay"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "iyangatmo manen"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "iti unegko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:26:08.994336748Z",
+  "model": "glm-5.3"
+}

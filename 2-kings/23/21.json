@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Kinbilin ti ari ⟨את⟩ ti amin a umili, a kinuna: Agaramidkayo ti Pesach kenni Yahweh nga Elohimyo, kas naisurat iti daytoy a libro ti tulag.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kinbilin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a umili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a umili"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinuna"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "agaramidkayo"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga Elohimyo"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kas naisurat"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T14:02:51.311712546Z",
+  "model": "glm-5.3"
+}

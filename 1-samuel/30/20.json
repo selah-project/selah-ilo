@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Kinuana ni David ⟨את⟩ amin a carneo ken ti baka; iniguranda idiay sanguanan dayta ayup; ket kinunada: daytoy ti rampang ni David.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a carneo ken ti baka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "carneo"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ken ti baka"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "iniguranda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "idiay sanguanan"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "dayta ayup"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ti rampang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T11:20:28.334890352Z",
+  "model": "glm-5.3"
+}

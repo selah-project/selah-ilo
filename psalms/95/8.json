@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 95,
+  "translation": "Saan nga parigaatenyo dagiti pusoyo, kas idi Meriba, kas iti aldaw ti Massa iti liwa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan nga"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "parigaatenyo"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "dagiti pusoyo"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "kas idi Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kas iti aldaw"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "ti Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti liwa"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:13.842854197Z",
+  "model": "glm-5.3"
+}

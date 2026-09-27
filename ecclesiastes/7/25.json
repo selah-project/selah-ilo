@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Timmaliawak siak ken ti pusok nga ammo ken nga agbiruk, ken biruken ti kinasirib ken ti pannakaawat, ken ammo ti kinadakes ti kinabuang ken ti kabaliwan ti kinabubo.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "Timmaliawak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ken ti pusok"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "nga ammo"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "ken nga agbiruk"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "ken biruken"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti kinasirib"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ken ti pannakaawat"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ken ammo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti kinadakes"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "ti kinabuang"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "ti kinabubo"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ti kabaliwan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:51.065031647Z",
+  "model": "glm-5.3"
+}

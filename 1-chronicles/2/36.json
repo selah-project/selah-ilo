@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ni Attai nagputot ⟨את⟩ kenni Natan, ket ni Natan nagputot ⟨את⟩ kenni Zabad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Ni Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kenni Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ket ni Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "kenni Zabad"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:24.333977876Z",
+  "model": "glm-5.3"
+}

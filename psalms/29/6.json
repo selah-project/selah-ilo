@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ken ipatpatikorda ⟨_ida⟩ a kas iti baka nga ubing — ti Lebanon ken ti Sirion, a kas iti anak ti bao.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "ken ipatpatikorda ida"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "baka nga ubing"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ti Lebanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "ken ti Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ti bao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:14:44.083534085Z",
+  "model": "glm-5.3"
+}

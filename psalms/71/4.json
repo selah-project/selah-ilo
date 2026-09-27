@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Elohimko, paluarenak manipud iti iman ti dakes, manipud iti palad ti di-nalinteg ken ti mannakdadael.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "paluarenak"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti iman"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "manipud iti palad"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ti di-nalinteg"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "ken ti mannakdadael"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:21.747386349Z",
+  "model": "glm-5.3"
+}

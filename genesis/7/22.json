@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Amin nga adda ti angin nga espiritu ti biag iti amoyna, iti amin nga adda iti namaga a daga, immateyda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "angin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "biag"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "iti amoyna"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "namaga a daga"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "immateyda"
+    }
+  ],
+  "timestamp": "2026-09-26T01:48:32.034383710Z",
+  "model": "glm-5.3"
+}

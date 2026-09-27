@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ta iti sanguanan ti makanko umay ti panangisngitko, ket agay-ayusda a kas danum dagiti ungarko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ti makanko"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ti panangisngitko"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "ket agay-ayusda"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "a kas danum"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "dagiti ungarko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:47:50.420715008Z",
+  "model": "glm-5.3"
+}

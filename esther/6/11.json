@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket inala ni Haman ⟨את⟩ ti bado ken ⟨את⟩ ti kabalio, ket binadona ⟨את⟩ ni Mordecai, ket isinakayna iti kalsada ti ili, ket immawag iti sanguanna: kastoy ti maaramid iti lalaki a kayat ti ari padaydayawenna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ket inala"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bado"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "ti bado"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kabalio"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ti kabalio"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "ket binadona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordecai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "isinakayna"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "iti kalsada"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket immawag"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti sanguanna"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ti maaramid"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "iti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "padaydayawenna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:13:13.628911875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Kinuna ni Lea: Gasat! Ket inawaganna ⟨את⟩ ti naganna a Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Gasat"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "גד",
+      "gloss": "a Gad"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:13.039475170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Inayatem ti kinalinteg ket kinaynemmo ti kinalidakes; gapu ta ilinaanka ni Elohim, ti Elohimmo, iti lana ti ragsak ngato kadagiti kakaduaam.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "inayatem"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kinalinteg"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "kinaynemmo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kinalidakes"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ilinaanka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohimmo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ragsak"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "kadagiti kakaduaam"
+    }
+  ],
+  "timestamp": "2026-09-26T21:25:10.886173769Z",
+  "model": "glm-5.3"
+}

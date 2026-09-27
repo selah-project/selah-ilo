@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Yahweh ti bileg kaniada, ken ti kinalinged ti panangisalakan ti Mashiachna — isu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "ken ti kinalinged"
+    },
+    {
+      "surface": "יישועות",
+      "gloss": "ti panangisalakan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ti Mashiachna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:12.685044640Z",
+  "model": "glm-5.3"
+}

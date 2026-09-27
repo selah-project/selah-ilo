@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "ket ipatakderna ⟨את⟩ ti amin ti umili, tunggal maysa addaan iti armasna iti imana, manipud iti abaga ti kanawan a bangir ti balay agingga iti abaga ti kabagiban a bangir ti balay, iti asideg ti altar ken ti balay, a nakapalikmut ⟨iti⟩ ari.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ket ipatakderna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin ti umili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ken tunggal maysa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "iti armasna"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "manipud iti abaga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ti kanawan a bangir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "abaga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ti kabagiban a bangir"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "iti asideg ti altar"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ken ti balay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a nakapalikmut"
+    }
+  ],
+  "timestamp": "2026-09-26T23:53:20.923078531Z",
+  "model": "glm-5.3"
+}

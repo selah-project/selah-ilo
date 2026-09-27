@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ta kitaem, dagiti dakes bendaenda ti buslor, inisingda dagiti pana da iti tigtig, nga agpanada iti sipnget kadagiti nalinteg ti puso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "bendaenda"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ti buslor"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "inisingda"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "dagiti pana da"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "tigtig"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "nga agpanada"
+    },
+    {
+      "surface": "במו",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "sipnget"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "kadagiti nalinteg ti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:33.596928392Z",
+  "model": "glm-5.3"
+}

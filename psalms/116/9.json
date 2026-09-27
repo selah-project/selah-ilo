@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Agsursorak iti sango ni Yahweh, iti dagiti daga dagiti sibibiag.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "agsursorak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "iti dagiti daga"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dagiti sibibiag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:06.960255789Z",
+  "model": "glm-5.3"
+}

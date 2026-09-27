@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Sika, babaen iti imam inikkatmo dagiti pagilian ken imulam ida; dinaelmo dagiti umili ken inpanmo ida.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iti imam"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "inikkatmo"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "ken imulam ida"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "dinaelmo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ken inpanmo ida"
+    }
+  ],
+  "timestamp": "2026-09-26T21:18:56.894850608Z",
+  "model": "glm-5.3"
+}

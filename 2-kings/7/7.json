@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket immar-arda ket immayda nga agtaray idi rabii a nakasipngetan, ket intuladanda ⟨את⟩ dagiti toldada ken ⟨את⟩ dagiti kabalyoda ken ⟨את⟩ dagiti burikoda — ti kampo a kasta ti kasasaadna — ket immayda nga agtaray a mangsaluakar kadagiti kararuada.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Ket immar-arda"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "immayda nga agtaray"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "idi rabii a nakasipngetan"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "intuladanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti toldada"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "dagiti toldada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kabalyoda"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "dagiti kabalyoda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti burikoda"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "dagiti burikoda"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kasta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ti kasasaadna"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ket immayda nga agtaray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mangsaluakar kadagiti kararuada"
+    }
+  ],
+  "timestamp": "2026-09-26T13:31:47.005351992Z",
+  "model": "glm-5.3"
+}

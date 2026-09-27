@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket inikkanda ⟨את⟩ dagiti taba iti rabaw dagiti suso, ket inpaasona dagiti taba iti rabaw ti altar.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "inikkanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti taba"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "dagiti taba"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "dagiti suso"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "inpaasona"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "dagiti taba"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti rabaw ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T05:08:37.132197328Z",
+  "model": "glm-5.3"
+}

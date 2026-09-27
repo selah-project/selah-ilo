@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 99,
+  "translation": "Ipangatngatoyo ni Yahweh ti Elohimtayo, ken agsadsadsakkayo iti nasantuan a bantayna, ta nasantuan ni Yahweh ti Elohimtayo.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "ipangatngatoyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ken agsadsadsakkayo"
+    },
+    {
+      "surface": "להר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nasantuanna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:21.796701776Z",
+  "model": "glm-5.3"
+}

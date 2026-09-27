@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Bassit a turog, bassit a sinurok, bassit a panangtippok kadagiti imam a maturogen —",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "a turog"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "a sinurok"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "a panangtippok"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "kadagiti imam"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "a maturogen"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:00.196050104Z",
+  "model": "glm-5.3"
+}

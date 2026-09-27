@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Biruenda ngem saan a mabirukanda dagiti lallaki a nagsuppiat kenka; agbalindada a kas ti awan ken a kas ti nawan dagiti lallaki a makigubat kenka.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "biruenda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "a mabirukanda"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "a nagsuppiat kenka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agbalindada"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "a kas ti awan"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "ken a kas ti nawan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "a makigubat kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T15:24:47.866138832Z",
+  "model": "glm-5.3"
+}

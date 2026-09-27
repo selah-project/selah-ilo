@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Nakitak ⟨את⟩ ti daga, ket nadanun nga awan linaon; ken iti langit, ket awan ti lawagda.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket nadanun"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "nga awan"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "linaon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ti lawagda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:08:36.413313596Z",
+  "model": "glm-5.3"
+}

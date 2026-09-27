@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Idi impakita ⟨את⟩ ti pagserrekan ti ili, sinagidanda ⟨את⟩ ti ili babaen ti tabak, ngem ni ⟨את⟩ ti lalaki ken ⟨את⟩ amin a pamiliana inuli da.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "impakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagserrekan"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ti pagserrekan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "sinagidanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ili"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a pamiliana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "a pamiliana"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "inulida"
+    }
+  ],
+  "timestamp": "2026-09-26T09:38:33.194383262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "ket bumallasiw ti amin a nakasagana kadakayo iti Yarden ⟨את⟩ — iti sanguanan ni Yahweh — agingga maipaaday ⟨את⟩ dagiti kabusorna manipud iti sanguananna.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ket bumallasiw"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "a nakasagana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iti Yarden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "maipaaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kabusorna"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dagiti kabusorna"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "manipud iti sanguananna"
+    }
+  ],
+  "timestamp": "2026-09-26T07:18:21.426996363Z",
+  "model": "glm-5.3"
+}

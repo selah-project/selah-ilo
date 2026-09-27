@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "ket tinulonganda ni Yahweh ken pinalabusannad a pinalabusannada manipud kadagiti dakes a tao, ket isalakannanad, ta agsanikda kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "ket tinulonganda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "ken pinalabusannad"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "a pinalabusannada"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "manipud kadagiti dakes a tao"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ket isalakannanad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "agsanikda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:34.819251120Z",
+  "model": "glm-5.3"
+}

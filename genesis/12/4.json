@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Nagna ni Avram a kas iti imbagana kenkuana ni Yahweh, ket nagna ni Lot ⟨את⟩ kaduana; ket ni Avram ket addaan iti lima a tawen ken pitopulo a tawen idi immay manipud iti Kharan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ket nagna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaduana"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ni Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "ket ni Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "addaan iti"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ken pitopulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "idi immay"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "manipud iti Kharan"
+    }
+  ],
+  "timestamp": "2026-09-26T01:55:55.665809269Z",
+  "model": "glm-5.3"
+}

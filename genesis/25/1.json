@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Nagnayon ni Avraham ket immala ⟨iti⟩ asawa, ket ti nagan na ⟨ti⟩ Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Nagnayon"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "immala"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ket ti nagan na"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-09-26T02:20:06.167540664Z",
+  "model": "glm-5.3"
+}

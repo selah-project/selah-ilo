@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ngapino iti naganmo, Yahweh, ipatawarmo ti basolko, ta dakkel dayta.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ngapino iti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naganmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "ipatawarmo"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "ti basolko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:42.958814016Z",
+  "model": "glm-5.3"
+}

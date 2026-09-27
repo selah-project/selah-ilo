@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Amin immay iti sabali a dalan, agniagnay a nagdadaelda; awan ti agaramid iti naimbag, awan, uray maysa.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "סר",
+      "gloss": "immay iti sabali a dalan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "agniagnay"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "nagdadaelda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uray"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:17.393082253Z",
+  "model": "glm-5.3"
+}

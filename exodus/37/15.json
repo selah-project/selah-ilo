@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Inaramidna ⟨את⟩ dagiti badbad a kayo a sitim, ket inbalutanna ⟨אתם⟩ iti balitok, a panangitayon ⟨את⟩ ti lamisaan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti badbad"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dagiti badbad"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "a kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "inbalutanna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iti balitok"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "a panangitayon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lamisaan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ti lamisaan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:45:12.192101102Z",
+  "model": "glm-5.3"
+}

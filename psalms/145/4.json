@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Dagiti kaputotan ipategnada dagiti aramidmo iti kaputotan, ket dagiti bilegmo ibagada.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Dagiti kaputotan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "iti kaputotan"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "ipategnada"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dagiti aramidmo"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "ket dagiti bilegmo"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ibagada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:06.462657654Z",
+  "model": "glm-5.3"
+}

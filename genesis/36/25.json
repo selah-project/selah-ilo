@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ken dagitoy dagiti anak ni Anah: ni Dishon, ken ni Aholibamah nga anak a babai ni Anah.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ken dagitoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ni Anah"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "ni Dishon"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "ken ni Aholibamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nga anak a babai"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ni Anah"
+    }
+  ],
+  "timestamp": "2026-09-26T02:46:05.737950548Z",
+  "model": "glm-5.3"
+}

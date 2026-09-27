@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Kas kabsat, kas maysa a lalaki kaniak, nagsursuroak; kas maysa a mamulaed iti inana, nakemmelak, nakayuyogak.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "kas kabsat"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kas maysa a lalaki kaniak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "nagsursuroak"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "kas maysa a mamulaed"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iti inana"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nakemmelak"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "nakayuyogak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:08:41.626384891Z",
+  "model": "glm-5.3"
+}

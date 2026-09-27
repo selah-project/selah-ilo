@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Inbatida daytoy ⟨את⟩ agingga iti bigat, a kas iti bilin ni Moshe, ket saan a nakabantot, ket awan ti bures iti unegna.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "inbatida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "nakabantot"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "ket bures"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti unegna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:56:42.644885406Z",
+  "model": "glm-5.3"
+}

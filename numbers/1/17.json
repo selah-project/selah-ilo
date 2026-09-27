@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinua ni Moshe ken ni Aharon ⟨את⟩ dagiti lalaki a dagitoy a naibaga babaen ti nagan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lalaki a dagitoy"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a dagitoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "naibaga"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "babaen ti nagan"
+    }
+  ],
+  "timestamp": "2026-09-26T06:04:08.303563750Z",
+  "model": "glm-5.3"
+}

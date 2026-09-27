@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Laeng mamatiem, padak, daytoy a sao a saoek siak kadagiti tallikmo ken kadagiti talliling ti amin nga umili.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mamatiem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "padak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "saoek"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "kadagiti tallikmo"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "ken kadagiti talliling"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:04.798753341Z",
+  "model": "glm-5.3"
+}

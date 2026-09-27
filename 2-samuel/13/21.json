@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Idi nangngeg ni David ti ari ⟨את⟩ amin dagitoy a sasao, ken nakaro unay ti rirona.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagitoy a sasao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sasao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "rirona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nakaro unay"
+    }
+  ],
+  "timestamp": "2026-09-26T11:44:28.416320362Z",
+  "model": "glm-5.3"
+}

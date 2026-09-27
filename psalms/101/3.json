@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 101,
+  "translation": "Saanak a mangipaay iti sanguan ti matak ⟨iti⟩ maysa a dakes a banag; dinakesak ti aramid dagiti agbaliw-baliw; saan a makadukep kaniak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mangipaayak"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ti matak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "banag"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "dagiti agbaliw-baliw"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "dinakesak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "makadukep"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:30.459043654Z",
+  "model": "glm-5.3"
+}

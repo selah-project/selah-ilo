@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 7:6",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket ni Adonay pinaltuinana ti kampo ti Aram ⟨את⟩ ti timek ti karro, ti timek ti kabalyo, ti timek ti dakkel a buyot, ket kinunada ti maysa a lalaki iti kabsatna: Tatta, ti ari ti Yisrael ket nagbayad kadagiti umilina ⟨את⟩ dagiti ari dagiti Hita ken ⟨את⟩ dagiti ari ti Mitsrayim a mapan kadakami.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Ket ni Adonay"
+    },
+    {
+      "surface": "השמיע",
+      "gloss": "pinaltuinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kampo ti Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ti karro"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ti kabalyo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "buyot"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a lalaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kabsatna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tatta"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "nagbayad"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ari dagiti Hita"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "dagiti Hita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ari ti Mitsrayim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "a mapan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadakami"
+    }
+  ],
+  "timestamp": "2026-09-26T13:31:47.004008764Z",
+  "model": "glm-5.3"
+}

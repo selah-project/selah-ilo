@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 136,
+  "translation": "a kasaruno a nanglagip kenkami iti kababaantayo: ta ti hesedna agnanayon.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "iti kababaantayo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nanglagip"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kenkami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:19.621470859Z",
+  "model": "glm-5.3"
+}

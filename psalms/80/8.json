@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Elohim ti Tsevaot, isublimo koma, ken iparangarangmo ti rupam, ket masalakankami.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "isublimo"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ken iparangarangmo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ket masalakankami"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:20.296085429Z",
+  "model": "glm-5.3"
+}

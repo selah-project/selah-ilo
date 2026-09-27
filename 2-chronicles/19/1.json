@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Nagsubli ni Yehoshaphat, ari ti Yehudah, iti balayna iti kappia, iti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Nagsubli"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshaphat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balayna"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "iti kappia"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "iti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:50:12.914126846Z",
+  "model": "glm-5.3"
+}

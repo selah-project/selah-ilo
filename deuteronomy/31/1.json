@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Nagna ni Moshe ket nagsao ⟨את⟩ dagitoy a sao iti amin a Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy a sao"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T08:48:16.350744732Z",
+  "model": "glm-5.3"
+}

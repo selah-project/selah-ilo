@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Agtinnag kadi ti billit iti pacho iti daga, ken awan ti mokusenna? Sumanglad kadi ti pacho manipud iti daga, ket ti maseraenna awan?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "agtinnag kadi"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "billit"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פח",
+      "gloss": "pacho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "ken ti mokusenna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ti mokusenna"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "sumanglad kadi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ti pacho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "ket ti maseraenna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "maseraenna"
+    }
+  ],
+  "timestamp": "2026-09-26T19:50:15.789096374Z",
+  "model": "glm-5.3"
+}

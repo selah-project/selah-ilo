@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Insuotanka ni Yahweh iti dalan ken kinunana: Inkan ket dadaelennem ⟨את⟩ dagiti basol, ⟨את⟩ ti Amalek, ket makigubatka kadakuada agingga a maipukpukawda ⟨iti⟩ danida.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "insuotanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ken kinunana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "inkan"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "dadaelennem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti basol"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "dagiti basol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ti Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "makigubatka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "maipukpukawda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ti danida (ti Amalek)"
+    }
+  ],
+  "timestamp": "2026-09-26T10:53:39.079243351Z",
+  "model": "glm-5.3"
+}

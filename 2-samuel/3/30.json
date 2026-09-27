@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ni Yoav ken ni Avishay a kabsatna ket pinatayda ni Avner, ta inpatayna ⟨את⟩ ni Asahel a kabsatda idiay Givon, iti gubat.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Ni Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "ken ni Avishay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "a kabsatna"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pinatayda"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "ni Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "המית",
+      "gloss": "inpatayna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "a kabsatda"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "idiay Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "iti gubat"
+    }
+  ],
+  "timestamp": "2026-09-26T11:31:20.337956658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Naiyawyaw ti pusok; ti kinalabeslabesengan a panagbuteng ket binutengannak; ⟨את⟩ ti rabii a kinasardam a kayatko ti inaramidna a pagbutengan kaniak.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "Naiyawyaw"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ti kinalabeslabesengan a panagbuteng"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "binutengannak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rabii a kinasardam a kayatko"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "ti rabii a kinasardam"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "a kayatko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "a pagbutengan"
+    }
+  ],
+  "timestamp": "2026-09-26T14:48:51.178226782Z",
+  "model": "glm-5.3"
+}

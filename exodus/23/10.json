@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ken innem a tawen mulmo ⟨את⟩ ti dagam, ken apitenmo ⟨את⟩ ti apitna.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "ken innem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "mulmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dagam"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ti dagam"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ken apitenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apitna"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ti apitna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:07:46.902569274Z",
+  "model": "glm-5.3"
+}

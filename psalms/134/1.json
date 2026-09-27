@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 134,
+  "translation": "Kanta ti Panangato. Adtoy, bendisionanyo ⟨ti⟩ Yahweh, amin nga adipen ni Yahweh, dagiti agtakder iti balay ni Yahweh kadagiti rabii.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti Panangato"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Adtoy"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bendisionanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nga adipen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "dagiti agtakder"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "kadagiti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:32.757171363Z",
+  "model": "glm-5.3"
+}

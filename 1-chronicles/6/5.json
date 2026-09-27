@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kadua ni Gershom: ni Libni anakna a lalaki, ni Yachat anakna a lalaki, ni Zimmah anakna a lalaki.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Kadua ni Gershom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ni Libni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna a lalaki"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ni Yachat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna a lalaki"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ni Zimmah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna a lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:26.665746331Z",
+  "model": "glm-5.3"
+}

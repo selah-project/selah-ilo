@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Innem nga aldaw ti maaramid nga obra, ngem iti maikapito nga aldaw Shabbat, panaginnaan a nasantuan iti Yahweh; ti amin nga agaramid iti obra iti aldaw ti Shabbat ket matay a matayen.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Innem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ti maaramid"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "nga obra"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ngem iti aldaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "panaginnaan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a nasantuan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "iti Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "nga agaramid"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iti obra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ti Shabbat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matay"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a matayen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:28:24.692632513Z",
+  "model": "glm-5.3"
+}

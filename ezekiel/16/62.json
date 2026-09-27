@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ket ipatakderko siak ⟨את⟩ ti tulagko ⟨את⟩ iti kadak, ket ammom a siak ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "ket ipatakderko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulagko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iti kadak"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ket ammom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T18:24:41.127302399Z",
+  "model": "glm-5.3"
+}

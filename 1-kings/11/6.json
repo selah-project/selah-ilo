@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 11:6",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket inaramid ni Shelomoh ti dakes iti panangita ni Yahweh, ket saan a napno a nagna kalpasan ni Yahweh, kas ni David nga ama na.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti panangita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a napno"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a nagna kalpasan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "kas ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ngañ ama na"
+    }
+  ],
+  "timestamp": "2026-09-26T12:45:30.838283642Z",
+  "model": "glm-5.3"
+}

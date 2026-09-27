@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "⟨את⟩ ti arko ti testimonio ken ⟨את⟩ dagiti bagienna, ken ⟨את⟩ ti kapporet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ti testimonio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bagienna"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dagiti bagienna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ti kapporet"
+    }
+  ],
+  "timestamp": "2026-09-26T04:48:59.021379591Z",
+  "model": "glm-5.3"
+}

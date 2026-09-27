@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ita ket, saanmo a pagpukawen ⟨ti⟩ basolna, ta lalaki a maaramka, ket ammo mo ⟨את⟩ ti aramidem kenkuana, ket iyaddaam ti uliana a napussuok iti dara iti Sheol.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ita ket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "pagpukawen ti basolna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "a maaram"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "-ka"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ammo mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramidem kenkuana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "iyaddaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulina a napussuok"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ulina a napussuok"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "iti Sheol"
+    }
+  ],
+  "timestamp": "2026-09-26T12:20:53.793984740Z",
+  "model": "glm-5.3"
+}

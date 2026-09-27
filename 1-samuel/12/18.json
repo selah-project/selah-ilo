@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Kalpasanna inawag ni Shemuel ni Yahweh, ket inted ni Yahweh ti timek ken udan iti dayta nga aldaw; ket nabutbutengan amin ti tao ti ⟨את⟩ ni Yahweh ken ⟨את⟩ ni Shemuel.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inawag"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket inted"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "timek"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "ken udan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "nabutbutengan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    }
+  ],
+  "timestamp": "2026-09-26T10:43:09.496295588Z",
+  "model": "glm-5.3"
+}

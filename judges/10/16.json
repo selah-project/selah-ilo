@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Inikkatda ⟨את⟩ dagiti dios dagiti sabsabali a pagilian manipud iti unegda ken nagserbi da ⟨iti⟩ ni ⟨את⟩ Yahweh; ket naabbaan ti kararuana iti karigrigatan ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "inikkatda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dios dagiti sabsabali a pagilian"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dagiti dios"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "dagiti sabsabali a pagilian"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "manipud iti unegda"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "nagserbida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "naabbaan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ti kararuana"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "iti karigrigatan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T09:52:40.121100633Z",
+  "model": "glm-5.3"
+}

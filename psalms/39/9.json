@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Manipud iti amin a basolko isalakannakom; saanmo koma a ikabilnak ⟨a kas⟩ karang dagiti mangmang.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "manipud iti amin"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "basolko"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "isalakannakom"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "karang"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "dagiti mangmang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ikabilmo nak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:14:43.599308096Z",
+  "model": "glm-5.3"
+}

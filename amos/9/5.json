@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket ni Adonay Yahweh ti Tsevaot, ti agdungpar iti daga ket matunaw dayta, ket agmaidayo amin nga agnanaed iti dayta; ket umunnat ti interona a kas ti karayan, ket agbaba a kas ti karayan ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "ket ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "ti agdungpar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "ket matunaw"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ket agmaidayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ngga agnanaed"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "ket umunnat"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "a kas ti karayan"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ti interona"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "ket agbaba"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "a kas ti karayan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T19:58:58.481464548Z",
+  "model": "glm-5.3"
+}

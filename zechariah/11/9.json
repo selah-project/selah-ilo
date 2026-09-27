@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken kinunak: Saanakonto a mangipastor ⟨אתכם⟩; ti maipatay, matay; ti maikkat, maikkat; ket dagiti nabati, agmangananda, tunggal maysa iti lasag ti kaduana a babai.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ken kinunak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "mangipastor"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "ti maipatay"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "matay"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "ket ti maikkat"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "maikkat"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "ket dagiti nabati"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "agmangananda"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasag"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lasag"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "kaduana a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:12.188657906Z",
+  "model": "glm-5.3"
+}

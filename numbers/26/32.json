@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "ken ni Shemida, ti pamilia dagiti Shemidai; ken ni Khefer, ti pamilia dagiti Kheferi.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "ken ni Shemida"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "dagiti Shemidai"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "ken ni Khefer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "dagiti Kheferi"
+    }
+  ],
+  "timestamp": "2026-09-26T07:05:49.589735190Z",
+  "model": "glm-5.3"
+}

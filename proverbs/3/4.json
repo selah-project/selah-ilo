@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket makabirukanto ti grasia ken nasayaat a panunot iti matamata ni Elohim ken ti tao",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ket makabirukanto"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ti grasia"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat a panunot"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti matamata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ken ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:47.929527191Z",
+  "model": "glm-5.3"
+}

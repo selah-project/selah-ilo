@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken dagitoy ti kaputotan ni Terach: ni Terach nagputot ⟨את⟩ ni Avram, ⟨את⟩ ni Nakhor ken ⟨את⟩ ni Haran; ket ni Haran nagputot ⟨את⟩ ni Lot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ken dagitoy"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "kaputotan"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ni Terach"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Nakhor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "ket ni Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-09-26T01:53:49.806961535Z",
+  "model": "glm-5.3"
+}

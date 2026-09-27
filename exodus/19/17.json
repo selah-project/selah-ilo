@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Inala ni Moshe ⟨את⟩ ti tao a pagtignayanna ti Elohim, manipud iti kampo, ket innala da nga agtakder iti baba ti bantay.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "inala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "a pagtignayanna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "ket immalda nga agtakder"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ti bantay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:57:26.282187845Z",
+  "model": "glm-5.3"
+}

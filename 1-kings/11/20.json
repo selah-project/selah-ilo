@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Naganakananna kenkuana ti kabsat ni Takhpenes ⟨את⟩ si Genubat ti anakna, ket inaywanan ni Takhpenes isuna iti uneg ti balay ni Paro; ket nagbalin ni Genubat iti balay ni Paro, iti tengnga dagiti anak ni Paro.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "naganakananna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ti kabsat"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "ni Takhpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Genubat"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "si Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ti anakna"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "inaywanan"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "ni Takhpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "ni Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T12:50:54.955597526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Dagiti anak ni Naftali, dagiti kaputotanda, iti pamiliaanda, iti balay dagiti ammada, iti bilang dagiti nagan, manipud iti anak a duapulo a tawen ken agngato, amin a makaruar iti buyot.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "dagiti kapototanda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "iti pamiliaanda"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dagiti ammada"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "iti bilang"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "dagiti nagan"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "manipud iti anak"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ken agngato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a makaruar"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "iti buyot"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:51.564933287Z",
+  "model": "glm-5.3"
+}

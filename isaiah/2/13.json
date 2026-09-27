@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 2:13",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken iti amin a dagiti sedro ti Lebanon, dagiti nangato ken naipangato, ken iti amin a dagiti oking ti Bashan;",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "dagiti sedro"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ti Lebanon"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "dagiti nangato"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "ken naipangato"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "dagiti oking"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ti Bashan"
+    }
+  ],
+  "timestamp": "2026-09-26T14:12:52.712992820Z",
+  "model": "glm-5.3"
+}

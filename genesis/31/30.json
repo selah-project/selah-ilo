@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket ita, napanka laeng ta naim-imeyka a naimbag iti balay ni amam; apay nga innalam ⟨את⟩ dagiti diosko?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ket ita"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "napanka"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "naim-imeyka"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "a naimbag"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ni amam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "innalam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti diosko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dagiti diosko"
+    }
+  ],
+  "timestamp": "2026-09-26T02:38:39.487342008Z",
+  "model": "glm-5.3"
+}

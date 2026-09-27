@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 33:8",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ken kenni Levi kinuna: Dagiti Thummimmo ken dagiti Urimmo ket para iti nasantoanmo a lalaki, a pinadasmo idiay Massah, ken nakilabanmo iti danum ti Meribah.",
+  "tokens": [
+    {
+      "surface": "וללוי",
+      "gloss": "ken kenni Levi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "תמיך",
+      "gloss": "dagiti Thummimmo"
+    },
+    {
+      "surface": "ואוריך",
+      "gloss": "ken dagiti Urimmo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "para iti lalaki"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "nasantoanmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נסיתו",
+      "gloss": "pinadasmo"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "idiay Massah"
+    },
+    {
+      "surface": "תריבהו",
+      "gloss": "nakilabanmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "danum"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribah"
+    }
+  ],
+  "timestamp": "2026-09-26T08:47:08.002735754Z",
+  "model": "glm-5.3"
+}

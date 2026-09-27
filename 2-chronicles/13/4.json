@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 13:4",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Immurong ni Aviyah ngato ti bantay Tsemarayim, a daytoy ket iti bantay Efrayim, ket kinunana: Dengngegyokayo, ni Yaravam ken amin nga Yisrael!",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "immurong"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ni Aviyah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ngato"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ti bantay"
+    },
+    {
+      "surface": "צמרים",
+      "gloss": "Tsemarayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a daytoy ket"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "dengngegyokayo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yaravam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T23:49:00.600974358Z",
+  "model": "glm-5.3"
+}

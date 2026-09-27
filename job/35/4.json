@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Siak ti agsublik kadagiti sao, ken ⟨את⟩ dagiti kaarrubam a kaduam.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "agsublik"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kadagiti sao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kaarrubam"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "dagiti kaarrubam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "a kaduam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:58:44.296578938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket ti tolda ket agbalin a linong iti aldaw manipud iti pudot, ken pagduaduaan ken paglemmengan manipud iti bagyo ken manipud iti udan.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "ket ti tolda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "a linong"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "manipud iti pudot"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "ken a pagduaduaan"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "ken a paglemmengan"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "manipud iti bagyo"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "ken manipud iti udan"
+    }
+  ],
+  "timestamp": "2026-09-26T14:21:02.909820814Z",
+  "model": "glm-5.3"
+}

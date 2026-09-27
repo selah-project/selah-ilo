@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 35:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ket napan da a banbaniaga manipud iti Bet-El, ket idi adda pay maysa a kaadayo ti daga nga umay iti Efrata, ket nanganak ni Rahel, ket nagrigat ti panaganakna.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "napan da a banbaniaga"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket idi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "adda pay"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "maysa a kaadayo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "nga umay"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "iti Efrata"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nanganak"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ni Rahel"
+    },
+    {
+      "surface": "ותקש",
+      "gloss": "nagrigat"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "ti panaganakna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:45:36.763224547Z",
+  "model": "glm-5.3"
+}

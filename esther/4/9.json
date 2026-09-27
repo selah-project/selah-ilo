@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Immay ni Hathakh ken ibinagana kenni Ester ⟨את⟩ dagiti sao ni Mordekhai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ni Hathakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ibinagana"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kenni Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao ni Mordekhai"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekhai"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:46.731660255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Ti ubas a mula manipud iti Mitsrayim ti inyulanmo, intulakmo dagiti nasion ken naimulam daytoy.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "ti ubas a mula"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "ti inyulanmo"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "intulakmo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti nasion"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ken naimulam daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:10.247814397Z",
+  "model": "glm-5.3"
+}

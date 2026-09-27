@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket napasamak idi agsubli ti tawen, a binilang ni Ben-Hadad ⟨את⟩ Aram, ket immay ngato iti Apek iti gubat kadua ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "idi agsubli"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ti tawen"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "binilang"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "immay ngato"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "iti Apek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T13:11:20.486730424Z",
+  "model": "glm-5.3"
+}

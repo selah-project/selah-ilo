@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 16:22",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Idi immadekanda kenni Absalom ⟨ti⟩ tolda iti ngato ti atep, ket sumrek ni Absalom kadagiti pileges ti amana iti sanguanan ti amin nga Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויטו",
+      "gloss": "idi immadekanda"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "kenni Absalom"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti tolda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "ti atep"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ket sumrek"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Absalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "פלגשי",
+      "gloss": "pileges"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ngaan Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T11:50:01.268099752Z",
+  "model": "glm-5.3"
+}

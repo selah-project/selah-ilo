@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket inukomna ⟨את⟩ Yisrael iti aldaw dagiti Pelishtim duapulo a tawen.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ket inukomna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtim"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T10:07:13.745445923Z",
+  "model": "glm-5.3"
+}

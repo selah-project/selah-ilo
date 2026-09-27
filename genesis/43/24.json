@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Inayanna ti tao ⟨את⟩ dagiti tattao iti balay ni Yosef, ket initedna danum ket nagdigosda dagiti sakaada, ket initedna pakan kadagiti nuangda.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Inayanna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tattao"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti tattao"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket initedna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "ket nagdigosda"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "dagiti sakaada"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket initedna"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "pakan"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "kadagiti nuangda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:07:30.408724022Z",
+  "model": "glm-5.3"
+}

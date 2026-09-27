@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "ket pinanawanda sadiay ⟨את⟩ dagiti didiosenda, ken inala da babaen ni David ken dagiti lalaki na.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ket pinanawanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti didiosenda"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "dagiti didiosenda"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ken inala da"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ken dagiti lalaki na"
+    }
+  ],
+  "timestamp": "2026-09-26T11:34:50.167086263Z",
+  "model": "glm-5.3"
+}

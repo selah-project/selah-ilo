@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kinuna ni Yahweh kenni Yehoshua: Agtakderka; apay nga itoy nga addaka a natukkan iti rupam?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "קם",
+      "gloss": "agtakderka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ngem itoy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "addaka"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "natukkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rupam"
+    }
+  ],
+  "timestamp": "2026-09-26T09:02:38.141807349Z",
+  "model": "glm-5.3"
+}

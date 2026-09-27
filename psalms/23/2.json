@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Iti pastulan ti dinamidamo a dacao ipuknayna nak, iti igid dagiti danum ti panaginnaan isu ti mangiturong kaniak.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Iti pastulan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ti dinamidamo a dacao"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "ipuknayna nak"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti igid"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dagiti danum"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "ti panaginnaan"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "isu ti mangiturong kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:00.303510658Z",
+  "model": "glm-5.3"
+}

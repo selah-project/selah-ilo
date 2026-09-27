@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "Ta saan nga italawag ni Yahweh ti umilina, ken ti tawidna saan nga ibbetna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "italawag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "ken ti tawidna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ibbetna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:14.420466636Z",
+  "model": "glm-5.3"
+}

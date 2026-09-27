@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Kinuna ni Yahweh kenni Moshe, ⟨nga kuna⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:40:37.870211021Z",
+  "model": "glm-5.3"
+}

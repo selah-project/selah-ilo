@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Tapno mailasin ti nagannud ken ti naanan, ken ti ayup a makan ken ti ayup a saan a makan.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "tapno mailasin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nagannud"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken ti"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "naanan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken ti"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ayup"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "a makan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken ti"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ayup"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "a makan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:09:21.548894397Z",
+  "model": "glm-5.3"
+}

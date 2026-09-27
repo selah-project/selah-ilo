@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ti aniaman a bagianna ti pissa ti saka ken nagsisina ⟨iti sisina⟩ iti pissa, ken mangipato ti girah — iti taraken, ⟨את⟩ dayta ti makananyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ti aniaman"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "bagianna"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "pissa ti saka"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ken nagsisina"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "sisina"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "iti pissa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "mangipato"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "girah"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "iti taraken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "makananyo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:17:03.137992999Z",
+  "model": "glm-5.3"
+}

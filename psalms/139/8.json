@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "No umanatk kadagiti langit, sadiay addaka; no mangiyabongak ti katrek iti Sheol, samto addaka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "umanatk"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kadagiti langit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "addaka"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "no mangiyabongak ti katrek"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "iti Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "samto addaka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:37.908451650Z",
+  "model": "glm-5.3"
+}

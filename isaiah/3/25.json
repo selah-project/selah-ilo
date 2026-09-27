@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 3:25",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Dagiti lallakimo babaen ti tabak matnagda, ken ti bilegmo iti gubat.",
+  "tokens": [
+    {
+      "surface": "מתיך",
+      "gloss": "dagiti lallakimo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "babaen ti tabak"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "matnagda"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ken ti bilegmo"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "iti gubat"
+    }
+  ],
+  "timestamp": "2026-09-26T14:20:59.224769035Z",
+  "model": "glm-5.3"
+}

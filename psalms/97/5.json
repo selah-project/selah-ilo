@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 97,
+  "translation": "Nagtunaw dagiti bantay a kas iti siliw iti sango ni Yahweh, iti sango ni Adonay ti amin a daga.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "a kas iti siliw"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "nagtunaw"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:46.658156795Z",
+  "model": "glm-5.3"
+}

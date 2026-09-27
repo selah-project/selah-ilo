@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ibendisionnak ni Yahweh ⟨את⟩, ti nangted iti payo kaniak; sipay dagiti rabii, dagiti buesk ti mangisuro kaniak.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Ibendisionnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "nangted iti payo kaniak"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sipay"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "dagiti rabii"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ti mangisuro kaniak"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "dagiti buesk"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:29.322841052Z",
+  "model": "glm-5.3"
+}

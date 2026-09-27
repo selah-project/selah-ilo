@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Ngem siak, kenka, Yahweh, innawagak, ket iti bigbigat ti kararuak ti umay saka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngem siak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "innawagak"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ket iti bigbigat"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "ti umay saka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:08.807745759Z",
+  "model": "glm-5.3"
+}

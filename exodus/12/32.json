@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Dagiti karneroyo met ken dagiti bakakayo alaenyo, kas nasaoyo, ket mapankayo, ken bendisionanyo met ⟨את⟩ siak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "dagiti karneroyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ken"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "dagiti bakakayo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "alaenyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "nasaoyo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ket mapankayo"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "bendisionanyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "siak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:55.025814441Z",
+  "model": "glm-5.3"
+}

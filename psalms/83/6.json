@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Ta nagtiponda iti maysa a puso, a kumuyog; contra kenka mangaramidda iti tulag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "nagtiponda"
+    },
+    {
+      "surface": "לב",
+      "gloss": "iti puso"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "a kumuyog"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contra kenka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "iti tulag"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "mangaramidda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:07.775115039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 32:28",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ken sika, iti tengnga dagiti awan ti tuntonda madadaelka, ket matugedka kadagiti ⟨את⟩ natnag babaen ti tabak.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "dagiti awan ti tuntonda"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "madadaelka"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "ket matugedka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti natnag babaen ti tabak"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "dagiti natnag"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "babaen ti tabak"
+    }
+  ],
+  "timestamp": "2026-09-26T19:01:31.017800533Z",
+  "model": "glm-5.3"
+}

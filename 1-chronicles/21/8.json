@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Kinuna ni David kenni ⟨ti⟩ Elohim: Nagbasolak unay ta inaramidko ⟨את⟩ ti sao a daytoy; ket ita, pangngaasim, ikkatmo ⟨את⟩ ti basol ti adipenmo, ta nagbakiangak unay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nagbasolak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "inaramidko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sao a daytoy"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a daytoy"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ket ita"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "ikkatmo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pangngaasim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti basol ti adipenmo"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "nagbakiangak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:40:47.129394161Z",
+  "model": "glm-5.3"
+}

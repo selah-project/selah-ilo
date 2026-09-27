@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket itedna manipud iti sakripisio ti shelamim ti napuoran a daton kenni Yahweh: ⟨את⟩ ti taba nga agabbong ⟨את⟩ ti dagiti uneg, ken ⟨את⟩ amin ti taba a iti rabaw dagiti uneg.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "manipud iti sakripisio"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ti shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "napuoran a daton"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nga agabbong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dagiti uneg"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dagiti uneg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin ti taba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dagiti uneg"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:35.874367201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kitaen ti imatangar ni Elohim ⟨את⟩ ti daga, ket, ida, nadadael; ta rinaw-an ti amin a lasag ⟨את⟩ ti dallonna iti daga.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Kitaen ti imatangar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket, ida"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "nadadael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "rinaw-an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin a"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lasag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dallonna"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ti dallonna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:24.310708755Z",
+  "model": "glm-5.3"
+}

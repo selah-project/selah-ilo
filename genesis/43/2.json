@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "ket napasamak, no nakaammodanda a mangan ⟨את⟩ ti bagas a dalaenda manipud iti Mitsrayim, ket kinuna ti amada kaniada: agsublikayo, aggatangkayo kadakami iti bassit a makan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "no nakaammodanda"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "a mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bagas"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "ti bagas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dalaenda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ti amada"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "agsublikayo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "aggatangkayo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "a makan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:34.731428209Z",
+  "model": "glm-5.3"
+}

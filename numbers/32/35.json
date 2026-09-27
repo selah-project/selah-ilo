@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "ken ⟨ti⟩ ⟨את⟩ Atarot-Shophan ken ⟨ti⟩ ⟨את⟩ Yazer ken Yogbehah,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Atarot-Shophan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shophan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ken Yogbehah"
+    }
+  ],
+  "timestamp": "2026-09-26T07:15:36.685418007Z",
+  "model": "glm-5.3"
+}

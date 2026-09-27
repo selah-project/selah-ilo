@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Dagiti anak ni Ladan: ni Yekhiel ti ulo, ken ni Zetam ken ni Yoel — tallo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ni Ladan"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yekhiel"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "ken ni Zetam"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ken ni Yoel"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:40:00.467427980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ken ⟨את⟩ dakayo iwarwarasak kadagiti pagilian, ken ipaayko ti espada iti likudanyo, ket ti dagan yo agbalin a pagdadaelan, ken dagiti ili yoyo agbalin a dadaellan.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "ken ⟨את⟩ dakayo",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "iwarwarasak"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti pagilian"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "ken ipaayko"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "iti likudanyo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ti dagan yo"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "a pagdadaelan"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "ken dagiti ili yoyo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "a dadaellan"
+    }
+  ],
+  "timestamp": "2026-09-26T06:02:24.296111579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Ti Mangidaulo; kanta ni David. Elohim ti daydayawko, dia agtalek.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ti Mangidaulo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "daydayawko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dia"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "agtalek"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:49.985035938Z",
+  "model": "glm-5.3"
+}

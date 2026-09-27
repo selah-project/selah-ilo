@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 22:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ni Atalya, ina ni Akhaziahu, nakitana a natay ti anakna, ket nagbangon ket dinadaelna ⟨את⟩ amin a kaputotan ti pagarian iti balay ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "ועתליהו",
+      "gloss": "ni Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ni Akhaziahu"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakitana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "מת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ti anakna"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "nagbangon"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "dinadaelna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a kaputotan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaputotan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ti pagarian"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:52.144712102Z",
+  "model": "glm-5.3"
+}

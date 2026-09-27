@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket immayak a mangibael ⟨את⟩ ti pusok maipapan iti amin a trabaho a trabahaek babaen ti init.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ket immayak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "a mangibael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pusok"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipapan iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "a trabaho"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "a trabahaek"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:00.043271750Z",
+  "model": "glm-5.3"
+}

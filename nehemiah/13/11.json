@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Simmuppiatak kadagiti ⟨את⟩ opisial, ket kinunak: Apay a naipukaw ti balay ti Elohim? Ket tinipuak ida, ket pinatakderko ida iti patakderanda.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "simmuppiatak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti opisial"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "dagiti opisial"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ket kinunak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "apay"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "naipukaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "tinipuak ida"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "pinatakderko ida"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "patakderanda"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:28.848130156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kinuna ti ari kenn ni Khazael: Alaem iti imam ti minchah ken mapanka sumangpet kenn ti lalaki ti Elohim, ket saludsodem ⟨את⟩ kenn Yahweh manipud ⟨את⟩ kennkuana, nga kumuna: Maibiagak kada manipud iti daytoy a sakit?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenn"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "ni Khazael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "iti imam"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ti minchah"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ken mapanka"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sumangpet kenn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ket saludsodem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenn Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenn Yahweh"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "manipud ⟨את⟩",
+      "marks": "kennkuana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kumuna"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "maibiagak kada"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "manipud iti sakit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T13:42:33.632389329Z",
+  "model": "glm-5.3"
+}

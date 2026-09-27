@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "ken ⟨את⟩ Dedan ken ⟨את⟩ Tema ken ⟨את⟩ Buz ken ⟨את⟩ amin dagiti agpupugtot iti igid ti rupa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti agpupugtot iti igid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "dagiti agpupugtot"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "iti igid ti rupa"
+    }
+  ],
+  "timestamp": "2026-09-26T17:06:05.505405196Z",
+  "model": "glm-5.3"
+}

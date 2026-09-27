@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ti saan a nangipaay ti pusona iti sao ni Yahweh, ibbatanna ⟨את⟩ dagiti adipenna ken ⟨את⟩ ti tagikuana a taraken iti talon.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ken ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nangipaay"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ibbatanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti adipenna"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tagikuana a taraken"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ti tagikuana a taraken"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    }
+  ],
+  "timestamp": "2026-09-26T03:43:37.493196378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket inyangatannak manipud iti bao ti nakaro a ribok, manipud iti laplapdap ti linang, ket timmandar dagiti sakaak iti bato, ket inpatakderna dagiti addangak.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "Ket inyangatannak"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "manipud iti bao"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ti nakaro a ribok"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "manipud iti laplapdap"
+    },
+    {
+      "surface": "היון",
+      "gloss": "ti linang"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ket timmandar"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "bato"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "dagiti sakaak"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ket inpatakderna"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "dagiti addangak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:17:01.879683794Z",
+  "model": "glm-5.3"
+}

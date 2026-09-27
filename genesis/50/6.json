@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Kinuna ni Paro: Agpangato, ken ipakburam ⟨את⟩ ni amam, a kas iti pinasumpaannak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "agpangato"
+    },
+    {
+      "surface": "וקבבר",
+      "gloss": "ken ipakburam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni amam"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ni amam"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "pinasumpaannak"
+    }
+  ],
+  "timestamp": "2026-09-26T03:24:06.108930562Z",
+  "model": "glm-5.3"
+}

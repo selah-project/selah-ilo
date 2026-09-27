@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ket sinuratko iti libro, ken inselyok, ken inawagko dagiti saksi, ken tinimbangko ti pirak iti timbangan.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Ket sinuratko"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "iti libro"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "ken inselyok"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "ken inawagko"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "dagiti saksi"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "ken tinimbangko"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "iti timbangan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:09:32.795968396Z",
+  "model": "glm-5.3"
+}

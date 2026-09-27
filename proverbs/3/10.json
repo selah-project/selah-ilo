@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket mapnuan dagiti kamaligmo iti kaadu, ket ti baro a bino rummuar kadagiti kanalmo.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ket mapnuan"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "dagiti kamaligmo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "iti kaadu"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ket ti baro a bino"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "kadagiti kanalmo"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "rummuar"
+    }
+  ],
+  "timestamp": "2026-09-26T22:33:08.756190034Z",
+  "model": "glm-5.3"
+}

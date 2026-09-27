@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Iluadamnak manipud iti dayta a rinet a binilangda kaniak, ta sika ti bilegko.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "iluadamnak"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "rinet"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "binilangda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "bilegko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:54.274517170Z",
+  "model": "glm-5.3"
+}

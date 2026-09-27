@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket timmulak ni Khanokh a kadua ⟨ti⟩ ⟨את⟩ Elohim, kalpasan ti panaganakna ⟨iti⟩ ⟨את⟩ Metushelakh, tallo a gasut a tawen, ket nanganak kadagiti anak a lalaki ken anak a babai.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "Ket timmulak"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ni Khanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ti panaganakna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelakh"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelakh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ket nanganak"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kadagiti anak a lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ken anak a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T01:45:11.898823183Z",
+  "model": "glm-5.3"
+}

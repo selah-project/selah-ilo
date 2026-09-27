@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Mabasolda ken mailukawda dagiti agbiruk kadagiti kararuak; agsublida a sumnged ken mailaawda dagiti agbilin iti dakes kaniak.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Mabasolda"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ken mailukawda"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "dagiti agbiruk"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kadagiti kararuak"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "agsublida"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "a sumnged"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ken mailaawda"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "dagiti agbilin"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "iti dakes kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:24.166422821Z",
+  "model": "glm-5.3"
+}

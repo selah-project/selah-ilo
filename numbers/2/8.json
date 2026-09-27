@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ti buyotna ken dagiti bilangenna, pito ken limapulo a ribu ken uppat a gasut.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ken ti buyotna"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ken dagiti bilangenna"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ken limapulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ken uppat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    }
+  ],
+  "timestamp": "2026-09-26T06:05:06.117569654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Alaanmo ⟨את⟩ ni Aharon ken ⟨את⟩ dagiti anakna a lalaki ⟨את⟩ kenkuana, ken ⟨את⟩ dagiti bado, ken ⟨את⟩ ti lana ti panangilana, ken ⟨את⟩ ti baka iti daton ti basol, ken ⟨את⟩ dagiti dua a karnero, ken ⟨את⟩ ti bakol dagiti tinapay nga awan lebadura;",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Alaanmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anakna a lalaki"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna a lalaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kenkuana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bado"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ti panangilana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti baka"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "iti daton ti basol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti dua a karnero"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "a karnero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti bakol"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ti bakol"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "dagiti tinapay nga awan lebadura"
+    }
+  ],
+  "timestamp": "2026-09-26T05:07:25.204856191Z",
+  "model": "glm-5.3"
+}

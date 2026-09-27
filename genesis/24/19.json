@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ket nalpasna nga inumuan na, ket kinunana: \"Sabatan ko met ti kameram, agingga nga malpasda nga uminom.\"",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "ket nalpasna"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "nga inumuan na"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "ti kameram"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "sabatan ko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "malpasda"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "nga uminom"
+    }
+  ],
+  "timestamp": "2026-09-26T02:16:03.066384545Z",
+  "model": "glm-5.3"
+}

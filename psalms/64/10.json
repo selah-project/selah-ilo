@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 64,
+  "translation": "Nabutendan amin a tao, ket ibagada ti aramid ni Elohim, ken ti aramidna naan-aanda.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "nabutendan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ibagada"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "ken ti aramidna"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "naan-aanda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:34:26.524453577Z",
+  "model": "glm-5.3"
+}

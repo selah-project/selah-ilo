@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken ti amin a bado ken ti amin a kudil a pudno adda ⟨iti⟩ bukel ti panagtignay, malaba iti danum ken madarutdot agingga iti rabii.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kudil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "panagtignay"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bukel"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "malaba"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "madarutdot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T05:30:44.061922109Z",
+  "model": "glm-5.3"
+}

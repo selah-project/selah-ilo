@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 84,
+  "translation": "Naragsak ti tao a ti bilegna ⟨ket⟩ sadiay kenka, a dagiti dalan adda iti pusoda.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Naragsak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "bileg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "dagiti dalan"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "iti pusoda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:22.472284885Z",
+  "model": "glm-5.3"
+}

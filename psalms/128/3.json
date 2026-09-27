@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 128,
+  "translation": "Ti asawam a kas ubas nga adu ti bunga, iti siping dagiti sango ti balaymo; dagiti annakmo a kas dagiti mula ti olio, iti likmut ti lamisaam.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Ti asawam"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "a kas ubas"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "nga adu ti bunga"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "iti siping dagiti sango"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ti balaymo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dagiti annakmo"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "a kas dagiti mula"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ti olio"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iti likmut"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "ti lamisaam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:11.600026707Z",
+  "model": "glm-5.3"
+}

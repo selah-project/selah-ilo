@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Asidegan ni Yahweh dagiti nabennat ti puso, ken ⟨את⟩ dagiti nabennat nga espiritu isalakannana.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Asidegan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "dagiti nabennat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti nabennat nga espiritu"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "dagiti nabennat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ngaan espiritu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "isalakannana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:02.657295279Z",
+  "model": "glm-5.3"
+}

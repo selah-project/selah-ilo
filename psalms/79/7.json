@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 79,
+  "translation": "Ta nangananda ⟨את⟩ ni Yaakov, ken ⟨את⟩ pagtaenganna indadaelanda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nangananda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "pagtaenganna"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "pagtaenganna"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "indadaelanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:22.725061035Z",
+  "model": "glm-5.3"
+}

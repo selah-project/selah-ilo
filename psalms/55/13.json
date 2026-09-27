@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "Ta saan a kabusor ti nangdunga kaniak, ket maawatko; saan ti mannakaykayat kaniak ti nagdakkel a sumungdat kaniak, ket aglemmengak koma manipud kenkuana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kabusor"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "nangdunga kaniak"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ket maawatko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "mannakaykayat kaniak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "nagdakkel"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ket aglemmeng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:42.170815750Z",
+  "model": "glm-5.3"
+}

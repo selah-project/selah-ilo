@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ngem sika nasantuan, agnanaed kadagiti daydayaw ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ngem sika"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "kadagiti daydayaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:07.854511522Z",
+  "model": "glm-5.3"
+}

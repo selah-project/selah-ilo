@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket inikkatko ⟨את⟩ ti rupak kenni Adonay ti Elohim, nga agpatalged iti agsasarita ken panangidarumas, iti panagayuno ken sako ken dapo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ket inikkatko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "nga agpatalged"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "iti agsasarita"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "ken panangidarumas"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "iti panagayuno"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ken sako"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ken dapo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:19:51.295529093Z",
+  "model": "glm-5.3"
+}

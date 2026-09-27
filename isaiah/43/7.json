@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Ti amin a maawagan ⟨iti⟩ naganko ken para iti daydayawko — pinarsuak, binalonko, ampay ket inaramidko.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ti amin"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "maawagan"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "iti naganko"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "ken para iti daydayawko"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "pinarsuak"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "binalonko"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ampay ket"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "inaramidko"
+    }
+  ],
+  "timestamp": "2026-09-26T15:23:38.634438178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Inawagan ti ari ti Mitsrayim dagiti partera, ket kinunana kaniada: Apay nga inaramidyo daytoy a sao, a binbiaganyo ⟨את⟩ dagiti ubbing?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inawagan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "dagiti partera"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "להן",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "apay"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "inaramidyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "daytoy a sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "binbiaganyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ubbing"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "dagiti ubbing"
+    }
+  ],
+  "timestamp": "2026-09-26T03:25:09.402706998Z",
+  "model": "glm-5.3"
+}

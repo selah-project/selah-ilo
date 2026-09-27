@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Daytoy ti libro ti kaputotan ni Adam; iti aldaw a pinarsua ni Elohim ⟨את⟩ ni Adam, iti kapanunutan a kas iti Elohim inaramidna ⟨iti⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Daytoy"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "kaputotan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "pinarsua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "iti kapanunutan a kas iti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "⟨iti⟩ (ti paruaragan, ni Adam)"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:51.128162826Z",
+  "model": "glm-5.3"
+}

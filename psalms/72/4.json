@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Ukomenna dagiti nakakapuy ti umili, isalakanna dagiti anak ti nakapusgan, ket dadaelenna ti mannakarigat.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Ukomenna"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "dagiti nakakapuy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "isalakanna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ti nakapusgan"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "ket dadaelenna"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "ti mannakarigat"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:24.295443936Z",
+  "model": "glm-5.3"
+}

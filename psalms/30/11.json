@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Dengngegmo, Yahweh, ket itedmo kaniak ti kaasim; Yahweh, agbalin koma a katulong kaniak.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dengngegmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ket itedmo kaniak ti kaasim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "agbalin koma"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "a katulong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:02:28.501899890Z",
+  "model": "glm-5.3"
+}

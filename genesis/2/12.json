@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket ti balitok ti dayta a daga ket nasiat; sadiay ti bedolah ken ti bato ti shoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ket ti balitok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti dayta a daga"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ket nasiat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ti bedolah"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ken ti bato"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ti shoham"
+    }
+  ],
+  "timestamp": "2026-09-26T01:37:29.105923668Z",
+  "model": "glm-5.3"
+}

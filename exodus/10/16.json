@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Napardas nga inawagan ni Paro ni Moshe ken ni Aharon, ket kinuna: Nagbasolak kenni Yahweh nga Elohimyo ken kadakayo.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Napardas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "nga inawagan"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ken ni Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Nagbasolak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga Elohimyo"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ken kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:41:07.467865915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Pinanunotko dagiti aldaw idi ugma, dagiti tawen ti agnanayon.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Pinanunotko"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "idi ugma"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "dagiti tawen"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:51:01.057523963Z",
+  "model": "glm-5.3"
+}

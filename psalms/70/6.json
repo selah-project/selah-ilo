@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 70,
+  "translation": "Ngem siak ket napanglaw ken awan ti mabalin; Apo Elohim, tarayam koma kaniak; ti katulongko ken ti mannakaisalakanko sika, Yahweh; saanmo koma nga aginana.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngem siak"
+    },
+    {
+      "surface": "עני",
+      "gloss": "napanglaw"
+    },
+    {
+      "surface": "ויאמרו ואביון",
+      "gloss": "ken awan ti mabalin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Apo Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "tarayam koma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ti katulongko"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ken ti mannakaisalakanko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "nga aginana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:41:43.521661738Z",
+  "model": "glm-5.3"
+}

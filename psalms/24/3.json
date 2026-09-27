@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Asinto ti umay ngato iti bantay ni Yahweh, ken asinto ti agtakder iti nasantuan a dissona?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "asinto"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ti umay ngato"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ken asinto"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ti agtakder"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iti disso"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ti nasantuan a dissona"
+    }
+  ],
+  "timestamp": "2026-09-26T21:03:34.077226948Z",
+  "model": "glm-5.3"
+}

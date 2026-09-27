@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "No kinunak, 'Ti sakak ti matnag', ti hesedmo, Yahweh, isu ti mangted suporta kaniak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "matnag"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ti sakak"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "suportannak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:57.013700347Z",
+  "model": "glm-5.3"
+}

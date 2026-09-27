@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kinuna ni Eliyahu iti amin a umili: Agasidegkayo kaniak. Ket immasidegda amin a umili kenkuana, ket inulitna ⟨את⟩ ti altar ni Yahweh a nadadael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a umili"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "agasidegkayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "immasidegda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a umili"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "inulitna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti altar ni Yahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "a nadadael"
+    }
+  ],
+  "timestamp": "2026-09-26T13:05:38.194890250Z",
+  "model": "glm-5.3"
+}

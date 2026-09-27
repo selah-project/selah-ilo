@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "No kasano nga inaramidna dagiti tandana iti Mitsrayim ken dagiti pammaniwenna iti talon ti Tsoan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "No kasano nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "dagiti tandana"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "ken dagiti pammaniwenna"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "צען",
+      "gloss": "ti Tsoan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:09.879042129Z",
+  "model": "glm-5.3"
+}

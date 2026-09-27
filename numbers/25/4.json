@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Alaen ⟨את⟩ amin a pangulu ti tattao, ken ipailadanda ⟨את⟩ da iti sango ni Yahweh, iti sanguan ti init, ket agsubli ti timmaray iti dungngo ni Yahweh manipud kenni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Alaen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a pangulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "ipailadanda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "da (dagiti pangulu)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "iti sango ni Yahweh"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "timmaray"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iti dungngo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "manipud kenni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T07:00:16.696109318Z",
+  "model": "glm-5.3"
+}

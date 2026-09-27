@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Iti dagiti ima daanto sango kenka, Apo — ⟨adda⟩ — masapul a saan a madungpar ti sakaam iti maysa a bato.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "dagiti ima"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "idaanto sango kenka"
+    },
+    {
+      "surface": "פן",
+      "gloss": "masapul a saan"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "a madungpar"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "iti maysa a bato"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ti sakaam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:09.893682181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kinapudno ti biag ni Peleg tallopulo a tawen, ken nagputot ⟨את⟩ ni Reu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Kinapudno ti biag"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tallopulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ken nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    }
+  ],
+  "timestamp": "2026-09-26T01:54:24.013659747Z",
+  "model": "glm-5.3"
+}

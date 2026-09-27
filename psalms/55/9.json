@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "Ipardasak ti panagtalaw kaniak, manipud iti angin a rimmurush, manipud iti allodos.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "Ipardasak"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "ti panagtalaw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "manipud iti angin"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "a rimmurush"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "manipud iti allodos"
+    }
+  ],
+  "timestamp": "2026-09-26T21:27:46.384625011Z",
+  "model": "glm-5.3"
+}

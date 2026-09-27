@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 75,
+  "translation": "Amin a sara ti umili a dakes pukawenko, ngem matayaganda dagiti sara ti nalinteg.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "sara"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ti umili a dakes"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "pukawenko"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "matayaganda"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "dagiti sara"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T21:47:20.818541333Z",
+  "model": "glm-5.3"
+}

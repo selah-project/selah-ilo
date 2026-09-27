@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Inaramidna dagiti baras iti kayo a shittim, ket kinapalananna ⟨ti⟩ ida iti balitok.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Inaramidna"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "baras"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kinapalananna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dagiti baras"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T04:44:34.631880278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ket kinuna ni Lavan: Nasaysayaat nga itedko ⟨את⟩ kenkuana kenka ngem no itedko ⟨את⟩ kenkuana iti sabali a lalaki; agnaedka kaduak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasaysayaat"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "nga itedko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ kenkuana",
+      "marks": "iti panangited kenka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ngem no itedko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ kenkuana",
+      "marks": "iti sabali a lalaki"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "iti lalaki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "a sabali"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "agnaedka"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kaduak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:29:17.625145187Z",
+  "model": "glm-5.3"
+}

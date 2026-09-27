@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 12:31",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Saanmo nga aramiden ti kasta kenni Yahweh, ti Elohimmo, ta amin a kasukalannget ni Yahweh a naay-ayanna, inaramid ida kadagiti diosda; ta uray ti ⟨את⟩ annakda a lalaki ken ti ⟨את⟩ annakda a babai, papuoranda ida iti apoy kadagiti diosda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saanmo nga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramiden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ti kasta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohimmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "a kasukalannget"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "naay-ayanna"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramid ida"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "kadagiti diosda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti annakda a lalaki"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "dagiti annakda a lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti annakda a babai"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "dagiti annakda a babai"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "papuoranda"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "kadagiti diosda"
+    }
+  ],
+  "timestamp": "2026-09-26T08:04:32.625653641Z",
+  "model": "glm-5.3"
+}

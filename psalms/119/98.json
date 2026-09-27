@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Babaen kadagiti bilinmo nangtedannak ti kinasirib ngem kadagiti kabusorko, ta iti agnanayon isuda kaduak.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "ngem kadagiti kabusorko"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "nangtedannak ti kinasirib"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "babaen kadagiti bilinmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaduak"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:32.316506854Z",
+  "model": "glm-5.3"
+}

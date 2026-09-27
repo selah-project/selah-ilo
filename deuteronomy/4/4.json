@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ngem dakayo a nakapet ken ni Yahweh ti Elohim yo, sibibiagkayo amin, ita nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ngem dakayo"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "a nakapet"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ken ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohim yo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sibibiagkayo"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T07:43:35.937239333Z",
+  "model": "glm-5.3"
+}

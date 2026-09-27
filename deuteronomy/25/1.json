@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "No adda ti supiatan a nagbaetan dagiti lalaki, ket umasidegda iti panangipateg, ket ipateganda ida, ket ipatungpalda ti naisalumina a nalinteg ken ti naisalumina a dakes,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "supiatan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "a nagbaetan"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "ket umasidegda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "panangipateg"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ket ipateganda ida"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ket ipatungpalda ti naisalumina a nalinteg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nalinteg"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ket ipatungpalda ti naisalumina a dakes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dakes"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T08:24:23.859711245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "ket iyegmo iti amam ken mangananto, tapno bendisionannaka sakbay ti ipupusayna.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "iyegmo"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "iti amam"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ken mangananto"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "bendisionannaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sakbay"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "ti ipupusayna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:29:36.781995501Z",
+  "model": "glm-5.3"
+}

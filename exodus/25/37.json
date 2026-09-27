@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Aramidenmo ⟨את⟩ dagiti lamparanna, dagiti pito, ken ipangatona ⟨את⟩ dagiti lamparanna, ket silnanda iti ruar ti rupana.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aramidenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lamparanna"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dagiti lamparanna"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "dagiti pito"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ipangatona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lamparanna"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dagiti lamparanna"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "silnanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ruar"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ti rupana"
+    }
+  ],
+  "timestamp": "2026-09-26T04:16:10.983595131Z",
+  "model": "glm-5.3"
+}

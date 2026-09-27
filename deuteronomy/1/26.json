@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket saan kayo a nagay-ayat nga sumanged ngato, ket nagrebeldekayo ⟨את⟩ ti ngiwat ni Yahweh ti Elohimyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saan kayo"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "a nagay-ayat"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "nga sumanged ngato"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ket nagrebeldekayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ngiwat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohimyo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:02:05.155926309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Shigaion ni David, a kinanta kenni Yahweh, maipapan kadagiti sao ni Kush, anak a Benjamita.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kinanta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipapan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kadagiti sao"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ni Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "a Benjamita"
+    }
+  ],
+  "timestamp": "2026-09-26T20:46:48.499924095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kitaem ⟨את⟩ ti aramid ti Elohim, ta sino ti makabalin nga ipalintegna ⟨את⟩ ti inlikudna?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramid"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ti makabalin"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "nga ipalintegna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inlikudna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "inlikudna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:33.763370401Z",
+  "model": "glm-5.3"
+}

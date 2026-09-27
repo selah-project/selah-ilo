@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Kinuna ti Elohim ti Yisrael kaniak, nagsao ti Bato ti Yisrael: agturay kadagiti tao ti nalinteg, a mangituray iti panagbuteng ti Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ti Bato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "agturay"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kadagiti tao"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "a mangituray"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "iti panagbuteng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T12:13:45.464984446Z",
+  "model": "glm-5.3"
+}

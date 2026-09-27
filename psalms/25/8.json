@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Naimbag ken nalinteg ni Yahweh; gapu kasta isursurona dagiti makabasol iti dalan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Naimbag"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ken nalinteg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "isursurona"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dagiti makabasol"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:01:31.582439589Z",
+  "model": "glm-5.3"
+}

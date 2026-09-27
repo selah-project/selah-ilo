@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Nagna isuna manipud ⟨את⟩ kenni Elisha, ket simmangpet kenni apo-na, ket kinuna kennuana: Ania ti kinuna kenniam ni Elisha? Ket kinuna: Kinuna kaniak: Agbiagka, agbiagka.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ⟨את⟩"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "kenni Elisha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "simmangpet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "apo-na"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kinuna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenniam"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "agbiag"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "agbiagka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:31.037020671Z",
+  "model": "glm-5.3"
+}

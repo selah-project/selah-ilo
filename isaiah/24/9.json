@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Iti kanta saan da umunun ⟨את⟩ ti binok; nagpaait ti arak kadagiti umumin kaniana.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "iti kanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "da umunun"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ti binok"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "nagpaait"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ti arak"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "kadagiti umumin kaniana"
+    }
+  ],
+  "timestamp": "2026-09-26T14:52:23.152559321Z",
+  "model": "glm-5.3"
+}

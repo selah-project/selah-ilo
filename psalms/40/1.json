@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Kadagiti ima ti agituray iti musika. Maysa a salmo ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kadagiti ima ti agituray iti musika"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Maysa a salmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:17:01.879158266Z",
+  "model": "glm-5.3"
+}

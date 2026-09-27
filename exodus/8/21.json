@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Immawag ni Paro kenni Moshe ken kenni Aharon, ket kinuna: Inkan, agdatonkayo iti Elohimyo iti daga.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "immawag"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ken kenni Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "inkan"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "agdatonkayo"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "iti Elohimyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T03:39:55.184493714Z",
+  "model": "glm-5.3"
+}

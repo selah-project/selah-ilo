@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket nakita ti Elohim ⟨את⟩ dagiti ar-aramiddada, a nagsinublida manipud iti dakes a dalanda, ket nagbaliw ti puso ti Elohim iti dakes a nagsaona nga aramiden kadakuada, ket saanna nga inaramid.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ar-aramiddada"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "dagiti ar-aramiddada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "nagsinublida"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "manipud iti dalanda"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ket nagbaliw ti puso"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nga inaramid"
+    }
+  ],
+  "timestamp": "2026-09-26T20:00:11.550663863Z",
+  "model": "glm-5.3"
+}

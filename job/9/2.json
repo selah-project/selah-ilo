@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Napudno nga ammoek a kastoy daytoy; ngem kasano a malinteg ti tao kadua ni El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Napudno"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ammoek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kastoy daytoy"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ngem kasano"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "a malinteg"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    }
+  ],
+  "timestamp": "2026-09-26T22:49:22.309962477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 95,
+  "translation": "Umaykayo, agtulkogkami ken agtulongokkami, agluklukmaykami iti sango ni Yahweh ti nangaramid kadakayto.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "umaykayo"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "agtulkogkami"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "agtulongokkami"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "agluklukmaykami"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "nangaramid kadakayto"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:13.842555113Z",
+  "model": "glm-5.3"
+}

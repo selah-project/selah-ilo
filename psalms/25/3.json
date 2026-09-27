@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Pay, ti amin nga umur-uray kenka, saanda a mabain; mabainda dagiti mangibbet nga awan rason.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Pay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "nga umur-uray kenka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "a mabain"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mabainda"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "dagiti mangibbet"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ngaan awan rason"
+    }
+  ],
+  "timestamp": "2026-09-26T21:02:29.138734187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Dagiti lallaki ti dara nasnadaa ti naan-anay a tao; ngem dagiti nalinteg suksukenda ti kararuana.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "nasnadaa"
+    },
+    {
+      "surface": "תם",
+      "gloss": "naan-anay"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "suksukenda"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ti kararuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:55.431740551Z",
+  "model": "glm-5.3"
+}

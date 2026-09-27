@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 5:6",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Idi ti aldaw ni Shamgar, anak a lalaki ni Anat, idi ti aldaw ni Yael, napukaw dagiti dalan, ket dagiti agmagna kadagiti dalan nagnaanda kadagiti dalan a nabalkig.",
+  "tokens": [
+    {
+      "surface": "בימי",
+      "gloss": "idi ti aldaw ni"
+    },
+    {
+      "surface": "שמגר",
+      "gloss": "Shamgar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "Anat"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "idi ti aldaw ni"
+    },
+    {
+      "surface": "יעל",
+      "gloss": "Yael"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "napukaw"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "dagiti dalan"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "ket dagiti agmagna kadagiti"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nagnaanda"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "kadagiti dalan"
+    },
+    {
+      "surface": "עקלקלות",
+      "gloss": "a nabalkig"
+    }
+  ],
+  "timestamp": "2026-09-26T09:44:07.092315010Z",
+  "model": "glm-5.3"
+}

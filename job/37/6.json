@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ta iti niebe kinunana: Adda koma iti daga; ken iti nakapsot nga udan, ken iti udan ti bilegna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "iti niebe"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Adda koma"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "nakapsot nga udan"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "udan"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ti bilegna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:59:28.134046111Z",
+  "model": "glm-5.3"
+}

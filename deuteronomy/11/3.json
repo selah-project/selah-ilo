@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken ⟨את⟩ dagiti senialna ken ⟨את⟩ dagiti ar-aramidda a inaramidna idi uneg ti Mitsrayim, kenni Paro ari ti Mitsrayim ken iti amin a dagnana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti senialna"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "dagiti senialna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ar-aramidda"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "dagiti ar-aramidda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "idi uneg"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kenni Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "a dagnana"
+    }
+  ],
+  "timestamp": "2026-09-26T07:54:12.897039441Z",
+  "model": "glm-5.3"
+}

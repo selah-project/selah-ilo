@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Kastoy ti kinuna ni Yahweh: Salaknibennakayo ti ukom ken aramidennakayo ti kinalinteg, ta asideg ti panangisalakanko a dumteng ken ti kinalintegko a maiparang.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kastoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "Salaknibennakayo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "aramidennakayo"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kinalinteg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "asideg"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "panangisalakanko"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "a dumteng"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "kinalintegko"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "a maiparang"
+    }
+  ],
+  "timestamp": "2026-09-26T15:50:24.287159962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Ti agsaksakripisio iti panagyaman idaydayawannak, ken ti agisaad ti dalanna, ipakitakannuanna ti panangisalakan ti Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Ti agsaksakripisio"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "iti panagyaman"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "idaydayawannak"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ken ti agisaad"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ti dalanna"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ipakitakannuanna"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "ti panangisalakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:55.345709046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Agipatakder ni Yahweh ti Yerushalayim, urnongenna dagiti naiwaras nga umili ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "agipatakder"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "dagiti naiwaras"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga umili ti Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "urnongenna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:09.104889611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "ken agaramid iti hesed kadagiti sangaribu a kaputotan, kadagiti agay-ayat kaniak ken kadagiti agbaliwala kadagiti bilin ko.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ken agaramid"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "iti hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kadagiti sangaribu a kaputotan"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kadagiti agay-ayat kaniak"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ken kadagiti agbaliwala"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kadagiti bilin ko"
+    }
+  ],
+  "timestamp": "2026-09-26T03:55:55.645759546Z",
+  "model": "glm-5.3"
+}

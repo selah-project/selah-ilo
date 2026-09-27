@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 54,
+  "translation": "Ta mapukawanto dagiti bantay, ken matnaganda dagiti turod; ngem ti hesedko ket saan a mapukaw manen kenka, ket ti tulag ti kappiak, saan a matnaganto, kinuna ni Yahweh, ti agay-ayat kenka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "mapukawanto"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "ken dagiti turod"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "matnaganda"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ti hesedko"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kenka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "mapukaw"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "ti kappiak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "matnaganto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "ti agay-ayat kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T15:44:25.258063903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket itedko ⟨את⟩ ti Yerushalayim a timbukel, a pagtaengan dagiti aso a danaw; ken ⟨את⟩ dagiti ili ti Yehudah itedko a kadadaelan, nga awan agnanaed.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ket itedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "a timbukel"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "pagtaengan"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "dagiti aso a danaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ili ti Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "kadadaelan"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nga awan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "agnanaed"
+    }
+  ],
+  "timestamp": "2026-09-26T16:37:28.375509846Z",
+  "model": "glm-5.3"
+}

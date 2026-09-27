@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Ti Elohim, kadagiti kastiliona, ammo a kas maysa a nalatak a kuta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ti Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "kadagiti kastiliona"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "a kas maysa a nalatak a kuta"
+    }
+  ],
+  "timestamp": "2026-09-26T21:25:31.694594925Z",
+  "model": "glm-5.3"
+}

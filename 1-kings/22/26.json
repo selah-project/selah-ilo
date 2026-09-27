@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Kinuna ti ari ti Yisrael: Alaenyo ⟨את⟩ ni Mikhayahu ken ipawingkayonyo kenni Amon, ti daulo ti ili, ken kenni Yoash, anak ti ari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "alaenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Mikhayahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "ipawingkayonyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti daulo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "kenni Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T13:17:12.859302274Z",
+  "model": "glm-5.3"
+}

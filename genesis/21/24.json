@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Kinuna ni Avraham: Siak, agsumpaak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "agsumpaak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:12:00.837799140Z",
+  "model": "glm-5.3"
+}

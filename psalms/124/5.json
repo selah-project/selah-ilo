@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 124,
+  "translation": "Idi laeng lumabas ti sumaruno kadagiti kararuatayo ti danum, dagiti ubbog nga agwan-wan —",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "idi laeng"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti sumaruno"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "kadagiti kararuatayo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "dagiti ubbog nga agwan-wan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:52.131614840Z",
+  "model": "glm-5.3"
+}

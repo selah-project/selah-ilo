@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ket inyalikanda kaniak ti likud, saan ti rupa; ket nangisuroak ⟨iti⟩ panaginana nga agsapa ken agsuro, ngem saanda nga agdengngeg nga alaenda ti disiplina.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "inyalikanda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ti likud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ti rupa"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "nangisuroak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "nga agsapa"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "ken agsuro"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "agdengngeg"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "nga alaenda"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ti disiplina"
+    }
+  ],
+  "timestamp": "2026-09-26T17:26:16.957301920Z",
+  "model": "glm-5.3"
+}

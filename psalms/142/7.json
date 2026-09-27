@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 142,
+  "translation": "Pakinggaem ti rina ko, ta naibabaak un-unno; isalakannak kadagiti manaratak kaniak, ta napigsaanda un-unno kaniak.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "pakinggaem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "rina ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "naibabaak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "un-unno"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "isalakannak"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "manaratak kaniak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "napigsaanda"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:58.951238062Z",
+  "model": "glm-5.3"
+}

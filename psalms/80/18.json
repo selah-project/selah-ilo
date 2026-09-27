@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Adda koma ti imam iti lalaki ti kanawanmo, iti anak ti tao a pinigsaam para kenka.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "adda koma"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ti kanawanmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "a pinigsaam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:27.128917138Z",
+  "model": "glm-5.3"
+}

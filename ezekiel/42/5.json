@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ken ti nangatngato a kuarto ket nabiit, ta ti galeria ket mangala kadakuada, manipud kadagiti bab-ab ken manipud kadagiti tengnga ti pasdek.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "ken ti kuarto"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "nangatngato"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "nabiit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "mangala"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "ti galeria"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "manipud kadagiti bab-ab"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "ken manipud kadagiti tengnga"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "ti pasdek"
+    }
+  ],
+  "timestamp": "2026-09-26T19:14:12.434163481Z",
+  "model": "glm-5.3"
+}

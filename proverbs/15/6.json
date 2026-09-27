@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti balay ti nalinteg adda ti adu a kayamanan, ngem iti apit ti dakes a tao adda ti narigat.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "ngem iti apit"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes a tao"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "narigat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:38:25.498934920Z",
+  "model": "glm-5.3"
+}

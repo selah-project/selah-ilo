@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket inaramidna ti kinapigsa, ken sinuktanna ⟨את⟩ ni Amalek, ket isalakanna ⟨את⟩ ti Yisrael manipud iti ima ti mannakawnar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ti kinapigsa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sinuktanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ni Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "isalakanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "ti mannakawnar"
+    }
+  ],
+  "timestamp": "2026-09-26T10:48:09.419800300Z",
+  "model": "glm-5.3"
+}

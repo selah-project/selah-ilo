@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ti tulagko saan a pagdakesen, ket ti agruar kadagiti bibigko saan a baliwen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "a pagdakesen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ket ti agruar"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "kadagiti bibigko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "a baliwen"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:45.070666683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Inaramidna nga apo ti balayna, ken agturay iti amin a tagikuana.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "apo"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ti balayna"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ken agturay"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "tagikuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:16.568008567Z",
+  "model": "glm-5.3"
+}

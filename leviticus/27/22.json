@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "No ti ipasantona kenni Yahweh ⟨את⟩ talon a tinagalna, a saan a maysa kadagiti talon ti pannakaaddana:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "No"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "talon"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "a tinagalna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "kadagiti talon"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ti pannakaaddana"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "ipasantona"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:59:10.773558587Z",
+  "model": "glm-5.3"
+}

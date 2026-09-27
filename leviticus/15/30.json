@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Aramidenna ti padi ti maysa ⟨את⟩ a sakripisio ti basol, ken ti maysa ⟨את⟩ a sakripisio a naipagato, ket paknaananna ti padi iti sanguan ni Yahweh maipanggep iti panagayus ti kinarugitna.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Aramidenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maysa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sakripisio ti basol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti maysa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sakripisio a naipagato"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "paknaananna"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "maipanggep kenkuana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "panagayus"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "kinarugitna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:31:44.008222854Z",
+  "model": "glm-5.3"
+}

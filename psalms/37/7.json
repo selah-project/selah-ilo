@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Aginanka iti dati ni Yahweh ken agurayka Kenkuana; saanmo a agsudsudak no umakar ti dalanna, no ti lalaki nga agaramid kadagiti dakes a plano.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Aginanka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "iti dati ni Yahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "ken agurayka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Kenkuana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "agsudsudak"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "no umakar"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ti dalanna"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "no ti lalaki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nga agaramid"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "kadagiti dakes a plano"
+    }
+  ],
+  "timestamp": "2026-09-26T21:11:14.346071190Z",
+  "model": "glm-5.3"
+}

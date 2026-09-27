@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 16:15",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Patayenna ⟨את⟩ ti kanding ti basol a para iti umili, ken iyeganna ⟨את⟩ ti darana iti uneg ti paroket, ket aramidenna ⟨את⟩ ti darana a kas iti inaramid iti dara ti baka, ken wisikanna ⟨את⟩ dayta iti ngato ti kapporet ken sadiay sanguan ti kapporet.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "patayenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kanding"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kanding"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "para iti umili"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "iyeganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti darana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uneg"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti darana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "wisikanna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (ti dara)"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ken sadiay sanguanan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet"
+    }
+  ],
+  "timestamp": "2026-09-26T05:34:43.178388722Z",
+  "model": "glm-5.3"
+}

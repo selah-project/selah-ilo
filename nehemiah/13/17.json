@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 13:17",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket rimmandak kadagiti nangatu a lallaki ni Yehudah, ken kinunak kaniada: Ania daytoy a dakes a sao a ar-aramidenyo, ken mangdadael ⟨את⟩ ti aldaw ti Shabbat?",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "rimmandak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti nangatu a lallaki ni Yehudah"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "dagiti nangatu a lallaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ken kinunak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a dakes"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ar-aramidenyo"
+    },
+    {
+      "surface": "ומחללים",
+      "gloss": "ken mangdadael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aldaw ti Shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ti Shabbat"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:19.193817847Z",
+  "model": "glm-5.3"
+}

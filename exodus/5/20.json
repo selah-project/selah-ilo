@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Simmanglada kenni Moshe ken ⟨את⟩ kenni ni Aharon, agtakderda a mangsango kadakuada, idi rummuarda manipud ⟨את⟩ ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "simmanglada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "agtakderda"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "a mangsango kadakuada"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "idi rummuarda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T03:35:39.158691391Z",
+  "model": "glm-5.3"
+}

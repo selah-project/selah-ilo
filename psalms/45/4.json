@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Igakodam ti tabakmo iti paa, o napigsa; ti daydayawmo ken ti kinapintasmo.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Igakodam"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ti tabakmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "paa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "o napigsa"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ti daydayawmo"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ken ti kinapintasmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:55.945452130Z",
+  "model": "glm-5.3"
+}

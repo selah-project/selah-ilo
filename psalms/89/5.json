@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Iti agnanayon ipatakderko ti impanmo, ken ipatindagko ti trononomo iti kaputotan ken kaputotan. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ipatakderko"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ti impanmo"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ket ipatindagko"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "iti kaputotan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ken kapototan"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ti trononomo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:17.798529532Z",
+  "model": "glm-5.3"
+}

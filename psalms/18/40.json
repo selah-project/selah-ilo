@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ta binalutamak iti bileg iti panagubat; pinailukmoam dagiti agsupsupiat kaniak babaek.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "Ta binalutamak"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti panagubat"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "pinailukmoam"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "dagiti agsupsupiat kaniak"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "babaek"
+    }
+  ],
+  "timestamp": "2026-09-26T20:55:22.086311321Z",
+  "model": "glm-5.3"
+}

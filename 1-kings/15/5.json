@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ta inaramid ni David ⟨את⟩ ti nalinteg kadagiti mata ni Yahweh, ken saan a simmukat manipud iti aniaman a bilinanna, amin nga aldaw ti biagna, laeng iti banag ni Uriyah a Hittita.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nalinteg"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "סר",
+      "gloss": "simmukat"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manipud iti aniaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "binilinanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ti biagna"
+    },
+    {
+      "surface": "רק",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "iti banag"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriyah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a Hittita"
+    }
+  ],
+  "timestamp": "2026-09-26T12:55:39.512896789Z",
+  "model": "glm-5.3"
+}

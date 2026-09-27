@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Nagna ni David, isuna ken innem a gasut a lallaki a ⟨iti⟩ kuana, ket immayda agingga iti karayan ti Besor; ket dagiti naiwanan ket nagtakderda.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ken innem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lallaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kuana"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "iti karayan"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "ti Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "ket dagiti naiwanan"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nagtakderda"
+    }
+  ],
+  "timestamp": "2026-09-26T11:17:22.094154374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Salaknibem ti naning, ken kitaem ti nalinteg, ta ti patingga ti lalaki ti kappia.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Salaknibem"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ti naning"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ken kitaem"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ti patingga"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti kappia"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:34.818724055Z",
+  "model": "glm-5.3"
+}

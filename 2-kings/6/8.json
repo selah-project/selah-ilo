@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket ti ari ti Aram adda makigubat iti Yisrael, ket nagpayo kadagiti adipenna, nga kuna, iti disso a dita ken dita ti kampo ko.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "ket ti ari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "makigubat"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iti Yisrael"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "nagpayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "adipenna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "disso"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "a dita"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "ken dita"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ti kampo ko"
+    }
+  ],
+  "timestamp": "2026-09-26T13:23:56.752692759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Adda ti rigat iti daga, ket napan ni Avram iti baba iti Mitsrayim a mangsurog ⟨iti sadiay⟩, ta nadagsen unay ti rigat iti daga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Adda"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ket napan iti baba"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "a mangsurog"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iti sadiay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nadagsen unay"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T01:55:20.731635546Z",
+  "model": "glm-5.3"
+}

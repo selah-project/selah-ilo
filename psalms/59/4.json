@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Ta kitaem, naglemmengda tapno alaenda ti kararwak; timmiponda kaniak nga addaan bileg — saan a basolko ken saan a basolko, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "naglemmengda"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "tapno alaenda ti kararwak"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "timmiponda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "nga addaan bileg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "basolko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan a"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "basolko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:07.728555367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Saananna nga inaramid ti kasta iti aniaman a pagilian, ken dagiti ukomna saanda nga ammo ida. Dadayawenyo ni Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nga inaramidna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ti kasta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti aniaman a"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "pagilian"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ken dagiti ukomna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "nga ammo ida"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dadayawenyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:47.575837271Z",
+  "model": "glm-5.3"
+}

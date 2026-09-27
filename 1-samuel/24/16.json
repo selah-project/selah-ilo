@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Addanto ni Yahweh a Hukom, ket ukomenna ti nagbaetan dak kenka, ken kitaenna ken ibiribenna ⟨את⟩ ti pakandaak, ket isalakannak manipud iti imam.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Addanto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "a Hukom"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ket ukomenna"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ti nagbaetan dak"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ken kitaenna"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ken ibiribenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pakandaak"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ti pakandaak"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "isalakannak"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "manipud iti imam"
+    }
+  ],
+  "timestamp": "2026-09-26T11:06:58.706171625Z",
+  "model": "glm-5.3"
+}

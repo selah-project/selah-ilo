@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Kinuana ti umili ti daga ni Yehoachaz nga anak ni Yehoshiyahu, ket inarina ari ni Yehoachaz imbes nga amana, iti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ni Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ni Yehoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "inarina ari"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "imbes nga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amana"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:58:25.693733099Z",
+  "model": "glm-5.3"
+}

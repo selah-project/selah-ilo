@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ket nakaro a nangabak ni David iti Filistino babaen ti kaltien ken bato, ken inwiliganna ⟨את⟩ ti Filistino ken pinatayna; ket awan tabak iti ima ni David.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nakaro a nangabak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistino"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "babaen ti kaltien"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "ken bato"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "inwiliganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Filistino"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ti Filistino"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "pinatayna"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ket tabak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T10:57:20.551063064Z",
+  "model": "glm-5.3"
+}

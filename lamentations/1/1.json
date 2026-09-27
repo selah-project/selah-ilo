@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kasano nga nagnaed naganus ti ili, ti adu ti umilina! Nagbalin a kas ti mabalo, ti adu kadagiti umili, prinsesa kadagiti probinsia, nagbalin ⟨a⟩ pagbayadan!",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Kasano"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "naganus"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "adu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "a kas ti mabalo"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "adu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "prinsesa"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "kadagiti probinsia"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "למס",
+      "gloss": "pagbayadan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:05:51.034892204Z",
+  "model": "glm-5.3"
+}

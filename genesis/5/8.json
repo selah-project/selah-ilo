@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket nagbalin amin nga aldaw ni Shet iti sangapulo ket dua a tawen ken siam a gasut a tawen, ket pimmaday.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ni Shet"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ken siam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket pimmaday"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:29.932515429Z",
+  "model": "glm-5.3"
+}

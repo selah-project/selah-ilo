@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 32:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Dagiti babai a natalinaed, agtakderkayo, dengngegyo ti timekok; dagiti anak a babai a saan a mabuteng, agpayso a dengngegyo ti imbagak.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "dagiti babai"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "a natalinaed"
+    },
+    {
+      "surface": "קמנה",
+      "gloss": "agtakderkayo"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "dengngegyo"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ti timekok"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dagiti anak a babai"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "a saan a mabuteng"
+    },
+    {
+      "surface": "האזנה",
+      "gloss": "agpayso a dengngegyo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ti imbagak"
+    }
+  ],
+  "timestamp": "2026-09-26T15:02:10.241275273Z",
+  "model": "glm-5.3"
+}

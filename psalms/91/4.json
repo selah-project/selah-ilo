@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Babaen kadagiti barbakna luknongannakanto, ket babaen kadagiti payakna agkulkulumpanganto; ti unegna ket kalasag ken bikod.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Babaen kadagiti barbakna"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "luknongannakanto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ket babaen kadagiti"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "payakna"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "agkulkulumpanganto"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "kalasag"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "ken bikod"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ti unegna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:02.227475832Z",
+  "model": "glm-5.3"
+}

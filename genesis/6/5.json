@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken nakita ni Yahweh a dakkel ti dakes ti tao iti daga, ket ti amin a porma dagiti panpanunot ti pusona ket dakes laeng ti agtultuloy nga aldaw.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket ti amin"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "a porma"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "dagiti panpanunot"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "רק",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti agtultuloy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:29.652856050Z",
+  "model": "glm-5.3"
+}

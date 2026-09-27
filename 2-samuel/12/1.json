@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Insuro ni Yahweh ⟨ti⟩ ⟨את⟩ ni Natan kenni David, ket immay kenua, ket kinunana: Dua a lalaki idi adda iti maysa nga ili, ti maysa nakakapbaro ken ti maysa makaawis.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "insuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ni Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenua"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "a lalaki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "idi adda"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "nakakapbaro"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ken ti maysa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "makaawis"
+    }
+  ],
+  "timestamp": "2026-09-26T11:46:35.126783789Z",
+  "model": "glm-5.3"
+}

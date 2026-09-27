@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken siak met, inulit ko kadakayo ⟨את⟩ ti udan, idi adda pay tallo a bulan agingga iti apit; ket innuran ko iti maysa nga ili, ken iti maysa nga ili saan ko a pinauran; maysa a paset maudanan, ket ti paset a saan a maudanan iti nakaro, nalpa.",
+  "tokens": [
+    {
+      "surface": "וגגם",
+      "gloss": "ken siak met"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "inulit ko"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti udan"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ti udan"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "idi adda pay"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "a bulan"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "agingga iti apit"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "ket innuran ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "a pinauran"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "paset"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "maudanan"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "ken ti paset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "maudanan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iti nakaro"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "nalpa"
+    }
+  ],
+  "timestamp": "2026-09-26T19:52:02.845660856Z",
+  "model": "glm-5.3"
+}

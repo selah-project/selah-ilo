@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 20:1",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Nangngeg ni Pashchur, anak ni Immer a padi, a nagtaketako nga opisial a punuo iti balay ni Yahweh, a ni ⟨את⟩ Yirmeyahu agipropeta ⟨את⟩ dagiti sao a daytoy.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashchur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Immer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "padi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ken isu"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "opisial"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "punuo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "agipropeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T16:58:41.858525241Z",
+  "model": "glm-5.3"
+}

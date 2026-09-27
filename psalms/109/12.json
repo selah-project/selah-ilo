@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Saan koma nga adda mangilawlawag iti hesed kenkuana, ket saan koma nga adda makailina kadagiti naulilana.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan koma"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "משך",
+      "gloss": "mangilawlawag"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "iti hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saan koma"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "makailina"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "kadagiti naulilana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:59.719885622Z",
+  "model": "glm-5.3"
+}

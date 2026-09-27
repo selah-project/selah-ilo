@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "ket Itoykayo ⟨את⟩ kenni Elazar ti padi, ket iparuaranna ⟨את⟩ iti ruar ti kampo, ket patayenda ⟨את⟩ iti sanguana.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "Itoykayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ti nalabbasit a baka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "iparuaranna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ti baka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ruar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "patayenda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ti baka"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti sanguana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:59:12.479461581Z",
+  "model": "glm-5.3"
+}

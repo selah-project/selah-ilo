@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ta iti adu nga aldaw dagiti anak ni Yisrael agnaedda nga awan ti ari ken awan ti prinsipe, ken awan ti sakripisio ken awan ti naipatakder a bato, ken awan ti ephod ken dagiti terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iti adu nga aldaw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "agnaedda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti prinsipe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ti sakripisio"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ti naipatakder a bato"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ti ephod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ken dagiti terafim"
+    }
+  ],
+  "timestamp": "2026-09-26T19:32:39.603680476Z",
+  "model": "glm-5.3"
+}

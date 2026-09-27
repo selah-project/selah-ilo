@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket natay ni Elimelekh, ti lalaki ni Naomi, ket nabati isu ken dagiti dua nga anakna a lalaki.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "ni Elimelekh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ni Naomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ket nabati"
+    },
+    {
+      "surface": "היא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ken dagiti dua"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "nga anakna a lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T23:02:53.362700682Z",
+  "model": "glm-5.3"
+}

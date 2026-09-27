@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket inlaiddanda, inalada ⟨את⟩ ti ulona ken ⟨את⟩ dagiti armasna, ket ipinatulodda iti daga ti Pilisteo amin nga asideg, mangibaga ⟨את⟩ kadagiti didiosda ken ⟨את⟩ ti umili.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "inlaiddanda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulona"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ti ulona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti armasna"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dagiti armasna"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ipinatulodda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ti Pilisteo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "amin nga asideg"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "mangibaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti didiosda"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "kadagiti didiosda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:40.846320813Z",
+  "model": "glm-5.3"
+}

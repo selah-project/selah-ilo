@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Gapu iti sao a saanda a nangikasango kenyayo iti tinapay ken danum iti dalan, idi rummuar kayo manipud iti Mitsrayim, ken gapu ta inay-ayatda iti bayad kontra kenkayo ⟨את⟩ ni Bilam nga anak ni Beor, manipud iti Pethor iti Aram dagiti dua a karayan, a sumpaennakayo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "nangikasango"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kenyayo"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "iti tinapay"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ken danum"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "idi rummuar kayo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ken ta"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "inay-ayatda iti bayad"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kontra kenkayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "manipud iti Pethor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iti Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "dagiti dua a karayan"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "a sumpaennakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T08:20:16.208738698Z",
+  "model": "glm-5.3"
+}

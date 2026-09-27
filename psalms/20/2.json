@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Sungbatannaka ni Yahweh iti aldaw ti rigat; ipangatona ti nagan ti Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "sungbatannaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "ipangatona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:26.628372695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Dagiti pana dagiti napigsa a lallaki ket nadadaelda, ken dagiti natnegan ket sinikneanda iti bileg.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "dagiti pana"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "dagiti napigsa a lallaki"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "ket nadadaelda"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "ken dagiti natnegan"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "ket sinikneanda"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iti bileg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:03:12.270979845Z",
+  "model": "glm-5.3"
+}

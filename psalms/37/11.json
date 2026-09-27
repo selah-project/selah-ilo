@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ken dagiti naulbo, isuda ti agtagikuada iti daga, ken maragsakanda iti kaadu ti kappia.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "ken dagiti naulbo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "agtagikuada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ken maragsakanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kaadu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    }
+  ],
+  "timestamp": "2026-09-26T21:09:49.677348145Z",
+  "model": "glm-5.3"
+}

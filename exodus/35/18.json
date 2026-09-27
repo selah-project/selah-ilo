@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "⟨את⟩ dagiti pako ti Mishkan ken ⟨את⟩ dagiti pako ti liwa ken ⟨את⟩ dagiti lubid da.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pako ti Mishkan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "dagiti pako"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pako ti liwa"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "dagiti pako"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti liwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti lubid da"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "dagiti lubid da"
+    }
+  ],
+  "timestamp": "2026-09-26T04:34:15.589710501Z",
+  "model": "glm-5.3"
+}

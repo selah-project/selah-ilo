@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket saanda a sumrek nga agkita no kasano nga ikabil ⟨את⟩ ti nasantuan, ket agpatinggada.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "a sumrek"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nga agkita"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "iti maysa a sardam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nasantuan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantuan"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ket agpatinggada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:03.945139966Z",
+  "model": "glm-5.3"
+}

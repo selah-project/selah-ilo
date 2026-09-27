@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Sigurado a ti kinasayaat ken ti hesed ti mangtedped kaniak amin nga aldaw ti biag ko, ket agnaedak iti balay ni Yahweh agingga iti kaatiddog nga aldaw.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sigurado a"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ti kinasayaat"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ken ti hesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "ti mangtedped kaniak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ti biag ko"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "ket agnaedak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "agingga iti kaatiddog"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:50.485250845Z",
+  "model": "glm-5.3"
+}

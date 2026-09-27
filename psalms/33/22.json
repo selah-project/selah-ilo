@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Adda koma ti hesedmo, Yahweh, kaniakatoi, kas iti naguraykami Kenka.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "adda koma"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kaniakatoi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "naguraykami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:05.428528956Z",
+  "model": "glm-5.3"
+}

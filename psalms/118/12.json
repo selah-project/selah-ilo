@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Inarmanak a kas dagiti iggapo; naapoda a kas ti apoy dagiti dika; iti nagan ni Yahweh ta ipukawkokuda.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Inarmanak"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "a kas dagiti iggapo"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "naapoda"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "a kas ti apoy"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "dagiti dika"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ipukawkokuda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:26.803170337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Kalpasanna nakapukan ni Moshe iti panagsao ⟨ti⟩ amin dagitoy a sao ⟨את⟩ ti amin a sao iti amin a Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "nakapukan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "iti panagsao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a sao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T08:41:22.942619028Z",
+  "model": "glm-5.3"
+}

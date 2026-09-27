@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Achimaats, iti Naftali; isu met ket immala ⟨את⟩ kennu Basemat, anak a babai ni Shelomoh, a kas asawana.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "iti Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "immala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kennu Basemat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "kennu Basemat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a kas asawana"
+    }
+  ],
+  "timestamp": "2026-09-26T12:22:55.967885957Z",
+  "model": "glm-5.3"
+}

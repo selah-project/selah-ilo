@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "No agaanupka iti aanup iti Elohim, saanmo nga inuten ti panangpalna kenkuana; ta awan ti ragsak kadagiti awan sirsib; ⟨את⟩ ti agaanupmo, palnem.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "agaanupka"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "aanup"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "nga inuten"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "ti panangpalna kenkuana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ti ragsak"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "kadagiti awan sirsib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti agaanupmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "agaanupmo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "palnem"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:07.642344910Z",
+  "model": "glm-5.3"
+}

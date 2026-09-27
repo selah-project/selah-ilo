@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ti Salmo ni Davi. Ukomannak, Yahweh, ta siak iti kinalintegko nagna, ken iti Yahweh ti talekko, saanak a matnag.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti Salmo ni Davi"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Ukomannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "iti kinalintegko"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "ken iti Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ti talekko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "a matnag"
+    }
+  ],
+  "timestamp": "2026-09-26T21:03:58.332993229Z",
+  "model": "glm-5.3"
+}

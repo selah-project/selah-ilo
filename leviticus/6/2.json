@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Bilinenna ti ⟨את⟩ ni Aharon ken ⟨את⟩ dagiti annakna a kunaenna: daytoy ti Torah ti ayop a natuded; isu ti ayop a natuded iti rabaw ti sungrodna iti rabaw ti altar, ti amin a rabii agingga iti bigat; ket ti apoy ti altar mammo iti dayta.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Bilinenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti annakna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunaenna"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ti Torah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti ayop a natuded"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti ayop a natuded"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "sungrodna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ti rabii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ket ti apoy"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "mammo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T05:08:05.286141288Z",
+  "model": "glm-5.3"
+}

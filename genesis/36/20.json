@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Dagitoy ti dagiti anak a lalaki ni Seir ti Hori, dagiti agnaed iti daga: Lotan, ken Shoval, ken Tsibon, ken Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "ti Hori"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dagiti agnaed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ken Shoval"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "ken Tsibon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "ken Anah"
+    }
+  ],
+  "timestamp": "2026-09-26T02:48:01.030028964Z",
+  "model": "glm-5.3"
+}

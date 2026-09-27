@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Kinuna ni Yahweh kenni Moshe ken kenni Aharon: Daytoy ti bilin ti Pesach — ti tunggal anak ti ganganaet ket saan a mangan iti daytoy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken kenni Aharon"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ti Pesach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti tunggal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ti ganganaet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a mangan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T03:47:22.889884623Z",
+  "model": "glm-5.3"
+}

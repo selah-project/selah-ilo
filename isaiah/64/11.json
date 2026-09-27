@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 64,
+  "translation": "Iti dagitoy a banag, Yahweh, agsardengka pay laeng kadin? Agtalekanka kadi nga agsao ket itademtokami a nakaro?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "no iti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "agsardengka pay laeng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "agtalekanka"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "ket itademtokami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nakaro a kaadu"
+    }
+  ],
+  "timestamp": "2026-09-26T16:06:50.452416626Z",
+  "model": "glm-5.3"
+}

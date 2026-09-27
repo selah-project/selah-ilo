@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ken ti tao no tumuktok iti aniaman a kararua ti tao, matayen a matay.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "tumuktok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aniaman"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kararua"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a matay"
+    }
+  ],
+  "timestamp": "2026-09-26T05:49:42.088194347Z",
+  "model": "glm-5.3"
+}

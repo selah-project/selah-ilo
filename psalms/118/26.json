@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Bendisionan ti umay iti nagan ni Yahweh; binendisionankami kayo manipud iti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bendisionan"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ti umay"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "binendisionankami kayo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:13.210916166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 128,
+  "translation": "Bendisionannaka ni Yahweh manipud iti Tzion, ket kitaem ti naimbag nga Yerushalayim, amin dagiti aldaw ti biagmo.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Bendisionannaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "manipud iti Tzion"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ket kitaem"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ti naimbag"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ti biagmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:39.325224815Z",
+  "model": "glm-5.3"
+}

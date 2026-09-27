@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 122,
+  "translation": "Ta sadiay dagiti tribu ti agpangato, dagiti tribu ni Yah, a kas saksi iti Yisrael, nga agyaman iti nagan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Ta sadiay"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ti agpangato"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "dagiti tribu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "dagiti tribu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "a kas saksi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "iti Yisrael"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "nga agyaman"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:19.502530654Z",
+  "model": "glm-5.3"
+}

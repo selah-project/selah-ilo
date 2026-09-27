@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 138,
+  "translation": "Iti aldaw ti inawagak, ket insungbatMoak; inbilegMoak iti kararwak iti bileg.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ti inawagak"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "ket insungbatMoak"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "inbilegMoak"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "iti kararwak"
+    },
+    {
+      "surface": "עז",
+      "gloss": "iti bileg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:47.800820640Z",
+  "model": "glm-5.3"
+}

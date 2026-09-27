@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Idi nangngegek ⟨את⟩ daytoy a sao, risrek ⟨את⟩ ti badok ken ti abitok, ket inikkatko dagiti buok ti ulok ken ti barbakok, ket timmuknangak a nakurkurpayan.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "idi nangngegek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "risrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti badok"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ti badok"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "ken ti abitok"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "ket inikkatko"
+    },
+    {
+      "surface": "משער",
+      "gloss": "dagiti buok"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ti ulok"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ken ti barbakok"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ket timmuknangak"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "a nakurkurpayan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:26:54.112021928Z",
+  "model": "glm-5.3"
+}

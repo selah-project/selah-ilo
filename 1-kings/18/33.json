@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Inurnongna ⟨את⟩ dagiti kayo, ken tininnagna ⟨את⟩ ti baka, ken inayanna iti rabaw dagiti kayo.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "inurnongna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kayo"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dagiti kayo"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "tininnagna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "inayanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dagiti kayo"
+    }
+  ],
+  "timestamp": "2026-09-26T13:04:34.475213516Z",
+  "model": "glm-5.3"
+}

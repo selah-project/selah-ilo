@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Iti dagiti bibigko iniladawak ti amin a dagiti ukom ti ngiwatmo.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "iti dagiti bibigko"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "iniladawak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "a dagiti ukom"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ti ngiwatmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:10.701992474Z",
+  "model": "glm-5.3"
+}

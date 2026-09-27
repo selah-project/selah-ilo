@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ta kennam, Yahweh, nangurayak; Sika ti agsungbat, Adonay, Elohimko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kennam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "nangurayak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ti agsungbat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:11.465885556Z",
+  "model": "glm-5.3"
+}

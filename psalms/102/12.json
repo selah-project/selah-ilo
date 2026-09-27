@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Dagiti aldawko a kas ti natayag nga aninipud, ket siak a kas ti mula natangkar.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Dagiti aldawko"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "a kas ti aninipud"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "natayag"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "a kas ti mula"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "natangkar"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:28.496678224Z",
+  "model": "glm-5.3"
+}

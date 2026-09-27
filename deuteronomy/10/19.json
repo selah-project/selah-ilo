@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ay-ayatennoyo ⟨ti⟩ ⟨את⟩ ti estranghero, ta estranghero kayo idi iti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "Ay-ayatennoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti estranghero"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ti estranghero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "estranghero"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kayo idi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T07:51:59.193259240Z",
+  "model": "glm-5.3"
+}

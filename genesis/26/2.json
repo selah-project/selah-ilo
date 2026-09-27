@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Naparangarang ni Yahweh kenkuana ken kinuna: Saanmo a bumaba iti Mitsrayim; agiwdengka iti daga a ibagak kenka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "naparangarang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ken kinuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "bumaba"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "agiwdengka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ibagak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T02:24:39.235807186Z",
+  "model": "glm-5.3"
+}

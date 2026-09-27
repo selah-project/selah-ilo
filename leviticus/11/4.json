@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ngem ti ⟨את⟩ daytoy saan yo a makanan: kadagiti mangipato ti girah ken kadagiti mamissa ti pissa — ⟨את⟩ ti kamelio, ta mangipato ti girah isuna, ngem ti pissa saan na a masinaan; nakerugit isuna kadakayo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "kadagiti mangipato"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "ti girah"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "ken kadagiti mamissa"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "ti pissa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kamelio"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "ti kamelio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "mangipato"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "girah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ngem ti pissa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "awan"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "panagsinana"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nakerugit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:17:03.138254925Z",
+  "model": "glm-5.3"
+}

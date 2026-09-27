@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ti amianan ken ti abagatan, sika ti nagparua kadakuada; ni Tabor ken ni Hermon ragsakanda iti naganmo.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "ti amianan"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ken ti abagatan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "ti nagparua kadakuada"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "ni Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "ken ni Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "iti naganmo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ragsakanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:00.803819822Z",
+  "model": "glm-5.3"
+}

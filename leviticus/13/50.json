@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket kitaenna ti padi ⟨את⟩ ti innakdam, ket iserraanna ⟨את⟩ ti innakdam kadagiti pito nga aldaw.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ket kitaenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti innakdam"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti innakdam"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ket iserraanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti innakdam"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti innakdam"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "kadagiti pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngaadaw"
+    }
+  ],
+  "timestamp": "2026-09-26T05:23:52.173397841Z",
+  "model": "glm-5.3"
+}

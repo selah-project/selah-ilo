@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Ta simmarayanda kadagiti sao ni El, ken ti payo ti Elyon ileb-lebbenda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "simmarayanda"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kadagiti sao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ken ti payo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ti Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ileb-lebbenda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:44.373649811Z",
+  "model": "glm-5.3"
+}

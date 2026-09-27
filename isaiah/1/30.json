@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ta agbalinkayo a kas iti elah a natangken ti bulongna, ken kas iti hardin nga awan ti danumna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "agbalinkayo"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "a kas iti elah"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "natangken"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ti bulongna"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "ken kas iti hardin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-26T14:12:37.245932410Z",
+  "model": "glm-5.3"
+}

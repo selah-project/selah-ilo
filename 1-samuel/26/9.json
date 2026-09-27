@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Kinuna ni David kenni Avishay: saanmo nga agdadael kenkuana; ta sino ti nangted iti imana iti Mashiach ni Yahweh ket makaili?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo nga"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "agdadael kenkuana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nangted"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "iti Mashiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "ket makaili"
+    }
+  ],
+  "timestamp": "2026-09-26T11:17:35.633244744Z",
+  "model": "glm-5.3"
+}

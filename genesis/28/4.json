@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ket itednaka ⟨את⟩ ti bendision ni Avraham, kenka ken kadagiti kaputotam a ⟨את⟩ kaduam, tapno tagikuam ⟨את⟩ ti daga ti panagnaedmo a temporario, a naited ti Elohim kenni Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "itednaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bendision ni Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bendision"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ken kadagiti kapototam"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kaduam"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "tapno tagikuam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "panagnaedmo a temporario"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naited"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kenni Avraham"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:33.597393313Z",
+  "model": "glm-5.3"
+}

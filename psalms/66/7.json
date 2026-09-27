@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "Agturay iti bilegna agnanayon; dagiti matana kadagiti nasion agpaliiwda; dagiti agsupsupiat saan ⟨koma⟩ nga agngato ⟨iti bagida⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "Agturay"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "iti bilegna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "dagiti matana"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti nasion"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "agpaliiwda"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "dagiti agsupsupiat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "nga agngato"
+    },
+    {
+      "surface": "למו",
+      "gloss": "iti bagida"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:37:19.078464732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ta dagiti takking dagiti dakes a tao ket mabaliwandanda, ngem ni Yahweh ti suportaanna dagiti nalinteg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "dagiti takking"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes a tao"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "mabaliwandanda"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "suportaanna"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:26.730582489Z",
+  "model": "glm-5.3"
+}

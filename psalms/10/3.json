@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ta impadayaw ti dakes ti kayatna ti kararua; ket ti mangala-mit a nangidayaw, insuya ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "impadayaw"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "על",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ket ti mangala-mit"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "a nangidayaw"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "insuya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:01.810890795Z",
+  "model": "glm-5.3"
+}

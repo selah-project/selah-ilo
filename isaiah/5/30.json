@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 5:30",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket agungalokda kadakuada iti dayta nga aldaw a kas ti panangungalok ti baybay; ket no kitaen ⟨ti⟩ daga, ket adda, sipnget ken rigat, ken ti lawag nasipngetan iti ulepna.",
+  "tokens": [
+    {
+      "surface": "וינהם",
+      "gloss": "ket agungalokda"
+    },
+    {
+      "surface": "עליv",
+      "gloss": "kadakuada",
+      "note": "surface fixed below"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti dayta nga aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "כנהמת",
+      "gloss": "a kas ti panangungalok"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "ונבט",
+      "gloss": "ket no kitaen"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sipnget"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ken rigat"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ken ti lawag"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nasipngetan"
+    },
+    {
+      "surface": "בעריפיה",
+      "gloss": "iti ulepna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:22:04.514012710Z",
+  "model": "glm-5.3"
+}

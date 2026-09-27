@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "ket ammoenda a sika, ti naganmo Yahweh, nga isu laeng, ti Nangatngato iti amin a daga.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ket ammoenda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nga isu laeng"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ti Nangatngato"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:25.629711555Z",
+  "model": "glm-5.3"
+}

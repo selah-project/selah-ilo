@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "ket agbirukayo kaniak ⟨את⟩ ket makabirukayo, ta agbirukak kaniak iti amin a pusoyo.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ket agbirukayo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kaniak"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "ket makabirukayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "agbirukak kaniak"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "a pusoyo"
+    }
+  ],
+  "timestamp": "2026-09-26T17:16:38.446676582Z",
+  "model": "glm-5.3"
+}

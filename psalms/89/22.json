@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ti imaek ti agtakder kaduana, ket ti brasok ti mangipigsa kenkuana.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "imaek"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ket"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "brasok"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "mangipigsa kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:48.244825776Z",
+  "model": "glm-5.3"
+}

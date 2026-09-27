@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket na pan nagannaed iti gusdingan, ket inar-aramidna segun kadagiti amin a bilin ti nagannaedanna a maestra.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "na pan"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "iti gusdingan"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "inar-aramidna"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "segun kadagiti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "nagannaedanna a maestra"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:28.587619270Z",
+  "model": "glm-5.3"
+}

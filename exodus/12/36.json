@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket ni Yahweh imited ⟨את⟩ ti kinaay-ayat ti tattao kadagiti mata ti Mitsrayim, ket pinanawatandan, ket dinakawda ⟨את⟩ ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ket ni Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "imited"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kinaay-ayat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ti kinaay-ayat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "ket pinanawatandan"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "ket dinakawda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:47:04.545849644Z",
+  "model": "glm-5.3"
+}

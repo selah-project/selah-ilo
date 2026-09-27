@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 1:50",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket ni Adoniyahu nagbuteng kenni Shelomoh, ket nagtakder ken napan ket tinagnana dagiti tandok ti altar.",
+  "tokens": [
+    {
+      "surface": "ואדניהו",
+      "gloss": "ket ni Adoniyahu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagbuteng"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ket nagtakder"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ken napan"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ket tinagnana"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "dagiti tandok"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T12:19:53.250096170Z",
+  "model": "glm-5.3"
+}

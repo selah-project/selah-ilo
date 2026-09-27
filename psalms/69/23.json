@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Adda koma ti lamisanda a kas silo iti sangoanda, ken ti kappiada a kas pannukot.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "adda koma"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "ti lamisanda"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "iti sangoanda"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "a kas silo"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "ken ti kappiada"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "a kas pannukot"
+    }
+  ],
+  "timestamp": "2026-09-26T21:41:14.556404642Z",
+  "model": "glm-5.3"
+}

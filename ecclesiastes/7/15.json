@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "⟨את⟩ Ti amin nakitak kadagiti aldaw ti hebelko: adda nalinteg a matay iti kinalintegna, ket adda dakes a nagatiddog iti kinadakesna.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kadagiti aldaw"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ti hebelko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "matay"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "iti kinalintegna"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "nagatiddog"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "iti kinadakesna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:33.763938816Z",
+  "model": "glm-5.3"
+}

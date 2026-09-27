@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "ket imdenganda ti daga a kaykayatna, saanda a dimmamatitok iti saona;",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "ket imdenganda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "a kaykayatna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "a dimmamatitok"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "iti saona"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:13.775164964Z",
+  "model": "glm-5.3"
+}

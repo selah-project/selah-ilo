@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ken ⟨את⟩ Gat, ken ⟨את⟩ Maresha, ken ⟨את⟩ Zip",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Maresha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Zip"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zip"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:12.193258516Z",
+  "model": "glm-5.3"
+}

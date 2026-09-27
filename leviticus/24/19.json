@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ken ti tao no mangited ti dakes a marka iti kabagianna, a kas ti inaramidna, kasta ti aramiden kenkuana.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mangited"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ti dakes a marka"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "iti kabagianna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti inaramidna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ti aramiden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T05:49:42.090992209Z",
+  "model": "glm-5.3"
+}

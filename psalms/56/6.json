@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Amin ti aldaw dagiti saok ibaliwendada; amin dagiti kapanunotanda maibusor kaniak, iti panagdakes.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti saok"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ibaliwendada"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "maibusor kaniak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "dagiti kapanunotanda"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "iti panagdakes"
+    }
+  ],
+  "timestamp": "2026-09-26T21:31:20.731911241Z",
+  "model": "glm-5.3"
+}

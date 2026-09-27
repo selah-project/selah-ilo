@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 97,
+  "translation": "Nangibagada dagiti langit ti kinalintegna, ken nakita dagiti amin nga umili ti daydayawna.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "nangibagada"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ti kinalintegna"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ken nakita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dagiti amin"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "nga umili"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ti daydayawna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:46.658474180Z",
+  "model": "glm-5.3"
+}

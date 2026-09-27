@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ken alingen ni David ⟨את⟩ dagiti salaknib ti balitok a kasapulan kadagiti adipen ni Hadadezer, ket impanna ida iti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ken alingen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti salaknib ti balitok"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "dagiti salaknib"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ti balitok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adda"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "adipen"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ket impanna ida"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:06.828652083Z",
+  "model": "glm-5.3"
+}

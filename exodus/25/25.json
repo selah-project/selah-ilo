@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Aramidento kenkuana ti maysa nga iping a kalawa ti ima nga agpalikmut, ken aramidento ti maysa a korona a balitok iti aroundenna nga iping, nga agpalikmut.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "iping"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "kalawa ti ima"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "agpalikmut"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "iti aroundenna nga iping"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "agpalikmut"
+    }
+  ],
+  "timestamp": "2026-09-26T04:16:13.304139445Z",
+  "model": "glm-5.3"
+}

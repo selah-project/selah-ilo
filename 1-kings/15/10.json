@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken uppat a pulo ket maysa a tawen nga nagari isuna iti Yerushalayim; ket ti nagan ti inana ket Maakha, anak a babai ni Avishalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ken uppat a pulo"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ket maysa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nagari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ket ti nagan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ti inana"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "ni Avishalom"
+    }
+  ],
+  "timestamp": "2026-09-26T12:54:44.254698170Z",
+  "model": "glm-5.3"
+}

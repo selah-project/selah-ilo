@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Iti rabaw ti menorah a nadalus isasaona ⟨את⟩ dagiti lampara iti sanguanan ni Yahweh nga agtultuloy.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Iti rabaw"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ti menorah"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "a nadalus"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "isasaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lampara"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "dagiti lampara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga agtultuloy"
+    }
+  ],
+  "timestamp": "2026-09-26T05:55:20.352039253Z",
+  "model": "glm-5.3"
+}

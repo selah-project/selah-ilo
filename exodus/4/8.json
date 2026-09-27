@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket maipasamak, no saanda nga agpati kenka ken saanda a dengngen ti timek ti umuna a tanda, agpatidanto iti timek ti maudi a tanda.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ket maipasamak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "nga agpati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanda"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "a dengngen"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "האת",
+      "gloss": "ti umuna a tanda",
+      "note": "SAAN a marka ti את — daytoy ket הָאוֹת, 'ti tanda', porma ti article + sao"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "umuna"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "agpatidanto"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "האת",
+      "gloss": "ti maudi a tanda",
+      "note": "SAAN a marka ti את — 'ti tanda'"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "maudi"
+    }
+  ],
+  "timestamp": "2026-09-26T03:28:45.962009684Z",
+  "model": "glm-5.3"
+}

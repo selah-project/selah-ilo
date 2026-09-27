@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "ken ⟨את⟩ dagiti sangapulo a pagtakderan, ken ⟨את⟩ dagiti sangapulo a labba iti ngato dagiti pagtakderan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dagiti pagtakderan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "dagiti labba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dagiti pagtakderan"
+    }
+  ],
+  "timestamp": "2026-09-26T12:26:52.820613644Z",
+  "model": "glm-5.3"
+}

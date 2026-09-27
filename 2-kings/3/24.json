@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket simmangpetda iti kampo ti Yisrael, ket nagtaranda ti Yisrael ket tinmada ⟨את⟩ Moab, ket immallida manipud iti rupada; ket simmangpetda iti dayta a daga ket tinidanda ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ket simmangpetda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ket nagtaranda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ket tinmada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ket immallida"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "manipud iti rupada"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "ket simmangpetda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti dayta a daga"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "ket tinidanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-26T13:22:53.104930558Z",
+  "model": "glm-5.3"
+}

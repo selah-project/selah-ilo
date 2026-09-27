@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 93,
+  "translation": "Ngen nakabaelan ni Yahweh iti kangatuan ngem ti timek dagiti adu a danum, ngem dagiti nakaro nga allon ti baybay.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "ngem ti timek"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "nakaro"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "allon"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baybay"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "nakabaelan"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "iti kangatuan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:01.098628260Z",
+  "model": "glm-5.3"
+}

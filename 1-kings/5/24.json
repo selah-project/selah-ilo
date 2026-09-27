@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 5:24",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket napasamak, ni Hiram nangited kenni Shelomoh kadagiti kayo ti sedar ken kadagiti kayo ti berosh, segun ti amin a kayatna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "חירום",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nangited"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kenni Shelomoh"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kadagiti kayo"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedar"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ken dagiti kayo"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "berosh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "kayatna"
+    }
+  ],
+  "timestamp": "2026-09-26T12:32:46.848254471Z",
+  "model": "glm-5.3"
+}

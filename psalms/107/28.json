@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Ket immadiwda kenni Yahweh iti panagrigatda, ket manipud kadagiti pinagrigatanna iparuarna daytoy kadakuada.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ket immadiwda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "iti panagrigat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "da"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "ket manipud kadagiti pinagrigatanda"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "iparuarna daytoy kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:14.307155680Z",
+  "model": "glm-5.3"
+}

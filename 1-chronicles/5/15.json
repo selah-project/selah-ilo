@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ni Akhi, anak ni Avdiel, anak ni Guni, tengnged ti balay dagiti ammada.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ni Akhi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Avdiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Guni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tengnged"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "dagiti ammada"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:06.472764895Z",
+  "model": "glm-5.3"
+}

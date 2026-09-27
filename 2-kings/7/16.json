@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket rumuar ti umili ken dinakammada ⟨את⟩ ti kampo ti Aram, ket napasamak ti maysa a seah ti napino a arina iti maysa a shekel, ken dua a seah ti daroy iti maysa a shekel, kas iti sao ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "dinakammada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kampo ti Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "maysa a seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ti napino a arina"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "iti maysa a shekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "ken dua a seah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ti daroy"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "iti maysa a shekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kas iti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T13:36:23.617179407Z",
+  "model": "glm-5.3"
+}

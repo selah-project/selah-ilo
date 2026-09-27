@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket rummuar ti umili ⟨iti⟩ talon a makitkita kenni Yisrael, ket napasamak ti gubat iti kakaruan ti Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "rummuar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨iti⟩ talon"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "a makitkita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kenni Yisrael"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "iti kakaruan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ti Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T11:58:08.924602643Z",
+  "model": "glm-5.3"
+}

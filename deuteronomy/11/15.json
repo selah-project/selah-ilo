@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket itedko ti ruot iti talonmo para kadagiti ayupmo, ket mangan ka ken agbusor ka.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ket itedko"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ti ruot"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "iti talonmo"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "para kadagiti ayupmo"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ket mangan ka"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ken agbusor ka"
+    }
+  ],
+  "timestamp": "2026-09-26T07:50:24.394968243Z",
+  "model": "glm-5.3"
+}

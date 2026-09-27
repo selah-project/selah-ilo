@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ken timmekkel dagiti naingpis a balbalati ⟨את⟩ ti pito a naimbag a balbalati; ket kinunak daytoy kadagiti mangngagas, ngem awan ti nangipalawag kaniak.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "timmekkel"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "dagiti balbalati"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "naingpis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pito a naimbag a balbalati"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "a balbalati"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "mangngagas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngem awan"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "nangipalawag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:58:30.061628395Z",
+  "model": "glm-5.3"
+}

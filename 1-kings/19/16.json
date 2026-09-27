@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "ket ⟨את⟩ ni Yehu nga anak a lalaki ni Nimshi ilanaam a kas ari iti Yisrael, ken ⟨את⟩ ni Elisha nga anak a lalaki ni Shaphat, manipud iti Avel-Mekhola, ilanaam a kas propeta iti lugarmo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "ni Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ilanaam"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a kas ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Elisha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ni Shaphat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "manipud iti Avel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mekhola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ilanaam"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "a kas propeta"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "iti lugarmo"
+    }
+  ],
+  "timestamp": "2026-09-26T13:09:11.630962632Z",
+  "model": "glm-5.3"
+}

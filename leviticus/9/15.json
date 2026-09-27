@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket inayonna ⟨את⟩ ti daton ti umili, ken innalana ⟨את⟩ ti kalding a lalaki ti sakripisio iti basol a para iti umili, ket ipinatayna daytoy ket inaramidna a daton iti basol, kas iti umuna.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "inayonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daton"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ti daton"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "innalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kalding a lalaki"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ti kalding a lalaki"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ti sakripisio iti basol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "para iti umili"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "ipinatayna"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "inaramidna a daton iti basol"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "kas iti umuna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:09:08.152678713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 85,
+  "translation": "Pinatawarmo ti basol ti umilim; inabbongmo amin dagiti basolda. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Pinatawarmo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti umilim"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "inabbongmo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dagiti basolda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:31.126604663Z",
+  "model": "glm-5.3"
+}

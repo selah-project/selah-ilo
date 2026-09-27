@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Intulod ni David dagiti espiya, ket naamuananna a pudno nga immay ni Shaul.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Intulod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "dagiti espiya"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ket naamuananna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nga immay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "a pudno"
+    }
+  ],
+  "timestamp": "2026-09-26T11:19:12.964265028Z",
+  "model": "glm-5.3"
+}

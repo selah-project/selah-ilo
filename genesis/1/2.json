@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken ti daga ket ⟨awan⟩ linaon ken awan langa, ket ti sipnget ⟨adda⟩ iti ngato ti rimpuok ti naadalem, ken ti bagi ni Elohim agsangsangid iti ngato ti rabaw ti danum.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ken ti daga"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ket idi"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "awan linaon"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ken awan langa"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ken ti sipnget"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rabaw"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ti naadalem"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ken ti bagi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "agsangsangid"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rabaw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T01:42:13.483408625Z",
+  "model": "glm-5.3"
+}

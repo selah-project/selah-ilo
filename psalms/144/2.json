@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 144,
+  "translation": "Ti hesedko ket ti kutaak, ti nangatngatoak ket ti mangisalakanak, ti arimak a ti siak ket limmennegak kenkuana, ti mangpaidda kadagiti umili iti siak.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Ti hesedko"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ket ti kutaak"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ti nangatngatoak"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ket ti mangisalakanak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨iti siak⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ti arimak"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ket kenkuana"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "limmennengak"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "ti mangpaidda"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "iti siak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:43.375062024Z",
+  "model": "glm-5.3"
+}

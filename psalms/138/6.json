@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 138,
+  "translation": "Ta nangato ni Yahweh, ngem ti umababa kitaenna, ket ti nangatngato ammanna manipud iti adayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "רם",
+      "gloss": "nangato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ngem ti umababa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kitaenna"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ket ti nangatngato"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "manipud iti adayo"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ammanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:41.829359375Z",
+  "model": "glm-5.3"
+}

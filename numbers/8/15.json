@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken kalpasan iti dayta, sumrekda dagiti Levita a mangserbi ⟨iti⟩ Tolda ti Gimong, ket indalusmo ⟨אתם⟩ ida ken iyawyawmo ⟨אתם⟩ ida a panagyawyaw.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ken kalpasan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sumrekda"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levita"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "a mangserbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tolda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ken indalusmo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "ken iyawyawmo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "panagyawyaw"
+    }
+  ],
+  "timestamp": "2026-09-26T06:26:22.111186361Z",
+  "model": "glm-5.3"
+}

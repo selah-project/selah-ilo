@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Amin dagiti dauluom nagtarayda a kakuyog, iti pana ket nailetan; amin dagiti mabirukam nailetan a kakuyog, manipud iti adayo nagtarayda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "dagiti dauluom"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "nagtarayda"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "a kakuyog"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "iti pana"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "nailetan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "dagiti mabirukam"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "nailetan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "a kakuyog"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "manipud iti adayo"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "nagtarayda"
+    }
+  ],
+  "timestamp": "2026-09-26T14:50:36.286994982Z",
+  "model": "glm-5.3"
+}

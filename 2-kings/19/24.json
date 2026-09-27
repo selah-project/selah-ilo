@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 19:24",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Siak nagkaliak ken innimumak sabsabali a danum, ken babaen kadagiti akong ti sakaak pagmagmagenko amin dagiti karayan ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "nagkaliak"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ken innimumak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "sabsabali"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "pagmagmagenko"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "babaen kadagiti akong"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ti sakaak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T14:05:39.163402161Z",
+  "model": "glm-5.3"
+}

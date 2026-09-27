@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Dagitoy ti kaputotan dagiti anak ni Noe: ni Shem, ni Kham, ken ni Yefet; ket nagputotda kadagiti anak kalpasan ti danun.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ti kaputotan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ni Shem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Kham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ken ni Yefet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "ket nagputotda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ti danun"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:03.005732177Z",
+  "model": "glm-5.3"
+}

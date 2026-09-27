@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Idi iwarwaras ni Yahweh ⟨את⟩ dakaida manipud idiay iti rabaw ti amin a daga, ket simmardengda nga agbangon ti siudad.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "idi iwarwaras"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dakaida",
+      "marks": "dakaida"
+    },
+    {
+      "surface": "משם",
+      "gloss": "manipud idiay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rabaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ket simmardengda"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "nga agbangon"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti siudad"
+    }
+  ],
+  "timestamp": "2026-09-26T01:55:50.956046824Z",
+  "model": "glm-5.3"
+}

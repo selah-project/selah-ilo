@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Inarmanak, ket inarmanak met laeng; iti nagan ni Yahweh ta ipukawkokuda.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Inarmanak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met laeng"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "inarmanak"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ipukawkokuda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:26.802950529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Inbilang ni Moshe, kas idi binilin ni Yahweh ⟨kenkuana⟩, ⟨את⟩ amin a panganan kadagiti anak a lalaki ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Inbilang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas idi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "binilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a panganan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "panganan"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "kadagiti anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T06:07:14.902658305Z",
+  "model": "glm-5.3"
+}

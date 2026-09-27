@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Idi immay ni Yosef kadagiti kabsatna, kinuykuyda ⟨את⟩ ni Yosef ⟨את⟩ ti kutsona, ⟨את⟩ ti kutso nga adu ti marisna nga adda iti nakana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "idi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kabsatna"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "kinuykuyda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsona"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "ti kutsona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutso"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ti kutso"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "nga adu ti marisna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti nakana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:54:24.950573893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Saan yo a mangan ti saan a naluto a lasag, wenno naluto iti danum, no di nalsian laeng iti apoy — ti ulona iti bukodna a saka ken iti kaunegna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yo a mangan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "saan a naluto"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "wenno naluto"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "naluto"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "di laeng"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "nalsian"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ti ulona"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "bukodna a saka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "kaunegna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:45:23.836907407Z",
+  "model": "glm-5.3"
+}

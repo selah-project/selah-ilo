@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "no iti kayo ti pannakaammo ti nasayaat ken ti dakes, saanmo a kanen; ta iti aldaw a kanem iti daytoy, matay a mamatayka.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "no iti kayo"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ti pannakaammo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ti nasayaat"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ken ti dakes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kanem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "a kanem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matay"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "a mamatayka"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:51.622171109Z",
+  "model": "glm-5.3"
+}

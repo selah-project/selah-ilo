@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 8:23",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket inpatayna; inala ni Moshe iti darana ket initedna iti ungto ti tengnga ni Aharon a kannawan, ken iti silek ti imana a kannawan, ken iti silek ti sakana a kannawan.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "inpatayna"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מדמו",
+      "gloss": "iti darana"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "ungto"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tengnga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kannawan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "silek"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "imana"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kannawan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "silek"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "sakana"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kannawan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:11:36.028688514Z",
+  "model": "glm-5.3"
+}

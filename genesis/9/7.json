@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken dakayo, agbunga kayo ken dumakkel kayo; adukayo unay iti daga ken dumakkel kayo iti dayta.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ken dakayo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "agbunga kayo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ken dumakkel kayo"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "adukayo unay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ken dumakkel kayo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:48.485912707Z",
+  "model": "glm-5.3"
+}

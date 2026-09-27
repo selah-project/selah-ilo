@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken ⟨את⟩ dagiti agsubli manipud kalpasan ni Yahweh, ken dagiti saan a birukennda ⟨את⟩ ni Yahweh ken saan a nagsaludsod kenkuana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti agsubli"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "dagiti agsubli"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "manipud kalpasan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ken dagiti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "a birukennda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "a nagsaludsod kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T20:22:28.654966157Z",
+  "model": "glm-5.3"
+}

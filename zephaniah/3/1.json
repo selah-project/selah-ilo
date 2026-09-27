@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Oy, ti rebelde ken ti narugit, ti ili a mannamsam!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Oy"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ti rebelde"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "ken ti narugit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "a mannamsam"
+    }
+  ],
+  "timestamp": "2026-09-26T20:22:58.963193444Z",
+  "model": "glm-5.3"
+}

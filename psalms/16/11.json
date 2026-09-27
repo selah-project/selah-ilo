@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ipammoam kaniak ti dalan ti biag; kabusor ti ragsak ⟨את⟩ ti rupam, ken dagiti namnama iti kanawanmo agingga iti agnanayon",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "ipammoam kaniak"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kabusor"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "ti ragsak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupam"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "ken dagiti namnama"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "iti kanawanmo"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "agingga iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T20:49:04.737644240Z",
+  "model": "glm-5.3"
+}

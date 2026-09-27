@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 65,
+  "translation": "Nabutengda dagiti agnanaed kadagiti patingga iti ⟨dagiti⟩ tandaam; dagiti ruaran ti bigat ken ti rabii ipapagnakam nga agkanta.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "nabutengda"
+    },
+    {
+      "surface": "יוםבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "kadagiti patingga"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "iti tandaam"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "dagiti ruaran"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bigat"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "ken ti rabii"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "ipapagnakam nga agkanta"
+    }
+  ],
+  "timestamp": "2026-09-26T21:36:17.802842396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ni Yahweh ⟨adda⟩ iti nasantuan a tempiona — sileden, amin a daga, iti sanguanna.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "iti tempio"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nasantuanna"
+    },
+    {
+      "surface": "הס",
+      "gloss": "sileden"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "iti sanguanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T20:14:44.511409500Z",
+  "model": "glm-5.3"
+}

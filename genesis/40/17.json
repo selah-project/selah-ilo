@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket iti ngato unay a bakag ⟨adda⟩ amin a taraon ni Paro, aramid ti panagluto iti tinapay; ket ti tayab ket mangan kadakuada ⟨את⟩ manipud iti bakag, iti ngato ti ulok.",
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "iti bakag"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ngato unay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "taraon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "panagluto iti tinapay"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ket ti tayab"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti taraon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "iti bakag"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ti ulok"
+    }
+  ],
+  "timestamp": "2026-09-26T03:00:17.415855870Z",
+  "model": "glm-5.3"
+}

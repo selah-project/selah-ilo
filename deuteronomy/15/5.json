@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Laeng no mamatim ti timek ni Yahweh nga Elohimmo, nga salaknibennam nga aramiden ⟨את⟩ ti amin a bilin daytoy a ibilinko kenka ita nga aldaw,",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Laeng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ti mamati"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mamatim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "nga salaknibennam"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a bilin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "a bilin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ibilinko kenka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:02:14.862286064Z",
+  "model": "glm-5.3"
+}

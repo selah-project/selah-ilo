@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Ketnimmaro ti rimmoa ni Yahweh iti umilina, ket rininawna ⟨את⟩ ti tawidna.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ketnimmaro"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ti rimmoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "iti umilina"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "rininawna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tawidna"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ti tawidna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:40.275730789Z",
+  "model": "glm-5.3"
+}

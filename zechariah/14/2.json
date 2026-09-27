@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 14:2",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket urnongkonnakon ⟨את⟩ amin dagiti nasion iti Yerushalayim, iti gubat; ket maaladan ti ili, ket maalada a dangran dagiti balay, ket maabakanda dagiti babai; ket mapan ti kagudua ti ili iti pagipenitan, ket ti naiwanan a umili saan a maikkat manipud iti ili.",
+  "tokens": [
+    {
+      "surface": "ואספתי",
+      "gloss": "urnongkonnakon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti nasion"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dagiti nasion"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "ונלכדה",
+      "gloss": "ket maaladan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ונשסו",
+      "gloss": "ket maalada a dangran"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "dagiti balay"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "ket dagiti babai"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "maabakanda"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ket mapan"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ti kagudua"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "iti pagipenitan"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ket ti naiwanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "maikkat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "iti ili"
+    }
+  ],
+  "timestamp": "2026-09-26T20:39:47.180464303Z",
+  "model": "glm-5.3"
+}

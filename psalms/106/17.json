@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Nanglukat ti daga ken nanglaon kenni Datan, ket nangabbong iti gimong ni Aviram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "nanglukat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ken nanglaon"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "kenni Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ket nangabbong"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "ni Aviram"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:17.463302411Z",
+  "model": "glm-5.3"
+}

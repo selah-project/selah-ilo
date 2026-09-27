@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "no didigra yo dagiti bilin ko, ket no rumuari ti kararua yo ⟨את⟩ dagiti pangngeddeng ko, a saan nga aramiden ⟨את⟩ amin dagiti bilin ko, no mangwaswas kayo ⟨את⟩ ti tulag ko,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "dagiti bilin ko"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "didigra yo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ket no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pangngeddeng ko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dagiti pangngeddeng ko"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ruari"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ti kararua yo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "a saan"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ngga aramiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "dagiti bilin ko"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "no mangwaswas kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulag ko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulag ko"
+    }
+  ],
+  "timestamp": "2026-09-26T05:57:41.920545218Z",
+  "model": "glm-5.3"
+}

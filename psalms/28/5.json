@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ta saanda a maammuan dagiti aramid ni Yahweh ken ti obra dagiti imana; dadaelennana, saan nga ipatindoganda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "maammuan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "dagiti aramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ti obra"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "dagiti imana"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "dadaelennana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ngipatindoganda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:12.684433620Z",
+  "model": "glm-5.3"
+}

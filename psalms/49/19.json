@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Ta iti biagna binendisionanna ti kararmana, ket ipadaydayawdaka no agpinta iti bagim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ti kararmana"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "iti biagna"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ket ipadaydayawdaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "agpinta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iti bagim"
+    }
+  ],
+  "timestamp": "2026-09-26T21:22:25.672287355Z",
+  "model": "glm-5.3"
+}

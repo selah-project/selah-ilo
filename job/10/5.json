@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "No kasla dagiti aldaw ti tao dagiti aldawmo? Wenno kasla dagiti aldaw ti lalaki dagiti tawenmo?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "no kasla"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dagiti aldawmo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "dagiti tawenmo"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kasla dagiti aldaw"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ti lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T22:49:39.688269093Z",
+  "model": "glm-5.3"
+}

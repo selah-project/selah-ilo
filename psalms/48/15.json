@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "ta daytoy ket Elohim, ti Elohimtayo, iti agnanayon ken agnanayon; isu ti mangidaulo kadatayo agingga iti patay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken agnanayon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ti mangidaulo kadatayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "patay"
+    }
+  ],
+  "timestamp": "2026-09-26T21:22:04.228669380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Elohim, isublimokami, ket iparangmo ti rupaam, ket maisalakankami.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "isublimokami"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ket iparangmo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupaam"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ket maisalakankami"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:03.352021444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 57:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Dagiti nagpudot ti bagida kadagiti baal, iti baba ti amin a berde a kayo, dagiti agpatpapatay kadagiti ubbing kadagiti karayan, iti baba dagiti ribing dagiti bato?",
+  "tokens": [
+    {
+      "surface": "הנחמים",
+      "gloss": "nagpudot ti bagida"
+    },
+    {
+      "surface": "באלים",
+      "gloss": "kadagiti baal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "berde"
+    },
+    {
+      "surface": "שחטי",
+      "gloss": "agpatpapatay"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "kadagiti ubbing"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "kadagiti karayan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "סעפי",
+      "gloss": "ribeing"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "dagiti bato"
+    }
+  ],
+  "timestamp": "2026-09-26T15:54:34.931072281Z",
+  "model": "glm-5.3"
+}

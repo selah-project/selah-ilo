@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Pinutotanna kenni Khodesh ti asawana ⟨את⟩ ni Yovav ken ⟨את⟩ ni Tsivya ken ⟨את⟩ ni Mesha ken ⟨את⟩ ni Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "pinutotanna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Khodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ti asawana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Tsivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Mesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:27.323549108Z",
+  "model": "glm-5.3"
+}

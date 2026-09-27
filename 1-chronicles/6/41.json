@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket ⟨את⟩ ti talon ti ili ken ⟨את⟩ dagiti kurtalna, initedda kenni Kalev anak ni Yefuneh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti talon"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kurtalna"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "dagiti kurtalna"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "initedda"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kenni Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ni Yefuneh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:40.852348090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Nakitaka dagiti danum, Elohim; nakitaka dagiti danum, naginnaawda; nagragegda pay dagiti nauneg a danum.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "nakitaka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dagiti danum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "nakitaka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dagiti danum"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "naginnaawda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "nagragegda"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "dagiti nauneg a danum"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:01.453237119Z",
+  "model": "glm-5.3"
+}

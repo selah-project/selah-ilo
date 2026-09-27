@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Met ti El dadaelennaka nga agnanayon, alaennika ken ikkatennaka iti toldam, ket iti ramutmo iti daga dagiti sibibiag. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "dadaelennaka"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngaanayon"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "alaennika"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "ket ikkatennaka"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "iti toldam"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "ket iti ramutmo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dagiti sibibiag"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:31:09.157731541Z",
+  "model": "glm-5.3"
+}

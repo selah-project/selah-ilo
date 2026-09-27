@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ken ti nangipatpataraway ⟨את⟩ ti karniero kenni Azazel agdigosna kadagiti badona, ken didigosna ⟨את⟩ ti lasagna iti danum, ken kalpasan dayta sumrekanto ⟨iti⟩ kampo.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "ken ti nangipatpataraway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karniero"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "karniero"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "kenni Azazel"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "agdigosna"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kadagiti badona"
+    },
+    {
+      "surface": "ו רחץ",
+      "gloss": "ken didigosna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasagna"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lasagna"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ken kalpasan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:35:44.620665831Z",
+  "model": "glm-5.3"
+}

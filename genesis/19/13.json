@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ta mannacadadael dakami ⟨את⟩ daytoy a disso, ta immakar ti dagdagsoda ⟨את⟩ iti sango ni Yahweh, ket intulad ni Yahweh koma nga agdadael iti daytoy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "mannacadadael"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "dakami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a disso"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "disso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "immakar"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ti dagdagsoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti sango ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "intulad koma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "nga agdadael iti daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T02:07:42.341842010Z",
+  "model": "glm-5.3"
+}

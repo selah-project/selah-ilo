@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket malagipko ti ⟨את⟩ tulag-ko a nagbaetan ti kaniak ken kadakayo ken ti nagbaetan ti amin a sibibiag a kararua iti amin a lasag, ket saan a maysa nga agbalin ti danum a maysa a layus tapno maipukpukaw ti amin a lasag.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "ket malagipko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulag-ko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulag-ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "nagbaetan ti kaniak"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ken kadakayo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken ti nagbaetan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "a kararua"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "a sibibiag"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "a lasag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "maysa nga agbalin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "a maysa a layus"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "tapno maipukpukaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "a lasag"
+    }
+  ],
+  "timestamp": "2026-09-26T01:51:06.244852731Z",
+  "model": "glm-5.3"
+}

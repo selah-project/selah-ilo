@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Naturog ni Akhaz a kadua dagiti amana, ken nakalsem kadakuada iti ili ni David; ket ni Hizkiyahu, anakna, nangituray a kasukatanna.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "naturog"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ni Akhaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amana"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "nakalsem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ket nangituray"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ni Hizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a kasukatanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:48.994245598Z",
+  "model": "glm-5.3"
+}

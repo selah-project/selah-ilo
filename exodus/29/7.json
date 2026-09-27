@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Alaem ⟨את⟩ ti lana ti panagpudno, ken ibulosmo iti ngato ti ulona, ken ipudnom ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ti panagpudno"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ken ibulosmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ti ulona"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ken ipudnom"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ni Aharon"
+    }
+  ],
+  "timestamp": "2026-09-26T04:24:14.877439840Z",
+  "model": "glm-5.3"
+}

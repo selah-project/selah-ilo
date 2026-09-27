@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 98,
+  "translation": "Maysa a mizmor. Kankanta kayo kenni Yahweh ti baro a kanta, ta nangaramid iti nakapkapanunotan; ti panangisalakanna ket ti imananakanana ken ti braasona a nasantuan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kankanta kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "nakapkapanunotan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nangaramid"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "panangisalakanna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "imananakanana"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ken braasona"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:45.837353963Z",
+  "model": "glm-5.3"
+}

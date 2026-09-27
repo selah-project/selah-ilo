@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Nagburek ti pusok ⟨iti⟩ maysa a naimbag a sao; kinuna siak ⟨iti⟩ dagiti aramidko a maipapan iti ari; ti dilak ⟨ket⟩ pluma ti napartak a mannurat.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "Nagburek"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dagiti aramidko"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a maipapan iti ari"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ti dilak"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pluma"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "ti mannurat"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "napartak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:55.945145292Z",
+  "model": "glm-5.3"
+}

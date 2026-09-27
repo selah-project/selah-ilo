@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 125,
+  "translation": "Aramidem ti naimbag, Yahweh, kadagiti naimbag, ken kadagiti nalinteg iti pusoda.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Aramidem ti naimbag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "kadagiti naimbag"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "ken kadagiti nalinteg"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "iti pusoda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:21.505666082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Ipalangoda kenni Yahweh ti hesedna, ken dagiti nakapkapanunotanna kadagiti anak ti tao.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ipalangoda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ken dagiti nakapkapanunotanna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak ti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:22.416442943Z",
+  "model": "glm-5.3"
+}

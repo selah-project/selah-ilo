@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Nagsao ni Elohim kenni Moshe, ket kinunana kenkuana: Siak ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Nagsao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T03:35:01.652010054Z",
+  "model": "glm-5.3"
+}

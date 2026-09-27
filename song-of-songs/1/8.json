@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 1:8",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "No saanmo nga ammo — O napinpintaska kadagiti babai — rumuarka a sumurot kadagiti lutana ti bibieng, ken pastolem ⟨את⟩ dagiti ubbing a kaldingmo iti asideg dagiti tolda dagiti pastol.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "napinpintaska"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "kadagiti babai"
+    },
+    {
+      "surface": "צאי",
+      "gloss": "ruarka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a sumurot"
+    },
+    {
+      "surface": "בעקבי",
+      "gloss": "kadagiti lutana"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ti bibieng"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ken pastolem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ubbing a kaldingmo"
+    },
+    {
+      "surface": "גדיתיך",
+      "gloss": "dagiti ubbing a kaldingmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti asideg"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "dagiti tolda"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "dagiti pastol"
+    }
+  ],
+  "timestamp": "2026-09-26T23:01:14.065360100Z",
+  "model": "glm-5.3"
+}

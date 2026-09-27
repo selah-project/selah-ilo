@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Natay ni Yehoash a kadua dagiti amana, ket naitanem iti Shomron a kadua dagiti ari ti Yisrael; ket ni Yarobeam nga anakna ti immay a nagturay imbes kenkuana.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "natay"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "ni Yehoash"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amana"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ket naitanem"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "iti Shomron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ket immay a nagturay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarobeam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nganakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "imbes kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:48:23.984441197Z",
+  "model": "glm-5.3"
+}

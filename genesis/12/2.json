@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ket pagbalinekanto a dakkel a pagilian, ket bendisionannakanto, ket ipadakkelkanto ti nagan mo, ket agbalinka a bendision.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "pagbalinekanto"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "a pagilian"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "bendisionannakanto"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "ipadakkelkanto"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti nagan mo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalinka"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "a bendision"
+    }
+  ],
+  "timestamp": "2026-09-26T01:55:55.665431117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 137,
+  "translation": "Makiddekkat koma ti dilaak iti ngato ti ngiwatko, no saanak a laglagipenka, no saanak a mangipangato ⟨את⟩ Yerushalayim iti ngato ti ulo ti ragsakko.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Makiddekkat"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ti dilaak"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "iti ngato ti ngiwatko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "a laglagipenka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "a mangipangato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "ti ragsakko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:50.750154753Z",
+  "model": "glm-5.3"
+}

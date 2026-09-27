@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "No awan kabsatna, itedyo ⟨את⟩ ti tawidna kadagiti kabsat ti amana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "kabsat"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tawidna"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "tawidna"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kadagiti kabsat"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    }
+  ],
+  "timestamp": "2026-09-26T07:06:45.146064710Z",
+  "model": "glm-5.3"
+}

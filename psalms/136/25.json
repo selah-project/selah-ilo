@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 136,
+  "translation": "Itedna ti tinapay iti amin a lasag, ta ti hesedna agnanayon.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lasag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:57.481337825Z",
+  "model": "glm-5.3"
+}

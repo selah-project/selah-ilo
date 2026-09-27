@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Manipud kadagiti bilinmo maaw-awidko ⟨ti pannakaammo⟩, gapu ta inaariwko ti amin a dalan ti saan a pudno.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "manipud kadagiti bilinmo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "maaw-awidko"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "inaariwko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ti saan a pudno"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:23.157368251Z",
+  "model": "glm-5.3"
+}

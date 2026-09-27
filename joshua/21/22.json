@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken ⟨את⟩ Kivtsayim ken ⟨את⟩ ti pastulanna, ken ⟨את⟩ Beit-Khoron ken ⟨את⟩ ti pastulanna — uppat nga ili.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Kivtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kivtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "pastulanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pastulanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Beit-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "pastulanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pastulanna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    }
+  ],
+  "timestamp": "2026-09-26T09:24:51.272451771Z",
+  "model": "glm-5.3"
+}

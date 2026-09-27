@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Nagdigosan ti babai ket nanganak iti maysa nga anak a lalaki, ket nakitana ⟨את⟩ nianna ta nasayaat ⟨isuna⟩, ket ilemmengna niannen tallo a bulan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nagdigosan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nanganak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iti maysa nga anak a lalaki"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "nakitana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nianna",
+      "marks": "nianna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨isuna⟩"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "ilemmengna niannen"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "a bulan"
+    }
+  ],
+  "timestamp": "2026-09-26T03:26:59.364653802Z",
+  "model": "glm-5.3"
+}

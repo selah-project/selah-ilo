@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Dagiti anak ni Bani, innem a gasut uppat a pulo ket dua.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ni Bani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "innem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "uppat a pulo"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ket dua"
+    }
+  ],
+  "timestamp": "2026-09-26T23:21:10.944793964Z",
+  "model": "glm-5.3"
+}

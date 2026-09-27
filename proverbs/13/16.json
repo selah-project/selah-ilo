@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Amin a maaram ket agaramid iti ammo, ngem ti pukaw ket iwaragawagna ti kaawan ti sirib.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "maaram"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "iti ammo"
+    },
+    {
+      "surface": "וככיל",
+      "gloss": "ngem ti pukaw"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "iwaragawagna"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kaawan ti sirib"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:20.661405170Z",
+  "model": "glm-5.3"
+}

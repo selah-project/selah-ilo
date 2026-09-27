@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Dagitoy kadagiti karetela ken dagitoy kadagiti kabalio, ngem siakami iti nagan ni Yahweh ti Elohimtayo maibagbaga.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "kadagiti karetela"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ken dagitoy"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kadagiti kabalio"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ngem siakami"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "maibagbaga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:11.086504478Z",
+  "model": "glm-5.3"
+}

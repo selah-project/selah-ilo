@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 141,
+  "translation": "Ta kenka, Yahweh, Adonay, ti matak; kenka nakaiyanakanak; saanmo a puraen ti kararwak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ti matak"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nakaiyanakanak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תער",
+      "gloss": "puraen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:36.277190609Z",
+  "model": "glm-5.3"
+}

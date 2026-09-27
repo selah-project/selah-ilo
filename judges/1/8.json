@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Nakilabanda dagiti anak ni Yehudah iti Yerushalayim, ket alaenda ⟨את⟩ dayta, ket dinukdanda babaen ti ngiwat ti tabak, ket ⟨את⟩ ti ili ket ipanda iti apoy.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "nakilabanda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "alaenda"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yerushalayim"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "dinukdanda"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "babaen ti ngiwat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ti tabak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti ili"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ipanda"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T09:35:44.094254943Z",
+  "model": "glm-5.3"
+}

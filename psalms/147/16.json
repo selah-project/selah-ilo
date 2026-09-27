@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Ti agited ti niebe a kas bal Burbz, ti es-es a kas daga ti apuy idissuanna.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Ti agited"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "ti niebe"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "a kas bal"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "ti es-es"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "a kas daga ti apuy"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "idissuanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:33:41.589339551Z",
+  "model": "glm-5.3"
+}

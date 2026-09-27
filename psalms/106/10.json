@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Isalakannada manipud iti ima ti mannakariri, ket inmannubbotanda manipud iti ima ti kabusor.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "isalakannada"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ti mannakariri"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "inmannubbotanda"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:42.123617626Z",
+  "model": "glm-5.3"
+}

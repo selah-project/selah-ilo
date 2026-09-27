@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Ti timek dagiti agbantaymo! Nangnangatoenda ti timek, agkakadua a kantienda; ta ti mata iti mata makitada ⟨iti⟩ panagsubli ni Yahweh ⟨iti⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ti timek"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "dagiti agbantaymo"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nangnangatoenda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "agkakadua"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "a kantienda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ti mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "iti mata"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makitada"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "iti panagsubli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-26T15:46:45.144413224Z",
+  "model": "glm-5.3"
+}

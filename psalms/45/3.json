@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Naipinpintaska ngem dagiti anak ti tao; naibursek ti grasia iti bibigmo; gapu kenna a binendisionanka ni Elohim iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "Naipinpintaska"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ngem dagiti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "naibursek"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ti grasia"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "iti bibigmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kenna"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "a binendisionanka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:55.945301750Z",
+  "model": "glm-5.3"
+}

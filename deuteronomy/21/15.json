@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 21:15",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "No adda maysa a lalaki nga addaan dua nga asawa, ti maysa ay-ayatan ken ti maysa saan nga ay-ayatan, ket nagputotda kanakuanna kadagiti anak a lalaki, ti ay-ayatan ken ti saan nga ay-ayatan, ket mapasamak a ti anak a lalaki nga imbaket ket ti ti adda iti saan nga ay-ayatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "No"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "adda"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ti maysa a lalaki"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "nga asawa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "אהובה",
+      "gloss": "ay-ayatan"
+    },
+    {
+      "surface": "והאחת",
+      "gloss": "ken ti maysa"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "saan nga ay-ayatan"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ket nagputotda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanakuanna"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kadagiti anak a lalaki"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "ti ay-ayatan"
+    },
+    {
+      "surface": "והשנואה",
+      "gloss": "ken ti saan nga ay-ayatan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket mapasamak"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ti anak a lalaki"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nga imbaket"
+    },
+    {
+      "surface": "לשניאה",
+      "gloss": "ti adda iti saan nga ay-ayatan"
+    }
+  ],
+  "timestamp": "2026-09-26T08:17:57.025112451Z",
+  "model": "glm-5.3"
+}

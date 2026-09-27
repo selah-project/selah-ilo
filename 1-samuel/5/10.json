@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Innappitda ⟨את⟩ ti arko ti Elohim idi Ekron. Napasamak, idi immay ti arko ti Elohim idi Ekron, a nagtangtangisanda dagiti taga-Ekron, a kunada: Iyalikmuyo kaniak ⟨את⟩ ti arko ti Elohim ni Yisrael, a patayennak ken ⟨את⟩ ti pagiliak.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "innappitda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko ti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "idi Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "idi immay"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "idi Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "nagtangtangisanda"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "dagiti taga-Ekron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunada"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "iyalikmuyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko ti Elohim ni Yisrael"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "a patayennak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pagiliak"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti pagiliak"
+    }
+  ],
+  "timestamp": "2026-09-26T10:33:26.702787685Z",
+  "model": "glm-5.3"
+}

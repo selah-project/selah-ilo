@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 7:17",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Igguyodna ni Yahweh iti sudam, ken iti sud ti umilim, ken iti sud ti balay ti amam, dagiti aldaw a saan pay a dimmangayda, manipud iti aldaw ti panagbiningbinglay ni Efraim manipud iti Yehudah — ⟨את⟩ ti ari ti Ashur.",
+  "tokens": [
+    {
+      "surface": "יביא",
+      "gloss": "igguyodna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "iti sudam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti sud"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti umilim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti sud"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ti amam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dimmangayda"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "manipud iti aldaw"
+    },
+    {
+      "surface": "סור",
+      "gloss": "panagbiningbinglay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efraim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "iti Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    }
+  ],
+  "timestamp": "2026-09-26T14:27:51.479549115Z",
+  "model": "glm-5.3"
+}

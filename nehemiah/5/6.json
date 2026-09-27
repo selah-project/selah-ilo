@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Nagidar kaniak iti ununay idi nangngegko ⟨את⟩ ti unggacda ken ⟨את⟩ dagitoy a sao.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Nagidar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "iti ununay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "idi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nangngegko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti unggacda"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ti unggacda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagitoy a sao"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagitoy a sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T23:28:20.031035495Z",
+  "model": "glm-5.3"
+}

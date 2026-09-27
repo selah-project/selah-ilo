@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken ⟨את⟩ ti nabati ti umili a naiyanan iti ili, ken ⟨את⟩ dagiti immay a immayda kenni ti ari ti Babel, ken ⟨את⟩ ti nabati ti adu a tattao, dinara ni Nevuzaradan, ti panguluan kadagiti mannangpatay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti nabati ti umili"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ti nabati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "a naiyanan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti immay"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "dagiti immay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "על",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ti Babel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti nabati ti adu a tattao"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ti nabati"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ti adu a tattao"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "dinara"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "ni Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ti panguluan"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "kadagiti mannangpatay"
+    }
+  ],
+  "timestamp": "2026-09-26T14:11:32.628652140Z",
+  "model": "glm-5.3"
+}

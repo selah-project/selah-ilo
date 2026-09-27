@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Nasayaatka nga asideg, Yahweh, ket amin dagiti bilinmo ket kinapudno.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "asideg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket amin"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kinapudno"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:25.946122419Z",
+  "model": "glm-5.3"
+}

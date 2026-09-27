@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kinalina ti lolong ken kinallina ⟨dayta⟩, ket natnag iti abang a inaramidna.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "ti lolong"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "Kinalina"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ken kinallina"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ket natnag"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "iti abang"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "a inaramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:43:07.072953386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ngem dakayo, dengngegyo ⟨ti⟩ sao ni Yahweh, amin a kakuyog a na-exile, a nangipatornokay manipud iti Yerushalayim ⟨aget⟩ iti Bavel.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ngem dakayo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengngegyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "a kakuyog a na-exile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "nangipatornokay"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "manipud iti Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "iti Bavel"
+    }
+  ],
+  "timestamp": "2026-09-26T17:16:27.554418579Z",
+  "model": "glm-5.3"
+}

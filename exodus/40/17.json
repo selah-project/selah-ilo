@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Nangrugi iti umuna a bulan, iti maikadua a tawen, iti umuna nga aldaw ti bulan, a natakder ti Mishkan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nangrugi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "umuna"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "iti umuna"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ti bulan"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "natakder"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:52:18.417245595Z",
+  "model": "glm-5.3"
+}

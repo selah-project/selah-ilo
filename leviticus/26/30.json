@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ken dadaelkoy dagiti nangato a dissom, ket ipukpokkoy ⟨את⟩ dagiti poste ti init yo, ket iddek koy ⟨את⟩ dagiti natay a bagi yo iti ngato dagiti natay a bagi dagiti dios-dios yo, ket makarimrim kono ti kararwak ⟨את⟩ ⟨iti⟩ kadakayo.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "ken dadaelkoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti nangato a dissom"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "dagiti nangato a dissom"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ket ipukpokkoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti poste ti init yo"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "dagiti poste ti init yo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ket iddek koy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti natay a bagi yo"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "dagiti natay a bagi yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "dagiti natay a bagi"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "dagiti dios-dios yo"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "ket makarimrim kono"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨iti⟩ kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:04:22.467215282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Saan a maipapatay dagiti amma gapu kadagiti anak, ket dagiti anak saan a maipapatay gapu kadagiti amma; tunggal maysa a tao iti bukodna a basol a maipapatay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "a maipapatay"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "dagiti amma"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "ket dagiti anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "a maipapatay"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "kadagiti amma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa a tao"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "iti bukodna a basol"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "a maipapatay"
+    }
+  ],
+  "timestamp": "2026-09-26T08:27:21.963020316Z",
+  "model": "glm-5.3"
+}

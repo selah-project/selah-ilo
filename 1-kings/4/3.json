@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Dagiti anak ni Elikhoref ken ni Akhiyah, dagiti anak ni Shisha, dagiti eskribano; ni Yehoshafat ben Akhilud, ti aglagip (ti agtengngel iti lagip).",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "ni Elikhoref"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ken ni Akhiyah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "ni Shisha"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "dagiti eskribano"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ni Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben (anak)"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ni Akhilud"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "ti aglagip (agtengngel iti lagip)"
+    }
+  ],
+  "timestamp": "2026-09-26T12:26:06.937510662Z",
+  "model": "glm-5.3"
+}

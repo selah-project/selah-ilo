@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 26:50",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Dagitoy dagiti pamilia ni Naftali kadagiti pamilia da, ket dagiti bilangda lima ken uppat a pulo a ribu ken uppat a gasut.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "dagiti pamilia"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ni Naftali"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kadagiti pamilia da"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ket dagiti bilangda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ken uppat a pulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ken uppat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:39.254617798Z",
+  "model": "glm-5.3"
+}

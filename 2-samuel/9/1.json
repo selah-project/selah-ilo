@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Kinuna ni David: adda kadi pay ⟨tao⟩ a nabati iti balay ni Shaul, ket aramidenkongo kenkuana ti hesed gapu kenni Yehonatan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "nabati"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay ni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "aramidenkongo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "gapu kenni"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    }
+  ],
+  "timestamp": "2026-09-26T11:38:44.822749235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": "Itedmo kaniakami ti tulong manipud iti narigat; ket awan ti pateg ti panangisalakan ti tao.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Itedmo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kaniakami"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ti tulong"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "manipud iti narigat"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ket awan ti pateg"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ti panangisalakan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:58.562819290Z",
+  "model": "glm-5.3"
+}

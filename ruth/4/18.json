@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Dagitoy ti kaputotan ni Perets: ni Perets ket nagputot ⟨ti⟩ ⟨את⟩ ni Khetsron.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "ti kaputotan"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ni Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ni Perets"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Khetsron"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ni Khetsron"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:26.461164392Z",
+  "model": "glm-5.3"
+}

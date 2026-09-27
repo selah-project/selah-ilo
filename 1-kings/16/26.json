@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 16:26",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ket nagna isuna iti amin a dalan ni Yaravam nga anak ni Nevat, ken kadagiti basolna a pinagbasolna ⟨את⟩ ti Yisrael, nga ipaanganna ⟨את⟩ ni Yahweh, ti Elohim ti Yisrael, kadagiti didiosenda.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ket nagna isuna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "a dalan"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "ובחטאתיו",
+      "gloss": "ken kadagiti basolna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "pinagbasolna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "nga ipaanganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "kadagiti didiosenda"
+    }
+  ],
+  "timestamp": "2026-09-26T12:57:30.733778328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket ti amin a Yisrael naikabilda iti taudan, ken kitaen, naisuradda iti libro dagiti ari ti Yisrael ken ti Yisrael ken Yehudah; naipatalda idiay Bavel gapu iti panangibasolda.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ket ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "naikabilda iti taudan"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ken kitaen"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "naisuradda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ken Yehudah"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "naipatalda"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "idiay Bavel"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "gapu iti panangibasolda"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:12.244986917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Saanmo a pallabesek manipud iti sangoam, ken ti Espiritu ti kinasantuanmo saanmo a alaen kaniak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "a pallabesek"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "manipud iti sangoam"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ken ti Espiritu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ti kinasantuanmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alaen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:26:43.340756173Z",
+  "model": "glm-5.3"
+}

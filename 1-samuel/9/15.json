@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket ni Yahweh immona ⟨את⟩ ti tengnged ni Shemuel, maysa nga aldaw sakbay iti panagay ni Shaul, nga kuna:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "immona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tengnged ni Shemuel"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ti tengnged"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sakbay iti"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "panagay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    }
+  ],
+  "timestamp": "2026-09-26T10:43:50.766001945Z",
+  "model": "glm-5.3"
+}

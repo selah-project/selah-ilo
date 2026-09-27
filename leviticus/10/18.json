@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kuna ti agpayso, saan a naiyeg ⟨את⟩ ti darana iti uneg ti nasantoan — mangan koma a mangan yo iti dayta iti nasantoan, a kas ti bilinko.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "kuna ti agpayso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "naiyeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti darana"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ti darana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantoan"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "koma a mangan yo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti nasantoan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ti bilinko"
+    }
+  ],
+  "timestamp": "2026-09-26T05:14:51.278176587Z",
+  "model": "glm-5.3"
+}

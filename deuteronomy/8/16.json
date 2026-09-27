@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ti nanganem kaniak iti man iti liwang, a saan nga ammo dagiti am-ammo, tapno painiekan ka ken tapno sulukam, a mangted iti immay kaniak iti patingga-mo.",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "ti nanganem kaniak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iti man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti liwang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "nga ammo"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "dagiti am-ammo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "painiekan ka"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ken tapno"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "sulukam"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "a mangted iti immay"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "kaniak iti patingga-mo"
+    }
+  ],
+  "timestamp": "2026-09-26T07:49:10.035235846Z",
+  "model": "glm-5.3"
+}

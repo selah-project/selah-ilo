@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken maysa a karayan nagruar manipud iti Eden tapno maibeg ⟨את⟩ ti hardin, ken manipud sadiay nagisina ken nagbalin nga uppat a pagturungan.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "ken maysa a karayan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nagruar"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "manipud iti Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "tapno maibeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti hardin"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ti hardin"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ken manipud sadiay"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "nagisina"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ken nagbalin"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "nga uppat"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "a pagturungan"
+    }
+  ],
+  "timestamp": "2026-09-26T01:37:29.105558228Z",
+  "model": "glm-5.3"
+}

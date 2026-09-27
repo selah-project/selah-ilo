@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Iti aldaw ti arik, nagbalin a nagkas kasasaadda dagiti prinsipe gapu iti pakaasek iti bino; naituded ti imana ⟨kadua⟩ dagiti manngaraw.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ti arik"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "nagbalin a nagkas kasasaadda"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "dagiti prinsipe"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gapu iti pakaasek"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "iti bino"
+    },
+    {
+      "surface": "משך",
+      "gloss": "naituded"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti manngaraw"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "kadagiti manngaraw"
+    }
+  ],
+  "timestamp": "2026-09-26T19:41:28.565830038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "idi agtugaw ti ari nga ni Akhashverosh iti trono ti pagarianna, a daytoy ⟨iti⟩ Shushan ti kastilio,",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "iti dagiti aldaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "a sadiay"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "idi agtugaw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ni Akhashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ti pagarianna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a daytoy"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "iti Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ti kastilio"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:05.102277487Z",
+  "model": "glm-5.3"
+}

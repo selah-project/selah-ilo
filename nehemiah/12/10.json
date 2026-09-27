@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ni Yeshua nagputot ⟨את⟩ ni Yoyakim, ket ni Yoyakim nagputot ⟨את⟩ ni Elyashiv, ket ni Elyashiv ⟨nagputot⟩ ⟨את⟩ ni Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "ni Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "ni Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "ket ni Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Elyashiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ni Elyashiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "ket ni Elyashiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "ni Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:18.389910322Z",
+  "model": "glm-5.3"
+}

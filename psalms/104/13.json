@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Agpidutenna dagiti bantay manipud iti naisangladanna; ti daga masemseman manipud iti bunga dagiti aramidem.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "agpidutenna"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "manipud iti naisangladanna"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "manipud iti bunga"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dagiti aramidem"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "masemseman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:08.196427757Z",
+  "model": "glm-5.3"
+}

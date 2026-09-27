@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket dimngeg ti ari ti Ashur kenkuana, ket napan ti ari ti Ashur iti Damasek, kinapenna daytoy, ket ikinappiana daytoy iti Kir, ken ⟨את⟩ ni Retsin inpatayna.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dimngeg"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "napan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "kinapena daytoy"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ikinappiana daytoy iti"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ni Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "inpatayna"
+    }
+  ],
+  "timestamp": "2026-09-26T13:53:56.543301797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kinua ni Eliyahu ⟨את⟩ abit-na, ken inpuldupodna, ket binitsitna ⟨את⟩ ti danum, ket nagbiningbingdayda ⟨iti⟩ samto ken ⟨iti⟩ sabali a bangir, ket simmanglayda a dua iti namaga a daga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kinua"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abit-na"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "abit-na"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "inpuldupodna"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "binitsitna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti danum"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "nagbiningbingdayda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨iti⟩ samto"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "⟨iti⟩ sabali a bangir"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "simmanglayda"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "a dua"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "iti namaga a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T13:16:02.376585419Z",
+  "model": "glm-5.3"
+}

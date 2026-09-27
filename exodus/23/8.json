@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ken sungbar saanmo nga alaen, ta ti sungbar agbudinag kadagiti nasirib ken aglukelukel kadagiti sao dagiti nalinteg.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "ken sungbar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "nga alaen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ti sungbar"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "agbudinag"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "kadagiti nasirib"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ken aglukelukel"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kadagiti sao"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T04:07:01.335878541Z",
+  "model": "glm-5.3"
+}

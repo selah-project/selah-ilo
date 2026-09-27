@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Mikha anakna, Reayah anakna, Baal anakna",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Reayah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:22.579598741Z",
+  "model": "glm-5.3"
+}

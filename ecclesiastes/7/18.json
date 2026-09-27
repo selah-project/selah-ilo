@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Nasayaat nga alaem daytoy, ken iti dayta met saanmo nga ipukaw ti ⟨את⟩ imam; ta ti mabuteng kenni Elohim rumuarna ⟨את⟩ kadagiti amin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ken"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ipukaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ti mabuteng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "rumuarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti amin"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kadagiti amin"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:49.618921455Z",
+  "model": "glm-5.3"
+}

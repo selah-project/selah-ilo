@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ti talon a ginatanganna ni Avraham kadagiti ⟨את⟩ nga anak ni Khet — sadiay nakailuban ni Avraham ken ni Sarah nga asawana.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ginatangan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ni Khet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "nakailuban"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "ken ni Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nga asawana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:18:35.629403543Z",
+  "model": "glm-5.3"
+}

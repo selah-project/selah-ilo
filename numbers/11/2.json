@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket immawag ti tattao kenn Moshe, ket nagkararag ni Moshe kenn Yahweh, ket immudes ti apoy.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "immawag"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "nagkararag"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "immudes"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T06:28:42.568831200Z",
+  "model": "glm-5.3"
+}

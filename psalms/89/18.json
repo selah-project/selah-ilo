@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ta sika ti daydayaw ti bilegda, ken iti kayatmo maipangato ti aggitayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "ti bilegda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "ken iti kayatmo"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "maipangato"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "ti aggitayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:19.519003874Z",
+  "model": "glm-5.3"
+}

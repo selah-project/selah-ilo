@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Nagnaed ni Rekhavam iti Shekhem, ta iti Shekhem immay ti amin nga umili ni Yisrael a mangari ⟨את⟩ kenkuana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "a mangari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kenkuana",
+      "marks": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T12:50:48.276247736Z",
+  "model": "glm-5.3"
+}

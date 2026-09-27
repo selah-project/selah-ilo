@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "No agdillaw kayo iti nasantuan, didillawen no di ammo ti sao a naiparsua kadagiti balasang: 'Nayon nga umay' — isu ti nabayag a sao, saan a ti maysa laeng a rupa.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ket dayta"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "dallawen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "עושר",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ken daydayaw"
+    }
+  ],
+  "timestamp": "2026-09-26T21:01:59.808472034Z",
+  "model": "glm-5.3"
+}

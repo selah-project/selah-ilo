@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ruth 2:23",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kaduaanna met dagiti babbai ni Boaz nga agpulot agingga ti patingga ti apit ti munday ken ti apit ti trigo, ket nagnaed kadua ⟨את⟩ hamona.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "kaduaanna"
+    },
+    {
+      "surface": "בנערות",
+      "gloss": "dagiti babbai"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ni Boaz"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "nga agpulot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "ti patingga"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ti apit"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ti munday"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "ken ti apit"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "ti trigo"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ket nagnaed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamona"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "hamona"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:53.875073879Z",
+  "model": "glm-5.3"
+}

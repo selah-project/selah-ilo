@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 70,
+  "translation": "Mabasolda ken maisarda dagiti agbiruk ti kararuak; agsublida iti likudan ken makulkulda dagiti kaykayat ti dakes kaniak.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Mabasolda"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ken maisarda"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "dagiti agbiruk"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "agsublida"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "iti likudan"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ken makulkulda"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "dagiti kaykayat"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ti dakes kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:27.351822992Z",
+  "model": "glm-5.3"
+}

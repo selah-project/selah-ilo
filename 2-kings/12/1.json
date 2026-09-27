@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Pito a tawen ti edad ni Yehoash idi nagbalin nga ari.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "ni Yehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "idi nagbalin nga ari"
+    }
+  ],
+  "timestamp": "2026-09-26T13:44:30.141878425Z",
+  "model": "glm-5.3"
+}

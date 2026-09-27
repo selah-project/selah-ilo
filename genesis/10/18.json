@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken ⟨את⟩ ti Arvadita, ken ⟨את⟩ ti Zemarita, ken ⟨את⟩ ti Hamatita; kalpasanna naiwarwarasda dagiti pamilia ti Kenaanan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Arvadita"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ti Arvadita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Zemarita"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ti Zemarita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Hamatita"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ti Hamatita"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "naiwarwarasda"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "dagiti pamilia"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ti Kenaanan"
+    }
+  ],
+  "timestamp": "2026-09-26T01:53:05.648396383Z",
+  "model": "glm-5.3"
+}

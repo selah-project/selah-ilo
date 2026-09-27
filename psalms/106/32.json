@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "ket nagina da kadagiti danum ti Meribah, ket nakaidda kenni Moshe gapu kaniada",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "ket nagina da"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dagiti danum"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ti Meribah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ket nakaidda"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kenni Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "gapu kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:35.453152119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Agingga no kaasitgan a pummanawkayo a tumalingbay kadagiti bilinko ken dagiti Torahko?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga no"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kaasitgan"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "a pummanawkayo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "a tumalingbay"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kadagiti bilinko"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ken dagiti Torahko"
+    }
+  ],
+  "timestamp": "2026-09-26T03:55:29.915778775Z",
+  "model": "glm-5.3"
+}

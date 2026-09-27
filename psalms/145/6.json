@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Ti bileg dagiti makabutengmo aminno ibagada, ket ti kinadakkelanmo isaysayangko.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "dagiti makabutengmo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ibagada"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "ti kinadakkelanmo"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "isaysayangko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:28.871433355Z",
+  "model": "glm-5.3"
+}

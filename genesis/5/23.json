@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket nagbalin amin dagiti aldaw ni Khanokh tallo a gasut a tawen ken lima ken innem a pulo a tawen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ket nagbalin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ni Khanokh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ken lima"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ken innem a pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T01:45:11.899044319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ken ⟨את⟩ ti umili a narigrigat isalakanmo, ket ti matam kadagiti natayngato a tao ikuyangkuyam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti umili a narigrigat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a narigrigat"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "isalakanmo"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "ket ti matam"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "natayngato a tao"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ikuyangkuyam"
+    }
+  ],
+  "timestamp": "2026-09-26T12:12:06.556074774Z",
+  "model": "glm-5.3"
+}

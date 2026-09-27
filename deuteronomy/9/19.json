@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 9:19",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ta nabutengak iti unget ken ti kimlat a nagpaunget ni Yahweh kadakayo a mangdadael ⟨iti dakayo⟩; ket nangngeg ni Yahweh kaniak, uray iti dayta a panawen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "nabutengak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האף",
+      "gloss": "unget"
+    },
+    {
+      "surface": "והחמה",
+      "gloss": "ken ti kimlat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "nagpaunget"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "a mangdadael"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ket nangngeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uray"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "iti … a"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta a panawen"
+    }
+  ],
+  "timestamp": "2026-09-26T07:54:45.405780873Z",
+  "model": "glm-5.3"
+}

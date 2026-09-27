@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Itedna kaniakuana ⟨את⟩ ni Bilha ti adipenna a babai a kas asawa, ket sumrek ni Yaakov kaniakuana.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniakuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "ti adipenna a babai"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a kas asawa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kaniakuana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T02:33:21.851119660Z",
+  "model": "glm-5.3"
+}

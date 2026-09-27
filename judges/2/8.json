@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Natay ni Yehoshua a anak ni Nun, adipen ni Yahweh, a aged ti sangagasut ket sangapulo a tawen.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ni Nun"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "adipen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "a aged"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ti sangagasut"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ket sangapulo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T09:35:03.302637202Z",
+  "model": "glm-5.3"
+}

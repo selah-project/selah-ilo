@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ni David ket nakaammo unay kadagiti amin a dalanna, ket ni Yahweh ⟨ket⟩ kaduana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "a dalanna"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nakaammo unay"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaduana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:03:18.442727334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kinuna ni Moshe: Kankaenda daytoy ita nga aldaw, ta Shabbat ti aldaw a daytoy kenni Yahweh; ita nga aldaw saanyon a mabirukanna daytoy iti talon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "kankaenda daytoy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "mabirukanna daytoy"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    }
+  ],
+  "timestamp": "2026-09-26T03:55:29.914721712Z",
+  "model": "glm-5.3"
+}

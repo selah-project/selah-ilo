@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Aramiden yo ⟨את⟩ dagiti ukom ko, ket salakniban yo ken ⟨את⟩ dagiti bilin ko, a magna kadakuada: siak ti Yahweh, Elohim yo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ukom ko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dagiti ukom ko"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "Aramiden yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bilin ko"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "dagiti bilin ko"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "salakniban yo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "a magna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:37:37.124054478Z",
+  "model": "glm-5.3"
+}

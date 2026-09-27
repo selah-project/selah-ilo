@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Kadagiti agidaulo, maysa a mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kadagiti agidaulo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T21:26:18.384211466Z",
+  "model": "glm-5.3"
+}

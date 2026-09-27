@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 12:6",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ni Moshe nga adipen ni Yahweh ken dagiti anak a lalaki ni Yisrael ti dinaranda; ket ni Moshe nga adipen ni Yahweh ket initedna daytoy a tawid kadagiti Rubeni ken kadagiti Gadi ken ti kagudua ti tribu ni Menashe.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Ni Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nga adipen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ken dagiti anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "הכום",
+      "gloss": "ti dinaranda"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ket initedna daytoy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nga adipen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "a tawid"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "kadagiti Rubeni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ken kadagiti Gadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ken ti kagudua"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ti tribu"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "ni Menashe"
+    }
+  ],
+  "timestamp": "2026-09-26T09:09:54.870003145Z",
+  "model": "glm-5.3"
+}

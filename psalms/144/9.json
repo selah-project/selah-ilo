@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 144,
+  "translation": "Elohim, kankantaok ti baro a kanta kenka; iti nebel kadagiti sangapulo a kuerdas agtutogtogak a kumanta kenka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baro"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kankantaok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "iti nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "kadagiti sangapulo a kuerdas"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "agtutogtogak a kumanta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:14.557573612Z",
+  "model": "glm-5.3"
+}

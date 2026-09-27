@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ken ⟨את⟩ ti amin a gimong — pagurnongem ⟨ti amin⟩ iti sangoan ti Tolda ti Gimong.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti amin a gimong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a gimong"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "pagurnongem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ti sangoan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T05:07:25.207101976Z",
+  "model": "glm-5.3"
+}

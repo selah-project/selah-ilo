@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Kitaem, ti kinapudno kayatmo iti kauneganan, ken iti nakailiimmengan ti biso ipammoam kaniak.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ti kinapudno"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "kayatmo"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "iti kauneganan"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "ken iti nakailiimmengan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti biso"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "ipammoam kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:27:09.984268772Z",
+  "model": "glm-5.3"
+}

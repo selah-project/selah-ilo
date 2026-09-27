@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Saan a pulos a malipatam ti timek dagiti kabusormo; ti gulo dagiti agtakder a maibusor kenka ket agngatonto nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saan a pulos"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "a malipatam"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "dagiti kabusormo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ti gulo"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "dagiti agtakder a maibusor kenka"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "agngatonto"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngaanayon — agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:50:04.722001674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Sigurado a ti Elohim ket dadaelenna ti ulo dagiti kabusorna, ti tuktok ti naabusel a buok ti agsursor kadagiti ashamna.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sigurado a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "dadaelenna"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dagiti kabusorna"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "ti tuktok"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ti buok"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ti agsursor"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "kadagiti ashamna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:40:12.094083327Z",
+  "model": "glm-5.3"
+}

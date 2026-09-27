@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 24:15",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Gapu ken kadagiti lawag ipalangadayoyo ni Yahweh; kadagiti isla ti baybay, ⟨ti⟩ nagan ni Yahweh, Elohim ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ken"
+    },
+    {
+      "surface": "בארים",
+      "gloss": "kadagiti lawag"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ipalangadayoyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "באיי",
+      "gloss": "kadagiti isla"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T23:59:58.434170810Z",
+  "model": "glm-5.3"
+}

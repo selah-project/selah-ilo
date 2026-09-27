@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken naan-anay ti lalaki manipud iti basol, ket dayta a babai agdandanonna ⟨את⟩ bukodna a basol.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "ken naan-anay"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "manipud iti basol"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "ket dayta a babai"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "agdandanonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukodna a basol"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "bukodna a basol"
+    }
+  ],
+  "timestamp": "2026-09-26T06:11:24.557179844Z",
+  "model": "glm-5.3"
+}

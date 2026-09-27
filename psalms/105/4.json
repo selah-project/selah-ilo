@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Birukenkayo ni Yahweh ken ti bilegna, birukenkayo ti rupana kanayon.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Birukenkayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ken ti bilegna"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "birukenkayo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:15.456561857Z",
+  "model": "glm-5.3"
+}

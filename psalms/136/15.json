@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 136,
+  "translation": "Ket iyanudna ni Paro ken ti buyotna iti Baybay ti Suph, ta agnanayon ti hesedna.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "ket iyanudna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "ken ti buyotna"
+    },
+    {
+      "surface": "בים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ti Suph"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:01.478267959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 20:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Nagsapa a nagtakder ni Avimelekh iti bigat, ket inawaganna amin dagiti adipenna, ket imbagana ⟨את⟩ amin dagitoy a sasao iti tengngeda; ket nagbuteng un-unay dagiti lalaki.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nagsapa a nagtakder"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagitoy a sasao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sasao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "iti tengngeda"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "nagbutengda"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "un-unay"
+    }
+  ],
+  "timestamp": "2026-09-26T02:16:39.348897777Z",
+  "model": "glm-5.3"
+}

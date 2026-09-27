@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Kinayatanna ti sumpa, ket simmangpet daytoy kanyana; ken saan a naayatan iti bendision, ket nakadayo daytoy kanyana.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "kinayatanna"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ti sumpa"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "ket simmangpet daytoy kanyana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a naayatan"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "iti bendision"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "ket nakadayo daytoy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kanyana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:04.240093380Z",
+  "model": "glm-5.3"
+}

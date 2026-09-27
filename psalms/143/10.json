@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 143,
+  "translation": "Isuromo ak nga aramiden ti kayatmo, ta sika ti Elohimko; ti Espiritum nasayaat, iturongannak iti nalinteg a daga.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Isuromo ak"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ti kayatmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "Espiritum"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "iturongannak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti nalinteg a daga iti"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "nalinteg a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:39.431856883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ken kadagiti nangruna a tao kadagiti anak ni Yisrael saanna nga inted ti imana, ket nangngegda ⟨את⟩… nakitada ⟨ti⟩ Elohim, ket nanganenda ken imminemenda.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "nangruna a tao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "inted"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "nanganenda"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "inminemenda"
+    }
+  ],
+  "timestamp": "2026-09-26T04:10:38.687864077Z",
+  "model": "glm-5.3"
+}

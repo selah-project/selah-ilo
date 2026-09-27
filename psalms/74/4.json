@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Agngerngerda dagiti kabusormo iti tengnga ti gimongmo; inkabilda dagiti tandada a kas tanda.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Agngerngerda"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "dagiti kabusormo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "ti gimongmo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "inkabilda"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "dagiti tandada"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "a kas tanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:06.734644402Z",
+  "model": "glm-5.3"
+}

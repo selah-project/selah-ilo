@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Agkaykayo agsao kadagiti anak ni Yisrael, nga agsao: Amin a taba ti baka ken ti karnero ken ti kaldi, saan yo a mangan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "agsao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga agsao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "ken ti karnero"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ken ti kaldi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yo a mangan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:57:15.242896813Z",
+  "model": "glm-5.3"
+}

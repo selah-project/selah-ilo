@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Laeng iti ladawan nagsursor ti lalaki; laeng iti awan linaon agsibbutar; agurnong, ket saan nga ammoanna no asino ti mangurnong kadakuada.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Laeng"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "iti ladawan"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "nagsursor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "iti awan linaon"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "agsibbutar"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "agurnong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngaat ammoanna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "no asino"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "ti mangurnong kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:17:42.132598080Z",
+  "model": "glm-5.3"
+}

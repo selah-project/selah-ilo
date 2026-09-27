@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Linteg a saan a malpas kadagiti puotyo iti amin a pagtaenganyo: aniaman a taba ken aniaman a dara, saan yo a kanen.",
+  "tokens": [
+    {
+      "surface": "חקת",
+      "gloss": "linteg"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "saan a malpas"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kadagiti puotyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "pagtaenganyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aniaman"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken aniaman"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kanen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:49:18.324823518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Kinunada kenni Moshe: Sika ti agsao kadakami ket dengngegmi; saan nga agsao kadakami ti Elohim, no kadi mataykami.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "agsao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "ket dengngegmi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "saan nga"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "agsao"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "no kadi"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mataykami"
+    }
+  ],
+  "timestamp": "2026-09-26T04:03:03.816599307Z",
+  "model": "glm-5.3"
+}

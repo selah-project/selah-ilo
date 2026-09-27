@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 112,
+  "translation": "Ta saan koma pulos a matnag; iti agnanayon a lagip addanto ti nalinteg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "koma pulos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "a matnag"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "iti lagip"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "addanto"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:52.788559860Z",
+  "model": "glm-5.3"
+}

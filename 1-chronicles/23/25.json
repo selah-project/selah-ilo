@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ta kinuna ni David: nangted ni Yahweh, ti Elohim ti Yisrael, iti panaginana kadagiti umilina, ket agnaedna ⟨iti⟩ Yerushalayim agingga iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "nangted iti panaginana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kadagiti umilina"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ket agnaedna"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T23:41:16.589734216Z",
+  "model": "glm-5.3"
+}

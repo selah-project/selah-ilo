@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken ⟨את⟩ dagiti pangipuoran ti insenso ken ⟨את⟩ dagiti basio — ti balitok, amin a balitok, ket ti pilak, amin a pilak — inala ti pangulohan dagiti mannakapatay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pangipuoran ti insenso"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "dagiti pangipuoran ti insenso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti basio"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "dagiti basio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ket"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "inala"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ti pangulohan"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "dagiti mannakapatay"
+    }
+  ],
+  "timestamp": "2026-09-26T14:11:19.170097889Z",
+  "model": "glm-5.3"
+}

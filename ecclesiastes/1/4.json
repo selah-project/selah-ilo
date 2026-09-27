@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Maysa a henerasion a mapan, ken maysa a henerasion nga umay, ngem ti daga agnanayon nga agtakder.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "maysa a henerasion"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a mapan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ken maysa a henerasion"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nga umay"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ngem ti daga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ngagtakder nga agtakder"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:06.355198303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ti ari ti Kedesh, maysa; ti ari ti Yokneam iti Karmel, maysa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ti Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "ti Yokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "iti Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T09:09:21.530074832Z",
+  "model": "glm-5.3"
+}

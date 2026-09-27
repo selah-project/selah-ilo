@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 13:12",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket ti amin a Yehudah inayonda ti maikasangapulo a paset ti bagas, ti bino ken ti lana, iti dagiti pagipenpenan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ket ti amin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "inayonda"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ti maikasangapulo a paset"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "ti bagas"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "ken ti bino"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "ken ti lana"
+    },
+    {
+      "surface": "לאוצרות",
+      "gloss": "iti dagiti pagipenpenan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:28.848304704Z",
+  "model": "glm-5.3"
+}

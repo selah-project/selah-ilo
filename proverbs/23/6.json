@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Dika mangan ⟨את⟩ tinapay ni ⟨ti tao nga addaan dakes a mata⟩, ket dika agkaykayat kadagiti naimis a makananna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Dika"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinapay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket dika"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "agkaykayat"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "kadagiti naimis a makananna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:42:22.856495274Z",
+  "model": "glm-5.3"
+}

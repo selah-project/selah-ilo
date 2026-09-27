@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ken ikkammo iti arko ⟨את⟩ ti saksi a itedko kenka.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ikkammo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti saksi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ti saksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:59.895711478Z",
+  "model": "glm-5.3"
+}

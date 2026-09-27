@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Elohim, kadagiti lapayagtayo nangngegtayo; dagiti ammatayo inbagada kaniadtayo ti aramid nga inaramidmo kadagiti aldawda, kadagiti aldaw ti umuna a panawen.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "kadagiti lapayagtayo"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nangngegtayo"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "dagiti ammatayo"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "inbagada"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kaniadtayo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "nga inaramidmo"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "kadagiti aldawda"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kadagiti aldaw"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ti umuna a panawen"
+    }
+  ],
+  "timestamp": "2026-09-26T21:18:56.894715664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Inyegda ⟨את⟩ ti Mishkan ken ni Moshe, ⟨את⟩ ti tolda ken ⟨את⟩ amin a kasangkapanna, dagiti pangikketna, dagiti tablona, dagiti barana, ken dagiti postena, ken dagiti pagtakkagna.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Inyegda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kasangkapanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a kasangkapanna"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "dagiti pangikketna"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "dagiti tablona"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "dagiti barana"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "ken dagiti postena"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "ken dagiti pagtakkagna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:48:59.020951290Z",
+  "model": "glm-5.3"
+}

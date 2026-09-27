@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "ket agipasaritada ⟨את⟩ ti basolda ken ⟨את⟩ ti basol dagiti amada, iti panangtallikudda a tinallikuada iti Siak, ken pay a nagnada kadkuak iti panangtallikud.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "ket agipasaritada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti basolda"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ti basolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti basol"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dagiti amada"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "iti panangtallikudda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "tinallikuada"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iti Siak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ken pay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nagnada"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kadkuak"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "iti panangtallikud"
+    }
+  ],
+  "timestamp": "2026-09-26T06:03:01.772698374Z",
+  "model": "glm-5.3"
+}

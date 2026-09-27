@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket inaramidmo ti dakes ngem ti amin a adda sakbayam, ket napanka ken aramidim para iti bukodmo sabsabali a dios ken natunaw a ladawan nga paiyennak riit, ket siak ⟨את⟩ inbay-am iti likud ti bukotmo.",
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "ket inaramidmo ti dakes"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngem ti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sakbayam"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ket napanka"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ken aramidim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para iti bukodmo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dios"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "sabsabali"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "ken natunaw a ladawan"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "nga paiyennak riit"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ken ⟨את⟩ siak",
+      "marks": "siak (ti inset ti inbay-am)"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "inbay-am"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "iti likud"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "ti bukotmo"
+    }
+  ],
+  "timestamp": "2026-09-26T12:53:49.090595450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 18:12",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ti amin a taba ti lana, ken ti amin a taba ti baro a bino ken ti bagas — ti umunada a prutas, a itedda ken Yahweh — kenka ngarud naitedko dagitoy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "baro a bino"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ken bagas"
+    },
+    {
+      "surface": "ראשיתם",
+      "gloss": "umunada a prutas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "itedda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ken Yahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "naitedko dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T06:43:49.408745086Z",
+  "model": "glm-5.3"
+}

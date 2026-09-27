@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken dakayo ti agparparugit ⟨iti⟩, iti panangikunayo: ti lamisaan ni Adonay marugit dayta, ken ti bungana saan a pateg ti kanenna.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ken dakayo"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "ti agparparugit"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "iti (ti nagan ni Adonay)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "iti panangikunayo"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ti lamisaan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "marugit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "ken ti bungana"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "saan a pateg"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ti kanenna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:37:13.185959974Z",
+  "model": "glm-5.3"
+}

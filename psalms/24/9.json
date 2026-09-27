@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ipangatoyo dagiti uloyo, dagiti ruangan, ket ipangatoyo, dagiti pagturungan nga agnanayon, ket sumrek ti ari ti daydayaw.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ipangatoyo"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dagiti ruangan"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "dagiti uloyo"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "ket ipangatoyo"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "dagiti pagturungan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ket sumrek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ti daydayaw"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:00.064606902Z",
+  "model": "glm-5.3"
+}

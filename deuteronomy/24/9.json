@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Lagipem ⟨את⟩ ti inaramid ni Yahweh nga Elohimmo kenni Miryam iti dalan, idi rumsuakayo manipud iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "lagipem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inaramid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "kenni Miryam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "idi rumsuakayo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T08:22:11.896844174Z",
+  "model": "glm-5.3"
+}

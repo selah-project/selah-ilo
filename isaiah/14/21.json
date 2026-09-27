@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 14:21",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Isaganayo ti pagpatayan dagiti anakna gapu iti basol dagiti amada; saanda a rumuar ken saanda a mangtawid iti daga, ken saanda a mangpunno iti rupa ti lubong kadagiti ili.",
+  "tokens": [
+    {
+      "surface": "הכינו",
+      "gloss": "Isaganayo"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "מטבח",
+      "gloss": "ti pagpatayan"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "gapu iti basol"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "dagiti amada"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "a rumuar"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ken saanda a mangtawid"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ken saanda a mangpunno"
+    },
+    {
+      "surface": "פני",
+      "gloss": "iti rupa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ti lubong"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kadagiti ili"
+    }
+  ],
+  "timestamp": "2026-09-26T14:34:31.045751932Z",
+  "model": "glm-5.3"
+}

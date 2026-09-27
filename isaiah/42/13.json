@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ni Yahweh agto a rumuar kas maysa a napigsa a lalaki, kas maysa a lalaki ti gubat pagungarna ti inna; sumangbay, ket agtarusok; agballigi a maipapan kadagiti kabusorna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kas maysa a napigsa a lalaki"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kas maysa a lalaki"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "pagungarna"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ti inna"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "sumangbay"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ket"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "agtarusok"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipapan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "kadagiti kabusorna"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "agballigi"
+    }
+  ],
+  "timestamp": "2026-09-26T15:28:30.771464507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Ken iti beddeng ni Menasheh, manipud iti paset ti daya agingga iti paset ti laud, ti Efrayim, maysa.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "beddeng"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "manipud iti paset"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ti daya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "paset"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ti laud"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T22:11:59.529327827Z",
+  "model": "glm-5.3"
+}

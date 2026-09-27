@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "a pinutolna ⟨את⟩ kenni Avraham, ket ti sumpana kenni Yitskhak",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "pinutolna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ken ti sumpana"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "kenni Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:20.125502330Z",
+  "model": "glm-5.3"
+}

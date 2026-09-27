@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Saamuen ni Aharon, ken ibagam kano: No ipangatonda ⟨את⟩ dagiti lampara iti sanguanan ti lamparan, paglawagendan dagiti pito a lampara.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "saamuen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ken ibagam"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "no ipangatonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lampara"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "dagiti lampara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sanguanan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "ti lamparan"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "paglawagendan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "dagiti pito"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "a lampara"
+    }
+  ],
+  "timestamp": "2026-09-26T06:27:17.559192711Z",
+  "model": "glm-5.3"
+}

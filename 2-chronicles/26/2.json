@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Isu ti nagbangon ⟨את⟩ ti Eilot ket naisublina iti Yehudah, kalpasan a natay ti ari a kadua dagiti amana.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Isu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagbangon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Eilot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "naisublina"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "iti Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan a"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "natay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:51:53.750616394Z",
+  "model": "glm-5.3"
+}

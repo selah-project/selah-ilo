@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Naragsak ti maysa a maaram kadagiti pagan-anay; ti Yahweh isalakannanto ⟨iti⟩ aldaw ti dakes.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Naragsak"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ti maysa a maaram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pagan-anay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "isalakannanto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:39.712722014Z",
+  "model": "glm-5.3"
+}

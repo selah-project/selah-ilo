@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ken ⟨את⟩ ti anak a babai ti yaanah, ken ⟨את⟩ ti tachmas, ken ⟨את⟩ ti shachaf, ken ⟨את⟩ ti netz iti kitaanna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti anak a babai ti yaanah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ti anak a babai"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ti yaanah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ti tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ti shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti netz"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ti netz"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "iti kitaanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:07.681444167Z",
+  "model": "glm-5.3"
+}

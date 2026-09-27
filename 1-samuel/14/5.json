@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ti maysa a ngato ti bato nga agtakder iti amianan, sumango iti Mikhmash, ken ti maysa iti abagatan, sumango iti Giv'a.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "ti maysa a ngato ti bato"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "ngato ti bato"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "iti amianan"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sumango"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "iti Mikhmash"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ken ti maysa"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "iti abagatan"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sumango"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "iti Giv'a"
+    }
+  ],
+  "timestamp": "2026-09-26T10:45:35.465414777Z",
+  "model": "glm-5.3"
+}

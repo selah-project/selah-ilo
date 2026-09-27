@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ken impana ⟨את⟩ dagiti padi ken ⟨את⟩ dagiti Levita, ket inurnongna ida iti dato ti daya.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ken impana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti padi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levita"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "ket inurnongna ida"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "iti dato"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "ti daya"
+    }
+  ],
+  "timestamp": "2026-09-26T23:54:58.498311174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Ta dagiti rebelyonko ammok, ken ti basolko adda sadiay sanguanak agnanayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "dagiti rebelyonko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ammok"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ken ti basolko"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "iti sanguanak"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:27:09.983754699Z",
+  "model": "glm-5.3"
+}

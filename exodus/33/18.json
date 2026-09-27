@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Kinunana: Ipakitam kaniak ⟨את⟩ ti daydayawmo, ikari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ipakitam kaniak"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ikari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daydayawmo"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ti daydayawmo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:39:32.756446571Z",
+  "model": "glm-5.3"
+}

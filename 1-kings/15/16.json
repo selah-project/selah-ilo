@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket adda ti gubat a nagbaetan ni Asa ken ni Baasha, ari ti Yisrael, amin nga aldawda.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ket ti gubat"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "בין",
+      "gloss": "a nagbaetan"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ni Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "nga aldawda"
+    }
+  ],
+  "timestamp": "2026-09-26T12:55:50.882317538Z",
+  "model": "glm-5.3"
+}

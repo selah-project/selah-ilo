@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket kinunada kennuana amin dagiti lakay ken ti amin ti umili: Saanmo nga agdengngeg, ken saanka met nga umayon.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "nga agdengngeg"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ken saanka met"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "nga umayon"
+    }
+  ],
+  "timestamp": "2026-09-26T13:09:01.054654927Z",
+  "model": "glm-5.3"
+}

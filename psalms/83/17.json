@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Punnuem ti rupada iti bain, ket agbirukenda ti naganmo, Yahweh.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Punnuem"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ti rupada"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "iti bain"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "ket agbirukenda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:25.629228704Z",
+  "model": "glm-5.3"
+}

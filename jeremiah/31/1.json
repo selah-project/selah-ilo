@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 31:1",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Iti dayta a panawen, deklarasion ni Yahweh: agbalinakon nga Elohim kadagiti amin a pamilia ni Yisrael, ket isuda agbalinanda kaniak a umili.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dayta a panawen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deklarasion"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "agbalinakon"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nga Elohim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "pamilia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ket isuda"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agbalinanda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a umili"
+    }
+  ],
+  "timestamp": "2026-09-26T17:13:55.575821281Z",
+  "model": "glm-5.3"
+}

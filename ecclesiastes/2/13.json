@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket nakitak a niak nga adda pateg ti kinasirib ngem ti kinabugaw, kas iti pateg ti lawag ngem ti sipnget.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ket nakitak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "a niak"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "pateg"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ti kinasirib"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "ti kinabugaw"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "kas iti pateg"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ti lawag"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ti sipnget"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:20.895053883Z",
+  "model": "glm-5.3"
+}

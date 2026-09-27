@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Ken inawagannak iti aldaw ti rigat, isalakannakka, ket idaydayawmoak.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "inawagannak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "isalakannakka"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "idaydayawmoak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:24:21.696700224Z",
+  "model": "glm-5.3"
+}

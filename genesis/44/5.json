@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Saan kadi a daytoy ti ininum ni apok, ket iti daytoy nagnuno-nuno isuna? Nakadakes ti inaramidyo!",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ininum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apok"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ket isuna"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nagnuno"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "nuno"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "nakadakes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "inaramidyo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:07:37.424902872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ni David. Kenka, Yahweh, mangawagak; Batok, saanmo koma nga aglemmeng kaniak; no aglemmengka kaniak, maturtoyak a kadagiti agbaba iti dalunat.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mangawagak"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Batok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "aglemmengka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "פן",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "aglemmengka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ket maturtoyak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "agbaba"
+    },
+    {
+      "surface": "בור",
+      "gloss": "iti dalunat"
+    }
+  ],
+  "timestamp": "2026-09-26T21:05:20.761434325Z",
+  "model": "glm-5.3"
+}

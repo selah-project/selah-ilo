@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 20:3",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Napasamak idi inton bigat, ket inruar ni Pashchur ⟨את⟩ ni Yirmeyahu manipud iti pagtalekan, ket kinuna ni Yirmeyahu kenkuana: saan a Pashchur ti inawagan ni Yahweh a naganmo, no di Magor Missabib.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "inton bigat"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "inruar"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashchur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "pagtalekan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashchur"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "inawagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naganmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "di"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "Magor"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "Missabib"
+    }
+  ],
+  "timestamp": "2026-09-26T16:58:41.858998595Z",
+  "model": "glm-5.3"
+}

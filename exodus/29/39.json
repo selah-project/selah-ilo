@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ti maysa a karnero aramidem iti bigat, ken ti maikadua a karnero aramidem iti nagbaetan dagiti rabii;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maysa a karnero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ti karnero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti maikadua a karnero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ti karnero"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dagiti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T04:27:19.104180359Z",
+  "model": "glm-5.3"
+}

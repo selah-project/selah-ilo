@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 1:26",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket kinuna ni Elohim: Agaramidtayo ti tao iti ladawantayo, kas pannakaipadatayo; ket agturayanda kadagiti ikan ti baybay, ken kadagiti billit ti langit, ken kadagiti taraken, ken iti amin a daga, ken iti amin nga agkalkalatkat nga agkalkalkatkat iti daga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ket kinuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "Agaramidtayo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "בצלמנו",
+      "gloss": "iti ladawantayo"
+    },
+    {
+      "surface": "כדמותנו",
+      "gloss": "kas pannakaipadatayo"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ket agturayanda"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "kadagiti ikan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "ken kadagiti billit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ken kadagiti taraken"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "ngañ agkalkalatkat"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "nga agkalkalkatkat"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T01:41:57.400748146Z",
+  "model": "glm-5.3"
+}

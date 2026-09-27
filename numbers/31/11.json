@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Inalada ⟨את⟩ amin a bisin ken ⟨את⟩ amin a nakarbeng — iti tao ken iti ayup.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Inalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a bisin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "bisin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a nakarbeng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "nakarbeng"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ken iti ayup"
+    }
+  ],
+  "timestamp": "2026-09-26T07:15:12.722633116Z",
+  "model": "glm-5.3"
+}

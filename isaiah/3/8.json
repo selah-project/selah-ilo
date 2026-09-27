@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ta natnag ti Yerushalayim, ken natnag ti Yehudah; ta ti dilada ken dagiti ar-aramidda ket ummadu kenni Yahweh, mangrisrisaw kadagiti mata ti daydayawna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ken ti Yehudah"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dilada"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "ken dagiti ar-aramidda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "mangrisrisaw"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ti daydayawna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:07:54.614052047Z",
+  "model": "glm-5.3"
+}

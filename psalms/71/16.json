@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Umayak iti bileg ni Adonay Yahweh; ilaglagipak ti kinalintegmo, sika laeng.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Umayak"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ilaglagipak"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ti kinalintegmo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sika laeng"
+    }
+  ],
+  "timestamp": "2026-09-26T21:43:22.937282866Z",
+  "model": "glm-5.3"
+}

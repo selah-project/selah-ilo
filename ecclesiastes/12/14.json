@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ta ⟨את⟩ ti amin nga aramid ti Elohim isublina iti ukom, iti amin a nailemmeng, no naimbag ken no dakes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin nga aramid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "isublina"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "a nailemmeng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:38.762261118Z",
+  "model": "glm-5.3"
+}

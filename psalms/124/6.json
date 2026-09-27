@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 124,
+  "translation": "Binendisionan ni Yahweh, a saan a nangited kaniakami a taraon kadagiti ngiwatda.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Binendisionan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "a saan"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "nangited kaniakami"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "a taraon"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "kadagiti ngiwatda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:52.131972176Z",
+  "model": "glm-5.3"
+}

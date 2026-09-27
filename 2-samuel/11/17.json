@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Rimmuar dagiti lalaki ti ili ket nakilabanda kenni ⟨את⟩ Yoav, ket natnag kadagiti adipen ni David, ken natay met ni Uriyah a Hittita.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "rimmuar"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "nakilabanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ket natnag"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manen kadagiti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "kadagiti adipen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriyah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a Hittita"
+    }
+  ],
+  "timestamp": "2026-09-26T11:42:09.537422017Z",
+  "model": "glm-5.3"
+}

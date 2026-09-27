@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Immay ni David idi bigat ken inibinana ti ⟨את⟩~tolda iti maysa a mangsalaknib, ket immay ken nagna kas nga imbilin ni Yishay, ket dimteng iti sikig ti kampo; ket ti buyot immalis iti sanguanan ti linia ken nagwaragiri ti panaglaban.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Immay ni David idi bigat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "—"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "idi bigat"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "inibinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "maysa a mangsalaknib"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "immay ken"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas nga"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "imbilin"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ni Yishay"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dimteng"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "iti sikig ti kampo"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "immalis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "ti linia"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "nagwaragiri"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ti panaglaban"
+    }
+  ],
+  "timestamp": "2026-09-26T10:54:41.762925942Z",
+  "model": "glm-5.3"
+}

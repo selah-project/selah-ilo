@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ni Kalev anak ni Khetsron nagputot ⟨את⟩ kenni Azuvah a babai ken ⟨את⟩ kenni Yeriot; ket dagitoy dagiti annakna: ni Yesher, ken ni Shovav, ken ni Ardon.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "Ken ni Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ni Khetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Azuvah"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "kenni Azuvah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "a babai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Yeriot"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "kenni Yeriot"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ket dagitoy"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ni Yesher"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "ken ni Shovav"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "ken ni Ardon"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:44.034983269Z",
+  "model": "glm-5.3"
+}

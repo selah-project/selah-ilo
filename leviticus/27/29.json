@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Amin a naibabaan a banag nga maibabaan manipud iti tao, saan a mapabain ⟨iti balinasna⟩; ti mamatayon, matayen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "naibabaan a banag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "maibabaan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "a mapabain"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ti mamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "matayen"
+    }
+  ],
+  "timestamp": "2026-09-26T06:02:37.734167261Z",
+  "model": "glm-5.3"
+}

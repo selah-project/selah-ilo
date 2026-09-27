@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Ti peste nga agsorsor iti sipnget, ti dadael a mangdadael iti tengnga ti aldaw.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ti peste"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "iti sipnget"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "nga agsorsor"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "ti dadael"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "a mangdadael"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "iti tengnga ti aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:57.680206621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Isalakannak manipud iti ngiwat ti leon, ket manipud kadagiti sara ti ramim nasungbatannak.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "isalakannak"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "manipud iti ngiwat"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ti leon"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "ket manipud kadagiti sara"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ti ramim"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "nasungbatannak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:52.356212906Z",
+  "model": "glm-5.3"
+}

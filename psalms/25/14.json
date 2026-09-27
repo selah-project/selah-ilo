@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ti sekreto ni Yahweh ⟨ket⟩ kadagiti agbuteng kaniakuana, ket ti tulagna iti panangammodanda.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "Ti sekreto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kadagiti agbuteng kaniakuana"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "ket ti tulagna"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "iti panangammodanda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:02:00.207768279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Saanmo nga agbuteng, ta siak ti kaduam ⟨את⟩; manipud iti daya ti iparuarok ti putotmo, ken manipud iti laud ti urnongennaka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "agbuteng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "kaduam ⟨את⟩",
+      "marks": "siak — 'siak ti kaduam'"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "manipud iti daya"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "iparuarok"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "putotmo"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ken manipud iti laud"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "urnongennaka"
+    }
+  ],
+  "timestamp": "2026-09-26T15:23:38.631462286Z",
+  "model": "glm-5.3"
+}

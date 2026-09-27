@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 114,
+  "translation": "Ti agbaliw ti bato iti lubbo ti danum, ti natangken a bato iti taudan ti danum —",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "ti agbaliw"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "iti lubbo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "ti natangken a bato"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "iti taudan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:14.157525232Z",
+  "model": "glm-5.3"
+}

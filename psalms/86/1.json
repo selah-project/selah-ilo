@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Tikararag ni David. Ibabam ti layam, Yahweh, ket sungbatannak, ta pobre ken naskenak.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tikararag"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Ibabam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ti layam"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sungbatannak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pobre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ken nasken"
+    },
+    {
+      "surface": "אני",
+      "gloss": "-ak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:46.708697639Z",
+  "model": "glm-5.3"
+}

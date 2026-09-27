@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Ta sika, ni Yahweh, ti maikakabsatko a maipapan iti sano — ⟨ti⟩ Elyon, isu ti inaramidmo a pagagnaedam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ti maikakabsatko a maipapan iti sano"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "isu ti inaramidmo"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "a pagagnaedam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:09.893007111Z",
+  "model": "glm-5.3"
+}

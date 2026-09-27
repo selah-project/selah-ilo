@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket ipatulodna dagiti pannana ket iwaraswarna ida, ken adu a kidlat, ket pinukpukdanda ida.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ket ipatulodna"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "dagiti pannana"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "ket iwaraswarna ida"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "ken dagiti kidlat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "ket pinukpukdanda ida"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:07.672686363Z",
+  "model": "glm-5.3"
+}

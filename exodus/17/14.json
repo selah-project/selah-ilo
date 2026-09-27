@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Isuratmo daytoy a lagip iti libro, ket ikkem kadagiti taingna ni Yehoshua, ta maikkat nga ikkatenko ⟨את⟩ ti lagip ni Amalek manipud iti baba dagiti langit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "isuratmo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "lagip"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "iti libro"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ikkem"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kadagiti taingna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "maikkat"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "ikkatenko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lagip"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lagip"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ni Amalek"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "manipud iti baba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    }
+  ],
+  "timestamp": "2026-09-26T03:58:51.908168258Z",
+  "model": "glm-5.3"
+}

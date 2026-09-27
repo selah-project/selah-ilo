@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ta nakita ni Yahweh ⟨את⟩ ti kinarigrigat ti Yisrael, napait unay; ket ti naserraan awanen, ket ti naipanaw awanen, ket awan ti mangtulong iti Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kinarigrigat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ti kinarigrigat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "napait"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ket awanen"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ti naserraan"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ket awanen"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "ti naipanaw"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ti mangtulong"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "iti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T13:46:11.364696673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Nangngeg ti tao ⟨את⟩ ti dakes a sao a daytoy, ket agsangitda, ken saanda nga inisuot ti maysa a tao ti bukodna nga adorno.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Nangngeg"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dakes a sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a daytoy"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ket agsangitda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanda"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nga inisuot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a tao"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ti bukodna nga adorno"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti bagina"
+    }
+  ],
+  "timestamp": "2026-09-26T04:39:27.046945998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "ket ⟨את⟩ dagiti anak ni Zedekiah inaltodda ⟨גolern⟩ iti sangsangmataanna, ken ⟨את⟩ dagiti mata ni Zedekiah bikbikanda, ket pinaritanna kadagiti kadena ti gambang, ket idatonna ⟨ti⟩ idiay Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ni Zedekiah"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "inaltodda"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "iti sangsangmataanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti mata"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ni Zedekiah"
+    },
+    {
+      "surface": "עור",
+      "gloss": "bikbikanda"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ket pinaritanna"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "kadagiti kadena ti gambang"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ket idatonna"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "idiay Bavel"
+    }
+  ],
+  "timestamp": "2026-09-26T22:07:56.138714358Z",
+  "model": "glm-5.3"
+}

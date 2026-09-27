@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 143,
+  "translation": "Ken saan a sumreka iti ukom ⟨את⟩ ti adipenmo, ta ti amin a sibibiag saan a maipalinteg sadiay sanguam.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ken saan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "a sumreka"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipenmo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "a maipalinteg"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sadiay sanguam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a sibibiag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:13.922407891Z",
+  "model": "glm-5.3"
+}

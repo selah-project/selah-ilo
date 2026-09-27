@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kinuna ti ari ti Yisrael kenni Elisha, idi nakitana ⟨את⟩ ida: Amak, patayenko kadi? patayenko kadi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "idi nakitana"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ida"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "patayenko kadi"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "patayenko kadi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amak"
+    }
+  ],
+  "timestamp": "2026-09-26T13:26:59.028086963Z",
+  "model": "glm-5.3"
+}

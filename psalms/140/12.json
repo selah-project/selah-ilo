@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Ti lalaki ti dila saan a mataginek iti daga; ti lalaki ti bikla — ti dakes, aganupanna iti pannakatnagnat",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ti lalaki"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ti dila"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "a mataginek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ti bikla"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "aganupanna"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "iti pannakatnagnat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:39.955327482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Nakitak ⟨את⟩ ti pagilian a daytoy, ket idta, pagilian a natangken ti tengnged ti kayatna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagilian a daytoy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti pagilian"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket idta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pagilian"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "natangken"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ti tengnged"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T04:37:19.683727448Z",
+  "model": "glm-5.3"
+}

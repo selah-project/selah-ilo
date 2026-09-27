@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "gapu ta iti benneg ni Yahweh napasamak dayta iti Yerushalayim ken iti Yehudah, agingga a binuanganna ⟨את⟩ ida manipud iti sango ti rupana; ket nagsungkar ni Tsidkiyahu iti ari ti Babilonia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gapu ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אף",
+      "gloss": "benneg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "ken iti Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "binuanganna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ida (Yerushalayim ken Yehudah)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sango ti rupana"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ket nagsungkar"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "iti ari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonia"
+    }
+  ],
+  "timestamp": "2026-09-26T14:16:43.525325133Z",
+  "model": "glm-5.3"
+}

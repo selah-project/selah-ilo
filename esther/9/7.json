@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ken ⟨את⟩ ni Parshandata ken ⟨את⟩ ni Dalphon ken ⟨את⟩ ni Aspatha",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Parshandata"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "ni Parshandata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Dalphon"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "ni Dalphon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Aspatha"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "ni Aspatha"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:52.812887234Z",
+  "model": "glm-5.3"
+}

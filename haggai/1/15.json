@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "iti aldaw a duapulo ket uppat iti bulan, iti maikanem a bulan, iti maikadua a tawen ni Daryavesh ti ari.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ket uppat"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "iti maikanem a bulan"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "ni Daryavesh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T20:18:39.253607567Z",
+  "model": "glm-5.3"
+}

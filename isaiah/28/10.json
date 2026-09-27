@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ta bilin iti bilin, bilin iti bilin, linia iti linia, linia iti linia, bassit ditoy, bassit sadiay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "צו",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "iti bilin"
+    },
+    {
+      "surface": "צו",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "iti bilin"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linia"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "iti linia"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linia"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "iti linia"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T14:58:57.992858876Z",
+  "model": "glm-5.3"
+}

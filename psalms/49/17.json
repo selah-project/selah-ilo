@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Saan nga agbutengka no agbaknang ti lalaki, no dumakkel ti daydayaw ti balayna;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "nga agbutengka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "agbaknang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "dumakkel"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ti balayna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:22:25.671832651Z",
+  "model": "glm-5.3"
+}

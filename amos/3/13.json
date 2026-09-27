@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 3:13",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Dengngegkayo ken agsaksikayo ⟨iti⟩ balay ni Yaakov, ti naisao ni Adonay Yahweh, ti Elohim ti Tsevaot.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengngegkayo"
+    },
+    {
+      "surface": "והעידו",
+      "gloss": "ken agsaksikayo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨iti⟩ balay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ti naisao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "ti Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-26T19:45:04.245020741Z",
+  "model": "glm-5.3"
+}

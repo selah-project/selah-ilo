@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ti agbubuyos iti dara ti tao, babaen iti tao mapabuyos ti darana; ta iti ladawan ni Elohim inaramidna ⟨את⟩ ti tao.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ti agbubuyos"
+    },
+    {
+      "surface": "דם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "babaen iti tao"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ti darana"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "mapabuyos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "iti ladawan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:48.485700093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 12:3",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ket inaramid ni Yehoash ⟨את⟩ ti nalinteg kadagiti mata ni Yahweh amin kadagiti aldawna, idi sinuroanna isuna ni Yehoiada a padi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramid"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "ni Yehoash"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "kadagiti aldawna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "idi"
+    },
+    {
+      "surface": "הורהו",
+      "gloss": "sinuroanna isuna"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ni Yehoiada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a padi"
+    }
+  ],
+  "timestamp": "2026-09-26T13:44:30.146647169Z",
+  "model": "glm-5.3"
+}

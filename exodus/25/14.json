@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Isurom ⟨את⟩ dagiti bara kadagiti singsing iti bangbangiay ti arko, nga ikanda ⟨את⟩ ti arko kadakuada.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "isurom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bara"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dagiti bara"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "kadagiti singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "bangbangiay"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "nga ikanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:59.895202503Z",
+  "model": "glm-5.3"
+}

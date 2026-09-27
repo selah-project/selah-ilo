@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Natalinaay dagiti dalanna iti amin a panawen; nangato unay dagiti ukommo manipud iti sanguanna; iti amin a kabusoranna, agpuyok kadakuada ⟨iti panangikuyogna⟩.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "natalinaay"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "dagiti dalanna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "עת",
+      "gloss": "a panawen"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "nangato unay"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dagiti ukommo"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "manipud iti sanguanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "a kabusoranna"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "agpuyok"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:47.262797246Z",
+  "model": "glm-5.3"
+}

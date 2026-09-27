@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "Iggatadmo ti bagim, Hukom ti daga; isublimo ti gantingbasa kadagiti mangngato.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Iggatadmo ti bagim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Hukom"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "השב",
+      "gloss": "isublimo"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ti gantingbasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "mangngato"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:54.843006475Z",
+  "model": "glm-5.3"
+}

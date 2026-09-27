@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Kinunana kaniak: Adipenko ti sika, Yisrael, a maipapan iti sika maidaydayawak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinunana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Adipenko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ti sika"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a maipapan iti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "maidaydayawak"
+    }
+  ],
+  "timestamp": "2026-09-26T15:42:09.358778200Z",
+  "model": "glm-5.3"
+}

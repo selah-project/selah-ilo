@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 26:9",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ket nangipatakder ni Uzziyahu kadagiti torre iti Yerushalayim, iti ruaran ti suli ken iti ruaran ti ginget ken iti nakalikmutan, ket pinigsana ida.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ket nangipatakder"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "ni Uzziyahu"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "kadagiti torre"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ruaran"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "ti suli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ruaran"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "ti ginget"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "ti nakalikmutan"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "ket pinigsana ida"
+    }
+  ],
+  "timestamp": "2026-09-26T23:55:26.379661106Z",
+  "model": "glm-5.3"
+}

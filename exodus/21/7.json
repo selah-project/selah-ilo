@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "No ti maysa a lalaki aglako ⟨את⟩ ti anakna a babai a kas ama, saan a rumuar kas iti panagruar dagiti adipen.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "aglako"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anakna a babai"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ti anakna a babai"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "a kas ama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "kas iti panagruar"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "dagiti adipen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:11:21.943718342Z",
+  "model": "glm-5.3"
+}

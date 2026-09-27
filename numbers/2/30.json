@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ti buyotna, ken dagiti binilangda, tallo ken limapulo a ribu ken uppat a gasut.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ken ti buyotna"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ken dagiti binilangda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ken limapulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ken uppat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    }
+  ],
+  "timestamp": "2026-09-26T06:06:17.044172397Z",
+  "model": "glm-5.3"
+}

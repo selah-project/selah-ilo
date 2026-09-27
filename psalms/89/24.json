@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ket dadaelok dagiti kabusorna iti ruana, ket ipukpokko kadagiti mangay-ayaw kenkuana.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "ket dadaelok"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "iti ruana"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "dagiti kabusorna"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ket dagiti mangay-ayaw"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "ipukpokko kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:48.245186116Z",
+  "model": "glm-5.3"
+}

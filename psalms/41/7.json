@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ken no umay a makita, di-pudno ti saona; ti pusona urnongenna ti kadakesan kenkuana; umruar iti ruar, nagsao.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "בא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a makita"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "di-pudno"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ti saona"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "urnongenna"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti kadakesan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "umruar"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nagsao"
+    }
+  ],
+  "timestamp": "2026-09-26T21:17:23.639694468Z",
+  "model": "glm-5.3"
+}

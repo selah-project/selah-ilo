@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ti amam ket nanggadelgad iti ⟨את⟩ pagtallikodannmi; sika ita, pangngaasim a gapuanam ti napadsok a panagserbi ti amam, ket ti nadagsen a pagtallikodan a naitedna kadmiami, ket agserbirkami keniка.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ti amam"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nanggadelgad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagtallikodannmi"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "pagtallikodannmi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "pangngaasim a gapuanam"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "panagserbi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ti amam"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "napadsok"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ti pagtallikodan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "nadagsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naitedna"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadmiami"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "agserbirkami kenika"
+    }
+  ],
+  "timestamp": "2026-09-26T12:50:48.276935100Z",
+  "model": "glm-5.3"
+}

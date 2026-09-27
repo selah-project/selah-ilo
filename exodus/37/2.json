@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Kinapalananna iti nadalus a balitok nga ⟨iti⟩ uneg ken ⟨iti⟩ ruar, ket inaramidna para kenkuana iti korona ti balitok nga agpalikmut.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "kinapalananna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadalus"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ken iti ruar"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para kenkuana"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "agpalikmut"
+    }
+  ],
+  "timestamp": "2026-09-26T04:44:34.631556048Z",
+  "model": "glm-5.3"
+}

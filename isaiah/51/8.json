@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Ta ti anay kandanto a kas bado, ken ti sabali nga anay kandanto a kas lana ti karnero; ⟨ngem⟩ ti kinalintegko iti agnanayon agbalinto, ket ti panangisalakanko iti agsasaruno a tinawen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "a kas bado"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "kandanto"
+    },
+    {
+      "surface": "עש",
+      "gloss": "ti anay"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "ken a kas lana ti karnero"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "kandanto"
+    },
+    {
+      "surface": "סס",
+      "gloss": "ti sabali nga anay"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ket ti kinalintegko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "agbalinto"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ket ti panangisalakanko"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "iti agsasaruno"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "a tinawen"
+    }
+  ],
+  "timestamp": "2026-09-26T15:52:28.965985211Z",
+  "model": "glm-5.3"
+}

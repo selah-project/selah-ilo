@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ken dagiti anak ni Shimi: Yahat, Zina, Yeush ken Beriah; dagitoy ti anak ni Shimi, uppat.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ken dagiti anak"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ni Shimi"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yahat"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Zina"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ken Yeush"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ken Beriah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ni Shimi"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "uppat"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:42.548504649Z",
+  "model": "glm-5.3"
+}

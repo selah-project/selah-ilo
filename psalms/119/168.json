@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Salaknibek dagiti bilinmo ken dagiti pammadayam, ta amin dagiti dalanko adda iti sanguam.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "salaknibek"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "ken dagiti pammadayam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dagiti dalanko"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "adda iti sanguam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:54.313390389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket inpatakder ni Shelomoh ⟨את⟩ ti balay ket nalpasna daytoy.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ket inpatakder"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ket nalpasna daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T12:33:03.137036577Z",
+  "model": "glm-5.3"
+}

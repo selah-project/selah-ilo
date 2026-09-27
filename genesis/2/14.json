@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket ti nagan ti maikatlo a karayan ⟨ket⟩ Khidekel; daytoy ti agbanniaga iti daya ti Ashur; ken ti maikauppat a karayan ⟨ket⟩ daytoy ⟨ti⟩ Perat.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ket ti nagan"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "Khidekel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "agbanniaga"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "ken ti karayan"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "maikauppat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-26T01:40:21.559564251Z",
+  "model": "glm-5.3"
+}

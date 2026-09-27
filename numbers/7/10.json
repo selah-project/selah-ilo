@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kinapakabit dagiti pangulo ti ⟨את⟩ panagkonsekrar iti altar iti aldaw a pinangilana ⟨את⟩ kenkuana, ket kinapakabit dagiti pangulo ti ⟨את⟩ datonda iti sango ti altar.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "kinapakabit"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "dagiti pangulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panagkonsekrar iti altar"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "panagkonsekrar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "a pinangilana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kenkuana",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "ket kinapakabit"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "dagiti pangulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "datonda"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "datonda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T06:12:55.262829160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Mabukelna dagiti bato iti naanto, ket ipainumna ida a kas ti adu nga adalem.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "mabukelna"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti naanto"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ket ipainumna ida"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "a kas ti adalem"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "adu"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:55.892891217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Iyawatda dagiti bantay ti kappia iti umili, ken dagiti turod babaen ti kinalinteg.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "Iyawatda"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "iti umili"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ken dagiti turod"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "babaen ti kinalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:24.295233906Z",
+  "model": "glm-5.3"
+}

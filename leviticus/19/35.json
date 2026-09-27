@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Saan yo koma nga aramiden ti kadiawan iti pananghustisia, iti sukat, iti timbang, ken iti sukat ti inumin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nga aramidenyo"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kadiawan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "iti pananghustisia"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "iti sukat"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "iti timbang"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ken iti sukat ti inumin"
+    }
+  ],
+  "timestamp": "2026-09-26T05:45:01.480521024Z",
+  "model": "glm-5.3"
+}

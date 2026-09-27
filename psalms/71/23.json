@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Agkantianda dagiti bibigko ta agkantakanto kenka, ken ti kararwak a nagpakawanmo.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "Agkantianda"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dagiti bibigko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "agkantakanto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ken ti kararwak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "nagpakawanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:38.356729958Z",
+  "model": "glm-5.3"
+}

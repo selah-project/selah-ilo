@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Saanak nga agala iti baka manipud iti balaymo, wenno dagiti kalding a lalaki manipud iti koralam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saanak"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "nga agala"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "manipud iti balaymo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "iti baka"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "manipud iti koralam"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "dagiti kalding a lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:43.157670830Z",
+  "model": "glm-5.3"
+}

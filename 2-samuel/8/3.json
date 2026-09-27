@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket dinna ni David ⟨את⟩ ni Hadadezer nga anak ni Rekhob, ari ti Tsobah, idi mapan a mangisubli ti imana iti karayan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ni Rekhob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ti Tsobah"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "idi mapan"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "a mangisubli"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "iti karayan"
+    }
+  ],
+  "timestamp": "2026-09-26T11:37:39.742161370Z",
+  "model": "glm-5.3"
+}

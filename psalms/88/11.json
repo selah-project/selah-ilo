@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "No kadagiti natay maminsan nga aramidem ti pelpelá, no dagiti Refaim agtakderda koma, balligikannaka koma. Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "no kadagiti natay"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ti pelpelá"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "dagiti Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "agtakderda koma"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "balligikannaka koma"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:59.647196206Z",
+  "model": "glm-5.3"
+}

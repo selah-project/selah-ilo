@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Saananna a naamuan, ta dagiti imana ket nagbalin a kas iti ima ni Esav a kabsatna, nabalbasan; ket binendisionanna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "saananna"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "a naamuan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "dagiti imana"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "kas iti ima"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "a kabsatna"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "nabalbasan"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "ket binendisionanna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:29:20.210210833Z",
+  "model": "glm-5.3"
+}

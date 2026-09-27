@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ti agtuluok a danum iti aldaw ti nakaro nga udan, ken ti babai a riribokan — agpadada.",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "ti agtuluok a danum"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "maipaay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "ti nakaro nga udan"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ken ti babai"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "a riribokan"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "agpadada"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:31.118834493Z",
+  "model": "glm-5.3"
+}

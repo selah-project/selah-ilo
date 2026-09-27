@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket babaen kadagitoy marugitkayo: sinno man ti sumdama iti bangbangkayda marugit agingga iti rabii.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "ket babaen kadagitoy"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "marugitkayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sinno man"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti sumdama"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "iti bangbangkayda"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "marugit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T05:10:11.375665005Z",
+  "model": "glm-5.3"
+}

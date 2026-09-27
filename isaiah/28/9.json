@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "⟨את⟩ Asino ti isursuroanna iti annaaw, ken ⟨את⟩ asino ti maawatanna ti damag? Dagiti naiyawidan manipud iti gatas, dagiti naikkat manipud kadagiti suso.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "asino"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "isursuroanna"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "annaaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "asino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "asino"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "maawatanna"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "damag"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "dagiti naiyawidan"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "manipud iti gatas"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "dagiti naikkat"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "kadagiti suso"
+    }
+  ],
+  "timestamp": "2026-09-26T14:58:57.990795245Z",
+  "model": "glm-5.3"
+}

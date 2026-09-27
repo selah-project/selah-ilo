@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Nagdakkel ti ubbing ket naikkanna iti suso; ket indaton ni Avraham ti dakkel a pag-ininan iti aldaw a naikkanna iti suso ⟨את⟩ ni Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "nagdakkel"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ti ubbing"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "ket naikkanna iti suso"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ket indaton"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ti pag-ininan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "a naikkanna iti suso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:08:58.887701911Z",
+  "model": "glm-5.3"
+}

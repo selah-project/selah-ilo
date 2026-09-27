@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ita nga aldaw rumuarkayo, iti bulan ti Abib.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "rumuarkayo"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "rumuarkayo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ti Abib"
+    }
+  ],
+  "timestamp": "2026-09-26T03:51:11.792715049Z",
+  "model": "glm-5.3"
+}

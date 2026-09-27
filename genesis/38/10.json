@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ket dakes iti mata ni Yahweh ti inaramidna, ket pinatayna met ⟨את⟩ isuna.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ket dakes"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket pinatayna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isuna",
+      "marks": "ni Onan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:59:20.430045632Z",
+  "model": "glm-5.3"
+}

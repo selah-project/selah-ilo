@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ti altar ti balitok, ken ⟨את⟩ ti lana ti panangoli, ken ⟨את⟩ ti insenso ti espesia, ken ⟨את⟩ ti abbong ti ruangan ti Tolda;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti altar ti balitok"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "panangoli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti insenso"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "espesia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti abbong"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "abbong"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ruangan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "Tolda"
+    }
+  ],
+  "timestamp": "2026-09-26T04:50:29.713087752Z",
+  "model": "glm-5.3"
+}

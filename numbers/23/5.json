@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ingun-odanna ni Yahweh ti maysa a sao iti ngiwat ni Bilam, ket kinuna: Agsublika kenni Balak, ket kastoy ti saoem.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ingun-odanna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "iti ngiwat"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "saoem"
+    }
+  ],
+  "timestamp": "2026-09-26T07:00:34.532770873Z",
+  "model": "glm-5.3"
+}

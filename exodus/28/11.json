@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 28:11",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Aramid ti mannanggarit iti bato, panangiparit a kas iti selyo — iukitmo ⟨את⟩ dagiti dua a bato iti nagan dagiti anak ni Yisrael; napalikmutan iti pangisalunngat a balitok, aramidem ⟨את⟩ dagitoy.",
+  "tokens": [
+    {
+      "surface": "מעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ti mannanggarit"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "iti bato"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "panangiparit"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "a kas iti selyo"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "iukitmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dua a bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "a bato"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "napalikmutan"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "iti pangisalunngat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "a balitok"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy (dagiti dua a bato)"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:07.240745284Z",
+  "model": "glm-5.3"
+}

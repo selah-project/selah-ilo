@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken ni Yoav anak a lalaki ni Tseruyah ket nangituray iti buyot, ket ni Yehoshafat anak a lalaki ni Akhilud ket aglagipulo.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Ken ni Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ni Tseruyah"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "buyot"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ket ni Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ni Akhilud"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "aglagipulo"
+    }
+  ],
+  "timestamp": "2026-09-26T11:32:32.430941386Z",
+  "model": "glm-5.3"
+}

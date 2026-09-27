@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Awan ti kasmo kadagiti dios, Adonay, ken awan ti kas dagiti aramidmo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Awan"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ti kasmo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kadagiti dios"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "ti kas dagiti aramidmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:25.069832910Z",
+  "model": "glm-5.3"
+}

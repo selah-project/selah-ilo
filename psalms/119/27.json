@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti dalan dagiti bilinmo ipaam-ammom kaniak, ket agsasaritaakto kadagiti naisangsangayan nga aramidmo.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ipaam-ammom kaniak"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "ket agsasaritaakto"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "kadagiti naisangsangayan nga aramidmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:32.465377266Z",
+  "model": "glm-5.3"
+}

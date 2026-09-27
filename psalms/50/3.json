@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Umayti ti Elohimtayo ket saan nga aglelemmeng; apoy ti mangan iti sanguananna, ken iti lawlawna nakaro unay ti bagyo.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Umayti"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ngalelemmeng"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti sanguananna"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ti mangan"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "ken iti lawlawna"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "ti bagyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nakaro unay"
+    }
+  ],
+  "timestamp": "2026-09-26T21:25:39.346234687Z",
+  "model": "glm-5.3"
+}

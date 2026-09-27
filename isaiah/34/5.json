@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ta nagsel ti tabakko iti langit; kitaem, agtuon daytoy iti Edom, ken iti umili ti innak ikkaten, iti pangukom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "nagsel"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ti tabakko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "agtuon daytoy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "ti innak ikkaten"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "iti pangukom"
+    }
+  ],
+  "timestamp": "2026-09-26T15:15:20.074459220Z",
+  "model": "glm-5.3"
+}

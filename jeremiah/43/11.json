@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "ket umay ken baliwanna ⟨את⟩ ti daga ti Mitsrayim: ti adda para iti matay — iti matay; ken ti adda para iti panagbalud — iti panagbalud; ken ti adda para iti tabak — iti tabak.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "ket umay"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ken baliwanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "למות",
+      "gloss": "para iti matay"
+    },
+    {
+      "surface": "למות",
+      "gloss": "iti matay"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ken ti"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "para iti panagbalud"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "iti panagbalud"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ken ti"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "para iti tabak"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "iti tabak"
+    }
+  ],
+  "timestamp": "2026-09-26T17:40:30.904279608Z",
+  "model": "glm-5.3"
+}

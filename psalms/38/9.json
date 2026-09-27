@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Naawanak ti bileg ken nakaro a dinukkak ⟨agingga unay⟩; nangngegak a nakaro manipud iti panangeled ti pusok.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "naawanak ti bileg"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "ken nakaro a dinukkak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "nangngegak a nakaro"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "manipud iti panangeled"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    }
+  ],
+  "timestamp": "2026-09-26T21:13:53.942761829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Sumrek, saoem kenni Paro, ari ti Mitsrayim, ket ipatulodna ⟨את⟩ dagiti anak ni Yisrael manipud iti dagana.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Sumrek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "saoem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ket ipatulodna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "manipud iti dagana"
+    }
+  ],
+  "timestamp": "2026-09-26T03:30:03.350428592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "No ipatpatoram nga agtalinaed a wayana ti binulodna, saan mo nga ited nga agpator nga awan ti awatenna.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "No"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ipatpatoram"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "agtalinaed a wayana ti binulodna"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "manen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "mo nga ited nga agpator"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nga awan ti awatenna"
+    }
+  ],
+  "timestamp": "2026-09-26T08:04:59.466868384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket innalmosanda ⟨את⟩ kennia, ken agsangitanda kennia ti amin nga Yisrael, kas iti sao ni Yahweh a nagsao babaen ti ima ti adipenna a ni Ahiyahu a profeta.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "ket innalmosanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kennia"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ken agsangitanda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kennia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kas iti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen ti ima"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ti adipenna"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "a ni Ahiyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "a profeta"
+    }
+  ],
+  "timestamp": "2026-09-26T12:57:21.523242096Z",
+  "model": "glm-5.3"
+}

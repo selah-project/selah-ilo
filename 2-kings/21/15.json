@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ta aramidenda ⟨את⟩ ti dakes iti matam, ket mangriingda ⟨את⟩ kaniak manipud iti aldaw a nagnaenda dagiti amada manipud iti Mitsrayim agingga iti daytoy nga aldaw.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "aramidenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dakes"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti matam"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ket"
+    },
+    {
+      "surface": "מכעיסים",
+      "gloss": "mangriingda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kaniak",
+      "marks": "kaniak (ni Yahweh)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "היום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nagnaenda"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "dagiti amada"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T14:06:38.433631559Z",
+  "model": "glm-5.3"
+}

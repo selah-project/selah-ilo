@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken siak, ken amin ti tattao a ⟨את⟩ kaduak, mangasasideg ⟨iti⟩ ti ili; ket mapasamak, no agruarda a agturong kadakami, a kas iti umuna, ket agtaraytayo iti sakbayda.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ken siak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kaduak",
+      "marks": "kaduak"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "mangasasideg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket mapasamak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "agruarda"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "agturong kadakami"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "iti umuna"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "agtaraytayo"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "iti sakbayda"
+    }
+  ],
+  "timestamp": "2026-09-26T09:05:16.584863471Z",
+  "model": "glm-5.3"
+}

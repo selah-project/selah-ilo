@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket nangipaay ti Elohim ti maysa a bigbig idi agrang-ay ti barnag iti sumaruno nga aldaw, ket dinukkanna ⟨את⟩ ti kikayon ket namaga daytoy.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "nangipaay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "bigbig"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "idi agrang-ay"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ti barnag"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "iti sumaruno nga aldaw"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "dinukkanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kikayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "ti kikayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ket namaga daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T20:07:12.088009907Z",
+  "model": "glm-5.3"
+}

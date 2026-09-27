@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Daytoy a pobre immawag, ket nangngeg ni Yahweh, ken isalakanna manipud iti amin a rigatna.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a pobre"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "immawag"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ken manipud iti amin"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "a rigatna"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "isalakanna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:06:17.577086456Z",
+  "model": "glm-5.3"
+}

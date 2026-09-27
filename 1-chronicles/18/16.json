@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "ken ni Tsadok anak ni Akhitub ken ni Avimelekh anak ni Evyatar dagiti padi, ket ni Shavsha ti eskriptor.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "ken ni Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ni Akhitub"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "ken ni Avimelekh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ni Evyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "ket ni Shavsha"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "ti eskriptor"
+    }
+  ],
+  "timestamp": "2026-09-26T23:40:14.397970866Z",
+  "model": "glm-5.3"
+}

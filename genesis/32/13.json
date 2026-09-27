@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ken sika imbagam: Agasi nga agasiak kenka, ket ikabilek ⟨את⟩ ti imputotmo a kas ti darat ti baybay, a saan a mabilangen gapu iti kaadu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "imbagam"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "agasi"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "agasak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ikabilek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imputotmo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ti imputotmo"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "a kas ti darat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "mabilangen"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "gapu iti kaadu"
+    }
+  ],
+  "timestamp": "2026-09-26T02:35:26.353133251Z",
+  "model": "glm-5.3"
+}

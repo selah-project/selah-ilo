@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Nakita ni Elohim ⟨את⟩ amin a inaramidna, ket adtoy — nasayaat unay. Ket immay ti rabii, ket immay ti bigat — aldaw a maikanem.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket adtoy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ket immay"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ti rabii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ti bigat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "a maikanem"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:02.407793544Z",
+  "model": "glm-5.3"
+}

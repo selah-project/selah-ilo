@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket ipatulod ni Yaakov ket inawaganna ni Rachel ken ni Lea iti talon, iti karnerona.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ket ipatulod"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket inawaganna"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "ni Rachel"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "ken ni Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "karnerona"
+    }
+  ],
+  "timestamp": "2026-09-26T02:36:47.624597652Z",
+  "model": "glm-5.3"
+}

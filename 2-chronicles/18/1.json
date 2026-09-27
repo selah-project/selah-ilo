@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 18:1",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Idi adda ken ni Yehoshaphat kayamanan ken daydayaw iti adu, ket nagasawa ⟨iti pamilia⟩ kenni Ahab.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Idi adda"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "ken ni Yehoshaphat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ken daydayaw"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "iti adu"
+    },
+    {
+      "surface": "ויתחתן",
+      "gloss": "nagasawa iti pamilia"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kenni Ahab"
+    }
+  ],
+  "timestamp": "2026-09-26T23:51:16.224723686Z",
+  "model": "glm-5.3"
+}

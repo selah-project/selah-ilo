@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Nakitana ⟨את⟩ ti Amalek, immatar ti masolna, ket kinuna: Umuna kadagiti nasion ti Amalek, ngem ti patinggana agingga ti pukawen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ti Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "immatar"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ti masolna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "umuna"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kadagiti nasion"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ti Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "ngem ti patinggana"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ti pukawen"
+    }
+  ],
+  "timestamp": "2026-09-26T07:01:17.465953830Z",
+  "model": "glm-5.3"
+}

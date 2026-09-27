@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket immallintiaw ak ken simmrekak manipud iti bantay, ket inkabilko ⟨את⟩ dagiti lames iti arko nga inaramidko, ket adda da sadiay, kas iti bilin ni Yahweh kaniak.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "immallintiaw ak"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "simmrekak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "inkabilko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lames"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "dagiti lames"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "iti arko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "inaramidko"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "adda da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "bilinna kaniak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:01:14.344924028Z",
+  "model": "glm-5.3"
+}

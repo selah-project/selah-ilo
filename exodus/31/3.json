@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket pinunnok ti ⟨את⟩ iti anges ni Elohim, iti sirib, ken iti pannakaawat, ken iti ammo, ken iti amin a panagaramid.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "Ket pinunnok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti anges ni Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "anges"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "iti sirib"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ken iti pannakaawat"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ken iti ammo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "a panagaramid"
+    }
+  ],
+  "timestamp": "2026-09-26T04:23:42.094436481Z",
+  "model": "glm-5.3"
+}

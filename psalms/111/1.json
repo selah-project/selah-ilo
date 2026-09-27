@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 111,
+  "translation": "Idaydayawyo ni Yah; agyamanak kenni Yahweh iti amin a pusok, iti tiponan dagiti nalinteg ken iti gimong.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Idaydayawyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "agyamanak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pusok"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "iti tiponan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ken iti gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:47.897702251Z",
+  "model": "glm-5.3"
+}

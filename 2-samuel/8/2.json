@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 8:2",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket dinna ⟨את⟩ ti Moab ket insukatanda ida iti tali, nga agiddaanda iti daga; ket insukatanna dua a tali nga patayen, ket ti punno ti tali nga agbiagen; ket nagbalin ti Moab nga adipen ni David, nga mangipaay kadagiti minchah.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "וימדדם",
+      "gloss": "insukatanda"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "iti tali"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "nga agiddaanda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iti daga"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "insukatanna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "a tali"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "nga patayen"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "ket ti punno"
+    },
+    {
+      "surface": "החבל",
+      "gloss": "ti tali"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "nga agbiagen"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "nga dagiti adipen"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nga mangipaay"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kadagiti minchah"
+    }
+  ],
+  "timestamp": "2026-09-26T11:37:39.741995554Z",
+  "model": "glm-5.3"
+}

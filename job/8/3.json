@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "No ti El ti mangibalaliw ti ukom, wenno no ti Shadday ti mangibalaliw ti kinalinteg?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ti El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ti mangibalaliw"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wenno no"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ti mangibalaliw"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ti kinalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:48:57.875063009Z",
+  "model": "glm-5.3"
+}

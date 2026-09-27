@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 28:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ken ⟨את⟩ dagiti dua nga ungto ti dua a kawes ti balitok itedmo kadagiti dua a pagpadianan, ken itedmo kadagiti bagi-bagi ti ephod, agasmang iti sanguana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti dua nga ungto"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ungto"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "kawes"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "המשבצות",
+      "gloss": "pagpadianan"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ken itedmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "bagi-bagi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ti ephod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "agasmang"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sanguana"
+    }
+  ],
+  "timestamp": "2026-09-26T04:25:26.830752916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ken ti amin a nayup a makabingay ti kuku, nasinga iti dua a kuku, ken agsubli iti inmangan, iti kadagiti nayup — ⟨את⟩ dayta ti mabalin a kananyo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nayup"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "makabingay"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "nasinga"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "bingay"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "iti inmangan"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "iti kadagiti nayup"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (ti nayup a naibaga)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kananyo"
+    }
+  ],
+  "timestamp": "2026-09-26T08:07:40.387143548Z",
+  "model": "glm-5.3"
+}

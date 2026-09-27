@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Inka, agbaba, ta ti bukodmo a tattao a nangiyatmo manipud iti daga ti Mitsrayim ket dinadaelda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Inka"
+    },
+    {
+      "surface": "רד",
+      "gloss": "agbaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "dinadaelda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti bukodmo a tattao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "nangiyatmo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T04:34:42.937852892Z",
+  "model": "glm-5.3"
+}

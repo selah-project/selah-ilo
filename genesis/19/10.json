@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Inulogda dagiti tao ⟨את⟩ imada, ket impanda ⟨את⟩ kenn Lot kaniada iti balay, ken ⟨את⟩ ti ruangan inserraanda.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "inulogda"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imada"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "imada"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "impanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenn Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti ruangan"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "inserraanda"
+    }
+  ],
+  "timestamp": "2026-09-26T02:01:32.168042281Z",
+  "model": "glm-5.3"
+}

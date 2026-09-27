@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Nagpangato ti aso iti pukiotna, ket apoy manipud iti ngiwatna ti nagmangan; dagiti uling natudedanda manipud kenkuana.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "nagpangato"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "aso"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "iti pukiotna"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ket apoy"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "manipud iti ngiwatna"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ti nagmangan"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "dagiti uling"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "natudedanda"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T20:55:06.921886684Z",
+  "model": "glm-5.3"
+}

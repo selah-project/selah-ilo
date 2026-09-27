@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Ta saan kayo a rumuar iti panagtaranta, ken iti panagtaray saan kayo agturong; ta umuna kadakayo a mangagna ni Yahweh, ket ti agurnong kadakayo ti Elohim ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "iti panagtaranta"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "rumuarkayo"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "ken iti panagtaray"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "agturongkayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "umuna a mangagna"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "ket ti agurnong kadakayo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T15:46:06.241307895Z",
+  "model": "glm-5.3"
+}

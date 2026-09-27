@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": "Iti agituray iti kanta, maipanggep iti Shushan Eduth, miktam ni David, nga isuro.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "iti agituray iti kanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipanggep iti"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "nga isuro"
+    }
+  ],
+  "timestamp": "2026-09-26T21:36:07.284615566Z",
+  "model": "glm-5.3"
+}

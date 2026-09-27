@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Addaak iti kababaan, siak, ken asidegen nga agmatay manipud iti kinaananak; inbagak dagiti panagbutengmo — naallilawak.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "addaak iti kababaan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "ken asidegen nga agmatay"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "manipud iti kinaananak"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "inbagak"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "dagiti panagbutengmo"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "naallilawak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:08.808092129Z",
+  "model": "glm-5.3"
+}

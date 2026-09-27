@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Ti leon ken ti uleg diktam; ti ubing a leon ken ti nalatak nga uleg dikdiktam.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "leon"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "ken uleg"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "diktam"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "dikdiktam"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ti ubing a leon"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "ken ti nalatak nga uleg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:31.687434288Z",
+  "model": "glm-5.3"
+}

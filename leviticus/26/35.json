@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Amin dagiti aldaw ti panagdadaelanna agininantok ⟨ti⟩ ti saan a naipananaw kadagiti Shabbat yoyo, idi naginaedyo iti dayta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ti panagdadaelanna"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "agininantok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti saan a naipananaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "a naipananaw"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "kadagiti Shabbat yoyo"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "idi naginaedyo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T06:02:24.301905106Z",
+  "model": "glm-5.3"
+}

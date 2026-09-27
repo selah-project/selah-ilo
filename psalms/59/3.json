@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Ilakannak manipud kadagiti agobra ti dakes, ken isalakannak manipud kadagiti lallaki ti dara.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ilakannak"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "manipud kadagiti agobra"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "ken manipud kadagiti lallaki"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "isalakannak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:07.728331857Z",
+  "model": "glm-5.3"
+}

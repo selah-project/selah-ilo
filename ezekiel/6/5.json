@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket itedko ⟨את⟩ dagiti bagi dagiti natay nga anak ni Yisrael iti sango ti didiosenda, ket isabwagko ⟨את⟩ dagiti tulangyo iti likmutan ti dagiti altaryo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bagi dagiti natay"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "dagiti bagi dagiti natay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango ti"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "didiosenda"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ket isabwagko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tulangyo"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "dagiti tulangyo"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "iti likmutan"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "dagiti altaryo"
+    }
+  ],
+  "timestamp": "2026-09-26T18:07:46.796685071Z",
+  "model": "glm-5.3"
+}

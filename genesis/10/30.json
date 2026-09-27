@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket ti pagtaenganda ket manipud iti Mesha, iti panpanunotna a mapan iti Sefar, bantay ti daya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "ti pagtaenganda"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "manipud iti Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "iti panpanunotna a mapan"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "iti Sefar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "ti daya"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:37.453934870Z",
+  "model": "glm-5.3"
+}

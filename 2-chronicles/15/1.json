@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti Espiritu ti Elohim ket adda idi iti bagi ni Azaryah, anak ni Oded.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "ni Azaryah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "Oded"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adda idi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti bagianna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:25.613636360Z",
+  "model": "glm-5.3"
+}

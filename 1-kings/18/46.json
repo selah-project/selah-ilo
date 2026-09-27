@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 18:46",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ken ti ima ni Yahweh adda kenni Eliyahu, ket binakeranna dagiti hawina, ket timmaray iti sanguan ni Ahab agingga iti panangabotna ⟨iti⟩ Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "ken ti ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וישנס",
+      "gloss": "binakeranna"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "dagiti hawina"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "timmaray"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "iti panangabotna"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "iti Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-26T13:02:47.112300800Z",
+  "model": "glm-5.3"
+}

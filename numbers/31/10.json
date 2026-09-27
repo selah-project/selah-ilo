@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ken ⟨את⟩ amin a lidada iti pagtaenganda, ken ⟨את⟩ amin a pagkampoda, sinulpoda iti apoy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a lidada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "lidada"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "iti pagtaenganda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a pagkampoda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "pagkampoda"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "sinulpoda"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T07:15:12.721388513Z",
+  "model": "glm-5.3"
+}

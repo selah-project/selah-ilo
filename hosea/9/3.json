@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Haanda nga agnanaed iti daga ni Yahweh, ket agsubli ni Efrayim iti Mitsrayim, ken iti Ashur manganda iti narugit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "haanda"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ket agsubli"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "ken iti Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "narugit"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "manganda"
+    }
+  ],
+  "timestamp": "2026-09-26T19:41:34.364777447Z",
+  "model": "glm-5.3"
+}

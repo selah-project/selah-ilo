@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ket nakitada dagiti kabsatna ta ⟨את⟩ isuna ti ay-ayaten ni amada ngem amin kadagiti kabsatna, ket awayenda ⟨את⟩ isuna, ken saandada a mabael makisao kakuana iti kappia.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dagiti kabsatna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ti ay-ayaten"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ni amada"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngem amin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kadagiti kabsatna"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "awayenda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saandanda"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "a mabael"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "makisao kakuana"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "iti kappia"
+    }
+  ],
+  "timestamp": "2026-09-26T02:51:37.050319515Z",
+  "model": "glm-5.3"
+}

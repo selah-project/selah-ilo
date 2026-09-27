@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Dagiti anak a lalaki ni Gad, segun kadagiti pamilia da: ni Tsefon, ti pamilia dagiti Tsefoni; ni Khagi, ti pamilia dagiti Khagi; ni Shuni, ti pamilia dagiti Shuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Dagiti anak a lalaki"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segun kadagiti pamilia da"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ni Tsefon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "dagiti Tsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "ni Khagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "dagiti Khagi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ni Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "dagiti Shuni"
+    }
+  ],
+  "timestamp": "2026-09-26T07:02:42.622773282Z",
+  "model": "glm-5.3"
+}

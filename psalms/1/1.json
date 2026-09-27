@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Naragsak ti tao a saan a nagna iti payo dagiti dakes, ket iti dalan dagiti makabasol saan a nagtakder, ken iti pagtugaoan dagiti mangnguyaw saan a nagtugao.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Naragsak"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "iti payo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ket iti dalan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dagiti makabasol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagtakder"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "ken iti pagtugaoan"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "dagiti mangnguyaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagtugao"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:03.319548747Z",
+  "model": "glm-5.3"
+}

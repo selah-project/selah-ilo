@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Immulina kaniada ket nagrang-ay; nagsubli kaniada ket insaona kaniada; kinuana kaniada ⟨את⟩ ni Shimeon ken pinarigetanna ⟨את⟩ ti imana iti nasirmataanda.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "immulina"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "nagrang-ay"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "insaona"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ kaniada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shimeon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ni Shimeon"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "pinarigetanna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti imana"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "iti nasirmataanda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:10:01.618049949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "ket simmangpet iti Yerushalayim iti maikalima a bulan, dayta ket ti maikapito a tawen ti ari.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ket simmangpet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "maikalima"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ti tawen"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T23:22:47.403979881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ammomanto dagiti Mitsrayim a siak ti Yahweh no iyatiwko ⟨את⟩ ti imak kadagiti Mitsrayim, ken iparuartekto ⟨את⟩ dagiti anak ni Yisrael manipud iti tengngada.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ken ammomanto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dagiti Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "no iyatiwko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ti imak"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ken iparuartekto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "manipud iti tengngada"
+    }
+  ],
+  "timestamp": "2026-09-26T03:30:29.648999273Z",
+  "model": "glm-5.3"
+}

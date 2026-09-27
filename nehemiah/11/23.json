@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ta bilin ti ari iti kaniada, ken ti talinaed a panganuted kadagiti kumakanta, sao ti aldaw iti aldawna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "iti kaniada"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "ken ti talinaed a panganuted"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "kumakanta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "iti aldawna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:25.567393553Z",
+  "model": "glm-5.3"
+}

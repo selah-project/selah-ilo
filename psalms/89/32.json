@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "No dadaelenda dagiti estatutoko, ken dagiti bilinko saanda a salakniben.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "dagiti estatutoko"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "dadaelenda"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ken dagiti bilinko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "salaknibenda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:27.689667673Z",
+  "model": "glm-5.3"
+}

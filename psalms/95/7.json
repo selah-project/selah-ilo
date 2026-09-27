@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 95,
+  "translation": "Ta isu ti Elohimtayo, ket dakami ti umili ti pagpastolanna ken dagiti karnero iti imana; ita nga aldaw, no ti timekna ket mamatiyokayo —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimtayo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ket dakami"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "ti pagpastolanna"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ken dagiti karnero"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ti timekna"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mamatiyokayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:13.842710173Z",
+  "model": "glm-5.3"
+}

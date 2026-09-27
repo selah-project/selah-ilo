@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "No adda ti ⟨dakes a nego⟩ a tsaraat iti tao, maiyeg isuna iti padi;",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "nego"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ken maiyeg isuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "padi"
+    }
+  ],
+  "timestamp": "2026-09-26T05:20:35.774202831Z",
+  "model": "glm-5.3"
+}

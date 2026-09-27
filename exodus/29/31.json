@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Alaem ⟨את⟩ ti karnero ti panagpuno ken lutoem ⟨את⟩ ti lasagna iti nasantuan a disso.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti karnero ti panagpuno"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ti karnero"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ti panagpuno"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "Alaem"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ken lutoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lasagna"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ti lasagna"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "iti nasantuan a disso"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:28:20.341444480Z",
+  "model": "glm-5.3"
+}

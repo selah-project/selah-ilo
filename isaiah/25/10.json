@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ta ti ima ni Yahweh agininaiddanto iti daytoy a bantay, ket madusdusanto ti Moab babaenna, a kas ti panagdusdos ti natidda a dara iti Madmenah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "agininaiddanto"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "ket madusdusanto"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "babaenna"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "a kas ti panagdusdos"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "ti natidda a dara"
+    },
+    {
+      "surface": "במי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmenah"
+    }
+  ],
+  "timestamp": "2026-09-26T14:58:05.397205815Z",
+  "model": "glm-5.3"
+}

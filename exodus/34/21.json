@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Innem nga aldaw agobrado, ngem iti maikapito nga aldaw aginanka; iti panawen ti panagarado ken iti panawen ti apit aginanka.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "innem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "agobrado"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ngem iti aldaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "aginanka"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "iti panawen ti panagarado"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "ken iti panawen ti apit"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "aginanka"
+    }
+  ],
+  "timestamp": "2026-09-26T04:34:41.664588474Z",
+  "model": "glm-5.3"
+}

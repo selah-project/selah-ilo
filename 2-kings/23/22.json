@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ta saan a naaramid ti kasta a Pesach manipud kadagiti aldaw dagiti umukom a nagukomda ⟨את⟩ ti Yisrael, ken iti amin nga aldaw dagiti ari ti Yisrael ken dagiti ari ti Yehudah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "naaramid"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "ti kasta a Pesach"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "manipud kadagiti aldaw"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "dagiti umukom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "nagukomda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "ken dagiti ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T14:02:51.314466825Z",
+  "model": "glm-5.3"
+}

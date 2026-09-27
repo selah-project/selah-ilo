@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Maysa a linteg ti agtalinaed kadakayo — kas iti agtaeng, kasta met ti naianak — ta siak ti Yahweh nga Elohimyo.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "linteg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "Maysa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti agtalinaed"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "kas iti agtaeng"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "kasta met ti naianak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti agtalinaed ⟨met⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimyo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:49:55.717178137Z",
+  "model": "glm-5.3"
+}

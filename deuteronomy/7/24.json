@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken itedanna dagiti arida iti imam, ket dadaelem ⟨את⟩ ti nagannda manipud baba dagiti langit; awan ti lalaki nga agtaktakder iti sanguam agingga madadaem ⟨את⟩ dagitu.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "itedanna"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dagiti arida"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "iti imam"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "dadaelem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagannda"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ti nagannda"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "manipud baba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "agtaktakder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "iti sanguam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "madadaem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitu a pagilian"
+    }
+  ],
+  "timestamp": "2026-09-26T07:50:49.319580384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Insungbat ni Yosef ⟨את⟩ ni Paro nga kuna: Saan a siak; ni Elohim ti mangsungbat ⟨את⟩ kappia ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "insungbat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "saan a siak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "mangsungbat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kappia"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T03:01:40.414389788Z",
+  "model": "glm-5.3"
+}

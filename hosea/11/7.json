@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken ti umilik agur-urayda iti panagsublik, ken iti Ngato awagan da isuna, agpada a saan mangato.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "ken ti umilik"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "agur-urayda"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "iti panagsublik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ngato"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "awagan da isuna"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "agpada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "mangato"
+    }
+  ],
+  "timestamp": "2026-09-26T19:40:08.739170541Z",
+  "model": "glm-5.3"
+}

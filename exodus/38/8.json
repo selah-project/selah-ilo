@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ket inaramidna ⟨את⟩ ti lababo a gambang ken ⟨את⟩ ti takderna a gambang, manipud kadagiti sarming dagiti babbai a nagserserbi, dagiti nagserserbi iti ruangan ti Tolda ti Gimong.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lababo"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "ti lababo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "a gambang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti takderna"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ti takderna"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "a gambang"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "manipud kadagiti sarming"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "dagiti babbai a nagserserbi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "nagserserbi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iti ruangan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T04:42:36.776495264Z",
+  "model": "glm-5.3"
+}

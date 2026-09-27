@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Mangankanto iti daan a nataengan a bagas, ket ti daan, iti sanguanan ti baro, ti iparuar yo.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Mangankanto"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "daan"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "nataengan a bagas"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "ken ti daan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baro"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "ti iparuar yo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:54:47.159030324Z",
+  "model": "glm-5.3"
+}

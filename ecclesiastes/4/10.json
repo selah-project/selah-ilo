@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ta no matnagda, ti maysa ipatindoganna ⟨את⟩ ti kakadwana; ngem no ti maysa matnagna, ket awan maikadua a mangipatindog kenkuana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "matnagda"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "ipatindoganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kakadwana"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ti kakadwana"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ngem no"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "matnagna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "a mangipatindog kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:57.773567490Z",
+  "model": "glm-5.3"
+}

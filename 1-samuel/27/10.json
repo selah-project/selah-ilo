@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Kinuna ni Akish: Sadino kadi ti naramidyokayo ita nga aldaw? Ket kinuna ni David: Iti Nageb ti Yehudah, ken iti Nageb ti Yerahmeeli, ken iti Nageb ti Keni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ni Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "naramidyokayo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Nageb"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Nageb"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "ti Yerahmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Nageb"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "ti Keni"
+    }
+  ],
+  "timestamp": "2026-09-26T11:15:37.341866545Z",
+  "model": "glm-5.3"
+}

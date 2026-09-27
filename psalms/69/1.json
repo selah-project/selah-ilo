@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Kadagiti lallaki nga agturay iti kanta, iti Shoshannim, ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kadagiti lallaki nga agturay iti kanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:18.678827965Z",
+  "model": "glm-5.3"
+}

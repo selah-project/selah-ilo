@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Isuna ket dinnesna ⟨את⟩ dagiti Pelishtio agingga iti Azzah ken ⟨את⟩ dagiti pagbeddenganna, manipud iti torre dagiti mangbantay agingga iti napakbel nga ili.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "dinnesna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Pelishtio"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtio"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "iti Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pagbeddenganna"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "dagiti pagbeddenganna"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "manipud iti torre"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "dagiti mangbantay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "a napakbel"
+    }
+  ],
+  "timestamp": "2026-09-26T13:53:09.466976883Z",
+  "model": "glm-5.3"
+}

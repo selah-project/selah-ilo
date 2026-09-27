@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Inyeg dagiti nakakita ⟨את⟩ na a natiliw nga agurnong iti sungrod ken ni Moshe ken ken ni Aharon ken iti amin a gimong.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "iniyegda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti lalaki"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "dagiti nakakita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti agurnong iti sungrod"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "agurnong"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "sungrod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T06:41:18.604869315Z",
+  "model": "glm-5.3"
+}

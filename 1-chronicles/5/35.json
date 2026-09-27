@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket ni Akhimaats nagputot ⟨את⟩ kenn Azarya, ket ni Azarya nagputot ⟨את⟩ kenn Yokhanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "ket ni Akhimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ket ni Azarya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokhanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yokhanan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:47.474441384Z",
+  "model": "glm-5.3"
+}

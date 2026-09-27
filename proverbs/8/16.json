@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Bekdag kaniak nga agturay dagiti pangulo ken dagiti nangato a tao, amin a dagiti agukom iti kinalinteg.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "bekdag kaniak"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "dagiti pangulo"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "agturay"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "ken dagiti nangato a tao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "dagiti agukom"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "iti kinalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:51.668149769Z",
+  "model": "glm-5.3"
+}

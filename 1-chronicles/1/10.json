@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ni Kush nagputot ⟨את⟩ kenni Nimrod; isu ti nangrugi nga agbalin a bileg iti daga.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ni Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "kenni Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ti nangrugi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "nga agbalin"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "a bileg"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:58.935191940Z",
+  "model": "glm-5.3"
+}

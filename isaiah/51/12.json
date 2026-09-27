@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Siak, siak ti mangiliwliw kadakayo. Ania ngatan sika, a makabutengka iti lalaki nga agmatay, ken iti anak ti tao a kas ti ruot a maited?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "mangiliwliw kadakayo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ania ngatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "a makabutengka"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "iti lalaki"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "nga agmatay"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "ken iti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "a kas ti ruot"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "a maited"
+    }
+  ],
+  "timestamp": "2026-09-26T15:45:41.069945366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 18:31",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Saan kamo nga agdengngeg kennu ni Khizkiyahu, ta kasta ti kinuna ti ari ti Ashur: Aramidenyo ⟨אתי⟩ maysa a bendision kaduak, ken rumuarkamo kaniak, ken mangankamo — ti tunggal lalaki iti mula ti ubasna, ket ti tunggal lalaki iti kayo ti igosna — ket inumkayo, ti tunggal lalaki, iti danum ti posona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "agdengngeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ni Khizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "aramidenyo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kaduak"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bendision"
+    },
+    {
+      "surface": "וצאו",
+      "gloss": "ken rumuarkamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ken mangankamo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal lalaki"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "mula ti ubasna"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ket ti tunggal lalaki"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "kayo ti igosna"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ken inumkayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal lalaki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "danum"
+    },
+    {
+      "surface": "בורו",
+      "gloss": "posona"
+    }
+  ],
+  "timestamp": "2026-09-26T14:00:07.790064505Z",
+  "model": "glm-5.3"
+}

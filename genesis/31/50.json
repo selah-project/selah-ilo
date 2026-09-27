@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "No iparigatam ⟨את⟩ dagiti anakak a babai, ken no alaem dagiti babai iti ngato dagiti anakak a babai, awan ⟨ti⟩ lalaki kadakami; kitaem, ni Elohim ⟨is⟩ ti saksi iti nagbaetan ti siak ken iti nagbaetan ti sika.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "iparigatam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anakak a babai"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "dagiti anakak a babai"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "dagiti babai"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "dagiti anakak a babai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ti saksi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "iti nagbaetan ti siak"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ken iti nagbaetan ti sika"
+    }
+  ],
+  "timestamp": "2026-09-26T02:42:27.436763817Z",
+  "model": "glm-5.3"
+}

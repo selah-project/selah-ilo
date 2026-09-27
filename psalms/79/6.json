@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 79,
+  "translation": "Ipusam ti riingmo kadagiti pagilian a saan da nga ammo Kenka, ken kadagiti pagariidan a saan da nga awagan iti Nagammo.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Ipusam"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ti riingmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "pagilian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan da nga"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ammo Kenka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "pagariidan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "iti Nagammo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan da nga"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "awagan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:22.724882856Z",
+  "model": "glm-5.3"
+}

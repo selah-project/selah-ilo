@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Sika, ni Yahweh — saanmo a karikaren dagiti kaasim kaniak; ti hesedmo ken ti kinapudnomo agnanayon a salaknibandak.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "karikaren"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dagiti kaasim"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ken ti kinapudnomo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "salaknibandak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:57.867564690Z",
+  "model": "glm-5.3"
+}

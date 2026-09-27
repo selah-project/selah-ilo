@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ni Novach ket nagna ket innalana ti ⟨את⟩ Kenat ken ⟨את⟩ dagiti purokna, ket inawaganna dayta iti Novach, iti bukodna a nagan.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "ni Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "innalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "ti Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti purokna"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "dagiti purokna"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "iti Novach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "iti bukodna a nagan"
+    }
+  ],
+  "timestamp": "2026-09-26T07:13:56.715843011Z",
+  "model": "glm-5.3"
+}

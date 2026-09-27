@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ti kinalamolamo ti amam ken ti kinalamolamo ti inam, saanmo a buklatan; ti inam isuna, saanmo a buklatan ti kinalamolamo na.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ti kinalamolamo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ti amam"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "ken ti kinalamolamo"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ti inam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "a buklatan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ti inam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "a buklatan"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ti kinalamolamo na"
+    }
+  ],
+  "timestamp": "2026-09-26T05:33:50.300129630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ket ti maikadua a tudul: nofek, sapir ken yahalom.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ket ti tudul"
+    },
+    {
+      "surface": "השני",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "nofek"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "sapir"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ken yahalom"
+    }
+  ],
+  "timestamp": "2026-09-26T04:21:19.989475096Z",
+  "model": "glm-5.3"
+}

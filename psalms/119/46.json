@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "ket agsasaok kadagiti pammasingkedmo iti sangoan dagiti ari, ket saanak a mabain",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "agsasaok"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "kadagiti pammasingkedmo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanak"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "a mabain"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:07.704392910Z",
+  "model": "glm-5.3"
+}

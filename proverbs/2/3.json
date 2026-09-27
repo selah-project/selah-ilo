@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ta no awaganmo ti kaammo, ket itedmo ti timekmo iti pannakaammo;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ti kaammo"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "awaganmo"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "iti pannakaammo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ti timekmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:33:01.696913759Z",
+  "model": "glm-5.3"
+}

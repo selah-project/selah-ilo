@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Inalana ni Naomi ⟨את⟩ ti ubing ken inkabilna iti buslongna, ket nagbalin a nagayaywan kenkuana.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ni Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ubing"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ti ubing"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "inkabilna"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "iti buslongna"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "a nagayaywan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:04:26.187021744Z",
+  "model": "glm-5.3"
+}

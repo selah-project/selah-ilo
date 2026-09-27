@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Lam-ii, iti Elohim laeng agin-innak ⟨ti⟩ kararuak; ta manipud kenkuana ti pagurayko.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lam-ii, laeng"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "agin-innak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kenkuana"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ti pagurayko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:36.742058690Z",
+  "model": "glm-5.3"
+}

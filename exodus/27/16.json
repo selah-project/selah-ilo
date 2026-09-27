@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 27:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "ket iti ruangan ti korte: maysa a lambong ti duapulo a soko, asul ken purpura ken eskarlata ken nasirongan a lino, aramid ti bordado; dagiti posteda uppat, ket dagiti pagtakkigedanda uppat.",
+  "tokens": [
+    {
+      "surface": "ולשער",
+      "gloss": "ket iti ruangan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti korte"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "maysa a lambong"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "a soko"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ken purpura"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ken [tolaat]"
+    },
+    {
+      "surface": "שני",
+      "gloss": "eskarlata"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ken lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nasirongan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "ti bordado"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "dagiti posteda"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ket dagiti pagtakkigedanda"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "uppat"
+    }
+  ],
+  "timestamp": "2026-09-26T04:16:36.712690527Z",
+  "model": "glm-5.3"
+}

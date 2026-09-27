@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 21:10",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "No rumuam iti gubat ken dagiti dushmanmo, ket itedna ni Yahweh nga Elohimmo kadagiti dushmanmo iti imam, ket alaem dagiti naala a bilanggo",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "rumuam"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ken"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dagiti dushmanmo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "iti imam"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "ket alaem a bilanggo"
+    },
+    {
+      "surface": "שביו",
+      "gloss": "dagiti naala"
+    }
+  ],
+  "timestamp": "2026-09-26T08:11:06.782720184Z",
+  "model": "glm-5.3"
+}

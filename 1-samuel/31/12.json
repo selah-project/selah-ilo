@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket nagtakderda amin a lalaki iti bileg, ket nagnada amin a rabii, ket inalada ⟨את⟩ ti bagi ni Shaul ken ⟨את⟩ dagiti bagi dagiti anakna manipud iti pader ti Bet-Shan, ket immayda iti Yavesh, ket sinilda ⟨אתם⟩ idiay.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "nagtakderda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nagnada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ti rabii"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bagi ni Shaul"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "ti bagi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bagi dagiti anakna"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "dagiti bagi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "manipud iti pader"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-Shan"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Bet-Shan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "iti Yavesh"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "sinilda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dagiti bagi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "idiay"
+    }
+  ],
+  "timestamp": "2026-09-26T11:23:16.254927917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Insungbatan ni Akhan ⟨את⟩ ni Yehoshua ket kinuna: Sigud a nagsinakanko kenni Yahweh, ti Elohim ti Yisrael, ken kasta ken kasta ti inaramidko.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "insungbatan"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "ni Akhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "sigud a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nagsinakanko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ken kasta"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ken kasta"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ti inaramidko"
+    }
+  ],
+  "timestamp": "2026-09-26T09:07:39.696828738Z",
+  "model": "glm-5.3"
+}

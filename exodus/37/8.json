@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Maysa a kerub iti patingga iti daytoy a bangir, ket maysa a kerub iti patingga iti dayta a bangir; manipud iti maysa a rabaw ti kapporet inaramidda ⟨את⟩ dagiti kerub iti dua a patinggana.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Maysa a kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "iti patingga"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iti daytoy a bangir"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "ket maysa a kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "iti patingga"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iti dayta a bangir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kerub"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "dagiti kerub"
+    },
+    {
+      "surface": "משני",
+      "gloss": "iti dua"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "a patinggana"
+    }
+  ],
+  "timestamp": "2026-09-26T04:42:53.659664428Z",
+  "model": "glm-5.3"
+}

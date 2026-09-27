@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 17:13",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ken napasamak, idi timbenganda dagiti annak ni Yisrael, a nagbalinda ⟨את⟩ ti Kanaan a kas mannakabayar-buwis, ngem saananda a nangikkat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "timbenganda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "nagbalinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ti Kanaan"
+    },
+    {
+      "surface": "למס",
+      "gloss": "a kas mannakabayar-buwis"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "ngem ti panangikkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "innikatna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:04:42.703759151Z",
+  "model": "glm-5.3"
+}

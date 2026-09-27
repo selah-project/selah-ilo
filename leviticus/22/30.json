@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Iti dayta nga aldaw makan daytoy; saan kayo agituray iti umma manipud kenkuana agingga iti bigat: siak ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan daytoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "kayo agituray iti umma"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kenkuana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bigat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:46:18.934721007Z",
+  "model": "glm-5.3"
+}

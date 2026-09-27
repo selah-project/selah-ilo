@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Inawaganda ti bain ken pinagtugawda ⟨את⟩ ni Navot iti ulo ti umili.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "inawaganda"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ti bain"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "pinagtugawda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "iti ulo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T13:03:55.888625382Z",
+  "model": "glm-5.3"
+}

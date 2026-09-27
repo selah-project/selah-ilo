@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Napasamak, idi simmangpet ni David ken dagiti taoanna iti Tsiklag, iti maikatlo nga aldaw, a rimmuada ti Amalekita iti Negev ken iti Tsiklag, ket tinugodanda ⟨את⟩ ti Tsiklag ken sinilapanda ⟨את⟩ iti apoy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "idi simmangpet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ken dagiti taoanna"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "iti Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "ti Amalekita"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "rimmuada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "tinugodanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "sinilapanda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iti apoy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T11:22:21.694257469Z",
+  "model": "glm-5.3"
+}

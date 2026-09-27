@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 4:15",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket kinunana kaniak: Kitaem, intednak kenka ⟨את⟩ ti tapok dagiti baka imbes a tapok ti tao, ket aramidem ⟨את⟩ ti tinapaymo kadakuada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "intednak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tapok dagiti baka"
+    },
+    {
+      "surface": "צפועי",
+      "gloss": "ti tapok"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dagiti baka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "imbes a"
+    },
+    {
+      "surface": "גללי",
+      "gloss": "tapok"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ket aramidem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tinapaymo"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ti tinapaymo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T18:07:11.358922777Z",
+  "model": "glm-5.3"
+}

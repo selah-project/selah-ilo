@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Kadagiti mannangipatingga — maipapan iti Yonath elem rehokim — miktam ni David, idi tinengngelna ⟨את⟩ dagiti Filisteo idiay Gath.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kadagiti mannangipatingga"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipapan"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonath"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elem"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rehokim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "idi tinengngelna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Filisteo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Filisteo"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "idiay Gath"
+    }
+  ],
+  "timestamp": "2026-09-26T21:30:16.927677085Z",
+  "model": "glm-5.3"
+}

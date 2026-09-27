@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "No ti adipen ti maysa a tao a gatang iti pilak, ket ulitekam ⟨את⟩, no dadduma mangan iti daytoy.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "No ti"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "adipen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a tao"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "a gatang"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "iti pilak"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "ket ulitekam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipen"
+    },
+    {
+      "surface": "אז",
+      "gloss": "no dadduma"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T03:47:22.894806732Z",
+  "model": "glm-5.3"
+}

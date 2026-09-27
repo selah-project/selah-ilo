@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Nagbasolkami kadagiti ammatayo, nagiddakami, nagdakeskami.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "nagbasolkami"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ammatayo"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "nagiddakami"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "nagdakeskami"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:45.592040555Z",
+  "model": "glm-5.3"
+}

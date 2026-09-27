@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ken dagiti lallaki a nasantuan ti agykayo kaniak; ken lasag iti talon a tinorna, saankayo a mangan ti ⟨iti⟩; iti aso ibuyongyo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ken dagiti lallaki"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a nasantuan"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "ti agykayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ken lasag"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "a tinorna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kayo ti mangan"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "iti aso"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "ibuyongyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti tinorna a lasag"
+    }
+  ],
+  "timestamp": "2026-09-26T04:07:28.678332085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken ⟨את⟩ Khukok ken ⟨את⟩ dagiti pastoanna, ken ⟨את⟩ Rekhob ken ⟨את⟩ dagiti pastoanna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Khukok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Khukok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pastoanna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti pastoanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Rekhob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pastoanna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti pastoanna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:14.311496176Z",
+  "model": "glm-5.3"
+}

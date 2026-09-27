@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket ti tao ket inababana, ket ti lalaki ket inababana, ket saanmo koma nga ipatawarda.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ket inababana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ket inababana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saanmo koma"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nga ipatawarda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-09-26T14:11:51.796351582Z",
+  "model": "glm-5.3"
+}

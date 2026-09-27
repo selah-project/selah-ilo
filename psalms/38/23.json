@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Tarayam a tumulong kaniak, Adonay, ti panangisalakanko.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Tarayam"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "a tumulong kaniak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ti panangisalakanko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:13:28.073451603Z",
+  "model": "glm-5.3"
+}

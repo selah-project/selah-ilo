@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Siak, siak ti isu a punasenna ⟨את⟩ dagiti pammalbasolmo para ti sikonto a gapu, ket ⟨את⟩ dagiti basolmo saanko nga aglagipen.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti isu"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "a punasenna"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "dagiti pammalbasolmo"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "para ti sikonto a gapu"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "ket dagiti basolmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanko"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nga aglagipen"
+    }
+  ],
+  "timestamp": "2026-09-26T15:29:54.997039641Z",
+  "model": "glm-5.3"
+}

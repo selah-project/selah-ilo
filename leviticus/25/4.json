@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ket iti maikapito a tawen Shabbat, panaginnaian, ti agturay iti daga — Shabbat kenni Yahweh; ti talonmo saanmo a mulam, ket ti awaymo saanmo a putulem.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Ket iti ... a tawen"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "panaginnaian"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti agturay"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ti talonmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "mulam"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "ket ti awaymo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "putulem"
+    }
+  ],
+  "timestamp": "2026-09-26T05:54:01.349735526Z",
+  "model": "glm-5.3"
+}

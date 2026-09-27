@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ken iti maikadua a bangir ti ⟨ti⟩ Mishkan, iti bangir ti amianan, duapulo a tabla.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ken bangir"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "iti bangir"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "amianan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tabla"
+    }
+  ],
+  "timestamp": "2026-09-26T04:19:42.525079064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Saan kadi, kitaen, nga aggapu ⟨iti⟩ ⟨את⟩ kenni Yahweh ti Tsevaot — agtarabahodagiti umili iti apoy, ken dagiti nasion iti awan linaon nga agpapagalda?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Saan kadi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "aggapu ⟨את⟩",
+      "marks": "manipud kenni Yahweh ti Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "agtarabahoda"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ken dagiti nasion"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "awan linaon"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "agpapagalda"
+    }
+  ],
+  "timestamp": "2026-09-26T20:14:16.197891860Z",
+  "model": "glm-5.3"
+}

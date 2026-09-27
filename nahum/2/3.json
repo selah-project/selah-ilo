@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ta agsubli ni Yahweh ⟨את⟩ ti daydayaw ni Yaakov, a kas iti daydayaw ni Yisrael; ta dagiti agbabakbakket binakbakketanda, ket dinadaelda dagiti sanga ti ubasda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "שב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daydayaw"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "daydayaw"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "a kas iti daydayaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "dagiti agbabakbakket"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "binakbakketanda"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "ket dagiti sanga ti ubasda"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "dinadaelda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:13:51.899862151Z",
+  "model": "glm-5.3"
+}

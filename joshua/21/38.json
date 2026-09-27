@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 21:38",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken manipud iti tribu ni Gad, ⟨את⟩ ti ili ti pagliwliwaan ti mammatay, ⟨את⟩ Ramoth iti Gilead ken ⟨את⟩ ti daga iti lawlawna, ken ⟨את⟩ Machanaim ken ⟨את⟩ ti daga iti lawlawna.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "manipud iti tribu"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ili ti pagliwliwaan ti mammatay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "ti pagliwliwaan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ti mammatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramoth iti Gilead"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "iti Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Machanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga iti lawlawna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ti daga iti lawlawna"
+    }
+  ],
+  "timestamp": "2026-09-26T09:24:58.797905043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 18:1",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kinuna ni Yahweh kenni Aharon: Sika, ken dagiti anakmo a lalaki, ken ti balay ni amam a kaduam — agpasankayo ⟨את⟩ ti basol ti nasantoan a disso; ken sika ken dagiti anakmo a lalaki a kaduam — agpasankayo ⟨את⟩ ti basol ti panagpadiyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ken dagiti anakmo a lalaki"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ken ti balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ni amam"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ a kaduam"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "agpasankayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti basol ti nasantoan a disso"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ti nasantoan a disso"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ken dagiti anakmo a lalaki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ a kaduam"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "agpasankayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti basol ti panagpadiyo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "כהנתכם",
+      "gloss": "ti panagpadiyo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:49:07.801690826Z",
+  "model": "glm-5.3"
+}

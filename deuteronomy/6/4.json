@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Dengngegem, Yisrael: Yahweh ti Elohim tayo, Yahweh ket maysa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dengngegem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim tayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T07:46:30.162093666Z",
+  "model": "glm-5.3"
+}

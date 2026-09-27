@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "ket agawagkayo ⟨את⟩ kenkuak, ket umaykayo ken agkararagkayo kenkuak, ket dengngegko kadakayo.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "agawagkayo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuak"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "umaykayo"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "agkararagkayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kenkuak"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "dengngegko"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T17:15:12.220032079Z",
+  "model": "glm-5.3"
+}

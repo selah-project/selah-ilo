@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "No nakitak ti basol iti pusok, saan a dengngegennakonto ni Adonay.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "iti pusok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dengngegennakonto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    }
+  ],
+  "timestamp": "2026-09-26T21:34:58.729985366Z",
+  "model": "glm-5.3"
+}

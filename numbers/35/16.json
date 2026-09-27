@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "No iti ramit ti landok inpatayna ket natay, mammatay ti tao isuna; patayen a madi ti mammatay.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "No"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "iti ramit"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ti landok"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "inpatayna"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "mammatay ti tao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "patayen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a madi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ti mammatay"
+    }
+  ],
+  "timestamp": "2026-09-26T07:27:28.902220713Z",
+  "model": "glm-5.3"
+}

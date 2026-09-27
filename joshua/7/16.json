@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket immay ni Yehoshua a nasapa iti bigat, ken inasidegna ⟨את⟩ ti Yisrael babaen kadagiti tribuna, ket nalaala ti tribu ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "immaton nga immay a nasapa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ken inasidegna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "babaen kadagiti tribuna"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ket nalaala"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ti tribu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:02:12.562719030Z",
+  "model": "glm-5.3"
+}

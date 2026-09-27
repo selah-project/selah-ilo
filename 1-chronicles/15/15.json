@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket inalsa dagiti annak ti Levita ⟨את⟩ ti arko ti Elohim, kas ti bilin ni Moshe segun iti sao ni Yahweh, kadagiti abaga da babaen kadagiti baet.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ket inalsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ti Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas ti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "segun iti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "kadagiti abaga da"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "babaen kadagiti baet"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "iti rabaw da"
+    }
+  ],
+  "timestamp": "2026-09-26T23:38:31.173630254Z",
+  "model": "glm-5.3"
+}

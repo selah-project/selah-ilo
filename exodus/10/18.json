@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Nagrua ni Moshe manipud kenni Paro, ket nagkararag kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nagrua"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manipud kenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ket nagkararag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T03:43:54.053102491Z",
+  "model": "glm-5.3"
+}

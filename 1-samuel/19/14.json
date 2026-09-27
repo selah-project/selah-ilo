@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Intuldong ni Shaul dagiti mensahero nga alaenda ⟨את⟩ ni Dawid, ket kinuna ni Mikal: Sakiton daytoy.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "intuldong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "dagiti mensahero"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "nga alaenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "Sakiton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T10:59:57.048871690Z",
+  "model": "glm-5.3"
+}

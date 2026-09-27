@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Lukatanna ti bato ket agayus ti danum, nagnaanda kadagiti namaga a lugar a kas maysa a karayan.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Lukatanna"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ket agayus"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nagnaanda"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "kadagiti namaga a lugar"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "a kas maysa a karayan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:12.339557747Z",
+  "model": "glm-5.3"
+}

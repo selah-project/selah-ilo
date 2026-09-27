@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Rimmuar ni Kayin manipud iti sangoan ni Yahweh, ket nagiyan iti daga ti Nod, iti daya ti Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Rimmuar"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ni Kayin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "manipud iti sangoan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ket nagiyan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "ti Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ti Eden"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:58.701400168Z",
+  "model": "glm-5.3"
+}

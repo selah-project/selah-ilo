@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Maysa a kanta, maysa a mizmor ni Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Maysa a kanta"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:18.401283526Z",
+  "model": "glm-5.3"
+}

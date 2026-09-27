@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 65,
+  "translation": "Ket mapasamak a sakbay nga agawaganda, siak ti agsungbat; idi pay agsasaoda, siak ti agdengngeg.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket mapasamak"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "sakbay"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "agawaganda"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "agsungbat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "idi pay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "agsasaoda"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "agdengngeg"
+    }
+  ],
+  "timestamp": "2026-09-26T16:09:54.575092569Z",
+  "model": "glm-5.3"
+}

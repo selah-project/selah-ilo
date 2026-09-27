@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Dagiti anak a lalaki ni Shimon: Yemuel, ken Yamin, ken Ohad, ken Yakhin, ken Tsohar, ken Shaul, anak ti Kenaanit a babai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dagiti anak a lalaki"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ni Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ken Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "ken Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ken Yakhin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "ken Tsohar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ken Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "ti Kenaanit a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T03:12:02.292459862Z",
+  "model": "glm-5.3"
+}

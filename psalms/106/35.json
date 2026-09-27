@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "ket immailoda kadagiti nasion ken inadalanda dagiti ar-aramidda.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "ket immailoda"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti nasion"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "ken inadalanda"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "dagiti ar-aramidda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:31.039431103Z",
+  "model": "glm-5.3"
+}

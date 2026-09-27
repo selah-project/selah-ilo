@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 23:6",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ni David nangbingbingay kadakuada kadagiti pannakabingay, kadagiti annak ni Levi: kenni Gershon, kenni Kehath, ken ni Merari.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "nangbingbingay kadakuada"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "kadagiti pannakabingay"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti annak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "kenni Gershon"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehath"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ken ni Merari"
+    }
+  ],
+  "timestamp": "2026-09-26T23:40:00.467159767Z",
+  "model": "glm-5.3"
+}

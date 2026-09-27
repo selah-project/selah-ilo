@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "ken ⟨את⟩ ti kandelabra ti silaw ken ⟨את⟩ dagiti kasasaadanna ken ⟨את⟩ dagiti lamparana ken ⟨את⟩ ti lana ti silaw;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kandelabra"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "ti kandelabra"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ti silaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kasasaadanna"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dagiti kasasaadanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti lamparana"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dagiti lamparana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ti silaw"
+    }
+  ],
+  "timestamp": "2026-09-26T04:37:34.574285361Z",
+  "model": "glm-5.3"
+}

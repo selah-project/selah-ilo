@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket naiwaras ti umili iti amin a daga ti Mitsrayim, agurnong iti natidda a purao, imbes ti purao.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "naiwaras"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "agurnong"
+    },
+    {
+      "surface": "קש",
+      "gloss": "iti natidda a purao"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "imbes ti purao"
+    }
+  ],
+  "timestamp": "2026-09-26T03:33:15.304723070Z",
+  "model": "glm-5.3"
+}

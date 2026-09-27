@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "ken ikkam ⟨את⟩ iti baba ti karkeb ti altar, manipud iti babab, ket agbalin ti reket agingga iti kagudua ti altar.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ken ikkam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iti baba ti karkeb ti altar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "ti karkeb"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "manipud iti babab"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ti reket"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "iti kagudua"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:19:12.317315003Z",
+  "model": "glm-5.3"
+}

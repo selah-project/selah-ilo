@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Iti asideg dagiti ruangan, iti ngiwat ti ili, iti ruaran dagiti pinto, agkanta ⟨daytoy⟩.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "iti asideg"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dagiti ruangan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "iti ngiwat"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "iti ruaran"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "dagiti pinto"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "agkanta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:50.830387188Z",
+  "model": "glm-5.3"
+}

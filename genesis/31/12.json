@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 31:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket kinunana: Iangatmo ita dagiti matam ket kitaem: amin dagiti kalding nga agpangato iti adop ket nakurit, nabutbutik ken naburburak; ta nakitak ⟨את⟩ amin nga ar-aramiden ni Lavan kenka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ket kinunana"
+    },
+    {
+      "surface": "שא",
+      "gloss": "Iangatmo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dagiti matam"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העתדים",
+      "gloss": "dagiti kalding"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "agpangato"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "adop"
+    },
+    {
+      "surface": "עקדים",
+      "gloss": "nakurit"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "nabutbutik"
+    },
+    {
+      "surface": "וברדים",
+      "gloss": "ken naburburak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ar-aramiden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T02:38:09.421411424Z",
+  "model": "glm-5.3"
+}

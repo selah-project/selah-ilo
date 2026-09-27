@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 101,
+  "translation": "Mizmor ni David. Ti hesed ken ti ukom ikantak; kenka, Yahweh, agkantak iti ⟨instrumento⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ti hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken ti ukom"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ikantak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "agkantak iti instrumento"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:30.458404136Z",
+  "model": "glm-5.3"
+}

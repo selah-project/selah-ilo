@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket inaramid ni David kas iti bilinna ni Elohim, ket dinaegna ⟨את⟩ ti kampo dagiti Pelishtio manipud iti Gibeon agingga iti Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "bilinna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ket dinaegna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kampo"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtio"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "manipud iti Gibeon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "iti Gezer"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:22.929275047Z",
+  "model": "glm-5.3"
+}

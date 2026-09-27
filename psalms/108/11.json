@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 108,
+  "translation": "Sino ti mangiturong kaniak iti napigsa nga ili? Sino ti mangidaulo kaniak agingga iti Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ti mangiturong kaniak"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "napigsa ⟨a nasalakniban⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ti mangidaulo kaniak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:57.941449602Z",
+  "model": "glm-5.3"
+}

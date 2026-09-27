@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 65,
+  "translation": "Mamati ti kararag, agingga kaniak ti amin a lasag umayda.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "kararag"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "agingga kaniak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lasag"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "umayda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:39:00.948421766Z",
+  "model": "glm-5.3"
+}

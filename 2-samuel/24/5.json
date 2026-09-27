@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "ket immayanda iti ballasiw ⟨ti⟩ ⟨את⟩ Yarden, ket nagtengngelda idiay Aroer, iti kanawan ti ili a ⟨adda⟩ iti tengnga ti karayan ti Gad, ken agingga iti Yaezer",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "immayanda iti ballasiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagtengngelda"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "idiay Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kanawan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ti Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken agingga iti"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    }
+  ],
+  "timestamp": "2026-09-26T12:14:40.179113852Z",
+  "model": "glm-5.3"
+}

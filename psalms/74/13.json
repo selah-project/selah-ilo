@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Sika ti nangrisna iti baybay babaen iti pigsam; dinadaelmo dagiti ulo dagiti dakkel a uleg ti baybay iti ngato ti danum.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "nangrisna"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "babaen iti pigsam"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "dinadaelmo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dagiti ulo"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "dagiti dakkel a uleg ti baybay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:46.716595237Z",
+  "model": "glm-5.3"
+}

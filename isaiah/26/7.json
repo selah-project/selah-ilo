@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Dalan ti nalinteg ⟨ti⟩ pantar; ti nalinteg, pantarenna ti tukad ti nalinengan.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "pantar"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ti tukad"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinengan"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "pantarenna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:54:18.463882120Z",
+  "model": "glm-5.3"
+}

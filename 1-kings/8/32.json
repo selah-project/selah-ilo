@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ken sika dengngegem iti langit ken aramidem ken ukomem ⟨את⟩ dagiti adipenmo: ibiddog a dakes ti dakes nga itedmo ti dalanna iti ulona, ken ibiddog a nalinteg ti nalinteg nga itedam kenkuana kalintegna.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "dengngegem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ken aramidem"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "ken ukomem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti adipenmo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dagiti adipenmo"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "ibiddog a dakes"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nga itedmo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ti dalanna"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "iti ulona"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "ken ibiddog a nalinteg"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nga itedam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "kalintegna"
+    }
+  ],
+  "timestamp": "2026-09-26T12:43:49.880426918Z",
+  "model": "glm-5.3"
+}

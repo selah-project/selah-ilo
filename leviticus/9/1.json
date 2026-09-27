@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Idi iti maikawalo nga aldaw, immawag ni Moshe kay Aharon ken kadagiti anakna ken kadagiti lakay ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "maikawalo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "immawag"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kay Aharon"
+    },
+    {
+      "surface": "ו לבניו",
+      "gloss": "ken kadagiti anakna"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "ken kadagiti lakay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T05:10:53.277757988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kangrunaan — ni David. Iti Yahweh nakailinaedak; kasano a kumunikayo iti kararua ko: Agtaraykayo ⟨iti⟩ bantay yo, a kas iti billit?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kangrunaan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "iti Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nakailinaedak"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kasano"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kumunikayo"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "iti kararua ko"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Agtaraykayo"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "iti bantay yo"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "billit"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:33.596592847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Kitaem, ti mata ni Yahweh ⟨iti⟩ dagiti buteng kenkuana, kadagiti agur-uray iti hesedna:",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨iti⟩"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dagiti buteng kenkuana"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "kadagiti agur-uray"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "iti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:14:34.564520365Z",
+  "model": "glm-5.3"
+}

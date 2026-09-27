@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Pasingked, awatam kadi, ⟨את⟩ dagiti adipenmo iti sangapulo nga aldaw, ket itedda kadatayo manipud kadagiti binuron ken makan kadatayo, ken danum ken uminum kadatayo.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Pasingked"
+    },
+    {
+      "surface": "נא",
+      "gloss": "awatam kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti adipenmo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dagiti adipenmo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ket itedda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadatayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "kadagiti binuron"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "ken makan kadatayo"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ken danum"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ken uminum kadatayo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:15:11.444957840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Kinuna ni Yosef kaniada: Saan kayo a mabuteng, ta siak ti ⟨iti lugar⟩ ni Elohim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kayo a mabuteng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "iti lugar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    }
+  ],
+  "timestamp": "2026-09-26T03:25:22.630460452Z",
+  "model": "glm-5.3"
+}

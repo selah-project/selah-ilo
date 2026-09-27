@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ibagam kennuana: Ni Yahweh, ti Elohim dagiti Hebreo, ti nangipatulod kaniak kenka a kuna: Ibbatam ⟨את⟩ dagiti tattaok ket agserbidakanda iti naaned a daga; ket kitaem, agingga ita saanmo a nangngeg.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Ken ibagam"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "dagiti Hebreo"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ti nangipatulod kaniak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ibbatam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tattaok"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dagiti tattaok"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ket agserbidakanda"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti naaned a daga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket kitaem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "a nangngeg"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ita"
+    }
+  ],
+  "timestamp": "2026-09-26T03:33:53.959779013Z",
+  "model": "glm-5.3"
+}

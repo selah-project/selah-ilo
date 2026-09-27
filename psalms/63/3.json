@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 63,
+  "translation": "Kasta nakitak sika iti nasantuan a lugar, nga kitaen ti bilegmo ken ti daydayawmo.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti nasantuan a lugar"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "nakitak sika"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nga kitaen"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ti bilegmo"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "ken ti daydayawmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:39:42.098208619Z",
+  "model": "glm-5.3"
+}

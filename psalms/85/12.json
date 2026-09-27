@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 85,
+  "translation": "Ti kinapudno agtubo iti daga, ket ti kinalinteg manipud iti langit kitaennana ti baba.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Ti kinapudno"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "agtubo"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ket ti kinalinteg"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "manipud iti langit"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "kitaennana ti baba"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:35.721280204Z",
+  "model": "glm-5.3"
+}

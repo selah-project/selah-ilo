@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Nagdungan ken naganak iti anak a lalaki, ket kinunana: Inulog ni Elohim ⟨את⟩ ti kidmama.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nagdungan"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "naganak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "inulog"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kidmama"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "kidmama"
+    }
+  ],
+  "timestamp": "2026-09-26T02:31:09.788921245Z",
+  "model": "glm-5.3"
+}

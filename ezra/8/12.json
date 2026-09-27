@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 8:12",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken manipud kadagiti annak ni Azgad, ni Yokhanan anak ni Hakkatan, ken kaduana sangagasut ken sangapulo a lallaki.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ken manipud kadagiti annak"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ni Azgad"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "ni Yokhanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ni Hakkatan"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ken kaduana"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sangagasut"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ken sangapulo"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "a lallaki"
+    }
+  ],
+  "timestamp": "2026-09-26T23:22:45.891281543Z",
+  "model": "glm-5.3"
+}

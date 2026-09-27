@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Mamati, ti umilik, ket agsaoak; Yisrael, ket agsaksiak kenka: Elohim, ti Elohimmo, siak.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Mamati"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti umilik"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ket agsaoak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ket agsaksiak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohimmo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:46.006358560Z",
+  "model": "glm-5.3"
+}

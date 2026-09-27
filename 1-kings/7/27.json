@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kinua ni Hiram nga aramidenna ⟨את⟩ dagiti sangapulo a tindogan a tanso: uppat a depa ti kaatiddog ti maysa a tindogan, ken uppat a depa ti kalawana, ken tallo a depa ti katayagna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tindogan a tanso"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dagiti tindogan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "a tanso"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "a depa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ti kaatiddog"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "ti tindogan"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ken uppat"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "a depa"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ti kalawana"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ken tallo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "a depa"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ti katayagna"
+    }
+  ],
+  "timestamp": "2026-09-26T12:33:38.848645690Z",
+  "model": "glm-5.3"
+}

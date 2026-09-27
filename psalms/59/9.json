@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Ni sika, Yahweh, agkatawakanda kenkuada; agtutuyawakanda kadagiti amin a pagilian.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ni sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "agkatawakanda"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kenkuada"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "agtutuyawakanda"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a pagilian"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:36.516753271Z",
+  "model": "glm-5.3"
+}

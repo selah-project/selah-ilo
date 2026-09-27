@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ket natay sadiay ni Moshe, ti adipen ni Yahweh, idiay daga ti Moab, segun iti ngiwat ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ti adipen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "idiay daga"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "segun iti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ngiwat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T08:40:14.930795952Z",
+  "model": "glm-5.3"
+}

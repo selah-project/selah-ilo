@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Inala ni Yisrael ⟨את⟩ amin dagitoy nga ili, ket nagnaed ni Yisrael iti amin a dagiti ili ti Emori, iti Kheshbon ken iti amin a bagianna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "inala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagitoy nga ili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ket nagnaed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "a dagiti ili"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Emori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "iti Kheshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "a bagianna"
+    }
+  ],
+  "timestamp": "2026-09-26T06:51:27.769847263Z",
+  "model": "glm-5.3"
+}

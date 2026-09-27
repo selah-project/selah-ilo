@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Agyamanak nga un-unnoi kenni Yahweh iti ngiwatko, ken iti tengnga dagiti adu daydayawekto.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Agyamanak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nga un-unnoi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "iti ngiwatko"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ken iti tengnga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dagiti adu"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "daydayawekto"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:14.070783705Z",
+  "model": "glm-5.3"
+}

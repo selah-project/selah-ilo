@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ti napigsa a lalaki ken ti lalaki ti gubat, ti agukom ken ti profeta, ken ti mangibaga ti masakbayan, ken ti lakay;",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ti napigsa a lalaki"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti lalaki"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ti agukom"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ken ti profeta"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ken ti mangibaga ti masakbayan"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ken ti lakay"
+    }
+  ],
+  "timestamp": "2026-09-26T14:20:21.587794886Z",
+  "model": "glm-5.3"
+}

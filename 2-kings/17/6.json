@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Iti maikasiam a tawen ni Hoshea, dinakup ti ari ti Ashur ⟨את⟩ Shomron, ket ipenawenna ⟨את⟩ Yisrael idiay Ashur, ket pagnaednana ida iti Halah ken iti Habor, karayan ti Gozan, ken kadagiti ili ti Madai.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "maikasiam"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ni Hoshea"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "dinakup"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ket ipenawenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "idiay Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ket pagnaednana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "iti Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ken iti Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "ti Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ken kadagiti ili"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ti Madai"
+    }
+  ],
+  "timestamp": "2026-09-26T13:52:51.377666070Z",
+  "model": "glm-5.3"
+}

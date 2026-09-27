@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ti mamati ⟨iti⟩ maysa a tao ket matay, matayon a mapatay.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "ti mamati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a tao"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ket matay"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a mapatay"
+    }
+  ],
+  "timestamp": "2026-09-26T04:06:21.559825228Z",
+  "model": "glm-5.3"
+}

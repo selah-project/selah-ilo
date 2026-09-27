@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 120,
+  "translation": "Kanta ti Panagpangato. Kenni Yahweh, iti panagrigatko, inawagko, ket isungbatannak.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti Panagpangato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "iti panagrigat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ko"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "inawagko"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ket isungbatannak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:38.874532747Z",
+  "model": "glm-5.3"
+}

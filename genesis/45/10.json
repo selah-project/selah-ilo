@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 45:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "ket agnaedka iti daga ti Goshen, ket agbalinka nga asideg kaniak — sika, ken dagiti anakmo, ken dagiti anak dagiti anakmo, ken dagiti karnerom ken dagiti gadom, ken amin a tagikuam.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "ket agnaedka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ti Goshen"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ket agbalinka"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nga asideg"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ken dagiti anakmo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ken dagiti anak"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dagiti anakmo"
+    },
+    {
+      "surface": "וצאנך",
+      "gloss": "ken dagiti karnerom"
+    },
+    {
+      "surface": "ובקרך",
+      "gloss": "ken dagiti gadom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tagikuam"
+    }
+  ],
+  "timestamp": "2026-09-26T03:13:36.410185164Z",
+  "model": "glm-5.3"
+}

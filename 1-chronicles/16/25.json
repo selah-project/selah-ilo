@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ta dakkel ni Yahweh ken naidaydayaw unay, ken makabuteng ⟨isuna⟩ ngem amin a dios.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ken naidaydayaw"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ken makabuteng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a dios"
+    }
+  ],
+  "timestamp": "2026-09-26T23:38:25.847099663Z",
+  "model": "glm-5.3"
+}

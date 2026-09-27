@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Daga ti bunga ⟨iti⟩ kaasinan, gapu iti kadinakesan dagiti agnanaed iti dayta.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ti bunga"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "iti kaasinan"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "gapu iti kadinakesan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:12.042208107Z",
+  "model": "glm-5.3"
+}

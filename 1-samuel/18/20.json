@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ni Mikal, anak a babai ni Shaul, inayatanna ⟨את⟩ ni David; ket imbagada kenni Shaul, ket nasayaat dayta a sao iti matana.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "inayatanna"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ni Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ket imbagada"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kenni Shaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ket nasayaat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dayta a sao"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "iti matana"
+    }
+  ],
+  "timestamp": "2026-09-26T11:02:02.965719086Z",
+  "model": "glm-5.3"
+}

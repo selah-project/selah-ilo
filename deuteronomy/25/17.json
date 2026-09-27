@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Lagipenmo ⟨את⟩ ti inaramid ni Amalek kenka iti dalan, idi rumuar kayo manipud iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Lagipenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inaramid ni Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ni Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "idi rumuar kayo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T08:26:31.315832641Z",
+  "model": "glm-5.3"
+}

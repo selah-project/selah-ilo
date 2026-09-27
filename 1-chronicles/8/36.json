@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 8:36",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ni Akhaz nagputot ⟨את⟩ ni Yehoadah, ket ni Yehoadah nagputot ⟨את⟩ ni Alemet ken ⟨את⟩ ni Azevavet ken ⟨את⟩ ni Zimri, ket ni Zimri nagputot ⟨את⟩ ni Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Ni Akhaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yehoadah"
+    },
+    {
+      "surface": "יהועדה",
+      "gloss": "ni Yehoadah"
+    },
+    {
+      "surface": "ויהועדה",
+      "gloss": "ket ni Yehoadah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "ni Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Azevavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ni Azevavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ni Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "ket ni Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ni Motsa"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:38.840434134Z",
+  "model": "glm-5.3"
+}

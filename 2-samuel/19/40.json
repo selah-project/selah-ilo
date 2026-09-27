@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Nagballasiw ti amin a umili ⟨ti⟩ ⟨את⟩ Yarden, ket ti ari met ket nagballasiw; sinippanna ti ari ni Bartsilay ket binendisionanna, ket nagsubli iti dissoyna.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "nagballasiw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ket ti ari"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nagballasiw"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "sinippanna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "ni Bartsilay"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "iti dissoyna"
+    }
+  ],
+  "timestamp": "2026-09-26T12:01:44.941899353Z",
+  "model": "glm-5.3"
+}

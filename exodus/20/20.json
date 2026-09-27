@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Kinuna ni Moshe kadagiti tao: Saan kayo a mabuteng, ta ti immay ti Elohim ket tapno subokenna kadakayo ⟨את⟩, ket tapno ti panagbutengna adda iti rupamyo, tapno saan kayo a mangbasol.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kayo a mabuteng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "subokenna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "ket tapno"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "panagbutengna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "rupamyo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "tapno saan"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "kayo a mangbasol"
+    }
+  ],
+  "timestamp": "2026-09-26T04:03:03.816823516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket nagsao kadakuada a kas iti taripnong dagiti ubbing, a kinuna: Ni amak nangagkusot ⟨את⟩ ti igam dayokayo, ket siak mangnayon kadagiti igam dayokayo; ni amak nagisao kadakayo ⟨אתכם⟩ babaen dagiti latigo, ket siak agsao kadakayo ⟨אתכם⟩ babaen dagiti alakran.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "a kas iti taripnong"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "dagiti ubbing"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinuna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ni amak"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "nangagkusot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti igam dayokayo"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ti igam dayokayo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "mangnayon"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "igam dayokayo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ni amak"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nagisao kadakayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "babaen dagiti latigo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "agsao kadakayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "babaen dagiti alakran"
+    }
+  ],
+  "timestamp": "2026-09-26T12:50:30.436048158Z",
+  "model": "glm-5.3"
+}

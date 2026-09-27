@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ania, anakko? ket ania, anak ti tianko? ket ania, anak ti sumpak?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "anakko"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ket ania"
+    },
+    {
+      "surface": "בר",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ti tianko"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ket ania"
+    },
+    {
+      "surface": "בר",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ti sumpak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:58.449879898Z",
+  "model": "glm-5.3"
+}

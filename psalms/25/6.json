@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Lagipenmo, ni Yahweh, ⟨ti⟩ dagiti kaasim ken dagiti hesedmo, ta manipud ⟨iti⟩ agnanayon da.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Lagipenmo"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dagiti kaasim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "ken dagiti hesedmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "manipud ⟨iti⟩ agnanayon"
+    },
+    {
+      "surface": "המה",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-09-26T21:01:31.582116197Z",
+  "model": "glm-5.3"
+}

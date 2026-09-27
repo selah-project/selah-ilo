@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 31:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Oy kadagiti agbaba iti Mitsrayim ⟨iti⟩ tulong, nga agtalek kadagiti kabalyo, ket nagtalekda kadagiti karosa ta adu, ken kadagiti kabalyero ta napigsada unay; ket saan nangkitada iti Nasantuan ti Yisrael, ken ⟨את⟩ Yahweh saan a binirbirokda.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Oy"
+    },
+    {
+      "surface": "הירדים",
+      "gloss": "kadagiti agbaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "iti tulong"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kabalyo"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "agtalek"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ket nagtalekda"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "karosa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "kabalyero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "napigsada"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "שעו",
+      "gloss": "nangkitada"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Nasantuan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "binirbirokda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:12:28.779210331Z",
+  "model": "glm-5.3"
+}

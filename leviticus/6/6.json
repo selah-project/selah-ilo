@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ti apoy ket kanayon a matudo iti ngato ti altar, saan a malipat.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kanayon"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "matudo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "malipat"
+    }
+  ],
+  "timestamp": "2026-09-26T05:05:42.353045279Z",
+  "model": "glm-5.3"
+}

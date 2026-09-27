@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 13:23",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket nakaasi ni Yahweh ⟨אתם⟩, ket naasianna da, ket immalied kadakuada, gapu iti tulagna ⟨את⟩ kenni Avraham, kenni Yitskhak ken kenni Yaakov; ket saan a nagayat a dadaelenda, ket saan met a tinulakanda manipud iti rupana agingga ita.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "nakaasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "da (ti Yisrael)"
+    },
+    {
+      "surface": "וירחמם",
+      "gloss": "naasianna da"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "immalied"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iti tulagna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ken Yaakov"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nagayat"
+    },
+    {
+      "surface": "השחיתם",
+      "gloss": "a dadaelenda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan met"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "a tinulakanda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rupana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ita"
+    }
+  ],
+  "timestamp": "2026-09-26T13:45:19.376135153Z",
+  "model": "glm-5.3"
+}

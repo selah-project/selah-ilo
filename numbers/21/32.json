@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Inpatulod ni Moshe ⟨dagiti agsisiimat⟩ iti ⟨את⟩ Yaezer, ket dinakelda dagiti annakna a bario, ket inturayanda ⟨את⟩ ti Emori a adda sadiay.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Inpatulod"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "agsisiimat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti Yaezer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "dinakelda"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "dagiti annakna a bario"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "inturayanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adda sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T06:50:18.946717218Z",
+  "model": "glm-5.3"
+}

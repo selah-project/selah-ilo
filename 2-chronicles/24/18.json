@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ket iniikkatda ⟨את⟩ ti balay ni Yahweh, ti Elohim dagiti kakabsat da amma, ket inserbida da ⟨את⟩ dagiti Ashera ken ⟨את⟩ dagiti didiosen; ket adda rimmoy a bendision iti Yehudah ken iti Yerushalayim gapu iti daytoy a basolda.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "iniikkatda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "dagiti kakabsat da amma"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "inserbida da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "dagiti Ashera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti didiosen"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "dagiti didiosen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "rimmoy a bendision"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ken iti Yerushalayim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "gapu iti basolda"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:29.006923212Z",
+  "model": "glm-5.3"
+}

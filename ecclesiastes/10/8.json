@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti agkali iti adalem a baet matnagto iti uneganna, ket ti mangdadael iti diding ket ulegto ti kagatanna.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ti agkali iti"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "adalem a baet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti uneganna"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "matnagto"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ket ti mangdadael iti"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "diding"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "kagatannatо"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "uleg"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:20.451146328Z",
+  "model": "glm-5.3"
+}

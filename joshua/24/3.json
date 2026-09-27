@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Kinuak ⟨את⟩ ti amanyo a ⟨את⟩ ni Avraham manipud iti ballasiw ti karayan, ket impannakurko ⟨את⟩ isuna iti amin a daga ti Kenaan, ken pinadakkelko ⟨את⟩ ti tinawidna, ket inkanko kenkuana ⟨את⟩ ni Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "kinuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amanyo a ni Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ti amanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "manipud iti ballasiw"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "impannakurko"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ isuna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ken pinadakkelko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tinawidna"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ti tinawidna"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "inkanko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-26T09:33:05.689667065Z",
+  "model": "glm-5.3"
+}

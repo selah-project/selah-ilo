@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket makananda ⟨את⟩ ti lasag iti daytoy a rabii, nailuto iti apoy, ken tinapay a awan pataaw; kadagiti napait a mulmula makananda dayta.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ket makananda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lasag"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ti lasag"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "nailuto"
+    },
+    {
+      "surface": "אש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ken tinapay a awan pataaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "napait a mulmula"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "makananda dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T03:45:49.447109867Z",
+  "model": "glm-5.3"
+}

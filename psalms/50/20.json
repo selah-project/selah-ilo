@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Agsika ken agsasao ka maibusor iti kabsatmo; iti anak ti inam itedmo ti panangdadael.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "agsika"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "maibusor iti kabsatmo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "agsasao ka"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "iti anak"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ti inam"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ti panangdadael"
+    }
+  ],
+  "timestamp": "2026-09-26T21:24:08.327370009Z",
+  "model": "glm-5.3"
+}

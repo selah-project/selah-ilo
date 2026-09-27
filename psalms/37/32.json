@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ti dakes agbibiag iti nalinteg ket agbiruk a patayenna.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "agbibiag"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Ti dakes"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "iti nalinteg"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ket agbiruk"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "a patayenna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:43.373383175Z",
+  "model": "glm-5.3"
+}

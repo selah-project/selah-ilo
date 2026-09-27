@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ken saan kayo mangibabain ⟨את⟩ ti nasantuan a naganko, ket mapasantuanak iti tengnga dagiti anak ni Yisrael: siak ni Yahweh ti mangipasantu kenkayo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "kayo mangibabain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nasantuan a naganko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "nasantuan a naganko"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "ket mapasantuanak"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ti mangipasantu kenkayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:46:18.937669529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Nagsubli ti ari ket immay agingga iti Yordan, ket ti Yehudah immay iti Gilgala a mapan sumangaili ⟨iti⟩ ari, a mangiballasiw ⟨את⟩ ti ari ⟨iti⟩ Yordan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Nagsubli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iti Yordan"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ket ti Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "iti Gilgala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "a mapan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sumangaili"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨iti⟩ ari"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "a mangiballasiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yordan"
+    }
+  ],
+  "timestamp": "2026-09-26T12:03:40.773497992Z",
+  "model": "glm-5.3"
+}

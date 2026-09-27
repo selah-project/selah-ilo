@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Isu a ti singsing iti tengngedda ket ti pangrag-o, ken ti rido ti bado nga agabbong kadakuada.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Isu a"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ti singsing iti tengngedda"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ti pangrag-o"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "agabbong"
+    },
+    {
+      "surface": "שית",
+      "gloss": "a kas bado"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ti rido"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:48:03.454903519Z",
+  "model": "glm-5.3"
+}

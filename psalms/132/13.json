@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 132,
+  "translation": "Ta pinilina ni Yahweh ti Tsiyon, kayatna a pagagnaedanna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pinilina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ti Tsiyon"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "a pagagnaedan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:48.407623759Z",
+  "model": "glm-5.3"
+}

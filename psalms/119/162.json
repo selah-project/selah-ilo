@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Naragsaknak iti saoMo, kas maysa a makabiruk iti dakkel a tubon.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "naragsaknak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ti saoMo"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "kas maysa a makabiruk"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "tubon"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dakkel"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:28.675447005Z",
+  "model": "glm-5.3"
+}

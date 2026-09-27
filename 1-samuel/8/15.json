@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ti burod yo ken ti ubasan yo isangapulona, ket itedna kadagiti eunuko na ken kadagiti adipen na.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "ti burod yo"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "ken ti ubasan yo"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "isangapulona"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "kadagiti eunuko na"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "ken kadagiti adipen na"
+    }
+  ],
+  "timestamp": "2026-09-26T10:29:41.524919873Z",
+  "model": "glm-5.3"
+}

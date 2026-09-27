@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken no adda dadael, itedmo ti kararua iti kasangoan ti kararua.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "dadael"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti kasangoan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    }
+  ],
+  "timestamp": "2026-09-26T04:07:09.115788480Z",
+  "model": "glm-5.3"
+}

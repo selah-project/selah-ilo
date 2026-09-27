@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ket dua a kawar iti nadalus a balitok, iti patingga; aramidem ⟨אתם⟩ a kas obra a nilikmutan; ket ikabilmo ⟨את⟩ dagiti kawar a nilikmutan iti rabaw ti pangikabilan.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ket dua"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "kawar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadalus"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "iti patingga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dagiti kawar"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "obra"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "a nilikmutan"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ket ikabilmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kawar a nilikmutan"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "kawar"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "a nilikmutan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "ti pangikabilan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:22:05.218561580Z",
+  "model": "glm-5.3"
+}

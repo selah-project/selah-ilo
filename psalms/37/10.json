@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Pay bassit, ket awanen ti dakes, ken sirmataem ti dissona, ket awanannen.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awanen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ken sirmataem"
+    },
+    {
+      "surface": "על",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "dissona"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ket awanannen"
+    }
+  ],
+  "timestamp": "2026-09-26T21:09:49.677229615Z",
+  "model": "glm-5.3"
+}

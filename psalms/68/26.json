@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Immuna dagiti kumakanta, kalpasanna dagiti agtutugtog, iti tengnga dagiti babai nga agtamtambor.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "immuna"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "dagiti kumakanta"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "dagiti agtutugtog"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "dagiti babai"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "nga agtamtambor"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:58.028882294Z",
+  "model": "glm-5.3"
+}

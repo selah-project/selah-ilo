@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Nalabsab iti kaniak ti punggot ti ragesmo; dagiti butengmo ti nagikkat kaniak.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "iti kaniak"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nalabsab"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "ti punggot ti ragesmo"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "dagiti butengmo"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "ti nagikkat kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:01.983726810Z",
+  "model": "glm-5.3"
+}

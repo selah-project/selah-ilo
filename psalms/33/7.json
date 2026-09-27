@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Agurnong kas iti nedd kadagiti danum ti baybay, mangikabil kadagiti taaw iti pagtagikuana.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Agurnong"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "kas iti nedd"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kadagiti danum"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mangikabil"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "iti pagtagikuana"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "kadagiti taaw"
+    }
+  ],
+  "timestamp": "2026-09-26T21:08:30.013951100Z",
+  "model": "glm-5.3"
+}

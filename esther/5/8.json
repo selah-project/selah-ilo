@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 5:8",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "No nakasarakak ti pannakay-ayat kadagiti mata ti ari, ken no nasayaat iti ari nga itedna ⟨את⟩ ti kiddawko ken nga aramidenna ⟨את⟩ ti kayatko — umay koma ti ari ken ni Haman iti gimong a aramidento kadakuada, ket intono bigat aramidento a kas iti sao ti ari.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "nakasarakak"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ti pannakay-ayat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nga itedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kiddawko"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ti kiddawko"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ken nga aramidenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kayatko"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ti kayatko"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "umay koma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ken ni Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ket intono bigat"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "a kas iti sao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:34.543450122Z",
+  "model": "glm-5.3"
+}

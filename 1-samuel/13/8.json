@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket inurayna a pito nga aldaw agingga iti timek a naited ni Shemuel, ngem saan a dumteng ni Shemuel idiay Gilgal, ket immakarda ti tao manipud kenkuana.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "inurayna"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngga aldaw"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "agingga iti timek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a dumteng"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "idiay Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "immakarda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "manipud kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T10:38:37.356897879Z",
+  "model": "glm-5.3"
+}

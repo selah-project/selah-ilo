@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket immaddar, ket ikkatna ⟨את⟩ ti benda manipud iti matana, ket inammanna ti ari ti Yisrael ⟨אתו⟩, a maysa kadagiti propeta.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "immaddar"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ikkatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti benda"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "benda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matana"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "inammanna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ti propeta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "kadagiti propeta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    }
+  ],
+  "timestamp": "2026-09-26T13:03:22.019363865Z",
+  "model": "glm-5.3"
+}

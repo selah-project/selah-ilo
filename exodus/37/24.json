@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Maysa a kikkar a balitok a nadalus ti inaramidna ⟨את⟩ daytoy ken ⟨את⟩ amin dagiti ramitna",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "Maysa a kikkar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadalus"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy (ti lampara)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dagiti ramitna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:41:48.009834060Z",
+  "model": "glm-5.3"
+}

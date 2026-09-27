@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket dinigosna ⟨את⟩ dagiti kaunegan ken ⟨את⟩ dagiti saka, ket insulpogna iti rabaw ti agpangato a sakripisio iti altar.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "dinigosna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kaunegan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "dagiti kaunegan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti saka"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "dagiti saka"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "insulpogna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti agpangato a sakripisio"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T05:09:08.150914590Z",
+  "model": "glm-5.3"
+}

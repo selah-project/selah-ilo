@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 31:18",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Idin nga idaonna ⟨את⟩ amin a tagikua a bibienna ken ⟨את⟩ amin a rikuanna a tiniponna, ti bibien a tagikua, a tinipona idi Paddan-Aram, mapan ken Yitskhak nga amana, iti daga ti Kenaan.",
+  "tokens": [
+    {
+      "surface": "וינהג",
+      "gloss": "idin nga idaonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a tagikua a bibienna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "tagikua a bibienna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a rikuanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "rikuanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "tiniponna"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ti bibien a tagikua"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "naala a tagikua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "tinipona"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "idi Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "mapan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ngaanana"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-26T02:37:44.443394872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti ngiwatna ket punno ti sumpa ken pandaya ken dikit; babaen ti dila-na ket rigat ken basol.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "sumpa"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ti ngiwatna"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "punno"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ken pandaya"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ken dikit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "ti dila-na"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "rigat"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ken basol"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:47.263194117Z",
+  "model": "glm-5.3"
+}

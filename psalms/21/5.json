@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Biag ti imbagana manipud Kennimo, ket initedmo kenkuana — kaatiddog dagiti aldaw, agnanayon ken agnanayon.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Biag"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "manipud Kennimo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "initedmo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kaatiddog"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T20:58:37.877221285Z",
+  "model": "glm-5.3"
+}

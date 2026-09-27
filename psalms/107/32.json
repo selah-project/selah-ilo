@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Ippangatonda iti gimong ti umili, ken iti pannakabukel dagiti lakay daydayawenda.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "ippangatonda"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "iti gimong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "ken iti pannakabukel"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "daydayawenda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:22.416634463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket kinunada kaniakuana: Ta ⟨את⟩ kaduam ti agsublikami a mapan iti umilim.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kaniakuana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kaduam",
+      "marks": "kaduam"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "ti agsublikami"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "a mapan iti umilim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:26.264947362Z",
+  "model": "glm-5.3"
+}

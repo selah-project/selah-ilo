@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 8:18",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket siak met, aramidento nga addaan burneng; saan a maasi ti matako, ken saanak met a makaasi; ket no agsangitanda kadagiti tarepnak iti nangato unay a timek, saanak a mangngeg ⟨את⟩ ida.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ket siak met"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "nga addaan burneng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "a maasi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ti matako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanak met"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "a makaasi"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ket no agsangitanda"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kadagiti tarepnak"
+    },
+    {
+      "surface": "קול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nangato unay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "a mangngeg"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ida",
+      "marks": "ida — dagiti agsangsangit"
+    }
+  ],
+  "timestamp": "2026-09-26T18:11:52.430789478Z",
+  "model": "glm-5.3"
+}

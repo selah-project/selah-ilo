@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Idaydayawanda koma dagiti langit ken ti daga, dagiti baybay ken amin nga agkikines iti unegda.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "idaddayawandanto"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ken ti daga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti baybay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nga agkikines"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iti unegda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:43:26.302716725Z",
+  "model": "glm-5.3"
+}

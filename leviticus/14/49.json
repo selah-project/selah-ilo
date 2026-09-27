@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ken alaenna a pakadalditonen ti ⟨את⟩ balay dua a billit, ken kayo a sedro, ken pula nga ulog, ken ezob.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "alaenna"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "a pakadalditonen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "billit"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ken kayo"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedro"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ken pula"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulog"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ken ezob"
+    }
+  ],
+  "timestamp": "2026-09-26T05:21:08.239231347Z",
+  "model": "glm-5.3"
+}

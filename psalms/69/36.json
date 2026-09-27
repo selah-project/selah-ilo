@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Ta isalakanna ti Elohim ⟨את⟩ ti Tsiyon ken ibagnayna dagiti ili ti Yehudah, ket agnanaeddanto sadiay ken tawidennandanto dayta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "isalakanna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ti Tsiyon"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ken ibagnayna"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ket agnanaeddanto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "ken tawidennandanto dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T21:43:26.302878910Z",
+  "model": "glm-5.3"
+}

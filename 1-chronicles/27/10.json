@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 27:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ti maikapito, iti maikapito a bulan, ni Helets a Pelonita, manipud kadagiti annak ni Efrayim; ken iti pannakabingbingayna duapulo ket uppat a ribu.",
+  "tokens": [
+    {
+      "surface": "השביעי",
+      "gloss": "ti maikapito"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "iti maikapito a bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Helets"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "a Pelonita"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "annak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "pannakabingbingayna"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ket uppat"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a ribu"
+    }
+  ],
+  "timestamp": "2026-09-26T23:41:38.211719766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 141,
+  "translation": "Tumukgawannakon koma ti nalinteg ⟨iti⟩ hesed, ket ibagannakon; lana dayta ti ulo, saan koma a mangiddi ti ulok; ta pay la ken ti kararuak kadagiti dakesda.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "tumukgawannakon koma"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ket ibagannakon"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan koma a"
+    },
+    {
+      "surface": "יני",
+      "gloss": "mangiddi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ti ulok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay la"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ken ti kararuak"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "kadagiti dakesda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:36.276618562Z",
+  "model": "glm-5.3"
+}

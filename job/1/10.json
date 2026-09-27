@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Saan kadi a sika ti nangsalmeg kenkuana ken iti balayna ken iti amin a kukuana iti aglikmut? Ti aramid dagiti imana binendisionanmo, ket ti tarakenna immadu iti daga.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "sika"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "nangsalmeg"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balayna"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kukuana"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "iti aglikmut"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "dagiti imana"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "binendisionanmo"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "ket ti tarakenna"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "immadu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:15.554915297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Ipapattiak, Adonay, ti Elohimko, iti amin a pusok; ket ipategnak ti naganmo nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ipapattiak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohimko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "a pusok"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ket ipategnak"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nga agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:57.247753406Z",
+  "model": "glm-5.3"
+}

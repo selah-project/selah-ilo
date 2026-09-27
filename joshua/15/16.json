@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Kinuna ni Kalev: Ti tumumba ⟨iti⟩ Qiryat-Sefer ken alaenna dayta, itedkokomma kenkuana ⟨את⟩ si Akhsa, anakko a babai, a kas asawana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "tumumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ken alaenna"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Akhsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anakko a babai"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a kas asawana"
+    }
+  ],
+  "timestamp": "2026-09-26T09:17:34.635274195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kalpasanna inaramid ni David ti kasta, kas impamilinna ni Yahweh, ken innatonna ⟨את⟩ dagiti Pilisteo manipud iti Geba agingga iti panangabotmo iti Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ti kasta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "impamilinna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ken innatonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Pilisteo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pilisteo"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "manipud iti Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "באך",
+      "gloss": "panangabotmo"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "iti Gezer"
+    }
+  ],
+  "timestamp": "2026-09-26T22:04:58.422855426Z",
+  "model": "glm-5.3"
+}

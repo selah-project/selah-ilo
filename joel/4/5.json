@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 4:5",
+  "book": "joel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "gapu ta ti pirakkok ken ti balitokko ti inyokaryo, ken dagiti nasayaat a kadakulak a banag ti inyokar yo kadagiti templo yoyo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "gapu ta"
+    },
+    {
+      "surface": "כספי",
+      "gloss": "ti pirakkok"
+    },
+    {
+      "surface": "וזהבי",
+      "gloss": "ken ti balitokko"
+    },
+    {
+      "surface": "לקחתם",
+      "gloss": "ti inyokaryo"
+    },
+    {
+      "surface": "ומחמדי",
+      "gloss": "ken dagiti kadakulak"
+    },
+    {
+      "surface": "הטבים",
+      "gloss": "a nasayaat a banag"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ti inyokar yo"
+    },
+    {
+      "surface": "להיכליכם",
+      "gloss": "kadagiti templo yoyo"
+    }
+  ],
+  "timestamp": "2026-09-26T19:45:22.172010892Z",
+  "model": "glm-5.3"
+}

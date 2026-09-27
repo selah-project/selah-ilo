@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ta iti adayo laeng makitam ⟨את⟩ ti daga, ket iti sadiay saan a sumrekam iti daga a itedko kadagiti anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "iti adayo laeng"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makitam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ket iti sadiay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "sumrekam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T08:46:08.265459015Z",
+  "model": "glm-5.3"
+}

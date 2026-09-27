@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Inlawlawagak ti kinalinteg iti gimong a dakkel; kitaen, saanko a rinikna dagiti ngiwatko — ni Yahweh, sika, ammom.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "inlawlawagak"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ti kinalinteg"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "iti gimong"
+    },
+    {
+      "surface": "רב",
+      "gloss": "a dakkel"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dagiti ngiwatko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanko"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "rinikna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ammom"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:57.867131498Z",
+  "model": "glm-5.3"
+}

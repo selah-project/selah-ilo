@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Ti tao iti daydayaw, ket saan a maawatanna, ket agpada kadagiti animal, napukawda.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "iti daydayaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "a maawatanna"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "ket agpada"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "kadagiti animal"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "napukawda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:20:14.619409929Z",
+  "model": "glm-5.3"
+}

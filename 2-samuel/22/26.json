@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Iti tao nga aghesed, aghesedka met; iti napigsa nga agtatakder nga naan-anay, naan-anayka met.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "iti"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "tao nga aghesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "aghesedka met"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iti"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "agtatakder nga naan-anay"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "naan-anayka met"
+    }
+  ],
+  "timestamp": "2026-09-26T12:12:06.555739089Z",
+  "model": "glm-5.3"
+}

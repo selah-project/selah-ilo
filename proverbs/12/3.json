@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Saan a matalinaed ti tao babaen ti kinadakes; ngem ti ramut dagiti nalinteg, saan pulos a makuyang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "a matalinaed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "babaen ti kinadakes"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ngem ti ramut"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan pulos"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "a makuyang"
+    }
+  ],
+  "timestamp": "2026-09-26T22:37:28.335180017Z",
+  "model": "glm-5.3"
+}

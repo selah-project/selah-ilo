@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Inaruarna ni Yosef ⟨את⟩ dagitay manipud iti tengngedna, ket immuboy iti rupana iti daga.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "inaruarna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitay"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "tengngedna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ket immuboy"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "iti rupana"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T03:13:15.166518370Z",
+  "model": "glm-5.3"
+}

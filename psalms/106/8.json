@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Nupay kasta isalakannada gapu iti naganna, nga maammuan ⟨את⟩ ti bilegna.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "isalakannada"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "naganna"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "nga maammuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bilegna"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "ti bilegna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:45.592565036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Dagitoy dagiti padi ken dagiti Levita a nangato kadua ni Zerubabel, anak ni Shealtiel, ken ni Yeshua: Serayah, Yirmeyah, Ezra,",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ken dagitoy"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ken dagiti Levita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "nangato"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "ni Zerubabel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "ni Shealtiel"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "ken ni Yeshua"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:07.423972777Z",
+  "model": "glm-5.3"
+}

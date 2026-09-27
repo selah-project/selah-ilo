@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "No ti tulag wenno ti agkaykayat a daton ti sakripisio ti datonna, iti aldaw ti ipatulodna ⟨את⟩ ti sakripisiona makan daytoy; ken iti sumaruno nga aldaw, ti nabati kenkuana ket makan met.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ti agkaykayat a daton"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ti sakripisio"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ti datonna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "ti ipatulodna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sakripisiona"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ti sakripisiona"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan daytoy"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ken iti sumaruno nga aldaw"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ti nabati"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan met"
+    }
+  ],
+  "timestamp": "2026-09-26T05:01:38.390188489Z",
+  "model": "glm-5.3"
+}

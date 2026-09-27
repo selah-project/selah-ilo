@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Yaden, dagiti aldaw ti umay, kasao ni Yahweh, ken itudokko ⟨את⟩ ti balay ni Yisrael ken ⟨את⟩ ti balay ni Yehudah iti bukel ti tao ken iti bukel ti billit ti darat.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "yaden"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ti umay"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kasao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "ken itudokko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti balay ni Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "iti bukel"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ken iti bukel"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ti ayup"
+    }
+  ],
+  "timestamp": "2026-09-26T17:11:28.241383952Z",
+  "model": "glm-5.3"
+}

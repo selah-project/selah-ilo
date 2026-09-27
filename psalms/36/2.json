@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ti insao ti panagsuppiat ti dakes: iti uneg ti pusok, awan ti buteng ⟨iti⟩ Elohim iti sango dagiti matana.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ti insao"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ti panagsuppiat"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ti buteng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨iti⟩ Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "dagiti matana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:08:52.699570258Z",
+  "model": "glm-5.3"
+}

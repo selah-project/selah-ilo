@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ket ni Yirmeyahu sumrek ken rummuar kadagiti umili, ket saanda pay nga inikkanna ⟨את⟩ iti balay a piitan.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "ket ni Yirmeyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ken rummuar"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "inikkanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isuna",
+      "marks": "ni Yirmeyahu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "a piitan"
+    }
+  ],
+  "timestamp": "2026-09-26T17:28:42.129078453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket nagtakder ti kabsatna a babai iti adayo a disso, nga ammuen no ania ti maramiddan kenkuana.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "ket nagtakder"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ti kabsatna a babai"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "iti adayo a disso"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "nga ammuen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no ania"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ti maramiddan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T03:26:59.365022243Z",
+  "model": "glm-5.3"
+}

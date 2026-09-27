@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ikkatna ti kudil ⟨ti⟩ sinunog, ket putenna ⟨את⟩ kadagiti pasetna.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "ikkatna ti kudil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sinunog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti sinunog"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "putenna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti pasetna"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "kadagiti pasetna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:44.106583045Z",
+  "model": "glm-5.3"
+}

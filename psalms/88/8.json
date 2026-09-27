@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Ti rikekmo immayed kaniak, ket iti amin a allonmo inarigatannak. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "immayed"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "Ti rikekmo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket iti amin"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "a allonmo"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "inarigatannak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:15.342914041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 15:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Awan, no saan a adda kenka ti nakapanglaw; ta bendisionanna kenka ni Yahweh iti daga a itedna kenka a tawid a pagtaenganmo.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "awan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ti nakapanglaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bendisionanna"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "a tawid"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "a pagtaenganmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:01:27.612636721Z",
+  "model": "glm-5.3"
+}

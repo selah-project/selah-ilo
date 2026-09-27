@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ti ⟨את⟩ dagiti Shabbatko datno salakniban, ken ti nasantoan a pagtaenganko datno butekanda; siak ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Shabbatko"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "dagiti Shabbatko"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "datno salakniban"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ken ti nasantoan a pagtaenganko"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "datno butekanda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:43:53.383626920Z",
+  "model": "glm-5.3"
+}

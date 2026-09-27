@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ken ⟨את⟩ ti taba ti daton ti basol pagtuduanna iti apoy ⟨iti⟩ altar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ti daton ti basol"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "pagtuduanna iti apoy"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T05:35:44.620100210Z",
+  "model": "glm-5.3"
+}

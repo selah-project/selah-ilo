@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 133,
+  "translation": "Kas ti lana a naimbang ⟨iti⟩ ulo, nga agbaba iti barbas, iti barbas ni Aharon, nga agbaba iti sango dagiti badoona.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Kas ti lana"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "a naimbang"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨iti⟩"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nga agbaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "barbas"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "iti barbas"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nga agbaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sango"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "dagiti badoona"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:31.100178544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti tiempo nga aramiden ni Yahweh; dadaelenda ti torahmo.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ti tiempo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "dadaelenda"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ti torahmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:48.999833174Z",
+  "model": "glm-5.3"
+}

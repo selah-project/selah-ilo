@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Karnero nga awan biddutna, a lalaki, anak ti maysa a tawen, ti agnayon kadakayo; manipud kadagiti karnero wenno manipud kadagiti kaldi alaenyo.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "awan biddutna"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "maysa a tawen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti agnayon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "kadagiti karnero"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "wenno manipud"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kadagiti kaldi"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "alaenyo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:45:49.435318389Z",
+  "model": "glm-5.3"
+}

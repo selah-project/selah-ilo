@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "No agnanka kadagiti dalanko a salakniban ⟨ti⟩ dagiti lintegko ken dagiti bilinko, a kas ti nagna ni Dawid amam, atiddogenko ⟨את⟩ dagiti aldawmo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "agnanka"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "kadagiti dalanko"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "a salakniban"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "dagiti lintegko"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ken dagiti bilinko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas ti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "amam"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "atiddogenko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti aldawmo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dagiti aldawmo"
+    }
+  ],
+  "timestamp": "2026-09-26T12:25:00.936777162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken ⟨את⟩ dagiti talon yo ken ⟨את⟩ dagiti ubasan yo ken dagiti olibo yo — dagiti nasayaat — alaanna, ket itedna kadagiti adipen na.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti talon yo"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "dagiti talon yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ubasan yo"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "dagiti ubasan yo"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "ken dagiti olibo yo"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "dagiti nasayaat"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alaenna"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "kadagiti adipen na"
+    }
+  ],
+  "timestamp": "2026-09-26T10:29:41.523998381Z",
+  "model": "glm-5.3"
+}

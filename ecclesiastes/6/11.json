@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ta adda dagiti sao nga adu a mangpaadu ti awan linaon; ania ti sumurok iti tao?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nga adu"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "a mangpaadu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ti awan linaon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ti sumurok"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "iti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:34.128014235Z",
+  "model": "glm-5.3"
+}

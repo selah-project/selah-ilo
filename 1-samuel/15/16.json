@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket kinuna ni Shemuël ken ni Shaul: Aginanka, ket ibagak koma kenka ⟨את⟩ ti imbagana ni Yahweh kaniak iti rabii a naglabsan. Ket kinunada kakuana: Ammo a maminsan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "Aginanka"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ket ibagak koma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imbagana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "iti rabii a naglabsan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kakuana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ammo a maminsan"
+    }
+  ],
+  "timestamp": "2026-09-26T10:52:44.676192092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 101,
+  "translation": "Saan nga agnaed iti uneg ti balayko ti agaramid iti linlin; ti agsao kadagiti ulbod, saan nga agtaktakder sangoan dagiti matak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agnaed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ti balayko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti agaramid"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "iti linlin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti agsao"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "kadagiti ulbod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "agtaktakder"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sangoan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:37.428576279Z",
+  "model": "glm-5.3"
+}

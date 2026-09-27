@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Ni Yahweh ti Tsevaot adda kaduatayo; ti tayungan ti kadatayo ⟨ti⟩ Elohim ni Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "adda kaduatayo"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ti tayungan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ti kadatayo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨ti⟩ Elohim ni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:23.208555028Z",
+  "model": "glm-5.3"
+}

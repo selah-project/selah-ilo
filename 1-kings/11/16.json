@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ta innem a bulan nga agnanaed ni Yoab sadiay ken ti amin a Yisrael, aginggana a naikkatna ti amin a lalaki iti Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "innem"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "a bulan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nga agnanaed"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aginggana"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "a naikkatna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "iti Edom"
+    }
+  ],
+  "timestamp": "2026-09-26T12:46:49.389707733Z",
+  "model": "glm-5.3"
+}

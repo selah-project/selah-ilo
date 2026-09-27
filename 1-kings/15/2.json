@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Tallo a tawen ti panagturayna iti Yerushalayim; ti nagan ti inana ket Maakha, anak a babai ni Avishalom.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Tallo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nagturayna"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ket ti nagan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ti inana"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-09-26T13:00:27.991148962Z",
+  "model": "glm-5.3"
+}

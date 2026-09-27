@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Kastoy ti kinuna ni Yahweh, ti Agaramid ⟨את⟩ dayta, nga Yahweh ti Mangiporma a mangisagana ⟨iti dayta⟩ — Yahweh ti naganna:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Agaramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "Mangiporma"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "a mangisagana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    }
+  ],
+  "timestamp": "2026-09-26T17:24:55.497021471Z",
+  "model": "glm-5.3"
+}

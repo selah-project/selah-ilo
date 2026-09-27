@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kinunana kadagiti anakna a babai: Ket sadino? Apay dayta a inalyo ⟨את⟩ ti lalaki? Awaganyo kaniana a mangan tinapay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinunana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "anakna a babai"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Ket sadino"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "inalyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "Awaganyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniana"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "a mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:24:42.032559374Z",
+  "model": "glm-5.3"
+}

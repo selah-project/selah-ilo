@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ti mangibbet iti dara, isu ti agpatay ⟨את⟩ ti mannakapatay; no masarakanna, isu ti agpatay kenkuana.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "Ti mangibbet"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "agpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mannakapatay"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ti mannakapatay"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "no masarakanna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "agpatayenna"
+    }
+  ],
+  "timestamp": "2026-09-26T07:25:23.025263483Z",
+  "model": "glm-5.3"
+}

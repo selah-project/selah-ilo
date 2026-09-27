@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Kinuna ni Yarovam iti pusona: ita ket agsublikanto ti pagarian iti balay ni David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "iti pusona"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "agsublikanto"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ti pagarian"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T12:47:52.723754657Z",
+  "model": "glm-5.3"
+}

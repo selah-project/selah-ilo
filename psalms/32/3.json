@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ta no immataka nga agsao, nagparukoy dagiti tulangko, idi agsingngitak iti amin a paset ti aldaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "no immataka nga agsao"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "nagparukoy"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "dagiti tulangko"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "idi agsingngitak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a paset ti aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:53.555695079Z",
+  "model": "glm-5.3"
+}

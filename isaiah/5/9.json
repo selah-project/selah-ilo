@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Iti dagiti lapayagko ni Yahweh ti Tsevaot: no saan a pulos nga adu a balbalay ket agbalinanda a nakailisas, dakdakkel ken nasayaat, nga awan ti agnaed.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "iti dagiti lapayagko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a pulos"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "adu a balbalay"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "a nakailisas"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agbalinanda"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dakdakkel"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ken nasayaat"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nga awan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ti agnaed"
+    }
+  ],
+  "timestamp": "2026-09-26T14:24:09.582465265Z",
+  "model": "glm-5.3"
+}

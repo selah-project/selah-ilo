@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket agnayon daytoy kadakayo a pagay-aywanan agingga iti maikauppat a sangapulo nga aldaw iti daytoy a bulan; ket pattatenda ⟨את⟩ dayta ti amin a gimong ti tigimong ni Yisrael iti nagbaetan dagiti rabii.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket agnayon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "a pagay-aywanan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "maikauppat a"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "ket pattatenda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta — ti karnero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "tigimong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kadagiti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T03:45:49.442310410Z",
+  "model": "glm-5.3"
+}

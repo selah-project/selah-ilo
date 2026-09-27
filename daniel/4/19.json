@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 4:19",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Sika ⟨ti⟩ ari, a dimmakkelka ken napigsaka, a ti kadakkelmo dimmakkel ken umabot iti langit, ken ti turaymo agingga iti patingga ti daga.",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "די",
+      "gloss": "a"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "dimmakkelka"
+    },
+    {
+      "surface": "ותקפת",
+      "gloss": "ken napigsaka"
+    },
+    {
+      "surface": "ורבותך",
+      "gloss": "ken ti kadakkelmo"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "dimmakkel"
+    },
+    {
+      "surface": "ומטת",
+      "gloss": "ken umabot"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "ושלטנך",
+      "gloss": "ken ti turaymo"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "agingga iti patingga"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T23:18:15.034432360Z",
+  "model": "glm-5.3"
+}

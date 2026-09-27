@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Inaramidda kasta dagiti mangngagas babaen kadagiti lemlaeng da mangiparuay ⟨את⟩ kadagiti kuto, ket saanda din a nakabael; ket adda dagiti kuto iti tao ken iti ayup.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "dagiti mangngagas"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "babaen kadagiti lemlaeng da"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "mangiparuay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti kuto"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "kadagiti kuto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "din a nakabael"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "dagiti kuto"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ken iti ayup"
+    }
+  ],
+  "timestamp": "2026-09-26T03:42:08.732423176Z",
+  "model": "glm-5.3"
+}

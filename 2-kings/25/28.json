@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ket nagsao kadakuana ⟨את⟩ kadagiti naimbag, ket initedna ⟨את⟩ tronona iti ngato ti trono dagiti ari nga adda kadakuana ⟨את⟩ iti Bavel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ket nagsao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kadakuana ⟨את⟩"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "kadagiti naimbag"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket initedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tronona"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tronona"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kadakuana ⟨את⟩"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "iti Bavel"
+    }
+  ],
+  "timestamp": "2026-09-26T14:14:34.464325886Z",
+  "model": "glm-5.3"
+}

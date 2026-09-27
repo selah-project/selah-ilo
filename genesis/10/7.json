@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 10:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Dagiti anak ni Kush: Seva, ken Khavila, ken Savta, ken Raama, ken Savtekha; ken dagiti anak ni Raama: Sheva ken Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ni Kush"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "Seva"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "ken Khavila"
+    },
+    {
+      "surface": "וסבתה",
+      "gloss": "ken Savta"
+    },
+    {
+      "surface": "ורעמה",
+      "gloss": "ken Raama"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "ken Savtekha"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ken dagiti anak"
+    },
+    {
+      "surface": "רעמה",
+      "gloss": "ni Raama"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "ken Dedan"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:09.296988496Z",
+  "model": "glm-5.3"
+}

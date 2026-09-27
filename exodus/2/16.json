@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Adda iti padi ti Midian pito a annak a babai, ket immayda ketimmulda danum, ket sinuksukanda ⟨את⟩ dagiti batog tapno maaniumenda dagiti karnero ti amada.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "iti padi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ti Midian"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "annak a babai"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "timmulda danum"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "sinuksukanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti batog"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "dagiti batog"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "tapno maaniumenda"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dagiti karnero"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ti amada"
+    }
+  ],
+  "timestamp": "2026-09-26T03:24:07.575996446Z",
+  "model": "glm-5.3"
+}

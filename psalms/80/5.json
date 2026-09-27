@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim ti Tsevaot, agingga no kaano nga nagapuyka iti tararaid ti umilim?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "nagapuyka"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "iti tararaid"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti umilim"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:20.295547469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket saan a dumengnga ni Paro kadakayo, ket itedko ⟨את⟩ imak iti Mitsrayim, ken iparuarok ⟨את⟩ dagiti buyotko, ⟨את⟩ pagiliik, dagiti anak ni Yisrael, manipud iti daga ti Mitsrayim babaen kadagiti dakkel a hustisia.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ket saan"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a dumengnga"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ket itedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "imak"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ken iparuarok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti buyotko"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "dagiti buyotko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagiliik"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pagiliik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "babaen kadagiti hustisia"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dakkel"
+    }
+  ],
+  "timestamp": "2026-09-26T03:37:26.787132346Z",
+  "model": "glm-5.3"
+}

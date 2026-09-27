@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "ngem iti dagaak ken iti kabagiak ti mapanka, ket alaem ti asawa para iti anakko, kenni Yitskhak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "dagaak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "kabagiak"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ti mapanka"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ket alaem"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ti asawa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para iti anakko"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kenni Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:15:36.067267318Z",
+  "model": "glm-5.3"
+}

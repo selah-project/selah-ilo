@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ti matay iti balay ni Yarovam iti ili, dagiti aso ti mangananda, ken ti matay iti talon, dagiti billit ti langit ti mangananda; ta ni Yahweh ti nagsao.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ti matay"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "iti balay ni Yarovam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ti mangananda"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dagiti aso"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ket ti matay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ti mangananda"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dagiti billit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti nagsao"
+    }
+  ],
+  "timestamp": "2026-09-26T12:53:49.092828040Z",
+  "model": "glm-5.3"
+}

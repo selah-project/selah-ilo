@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ikkatem ⟨את⟩ dagiti dua a tali iti balitok kadagiti dua a singsing, iti patingga ti Choshen.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ikkatem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dua a tali iti balitok"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "tali"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "patingga"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Choshen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:22:28.031871893Z",
+  "model": "glm-5.3"
+}

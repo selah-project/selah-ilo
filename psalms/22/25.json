@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ta saan a kinayataknegna ken saan a kinaduduaanna ti panagpiansa ti makiapsel, ket saan a nailemmenganna ti rupana manipud kenkuana, no di no immawagna kenkuana, dinengngegna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kinayataknegna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kinaduduaanna"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ti panagpiansa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ti makiapsel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "nailemmenganna"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kenkuana"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "no di no immawagna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dinengngegna"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:42.968093854Z",
+  "model": "glm-5.3"
+}

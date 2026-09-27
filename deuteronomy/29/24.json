@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Kunaenda ta pinanawanda ⟨את⟩ ti tulag ni Yahweh, ti Elohim dagiti ammada, a sinuktanna kadakuada idi panangiruarna ⟨את⟩ kadakuada manipud iti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "kunaenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "pinanawanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulag"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dagiti ammada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sinuktanna"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "idi panangiruarna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T08:36:08.422062710Z",
+  "model": "glm-5.3"
+}

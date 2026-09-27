@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kas iti linteg, ania ti aramiden kenni Vashti ti reina, gapu ta saanna nga aramiden ⟨את⟩ ti bilin ti ari Achashverosh babaen ti ima dagiti eunuk?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "kas iti linteg"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ti aramiden"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "kenni ti reina"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bilin"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen ti ima"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "dagiti eunuk"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:06.102944907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Awanno, Yahweh, ta siak ti adipenmo, siak ti adipenmo, anak ti babbai adipenmo; linukatam dagiti kadena kaniak.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Awanno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ti babbai adipenmo"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "linukatam"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "dagiti kadena kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:14.579411682Z",
+  "model": "glm-5.3"
+}

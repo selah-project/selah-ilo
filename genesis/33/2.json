@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Inikabilna ⟨את⟩ dagiti babai nga adipen ken ⟨את⟩ dagiti ubbingda iti umuna, ken ⟨את⟩ ni Lea ken dagiti anakna iti maudi, ken ⟨את⟩ ni Rahel ken ⟨את⟩ ni Yosef iti maudi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "inikabilna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti babai nga adipen"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "dagiti babai nga adipen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ubbingda"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "dagiti ubbingda"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "iti umuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ken dagiti anakna"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "iti maudi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ni Rahel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "iti maudi"
+    }
+  ],
+  "timestamp": "2026-09-26T02:43:47.055128171Z",
+  "model": "glm-5.3"
+}

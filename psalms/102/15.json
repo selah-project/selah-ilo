@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Ta naragsak dagiti adipenmo kadagiti ⟨את⟩ batona, ken ⟨את⟩ dagiti tapokna kaasienda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "naragsak"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dagiti adipenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti batona"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "kadagiti batona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti tapokna"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "dagiti tapokna"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "kaasienda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:17.892195738Z",
+  "model": "glm-5.3"
+}

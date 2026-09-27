@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Dakkel ni Yahweh ken adu ti makaipadaydayaw kenkuana, iti ili ti Elohimtayo, iti bantay ti pannasantuanna.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Dakkel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ken makaipadaydayaw"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "adu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ti pannasantuanna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:25:31.694265736Z",
+  "model": "glm-5.3"
+}

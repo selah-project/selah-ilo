@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket iyunnaanna ti umilina iti tabak, ken iti tawidna naari.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "ket iyunnaanna"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "iti tabak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "ken iti tawidna"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "naari"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:17.602523692Z",
+  "model": "glm-5.3"
+}

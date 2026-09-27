@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Nalinteg sika, Yahweh, ken nalinteg dagiti ukommo.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Nalinteg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ken nalinteg"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dagiti ukommo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:47.454915384Z",
+  "model": "glm-5.3"
+}

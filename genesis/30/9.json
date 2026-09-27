@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Nakita ni Lea nga agtalinaed isuna a saanen nga agputot, ken inalana ⟨את⟩ ni Zilpa nga adipenna ket itedna ⟨את⟩ isuna kenni Yaakov a kas asawa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "agtalinaed"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "saanen nga agputot"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "nga adipenna"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kenni Yaakov"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a kas asawa"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:13.037668716Z",
+  "model": "glm-5.3"
+}

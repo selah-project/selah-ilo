@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Innem a tawen mulam ti talonmo, ken innem a tawen putulem ti awaymo, ket apitem ⟨את⟩ apitna.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Innem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "mulam"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ti talonmo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ken innem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "putulem"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ti awaymo"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ket apitem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apitna"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "apitna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:54:01.348713524Z",
+  "model": "glm-5.3"
+}

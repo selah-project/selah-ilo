@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ti aldaw dayta, umay iti sikam: manipud iti Ashur ken dagiti ili ti Matsor, ken manipud iti Matsor agingga iti karayan, ken baybay manipud iti baybay, ken bantay manipud iti bantay.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ti aldaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "iti sikam"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "למני",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ken dagiti ili"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ti Matsor"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "ken manipud iti"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "iti Matsor"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "iti karayan"
+    },
+    {
+      "surface": "וים",
+      "gloss": "ken baybay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "manipud iti baybay"
+    },
+    {
+      "surface": "והר",
+      "gloss": "ken bantay"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "manipud iti bantay"
+    }
+  ],
+  "timestamp": "2026-09-26T20:09:43.876134072Z",
+  "model": "glm-5.3"
+}

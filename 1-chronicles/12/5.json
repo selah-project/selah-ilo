@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ken ni Yirmeyah, ken ni Yakhaziel, ken ni Yohanan, ken ni Yozabad ti Gederati;",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "ken ni Yirmeyah"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "ken ni Yakhaziel"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "ken ni Yohanan"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "ken ni Yozabad"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "ti Gederati"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:25.520006857Z",
+  "model": "glm-5.3"
+}

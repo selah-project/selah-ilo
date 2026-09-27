@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket inaramidna ti dakes iti mata ni Yahweh, ngem saan a kas ti amana ken kas ti inana; ket ikkatenna ⟨את⟩ ti poste ni Baal a naaramid ti amana.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "ket inaramidna"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "a kas ti amana"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "ken kas ti inana"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ket ikkatenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti poste ni Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ti poste"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naaramid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:20:51.401037362Z",
+  "model": "glm-5.3"
+}

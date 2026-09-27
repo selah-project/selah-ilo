@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 115,
+  "translation": "Ngem datayo, bendisionantay kenni Yah, manipud ita nga aldaw agingga iti agnanayon. Daydayawyo ni Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Ngem datayo"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "bendisionantay"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kenni Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "manipud ita nga aldaw"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Daydayawyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:53.956744009Z",
+  "model": "glm-5.3"
+}

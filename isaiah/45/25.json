@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Iti ni Yahweh makinteganda amin dagiti putot ni Yisrael, ket agdaydayawda.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "iti ni Yahweh"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "makinteganda"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ket agdaydayawda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dagiti putot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T15:31:39.831296202Z",
+  "model": "glm-5.3"
+}

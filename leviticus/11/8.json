@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ti lasagda didakayo mangan, ken ti natayan a bagida didakayo damagen, saanda a nasantuan kadakayo.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ti lasagda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "di"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dakayo mangan"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ken ti natayan a bagida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "di"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dakayo damagen"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "saanda a nasantuan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:15:45.982803979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Insurot ni Paro kadagiti amin ti umili na, nga kuna: Ti amin nga anak a lalaki a naipasngay, ibellengyo iti karayan, ket ti amin nga anak a babai, palabyo a biag.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "insurot"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umili na"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "a naipasngay"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "iti karayan"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "ibellengyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket ti amin"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "palabyo a biag"
+    }
+  ],
+  "timestamp": "2026-09-26T03:21:02.547104371Z",
+  "model": "glm-5.3"
+}

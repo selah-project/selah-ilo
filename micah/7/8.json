@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Saan kadi nga agragsak kaniak, kabusorkon, ta natnagak — nagtakderak; ta agtugawak iti sipnget — ni Yahweh ti lawagko.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "kadi nga agragsak"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "kabusorkon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "natnagak"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "nagtakderak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "agtugawak"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "iti sipnget"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ti lawag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:12:15.890045977Z",
+  "model": "glm-5.3"
+}

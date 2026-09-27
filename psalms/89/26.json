@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ikabilko ti imana iti baybay, ken ti kannawan nga imana kadagiti karayan.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ikabilko"
+    },
+    {
+      "surface": "בים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "imana"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "ken kadagiti karayan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "kannawan nga imana"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:37.463139651Z",
+  "model": "glm-5.3"
+}

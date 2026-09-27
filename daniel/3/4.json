@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket ti agyelliyaw nangiyelliyaw binalinenna: kadakayo, umili, nasion ken dadduma a pagsasao,",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "ket ti agyelliyaw"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nangiyelliyaw"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "binalinenna"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "⟨ti kuna⟩"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "umili"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "nasion"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "ken dadduma a pagsasao"
+    }
+  ],
+  "timestamp": "2026-09-26T23:14:35.591639727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 18:24",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ni David ket agnanaed iti nagbaetan dagiti dua a pagdaratan. Immalis ti agbantay iti atep ti pagdaratan agingga iti diding, ken inangatna ⟨את⟩ dagiti matana ket nakita, ket adu ti nakitana: maysa a lalaki nga agmartep a bukodna laeng.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "a pagdaratan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "immalis"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "ti agbantay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "גג",
+      "gloss": "atep"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ti pagdaratan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "diding"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ken inangatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti matana"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "dagiti matana"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket adu ti nakitana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a lalaki"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "nga agmartep"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "a bukodna laeng"
+    }
+  ],
+  "timestamp": "2026-09-26T11:59:59.535055958Z",
+  "model": "glm-5.3"
+}

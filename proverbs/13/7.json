@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Adda ti agpapakabaknang ngem awan ti aniamanna, adda ti agpapanglaw ngem adu ti kayamananna.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "ti agpapakabaknang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngem awan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti aniamanna"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "adda ti agpapanglaw"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ngem ti kayamanan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    }
+  ],
+  "timestamp": "2026-09-26T22:38:45.901090359Z",
+  "model": "glm-5.3"
+}

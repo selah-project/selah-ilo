@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Kastoy ti kinuna ni Sancherib, ari ti Ashur: Ania ti pagtaltekanyo, a magmagnanaedkayo iti pagserraan iti Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kastoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kinuna"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ni Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kaniakayo"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ti pagtaltekanyo"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "a magmagnanaedkayo"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "iti pagserraan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:58:06.166152316Z",
+  "model": "glm-5.3"
+}

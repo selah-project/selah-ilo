@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Napasamak iti tawen a duapulo ket tallo ni Ari Yehoash, saanda a napatibkeran dagiti padi ⟨את⟩ ti nagdadael ti balay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "a duapulo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ket tallo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ni Ari"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "a napatibkeran"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagdadael ti balay"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ti nagdadael"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    }
+  ],
+  "timestamp": "2026-09-26T13:45:28.714693942Z",
+  "model": "glm-5.3"
+}

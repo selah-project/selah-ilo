@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ni Noakhah ti maikapat, ken ni Rapha ti maikalima.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "ni Noakhah"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ti maikapat"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ken ni Rapha"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ti maikalima"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:20.764310238Z",
+  "model": "glm-5.3"
+}

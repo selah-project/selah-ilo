@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Sumrek ni David babaen iti sao ni Gad, a nagsao iti nagan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "babaen iti sao"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:41:03.883642807Z",
+  "model": "glm-5.3"
+}

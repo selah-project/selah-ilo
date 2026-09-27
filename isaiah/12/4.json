@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 12:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ket ibaganyo iti dayta nga aldaw: Agyamankayo ken Yahweh, awaganyo ⟨iti⟩ naganna, ipaammoyo kadagiti umili dagiti aramidenna, lagipenyo ta nangato ti naganna.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ket ibaganyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "Agyamankayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ken Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "awaganyo"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "⟨iti⟩ naganna"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ipaammoyo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "dagiti aramidenna"
+    },
+    {
+      "surface": "הזכירו",
+      "gloss": "lagipenyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "nangato"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:31:16.510501988Z",
+  "model": "glm-5.3"
+}

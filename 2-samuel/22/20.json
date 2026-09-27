@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ipuorna nak ⟨את⟩ iti nalawa a disso, tinulonganna nak, ta ay-ayatannak.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ipuorna"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "iti nalawa a disso"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nak"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "tinulonganna nak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ay-ayatanna"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nak"
+    }
+  ],
+  "timestamp": "2026-09-26T12:11:38.366970202Z",
+  "model": "glm-5.3"
+}

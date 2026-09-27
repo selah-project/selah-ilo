@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Kinunana kenkuana: Sika, ammom ⟨את⟩ ti inaserbi ko kenka, ken ⟨את⟩ ti adda a tagikua mo a karnero ken kalding iti ⟨את⟩ siak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ammom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inaserbi ko kenka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "inaserbi ko kenka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti adda a tagikua mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "tagikua mo a karnero ken kalding"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "iti ⟨את⟩ siak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:43:58.223646204Z",
+  "model": "glm-5.3"
+}

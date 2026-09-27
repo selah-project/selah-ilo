@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 64,
+  "translation": "Pinatnagda, maibusorda ti dilada; agtarayanda amin a nakakita kaniada.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "pinatnagda"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "maibusorda"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "dilada"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "agtarayanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:34:26.524131094Z",
+  "model": "glm-5.3"
+}

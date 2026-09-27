@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Ti agipatakder kadagiti baras dagiti akinngato a pagenna kadagiti danum, ti agaramid kadagiti ulep a kas ti karosaenna, ti agtalon iti dissuor ti angin —",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Ti agipatakder kadagiti baras"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kadagiti danum"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "dagiti akinngato a pagenna"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Ti agaramid"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "kadagiti ulep"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "a kas ti karosaenna"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "Ti agtalon"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti dissuor"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ti pakpak"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti angin"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:50.681589371Z",
+  "model": "glm-5.3"
+}

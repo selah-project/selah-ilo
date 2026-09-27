@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Salaknibannak a kas ti punting, anak ti mata; iti linong dagiti payakmo ilemmengnak.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Salaknibannak"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "a kas ti punting"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ti mata"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "iti linong"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "dagiti payakmo"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "ilemmengnak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:51.517883188Z",
+  "model": "glm-5.3"
+}

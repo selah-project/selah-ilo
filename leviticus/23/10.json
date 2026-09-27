@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Agkuna kadagiti anak a lalaki ni Yisrael ken ibagam kaniada: no umaykayo iti daga a itedko kadakayo ket apitenyo ⟨את⟩ ti apitna, iyegyo ⟨את⟩ ti omer, ti umuna iti apityo, kadagiti padi:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "agkuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "umaykayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "apitenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apitna"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ti apitna"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "iyegyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "ti omer"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ti umuna"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "iti apityo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "padi"
+    }
+  ],
+  "timestamp": "2026-09-26T05:46:55.351762105Z",
+  "model": "glm-5.3"
+}

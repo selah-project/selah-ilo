@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "saan a kadi a kas ti inaramidko kenni Shomeron ken kadagiti didiosenna, isu met nga aramidenko kenni Yerushalayim ken kadagiti ladawanna?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "saan a kadi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ti inaramidko"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "kenni Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "ken kadagiti didiosenna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "isu met"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nga aramidenko"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "kenni Yerushalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "ken kadagiti ladawanna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:31:57.045305437Z",
+  "model": "glm-5.3"
+}

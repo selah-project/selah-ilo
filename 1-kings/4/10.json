@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ti anak ni Ben-Khesed, iti Arubot; ti kuana ni Sokho ken ti amin a daga ti Kheper;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ni Ben-Khesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "iti Arubot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ti kuana"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "ni Sokho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ti Kheper"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:00.108092168Z",
+  "model": "glm-5.3"
+}

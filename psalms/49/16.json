@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Nupay kasta, ni Elohim isalakanna ti kararua ko manipud iti ima ti Sheol; ta awatannakonto. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nupay kasta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "isalakanna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua ko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ti Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "awatannakonto"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:29.173168250Z",
+  "model": "glm-5.3"
+}

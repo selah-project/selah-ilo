@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "No umay ti panangato, umay ti bain; ngem ken ⟨את⟩ dagiti bassit ti nakem, ti binnig-et.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ti panangato"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ti bain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bassit ti nakem"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "dagiti bassit ti nakem"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti binnig-et"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:09.927336473Z",
+  "model": "glm-5.3"
+}

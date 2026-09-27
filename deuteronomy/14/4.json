@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Daytoy ti ayup a mabalin yo a kanen: ti baka, ti urbon a karnero, ken ti urbon a kalding.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Daytoy"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ti ayup"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kanen yo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ti urbon"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "a karnero"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ken urbon"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "a kalding"
+    }
+  ],
+  "timestamp": "2026-09-26T08:05:16.452167366Z",
+  "model": "glm-5.3"
+}

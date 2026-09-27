@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Saan kadi a daytoy ti sao nga imbagami kenka idiay Mitsrayim, a kinuna: Agtalikod ka kaniakami, tapno agserbikami ⟨את⟩ ti Mitsrayim? Ta nasaysayaat kadakamin nga agserbi ⟨את⟩ ti Mitsrayim ngem ti agmataykamin iti kaatapan.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "imbagami"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "idiay Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinuna"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "agtalikod ka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaniakami"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "tapno agserbikami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasaysayaat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakamin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "agserbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "ngem ti agmataykamin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti kaatapan"
+    }
+  ],
+  "timestamp": "2026-09-26T03:50:52.539085450Z",
+  "model": "glm-5.3"
+}

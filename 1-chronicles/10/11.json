@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket nangngegda amin nga iti Yavesh-Gilead ⟨את⟩ amin nga aramidda ti Pilisteo kenni Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nangngegda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "iti Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin nga aramidda ti Pilisteo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "aramidda"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ti Pilisteo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kenni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:40.847059375Z",
+  "model": "glm-5.3"
+}

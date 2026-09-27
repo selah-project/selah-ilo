@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Idi ammo manen ni Adam ⟨את⟩ asawana, ket naiyanak ti maysa nga anak a lalaki, ket tinawaganna ⟨את⟩ nagananna a Shet, ta insublinto ti Elohim kadakuak ti sabali a bin-i imbes kenni Hevel, ta pinatay ni Kayin.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawana"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "naiyanak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "tinawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagananna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nagananna"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שת",
+      "gloss": "insubli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kadakuak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bin-i"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sabali"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "imbes"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pinatay"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    }
+  ],
+  "timestamp": "2026-09-26T01:36:58.929966721Z",
+  "model": "glm-5.3"
+}

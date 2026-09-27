@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 115,
+  "translation": "Mapan nga agbalin a kas kaniada dagiti agaramid kadakuada; siasino man ti agtiwala kadakuada.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "a kas kaniada"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mapan nga agbalin"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "dagiti agaramid kadakuada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siasino man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "agtiwala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:33.915997754Z",
+  "model": "glm-5.3"
+}

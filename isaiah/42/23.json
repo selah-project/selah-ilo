@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Siasino kadakayo ti agdengngeg iti daytoy, ti aglinglingay ken umdengngeg iti sumaruno?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "ti agdengngeg"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "ti aglinglingay"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ken umdengngeg"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "iti sumarunu"
+    }
+  ],
+  "timestamp": "2026-09-26T15:26:29.813459210Z",
+  "model": "glm-5.3"
+}

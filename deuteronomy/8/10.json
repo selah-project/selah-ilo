@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kanito a nanganka ken napnoka, bendisionam ⟨את⟩ ni Yahweh nga Elohimmo gapu iti naimbag a daga a initedna kenka.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "nanganka"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "napnoka"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "bendisionam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T07:48:39.788263088Z",
+  "model": "glm-5.3"
+}

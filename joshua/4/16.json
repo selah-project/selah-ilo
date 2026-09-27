@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Bilinem ⟨את⟩ dagiti padi,ti agidondon iti Arko ti Pammaksil,ket umayda dumteng manipud iti Karayan Yarden.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "bilinem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti padi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "agidondon"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arko"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ti Pammaksil"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ket umayda dumteng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iti Karayan Yarden"
+    }
+  ],
+  "timestamp": "2026-09-26T08:51:37.459942256Z",
+  "model": "glm-5.3"
+}

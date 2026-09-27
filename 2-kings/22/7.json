@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "ngem ti pirak a naited iti imada saan a masukatan ⟨kadakuada⟩, ta agob-obrada iti kinamatalek.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "masukatan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ti pirak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "a naited"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "imada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "iti kinamatalek"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "agob-obra"
+    }
+  ],
+  "timestamp": "2026-09-26T22:08:00.723183443Z",
+  "model": "glm-5.3"
+}

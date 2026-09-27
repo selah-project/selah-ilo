@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Siak ni Yahweh, inawagannak iti kinanailinteg, ket akinngato ti imam a talingegan, salaknibannak, ket itedkanto a dagus: itedkaka a tulag ti umili, a lawag kadagiti umili — saan: kadagiti pagilian.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "inawagannak"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "iti kinanailinteg"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "ket akinngato ti imam a talingegan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "iti imam"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "salaknibannak"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ket itedkaka"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "a tulag"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "a lawag"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kadagiti umili — saan: kadagiti pagilian"
+    }
+  ],
+  "timestamp": "2026-09-26T15:22:50.142841175Z",
+  "model": "glm-5.3"
+}

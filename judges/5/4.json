@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 5:4",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ni Yahweh, idi rummuaranmo manipud iti Seir, idi agsursurongka manipud iti talon ti Edom, ninnarat ti daga, nangtudu met dagiti langit, nangtudu met dagiti ulep iti danum.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "idi rummuaranmo"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "manipud iti Seir"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "idi agsursurongka"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "manipud iti talon"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ninnarat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "nangtudu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "dagiti ulep"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "nangtudu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "iti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T09:47:15.173799155Z",
+  "model": "glm-5.3"
+}

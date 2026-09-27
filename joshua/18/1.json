@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 18:1",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Nagurnong ti amin a gimong dagiti anak ni Yisrael iti Shiloh, ket ipagnaedda idiay ⟨את⟩ ti Tolda ti Gimong; ket naisuko ti daga iti sanganda.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "nagurnong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shiloh"
+    },
+    {
+      "surface": "וישכינו",
+      "gloss": "ipagnaedda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Tolda ti Gimong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Gimong"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ket ti daga"
+    },
+    {
+      "surface": "נכבשה",
+      "gloss": "naisuko"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "iti sanganda"
+    }
+  ],
+  "timestamp": "2026-09-26T09:20:12.408471317Z",
+  "model": "glm-5.3"
+}

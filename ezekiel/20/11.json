@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket itedko kadakuada ⟨את⟩ dagiti bilinko a naitudingan ken ⟨את⟩ dagiti ukomko, inammonak kadakuada ⟨אותם⟩, a ti tao nga agaramid kadakuada ⟨אותם⟩ ket agbiagenna iti kadakuada.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ket itedko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bilinko a naitudingan"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "dagiti bilinko a naitudingan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ukomko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dagiti ukomko"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "inammonak"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nga agaramid"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ket agbiagenna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iti kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:09:43.682442583Z",
+  "model": "glm-5.3"
+}

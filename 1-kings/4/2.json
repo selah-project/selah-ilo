@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket dagitoy ti dagiti prinsepe a kaduana: ni Azaryah ben Tsadok, ti padi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ket dagitoy"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ti dagiti prinsepe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "ni Azaryah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben (anak)"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ni Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    }
+  ],
+  "timestamp": "2026-09-26T12:26:06.937353786Z",
+  "model": "glm-5.3"
+}

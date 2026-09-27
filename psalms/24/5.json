@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Umadu-una ti bendision manipud ⟨את⟩ kenn Yahweh, ket ti kinalinteg manipud iti Elohim ti panangisalakanna.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "Umadu-una"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ti bendision"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "manipud ⟨Аת⟩ kenn Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ket ti kinalinteg"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "manipud iti Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ti panangisalakanna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:03:20.156764508Z",
+  "model": "glm-5.3"
+}

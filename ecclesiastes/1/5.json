@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Nagparang ti init ket simmangpet ⟨ti⟩ init, ken iti dissona ti init agsangsangit nga agparang — sadiay.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "nagparang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "simmangpet"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "dissona"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "agsangsangit"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "nga agparang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:06:57.766462965Z",
+  "model": "glm-5.3"
+}

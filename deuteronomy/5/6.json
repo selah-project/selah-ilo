@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Siak ni Yahweh ti Elohimmo, a nangikkat kenka manipud iti daga ti Mitsrayim, manipud iti balay dagiti adipen.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohimmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "nangikkat kenka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "dagiti adipen"
+    }
+  ],
+  "timestamp": "2026-09-26T07:44:05.445988856Z",
+  "model": "glm-5.3"
+}

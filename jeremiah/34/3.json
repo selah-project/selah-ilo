@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 34:3",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ken sika, saan a makatalaw iti imana, ta madakel a madakelka, ken iti imana maitedka; ken dagiti matam ⟨את⟩ dagiti mata ti ari ti Babilonia ti makitada, ken ti ngiwatna ⟨את⟩ ti ngiwatmo ti agsao, ken iti Babilonia umoka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ken sika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תמלט",
+      "gloss": "a makatalaw"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "madakel"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "a madakelka"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ken iti imana"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "maitedka"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "ken dagiti matam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti mata ti ari ti Babilonia"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti mata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ti Babilonia"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ti makitada"
+    },
+    {
+      "surface": "ופיהו",
+      "gloss": "ken ti ngiwatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ngiwatmo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ti ngiwatmo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ti agsao"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "ken iti Babilonia"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "umoka"
+    }
+  ],
+  "timestamp": "2026-09-26T17:21:32.447279947Z",
+  "model": "glm-5.3"
+}

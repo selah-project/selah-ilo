@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "Kas iti sana a matunaw, agsursor; a kas iti naipasngay a natay ti babai, saanda a makita ti init.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "sana"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "matunaw"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "agsursor"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "naipasngay a natay"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "makita"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "init"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:06.503878221Z",
+  "model": "glm-5.3"
+}

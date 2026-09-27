@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 4:17",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ti natayen a tao kadi a nalinteg ngem ti Eloah? No ti lalaki kadi a nadalus ngem ti nagaramid kenkuana?",
+  "tokens": [
+    {
+      "surface": "האנוש",
+      "gloss": "ti natayen a tao"
+    },
+    {
+      "surface": "מאלוה",
+      "gloss": "ngem ti Eloah"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "a nalinteg"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ngem ti nagaramid kenkuana"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "a nadalus"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ti lalaki"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:56.900393059Z",
+  "model": "glm-5.3"
+}

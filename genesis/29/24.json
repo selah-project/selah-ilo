@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ket naited ni Lavan ⟨את⟩ ni Zilpa, adipen a babaina, kenni Lea nga anakna a babai, a kas adipen.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "naited"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ni Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "adipen a babaina"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "kenni Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anakna a babai"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "a kas adipen"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:16.315692725Z",
+  "model": "glm-5.3"
+}

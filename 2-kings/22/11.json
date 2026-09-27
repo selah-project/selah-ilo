@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ket napasamak, idi nangngeg ti ari ⟨את⟩ dagiti sao ti libro ti torah, rinissayna ⟨את⟩ dagiti badona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "idi nangngeg"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ti libro"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ti torah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "rinissayna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti badona"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "dagiti badona"
+    }
+  ],
+  "timestamp": "2026-09-26T14:01:49.967796477Z",
+  "model": "glm-5.3"
+}

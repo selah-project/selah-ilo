@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Agiturong kadakuada dagiti nagibiaw a bagas iti apoy; madanonda, ken kadagiti nadagsen a pagtnagan, saandan a sumangkab",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "Agiturong"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "dagiti nagibiaw a bagas"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "madanonda"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "kadagiti nadagsen a pagtnagan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saandan"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "a sumangkab"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:39.955179756Z",
+  "model": "glm-5.3"
+}

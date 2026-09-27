@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Imbes nga, dagiti kadaksananyo ti nagisina iti nagbaetanyo ken ti Elohimyo, ket dagiti basolyo nangilemmeng ti rupana kenkayo, a saan a makadengngeg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imbes"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "dagiti kadaksananyo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "nagisina"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "iti nagbaetanyo"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohimyo"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "ket dagiti basolyo"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "nangilemmeng"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kenkayo"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "a saan a makadengngeg"
+    }
+  ],
+  "timestamp": "2026-09-26T16:01:07.265285235Z",
+  "model": "glm-5.3"
+}

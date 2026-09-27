@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Manipud iti patingga dagiti langit ti panagruarna, ken ti panaglikelikuanna agingga kadagiti patinggada; ket awan ti nailemmeng manipud iti pudotna.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "manipud iti patingga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ti panagruarna"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "ken ti panaglikelikuanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "agingga kadagiti"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "patinggada"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ti nailemmeng"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "manipud iti pudotna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:05.193610980Z",
+  "model": "glm-5.3"
+}

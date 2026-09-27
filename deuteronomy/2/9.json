@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kinuna ni Yahweh kaniak: saanmo a dadaelam ⟨את⟩ ti Moab, ken saanmo a guraenda iti gubat, ta saanak a mangited kenka iti dagnana a tawid, ta iti annak ni Lot intedko ⟨את⟩ ti Ar a tawid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "a dadaelam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saanmo"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "a guraenda"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "a mangited"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "iti dagnana"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "a tawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "iti annak"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ni Lot"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "intedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ti Ar"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "a tawid"
+    }
+  ],
+  "timestamp": "2026-09-26T07:31:00.204313968Z",
+  "model": "glm-5.3"
+}

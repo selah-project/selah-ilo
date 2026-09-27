@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 144,
+  "translation": "Ti Salmo ni David. Bendisionan ni Yahweh, ti batoak, ti agisuro kadagiti imak iti gubat, kadagiti ramirak iti panagubat.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti Salmo ni David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Bendisionan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ti batoak"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ti agisuro"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kadagiti imak"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "kadagiti ramirak"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti panagubat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:43.374758050Z",
+  "model": "glm-5.3"
+}

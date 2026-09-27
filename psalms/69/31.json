@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Agdaydayawak ti nagan ni Elohim iti kanta, ket ipadakkelko ni Elohim iti panagyaman.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Agdaydayawak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "iti kanta"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "ket ipadakkelko ni"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "iti panagyaman"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:41.024053687Z",
+  "model": "glm-5.3"
+}

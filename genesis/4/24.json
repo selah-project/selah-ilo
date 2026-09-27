@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ta makapito ti maipabalos para kenni Kayin, ngem kenni Lemek, pitopulo ken pito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "makapito"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "ti maipabalos"
+    },
+    {
+      "surface": "קין",
+      "gloss": "kenni Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "ngem kenni Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitopulo"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ken pito"
+    }
+  ],
+  "timestamp": "2026-09-26T01:41:09.418138905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Idi ket nagsao kadakuada iti rangerna, ken iti pungtona ipaltorna.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Idi ket"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "iti rangerna"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "iti pungtona"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ipaltorna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:46:39.965948671Z",
+  "model": "glm-5.3"
+}

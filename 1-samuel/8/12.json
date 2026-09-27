@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken ikabilna kenkuana dagiti daulo iti sangaribu ken dagiti daulo iti limapulo, ken mangarado kadagiti aradona ken agapit kadagiti apitna, ken agaramid kadagiti ramramit ti gubatna ken dagiti ramramit ti karetana.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "Ken ikabilna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dagiti daulo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iti sangaribu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ken dagiti daulo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "iti limapulo"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "ken mangarado"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "kadagiti aradona"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "ken agapit"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "kadagiti apitna"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ken agaramid"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dagiti ramramit"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "ti gubatna"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ken dagiti ramramit"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ti karetana"
+    }
+  ],
+  "timestamp": "2026-09-26T10:32:34.975647522Z",
+  "model": "glm-5.3"
+}

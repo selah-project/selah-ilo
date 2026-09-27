@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Nagsubli ni Shemuel a sumurot kenni Shaul, ket agsangsangaili ni Shaul kennu Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a sumurot kenni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ket agsangsangaili"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kennu Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T10:52:42.444405227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken ⟨את⟩ dagitoy ti dakesenyo kadagiti billit: saanda a makan, nakardakesda — ⟨את⟩ ti agila, ken ⟨את⟩ ti peres, ken ⟨את⟩ ti azniyah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ti dakesenyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "billit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "a makan"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "nakardakesda"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti agila"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ti agila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "ti peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti azniyah"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "ti azniyah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:07.679794939Z",
+  "model": "glm-5.3"
+}

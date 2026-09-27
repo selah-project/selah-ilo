@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Kinuna ni David kenkuana: No agballasiwka ⟨את⟩ kaduak, agbalinka a pasan kaniak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "agballasiwka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kaduak",
+      "marks": "kaduak"
+    },
+    {
+      "surface": "והית",
+      "gloss": "agbalinka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "a pasan"
+    }
+  ],
+  "timestamp": "2026-09-26T11:53:27.934861449Z",
+  "model": "glm-5.3"
+}

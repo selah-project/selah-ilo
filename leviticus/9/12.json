@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Idin inpatayna ⟨את⟩ ti natuded a sakripisio, ket intedda dagiti anak ni Aharon ⟨את⟩ ti dara kenkuana, ket inna bisbis iti lawlaw ti altar.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "inpatayna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti natuded a sakripisio"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natuded a sakripisio"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "intedda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dara"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "inna bisbis"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "lawlaw"
+    }
+  ],
+  "timestamp": "2026-09-26T05:08:45.898863307Z",
+  "model": "glm-5.3"
+}

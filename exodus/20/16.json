@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Saanmo a sumungbat iti kabeddenganmo ⟨iti⟩ maysa a saksi nga ulbod.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "sumungbat"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "kabeddenganmo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ulbod"
+    }
+  ],
+  "timestamp": "2026-09-26T03:57:03.751625667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Kadagiti mannangngulo ⟨iti kanta⟩: 'Saan nga dadaelen'; maysa a salmo ni David, maysa a miktam, idi timmulak ⟨manipud⟩ iti rupa ni Shaul, idiay kweba.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kadagiti mannangngulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "nga dadaelen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "idi timmulak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manipud iti rupa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "idiay kweba"
+    }
+  ],
+  "timestamp": "2026-09-26T21:32:49.897270445Z",
+  "model": "glm-5.3"
+}

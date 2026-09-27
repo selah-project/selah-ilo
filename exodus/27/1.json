@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ken aramidem ⟨את⟩ ti altar a kayo ti shittim, lima a soku ti kaatiddoganna ken lima a soku ti kalawaanna, uppat ti sukogna ti altar, ken tallo a soku ti katayagna.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ken aramidem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "a kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ti shittim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a soku"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ti kaatiddoganna"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ken lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a soku"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ti kalawaanna"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "uppat ti sukogna"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agtengnga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ken tallo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a soku"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ti katayagna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:21:01.283466048Z",
+  "model": "glm-5.3"
+}

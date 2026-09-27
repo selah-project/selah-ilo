@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ket ikabilmo ti sundang iti ngiwatmo, no tao a mannaggep iti mangan ka.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ket ikabilmo"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "ti sundang"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "iti ngiwatmo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ti mannaggep iti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:42:33.444349899Z",
+  "model": "glm-5.3"
+}

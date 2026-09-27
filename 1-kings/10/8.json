@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Nasayaat ti tattao a lalakim, nasayaat dagitoy nga adipenmo, dagiti agtaktakder iti sangoam a taginayon, dagiti nangngegeg ⟨את⟩ ti bakersagmo",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Nasayaat"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "ti tattao a lalakim"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dagitoy nga adipenmo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "dagiti agtaktakder"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sangoam"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "a taginayon"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "dagiti nangngegeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bakersagmo"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ti bakersagmo"
+    }
+  ],
+  "timestamp": "2026-09-26T12:37:00.777908414Z",
+  "model": "glm-5.3"
+}

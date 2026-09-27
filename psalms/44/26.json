@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Ta natnag iti tapok ti kararuanmi, timmipon iti daga ti tianmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "iti tapok"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ti kararuanmi"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "timmipon"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "ti tianmi"
+    }
+  ],
+  "timestamp": "2026-09-26T21:20:09.166917996Z",
+  "model": "glm-5.3"
+}

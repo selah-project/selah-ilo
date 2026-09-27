@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Saanmo a mabuteng kadakuada, ta ni Yahweh nga Elohimmo ⟨is⟩ iti tengngam, El a dakkel ken nakabuteng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "mabuteng"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmo"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "iti tengngam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ken nakabuteng"
+    }
+  ],
+  "timestamp": "2026-09-26T07:50:49.315144754Z",
+  "model": "glm-5.3"
+}

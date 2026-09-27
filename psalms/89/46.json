@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Nagipenka kadagiti aldaw ti kabataanna, binakludmo kennuana ti kiddaw. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "nagipenka"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kadagiti aldaw"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "ti kabataanna"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "binakludmo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "ti kiddaw"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:40.330855651Z",
+  "model": "glm-5.3"
+}

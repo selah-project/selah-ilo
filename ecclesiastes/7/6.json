@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ta kas ti timek dagiti rungit iti baba ti kaldero, kasta ti panagkulkulangaw ti bubu, ken daytoy met ket hebel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "kas ti timek"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "dagiti rungit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ti kaldero"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "panagkulkulangaw"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ti bubu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ken"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:16.650820278Z",
+  "model": "glm-5.3"
+}

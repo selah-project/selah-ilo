@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kinuna ni Moshe: Sika met, mangitedka kadagiti daton ken dagiti naleta a daton iti imatayo, ken aramidentayo kenn Yahweh nga Elohimtayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mangitedka"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "iti imatayo"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "dagiti daton"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "ken dagiti naleta a daton"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "ken aramidentayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenn Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimtayo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:42:57.104952005Z",
+  "model": "glm-5.3"
+}

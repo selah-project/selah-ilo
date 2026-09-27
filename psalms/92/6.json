@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "Mano a dakkel dagiti aramidmo, Yahweh! Napuskas unay nga adalem dagiti kapanunotam.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mano"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "a dakkel"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dagiti aramidmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napuskas unay"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "nga adalem"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "dagiti kapanunotam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:00.299423452Z",
+  "model": "glm-5.3"
+}

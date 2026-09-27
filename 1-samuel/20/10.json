@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Kinuna ni David kenni Yehonatan: Sino ti mangibaga kaniak? Wenno ania ti sungbatanna kenka nga umisit ni amam?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sino ti"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "mangibaga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "או",
+      "gloss": "Wenno"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania ti"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "sungbatanna kenka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ni amam"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nga umisit"
+    }
+  ],
+  "timestamp": "2026-09-26T10:59:31.926044559Z",
+  "model": "glm-5.3"
+}

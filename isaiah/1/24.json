@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Gapu ta, ti inkuna ni Adonay, Yahweh Tsevaot, ti Napigsa ti Yisrael: Ay, aginanaak kadagiti sumbangirkon, ket agibalesak kadagiti kabusorko!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Gapu ta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ti inkuna"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "ti Napigsa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "aginanaak"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "kadagiti sumbangirkon"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "ket agibalesak"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "kadagiti kabusorko"
+    }
+  ],
+  "timestamp": "2026-09-26T14:16:35.978072538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Dagiti matak nakabannog iti salakanmo ken iti sao ti kinalintegmo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Dagiti matak"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nakabannog"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "iti salakanmo"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ken iti sao"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ti kinalintegmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:12.655392350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ti padi a mangidaton ti basol makan ti ⟨אתה⟩; iti nasantuan a disso makan dayta, iti sangoan ti Tolda ti Gimong.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "a mangidaton ti basol"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (ti daton ti basol)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "makan dayta"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iti disso"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T05:04:54.560632055Z",
+  "model": "glm-5.3"
+}

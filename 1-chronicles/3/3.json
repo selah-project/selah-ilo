@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ti maikalima ni Shefatyah, kenni Avital; ti maikanem ni Yitre'am, kenni Eglah ti asawana.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "ti maikalima"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ni Shefatyah"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "kenni Avital"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ti maikanem"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "ni Yitre'am"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "kenni Eglah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ti asawana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:52.810139143Z",
+  "model": "glm-5.3"
+}

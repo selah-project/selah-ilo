@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Iyallatiwam kaniak ket kaasimnak, ta maymaysa ken nasakitan siak.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Iyallatiwam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ket kaasimnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "maymaysa"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ken nasakitan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:02:00.208054791Z",
+  "model": "glm-5.3"
+}

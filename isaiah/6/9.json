@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kinunana: Sumka ket ibagam iti daytoy nga umili: Dengngegyo ti panagdengngeg, ngem saan koma a maawatyo; kitayo ti panagkita, ngem saan koma a maammoyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sumka"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "iti umili"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengngegyo"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ti panagdengngeg"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "maawatyo"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "kitayo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ti panagkita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "maammoyo"
+    }
+  ],
+  "timestamp": "2026-09-26T14:27:15.507896537Z",
+  "model": "glm-5.3"
+}

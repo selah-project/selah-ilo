@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Nagrua a nakigubat kadagiti Pilisteo, ken indadaelna ⟨את⟩ kuta ti Gat ken ⟨את⟩ kuta ti Yavne ken ⟨את⟩ kuta ti Ashdod, ken nagbangon kadagiti ili iti Ashdod ken kadagiti Pilisteo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nagrua"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "a nakigubat"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "kadagiti Pilisteo"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "ken indadaelna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuta ti Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ti Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kuta ti Yavne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ti Yavne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kuta ti Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "ti Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ken nagbangon"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kadagiti ili"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "iti Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "ken kadagiti Pilisteo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:53:34.828804184Z",
+  "model": "glm-5.3"
+}

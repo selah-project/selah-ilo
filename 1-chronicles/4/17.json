@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Dagiti anak ni Ezrah: Yeter, ken Mered, ken Efer, ken Yalon; ket nagyanak ⟨את⟩ ni Miryam ken ⟨את⟩ ni Shamay ken ⟨את⟩ ni Yishbakh, ti ama ti Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "ni Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "ken Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ken Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "ken Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "nagyanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ni Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Shamay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ni Shamay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Yishbakh"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "ni Yishbakh"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ti ama"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "ti Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:34.916637060Z",
+  "model": "glm-5.3"
+}

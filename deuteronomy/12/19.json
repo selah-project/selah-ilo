@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Salaknibanmo ti bagim a saanmo ipanaw ⟨את⟩ ti Levita iti amin nga aldawem iti dagaam.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "salaknibanmo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti bagim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "no saan"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ipanawmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Levita"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ti Levita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "nga aldawem"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "dagaam"
+    }
+  ],
+  "timestamp": "2026-09-26T08:01:59.491323172Z",
+  "model": "glm-5.3"
+}

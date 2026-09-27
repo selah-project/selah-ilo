@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken ti panangisina iti pagbaetan ti nasantuan ken ti pagbaetan ti kadawyan, ken iti pagbaetan ti nakerugit ken ti pagbaetan ti nalinis.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "Ken ti panangisina"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti pagbaetan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantuan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti pagbaetan"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ti kadawyan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti pagbaetan"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ti nakerugit"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti pagbaetan"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "ti nalinis"
+    }
+  ],
+  "timestamp": "2026-09-26T05:13:32.375628709Z",
+  "model": "glm-5.3"
+}

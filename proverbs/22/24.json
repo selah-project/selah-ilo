@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Saanmo a kaduaen ⟨את⟩ ti tao a naunget, ken ⟨את⟩ ti lalaki ti unget saanka a sumrek:",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "a kaduaen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao a naunget"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אף",
+      "gloss": "a naunget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ti unget"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanka"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "a sumrek"
+    }
+  ],
+  "timestamp": "2026-09-26T22:41:30.036552361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken manipud iti tribu ni Asher ⟨את⟩ Mishal ken ⟨את⟩ dagiti awayanna, ⟨את⟩ Avdon ken ⟨את⟩ dagiti awayanna.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ken manipud iti tribu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti awayanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti awayanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti awayanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti awayanna"
+    }
+  ],
+  "timestamp": "2026-09-26T09:26:36.179375312Z",
+  "model": "glm-5.3"
+}

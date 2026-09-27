@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 97,
+  "translation": "Dagiti agay-ayat kenni Yahweh, diaenyo ti dakes; salaknibanna dagiti kararua dagiti matalekanna, iti ima dagiti dakes isalakannana.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Dagiti agay-ayat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "diaenyo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "salaknibanna"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "dagiti kararua"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "dagiti matalekanna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "isalakannana ⟨dokayo⟩"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:00.875957689Z",
+  "model": "glm-5.3"
+}

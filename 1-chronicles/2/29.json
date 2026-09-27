@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ti nagan ti asawa ni Avishur ket Avihayil, ket nagputotanna kenni ⟨את⟩ Akhban ken ⟨את⟩ Molid.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ken ti nagan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ti asawa"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "ni Avishur"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Avihayil"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ket nagputotanna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhban"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Akhban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Molid"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Molid"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:23.752709619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 148,
+  "translation": "Apoy ken batbateg, niebe ken aso, angin ti bagyo a mangaramid ⟨iti⟩ saona.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ken batbateg"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "niebe"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "ken aso"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "bagyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mangaramid"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "saona"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:41.707729585Z",
+  "model": "glm-5.3"
+}

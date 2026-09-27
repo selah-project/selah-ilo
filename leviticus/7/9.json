@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ti amin a daton a maluto iti horno, ken ti amin a naaramid iti kaldero ken iti sarten, daytoy ket tagikua ti padi a mangipaay ⟨את⟩ dayta, kenkuana daytoy ti agbalin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "daton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "maluto"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "iti horno"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "naaramid"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "iti kaldero"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "sarten"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "a mangipaay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (ti daton)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ti agbalin"
+    }
+  ],
+  "timestamp": "2026-09-26T04:58:59.268626505Z",
+  "model": "glm-5.3"
+}

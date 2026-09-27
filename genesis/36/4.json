@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Nagyanak ni Adah kenni Esav ⟨את⟩ ni Elifaz, ket ni Bosmat nagyanak ⟨את⟩ ni Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "nagyanak"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kenni Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Elifaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ket ni Bosmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nagyanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-09-26T02:45:01.820885720Z",
+  "model": "glm-5.3"
+}

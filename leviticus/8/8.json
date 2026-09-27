@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Inikkanna iti kaniana ⟨את⟩ ti choshen, ken inikkanna iti uneg ti choshen ⟨את⟩ dagiti Urim ken ⟨את⟩ dagiti Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "inikkanna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti kaniana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti choshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ti choshen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "inikkanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ti choshen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "dagiti Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "dagiti Tumim"
+    }
+  ],
+  "timestamp": "2026-09-26T05:15:22.265587570Z",
+  "model": "glm-5.3"
+}

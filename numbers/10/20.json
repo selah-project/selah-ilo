@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken iti nasalakniban ti buyot ti tribu dagiti anak ni Gad ket ni Elyasaf, anak ni Deuel.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ken iti nasalakniban"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ti tribu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ni Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ni Deuel"
+    }
+  ],
+  "timestamp": "2026-09-26T06:21:52.732752077Z",
+  "model": "glm-5.3"
+}

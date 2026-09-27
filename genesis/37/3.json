@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ken ni Yisrael ay-ayatenna ⟨את⟩ ni Yosep ngem amin kadagiti anakna, ta anak ti lakay isu kukuana; ket aramidenna kukuana ti maysa a bado a nadumaduma a maris.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Ken ni Yisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ay-ayatenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yosep"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosep"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngem amin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kadagiti anakna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ti lakay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kukuana"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kukuana"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "bado"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "a nadumaduma a maris"
+    }
+  ],
+  "timestamp": "2026-09-26T02:51:37.049354088Z",
+  "model": "glm-5.3"
+}

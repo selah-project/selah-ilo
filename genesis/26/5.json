@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ta nakdingngeg ni Avraham iti bokok, ken sinurotna ti bantayko, dagiti bilinko, dagiti lintegko ken ti Torahko.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakdingngeg"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "iti bokok"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ken sinurotna"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ti bantayko"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "dagiti bilinko"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "dagiti lintegko"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ken ti Torahko"
+    }
+  ],
+  "timestamp": "2026-09-26T02:23:22.678299056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 79,
+  "translation": "Mizmoro kenni Asaph. Elohim, dagiti umili simmangpetda iti tawidmo, dinagdaganda ⟨את⟩ ti heikal ti panagsantuanmo, inaramidda ⟨את⟩ ti Yerushalayim kadagiti tumpok.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoro"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kenni Asaph"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "simmangpetda"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "iti tawidmo"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "dinagdaganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti heikal ti panagsantuanmo"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ti heikal"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ti panagsantuanmo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "kadagiti tumpok"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:02.094738160Z",
+  "model": "glm-5.3"
+}

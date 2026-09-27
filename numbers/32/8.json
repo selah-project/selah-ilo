@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Kasta ti inaramidda dagiti amaanyo idi insubliko ti ⟨את⟩ kadakuada manipud iti Kadesh-Barnea a pagkitaan ti ⟨את⟩ daga.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "dagiti amaanyo"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "idi insubliko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti amaanyo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "iti Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a pagkitaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T07:18:57.257472785Z",
+  "model": "glm-5.3"
+}

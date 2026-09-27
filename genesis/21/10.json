@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Kinunana kenni Avraham: Ipanawam daytoy nga adipen a babai ken ⟨את⟩ ti anakna, ta saan nga agtutawid ti anak ti daytoy nga adipen a babai a kadua ti anakko, a kadua ni Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kenni Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Ipanawam"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "daytoy nga adipen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a babai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti anakna"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ti anakna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "agtutawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ti adipen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a babai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ti anakko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:09:52.063308123Z",
+  "model": "glm-5.3"
+}

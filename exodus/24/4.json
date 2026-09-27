@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Sinurat ni Moshe ⟨את⟩ amin a dagiti sao ni Yahweh, ket nagsapa a nagtakder iti bigat, ket inpatakderna maysa nga altar iti baba ti bantay, ken sangapulo ket dua a poste para kadagiti sangapulo ket dua a tribu ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "sinurat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a dagiti sao ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "ket nagsapa a nagtakder"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ket inpatakderna"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "maysa nga altar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ti bantay"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ken dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ken sangapulo"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "a poste"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "para kadagiti dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ken sangapulo"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "a tribu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T04:11:19.361842968Z",
+  "model": "glm-5.3"
+}

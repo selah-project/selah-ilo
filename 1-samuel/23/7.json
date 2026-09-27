@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Naipammagbaga kenni Shaul nga immay ni David iti Kelila, ket kinuna ni Shaul: Inyawat ni Elohim ⟨אתו⟩ iti imak, ta naserraan isuna a simrek iti ili nga addaan duskolan ken serraan.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Naipammagbaga"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kenni Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "iti Kelila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "Inyawat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ni David (isuna)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "iti imak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "naserraan"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "a simrek"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "duskolan"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ken serraan"
+    }
+  ],
+  "timestamp": "2026-09-26T11:06:06.495525422Z",
+  "model": "glm-5.3"
+}

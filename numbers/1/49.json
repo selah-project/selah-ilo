@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Laeng ti tribu ni Levi ti saanmo bilangen, ken ⟨את⟩ ti ulloda ti saanmo alaen, iti tengnga dagiti anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tribu ni Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribu"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "bilangen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti ulloda"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ulloda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "alaen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T06:00:33.858416838Z",
+  "model": "glm-5.3"
+}

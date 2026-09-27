@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ken ni Azaryah nagputot ⟨את⟩ kenni Khelets, ket ni Khelets nagputot ⟨את⟩ kenni Elasah;",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ken ni Azaryah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Khelets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "kenni Khelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ket ni Khelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Elasah"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "kenni Elasah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:45.849458895Z",
+  "model": "glm-5.3"
+}

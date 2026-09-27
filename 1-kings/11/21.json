@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Idi nangngeg ni Hadad iti Mitsrayim a natay ni Davíd a kadua dagiti amana, ken a natay met ni Yoav ti tengngel ti buyot, kinuna ni Hadad kenni Paro: Ipannak, ket umayak iti dagak.",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "ni Hadad"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "natay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni Davíd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amana"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ken a"
+    },
+    {
+      "surface": "מת",
+      "gloss": "natay met"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "tengngel"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ni Hadad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Ipannak"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ket umayak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "dagak"
+    }
+  ],
+  "timestamp": "2026-09-26T12:45:54.174515338Z",
+  "model": "glm-5.3"
+}

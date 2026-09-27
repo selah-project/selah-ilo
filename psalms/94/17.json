@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "No saan ni Yahweh a tulongannak, iti bassit a panawen nagnaedto iti ulimek ti kararuak.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "no saan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ti tulonganna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "iti bassit a panawen"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "nagnaedto"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "iti ulimek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:57.013406501Z",
+  "model": "glm-5.3"
+}

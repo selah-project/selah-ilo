@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Sadiay nagipenenna ti kipoz ket immultana, nagbukaenna ken nagipenenna iti aninona; sadiay laeng nagurnongda dagiti atap a billit, ti maysa iti kabsatna a babai.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "nagipenenna"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "ti kipoz"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "ket immultana"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "nagbukaenna"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "nagipenenna manen"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "iti aninona"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "nagurnongda"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "dagiti atap a billit"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "iti kabsatna a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T15:15:31.040377540Z",
+  "model": "glm-5.3"
+}

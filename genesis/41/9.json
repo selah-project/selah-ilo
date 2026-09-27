@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Kinuna ti opisial dagiti mangipaay iti arak ⟨את⟩ ni Paroh, a kumuna: ⟨את⟩ dagiti basolko siak ti ilaglagipko ita nga aldaw.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti opisial"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "dagiti mangipaay iti arak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kumuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti basolko"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "dagiti basolko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "ilaglagipko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T02:58:41.856308688Z",
+  "model": "glm-5.3"
+}

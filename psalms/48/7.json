@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Ti buteng ti inalana kanda sadiay, dagiti gurruod, a kas iti babai a mangyasig.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "ti buteng ti panagtararag"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "inalana kanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dagiti gurruod"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "a kas iti babai a mangyasig"
+    }
+  ],
+  "timestamp": "2026-09-26T21:24:27.462566009Z",
+  "model": "glm-5.3"
+}

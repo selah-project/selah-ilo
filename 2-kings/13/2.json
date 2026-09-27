@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket inaramidna ti dakes iti kadagiti mata ni Yahweh, ken nagna kadagiti basol ni Yarovam, anak a lalaki ni Nevat, a mangpakabasol ⟨את⟩ ti Yisrael; saan a dimdayo kadakuana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramidna"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti kadagiti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ken nagna"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "basol"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "mangpakabasol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "סר",
+      "gloss": "a dimdayo"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kadakuana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:50:32.824534816Z",
+  "model": "glm-5.3"
+}

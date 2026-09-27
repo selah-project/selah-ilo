@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 27:23",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "ket ibilang ti padi kenuana ⟨ti⟩ bilang ti pategmo aginggana iti tawen ti Yubel, ket itedna ⟨ti⟩ pategmo iti dayta nga aldaw, a nasantoan kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "ibilang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenuana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilang ti pategmo"
+    },
+    {
+      "surface": "מכסת",
+      "gloss": "bilang"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "ti pategmo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aginggana"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "ti Yubel"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pategmo"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "pategmo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantoan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:59:10.775687174Z",
+  "model": "glm-5.3"
+}

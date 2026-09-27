@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket saan a nagpayo nga agdengngeg iti timekna, ngem immakar ngem kukuana, ket dinayonna ken simmanglad ⟨את⟩ kukuana.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nagpayo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "nga agdengngeg"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "iti timekna"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "immakar"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ngem kukuana"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "dinayonna"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "simmanglad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kukuana"
+    }
+  ],
+  "timestamp": "2026-09-26T11:45:43.659707313Z",
+  "model": "glm-5.3"
+}

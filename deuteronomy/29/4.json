@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "ket tinaudakayo ⟨את⟩ kadakayo uppat a pulo a tawen iti liad; saan a nadadaanen dagiti badoyo manipud kadakayo, ken ti sapatom saan a nadadaanen manipud iti sakam.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "ket tinaudakayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "uppat a pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tawen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti liad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "a nadadaanen"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "dagiti badoyo"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "manipud kadakayo"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "ken ti sapatom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "a nadadaanen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "sakam"
+    }
+  ],
+  "timestamp": "2026-09-26T08:35:36.564612409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": "Ta ti umili ken ti pagarián a saan nga agserbi kenka, maiddaanda; ket dagiti umili ket agdadaelda a maudi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "ken ti pagarián"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "nga agserbi kenka"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "maiddaanda"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "ket dagiti umili"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "agdadaelda"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "a maudi"
+    }
+  ],
+  "timestamp": "2026-09-26T15:56:33.656092976Z",
+  "model": "glm-5.3"
+}

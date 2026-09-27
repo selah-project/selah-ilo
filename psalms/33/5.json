@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Kayatna ti kinalinteg ken ti ukom; ti hesed ni Yahweh ket punno ti daga.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Kayatna"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ti kinalinteg"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken ti ukom"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ti hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ket punno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:08:30.013418935Z",
+  "model": "glm-5.3"
+}

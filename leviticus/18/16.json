@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ti lamolamo ti asawa ti kabsatmo, saanmo a luktan; lamolamo ti kabsatmo dayta.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "lamolamo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ti kabsatmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "a luktan"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "lamolamo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ti kabsatmo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T05:34:13.550995356Z",
+  "model": "glm-5.3"
+}

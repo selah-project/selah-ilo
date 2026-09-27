@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket umayda sadiay, ket ikkatanda ⟨את⟩ amin kadagiti sakemna ken ⟨את⟩ amin kadagiti kakasna manipud sadiay.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "ket umayda"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "ket ikkatanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin kadagiti sakemna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin kadagiti"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "sakemna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin kadagiti kakasna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin kadagiti"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "kakasna"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "manipud sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T18:17:20.283994469Z",
+  "model": "glm-5.3"
+}

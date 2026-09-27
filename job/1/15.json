@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket immay dagiti tattao a Sheva ket inalada ida, ket binendierda ⟨את⟩ dagiti adipen babaen ti ngiwat ti tabak, ket nakatalikudak — laeng siak a maminsan — nga makibaga kenka.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "dagiti tattao a Sheva"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "ket inalada ida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti adipen"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "dagiti adipen"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "binendierda"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "babaen ti ngiwat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ti tabak"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "ket nakatalikudak"
+    },
+    {
+      "surface": "רק",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "a maminsan"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "nga makibaga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:57.991656059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kinuna ti anghel ni Yahweh kanianna: Agsublika kadua ti balaemmo, ket manaweeka babaen dagiti imana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kanianna"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ti anghel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "ti balaemmo"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "ket manaweeka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "dagiti imana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:13.146290361Z",
+  "model": "glm-5.3"
+}

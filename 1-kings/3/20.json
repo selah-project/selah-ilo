@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Immurong isuna iti tengnga ti rabii ket inalana ⟨את⟩ anakko a lalaki manipud iti asideak, idi naturog ti adipenmo, ket ipinadti na ⟨isuna⟩ iti susona; ket ⟨את⟩ anakna a lalaki a natay ipinadti na iti susok.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "immurong"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ti rabii"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ket inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakko a lalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakko a lalaki"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "manipud iti asideak"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ket ti adipenmo"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "naturog"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "ipinadti na"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "iti susona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "anakna a lalaki a natay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anakna a lalaki"
+    },
+    {
+      "surface": "המת",
+      "gloss": "a natay"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "ipinadti"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "iti susok"
+    }
+  ],
+  "timestamp": "2026-09-26T12:25:19.535664926Z",
+  "model": "glm-5.3"
+}

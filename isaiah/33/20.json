@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 33:20",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Kitaem ti Tsiyon, ti ili dagiti gimongmi: makita dagiti matam ti Yerushalayim, pagtaengan a natalnaay, tolda a saan a maiyakar, dagiti pasakna ket saan a maiyakar agingga agnanayon, ken ti amin a lubidna ket saan a maipukaw.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ti Tsiyon"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "מועדנו",
+      "gloss": "dagiti gimongmi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dagiti matam"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "pagtaengan"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "a natalnaay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יצען",
+      "gloss": "a maiyakar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יסע",
+      "gloss": "maiyakar"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "dagiti pasakna"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "agingga agnanayon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "חבליו",
+      "gloss": "a lubidna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ינתקו",
+      "gloss": "a maipukaw"
+    }
+  ],
+  "timestamp": "2026-09-26T15:06:46.001829936Z",
+  "model": "glm-5.3"
+}

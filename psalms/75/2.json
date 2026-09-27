@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 75,
+  "translation": "Agpaspasiakami Kenka, Elohim; agpaspasiakami, ta asideg ti naganmo; ibagada ⟨dagiti⟩ kagila-giladanmo.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Agpaspasiakami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kenka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "agpaspasiakami"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ta asideg"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ibagada"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kagila-giladanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:44.667436558Z",
+  "model": "glm-5.3"
+}

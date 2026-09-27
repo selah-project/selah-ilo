@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 122,
+  "translation": "Kanta ti Panagpangato, ni David. Immayar-ayak idi kinuna da kaniak: Intay ti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ti Panagpangato"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Immayar-ayak"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "idi kinuna da"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "Intay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:19.501934441Z",
+  "model": "glm-5.3"
+}

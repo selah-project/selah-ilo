@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Napasamak, ti timmakder a nagpakabit iti umuna nga aldaw ti ⟨את⟩ datonna: si Nakshon, anak a lalaki ni Aminadab, manipud iti tribu ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ti timmakder a nagpakabit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "umuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "datonna"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "datonna"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "si Nakshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ni Aminadab"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "manipud iti tribu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T06:12:55.270366696Z",
+  "model": "glm-5.3"
+}

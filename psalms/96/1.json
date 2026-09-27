@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 96,
+  "translation": "Kanta kayo kenni Yahweh ti baro a kanta, kanta kayo kenni Yahweh, amin a daga.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "kanta kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baro"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kanta kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:35.743205386Z",
+  "model": "glm-5.3"
+}

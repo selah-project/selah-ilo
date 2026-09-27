@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ta iti hebel simmangpet isuna, ket iti sipnget mapan, ket iti sipnget malotan ti naganna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "iti hebel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "simmangpet"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ket iti sipnget"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "mapan"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ket iti sipnget"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "malotan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:47.638642923Z",
+  "model": "glm-5.3"
+}

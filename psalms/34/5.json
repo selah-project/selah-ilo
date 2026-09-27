@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Imbasitko ⟨את⟩ ni Yahweh, ket sinungbatannakon, ken isalakannakon manipud iti amin a butbutegko.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "imbasitko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ket sinungbatannakon"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ken manipud iti amin"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "a butbutegko"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "isalakannakon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:06:17.576693497Z",
+  "model": "glm-5.3"
+}

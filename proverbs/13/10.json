@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Lamang babaen iti kabastawan maited ti panagsusupiat, ngem ⟨את⟩ dagiti agsipnget adda ti ammo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "kabastawan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maited"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "panagsusupiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti agsipnget"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "dagiti agsipnget"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ammo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:38:22.553360367Z",
+  "model": "glm-5.3"
+}

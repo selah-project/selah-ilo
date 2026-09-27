@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Saan da a malabsing ken saan da a mauaw, ken saan a makuanda ti kapektan ken ti init; ta ti makaasi kaniada ti mangidaulo kaniada, ken iti taudan ti danum ipenennana da.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "malabsing da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "mauaw da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "makuanda"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "ti kapektan"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ken ti init"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "ti makaasi kaniada"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "mangidaulo kaniada"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "taudan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "ipenennana da"
+    }
+  ],
+  "timestamp": "2026-09-26T15:34:22.553104009Z",
+  "model": "glm-5.3"
+}

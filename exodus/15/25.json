@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 15:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket sinangawanna kenni Yahweh, ket iparanganna ni Yahweh ⟨את⟩ maysa a kayo kenkuana, ket inbalkenna iti danum, ket nagamis ti danum; sadiay nangikeddenganna kadakuada iti bilin ken ukom, ket sadiay pinadasanna ida.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "sinangawanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויורהו",
+      "gloss": "ket iparanganna kenkuana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "⟨את⟩ maysa a kayo",
+      "marks": "maysa a kayo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ket inbalkenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "וימתקו",
+      "gloss": "ket nagamis"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nangikeddenganna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "חק",
+      "gloss": "iti bilin"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken ukom"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ket sadiay"
+    },
+    {
+      "surface": "נסהו",
+      "gloss": "pinadasanna ida"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:53.927022155Z",
+  "model": "glm-5.3"
+}

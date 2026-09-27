@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Siasino daytoy a ari ti daydayaw? Ni Yahweh, napigsa ken naabileg, ni Yahweh a naabileg iti gubat.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siasino"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ken naabileg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "a naabileg"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "iti gubat"
+    }
+  ],
+  "timestamp": "2026-09-26T21:03:20.157245405Z",
+  "model": "glm-5.3"
+}

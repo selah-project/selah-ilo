@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 67,
+  "translation": "Ag-ragsakda ken agkankantada dagiti umili, ta ukomam nga agnanayon ti dagiti umili, ken dagiti umili iti daga itultuloyam nga agannurot. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "agragsakda"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "ken agkankantada"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "ukomam"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ti dagiti umili"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "nga agnanayon"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ken dagiti umili"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "itultuloyam nga agannurot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:37:33.231595406Z",
+  "model": "glm-5.3"
+}

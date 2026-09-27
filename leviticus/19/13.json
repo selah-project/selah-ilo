@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Saanmo a lallakuen ti kaarrubam, ken saanmo a aggalgal; saanto a maitalinaed iti kaarrubam ti aramid ti nakaipapan agingga iti bigat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saanmo a"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "lallakuen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kaarrubam"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kaarrubam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanmo a"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "aggalgal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanto"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "maitalinaed"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ti nakaipapan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "iti kaarrubam ⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "iti bigat"
+    }
+  ],
+  "timestamp": "2026-09-26T05:46:38.656774494Z",
+  "model": "glm-5.3"
+}

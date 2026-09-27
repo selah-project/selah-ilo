@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 6:1",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Idi inton ni Daryavesh ti ari, nangipaay iti bilin, ket immadalda iti balay dagiti libro, a sadnessa dagiti kamali a naiyeg sadiay, idiay Bavel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Idi inton"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "ni Daryavesh"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nangipaay"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "iti bilin"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "ket immadalda"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "ספריא",
+      "gloss": "dagiti libro"
+    },
+    {
+      "surface": "די",
+      "gloss": "a"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "dagiti kamali"
+    },
+    {
+      "surface": "מהחתין",
+      "gloss": "a naiyeg"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "idiay Bavel"
+    }
+  ],
+  "timestamp": "2026-09-26T23:23:15.321260045Z",
+  "model": "glm-5.3"
+}

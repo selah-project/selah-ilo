@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ket kinuna ni Nabot kenni Ahab: Maliklikan koma kaniak manipud kenni Yahweh ti panangitedko ⟨את⟩ ti tawid dagiti amak kaniak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ni Nabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "maliklikan koma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "manipud kenni Yahweh"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ti panangitedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tawid dagiti amak"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ti tawid"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "dagiti amak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T13:12:56.521203440Z",
+  "model": "glm-5.3"
+}

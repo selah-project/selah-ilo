@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Ken pinadakkelna ⟨את⟩ ti umilina unay, ket napigsaanna ngem dagiti kabusorna.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "ken pinadakkelna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umilina"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "ket napigsaanna"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "dagiti kabusorna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:16.568707873Z",
+  "model": "glm-5.3"
+}

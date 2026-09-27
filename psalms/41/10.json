@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Uray ti lalaki a kappiak, a tinagikuaak a makasarunokadakua, ti mangan iti tinapayko, timmonel kaniana ti sakana a sumungrod kaniak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Uray"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "a kappiak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "tinagikuaak a makasarunokadakua"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ti mangan"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "iti tinapayko"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "timmonel kaniana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a sumungrod kaniak"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ti sakana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:25.012840488Z",
+  "model": "glm-5.3"
+}

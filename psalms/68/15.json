@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Idi naiwaras ni Shadday ⟨iti⟩ dagiti ari iti dayta, agniebe idiay Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Idi naiwaras"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ni Shadday"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "agniebe"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "idiay Tsalmon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:09.086914736Z",
+  "model": "glm-5.3"
+}

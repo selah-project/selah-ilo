@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ken ni Oved-Edom addaan kadagiti anak: ni Shemayah ti immuna, ni Yehozavad ti maikadua, ni Yoakh ti maikatlo, ni Sakhar ti maikapat, ken ni Netanel ti maikalima.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "ken ni Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemayah"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ti immuna"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Yehozavad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Yoakh"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ti maikatlo"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "Sakhar"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ti maikapat"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ti maikalima"
+    }
+  ],
+  "timestamp": "2026-09-26T23:42:22.336778548Z",
+  "model": "glm-5.3"
+}

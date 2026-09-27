@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kayat ni Moshe nga agnaed ⟨iti⟩ ⟨את⟩ ti tao, ket itedna ⟨את⟩ ni Tsipora a anakna a babai kenni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "agnaed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "ni Tsipora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anakna a babai"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kenni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T03:26:42.658951162Z",
+  "model": "glm-5.3"
+}

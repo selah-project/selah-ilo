@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken ti amin a sidalan a tulinen ti agtaud ⟨iti⟩ ngatuenana ket nairugit.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "sidalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "tulinen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngatuenana"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ti agtaud"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nairugit"
+    }
+  ],
+  "timestamp": "2026-09-26T05:30:58.766202492Z",
+  "model": "glm-5.3"
+}

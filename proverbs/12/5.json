@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Dagiti kapanunotan dagiti nalinteg ket ukom, ngem dagiti plano dagiti dakes ket panandaya.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "dagiti kapanunotan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukom"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "dagiti plano"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "panandaya"
+    }
+  ],
+  "timestamp": "2026-09-26T22:37:17.291032545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ket ikkattoko ⟨את⟩ ti imaak, ket makitam ⟨את⟩ ti likudanko, ngem ti rupak saan a makita.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Ket ikkattoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imaak"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ti imaak"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "ket makitam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti likudanko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ti likudanko"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ngem ti rupak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "a makita"
+    }
+  ],
+  "timestamp": "2026-09-26T04:31:22.201706902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Manipud iti ngiwat dagiti ubbing ken dagiti agsusuok inpundarmo ti bileg, gapu kadagiti kabusormo, nga isardengmo ti kabusor ken ti mannumbalek.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Manipud iti ngiwat"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "dagiti ubbing"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "ken dagiti agsusuok"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "inpundarmo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu kadagiti"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "kabusormo"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "nga isardengmo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "ken ti mannumbalek"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:19.619086462Z",
+  "model": "glm-5.3"
+}

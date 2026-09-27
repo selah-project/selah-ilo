@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ni Asa ti ari innalana ⟨את⟩ amin ti Yehudah, ken iniyegda ⟨את⟩ dagiti bato ti Ramah ken ⟨את⟩ kayona a pinatakder ni Baasha, ket inpatakderanna kadakuada ⟨את⟩ Geba ken ⟨את⟩ ti Mitzpah.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Ni Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "innalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin ti Yehudah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "iniyegda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bato ti Ramah"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ti Ramah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kayona"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "kayona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pinatakder"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "inpatakderanna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Mitzpah"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ti Mitzpah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:51:22.290712091Z",
+  "model": "glm-5.3"
+}

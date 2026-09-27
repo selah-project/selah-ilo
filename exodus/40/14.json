@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ken ⟨את⟩ dagiti annakna iyegam nga asideg, ken isulbaram ⟨את⟩ kadakuada iti koton.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "iyegam nga asideg"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "isulbaram"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "iti koton"
+    }
+  ],
+  "timestamp": "2026-09-26T04:51:36.818906854Z",
+  "model": "glm-5.3"
+}

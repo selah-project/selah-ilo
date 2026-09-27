@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 125,
+  "translation": "Ta saan nga aginana ti baston ti dakes iti paset dagiti nalinteg, tapno saan a italonanda dagiti nalinteg iti basol dagiti imada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "nga aginana"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ti baston"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "paset"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "italonanda"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "iti basol"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dagiti imada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:21.505499287Z",
+  "model": "glm-5.3"
+}

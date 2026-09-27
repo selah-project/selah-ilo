@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ken iti daytoy inaramidna ⟨את⟩ dagiti batay ti ruangan ti Tolda ti Gimong, ken ⟨את⟩ ti altar ti tanso, ken ⟨את⟩ ti parrilla ti tanso a tagikuana, ken ⟨את⟩ amin a kadakkelan a ramit ti altar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ken inaramidna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti batay ti ruangan ti Tolda ti Gimong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "dagiti batay"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti altar ti tanso"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ti tanso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti parrilla ti tanso"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ti parrilla"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ti tanso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tagikuana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a ramit ti altar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "a ramit"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:45:35.617510043Z",
+  "model": "glm-5.3"
+}

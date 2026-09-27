@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ti lukatan dagiti mata dagiti bulbulag, ti pagruaran kadagiti nakaparpekel, dagiti agtugaw iti sipnget, manipud iti balay daiplipen.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "Ti lukatan"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "dagiti mata"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "dagiti bulbulag"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ti pagruaran"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "dagiti nakaparpekel"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ti napenkel"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "daiplipen"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dagiti agtugaw"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "iti sipnget"
+    }
+  ],
+  "timestamp": "2026-09-26T15:22:50.144332333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Nangngeg ni Moshe, ket nasayaat dayta kadagiti matana.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ket nasayaat"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "kadagiti matana"
+    }
+  ],
+  "timestamp": "2026-09-26T05:14:51.278747166Z",
+  "model": "glm-5.3"
+}

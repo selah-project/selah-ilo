@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Agtedka ken agtarigaganka, ta sika ti mangipaay a tawid ⟨את⟩ dagiti tattao daytoy ⟨את⟩ ti daga a sinumpaak kadagiti ammada a ited koma kaniada.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Agtedka"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ken agtarigaganka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "ti mangipaay a tawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tattao daytoy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dagiti tattao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "sinumpaak"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "kadagiti ammada"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "a ited koma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T08:56:51.399349461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Itan, saan kayo ti nangipen ⟨את⟩ siak ditoy, no di ket ti Elohim, nga inaramidannaak nga ama ni Paro, ken apo iti amin a balayna, ken agturay iti amin a daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Itan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "ti nangipen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "siak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no di ket"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "nga inaramidannaak"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "nga ama"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "ken apo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a balayna"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ken agturay"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:15:39.020653173Z",
+  "model": "glm-5.3"
+}

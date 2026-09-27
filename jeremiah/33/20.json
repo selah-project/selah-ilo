@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Kastoy ti kinuna ni Yahweh: No madadael yoyo ⟨את⟩ ti tulagko iti aldaw ken ⟨את⟩ ti tulagko iti rabii, nga awananto ti aldaw ken ti rabii iti tiempo da,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "madadael yoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulagko iti aldaw"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tulagko iti rabii"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "nga awananto"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ti agbalin"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ken ti rabii"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "iti tiempo da"
+    }
+  ],
+  "timestamp": "2026-09-26T17:22:29.579107912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Saanmo nga ikabil ⟨את⟩ ti adipen-mo a kas maysa nga anak a babai ni Belial, ta manipud iti kaadu ti rigat-ko ken gura-ko nagsaok agingga ita.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ikabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipenmo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sadiay iti sanguan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ni Belial"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "manipud iti kaadu"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "rigatko"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "ken gurako"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nagsaok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ita"
+    }
+  ],
+  "timestamp": "2026-09-26T10:21:50.768877876Z",
+  "model": "glm-5.3"
+}

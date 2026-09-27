@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Inagan ti tao ti nagan ti asawana a Khava, ta isu ti nagbalin nga ina nga amin a sibibiag.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inagan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ti asawana"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Khava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngg ina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a sibibiag"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:40.391452093Z",
+  "model": "glm-5.3"
+}

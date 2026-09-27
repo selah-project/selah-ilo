@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Sangapulo ket dua a tawen nagserbida da kenni Khedarlaomer ⟨את⟩, ngem idi ti maikasangapulo ket tallo a tawen nagrebeldeda.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "nagserbida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Khedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Khedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ken idi ti maikasangapulo ket tallo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "nagrebeldeda"
+    }
+  ],
+  "timestamp": "2026-09-26T01:57:49.674059437Z",
+  "model": "glm-5.3"
+}

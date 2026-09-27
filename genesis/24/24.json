@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ket kinunana kenkuana: Siak ti anak a babai ni Betuel, a anak a lalaki ni Milka, a naganak kenni Nahor.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ni Betuel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ni Milka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naganak"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "kenni Nahor"
+    }
+  ],
+  "timestamp": "2026-09-26T02:19:07.436629774Z",
+  "model": "glm-5.3"
+}

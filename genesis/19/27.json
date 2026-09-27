@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Immay nga umuna ti bigat ni Avraham iti dissu a nasdekanna sadiay iti sango ⟨את⟩ ti rupana ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "immay nga umuna ti bigat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti dissu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ti dissu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nasdekanna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupana ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T02:05:49.419924244Z",
+  "model": "glm-5.3"
+}

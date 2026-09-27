@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Sadiay sango ni Efrayim ken ni Binyamin ken ni Menashe, ibangonmo ⟨את⟩ ti bilegmo, ket umayka a mangisalakan kadakami.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Sadiay sango"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ken ni Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ken ni Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "ibangonmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bilegmo"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ti bilegmo"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ket umayka"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "a mangisalakan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:03.351891739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "ken ti mannulay kadagiti nulay, ken ti agsaludsod iti espiritu ken iti mannangan-ammo, ken ti agsapsapul kadagiti natay.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "ken ti mannulay"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "kadagiti nulay"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "ken ti agsaludsod"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "iti espiritu"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "ken iti mannangan-ammo"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "ken ti agsapsapul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "dagiti natay"
+    }
+  ],
+  "timestamp": "2026-09-26T08:11:47.226204210Z",
+  "model": "glm-5.3"
+}

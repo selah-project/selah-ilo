@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken ti tao a maturog ⟨iti⟩ ⟨את⟩ asawa ti anakna a lalaki — matayen a matayenda dagusuda; gulo ti inaramidda; ti darada ⟨ket⟩ iti kaniada.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "maturog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa ti anakna a lalaki"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "asawa ti anakna a lalaki"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayen"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "matayenda"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dagusuda"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "gulo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ti darada"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iti kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T05:43:00.282925080Z",
+  "model": "glm-5.3"
+}

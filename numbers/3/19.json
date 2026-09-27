@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 3:19",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Dagiti anak a lalaki ni Kehat babaen kadagiti pamilia da: Amram ken Yitsar, Hebron ken Uzziel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dagiti anak a lalaki"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "babaen kadagiti pamilia da"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "ken Yitsar"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ken Uzziel"
+    }
+  ],
+  "timestamp": "2026-09-26T06:10:46.234276040Z",
+  "model": "glm-5.3"
+}

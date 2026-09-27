@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ⟨את⟩ amin a taba ti toro iti basol ikkatna kkuana: ⟨את⟩ ti taba a nakailukmot iti lamma, ken ⟨את⟩ amin a taba ⟨a⟩ adda iti lamma.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a taba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "a taba"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ti toro"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "iti basol"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ikkatna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti taba a nakailukmot"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ti taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "a nakailukmot"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "lamma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a taba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨a⟩ adda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "lamma"
+    }
+  ],
+  "timestamp": "2026-09-26T05:03:05.397282878Z",
+  "model": "glm-5.3"
+}

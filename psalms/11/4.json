@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Yahweh ⟨adda⟩ iti nasantuan na templo, Yahweh — iti langit ti trono na; dagiti mata na makitana, dagiti kiraw na isubokanda dagiti anak ti tao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "iti templo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nasantuan na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ti trono na"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "dagiti mata na"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "makitana"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "dagiti kiraw na"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "isubokanda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak ti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:33.597372130Z",
+  "model": "glm-5.3"
+}

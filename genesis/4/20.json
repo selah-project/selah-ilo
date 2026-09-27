@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket naganakannana ni Ada ⟨את⟩ ni Yaval; isu ti nagbalin nga ama dagiti agnaed iti tolda ken kadagiti taraken nga ayup.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "naganakannana"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ni Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nga ama"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ti agnaed"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "iti tolda"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ken kadagiti taraken nga ayup"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:25.015696138Z",
+  "model": "glm-5.3"
+}

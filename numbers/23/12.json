@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Nagsungbat ken kinunana: Saan kadi a ⟨את⟩ ti isaang ni Yahweh iti ngiwat ko, ⟨את⟩ ti salaknibek a sawek?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "nagsungbat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ken kinunana"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti isaang ni Yahweh iti ngiwat ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "isaang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "iti ngiwat ko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti salaknibek a sawek"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ti salaknibek"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "a sawek"
+    }
+  ],
+  "timestamp": "2026-09-26T06:59:53.560745164Z",
+  "model": "glm-5.3"
+}

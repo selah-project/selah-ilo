@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Dagiti maladarda ket mabatekda iti ruar dagiti matada; maisamsam dagiti balayda, ket dagiti asawada a babai ket mapurokan.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "Dagiti maladarda"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "ket mabatekda"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "iti ruar dagiti matada"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "maisamsam"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "dagiti balayda"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ket dagiti asawada a babai"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "ket mapurokan"
+    }
+  ],
+  "timestamp": "2026-09-26T14:33:07.192033238Z",
+  "model": "glm-5.3"
+}

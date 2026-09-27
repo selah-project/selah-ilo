@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken manipud iti Yisrael: manipud kadagiti anak ni Parosh: Ramjah, ken Yiziyah, ken Malkiyah, ken Miyamin, ken Elazar, ken Malkiyah, ken Benajah.",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "ken manipud iti Yisrael"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "manipud kadagiti anak"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ni Parosh"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "Ramjah"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "ken Yiziyah"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "ken Malkiyah"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "ken Miyamin"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ken Elazar"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "ken Malkiyah"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "ken Benajah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:25:30.326506775Z",
+  "model": "glm-5.3"
+}

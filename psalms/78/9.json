@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Dagiti anak ni Efrayim, agtultulngel kadagiti pana, nagsubli iti aldaw ti gubat.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "agtultulngel"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "pana"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ti gubat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:33.530626120Z",
+  "model": "glm-5.3"
+}

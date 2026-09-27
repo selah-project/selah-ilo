@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Gapu iti kinasiad matnag ti atup, ken gapu iti nakapsot dagiti ima agtitit ti balay.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "Gapu iti kinasiad"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "matnag"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "ti atup"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ken gapu iti nakapsot"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "dagiti ima"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "agtitit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:11:00.913299135Z",
+  "model": "glm-5.3"
+}

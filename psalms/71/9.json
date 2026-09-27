@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Saanmo nga iballatek iti panawen ti panakatandatanda; no maipatingga ti bilegko, saanmo a bay-anaak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "nga iballatek"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "iti panawen ti"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "panakatandatanda"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "no maipatingga"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "a bay-anaak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:19.791462770Z",
+  "model": "glm-5.3"
+}

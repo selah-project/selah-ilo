@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken daytoy ti sao ⟨את⟩ aramidem: ikkatem dagiti ari, tunggal maysa iti dissona, ket ikabilmo dagiti pachot iti lugarda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ikkatem"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "iti dissona"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ket ikabilmo"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "dagiti pachot"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "iti lugarda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:07.834603890Z",
+  "model": "glm-5.3"
+}

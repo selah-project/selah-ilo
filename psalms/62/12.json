@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Maysa a daras ti nagsao ti Elohim, dua a daras ti nangngegko daytoy: a ti bileg ⟨ket⟩ iti Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "maysa a daras"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti nagsao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua a daras"
+    },
+    {
+      "surface": "זו",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ti nangngegko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "iti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T21:35:44.712665475Z",
+  "model": "glm-5.3"
+}

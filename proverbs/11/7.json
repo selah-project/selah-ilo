@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Iti panagmatay ti dakes a tao mapukaw ti apaas, ket ti panaguray dagiti napigsa napukaw.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "Iti panagmatay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes a tao"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "mapukaw"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ti apaas"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "ket ti panaguray"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "dagiti napigsa"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "napukaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:18.814703632Z",
+  "model": "glm-5.3"
+}

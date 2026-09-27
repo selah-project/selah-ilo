@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 33:16",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "ken kadagiti napipintas a banag ti daga ken ti kapnunanna, ken ti ragsak ti nagnaediti sanga: umay daytoy iti ulo ni Yosef, ken iti tuktok ti ulo ti naisinsin kadagiti kabsatna.",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "ken kadagiti napipintas a banag"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ken ti kapnunanna"
+    },
+    {
+      "surface": "ורצון",
+      "gloss": "ken ti ragsak"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "ti nagnaed"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "iti sanga"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "umay daytoy"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "iti ulo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ולקדקד",
+      "gloss": "ken iti tuktok ti ulo"
+    },
+    {
+      "surface": "נזיר",
+      "gloss": "ti naisinsin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kadagiti kabsatna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:01:01.283684279Z",
+  "model": "glm-5.3"
+}

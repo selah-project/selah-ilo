@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Ket insukatanda ⟨את⟩ ti daydayawda iti porma ti baka a mangmangan iti ruot.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "ket insukatanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daydayawda"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ti daydayawda"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "iti porma"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "a mangmangan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "iti ruot"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:17.464017364Z",
+  "model": "glm-5.3"
+}

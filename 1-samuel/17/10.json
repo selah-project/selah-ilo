@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Kinuna ti Pelishtio: Siak ti dinayawko ⟨את⟩ dagiti linia ti gubat ti Yisrael ita nga aldaw; itedkayo kaniak maysa a lalaki ket aglabankami a dua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ti Pelishtio"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "dinayawko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti linia ti gubat ti Yisrael"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "dagiti linia ti gubat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "itedkayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a lalaki"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ket aglabankami"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "a dua"
+    }
+  ],
+  "timestamp": "2026-09-26T10:54:17.046212955Z",
+  "model": "glm-5.3"
+}

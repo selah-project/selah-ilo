@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kinuana ti Filisteo ⟨את⟩ ti arko ti Elohim ket idingra ⟨את⟩ iti balay ni Dagon, ket kinabilanda ⟨את⟩ asideg ni Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ti Filisteo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko ti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "idingra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iti balay ni Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ni Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "kinabilanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "asideg ni Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "asideg"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ni Dagon"
+    }
+  ],
+  "timestamp": "2026-09-26T10:34:11.855749369Z",
+  "model": "glm-5.3"
+}

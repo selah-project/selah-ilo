@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Iti ngiwatmo ti shofar, kas ti agila iti ngato ti balay ni Yahweh; ta linabasanda ti tulagko, ken ti torahko binalinganda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "ngiwatmo"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "kas ti agila"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "linabasanda"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "tulagko"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "torahko"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "binalinganda"
+    }
+  ],
+  "timestamp": "2026-09-26T19:37:55.688010227Z",
+  "model": "glm-5.3"
+}

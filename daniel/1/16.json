@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket napasamak a ni ti kamarero ket inikkatna ⟨את⟩ ti taraonda ken ti arak a innumenda, ket intedna kaniada dagiti mula.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak a"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "ni ti kamarero"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "inikkatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti taraonda"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "ti taraonda"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ken ti arak"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "a innumenda"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ket intedna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "dagiti mula"
+    }
+  ],
+  "timestamp": "2026-09-26T23:14:45.669602436Z",
+  "model": "glm-5.3"
+}

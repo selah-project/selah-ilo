@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "No iti kannu kadagiti adipenmo mabirukan ⟨את⟩ dayta, matayna, ket nuaradin dakami ket agbalinkami a kadagiti adipen ti apo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "no iti kannu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "mabirukan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta kenkuana"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "kadagiti adipenmo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ket matayna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket nuaradin"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "dakami"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "agbalinkami"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "iti apo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "a kadagiti adipen"
+    }
+  ],
+  "timestamp": "2026-09-26T03:06:20.763475843Z",
+  "model": "glm-5.3"
+}

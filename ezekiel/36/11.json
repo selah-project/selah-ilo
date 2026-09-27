@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 36:11",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ken padakdek kadakayo ti tao ken taraken nga animal, ken madakdakelda ken mamumulada, ket paagnaedkayo no kas iti kasbayanyo, ket ipategko kadakayo iti nasaysayaat ngem iti umunayo, ket ammokayo a siak ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "padakdek"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "ken taraken nga animal"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "madakdakelda"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "mamumulada"
+    },
+    {
+      "surface": "והושבתי",
+      "gloss": "paagnaedko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "no kas iti kasbayanyo"
+    },
+    {
+      "surface": "כקדמותיכם",
+      "gloss": "no kas iti kasbayanyo"
+    },
+    {
+      "surface": "והטבתי",
+      "gloss": "ipategko kadakayo iti nasaysayaat"
+    },
+    {
+      "surface": "מראשתיכם",
+      "gloss": "ngem iti umunayo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ket ammokayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T19:08:52.044907357Z",
+  "model": "glm-5.3"
+}

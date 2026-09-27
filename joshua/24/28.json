@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Inpan ni Yehoshua ⟨את⟩ dagiti umili, tunggal maysa iti tawidna.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Inpan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "iti tawidna"
+    }
+  ],
+  "timestamp": "2026-09-26T09:32:00.037343621Z",
+  "model": "glm-5.3"
+}

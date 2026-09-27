@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ti torah ni Yahweh awan ti biddutna, mangisubli ti kararua; ti patestimonio ni Yahweh matalek, mangited ti kinasiardaan iti inocente.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "ti torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "awan ti biddutna"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "mangisubli"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ti patestimonio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "matalek"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "mangited ti kinasiardaan"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "iti inocente"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:05.193771069Z",
+  "model": "glm-5.3"
+}

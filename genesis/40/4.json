@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Inpannurot ti sar dagiti mannangpatay ni Yosef ⟨את⟩ kadakuada, ket nagserbi ⟨את⟩ kadakuada; ket nagtaudda nga aldaw iti panagkuliar.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Inpannurot"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti sar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "dagiti mannangpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kadakuada"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "ket nagserbi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ida"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ket nagtaudda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "iti panagkuliar"
+    }
+  ],
+  "timestamp": "2026-09-26T03:00:27.538475495Z",
+  "model": "glm-5.3"
+}

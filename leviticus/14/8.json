@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ken labaanna ti maanasen ⟨את⟩ dagiti damitna, ken gulukenna ⟨את⟩ amin ti buokna, ken agdigos iti danum, ken maanas, ken kalpasanna sumrek iti kampo, ken agnaed iti ruar ti toldana pito nga aldaw.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "labaanna"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ti maanasen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti damitna"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "dagiti damitna"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "gulukenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin ti buokna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "ti buokna"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "agdigos"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "maanas"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agnaed"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "ti toldana"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngaan aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T05:26:11.839805237Z",
+  "model": "glm-5.3"
+}

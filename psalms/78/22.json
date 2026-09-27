@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ta saanda a mamati iti Elohim, ken saanda a nagtalek iti panangisalakanna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saanda pay"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nagtalek"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "iti panangisalakanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:13.812131356Z",
+  "model": "glm-5.3"
+}

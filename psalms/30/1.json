@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Maysa a salmo, kanta iti panangilana iti balay, ni David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "panangilana"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:25.018782787Z",
+  "model": "glm-5.3"
+}

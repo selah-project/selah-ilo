@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "ken ⟨את⟩ dagiti kaldero ken ⟨את⟩ dagiti pala ken ⟨את⟩ dagiti basio ken ⟨את⟩ amin a kasangkad ti Tolda, nga inaramid ni Khiram para kenni ari Shelomoh iti balay ni Yahweh — tanso a napolipol.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kaldero"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "dagiti kaldero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pala"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "dagiti pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti basio"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "dagiti basio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kasangkad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "a kasangkad"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ni Khiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "para kenni ari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "a napolipol"
+    }
+  ],
+  "timestamp": "2026-09-26T12:27:20.320804609Z",
+  "model": "glm-5.3"
+}

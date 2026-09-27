@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Saanmo nga ited ti kararua ti kalapatim iti sibibiag nga animal; saanmo nga lipatan agnanayon ti kararua dagiti pobrem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nga ited"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "iti sibibiag nga animal"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "ti kalapatim"
+    },
+    {
+      "surface": "חית",
+      "gloss": "iti sibibiag nga animal"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "dagiti pobrem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "nga lipatan"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:48.390670363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Baonenna ti padi ⟨את⟩ ti ramayna iti dara, ken wisikanna manipud iti dara pito a beses iti sanguanan ni Yahweh, ⟨iti⟩ sango ti paroket ti nasantoan.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "baonenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ramayna"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ti ramayna"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "wisikanna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dara"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "a beses"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sango ti paroket"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti sango"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantoan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:03:05.396344764Z",
+  "model": "glm-5.3"
+}

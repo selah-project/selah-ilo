@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ken ⟨את⟩ dagiti batay ti korte nga aglikmut, ken ⟨את⟩ dagiti batay ti ruangan ti korte, ken ⟨את⟩ amin nga estaka ti Mishkan, ken ⟨את⟩ amin nga estaka ti korte nga aglikmut.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ken ⟨את⟩",
+      "marks": "dagiti batay ti korte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "dagiti batay"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti korte"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nga aglikmut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti batay ti ruangan ti korte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "dagiti batay"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti korte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin nga estaka ti Mishkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "nga estaka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin nga estaka ti korte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "nga estaka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti korte"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nga aglikmut"
+    }
+  ],
+  "timestamp": "2026-09-26T04:45:35.617703310Z",
+  "model": "glm-5.3"
+}

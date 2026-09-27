@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Dagiti dakes ket kas dagiti tunnuk a maitaboy, aminnda; ta saan iti ima nga alaenda.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "kas dagiti tunnuk"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "a maitaboy"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "aminnda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "nga alaenda"
+    }
+  ],
+  "timestamp": "2026-09-26T12:13:19.924818665Z",
+  "model": "glm-5.3"
+}

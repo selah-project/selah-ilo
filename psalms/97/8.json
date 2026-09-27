@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 97,
+  "translation": "Nangngeg ti Tsiyon ken rimmuar ti ragsakna, ken nagragsakda dagiti anak a babai ti Yehudah gapu kadagiti ukommo, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ken rimmuar ti ragsakna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ti Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "ken nagragsakda"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dagiti anak a babai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "kadagiti ukommo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:46.658895356Z",
+  "model": "glm-5.3"
+}

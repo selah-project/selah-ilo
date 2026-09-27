@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "ket timmipon dagiti Pelishtio ket immayda ket nagkampoda iti Shunem; ket tinipon ni Shaul ⟨את⟩ amin a Yisrael, ket nagkampoda iti Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "timmiponda"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtio"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagkampoda"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "iti Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "tinipon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagkampoda"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "iti Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-26T11:22:05.234569505Z",
+  "model": "glm-5.3"
+}

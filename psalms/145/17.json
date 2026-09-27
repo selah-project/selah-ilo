@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Nalinteg ni Yahweh iti amin a dagiti dalanna, ket aghesed iti amin a dagiti aramidenna.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Nalinteg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "a dagiti dalanna"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ket aghesed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "a dagiti aramidenna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:37.167925226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ti apitna mabisin ti mangan, ket maala dayta manipud kadagiti sikkat, ket ti maaw-awis aglamon kadagiti kayamananda.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "apitna"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "mabisin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ti mangan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket manipud"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "kadagiti sikkat"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "maala dayta"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "ket aglamon"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "dagiti maaw-awis"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kadagiti kayamananda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:47:25.173851767Z",
+  "model": "glm-5.3"
+}

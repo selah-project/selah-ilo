@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ta amin a sapato ti agreb-eb ket iti ribok, ken bado a nagulnay iti dara, ket agbalinenna a pagpuoran, a kanen ti apoy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "sapato"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "ti agreb-eb"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "iti ribok"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ken bado"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "a nagulnay"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ket agbalinenna"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "a pagpuoran"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "a kanen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T14:29:50.967551045Z",
+  "model": "glm-5.3"
+}

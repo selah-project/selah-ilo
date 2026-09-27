@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ket daytoy ti daton a alanyo manipud ⟨מאתם⟩ kaniada: balitok ken pilak ken tombaga.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ket daytoy"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "ti daton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "alanyo"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ manipud kaniada"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ken pilak"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ken tombaga"
+    }
+  ],
+  "timestamp": "2026-09-26T04:18:37.754968618Z",
+  "model": "glm-5.3"
+}

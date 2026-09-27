@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ken ⟨את⟩ Ashan ken ⟨את⟩ dagiti liwliwana, ken ⟨את⟩ Bet-Shemesh ken ⟨את⟩ dagiti liwliwana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Ashan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti liwliwana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti liwliwana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti liwliwana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti liwliwana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:40.852999623Z",
+  "model": "glm-5.3"
+}

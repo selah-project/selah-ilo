@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Dagitoy ti nagan dagiti anak a lalaki ni Aharon, dagiti napilian a padi a nasantuan, a napnuan ti ima da a mangipastor.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "a nasantuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napnuan"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ti ima da"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a mangipastor"
+    }
+  ],
+  "timestamp": "2026-09-26T06:10:35.394527391Z",
+  "model": "glm-5.3"
+}

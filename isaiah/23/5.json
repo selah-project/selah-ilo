@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Kas iti nangngeg ti aramidenna ni Mitsrayim, agsangsangedda, no maibabaenda ti damag ti Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kas iti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ti nangngeg ti damag"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ni Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "agsangsangedda"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "no maibabaenda"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ti Tsor"
+    }
+  ],
+  "timestamp": "2026-09-26T14:54:22.197638097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kinuna ni Yehoshua: Iti daytoy ammoyo a ti sibibiag nga El adda iti tengngayu, ket isu ti agtaltalinaed a mangitalaw kadagiti Kaananita ken ⟨את⟩ ti Hita ken ⟨את⟩ ti Hivita ken ⟨את⟩ ti Perisita ken ⟨את⟩ ti Girgasita, ti Amorita ken ti Yebusita manipud iti sango yu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Iti daytoy"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "ammoyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ti sibibiag"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "adda iti tengngayu"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "agtaltalinaed a"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "mangitalaw"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "manipud iti sango yu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Kaananita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ti Kaananita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Hita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ti Hita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Hivita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ti Hivita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Perisita"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ti Perisita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Girgasita"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ti Girgasita"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ti Amorita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ken ti Yebusita"
+    }
+  ],
+  "timestamp": "2026-09-26T08:49:19.740641289Z",
+  "model": "glm-5.3"
+}

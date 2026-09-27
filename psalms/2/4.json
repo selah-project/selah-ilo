@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Agkatkatawa ti nagnaed iti langit; ni Adonay agdideyddeyam kadakuada.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "ti nagnaed"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "agkatkatawa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "agdideyddeyam"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T20:46:54.105536004Z",
+  "model": "glm-5.3"
+}

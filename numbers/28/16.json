@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ken iti umuna a bulan, iti uppat a sangapulo nga aldaw ti bulan, ⟨is⟩ ti Pesach kennu ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ken iti bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ti umuna"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "iti uppat a"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngaadaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ti bulan"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kennu ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T07:12:24.563493809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ket ibagay koma kadayta: Iti biag! Ket sika, kappia, ket ti balaymo, kappia, ket amin a tagikuam, kappia.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ket ibagay koma kadayta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kadayta"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "iti biag"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ket ti balaymo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tagikuam"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    }
+  ],
+  "timestamp": "2026-09-26T11:12:17.637805760Z",
+  "model": "glm-5.3"
+}

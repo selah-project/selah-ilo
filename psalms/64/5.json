@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 64,
+  "translation": "Agpana iti lemmengan ti nalinteg; bigla da a papanan, ket saan a mabutengda.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "agpana"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "iti lemmengan"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "bigla"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "da a papanan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "a mabutengda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:39:16.126611248Z",
+  "model": "glm-5.3"
+}

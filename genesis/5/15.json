@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket nagbiag ni Mahalalel lima a tawen ken innem a pulo a tawen, ket nakaipuonan ⟨את⟩ ni Yered.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nagbiag"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ken innem a pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ket nakaipuonan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:18.301812661Z",
+  "model": "glm-5.3"
+}

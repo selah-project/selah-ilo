@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket impatulod ni David kenni Yoav ⟨a kunana⟩: Ipatulodmo ⟨iti kaniak⟩ ⟨את⟩ ni Uryah a Hitaiano; ket impatulod ni Yoav ⟨את⟩ ni Uryah kenni David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "impatulod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ipatulodmo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iti kaniak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Uryah a Hitaiano"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uryah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a Hitaiano"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "impatulod"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Uryah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uryah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-26T11:43:45.362901774Z",
+  "model": "glm-5.3"
+}

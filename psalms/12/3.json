@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Di-pudno ti saoda, tunggal maysa ⟨את⟩ kaarrubana; bibig a naalumiar, addaan puso ken ⟨maysa a naisina a⟩ puso, agsaoda.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "di-pudno"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ti saoda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaarrubana"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kaarrubana"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "a naalumiar"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "addaan puso"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ken puso"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "agsaoda"
+    }
+  ],
+  "timestamp": "2026-09-26T20:49:26.361298232Z",
+  "model": "glm-5.3"
+}

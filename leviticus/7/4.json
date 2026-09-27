@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ⟨את⟩ dagiti dua a bato, ken ⟨את⟩ ti taba nga adda kadakuada, nga adda iti barikes, ken ⟨את⟩ ti lampas iti ngato ti atay — no kadagiti bato ikkatenna dayta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti dua a bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "a bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ti taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "adda kadakuada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "barikes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lampas"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ti lampas"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ti atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "no kadagiti"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bato"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ikkatenna dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:11.202734067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Immakar ti daga ⟨את⟩ ngiwatna ken tinaenna ⟨את⟩ da ken ⟨את⟩ ni Korach, idi natay ti gimong, idi innalem ti apoy ⟨ti⟩ limapulo ken dua a gasut a lalaki; ket nagbalinanda a tanda.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "Immakar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngiwatna"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ngiwatna"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ket tinaenna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "da (ni Datan ken ni Abiram)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "במות",
+      "gloss": "idi natay"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "idi innalem"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ti apoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limapulo ken dua a gasut a lalaki"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limapulo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ken dua a gasut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ket nagbalinanda"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "a tanda"
+    }
+  ],
+  "timestamp": "2026-09-26T07:02:51.395761216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Dagitoy met pinasantona ti ari a ni David kenni Yahweh, a kakuyogna ti pirak ken ti balitok nga inalana manipud kadagiti amin a nasion — manipud iti Edom, ken manipud iti Moav, ken manipud kadagiti annak ni Ammon, ken manipud kadagiti Filisteo, ken manipud iti Amalek.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dagitoy a kabibian"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "pinasantona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kakuyogna"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ken ti balitok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manipud kadagiti amin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasion"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "manipud iti Edom"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "ken manipud iti Moav"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "ken manipud kadagiti annak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "ken manipud kadagiti Filisteo"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "ken manipud iti Amalek"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:42.222214173Z",
+  "model": "glm-5.3"
+}

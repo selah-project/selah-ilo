@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 30:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Kinuna ni Lea: Binigbigyan ni Elohim ⟨את⟩ siak ti maysa a naimbag nga itited; iti daytoy a panawen magnaed kaniak ti asawak a lalaki, ta naganakak kadakuana kadagiti innem nga anak a lalaki; ket inawaganna ⟨את⟩ ti naganna a Zevulun.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "זבדני",
+      "gloss": "binigbigyanak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "siak"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "itited"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "iti daytoy a panawen"
+    },
+    {
+      "surface": "יזבלני",
+      "gloss": "magnaed kaniak"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "ti asawak a lalaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "naganakak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "innem"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "Zevulun"
+    }
+  ],
+  "timestamp": "2026-09-26T02:30:08.931465490Z",
+  "model": "glm-5.3"
+}

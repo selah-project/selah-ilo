@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Ta dakkelka, ken agaramidka kadagiti pasingked, sika laeng ti Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkelka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ken agaramidka"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "kadagiti pasingked"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "laeng"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:49.472990221Z",
+  "model": "glm-5.3"
+}

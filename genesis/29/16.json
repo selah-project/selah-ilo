@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "ket ni Lavan ket addaan iti dua nga anak a babai: ti nagan ti kadakkelan ni Lea, ket ti nagan ti kabassitan ni Rahel.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "ket ni Lavan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ti kadakkelan"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ket ti nagan"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "ti kabassitan"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ni Rahel"
+    }
+  ],
+  "timestamp": "2026-09-26T02:30:57.829076963Z",
+  "model": "glm-5.3"
+}

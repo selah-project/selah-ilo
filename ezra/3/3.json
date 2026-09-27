@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 3:3",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket iniddaanda ti altar kadagiti pagtakderanna, ta adda panagbuteng kadakuada gapu kadagiti umili dagiti daga; ket ipinangatoda kadakuana dagiti natuded a sakripisio kenni Yahweh, natuded a sakripisio iti bigat ken iti rabii.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "iniddaanda"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "מכונתיו",
+      "gloss": "pagtakderanna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "באימה",
+      "gloss": "adda panagbuteng"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "gapu kadagiti umili"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "dagiti daga"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ipinangatoda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dagiti natuded a sakripisio"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "natuded a sakripisio"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ken iti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T23:21:39.094298026Z",
+  "model": "glm-5.3"
+}

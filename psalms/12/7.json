@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Dagiti sao ni Yahweh ket dagiti sao a nadalus, a pilak a napino iti kaldero iti daga, nasukisok a manpito.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "Dagiti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "nadalus"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "a pilak"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "napino"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "iti kaldero"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "nasukisok"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "a manpito"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:42.541057287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken ibatiak iti tengngam ti maysa nga umili a nasakem ken nabaknang, ket agsanayda iti nagan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "Ken ibatiak"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "iti tengngam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a nasakem"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ken nabaknang"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "ket agsanayda"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T20:18:14.292652665Z",
+  "model": "glm-5.3"
+}

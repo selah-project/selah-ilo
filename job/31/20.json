@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 31:20",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "no saan a binendisionannak dagiti libongna, ken saan a nagpudaw manipud iti lana ti karnerok —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ברכוני",
+      "gloss": "binendisionannak"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "dagiti libongna"
+    },
+    {
+      "surface": "ומגז",
+      "gloss": "ken manipud iti lana"
+    },
+    {
+      "surface": "כבשי",
+      "gloss": "ti karnerok"
+    },
+    {
+      "surface": "יתחמם",
+      "gloss": "nagpudaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:58:06.591363508Z",
+  "model": "glm-5.3"
+}

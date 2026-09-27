@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 53,
+  "translation": "Sinno ti nagpati iti nangngegmi? Ken ti imatang ni Yahweh — kennasino naiparang?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sinno"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "nagpati"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "iti nangngegmi"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ken ti imatang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ken"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sinno"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "naiparang"
+    }
+  ],
+  "timestamp": "2026-09-26T15:46:50.096607815Z",
+  "model": "glm-5.3"
+}

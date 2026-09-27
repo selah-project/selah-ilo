@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 120,
+  "translation": "Dagiti pana a natirad ti nakairegget, kadua dagiti baga ti apoy ti kayo a retama.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Dagiti pana"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ti nakairegget"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "a natirad"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "dagiti baga ti apoy"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ti kayo a retama"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:38.875211729Z",
+  "model": "glm-5.3"
+}

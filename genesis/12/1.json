@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Kinuna ni Yahweh kenni Avram: Agpanka manipud iti daga mo ken manipud iti balayko a pannakaiyanak mo ken manipud iti balay ti amam, mapan iti daga a ipakita koma ⟨iti⟩ kenka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "agpanka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "ken manipud iti pannakaiyanak"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ken manipud iti balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ti amam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mapan iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ipakita koma kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T01:55:55.665180157Z",
+  "model": "glm-5.3"
+}

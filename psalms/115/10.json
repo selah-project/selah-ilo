@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 115,
+  "translation": "Balay ni Aharon, agbatikayo kenni Yahweh; tulonganda ken kalasaganda isuna.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Balay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "agbatikayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "tulonganda"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ken kalasaganda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:17.492941579Z",
+  "model": "glm-5.3"
+}

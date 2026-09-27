@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket inited ti ari ⟨את⟩ ti pirak ken ⟨את⟩ ti balitok idiay Yerushalayim a kas dagiti bato, ket ⟨את⟩ dagiti sedro initedna a kas dagiti sikomoro a mabirukan idiay tanap, iti kaadu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ket inited"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pirak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti balitok"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ti balitok"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "idiay Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "a kas dagiti bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ket ⟨את⟩",
+      "marks": "dagiti sedro"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "dagiti sedro"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "a kas dagiti sikomoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "idiay tanap"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "iti kaadu"
+    }
+  ],
+  "timestamp": "2026-09-26T23:43:42.328046300Z",
+  "model": "glm-5.3"
+}

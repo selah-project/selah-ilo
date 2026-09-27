@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Saananna a maikkat ti nakailiwananna manipud iti nalinteg, ket dagiti ari ⟨את⟩ iti trono, ket pagtakuenna ida nga agnanayon, ket nangatoda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saananna"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "a maikkat"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "iti nalinteg"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ti nakailiwananna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ari"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "iti trono"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "pagtakuenna ida"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngananayon"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "ket nangatoda"
+    }
+  ],
+  "timestamp": "2026-09-27T00:03:31.300390551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Inennatona ⟨את⟩ ti bangkayna iti tanemanna, ket nagdungoda kenkuana, a kunkuna: Oy, kabsatko!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "inennatona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bangkayna"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "ti bangkayna"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "iti tanemanna"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "nagdungoda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Oy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kabsatko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:45.033319873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ket inayat ni Avraham ⟨את⟩ imana, ket inalana ⟨את⟩ ti daga, tapno pattatenna ⟨את⟩ anakna.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "inayat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "imana"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "tapno pattatenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:11:39.504296165Z",
+  "model": "glm-5.3"
+}

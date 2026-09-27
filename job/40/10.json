@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Isuot ita ti kinapimman ken ti kina-ngato, ken ti daydayaw ken ti pintas isuotam a kas bado.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "isuot"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ti kinapimman"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ken ti kina-ngato"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ken ti daydayaw"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ken ti pintas"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "isuotam a kas bado"
+    }
+  ],
+  "timestamp": "2026-09-26T23:00:31.334852399Z",
+  "model": "glm-5.3"
+}

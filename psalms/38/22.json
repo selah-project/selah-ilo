@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Saanmo koma a bay-annak, Yahweh Elohimko, saanmo koma a sumadayo kaniak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma a"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "bay-annak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma a"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "sumadayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:13:28.073284110Z",
+  "model": "glm-5.3"
+}

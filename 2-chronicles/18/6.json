@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket kinuna ni Yehoshaphat: Awan kadin ditoy pay maysa a propeta ni Yahweh, a mabalintayo a saludsoden manipud ⟨iti⟩ ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ni Yehoshaphat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "awan kadin"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "propeta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "a mabalintayo a saludsoden"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "manipud ⟨iti⟩ ⟨את⟩",
+      "marks": "dayta a propeta"
+    }
+  ],
+  "timestamp": "2026-09-26T23:51:00.537558336Z",
+  "model": "glm-5.3"
+}

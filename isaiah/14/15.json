@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Nupay kasta, iti Sheol malaksinkayo a mangrugi ti panagbaba, iti kaaradanan ti lagut.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nupay kasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "malaksinkayo a mangrugi ti panagbaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "kaaradanan"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ti lagut"
+    }
+  ],
+  "timestamp": "2026-09-26T14:34:06.084712959Z",
+  "model": "glm-5.3"
+}

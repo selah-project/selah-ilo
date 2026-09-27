@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket nagna iti sabali a dalan, ken saan a nagsubli iti dalan a dinanaed iti dayta idi immay iti Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ket nagna"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti sabali a dalan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sabali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a nagsubli"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-26T12:48:55.637143391Z",
+  "model": "glm-5.3"
+}

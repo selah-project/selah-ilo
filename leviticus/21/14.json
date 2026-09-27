@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ti balo, ken ti naisina, ken ti naiparugit, ken ti puta — dagitoy ti ⟨את⟩ saan a alaenna; ta maysa laeng a dalaga manipud iti umilina ti alaenna a babai.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "ti balo"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ken ti naisina"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "ken ti naiparugit"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "puta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alaenna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "dalaga"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "manipud iti umilina"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "alaenna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babai"
+    }
+  ],
+  "timestamp": "2026-09-26T05:40:37.869687657Z",
+  "model": "glm-5.3"
+}

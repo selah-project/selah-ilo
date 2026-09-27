@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 112,
+  "translation": "Nagparintumeng ti lawag iti sipnget kadagiti nalinteg — nakikapya ken makaasi ken nalinteg.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "Nagparintumeng"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "iti sipnget"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ti lawag"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kadagiti nalinteg"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "nakikapya"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ken makaasi"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ken nalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:15.468631569Z",
+  "model": "glm-5.3"
+}

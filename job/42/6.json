@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Gapu kanya, ikkakko ⟨ti bagik⟩ ket agbawiak iti tapok ken dapo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanya"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ikkakko"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ket agbawiak"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tapok"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ken dapo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:01:17.405237953Z",
+  "model": "glm-5.3"
+}

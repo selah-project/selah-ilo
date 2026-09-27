@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket nagnaed a nangato ni David, ken ni Yahweh, ti Elohim ti Tsevaot, adda kenkuana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagnaed a nangato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "a nangato"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ken ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "adda kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:05:13.712242677Z",
+  "model": "glm-5.3"
+}

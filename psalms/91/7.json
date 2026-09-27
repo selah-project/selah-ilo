@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Matnag iti igam ti sango sangaribu, ken sangapulo a ribu iti kaniammo; iti kaasitganmo saan a sumrek.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "matnag"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "iti igam ti sango"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sangaribu"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "ken sangapulo a ribu"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "iti kaniammo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iti kaasitganmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "a sumrek"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:57.680383054Z",
+  "model": "glm-5.3"
+}

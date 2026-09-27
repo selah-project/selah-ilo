@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ngem ti trigo ken ti espelta saanda a naair, ta nababbongda pay.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "ngem ti trigo"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ken ti espelta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "a naair"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "nababbongda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:40:09.267010366Z",
+  "model": "glm-5.3"
+}

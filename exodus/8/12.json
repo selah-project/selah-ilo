@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Ibagam kenni Aharon: Iyawatmo ⟨את⟩ ti bastonmo ket baliwam ⟨את⟩ ti tapok ti daga, ket agbalin a kinnem iti amin a daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "iyawatmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bastonmo"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "bastonmo"
+    },
+    {
+      "surface": "והך",
+      "gloss": "baliwam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tapok ti daga"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tapok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "agbalin a"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "kinnem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:38:15.143335069Z",
+  "model": "glm-5.3"
+}

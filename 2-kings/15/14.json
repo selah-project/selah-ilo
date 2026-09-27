@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Dimmangat ni Menachem nga anak ni Gadi manipud iti Tirtsa, simmangpet iti Shomron, ket dinna ⟨את⟩ ni Shallum nga anak ni Yavesh iti Shomron, ket pinataynana, ket nagturay iti lugarna.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Dimmangat"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "manipud iti Tirtsa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "simmangpet"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "iti Shomron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "iti Shomron"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "pinataynana"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nagturay"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "iti lugarna"
+    }
+  ],
+  "timestamp": "2026-09-26T13:48:39.739808124Z",
+  "model": "glm-5.3"
+}

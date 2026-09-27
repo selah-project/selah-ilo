@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 6:19",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket ti debir iti tengnga ti balay, manipud iti uneg, sinagana ⟨ni⟩ ⟨Shlomo⟩ nga ikabilna sadiay ⟨את⟩ ti arko ti tulag ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ודביר",
+      "gloss": "ket ti debir"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "manipud iti uneg"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "sinagana"
+    },
+    {
+      "surface": "לתתן",
+      "gloss": "nga ikabilna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko ti tulag ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T12:31:24.566653615Z",
+  "model": "glm-5.3"
+}

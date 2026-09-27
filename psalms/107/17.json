@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Dagiti awan sirsiribi, iti dalan ti panagrebelddada ken kadagiti basolda, nagsagsagabada.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "dagiti awan sirsiribi"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ti panagrebelddada"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "ken kadagiti basolda"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "nagsagsagabada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:20.135803573Z",
+  "model": "glm-5.3"
+}

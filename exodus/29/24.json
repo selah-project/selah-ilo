@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ket isuam ti amin iti dagiti palad ni Aharon ken iti dagiti palad dagiti annakna, ket iyun-unam ⟨את⟩ dagitoy a kas daton a panagiyun-unay iti sanguanan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Ket isuam"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dagiti palad"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dagiti palad"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "ket iyun-unam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "a kas daton a panagiyun-unay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:29:48.723765804Z",
+  "model": "glm-5.3"
+}

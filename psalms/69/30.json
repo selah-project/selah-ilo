@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Ngem siak, napanglaw ken makasakit; ti panangisalakanmo, Elohim, itakderannak iti ngato.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngem siak"
+    },
+    {
+      "surface": "עני",
+      "gloss": "napanglaw"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "ken makasakit"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ti panangisalakanmo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "itakderannak iti ngato"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:41.022903166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ti lalaki nga addaan dakes a mata napardas nga agtaray iti kayamanan, ket saanna nga ammo a ti kakulang umay kanianna.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "napardas"
+    },
+    {
+      "surface": "להון",
+      "gloss": "iti kayamanan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ti kakulang"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "umay kanianna"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:29.150750249Z",
+  "model": "glm-5.3"
+}

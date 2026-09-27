@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kukuam laeng koma dagitoy, ken awan ti pasetna kadagiti sabsabali ⟨את⟩ kaduam.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "kukuam koma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kaniakmo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "kadagiti sabsabali"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kaduam",
+      "marks": "kaduam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:01.344975264Z",
+  "model": "glm-5.3"
+}

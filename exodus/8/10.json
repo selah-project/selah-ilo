@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken tinipon da ida nga agdumdumok — agdumdumok nga agdumdumok — ket nangnangto ti daga.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "tinipon da"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "agdumdumok"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "agdumdumok"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "nangnangto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T03:38:15.142815409Z",
+  "model": "glm-5.3"
+}

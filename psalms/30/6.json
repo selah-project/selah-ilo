@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ta iti maysa a gatud ti ak-akena, iti ragsakna adda ti biag; iti rabii aginana ti agsangit, ngem iti bigat ti kanta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "iti maysa a gatud"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ti ak-akena"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "adda ti biag"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "iti ragsakna"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "aginana"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ti agsangit"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ngem iti bigat"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ti kanta"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:34.865608460Z",
+  "model": "glm-5.3"
+}

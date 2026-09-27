@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ti panawen nga agsangit ken ti panawen nga agkatkattawa; ti panawen nga agdawel ken ti panawen nga agsala.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ti panawen"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "nga agsangit"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti panawen"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "nga agkatkattawa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ti panawen"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "nga agdawel"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti panawen"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "nga agsala"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:42.168998293Z",
+  "model": "glm-5.3"
+}

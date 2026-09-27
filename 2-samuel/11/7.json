@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket immay ni Uryah kadakuana, ket dinmagan ni David ti kappia ni Yoav, ken ti kappia ti umili, ken ti kappia ti gubat.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uryah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "dinmagan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ken ti kappia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ken ti kappia"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ti gubat"
+    }
+  ],
+  "timestamp": "2026-09-26T11:43:45.363037627Z",
+  "model": "glm-5.3"
+}

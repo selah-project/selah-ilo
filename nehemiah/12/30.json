@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ket nadaldaldaanda ti bagida dagiti padi ken dagiti Levita, ket dinaldaldaanda ⟨את⟩ ti umili ken ⟨את⟩ dagiti suasuan ken ⟨את⟩ ti didigan.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "ket dinaldaldaanda ti bagida"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ken dagiti Levita"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ket dinmaldaanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti suasuan"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "dagiti suasuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti didigan"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ti didigan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:08.607741742Z",
+  "model": "glm-5.3"
+}

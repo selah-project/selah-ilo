@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Sinuratna iti dagiti surat, a kinuna: Awaganyo ti bain, ken pagtugawyo ⟨את⟩ ni Navot iti ulo ti umili.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "sinuratna"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "iti dagiti surat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinuna"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "awaganyo"
+    },
+    {
+      "surface": "צום",
+      "gloss": "bain"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "pagtugawyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "iti ulo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T13:03:55.886235984Z",
+  "model": "glm-5.3"
+}

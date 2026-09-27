@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kinunak iti pusok: ti Elohim agukomanna ⟨את⟩ ti nalinteg ken ⟨את⟩ ti dakes, ta adda tiempo iti tunggal kayat ken iti tunggal aramid sadiay.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "iti pusok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nalinteg"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti dakes"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "agukomanna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tiempo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti tunggal"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kayat"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tunggal"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:04.911515912Z",
+  "model": "glm-5.3"
+}

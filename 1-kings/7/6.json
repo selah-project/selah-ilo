@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket inaramidna ⟨את⟩ ti galeria ti dagiti poste: limapulo a kubit ti kaatiddogna ken tallopulo a kubit ti kalawaanna, ket ti galeria iti sanguananda, ken dagiti poste ken ti naipuskol a balkot iti sanguananda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti galeria ti dagiti poste"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ti galeria"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ti dagiti poste"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limapulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "a kubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ti kaatiddogna"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ken tallopulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "a kubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ti kalawaanna"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "ket ti galeria"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "sanguananda"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "ken dagiti poste"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "ken ti naipuskol a balkot"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "sanguananda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:19.505335683Z",
+  "model": "glm-5.3"
+}

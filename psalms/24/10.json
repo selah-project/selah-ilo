@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Siasino daytoy, ti ari ti daydayaw? Ni Yahweh ti Tsevaot — isu ti ari ti daydayaw. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:00.064888734Z",
+  "model": "glm-5.3"
+}

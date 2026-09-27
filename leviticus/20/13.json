@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken ti lalaki a matogdanan ⟨את⟩ ti lalaki, iti panagtogdan iti babai — toebah ti inaramidda a dua; sigud a matayenda; ti darada ket adda kaniada.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ken ti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "matogdanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lalaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "iti panagtogdan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "iti babai"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "toebah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ti inaramidda"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "a dua"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sigud a"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "matayenda"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ti darada"
+    },
+    {
+      "surface": "בם",
+      "gloss": "adda kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T05:47:16.574917774Z",
+  "model": "glm-5.3"
+}

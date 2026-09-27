@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 10:7",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket ipasaarda ti timek iti Yehudah ken Yerushalayim kadagiti amin nga anak dagiti naipatalaw nga agurnongda iti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "ket ipasaarda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "iti Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ken Yerushalayim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "dagiti naipatalaw"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "nga agurnongda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:26:02.399217945Z",
+  "model": "glm-5.3"
+}

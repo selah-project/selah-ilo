@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket inpagkarroda ⟨אתו⟩ dagiti adipenna iti Yerushalayim, ket nailubongda ⟨אתו⟩ iti lubonganna kadua dagiti amana, iti ili ni David.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "Ket inpagkarroda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Ni Akhaziah"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ket nailubongda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iti lubonganna"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "iti lubonganna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T13:40:12.681505175Z",
+  "model": "glm-5.3"
+}

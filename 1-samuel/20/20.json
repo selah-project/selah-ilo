@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket siak, ipanaak dagiti tallo a pana iti bangir, a kas agipatulnod kadakuakuan iti puntiria.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "a pana"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "iti bangir"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "ipanaak"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "a kas agipatulnod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kadakuakuan"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "iti puntiria"
+    }
+  ],
+  "timestamp": "2026-09-26T11:01:29.041708211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ket itedna ni Yahweh ti Elohim-mo ⟨את⟩ amin dagitoy a sumpa kadagiti kabusor-mo ken kadagiti agpungtot kenka, a nangtultulod kenka.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohim-mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagitoy a sumpa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "dagitoy a sumpa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kabusor-mo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "agpungtot kenka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "nangtultulod kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T08:36:12.970795126Z",
+  "model": "glm-5.3"
+}

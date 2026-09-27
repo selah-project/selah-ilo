@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket alaenko ⟨את⟩ dakayo a pagiliak, ket agbalinak kadakayo iti Elohim; ket ammoanyo a siak ti Yahweh, ti Elohim yo, ti mangparuar ⟨את⟩ kadakayo manipud iti baba dagiti dagsen ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "alaenko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a pagiliak"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a pagilian"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "agbalinak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ket ammoanyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohim yo"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "ti mangparuar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "manipud iti baba"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "dagsen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:36:42.523844097Z",
+  "model": "glm-5.3"
+}

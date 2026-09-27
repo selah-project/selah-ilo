@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti ⟨את⟩ dagiti bilinmo salaknibekto; saanmo koma nga bay-annak iti un-unay.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bilinmo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "salaknibekto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "nga bay-annak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "un-unay"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:34.775073408Z",
+  "model": "glm-5.3"
+}

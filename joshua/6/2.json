@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket kinuna ni Yahweh kenni Yehoshua: Kitaem, itedko iti imam ⟨את⟩ ti Yeriho ken ⟨את⟩ ti arina, ken dagiti mannakabalin iti bileg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ket kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "iti imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yeriho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ti Yeriho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti arina"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ti arina"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "dagiti mannakabalin"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "iti bileg"
+    }
+  ],
+  "timestamp": "2026-09-26T08:58:17.478779716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 146,
+  "translation": "Saan kayo nga agpanunot kadagiti natan-ok, iti anak ti tao, nga awan ti panangisalakanna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "kayo nga agpanunot"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "kadagiti natan-ok"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "iti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "nga awan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ti panangisalakanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:21.246663792Z",
+  "model": "glm-5.3"
+}

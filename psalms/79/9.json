@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 79,
+  "translation": "Tulongannakami, Elohim ti panangisalakantayo, gapu iti daydayaw ti naganmo, ket isalakannakami, ket ipatawar iti dagiti basoltayo, gapu iti naganmo.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Tulongannakami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ti panangisalakantayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "daydayaw"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "ket isalakannakami"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ket ipatawar"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "dagiti basoltayo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naganmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:31.469511983Z",
+  "model": "glm-5.3"
+}

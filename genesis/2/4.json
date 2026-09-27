@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Dagitoy ti kaputotan dagiti langit ken ti daga idi pinarsuada, idi inaramid ni Yahweh Elohim ti daga ken dagiti langit.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "ti kaputotan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ken ti daga"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "idi pinarsuada"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "idi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ken dagiti langit"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:43.131776435Z",
+  "model": "glm-5.3"
+}

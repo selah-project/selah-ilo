@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket no pakdaam ⟨את⟩ ti sao mi daytoy, ket agbalinkami a nakinalinteg iti sumpam a sumpaam kadakami.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ket no"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "pakdaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sao mi"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ti sao mi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "ket agbalinkami"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "nakinalinteg"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "iti sumpam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "sumpaam kadakami"
+    }
+  ],
+  "timestamp": "2026-09-26T08:54:26.416827241Z",
+  "model": "glm-5.3"
+}

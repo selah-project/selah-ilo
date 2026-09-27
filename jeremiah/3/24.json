@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken ti biddut ti nangan ⟨את⟩ iti gatgatang dagiti amma mi, manipud iti panagkiddaw kami — ⟨את⟩ dagiti karnero da ken ⟨את⟩ dagiti bakada, ⟨את⟩ dagiti anak da a lallaki ken ⟨את⟩ dagiti anak da a babbai.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "ken ti biddut"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "nangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti gatgatang dagiti amma mi"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "gatgatang"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "dagiti amma mi"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "manipud iti panagkiddaw kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti karnero da"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "karnero da"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bakada"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "bakada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak da a lallaki"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak da a lallaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anak da a babbai"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "anak da a babbai"
+    }
+  ],
+  "timestamp": "2026-09-26T16:17:43.551182948Z",
+  "model": "glm-5.3"
+}

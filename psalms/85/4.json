@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 85,
+  "translation": "Inalammo amin ti gergermo; nangsublika manipud iti kauges ti dukam.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Inalammo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ti gergermo"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "nangsublika"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "manipud iti kauges"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ti dukam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:31.126737721Z",
+  "model": "glm-5.3"
+}

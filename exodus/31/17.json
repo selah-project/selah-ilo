@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Pagsinaan kenkuak ken dagiti anak ni Yisrael agingga iti lawag — ti pagsinaan dayta nga agtalinaed: ta iti innem nga aldaw inaramid ni Yahweh ⟨את⟩ dagiti langit ken ⟨את⟩ ti daga, ket iti maikapito nga aldaw naginana ken nagpasiar.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "pagsinaan kenkuak"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ti pagsinaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "agingga iti lawag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "innem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ket iti aldaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "naginana"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "ken nagpasiar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:31:16.931641029Z",
+  "model": "glm-5.3"
+}

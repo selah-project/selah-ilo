@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "⟨את⟩ daytoy ti makanenyo kadagiti amin a nais iti danum: amin nga adda kenkuana ti pingir ken kaliskis iti danum, kadagiti baybay ken kadagiti karayan, dagitoy ti makanenyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ti makanenyo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nais iti danum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "pingir"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ken kaliskis"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kadagiti baybay"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "ken kadagiti karayan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ti makanenyo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:12:07.822252380Z",
+  "model": "glm-5.3"
+}

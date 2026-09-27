@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ipagngatoka, Yahweh, iti pigsam; agkantakami ket daydayawentayo ti bilegmo.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Ipagngatoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "iti pigsam"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "agkantakami"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "ket daydayawentayo"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ti bilegmo"
+    }
+  ],
+  "timestamp": "2026-09-26T20:54:43.633047070Z",
+  "model": "glm-5.3"
+}

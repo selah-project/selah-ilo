@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Idi napalabas inpundarmo ⟨את⟩ ti daga, ken dagiti langit ti aramid dagiti imam.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "idi napalabas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "inpundarmo"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ken ti aramid"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dagiti imam"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dagiti langit"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:42.285107640Z",
+  "model": "glm-5.3"
+}

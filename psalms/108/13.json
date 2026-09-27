@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 108,
+  "translation": "Itedmo kaniami ti tulong manipud iti peggad; ket inutil ti panangisalakan ti tao.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Itedmo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kaniami"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ti tulong"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "manipud iti peggad"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ket inutil"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ti panangisalakan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:34.711682107Z",
+  "model": "glm-5.3"
+}

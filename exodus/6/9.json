@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kasta ti kinuna ni Moshe kadagiti anak ni Yisrael, ngem saanda a nangngeg ken ni Moshe gapu iti kabassitan ti anges ken gapu iti natibker a panagserbi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saanda"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "a nangngeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "gapu iti kabassitan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti anges"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "ken gapu iti panagserbi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "a natibker"
+    }
+  ],
+  "timestamp": "2026-09-26T03:30:03.349983459Z",
+  "model": "glm-5.3"
+}

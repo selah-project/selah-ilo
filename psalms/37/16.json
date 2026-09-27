@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Nasaysayaat ti bassit iti nalinteg ngem ti kadakkelan a tagikua dagiti adu a dakes.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Nasaysayaat"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ti bassit"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "iti nalinteg"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "ngem ti kadakkelan a tagikua"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ti adu"
+    }
+  ],
+  "timestamp": "2026-09-26T21:11:30.895894777Z",
+  "model": "glm-5.3"
+}

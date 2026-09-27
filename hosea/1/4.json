@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket kinuna ni Yahweh kenkuana: Awagam ti naganna a Yizreel, ta nakon bassit ket ibalesko ⟨את⟩ ti dara ti Yizreel iti balay ni Yehu, ket ipukawko ti pagarian ti balay ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ket kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Awagam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nakon"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ket ibalesko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dara ti Yizreel"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ti Yizreel"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ket ipukawko"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ti pagarian"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T19:34:27.314769754Z",
+  "model": "glm-5.3"
+}

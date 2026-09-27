@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Suportaan ni Yahweh dagiti amin a matnag, ken ipangatoanna dagiti amin a nakaykol.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "Suportaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dagiti amin"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "a matnag"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ket ipangatoanna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dagiti amin"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "a nakaykol"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:54.016412304Z",
+  "model": "glm-5.3"
+}

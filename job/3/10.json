@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ta saanna a sinerraan dagiti pinto ti tianko, ken saanna a pinlemmeng ti rigat manipud kadagiti matak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna a"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "sinerraan"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "dagiti pinto"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ti tianko"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ken saanna a pinlemmeng"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "manipud kadagiti matak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:46:56.852233953Z",
+  "model": "glm-5.3"
+}

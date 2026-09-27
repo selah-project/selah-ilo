@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 108,
+  "translation": "Ti Moab ket kalderas ti panagdigosko, iti Edom iballayek ti sapatilyok, iti Peleshet agtarawagak.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Ti Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kalderas"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ti panagdigosko"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "iballayek"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ti sapatilyok"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "agtarawagak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:57.941309699Z",
+  "model": "glm-5.3"
+}

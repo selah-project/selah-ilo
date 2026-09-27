@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Ipusam kadakuada ti pungtotmo a kidmaw, ket ti pudno a ragsangam ti maabotanda.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Ipusam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ti pungtotmo a kidmaw"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "ket ti pudno"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "a ragsangam"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ti maabotanda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:44:46.683389603Z",
+  "model": "glm-5.3"
+}

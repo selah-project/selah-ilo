@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti ngiwat ti nalinteg ket taudan ti biag; ngem ti ngiwat dagiti dakes agabbukel ti ranggas.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "taudan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwat"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ngem ti ngiwat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "agabbukel"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ti ranggas"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:27.573586125Z",
+  "model": "glm-5.3"
+}

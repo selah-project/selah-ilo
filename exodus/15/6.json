@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti kaniam a ima, Yahweh, napintaw iti bileg; ti kaniam a ima, Yahweh, dinukkolna ti kabusor.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "ti kaniam a ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "napintaw"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ti kaniam a ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "dinukkolna"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    }
+  ],
+  "timestamp": "2026-09-26T03:51:16.594001775Z",
+  "model": "glm-5.3"
+}

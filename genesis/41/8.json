@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ket napasamak iti bigat, ket nariing ti espirituona, ket intulodna ket inawaganna ⟨את⟩ amin dagiti agpadto ti Mitsrayim ken ⟨את⟩ amin dagiti maaramna; ket impalna ni Paro kadakuada ⟨את⟩ ti lipatna, ket awan ti mangipatarus kadakuada kenni Paro.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "nariing"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "espirituona"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "intulodna"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti agpadto ti Mitsrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "agpadto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti maaramna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "maaramna"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "impalna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lipatna"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "lipatna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "mangipatarus"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada kenni Paro"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kenni Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:37.712810037Z",
+  "model": "glm-5.3"
+}

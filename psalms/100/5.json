@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 100,
+  "translation": "Ta naimbag ni Yahweh; iti agnanayon ti hesedna, ken agingga iti pungsion ken pungsion ti kinamatalekna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken agingga iti"
+    },
+    {
+      "surface": "דר",
+      "gloss": "pungsion"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ken pungsion"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ti kinamatalekna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:21.490460292Z",
+  "model": "glm-5.3"
+}

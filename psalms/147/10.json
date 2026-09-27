@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Saan a kayatna ti pigsa ti kabalio, saan a maikayatna ti saka ti lalaki.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "a kayatna ti pigsa"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ti kabalio"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "a maikayatna ti saka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "maikayatna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:42.653222014Z",
+  "model": "glm-5.3"
+}

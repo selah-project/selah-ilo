@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ken ⟨את⟩ dagiti Horita iti bantayda iti Seir, agingga iti El-Paran, a adda iti liwaliwaan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Horita"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "dagiti Horita"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "iti bantayda"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "iti Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "איל",
+      "gloss": "iti El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "adda iti"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "liwaliwaan"
+    }
+  ],
+  "timestamp": "2026-09-26T01:56:34.085358778Z",
+  "model": "glm-5.3"
+}

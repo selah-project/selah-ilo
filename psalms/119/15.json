@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Iti dagiti bilinmo pagmurnungan, ket iy-allyok dagiti dalanmo.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "iti dagiti bilinmo"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "pagmurnungan"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ket iy-allyok"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "dagiti dalanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:10.702548176Z",
+  "model": "glm-5.3"
+}

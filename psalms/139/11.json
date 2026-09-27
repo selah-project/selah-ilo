@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "Ket kinunak, No kasta met laeng, ti sipnget aglampes kaniak, ngem ti rabii ket lawag iti aglawlawko;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ket kinunak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "No kasta met laeng"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ti sipnget"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "aglampes kaniak"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ngem ti rabii"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lawag"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "iti aglawlawko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:13.429613916Z",
+  "model": "glm-5.3"
+}

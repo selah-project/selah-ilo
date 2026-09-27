@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ket inpatulo ti ari ti panangawag ⟨את⟩ kenni Akhimelekh nga anak ni Akhitub a padi, ken ⟨את⟩ amin ti balay ti amana, dagiti padi nga adda iti Nob; ket simmangpetda amin iti arina.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "inpatulo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ti panangawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Akhimelekh"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "kenni Akhimelekh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ni Akhitub"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a padi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin ti balay ti amana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "iti Nob"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "simmangpetda"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T22:02:55.812158997Z",
+  "model": "glm-5.3"
+}

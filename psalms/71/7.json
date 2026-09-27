@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Kas maysa a karkarnaan nakaulbod kadagiti adu, ngem sika ti napigsa a pagsalakanan.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "kas maysa a karkarnaan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nakaulbod"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "kadagiti adu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ngem sika"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ti pagsalakanan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "a napigsa"
+    }
+  ],
+  "timestamp": "2026-09-26T21:41:13.764016809Z",
+  "model": "glm-5.3"
+}

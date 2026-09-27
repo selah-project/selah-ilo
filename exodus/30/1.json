@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Aramidem ti maysa nga altar a pag-ininsensoan ti insenso; iti kayo nga akasia aramidem ⟨את⟩ dayta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Aramidem"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "pag-ininsensoan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T04:29:01.750628893Z",
+  "model": "glm-5.3"
+}

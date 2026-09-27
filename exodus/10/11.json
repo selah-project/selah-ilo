@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Saan a kasta! Mapan koma kayo a dagiti lalaki ket agserbi kayo kenni Yahweh, ta dayta ti agbirbirukayo; ket innachsana dan manipud iti ⟨את⟩ sangoan ni Paro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "a kasta"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mapan kayo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ket agserbi kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "agbirbirukayo"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "innachsana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sangoan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T03:42:25.477598724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "Kitaen, ti pagilian a saanmo nga ammo tawagam, ken ti pagilian a saan ka nga ammo agtarayda kenka, gapu kenni Yahweh ti Elohimmo ken iti Nasantuan ti Yisrael, ta inyadaydayawana ka.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kitaen"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ti pagilian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "tawagam"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "ken ti pagilian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ammo daka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "agtarayda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohimmo"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "ken iti Nasantuan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "inyadaydayawana ka"
+    }
+  ],
+  "timestamp": "2026-09-26T15:49:38.011768396Z",
+  "model": "glm-5.3"
+}

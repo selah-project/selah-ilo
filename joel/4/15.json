@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Nangisitumman ti init ken ti bulan, ken dagiti bituen nagikkatda ti silnagda.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ken ti bulan"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "Nangisitumman"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ken dagiti bituen"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "nagikkatda"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "ti silnagda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:12:27.550670132Z",
+  "model": "glm-5.3"
+}

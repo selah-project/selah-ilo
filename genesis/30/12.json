@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Nagputot manen ni Zilpa, ti adipen ni Lea, maikadua nga anak kenni Yaakov.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ni Zilpa"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ti adipen"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kenni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:13.039993365Z",
+  "model": "glm-5.3"
+}

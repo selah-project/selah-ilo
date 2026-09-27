@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket iyegna ti pinasion a padi ti dara ti baka iti Tolda ti Gimong;",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ket iyegna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "pinasion"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T05:01:12.165635092Z",
+  "model": "glm-5.3"
+}

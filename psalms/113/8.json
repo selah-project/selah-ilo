@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 113,
+  "translation": "Nga pagtugawanna kadua dagiti prinsipe, kadua dagiti prinsipe ti umilina.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "nga pagtugawanna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "dagiti prinsipe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "dagiti prinsipe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:28.033672813Z",
+  "model": "glm-5.3"
+}

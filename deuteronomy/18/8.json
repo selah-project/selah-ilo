@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Paset a kas paset mangananda, malaksid kadagiti lakoenna, maipanggep kadagiti amma.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "Paset"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "a kas paset"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangananda"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "malaksid"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "kadagiti lakoenna"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipanggep"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "kadagiti amma"
+    }
+  ],
+  "timestamp": "2026-09-26T08:11:07.989115546Z",
+  "model": "glm-5.3"
+}

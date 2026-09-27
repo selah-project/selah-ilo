@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Dagiti sanga ti danum ti puso ti ari, iti ima ni Yahweh; iti amin a kayatna ibendana.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "dagiti sanga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "ibendana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:41:32.232613512Z",
+  "model": "glm-5.3"
+}

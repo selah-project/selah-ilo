@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ken salaknibanyo a dakayo ⟨את⟩ dagiti bilinko ken ⟨את⟩ dagiti pangngeddak, ket saanyo nga aramiden iti aniaman kadagiti amin a ribribokditoy — ti taga-ili ken ti estranghero nga agnaed kadakayo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "salaknibanyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bilinko"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "dagiti bilinko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pangngeddak"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dagiti pangngeddak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aramidenyo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iti aniaman"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "a ribribok"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ti taga-ili"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ken ti estranghero"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "agnaed"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:32:34.543264729Z",
+  "model": "glm-5.3"
+}

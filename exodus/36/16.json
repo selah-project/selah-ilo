@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Inkappetna ⟨את⟩ dagiti lima a kurtina a bukud, ken ⟨את⟩ dagiti innem a kurtina a bukud.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "inkappetna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lima a kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dagiti lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a bukud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti innem a kurtina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "dagiti innem"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a bukud"
+    }
+  ],
+  "timestamp": "2026-09-26T04:46:50.799555183Z",
+  "model": "glm-5.3"
+}

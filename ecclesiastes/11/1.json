@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Isublatmo ti tinapaymo iti rupa ti danum, ta iti kaaduan dagiti aldaw masarakanmo daytoy.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Isublatmo"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "tinapaymo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "iti kaaduan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "masarakanmo daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:27.742728627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken manipud kadagiti anak ni Zerach: ni Yeuel ken dagiti kabsatda, innem a gasut ket siam a pulo.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ken manipud"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ni Zerach"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "ni Yeuel"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "ken dagiti kabsatda"
+    },
+    {
+      "surface": "שש",
+      "gloss": "innem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ket siam a pulo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:39.971854287Z",
+  "model": "glm-5.3"
+}

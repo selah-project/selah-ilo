@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ken ⟨את⟩ ti anakbabai ti yaanah, ken ⟨את⟩ ti tahmas, ken ⟨את⟩ ti shahaf, ken ⟨את⟩ ti nets iti kita na",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti anakbabai ti yaanah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ti anakbabai"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ti yaanah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ti tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti shahaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ti shahaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ti nets"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "iti kita na"
+    }
+  ],
+  "timestamp": "2026-09-26T08:00:36.788351196Z",
+  "model": "glm-5.3"
+}

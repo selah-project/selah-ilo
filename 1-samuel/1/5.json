@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken kenni Khanna itedna maysa a paset a dua, ta ⟨את⟩ ni Khanna ti ay-atenna, ngem ni Yahweh inserrana ti matrisna.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "ken kenni Khanna"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "maysa a paset"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "a dua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Khanna"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "ni Khanna"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ti ay-atenna"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ken ni Yahweh"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "inserrana"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ti matrisna"
+    }
+  ],
+  "timestamp": "2026-09-26T10:21:45.543176989Z",
+  "model": "glm-5.3"
+}

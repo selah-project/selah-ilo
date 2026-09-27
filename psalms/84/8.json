@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 84,
+  "translation": "Agdanda manipud iti bileg agingga iti bileg, agparangda iti sanguan ti Elohim iti Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Agdanda"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "manipud iti bileg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "agparangda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "iti Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:22.472675329Z",
+  "model": "glm-5.3"
+}

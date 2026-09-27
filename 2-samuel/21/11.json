@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Naipakaammuan kennu David ⟨את⟩ ti inaramid ni Ritspah a anak a babai ni Ayya, a bao ni Shaul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Naipakaammuan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kennu David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inaramid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "ni Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "a anak a babai"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ni Ayya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "a bao"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-26T12:06:23.302600106Z",
+  "model": "glm-5.3"
+}

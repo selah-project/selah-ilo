@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ni Arpakhshad ket nagbiag tallopulo ken lima a tawen, ket nagputot ⟨את⟩ ni Shelakh.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ket ni Arpakhshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nagbiag"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ken tallopulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ket nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    }
+  ],
+  "timestamp": "2026-09-26T01:53:46.563922598Z",
+  "model": "glm-5.3"
+}

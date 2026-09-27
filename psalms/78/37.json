@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ta ti pusoda saan a natalinaed a kaduana, ken saanda a nagtalek iti tulagna.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "ken ti pusoda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "natalinaed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanda"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "nagtalek"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "iti tulagna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:25.939188018Z",
+  "model": "glm-5.3"
+}

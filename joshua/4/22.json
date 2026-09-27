@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket ipaamoanyonto ⟨את⟩ dagiti annakyo, a mangibaga: Iti namaga a daga nallabes ti Yisrael ⟨את⟩ daytoy a Karayan Yarden.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "ket ipaamoanyonto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti annakyo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "dagiti annakyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a mangibaga"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "iti namaga a daga"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nallabes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a Karayan Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Karayan Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T08:52:03.365866382Z",
+  "model": "glm-5.3"
+}

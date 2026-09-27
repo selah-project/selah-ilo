@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket nagbiag ni Shet kalpasan a nakaipuonanna ⟨את⟩ ni Enosh iti pito a tawen ken walo a gasut a tawen, ket nakapuonan kadagiti anak a lalaki ken anak a babai.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nagbiag"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ni Shet"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan a"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "naipuonanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ni Enosh"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ken walo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nakapuonan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kadagiti anak a lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ken anak a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:29.931683552Z",
+  "model": "glm-5.3"
+}

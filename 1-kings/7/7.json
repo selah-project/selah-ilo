@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket ti galeria ti trono, a sadiay mangukom ⟨isuna⟩ — ti galeria ti ukom — inaramidna, ket naabbongan iti sedro manipud iti piso agingga iti piso.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ket ti galeria"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "ti trono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "mangukom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ti galeria"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "ket naabbongan"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "iti sedro"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "manipud iti piso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "piso"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:19.505701472Z",
+  "model": "glm-5.3"
+}

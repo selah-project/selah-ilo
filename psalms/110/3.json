@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 110,
+  "translation": "Ti umilim agkukusa iti aldaw ti bilegmo, iti dagiti daydayaw ti nasantoan — manipud iti tian ti parbangon, kenka ti lai-it ti kaanakanmo.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Ti umilim"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "agkukusa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ti bilegmo"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "iti dagiti daydayaw"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ti nasantoan"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "manipud iti tian"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "ti parbangon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "טל",
+      "gloss": "lai-it"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ti kaanakanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:06.232986723Z",
+  "model": "glm-5.3"
+}

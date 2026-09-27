@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Apay a nangiyuna kaniak dagiti tumeng? Ket ania dagiti suso, ta manginedak?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "nangiyuna kaniak"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "dagiti tumeng"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ket ania"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "dagiti suso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "manginedak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:46:56.852559371Z",
+  "model": "glm-5.3"
+}

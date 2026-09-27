@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket dinayanna ti tolda ni Yosef, ken ti tribu ni Efrayim saanna a pinili.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "ket dinayanna"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ti tolda"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "ken ti tribu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "a pinili"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:34.786447993Z",
+  "model": "glm-5.3"
+}

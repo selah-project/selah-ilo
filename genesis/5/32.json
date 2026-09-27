@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kinapui ni Noa nga anak ti lima a gasut a tawen, ket naganak ni Noa ⟨את⟩ ni Shem, ⟨את⟩ ni Kham ken ⟨את⟩ ni Yefet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kinapui"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "naganak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Kham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-09-26T01:45:45.482851257Z",
+  "model": "glm-5.3"
+}

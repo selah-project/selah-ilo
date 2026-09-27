@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ti altar ti tumbaga, ken ⟨את⟩ ti parrilla ti tumbaga a tagikuana, ⟨את⟩ dagiti barasna, ken ⟨את⟩ amin a ramramitna, ⟨את⟩ ti batya ken ⟨את⟩ ti pagtakderanna;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti altar ti tumbaga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tumbaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti parrilla"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "parrilla"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tumbaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tagikuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti barasna"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "barasna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a ramramitna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ramramitna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti batya"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "batya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pagtakderanna"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pagtakderanna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:50:29.713355685Z",
+  "model": "glm-5.3"
+}

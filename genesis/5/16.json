@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket nagbiag ni Mahalalel kalpasan idi nakaipuonanna ⟨את⟩ ni Yered tallopulo a tawen ken walo a gasut a tawen, ket nakaipuonan kadagiti anak a lalaki ken dagiti anak a babai.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nagbiag"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "idi nakaipuonanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tallopulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ken walo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ket nakaipuonan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kadagiti anak a lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ken dagiti anak a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:18.302017522Z",
+  "model": "glm-5.3"
+}

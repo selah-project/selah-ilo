@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "Ta kitaem, dagiti kabusor mo, Yahweh; ta kitaem, dagiti kabusor mo maawidda; agsiksinnaganda amin dagiti agobra ⟨ti⟩ kadakesan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dagiti kabusor mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dagiti kabusor mo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "maawidda"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "agsiksinnaganda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dagiti agobra"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti kadakesan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:39.757641042Z",
+  "model": "glm-5.3"
+}

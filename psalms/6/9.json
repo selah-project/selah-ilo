@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Agsublikayo kaniak, amin dagiti agar-aramid ti dakes, ta nangngeg ni Yahweh ti timek ti panagsangitak.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Agsublikayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dagiti agar-aramid"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "ti panagsangitak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:41:29.591368976Z",
+  "model": "glm-5.3"
+}

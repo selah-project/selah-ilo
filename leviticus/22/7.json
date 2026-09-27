@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "No sumrek ti init ken nakapudno, kalpasanna makanenna dagiti nasantuan a banag, ta ti makananna daytoy",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "No sumrek"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ken nakapudno"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makanenna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "dagiti nasantuan a banag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ti makananna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T05:39:47.448875594Z",
+  "model": "glm-5.3"
+}

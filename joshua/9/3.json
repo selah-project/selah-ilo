@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket dagiti agnanaed iti Gibeon ket nangngegda ti ⟨את⟩ ti inaramid ni Yehoshua iti Yericho ken iti Ay,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "ket dagiti agnanaed"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "iti Gibeon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nangngegda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inaramid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "iti Yericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ken iti Ay"
+    }
+  ],
+  "timestamp": "2026-09-26T09:03:15.212384859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Indainganna ni David ⟨את⟩ ti daing a daytoy kenni Shaul ken kenni Yehonatan a anakna a lalaki.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "indainganna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daing a daytoy"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "ti daing"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken kenni"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna a lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T11:26:08.192913404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Iti baybay ti dalanmo, ken dagiti dalanmo iti adu a danum; dagiti bakasmo saan a naammuan.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ti dalanmo"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "ken dagiti dalanmo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nga adu"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "dagiti bakasmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "a naammuan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:01.453864483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Kitaem, ni Yahweh ket ipukpukawna ti pukaw, a lalaki a napigsa, ket balutenennaka a mabalot.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "ipukpukawna"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "ti pukaw"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "lalaki a napigsa"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "ket balutenennaka"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "a mabalot"
+    }
+  ],
+  "timestamp": "2026-09-26T14:54:48.578864304Z",
+  "model": "glm-5.3"
+}

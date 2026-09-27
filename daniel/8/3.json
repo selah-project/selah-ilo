@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 8:3",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kinalbitko dagiti matak ket nakita, ket dayta, maysa a karnero a lalaki nga agtakder iti sango ti karayan Ulay, ken addaan iti dua a serra; ket dagiti serra ket nangatngato, ngem ti maysa ket nangatngato ngem ti maikadua, ket ti nangatngato ket immato a maudi.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "kinalbitko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matak"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket dayta"
+    },
+    {
+      "surface": "איל",
+      "gloss": "karnero a lalaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "ti karayan Ulay"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ken addaan"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "dua a serra"
+    },
+    {
+      "surface": "והקרנים",
+      "gloss": "ket dagiti serra"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "nangatngato"
+    },
+    {
+      "surface": "והאחת",
+      "gloss": "ngem ti maysa"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "nangatngato"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "והגבהה",
+      "gloss": "ket ti nangatngato"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "immato"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "a maudi"
+    }
+  ],
+  "timestamp": "2026-09-27T00:05:23.136060367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Ikabilmo ti sipnget ket agbalin a rabii; iti dayta agkulkulapdagiti amin a ayup ti kakayuan.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Ikabilmo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ti sipnget"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "a rabii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "agkulkulapdagiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "a ayup"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ti kakayuan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:28.257192571Z",
+  "model": "glm-5.3"
+}

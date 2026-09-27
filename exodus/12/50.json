@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Inaramid daytoy dagiti amin nga anak ni Yisrael; kas iti imbilin ni Yahweh ⟨את⟩ kenni Moshe ken ⟨את⟩ kenni Aharon, kasta da nga inaramid.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Inaramid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dagiti amin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "imbilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nga inaramid"
+    }
+  ],
+  "timestamp": "2026-09-26T03:46:11.285358434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ti sibubukel a gimong kas maysa: uppat a sangapulo a ribu, dua a ribu, tallo a gasut, ken innem a pulo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ti sibubukel"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "a gimong"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kas maysa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "sangapulo a ribu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dua a ribu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "innem a pulo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:21:34.937083530Z",
+  "model": "glm-5.3"
+}

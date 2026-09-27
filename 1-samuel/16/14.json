@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket ti Espiritu ni Yahweh immalliw manipud kenni Shaul, ket nangbutbuteng kenkuana ti madi nga espiritu manipud ⟨את⟩ ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ket ti Espiritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "immalliw"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manipud kenni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "nangbutbuteng kenkuana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nga espiritu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "madi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T10:49:55.657977049Z",
+  "model": "glm-5.3"
+}

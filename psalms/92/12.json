@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "ket ti matak makitameto ⟨dagiti⟩ kabusok, kadagiti agbangbangon kaniak a dakes — madengngeda dagiti taingak.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "makitameto"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ti matak"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "kadagiti kabusok"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "kadagiti agbangbangon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "a dakes"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "madengngeda"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "dagiti taingak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:39.758043220Z",
+  "model": "glm-5.3"
+}

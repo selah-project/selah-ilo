@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Bangbangonkayo dagiti balay ket agnanaedkayo kadakuada, ket mulakayo dagiti garden ket mangankayo ⟨את⟩ dagiti bungada.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "bangbangonkayo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "dagiti balay"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ket agnanaedkayo"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ket mulakayo"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "dagiti garden"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ket mangankayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bungada"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "dagiti bungada"
+    }
+  ],
+  "timestamp": "2026-09-26T17:15:57.394893123Z",
+  "model": "glm-5.3"
+}

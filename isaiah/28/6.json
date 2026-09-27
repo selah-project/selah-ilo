@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ken Espiritu ti ukom iti agtuktugtog iti ukom, ken bileg kadagiti mangisubli iti gubat agingga iti ruanganna.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "ken Espiritu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukom"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "iti agtuktugtog"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "ken bileg"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "kadagiti mangisubli"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "agingga iti ruanganna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:58:45.757692262Z",
+  "model": "glm-5.3"
+}

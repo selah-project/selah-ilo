@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket ni Shemuel saan pay nga ammo ⟨את⟩ ni Yahweh, ket ti sao ni Yahweh saan pay a naiparang kakuana.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ket ni Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "saan pay"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ket saan pay"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "naiparang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kakuana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T10:30:19.322388407Z",
+  "model": "glm-5.3"
+}

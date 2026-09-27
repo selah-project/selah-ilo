@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kalpasidan ken ni Yahweh agnanayonda; isunto ti agriaw a kas leon, ta isu ti agriaw, ket agbutbutengdan dagiti annak manipud iti laud.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "agnanayonda"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "a kas leon"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "agriaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "agriaw"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ket agbutbutengdan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "manipud iti laud"
+    }
+  ],
+  "timestamp": "2026-09-26T19:36:03.194920233Z",
+  "model": "glm-5.3"
+}

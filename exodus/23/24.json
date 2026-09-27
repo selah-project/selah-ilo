@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Saanmo nga agiknawka kadagiti didiosenda ken saanmo nga agserbi kadakuada, ken saanmo nga aramiden ti kas iti ar-aramidda; ta dadael a dadaelem ida ken baliesten a baliesten dagiti posteda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "nga agiknawka"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "kadagiti didiosenda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "nga agserbi kadakuada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "ti kas iti ar-aramidda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "dadael"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "a dadaelem ida"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ken baliesten"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "a baliesten"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "dagiti posteda"
+    }
+  ],
+  "timestamp": "2026-09-26T04:10:09.641603265Z",
+  "model": "glm-5.3"
+}

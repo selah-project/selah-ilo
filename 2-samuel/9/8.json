@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Nagdayaw ken nagtalek, ket kinuna: Ania ti adipenmo, ta timmipaka kadagiti natay nga aso a kas kaniak?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "nagdayaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adipenmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "timmipaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "aso"
+    },
+    {
+      "surface": "המת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "kas kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T11:37:10.276396861Z",
+  "model": "glm-5.3"
+}

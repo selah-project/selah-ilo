@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Iti mannakailinngan; iti adipen ni Yahweh, kenni David, a nagsao kenni Yahweh ⟨את⟩ dagiti sao ti daytoy a kanta, iti aldaw a nangisalakan ni Yahweh ⟨את⟩ kenkuana manipud iti ima dagiti amin a kabusorna ken manipud iti ima ni Shaul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "iti mannakailinngan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "iti adipen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kenni David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ti kanta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "a nangisalakan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dagiti amin"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "a kabusorna"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ken manipud iti ima"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-26T20:54:19.383862912Z",
+  "model": "glm-5.3"
+}

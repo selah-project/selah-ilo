@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket inalana dagiti natnag iti talon agingga iti rabii, ket dininarna ⟨את⟩ ti inalana, ket nagbalin a kas iti maysa nga eipa ti sebada.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "inalana dagiti natnag"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "dininarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inalana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "kas iti maysa nga eipa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ti sebada"
+    }
+  ],
+  "timestamp": "2026-09-26T23:04:13.306120677Z",
+  "model": "glm-5.3"
+}

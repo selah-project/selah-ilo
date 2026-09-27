@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Pati dagiti anak ti tao, pati dagiti anak ti lalaki, agraman ti baknang ken ti misming.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak ti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak ti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "agraman"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ti baknang"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ken ti misming"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:46.222366326Z",
+  "model": "glm-5.3"
+}

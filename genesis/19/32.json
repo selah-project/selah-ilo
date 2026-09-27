@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Umali, ipainumtayo ti bino ⟨את⟩ ti ammatayo, ket agtalogodantayo a kaduana, tapno pabiyagentayo ti kaputotan manipud iti ammatayo.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Umali"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ipainumtayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ammatayo"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ti ammatayo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "agtalogodantayo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a kaduana"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "pabiyagentayo"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "manipud iti ammatayo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ti kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T02:06:57.795092233Z",
+  "model": "glm-5.3"
+}

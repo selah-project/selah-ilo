@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Agsaoka kadagiti anak ni Yisrael ket ibagam kadakuada: no malabsanyo ⟨את⟩ ti Yarden, mapan iti daga ti Kenaan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "agsaoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "malabsanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-26T07:26:37.778142021Z",
+  "model": "glm-5.3"
+}

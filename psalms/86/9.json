@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Amin dagiti pagilian nga inaramidmo ket umayda ken agluknodda iti sanguam, Adonay, ken daydayawenda ⟨ti⟩ naganmo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "inaramidmo"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "umayda"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ken agluknodda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sanguam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ken daydayawenda"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "⟨ti⟩ naganmo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:49.472689251Z",
+  "model": "glm-5.3"
+}

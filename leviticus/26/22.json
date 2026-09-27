@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ipaturongko kadakayo ti ⟨את⟩ ayup ti talon, ken agpukawanna kadakayo, ken ikkatnanto ⟨את⟩ dagiti tarakenyo, ken mangbassitento kadakayo, ket maminsananto dagiti dalanyo.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Ipaturongko"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayup ti talon"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ayup"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "agpukawanna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "ikkatnanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tarakenyo"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "dagiti tarakenyo"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "mangbassitento"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "maminsananto"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "dagiti dalanyo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:01:20.366830707Z",
+  "model": "glm-5.3"
+}

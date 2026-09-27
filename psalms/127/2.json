@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 127,
+  "translation": "Inbain kadakayo, dagiti agsangsangbay a sumbangat, dagiti agin-inana a tumugaw, a mangan ti tinapay ti rigat; kasta ti itedna ti turog kenni ay-ayatenna.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Inbain"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "dagiti agsangsangbay a sumbangat"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sumbangat"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "dagiti agin-inana"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "tumugaw"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "a mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "kenni ay-ayatenna"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "turog"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:50.101820042Z",
+  "model": "glm-5.3"
+}

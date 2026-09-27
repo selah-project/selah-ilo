@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 114,
+  "translation": "Agriingka, a daga, iti sangoan ni Adonay, iti sangoan ti Eloah ni Yaakov —",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "agriingka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:14.157357320Z",
+  "model": "glm-5.3"
+}

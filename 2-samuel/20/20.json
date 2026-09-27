@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket nagsungbat ni Yoav ken kinunana: Saan unay, saan unay kaniak, no agtaraonak wenno agdadaelak.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ket nagsungbat"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "saan unay"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "saan unay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "agtaraonak"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wenno no"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "agdadaelak"
+    }
+  ],
+  "timestamp": "2026-09-26T12:00:59.734343080Z",
+  "model": "glm-5.3"
+}

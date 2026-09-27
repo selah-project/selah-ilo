@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "⟨את⟩ ti arko ken ⟨את⟩ dagiti bara na, ⟨את⟩ ti takder ti arko, ken ⟨את⟩ ti kurtina ti panangsakup",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bara na"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dagiti bara na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti takder ti arko"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ti takder ti arko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kurtina ti panangsakup"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ti kurtina"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ti panangsakup"
+    }
+  ],
+  "timestamp": "2026-09-26T04:33:18.596620450Z",
+  "model": "glm-5.3"
+}

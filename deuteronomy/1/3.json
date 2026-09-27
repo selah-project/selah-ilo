@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Napasamak iti maikapat a pulo a tawen, iti maika-sangapulo ket maysa a bulan, iti umuna nga aldaw ti bulan, a nagsao ni Moshe kadagiti anak a lalaki ni Yisrael, kas iti amin a bilin ni Yahweh ⟨kenkuana⟩ kadakuada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Napasamak"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "iti maikapat a pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "iti maika-sangapulo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ket maysa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "a bulan"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "iti umuna nga aldaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ti bulan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kadagiti anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kas iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T07:33:43.414421947Z",
+  "model": "glm-5.3"
+}

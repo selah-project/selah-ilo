@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ken ni Rivkah nangngeg iti panagsao ni Yitskhak kenni Esav anakna, ket napan ni Esav iti talon mangagnop iti taraon nga ikuyogna.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "Ken ni Rivkah"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "iti panagsao"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ket napan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "mangagnop"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "iti taraon"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "nga ikuyogna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:29.834049441Z",
+  "model": "glm-5.3"
+}

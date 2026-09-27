@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket saan a nangala manen ni Yarovam iti bileg kadagiti aldaw ni Aviyah, ket dinuntok ni Yahweh isuna, ket natay",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saan a"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "nangala manen"
+    },
+    {
+      "surface": "כח",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kadagiti aldaw"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ni Aviyah"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "dinuntok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:49:08.829768919Z",
+  "model": "glm-5.3"
+}

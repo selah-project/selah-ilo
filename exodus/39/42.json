@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Kas iti amin a bilin ni Yahweh kenni ⟨את⟩ Moshe, kasta nga inaramid dagiti anak ni Yisrael ⟨את⟩ ti amin a pagaramidan.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Kas iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ngaan inaramid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a pagaramidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "a pagaramidan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:48:58.036814337Z",
+  "model": "glm-5.3"
+}

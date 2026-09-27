@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Napasamak idi natay ni Ahab, ket sinuppiat ti ari ti Moav iti ari ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Napasamak"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "idi natay ni"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "sinuppiat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "iti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T13:20:34.364560692Z",
+  "model": "glm-5.3"
+}

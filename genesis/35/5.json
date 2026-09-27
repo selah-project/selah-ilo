@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 35:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ken napanda, ken adda ti panagbuteng ni Elohim kadagiti ili a naglikmut kaniada, ket saanda a nangtaray kadagiti anak a lalaki ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "napanda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ken adda"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "panagbuteng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "סביבתיהם",
+      "gloss": "naglikmut kaniada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "a nangtaray"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T02:48:23.240709371Z",
+  "model": "glm-5.3"
+}

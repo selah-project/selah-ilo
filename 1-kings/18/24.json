@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 18:24",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Awagan yo iti nagan dagiti diosyo, ket siak ti agawagak iti nagan ni Yahweh; ket ti Elohim a sumungbat babaen iti apoy, isuna ti Elohim. Ket nagsungbat ti amin a umili ket kinunada: Nasayaat ti sao.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Awagan yo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "dagiti diosyo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ti agawagak"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "sumungbat"
+    },
+    {
+      "surface": "באש",
+      "gloss": "babaen iti apoy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "Ket nagsungbat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Nasayaat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:58.639574806Z",
+  "model": "glm-5.3"
+}

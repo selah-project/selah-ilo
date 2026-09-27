@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket immayak a dakkel ken immayak nga ad-adu ngem amin a nagballigi sakbay kaniak iti Yerushalayim; pay, ti kinasiribko ket nagnaed kaduak.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "immayak a dakkel"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "immayak nga ad-adu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngem amin"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "a nagballigi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sakbay kaniak"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pay"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "ti kinasiribko"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaduak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:26.926700267Z",
+  "model": "glm-5.3"
+}

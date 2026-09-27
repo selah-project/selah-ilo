@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Salaknibanmo ⟨את⟩ ti bilinko ita nga aldaw; adtoyak a palabasen iti sanguam ⟨את⟩ ti Amorreo ken ti Kenaaneo ken ti Hiteo ken ti Periseo ken ti Hiveo ken ti Yebuseo.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "salaknibanmo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bilinko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "bilinko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "adtoyak"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "palabasen"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "iti sanguam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Amorreo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Amorreo"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ken ti Kenaaneo"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ken ti Hiteo"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ken ti Periseo"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ken ti Hiveo"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ken ti Yebuseo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:33:54.286729586Z",
+  "model": "glm-5.3"
+}

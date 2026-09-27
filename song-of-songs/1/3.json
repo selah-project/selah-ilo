@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Iti rimbaw dagiti lanaam nasayaat; lana a naisibog ti naganmo; gapu ta ayatenda ka dagiti darasbiit.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "Iti rimbaw"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "dagiti lanaam"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "a naisibog"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "dagiti darasbiit"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "ayatenda ka"
+    }
+  ],
+  "timestamp": "2026-09-26T23:00:57.764749490Z",
+  "model": "glm-5.3"
+}

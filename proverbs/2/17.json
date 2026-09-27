@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ti agibbet iti kaduana ti panakainaana, ket ⟨את⟩ ti tulag ti Elohimna nalipatanna,",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "Ti agibbet"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ti panakainaana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tulag"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "ti Elohimna"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "nalipatanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:59.596179158Z",
+  "model": "glm-5.3"
+}

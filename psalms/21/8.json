@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ta ti ari agtalek kenni Yahweh, ken iti hesed ti Elyon, saan a matnag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "agtalek"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ken iti hesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ti Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "a matnag"
+    }
+  ],
+  "timestamp": "2026-09-26T20:58:37.878088924Z",
+  "model": "glm-5.3"
+}

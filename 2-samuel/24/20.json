@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Sinipa ni Aravnah ken nakitana ⟨ti⟩ ari ken ⟨ti⟩ adipenna nga agballasiw kakuana; rummuar ni Aravnah ken inniemanna ti ari, ti rupaana agingga iti daga.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "sinipa"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "ni Aravnah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti adipenna"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ti adipenna"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "nga agballasiw"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kakuana"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "rummuar"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "ni Aravnah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "inniemanna"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "ti rupaana"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "agingga iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T12:15:38.513205993Z",
+  "model": "glm-5.3"
+}

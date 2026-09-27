@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ti agbubbones ⟨iti⟩ kaduana ket awan ti puso, ngem ti lalaki nga ammo agdengngeg ket agtalennek.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "ti agbubbones"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "⟨iti⟩ kaduana"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ngem ti lalaki"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "nga ammo agdengngeg"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "agtalennek"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:13.148116099Z",
+  "model": "glm-5.3"
+}

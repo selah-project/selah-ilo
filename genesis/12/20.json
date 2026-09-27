@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Idin indilinanna ni Paro dagiti lallaki maipapan kenkuana, ket idiay ibiningbingda ⟨את⟩ isuna ken ⟨את⟩ ti asawana ken ⟨את⟩ amin a kadkuana.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Idin indilinanna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "maipapan kenkuana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ket idiay ibiningbingda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti asawana"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kadkuana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kadkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T01:54:55.834532709Z",
+  "model": "glm-5.3"
+}

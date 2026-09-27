@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 39:6",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Imamat ti ari ti Bavel ⟨את⟩ dagiti anak ni Tsidkiyahu iti Rivla iti sanguanan, ket ⟨את⟩ amin dagiti lakay ni Yehudah imamatna ti ari ti Bavel.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "imamat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ti Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ni Tsidkiyahu"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "iti Rivla"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a lakay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "imamatna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ti Bavel"
+    }
+  ],
+  "timestamp": "2026-09-26T17:32:11.879452068Z",
+  "model": "glm-5.3"
+}

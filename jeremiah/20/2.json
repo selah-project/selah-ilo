@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 20:2",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Dinait ni Pashchur ⟨את⟩ ni Yirmeyahu a propeta, ken inna ikkan ⟨אתו⟩ iti pagtalekan a iti tarikanto ni Binyamin, ti nangatwen, a iti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "dinait"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashchur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "propeta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "inna ikkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iti pagtalekan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "pagtalekan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "iti tarikanto"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "nangatwen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T16:58:41.858825793Z",
+  "model": "glm-5.3"
+}

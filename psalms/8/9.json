@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Dagiti billit ti langit ken dagiti ikan ti baybay, ⟨dagiti⟩ agballasiw kadagiti dalan dagiti baybay.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "Dagiti billit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ken dagiti ikan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "agballasiw"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "kadagiti dalan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:11.821468063Z",
+  "model": "glm-5.3"
+}

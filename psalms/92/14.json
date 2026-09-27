@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "Dagiti naipula idiay balay ni Yahweh, idiay dagiti arubayan ti Elohimtayo agrang-ayda.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "dagiti naipula"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "idiay balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "idiay dagiti arubayan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "agrang-ayda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:46.181951940Z",
+  "model": "glm-5.3"
+}

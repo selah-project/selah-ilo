@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "ket ipalabasakayo ⟨את⟩ kadakayo iti baba ti baston, ken iyeggakayo ⟨את⟩ kadakayo iti igot ti tulag.",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "ipalabasakayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "iti baba ti baston"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ti baston"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "iyeggakayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "iti igot ti tulag"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "iti igot"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ti tulag"
+    }
+  ],
+  "timestamp": "2026-09-26T18:36:42.626746687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Kanta, salmo, dagiti anak ni Korach, iti pangidauloan, iti Machalat Leannoth, maysa a Maskil, kenni Heiman ti Ezrahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dagiti anak ni"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "iti pangidauloan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannoth"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maysa a Maskil"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "kenni Heiman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ti Ezrahi"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:43.112244118Z",
+  "model": "glm-5.3"
+}

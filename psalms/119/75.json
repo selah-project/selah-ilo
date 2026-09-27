@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ammoak, Yahweh, a nalinteg dagiti ukommo, ken iti kinapudno pinagrigatmoak.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ammoak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dagiti ukommo"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "ken iti kinapudno"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "pinagrigatmoak"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:32.760680079Z",
+  "model": "glm-5.3"
+}

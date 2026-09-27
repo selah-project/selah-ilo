@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kinunana: Saanak a nangdadael iti ⟨את⟩ Yisrael, no di sika ken ti balay ni amam, iti panangibbaw yo ⟨את⟩ kadagiti bilin ni Yahweh ken iti panagnenmo kadagiti Baal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "nangdadael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no di"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ken ti balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ni amam"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "iti panangibbaw yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti bilin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kadagiti bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "panagnenmo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baal"
+    }
+  ],
+  "timestamp": "2026-09-26T13:05:01.048100779Z",
+  "model": "glm-5.3"
+}

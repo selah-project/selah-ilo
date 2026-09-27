@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Dakami rinararami ti abagatan ti Kereti, ken ti tagikua ti Yehudah, ken ti abagatan ni Kalev; ken ⟨את⟩ ti Tsiklag inpusormi iti apoy.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "dakami"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "rinararami"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ti abagatan"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "ti Kereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti tagikua"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ti abagatan"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ti Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "inpusormi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T11:19:18.340706491Z",
+  "model": "glm-5.3"
+}

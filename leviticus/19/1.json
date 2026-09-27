@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Kinuna ni Yahweh kenni Moshe nga agkuna,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga agkuna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:39:22.832180146Z",
+  "model": "glm-5.3"
+}

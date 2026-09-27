@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket naruar ti ari ti Yisrael, ket tinipaanna ⟨את⟩ dagiti kabalio ken ⟨את⟩ dagiti karo, ket timmipa iti Aram maysa a dakkel a panagtipa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ket naruar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ket tinipaanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kabalio"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "dagiti kabalio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti karo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "dagiti karo"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ket timmipa"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "iti Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "panagtipa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dakkel"
+    }
+  ],
+  "timestamp": "2026-09-26T23:59:34.058545048Z",
+  "model": "glm-5.3"
+}

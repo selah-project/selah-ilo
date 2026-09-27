@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim ti Tsevaot, isublimo kamin; ilawagmo ti rupaMo ket maisalakankami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "isublimo kamin"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ilawagmo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupaMo"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ket maisalakankami"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:27.129250168Z",
+  "model": "glm-5.3"
+}

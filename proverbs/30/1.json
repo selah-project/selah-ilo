@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Dagiti sao ni Agur, anak ni Yakeh, ti masa. Ti bilin: kinuna ti lalaki — kenni Ithiel, kenni Ithiel ken Ukhual.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Dagiti sao"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "ni Agur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "ni Yakeh"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ti masa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "kenni Ithiel"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "kenni Ithiel"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ken Ukhual"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:36.449808465Z",
+  "model": "glm-5.3"
+}

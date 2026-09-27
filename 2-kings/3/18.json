@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket nalaka daytoy kadagiti mata ni Yahweh, ken itedna ⟨את⟩ ti Moab kadagiti imakayo.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ket nalaka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ken itedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "kadagiti imakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T13:21:35.998304750Z",
+  "model": "glm-5.3"
+}

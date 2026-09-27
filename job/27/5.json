@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Saan koma a rumuar kaniak no ipalintegnak ⟨אתכם⟩ agingga iti pannakatayak; saanko pulos a ikkaten ti kinainnosko kaniak.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "saan koma a rumuar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ipalintegnak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "iti pannakatayak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanko pulos"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ikkaten"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "kinainnosko"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:56:23.233843014Z",
+  "model": "glm-5.3"
+}

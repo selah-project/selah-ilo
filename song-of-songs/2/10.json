@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Simmungbat ti ayatako ket kinunana kaniak: Agtakderka, kaduak a babai, napintasak, ket umka.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "simmungbat"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ti ayatako"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "agtakderka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨bagim⟩"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "kaduak a babai"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "napintasak"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "ket umka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨bagim⟩"
+    }
+  ],
+  "timestamp": "2026-09-26T23:02:13.950837948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Dagiti agsanglad iti panaek, agus-usar iti kanawan ken iti kabbalibad kadagiti bato ken kadagiti pana babaen ti panaek, manipud kadagiti kabsat ni Shaul, manipud iti Benjamin.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "Dagiti agsanglad"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "iti panaek"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "agus-usar iti kanawan"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "ken iti kabbalibad"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kadagiti bato"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "ken kadagiti pana"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "babbaen ti panaek"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "manipud kadagiti kabsat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "manipud iti Benjamin"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:44.769816080Z",
+  "model": "glm-5.3"
+}

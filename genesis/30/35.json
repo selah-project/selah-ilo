@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 30:35",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Inikkatna iti dayta nga aldaw ⟨את⟩ dagiti karioengan a nabanneg ken nagpispis, ken ⟨את⟩ amin dagiti kalding a nagkiddit ken nagpispis, ti amin a puraw adda iti unegna, ken amin a nangisit kadagiti karnero; ket initedna iti ima dagiti annakna.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Inikkatna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti dayta nga aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti karioengan a nabanneg ken nagpispis"
+    },
+    {
+      "surface": "התישים",
+      "gloss": "dagiti karioengan"
+    },
+    {
+      "surface": "העקדים",
+      "gloss": "a nabanneg"
+    },
+    {
+      "surface": "והטלאים",
+      "gloss": "ken (a) nagpispis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti kalding a nagkiddit ken nagpispis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "dagiti kalding"
+    },
+    {
+      "surface": "הנקדות",
+      "gloss": "a nagkiddit"
+    },
+    {
+      "surface": "והטלאת",
+      "gloss": "ken (a) nagpispis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "puraw"
+    },
+    {
+      "surface": "בו",
+      "gloss": "adda iti unegna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "חום",
+      "gloss": "nangisit"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "kadagiti karnero"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket initedna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti annakna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:42:45.048796216Z",
+  "model": "glm-5.3"
+}

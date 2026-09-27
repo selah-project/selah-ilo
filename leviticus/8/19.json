@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket inpatayna, ket ni Moshe ket bisinenna ⟨את⟩ ti dara iti rabaw ti altar a palikmutan.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "inpatayna"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ket bisinenna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dara"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a palikmutan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:18:21.767814118Z",
+  "model": "glm-5.3"
+}

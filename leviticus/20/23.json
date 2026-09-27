@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket saan koma a agsursuruenyo kadagiti kasasaad ti pagilian a ipaisuakok iti sanguanyo, ta dagitoy ⟨את⟩ amin ti inaramid da, ket diak kinayat danuda.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "agsursuruenyo"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "kadagiti kasasaad"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ti pagilian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ipaisuakok"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "iti sanguanyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a dagitoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "a dagitoy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramid da"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "diak kinayat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "danuda"
+    }
+  ],
+  "timestamp": "2026-09-26T05:48:09.804280575Z",
+  "model": "glm-5.3"
+}

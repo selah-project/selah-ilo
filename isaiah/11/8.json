@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket agay-ayam ti agsuso nga ubbing iti lubong ti uleg, ket ti ubbing a naikkat iti suso iteddenna ti imana iti abut ti agbisot nga uleg.",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "ket agay-ayam"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "agsuso nga ubbing"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "חר",
+      "gloss": "lubong"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ti uleg"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ket iti"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "abut"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "ti agbisot nga uleg"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "naikkat iti suso"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "iteddenna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:39:10.468844320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Kinuna ni Moshe kadagiti anak ni Yisrael nga aramidda ⟨ti⟩ ti Pesach.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "nga aramidda"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ti Pesach"
+    }
+  ],
+  "timestamp": "2026-09-26T06:24:22.226789898Z",
+  "model": "glm-5.3"
+}

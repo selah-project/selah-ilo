@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Inbilin ni Moshe ken dagiti lakay ni Yisrael ⟨את⟩ ti lubong, a madmaddek: Salakniban yo ti ⟨את⟩ amin a bilin a bilinko ⟨את⟩ kadakayo ita nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "inbilin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ken dagiti lakay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lubong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti lubong"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a madmaddek"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "salakniban yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a bilin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ibilin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T08:28:39.393699290Z",
+  "model": "glm-5.3"
+}

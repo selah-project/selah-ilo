@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 138,
+  "translation": "No agannakayak iti tengnga ti rigat, bilibiyagannak; iti riing dagiti kabusorko idatmo ⟨ti⟩ imam, ket ti kanawanmo isalakannak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "agannakayak"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "iti tengnga ti"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "rigat"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "bilibiyagannak"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אף",
+      "gloss": "riing"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dagiti kabusorko"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "idatmo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "ket isalakannak"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ti kanawanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:41.829593781Z",
+  "model": "glm-5.3"
+}

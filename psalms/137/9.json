@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 137,
+  "translation": "Naragsak ti agsangkad ken agtinnag ⟨את⟩ kadagiti maladenna iti bato.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Naragsak"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "agsangkad"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "agtinnag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti maladenna"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "kadagiti maladenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:50.337099882Z",
+  "model": "glm-5.3"
+}

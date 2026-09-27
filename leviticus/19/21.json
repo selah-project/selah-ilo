@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Iyeganna ⟨את⟩ basolna kenni Yahweh, iti ruangan ti Tolda ti Gimong: maysa a karnero a daton iti basol.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Iyeganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basolna"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "basolna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ruangan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Gimong"
+    },
+    {
+      "surface": "איל",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "iti basol"
+    }
+  ],
+  "timestamp": "2026-09-26T05:45:22.978916518Z",
+  "model": "glm-5.3"
+}

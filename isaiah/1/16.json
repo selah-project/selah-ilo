@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Digosyo, daluseyo; ikkisoyo ti dakes kadagiti aramidyo manipud iti sanguanan dagiti matak; sardengyo ti agaramid iti dakes.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "Digosyo"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "daluseyo"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ikkisoyo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "kadagiti aramidyo"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "manipud iti sanguanan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matak"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "sardengyo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ti agaramid iti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T14:13:41.216428804Z",
+  "model": "glm-5.3"
+}

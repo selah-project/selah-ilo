@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Nabannogak iti panangawagko, namaga ti tangkoranko, naee dagiti matak, agur-uray iti Elohimko.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "nabannogak"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "iti panangawagko"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "namaga"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "ti tangkoranko"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "naee"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matak"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "agur-uray"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "iti Elohimko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:18.679373261Z",
+  "model": "glm-5.3"
+}

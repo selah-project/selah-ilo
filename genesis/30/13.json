@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Kinuna ni Lea: Iti ragsakko, ta inaragsakdak dagiti anak a babai; ket inawaganna ⟨את⟩ ti naganna nga Asher.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "iti ragsakko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "inaragsakdak"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dagiti anak a babai"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ket inawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga Asher"
+    }
+  ],
+  "timestamp": "2026-09-26T02:29:54.149625726Z",
+  "model": "glm-5.3"
+}

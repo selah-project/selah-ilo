@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Nagtakder ni Moshe ken ni Yehoshua nga adipenna, ket nagpangato ni Moshe iti bantay ti Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nagtakder"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ken ni Yehoshua"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "nga adipenna"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nagpangato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T04:08:30.580645273Z",
+  "model": "glm-5.3"
+}

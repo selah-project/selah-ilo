@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Saan kadi a daytoy ni David, a sinungbatanda kenkuana kadagti sasasala, a kumkuna: Innukkam ni Shaul kadagiti ribuna, ken ni David kadagiti sangapulo a ribuna?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Saan kadi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "sinungbatanda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "kadagti sasasala"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kumkuna"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "Innukkam"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "kadagiti ribuna"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ken ni David"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "kadagiti sangapulo a ribuna"
+    }
+  ],
+  "timestamp": "2026-09-26T11:20:45.286402940Z",
+  "model": "glm-5.3"
+}

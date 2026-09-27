@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kas dagiti pagilian a pukasen ni Yahweh iti sanguanyo, kasta met kayo a mapukas, gapu ta saankayo a dengngen ti timek ni Yahweh nga Elohimyo.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "Kas dagiti pagilian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "pukasen"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "iti sanguanyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta met"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "kayo a mapukas"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "gapu ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "kayo a dengngen"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga Elohimyo"
+    }
+  ],
+  "timestamp": "2026-09-26T07:48:50.206909295Z",
+  "model": "glm-5.3"
+}

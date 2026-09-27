@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ti nagsao iti amana ken iti inana: saan ko nakita kenkuana; ken ⟨את⟩ ti kabsatna saan nga inammona, ken ⟨את⟩ ti anakna saan nga ammoanna; ta salaknibanda ti saom ken ti tulagmo salaknibenda.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ti nagsao"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "iti amana"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ken iti inana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "nakita ko kenkuana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kabsatna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ti kabsatna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "inammona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti anakna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ti anakna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammoanna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "salaknibanda"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ti saom"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "ken ti tulagmo"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "salaknibenda"
+    }
+  ],
+  "timestamp": "2026-09-26T08:40:05.724110489Z",
+  "model": "glm-5.3"
+}

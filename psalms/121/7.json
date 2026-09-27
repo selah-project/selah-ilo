@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 121,
+  "translation": "Ni Yahweh ti mangsalaknibka iti amin a dakes, isu ti mangsalaknib ⟨את⟩ ti kararuam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "ti mangsalaknibka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a dakes"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "isu ti mangsalaknib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kararuam"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ti kararuam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:21.912764582Z",
+  "model": "glm-5.3"
+}

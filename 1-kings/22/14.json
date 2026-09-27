@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Kinuna ni Mikhayahu: Ti biag ni Yahweh — ta ⟨את⟩ ti sasaoenna ni Yahweh kaniak, ⟨אתו⟩ ti agsaoak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ni Mikhayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sasaoenna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sasaoenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ti agsaoak"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ti agsaoak"
+    }
+  ],
+  "timestamp": "2026-09-26T13:15:50.339213622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ni Yahweh ti bilegko ken ti salaknibko; kenkuana nagkalintegan ti pusok, ket tinulongannak; agragsak ti pusok, ket kadagiti kantak ipadayawko.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "ken ti salaknibko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagkalintegan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "ket tinulongannak"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "agragsak"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "kadagiti kantak"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ipadayawko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:12.684905784Z",
+  "model": "glm-5.3"
+}

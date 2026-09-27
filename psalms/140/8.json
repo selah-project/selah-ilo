@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Yahweh, Adonay, ti bileg ti panangisalakannak, inlangoyam ti ulok iti aldaw ti gubat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ti panangisalakannak"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "inlangoyam"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ti ulok"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ti gubat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:05.818694615Z",
+  "model": "glm-5.3"
+}

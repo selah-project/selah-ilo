@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Urnosenda dagiti anak ni Aharon, dagiti padi, ⟨את⟩ dagiti paset, ⟨את⟩ ti ulo ken ⟨את⟩ ti taba, iti ti kayo a ⟨adda⟩ iti apoy a ⟨adda⟩ iti altar.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "urnosenda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti paset"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "dagiti paset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti taba"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ti taba"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ti kayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ti apoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:44.106880104Z",
+  "model": "glm-5.3"
+}

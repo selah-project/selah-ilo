@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Nasaysayaat ti nagan ngem nasayaat a lana, ket ti aldaw ti panagmatay ngem ti aldaw ti pannakaiyanak.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Nasaysayaat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ngem nasayaat a lana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ket ti aldaw"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ti panagmatay"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ngem ti aldaw"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ti pannakaiyanak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:12.195237880Z",
+  "model": "glm-5.3"
+}

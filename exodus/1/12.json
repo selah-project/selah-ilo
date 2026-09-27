@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket no ania ti dakes ti panagdadaelda ⟨כן⟩, kasta met la ti panagdakdakkelna ken panagwarwarana; ket naemmakanda gapu kadagiti anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Ket no ania ti"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "panagdadaelda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ti panagdakdakkelna"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ket kasta met"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ti panagwarwarana"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "naemmakanda"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gapu kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T03:26:43.300860452Z",
+  "model": "glm-5.3"
+}

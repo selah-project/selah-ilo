@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Sika ti ariak, Elohim; bilinmo dagiti panangisalakan ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ariak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilinmo"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "dagiti panangisalakan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T21:18:33.787293919Z",
+  "model": "glm-5.3"
+}

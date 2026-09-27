@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "No timmukkan ti maysa a lalaki ⟨את⟩ adipenna wenno ⟨את⟩ babai nga adipenna babaen ti baston ket natay iti baba ti imana, mapadusa a padusen.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "No"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "timmukkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adipenna"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "adipenna"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babai nga adipenna"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "babai nga adipenna"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "babaen ti baston"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "mapadusa"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "a padusen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:12:20.879539223Z",
+  "model": "glm-5.3"
+}

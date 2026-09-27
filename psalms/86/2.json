@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Salaknibenmo ti kararua ko, ta matalekak; isalakanmo ti adipenmo — sika, Elohimko, ti agtalek kenka.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Salaknibenmo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "matalekak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "-ak"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "isalakanmo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "ti agtalek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:46.709027386Z",
+  "model": "glm-5.3"
+}

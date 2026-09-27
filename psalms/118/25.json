@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Adiu Yahweh, isalakannakami, agbaybay-o; adiu Yahweh, iballigimokami, agbaybay-o.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "adiu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "isalakannakami"
+    },
+    {
+      "surface": "נא",
+      "gloss": "agbaybay-o"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "adiu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "iballigimokami"
+    },
+    {
+      "surface": "נא",
+      "gloss": "agbaybay-o"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:13.210623088Z",
+  "model": "glm-5.3"
+}

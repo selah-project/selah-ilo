@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken simrek ni Noach ken dagiti anakna a lalaki ken ti asawana ken dagiti asawa dagiti anakna a lalaki ⟨את⟩ a kaduana iti arka, manipud iti sanguanda dagiti danum ti layus.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ken simrek"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ken dagiti anakna a lalaki"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ken ti asawana"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ken dagiti asawa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna a lalaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a kaduana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manipud iti sanguanda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dagiti danum"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ti layus"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:13.478216157Z",
+  "model": "glm-5.3"
+}

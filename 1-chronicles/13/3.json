@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket ipanentayo manen ⟨את⟩ ti arko ti Elohimtayo kadatayo, ta saanmi birukenna idi dagiti aldaw ni Shaul.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "ket ipanentayo manen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kadatayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "birukenna"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "idi dagiti aldaw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:45.415234884Z",
+  "model": "glm-5.3"
+}

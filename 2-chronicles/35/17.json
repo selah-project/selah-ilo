@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Inaramidda dagiti anak ti Yisrael a adda ⟨את⟩ ti Pesach iti tiempo a dayta, ken ⟨את⟩ ti fiesta ti matso a pito nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "a adda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ti Pesach"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "iti tiempo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "a dayta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti fiesta"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ti fiesta"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ti matso"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T23:58:42.174108855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ta amin a dagiti ukomna adda iti sanguanak, ket dagiti bilinna saan ko nga ikkat manipud kaniak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "dagiti ukomna"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "adda iti sanguanak"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ket dagiti bilinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ko nga ikkat"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manipud kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:54:52.165019614Z",
+  "model": "glm-5.3"
+}

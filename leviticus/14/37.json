@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 14:37",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ket kitaenna ⟨את⟩ ti pinarsua a Sara wenno lasag, ket yay, no ti Sara wenno lasag ket adda kadagiti dingding ti balay — nasuknaw a linablabba, nabisbisrdawaw wenno ad-admadmawaw, ken ti langa da ket ab-ababa ngem ti dingding;",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kitaenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Sara wenno lasag"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti Sara wenno lasag"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket yay"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti Sara wenno lasag"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "kadagiti dingding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "שקערורת",
+      "gloss": "nasuknaw a linablabba"
+    },
+    {
+      "surface": "ירקרקת",
+      "gloss": "nabisbisrdawaw"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "ad-admadmawaw"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "ken ti langa da"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "ab-ababa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ti dingding"
+    }
+  ],
+  "timestamp": "2026-09-26T05:20:59.165154033Z",
+  "model": "glm-5.3"
+}

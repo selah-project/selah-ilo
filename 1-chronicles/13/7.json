@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket inikkanada ti ⟨את⟩ arko ti Elohim iti maysa a baro a karison, manipud iti balay ni Avinadav, ken ni Uzza ken ni kabsatna ti mangiturong iti karison.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "inikkanada iti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko ti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "karison"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "baro"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ni Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "ken ni Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ken ni kabsatna"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "ti mangiturong"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "iti karison"
+    }
+  ],
+  "timestamp": "2026-09-26T23:37:20.332838857Z",
+  "model": "glm-5.3"
+}

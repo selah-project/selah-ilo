@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ti supiatmo suppiatem ⟨את⟩ ti kaarrubam, ket ti sod ti sabali, saanmo a ibaga.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "ti supiatmo"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "suppiatem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kaarrubam"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ti kaarrubam"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ket ti sod"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ti sabali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "a ibaga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:44:37.842881934Z",
+  "model": "glm-5.3"
+}

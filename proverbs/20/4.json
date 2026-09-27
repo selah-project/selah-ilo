@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Gapu iti panawen ti lam-ek ti taratay ket saan a mangararado; agkiddaw iti apit, ket awan.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "gapu iti panawen ti lam-ek"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ti taratay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "a mangararado"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "agkiddaw"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "iti apit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:40:11.286914091Z",
+  "model": "glm-5.3"
+}

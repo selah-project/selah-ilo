@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti tunggal lalaki a sumuhat ⟨את⟩ ti ngiwatmo ken saan a dumengngeg ⟨את⟩ dagiti saom, iti amin a bilinam kenkuana, mapatay; laeng agtiggaoka ken agbilegka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ti tunggal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "sumuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ngiwatmo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ngiwatmo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dumengngeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti saom"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dagiti saom"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "bilinam kenkuana"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mapatay"
+    },
+    {
+      "surface": "רק",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "agtiggaoka"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ken agbilegka"
+    }
+  ],
+  "timestamp": "2026-09-26T08:49:00.737806271Z",
+  "model": "glm-5.3"
+}

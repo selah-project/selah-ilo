@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Ni Yisrael nasalakan iti Yahweh, iti panangisalakan nga agnanayon; saankayo a mailammo ket saankayo a maiyallilaw agingga kadagiti agnanayon nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Ni Yisrael"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "nasalakan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "iti Yahweh"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "panangisalakan"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "nga agnanayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "a mailammo koma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "a maiyallilaw koma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "kadagiti agnanayon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nga agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T15:41:06.362318854Z",
+  "model": "glm-5.3"
+}

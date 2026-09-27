@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 20:19",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Siak ni Yahweh ti Elohimyo: magna kayo kadagiti bilinko, ken ⟨את⟩ dagiti ukomko salaknibennakayo ken aramidennakayo ⟨ti⟩ dagitoy.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohimyo"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "kadagiti bilinko"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "magna kayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ukomko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dagiti ukomko"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "salaknibennakayo"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ken aramidennakayo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ukomko"
+    }
+  ],
+  "timestamp": "2026-09-26T18:33:58.008115148Z",
+  "model": "glm-5.3"
+}

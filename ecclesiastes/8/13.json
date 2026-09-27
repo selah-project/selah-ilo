@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket ti naimbas ket saan a maaddaan ti dakes, ket saan a mapaatiddogna dagiti aldawna a kas iti aninipot, ta saan nga agbuteng iti sanguanan ti Elohim.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ket ti naimbas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "maaddaan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "iti dakes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "mapaatiddogna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldawna"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "a kas iti aninipot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "agbuteng"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:56.730101764Z",
+  "model": "glm-5.3"
+}

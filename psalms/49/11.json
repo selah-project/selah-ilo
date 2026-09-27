@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "ta makitana a dagiti bisar matayda; ti awan sirsiribi ken ti manangmangan agpada a mapukarda, ket ibbitda ti tagikuada kadagiti sabsabali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makitana"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "a dagiti bisar"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "matayda"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "agpada"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ti awan sirsiribi"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ken ti manangmangan"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "a mapukarda"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "ket ibbitda"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kadagiti sabsabali"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ti tagikuada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:31.929773861Z",
+  "model": "glm-5.3"
+}

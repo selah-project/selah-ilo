@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "a nagin-inaykami a nangpaamis iti tungtungan, iti balay ti Elohim immaykami a kadua kadagiti adu a tao.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nagin-inaykami"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "nangpaamis"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "iti tungtungan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "immaykami"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "kadua kadagiti adu a tao"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:42.171213667Z",
+  "model": "glm-5.3"
+}

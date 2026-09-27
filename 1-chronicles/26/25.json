@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 26:25",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Dagiti kabsatna ket ni Eliezer: ni Rehavyahu nga anakna, ken ni Yishayahu nga anakna, ken ni Yoram nga anakna, ken ni Zikhri nga anakna, ken ni Shelomith nga anakna.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Dagiti kabsatna"
+    },
+    {
+      "surface": "לאליעזר",
+      "gloss": "ket ni Eliezer"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "ni Rehavyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    },
+    {
+      "surface": "וישעיהו",
+      "gloss": "ken ni Yishayahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ken ni Yoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ken ni Zikhri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "ken ni Shelomith"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:55.056042168Z",
+  "model": "glm-5.3"
+}

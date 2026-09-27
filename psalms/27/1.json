@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ni David. Yahweh ti lawagko ken ti panangisalakanko — sino ngata ti mabutengak? Yahweh ti bileg ti biagko — sino ngata ti maemmakak?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ti lawagko"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "ken ti panangisalakanko"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mabutengak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "bileg"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ti biagko"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "maemmakak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:05:16.330923738Z",
+  "model": "glm-5.3"
+}

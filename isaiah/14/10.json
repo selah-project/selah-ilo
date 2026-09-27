@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Amin dagitoy agsungbatanda ken nagsaoda kenka: Sika met nakaawanan ti bileg a kas kadakami, nagpadaanka kadakami!",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Amin dagitoy"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "agsungbatanda"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ken nagsaoda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "nakaawanan ti bileg"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "a kas kadakami"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "nagpadaanka"
+    }
+  ],
+  "timestamp": "2026-09-26T14:31:39.225892866Z",
+  "model": "glm-5.3"
+}

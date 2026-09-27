@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Saan pay nga ibaga ni Ester ti kaputotanna ken ⟨את⟩ ti umilina, a kas iti bilin ni Mordekai kenkuana; ket ⟨את⟩ ti bilin ni Mordekai inaramid ni Ester, a kas idi addaanka iti salaknibna ⟨את⟩ kadakuana.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "saan pay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "nga ibaga"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "ti kaputotanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti umilina"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ti bilin ni Mordekai"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "idi addaanka"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "iti salaknibna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kadakuana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:34.430166949Z",
+  "model": "glm-5.3"
+}

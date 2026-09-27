@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ken ni Oved nagputot ⟨את⟩ kenni Yishay, ken ni Yishay nagputot ⟨את⟩ kenni David,",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ken ni Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "kenni Yishay"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ken ni Yishay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kenni David"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:17.485584067Z",
+  "model": "glm-5.3"
+}

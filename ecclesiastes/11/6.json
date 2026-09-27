@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Iti bigat mulam ⟨את⟩ binadam, ket iti rabii saanmo ipalubos nga aginana ti imam; ta saanmo ammo no ania ti agballigi, daytoy wenno dayta, wenno no dagiti dua ket agpada a nasayaat.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mulam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binadam"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "binadam"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ket iti rabii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ipalubos nga aginana"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "אי",
+      "gloss": "no"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "agballigi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wenno no"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "agpada a"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "nasayaat"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:00.249835471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti adu a kappia ⟨ti⟩ kadagiti agay-ayat iti torahmo, ken awan kaniada ti makatnag.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kadagiti agay-ayat"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "iti torahmo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "makatnag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:54.312735644Z",
+  "model": "glm-5.3"
+}

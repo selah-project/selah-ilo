@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 84,
+  "translation": "Nangasapun, ken nautugot met ti kararwak kadagiti garitahan ni Yahweh; ti pusok ken ti lasagko agkantada kenni El a sibibiag.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "nangasapun"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ken met"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "nautugot"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "kadagiti garitahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ken ti lasagko"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "agkantada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a sibibiag"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:50.651956325Z",
+  "model": "glm-5.3"
+}

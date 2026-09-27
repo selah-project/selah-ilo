@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Yahweh, ti Adonaytayo, ania a kadakkel ti naganmo iti amin a daga; ti nangitedmo ⟨iti⟩ daydayawmo iti ngato dagiti langit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ti Adonaytayo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kadakkel"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "nangitedmo"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "daydayawmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:19.618880763Z",
+  "model": "glm-5.3"
+}

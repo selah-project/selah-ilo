@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ni Khetsron ket nagputot ⟨ti⟩ ni Ram, ken ni Ram ket nagputot ⟨ti⟩ ni Aminadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "Ken ni Khetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ni Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ken ni Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ni Aminadav"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:26.461347531Z",
+  "model": "glm-5.3"
+}

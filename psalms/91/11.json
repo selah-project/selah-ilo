@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Ta bilinenna ti ⟨ti⟩ mga ⟨מלאכיו⟩ — itedna iti bagida tibilin — a salaknibennaka kadagiti amin a dalanmo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "dagiti mensaherna"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "bilinenna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iti bagim"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "a salaknibennaka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "a dalanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:09.893521882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Isuam ti turbante iti ngato ti ulona, ken itedmo ⟨את⟩ ti nasantuan a korona iti ngato ti turbante.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "isuam"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ti turbante"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ti ulona"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ken itedmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nasantuan a korona"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "a korona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantuan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ti turbante"
+    }
+  ],
+  "timestamp": "2026-09-26T04:24:14.877295816Z",
+  "model": "glm-5.3"
+}

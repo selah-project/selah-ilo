@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Umakarkayo a mapan manipud iti tengnga daytoy a gimong, ket umekkanto da koma a kas iti maysa a bigla; ket immelda da kadagiti rupada.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "umakarkayo"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "manipud iti tengnga"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ket umekkanto da koma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "da (dagiti tao iti gimong)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "a kas iti maysa a bigla"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ket immelda"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "rupada"
+    }
+  ],
+  "timestamp": "2026-09-26T06:46:21.007443942Z",
+  "model": "glm-5.3"
+}

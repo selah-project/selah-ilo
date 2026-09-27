@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "No saan a mangibalbalin, ken ti lasag na saan a didigosen, inpotianna ti basol na.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "a mangibalbalin"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ken ti lasag na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "a didigosen"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "inpotianna"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ti basol na"
+    }
+  ],
+  "timestamp": "2026-09-26T05:36:11.334972852Z",
+  "model": "glm-5.3"
+}

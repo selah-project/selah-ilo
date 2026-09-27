@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ket ipatulodko ti ⟨את⟩ tumbangaw iti sanguamyo, ket ida-urusanna ⟨את⟩ ti Hivita, ⟨את⟩ ti Kenaanita ken ⟨את⟩ ti Hita manipud iti sanguamyo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ket ipatulodko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tumbangaw"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tumbangaw"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sanguamyo"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "ket ida-urusanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Hivita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Kenaanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Hita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hita"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "manipud iti sanguamyo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:14:15.109879060Z",
+  "model": "glm-5.3"
+}

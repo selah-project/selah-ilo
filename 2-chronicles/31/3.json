@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 31:3",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ti paset ti ari, manipud iti tagikuana, para kadagiti daton a napuoran — para kadagiti daton a napuoran ti bigat ken ti rabii — ken dagiti daton a napuoran para kadagiti Shabbat ken kadagiti baro a bulan ken kadagiti naisaad a fiesta, kas naisurat iti torah ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומנת",
+      "gloss": "ti paset"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "רכושו",
+      "gloss": "tagikuana"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "para kadagiti daton a napuoran"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "para kadagiti daton a napuoran"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ti bigat"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "ken ti rabii"
+    },
+    {
+      "surface": "והעלות",
+      "gloss": "ken dagiti daton a napuoran"
+    },
+    {
+      "surface": "לשבתות",
+      "gloss": "para kadagiti Shabbat"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "ken kadagiti baro a bulan"
+    },
+    {
+      "surface": "ולמעדים",
+      "gloss": "ken kadagiti naisaad a fiesta"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kas naisurat"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "iti torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:56:05.765918739Z",
+  "model": "glm-5.3"
+}

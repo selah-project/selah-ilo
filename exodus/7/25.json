@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket napnoan dagiti pito nga aldaw kalpasan a dinungpar ni Yahweh ⟨את⟩ ti Karayan.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "napnoan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "a dinungpar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Karayan"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ti Karayan"
+    }
+  ],
+  "timestamp": "2026-09-26T03:38:00.179873345Z",
+  "model": "glm-5.3"
+}

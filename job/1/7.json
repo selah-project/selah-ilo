@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinuna ni Yahweh kenni Satanas: Sadino ti naggapuanmo? Ket insungbatan ti Satanas ⟨את⟩ ni Yahweh ket kinuna: Manipud iti panagballasiw iti daga ken iti panagsursor iti unegna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ti Satanas"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Sadino"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ti naggapuanmo"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "Ket insungbatan"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ti Satanas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "iti panagballasiw"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ken iti panagsursor"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti unegna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:17.554942307Z",
+  "model": "glm-5.3"
+}

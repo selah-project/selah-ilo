@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "ket inserbida da ⟨את⟩ dagiti didiosenda, ket nagbalinanda a lakkang kaniada.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ket inserbida da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti didiosenda"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "dagiti didiosenda"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ket nagbalinanda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "a lakkang"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:31.039626255Z",
+  "model": "glm-5.3"
+}

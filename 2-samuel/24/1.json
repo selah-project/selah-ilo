@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ket nainayon pay ti riro ni Yahweh a mangisilab iti Yisrael, ket kinunedanna ⟨את⟩ ni David kadakuada a sawen: Umoka, bilangenmo ⟨את⟩ ti Yisrael ken ⟨את⟩ ti Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ket nainayon pay"
+    },
+    {
+      "surface": "אף",
+      "gloss": "riro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "a mangisilab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iti Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ket kinunedanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a sawen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "umoka"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "bilangenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T12:16:41.952177994Z",
+  "model": "glm-5.3"
+}

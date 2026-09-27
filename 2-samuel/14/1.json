@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Kinuna ni Yoab, anak ni Tseruyah, a ammo na a ti puso ti ari ⟨is⟩ kenni Avshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ammona"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ni Tseruyah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-26T11:48:37.445250913Z",
+  "model": "glm-5.3"
+}

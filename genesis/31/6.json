@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket dakayo ammo nga iti amin a bilegko dinserbiku ⟨את⟩ ti amamyo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ket dakayo"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "bilegko"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "dinserbiku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amamyo"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ti amamyo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:10.225400298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "⟨את⟩ ti mesa, ⟨את⟩ amin a kasangkapanna, ken ⟨את⟩ ti tinapay ti rupa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ti mesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a kasangkapanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a kasangkapanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tinapay ti rupa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ti rupa"
+    }
+  ],
+  "timestamp": "2026-09-26T04:48:59.021571182Z",
+  "model": "glm-5.3"
+}

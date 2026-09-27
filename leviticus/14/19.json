@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ken aramidenna ti padi ⟨את⟩ ti daton ti basol ket ipatawaranna ti malimas iti kinamarugitanna, ken kalpasanna patayenna ⟨את⟩ ti natuno a sakripisio.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ken aramidenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daton ti basol"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ti daton ti basol"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ket ipatawaranna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ti malimas"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "iti kinamarugitanna"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ken kalpasanna"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "patayenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti natuno a sakripisio"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natuno a sakripisio"
+    }
+  ],
+  "timestamp": "2026-09-26T05:22:20.015315633Z",
+  "model": "glm-5.3"
+}

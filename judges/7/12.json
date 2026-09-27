@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 7:12",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ni Midian ken ni Amalek ken amin nga anak ti daya, natnagda iti tanap kas iti duldok nga adu, ket dagiti kameloda awan bilangda, kas iti arenas iti igid ti baybay iti kaaduna.",
+  "tokens": [
+    {
+      "surface": "ומדין",
+      "gloss": "ni Midian"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ken ni Amalek"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ti daya"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "natnagda"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "iti tanap"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "kas iti duldok"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "nga adu"
+    },
+    {
+      "surface": "ולגמליהם",
+      "gloss": "ket dagiti kameloda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilangda"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "kas iti arenas"
+    },
+    {
+      "surface": "שעל",
+      "gloss": "iti igid"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "iti kaaduna"
+    }
+  ],
+  "timestamp": "2026-09-26T09:48:15.543738903Z",
+  "model": "glm-5.3"
+}

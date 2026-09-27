@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Maayatmo koma, Yahweh, nga isalakannak; Yahweh, iti tulongak tarayenmo.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "Maayatmo koma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "nga isalakannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "iti tulongak"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "tarayenmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:18.042015528Z",
+  "model": "glm-5.3"
+}

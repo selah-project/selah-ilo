@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti Elohimko, inawagak iti aldaw ngem saanmo a sungbatan, ken iti rabii, ket awan ti sileng kaniak.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Ti Elohimko"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "inawagak"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saanmo"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "a sungbatan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ken iti rabii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ti sileng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:07.854313506Z",
+  "model": "glm-5.3"
+}

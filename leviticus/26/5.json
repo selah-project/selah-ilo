@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ket umabot kadakayo ti panagbaybay-am ⟨iti⟩ ur-urnong ti ubas, ken ti ur-urnong ti ubas ket umabot ⟨iti⟩ panagmula; ken mangankayo ti tinapaykayo agingga iti panagbusor, ket agnaedkayo nga awan ti buteng iti dagan yo.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "ket umabot"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "ti panagbaybay-am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ur-urnong ti ubas"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ur-urnong ti ubas"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ken ti ur-urnong ti ubas"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "umabot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panagmula"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "panagmula"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ken mangankayo"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "ti tinapaykayo"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "agingga iti panagbusor"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ket agnaedkayo"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nga awan ti buteng"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "iti dagan yo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:56:23.080721504Z",
+  "model": "glm-5.3"
+}

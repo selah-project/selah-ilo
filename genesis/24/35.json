@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ket binendisionan ni Yahweh ⟨את⟩ apo-k un-unnoy, ken dimmakkel; ken intedna kenkuana dagiti karnero ken baka, pirak ken balitok, adipen a lalaki ken adipen a babai, kamelio ken buriko.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ket ni Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "binendisionan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apo-k"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apo-k"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "un-unnoy"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ken dimmakkel"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ken intedna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dagiti karnero"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ken baka"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ken pirak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ken balitok"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "adipen a lalaki"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "ken adipen a babai"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ken kamelio"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ken buriko"
+    }
+  ],
+  "timestamp": "2026-09-26T02:18:13.353034122Z",
+  "model": "glm-5.3"
+}

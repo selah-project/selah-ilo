@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Saan koma nga agturong-ngatoykayo, ta awan ni Yahweh iti kauneganyo, ket saan koma a madadaeldakayo sango dagiti kabusorroyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan koma"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "agturong-ngatoykayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "iti kauneganyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan koma"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "madadaeldakayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sango"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dagiti kabusorroyo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:33:10.107829558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ibagakayo ti nalinteg ⟨nga⟩ naimbag ti maidana, ta ti bunga dagiti aramidda ti makanenda.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ibagakayo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ti bunga"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "dagiti aramidda"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ti makanenda"
+    }
+  ],
+  "timestamp": "2026-09-26T14:17:33.573091642Z",
+  "model": "glm-5.3"
+}

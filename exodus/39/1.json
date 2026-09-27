@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 39:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ken manipud iti asul, iti purpura, ken iti eskarlata, inaramidda dagiti bado ti panagserbi a pagserbian iti nasantoan a disso; ken inaramidda ⟨את⟩ dagiti nasantoan a bado a para kenn Aharon, kas iti bilin ni Yahweh kenn ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ken manipud iti"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ti asul"
+    },
+    {
+      "surface": "והארגמן",
+      "gloss": "ken ti purpura"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ken ti ulod"
+    },
+    {
+      "surface": "השני",
+      "gloss": "eskarlata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "שרד",
+      "gloss": "ti panagserbi"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "a pagserbian"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti nasantoan a disso"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ken inaramidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bado"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantoan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kenn Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilinna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T04:48:31.125860493Z",
+  "model": "glm-5.3"
+}

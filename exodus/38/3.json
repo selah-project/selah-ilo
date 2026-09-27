@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Inaramidna ⟨את⟩ amin dagiti kaseryan ti altar: ⟨את⟩ dagiti kaldero ken ⟨את⟩ dagiti pala ken ⟨את⟩ dagiti labba, ⟨את⟩ dagiti tinidor ken ⟨את⟩ dagiti pangalaan ti apoy; amin dagiti kaseryanna inaramidna iti tombok.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti kaseryan ti altar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dagiti kaseryan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kaldero"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "dagiti kaldero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pala"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "dagiti pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti labba"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "dagiti labba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tinidor"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "dagiti tinidor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pangalaan ti apoy"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "dagiti pangalaan ti apoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dagiti kaseryanna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iti tombok"
+    }
+  ],
+  "timestamp": "2026-09-26T04:45:35.637936653Z",
+  "model": "glm-5.3"
+}

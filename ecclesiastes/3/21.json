@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Siasino ti mangammo no ti anges dagiti anak ti tao ti agpukatto nga agturong ngato, ken ti anges ti ayup ti agbassit nga agturong baba iti daga?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mangammo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti anges"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti agpukatto"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ngato"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ken ti anges"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ti ayup"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "ti agbassit"
+    },
+    {
+      "surface": "היא",
+      "gloss": "na"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "baba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:38.464449198Z",
+  "model": "glm-5.3"
+}

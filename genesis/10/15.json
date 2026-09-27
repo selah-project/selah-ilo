@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ni Kenan ket nagputot ⟨את⟩ ni Tsidon, ti immuna a putotna, ken ⟨את⟩ ni Khet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ni Kenan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "ni Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ti immuna a putotna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Khet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ni Khet"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:50.615026969Z",
+  "model": "glm-5.3"
+}

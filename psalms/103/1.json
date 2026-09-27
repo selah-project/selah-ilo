@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Ni David. Bendisionam, kararwak, ⟨את⟩ ni Yahweh, ken amin nga unegko, ⟨את⟩ ti nasantuan a naganna.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni David"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Bendisionam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kararwak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "unegko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nasantuan a naganna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nasantuanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:09.826321130Z",
+  "model": "glm-5.3"
+}

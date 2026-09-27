@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket kinunak: itedko a sakbayen dakayo manipud iti panaglidday ti Mitsrayim, iti daga ti Kenaanan, ken ti Heteo, ken ti Emoreo, ken ti Periseo, ken ti Hiveo, ken ti Jebuseo, iti daga nga agayus gatas ken balbalani.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ket kinunak"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "sakbayenko dakayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "panaglidday"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ti Kenaanan"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ken ti Heteo"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ken ti Emoreo"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ken ti Periseo"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ken ti Hiveo"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ken ti Jebuseo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "nga agayus"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gatas"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ken balbalani"
+    }
+  ],
+  "timestamp": "2026-09-26T03:33:52.383838946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Inmey ni Amasa nga awagenna ⟨את⟩ ti Yehudah, ngem nagbayag iti ngato ti naisagana nga oras nga inikeddengna.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Inmey"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ni Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "nga awagenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "ngem nagbayag"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "ti naisagana nga oras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "inikeddengna"
+    }
+  ],
+  "timestamp": "2026-09-26T12:07:17.910183263Z",
+  "model": "glm-5.3"
+}

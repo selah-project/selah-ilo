@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket nangngeg ni Yahweh ⟨ti⟩ ⟨את⟩ timek ti saoda, ket naunget ket nagsumpa, a kinuna:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ket nangngeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timek ti saoda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "timek"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ti saoda"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ket naunget"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ket nagsumpa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinuna"
+    }
+  ],
+  "timestamp": "2026-09-26T07:30:11.342285072Z",
+  "model": "glm-5.3"
+}

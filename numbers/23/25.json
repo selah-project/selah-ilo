@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Kinuna ni Balak kenni Bilam: sumpaanka koma, saan a sumumpa kaniada; bendisionam koma, saan met a bendisionan kaniada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ni Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koma"
+    },
+    {
+      "surface": "קב",
+      "gloss": "sumpaanka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "a sumumpa kaniada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koma"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bendisionam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan met"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "a bendisionan kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T06:58:10.141735982Z",
+  "model": "glm-5.3"
+}

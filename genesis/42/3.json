@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ket immabda dagiti sangapulo a kabsat ni Yosef a manggatang ti bagas manipud iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ket immabda"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dagiti kabsat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "a manggatang"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bagas"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:47.994582870Z",
+  "model": "glm-5.3"
+}

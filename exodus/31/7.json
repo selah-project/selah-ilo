@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "ti Tolda ti Gimong, ken ⟨את⟩ ti Arkan ti Testimonio, ken ⟨את⟩ ti Takkup nga adda iti ngatona, ken ⟨את⟩ amin a kasangkapan ti Tolda;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Tolda ti Gimong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Gimong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Arkan"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti Arkan"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "ti Testimonio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Takkup"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ti Takkup"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "adda iti ngatona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kasangkapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kasangkapan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti Tolda"
+    }
+  ],
+  "timestamp": "2026-09-26T04:30:25.252296565Z",
+  "model": "glm-5.3"
+}

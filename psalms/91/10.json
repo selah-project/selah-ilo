@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Saan a mai-adda kadak ni dakes, ken saan a sumrek ti sulisog iti toldam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "a mai-adda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kadak"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ni dakes"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ken ti sulisog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "a sumrek"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "iti toldam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:09.893332528Z",
+  "model": "glm-5.3"
+}

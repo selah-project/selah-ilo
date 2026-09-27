@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Babaen kadagiti pana ken babaen iti panaan umay ti tao iti dayta, ta susuok ken siit ti agbalinenna amin a daga.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "babaen kadagiti pana"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "ken babaen iti panaan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "susuok"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "ken siit"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ti agbalinenna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T14:25:13.367256890Z",
+  "model": "glm-5.3"
+}

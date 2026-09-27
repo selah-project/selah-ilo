@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Adonay, sangoMo ti amin a kaykayatko, ken ti panangeledko Manipud kennika saan a nailemmeng.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sangoMo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "a kaykayatkon"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "ken ti panangeledko"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "manipud kennika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "a nailemmeng"
+    }
+  ],
+  "timestamp": "2026-09-26T21:13:53.943047643Z",
+  "model": "glm-5.3"
+}

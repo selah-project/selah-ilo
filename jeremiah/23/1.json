@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Hoy dagiti pastol a mangdadael ken mangiwawar ⟨את⟩ dagiti karnero ti pagkamanganak, kuna ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "dagiti pastol"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "a mangdadael"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "ken mangiwawar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti karnero"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dagiti karnero"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "ti pagkamanganak"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T17:00:07.302046535Z",
+  "model": "glm-5.3"
+}

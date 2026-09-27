@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Ken saanmo ilemmeng ti rupam manipud iti adipenmo, ta adda rigat kaniak; napartak, sungbatannak.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ken saanmo"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ilemmeng"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "manipud iti adipenmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "rigat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "napartak"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sungbatannak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:39.969437082Z",
+  "model": "glm-5.3"
+}

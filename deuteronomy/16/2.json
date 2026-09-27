@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket agsakraarisio ka ti Pesach kenni Yahweh nga Elohim mo, kadagiti karnero ken baka, iti disso a pilien ni Yahweh a pagiennaenna ti naganna nga sadiay.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "ket agsakraarisio ka"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kadagiti karnero"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ken baka"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iti disso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "pilien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "a pagiennaenna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nga sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T08:07:59.173879664Z",
+  "model": "glm-5.3"
+}

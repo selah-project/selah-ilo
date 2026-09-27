@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Kinuna ni Adonay: Manipud iti Bashan agsubliak, agsubliak manipud kadagiti nauneg ti baybay.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Manipud iti Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "agsubliak"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "agsubliak"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "manipud kadagiti nauneg"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ti baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T21:40:12.094593420Z",
+  "model": "glm-5.3"
+}

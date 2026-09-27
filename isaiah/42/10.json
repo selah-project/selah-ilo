@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Agkanti kayo kenni Yahweh ti baro a kanta, ti daydayawna manipud iti patingga ti daga; dagiti agbassit iti baybay ken ti punnoanna, dagiti isla ken dagiti agnaedanda.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "agkanti kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baro"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ti daydayawna"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "manipud iti patingga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "dagiti agbassit"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ken ti punnoanna"
+    },
+    {
+      "surface": "איים",
+      "gloss": "dagiti isla"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "ken dagiti agnaedanda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:22:23.701808273Z",
+  "model": "glm-5.3"
+}

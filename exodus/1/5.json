@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket ti amin a kararua a nagruar manipud iti yao ni Yaakov ket pitopulo a kararua; ken ni Yosep ket adda idi iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagdanon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kararua"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "nagruar"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yao"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitopulo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kararua"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ken ni Yosep"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda idi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:22:48.054124710Z",
+  "model": "glm-5.3"
+}

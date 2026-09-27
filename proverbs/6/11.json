@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket umay ti kinapanglawmo a kas maysa a agdaliasat, ket ti kaawanmo a kas maysa a lalaki a makaammo iti gubat.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ket umay"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "a kas maysa a agdaliasat"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ti kinapanglawmo"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "ket ti kaawanmo"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "a kas maysa a lalaki"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "a makaammo iti gubat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:00.196223953Z",
+  "model": "glm-5.3"
+}

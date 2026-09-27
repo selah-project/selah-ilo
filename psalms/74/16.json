@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Kukuam ti aldaw, kukuam met ti rabii; sika ti insaganaam ti lawag ken ti init.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kukuam"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "אף",
+      "gloss": "met"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kukuam"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ti rabii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "insaganaam"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ti lawag"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ken ti init"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:46.717507086Z",
+  "model": "glm-5.3"
+}

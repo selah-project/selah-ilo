@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Pinigsa ni Yahweh ⟨את⟩ ti puso ni Paro, ket saan a nagayat a paluenna ida.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Pinigsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti puso"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nagayat"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "a paluenna ida"
+    }
+  ],
+  "timestamp": "2026-09-26T03:42:57.106044270Z",
+  "model": "glm-5.3"
+}

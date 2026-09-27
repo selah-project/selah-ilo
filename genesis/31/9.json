@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Kasta nga inala ni Elohim ⟨את⟩ ti daratan ni amamyo ket initedna kaniak.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "inala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daratan"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ti daratan"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ni amamyo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:38:09.403027213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Ti ngiwatko agsao kadagiti kinasirib, ket ti panagmuni-muni ti pusok iti pannakaammo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ti ngiwatko"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "agsao"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "kadagiti kinasirib"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "ket ti panagmuni-muni"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "iti pannakaammo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:46.222524040Z",
+  "model": "glm-5.3"
+}

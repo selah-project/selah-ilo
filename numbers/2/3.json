@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 2:3",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Dagiti agkampo iti daya, iti panaglaklkam initData ti init, ⟨ket⟩ ti bandila ti kampo ni Yehudah, babaen kadagiti buyotda; ket ti daulo kadagiti anak a lalaki ni Yehudah ket ni Nakshon nga anak a lalaki ni Aminadab.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "dagiti agkampo"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "iti panaglak-am ti init"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "ti bandila"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "babaen kadagiti buyotda"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ket ti daulo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak a lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ket ni Nakshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ni Aminadab"
+    }
+  ],
+  "timestamp": "2026-09-26T06:04:43.778102838Z",
+  "model": "glm-5.3"
+}

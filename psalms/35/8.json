@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Maabotanna ti kadadaelan a saanna nga ammo, ket ti lawana a ilemmengna maipenna; iti dayta a kadadaelan matnagna iti unegna.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "maabotanna"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "ti kadadaelan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngem ammo"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "ken ti lawana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "ilemmengna"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "maipenna"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "iti dayta a kadadaelan"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "matnagna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti unegna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:09:27.166626270Z",
+  "model": "glm-5.3"
+}

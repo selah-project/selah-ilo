@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 129,
+  "translation": "Ken saanda a kinuna dagiti agballasiw: Ti bendision ni Yahweh ⟨agtakder⟩ kaniayo; binendisionanmi ⟨את⟩ kayo iti nagan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ken saanda"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "a kinuna"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "dagiti agballasiw"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ti bendision"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kaniayo"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "binendisionanmi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:27.391103164Z",
+  "model": "glm-5.3"
+}

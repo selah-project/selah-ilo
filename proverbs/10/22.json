@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti bendision ni Yahweh, isu ti mangipayammo, ket ti rigat saan a mainayon a kaduana.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "ti bendision"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ti mangipayammo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "a mainayon"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "a kaduana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:53.687650280Z",
+  "model": "glm-5.3"
+}

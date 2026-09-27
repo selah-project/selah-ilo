@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Alaenna ti padi ⟨את⟩ ti karnero iti basol ken ⟨את⟩ ti log ti lana, ket iyaw-awna ti padi ⟨את⟩ dagitoy a panangiyaw-aw iti sangoan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "alaenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karnero"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "iti basol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti log"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "iyaw-awna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "panangiyaw-aw"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:25:13.622074409Z",
+  "model": "glm-5.3"
+}

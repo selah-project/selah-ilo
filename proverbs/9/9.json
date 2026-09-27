@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Itedmo kenni ti maalam ket umalamto pay unay; ipamgatmo kenni ti nalinteg ket madagdaganto ti lekciona.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Itedmo"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "kenni ti maalam"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "umalamto pay unay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ipamgatmo"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kenni ti nalinteg"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "madagdaganto"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ti lekciona"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:39.093855170Z",
+  "model": "glm-5.3"
+}

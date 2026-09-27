@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kinunana: Maipaay koma ⟨את⟩ ni Avishag ti Shunamita kenni Adoniyahu, ti kabsatmo, a kas asawana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maipaay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "ni Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "ti Shunamita"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "kenni Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ti kabsatmo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a kas asawana"
+    }
+  ],
+  "timestamp": "2026-09-26T12:21:52.204858485Z",
+  "model": "glm-5.3"
+}

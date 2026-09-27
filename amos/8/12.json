@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket agsangsangaili da manipud iti baybay agingga iti baybay, ken manipud iti amianan agingga iti daya; agsanutschechekda nga agbiruk ⟨את⟩ ti sao ni Yahweh, ket saanda a makabiruk",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "agsansangaili da"
+    },
+    {
+      "surface": "מים",
+      "gloss": "manipud iti baybay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "ken manipud iti amianan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "agsanutchechekda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "nga agbiruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sao ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "a makabiruk"
+    }
+  ],
+  "timestamp": "2026-09-26T19:57:33.917338952Z",
+  "model": "glm-5.3"
+}

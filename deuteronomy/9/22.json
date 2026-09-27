@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken iti Taverah, ken iti Massah, ken iti Kibroth-Hataavah, nangrigrat kayo ⟨את⟩ ken ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "ken iti Taverah"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "ken iti Massah"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "ken iti Kibroth"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "Hataavah"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "nangrigrat"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T07:57:28.421518156Z",
+  "model": "glm-5.3"
+}

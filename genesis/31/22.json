@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Naibaga kenni Lavan iti maikatlo nga aldaw nga timmalaw ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "naibaga"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "kenni Lavan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "timmalaw"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T02:35:38.106268350Z",
+  "model": "glm-5.3"
+}

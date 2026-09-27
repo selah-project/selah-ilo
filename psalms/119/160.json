@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti dagup ti saom ket pudno, ken agnanayon amin ti ukom ti kinalintegmo.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Ti dagup"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ti saom"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pudno"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ken agnanayon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ti kinalintegmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:08.946285531Z",
+  "model": "glm-5.3"
+}

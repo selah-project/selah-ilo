@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Rumuar ti apoy manipud iti sango ni Yahweh ket dimmaw ⟨אתם⟩, ket natayda iti sango ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "manipud iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dimmaw"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "da (ni Nadav ken ni Avihu)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ket natayda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:11:17.854645927Z",
+  "model": "glm-5.3"
+}

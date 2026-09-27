@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ken siak, kaanakon, mangitibdegak ⟨את⟩ ti pusoda dagiti Mitsrayim, ket agsungatda kadakuada, ket maidaydayawak kenn Paro ken kadagiti amin a buyotna, kadagiti karosona ken kadagiti kabaliona.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ken siak"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kaanakon"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "mangitibdegak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pusoda dagiti Mitsrayim"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dagiti Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "agsungatda"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ket maidaydayawak"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "kenn Paro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken kadagiti amin"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "a buyotna"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "kadagiti karosona"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ken kadagiti kabaliona"
+    }
+  ],
+  "timestamp": "2026-09-26T03:53:24.465865185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Oy, umili a mannakabasol, umili a nabennat ti basol, kaputotan dagiti dakes, anak a mannakadadael! Pinanawanda ⟨את⟩ ni Yahweh, kinuyogda ⟨את⟩ ti Nasantuan ni Yisrael, naikkanda ti bagi, immayda a bumaan.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Oy"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "umili"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mannakabasol"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nabennat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "basol"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaputotan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "mannakadadael"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Pinanawanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "kinuyogda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Nasantuan ni Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Nasantuan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "naikkanda ti bagi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "immayda a bumaan"
+    }
+  ],
+  "timestamp": "2026-09-26T14:18:19.145924066Z",
+  "model": "glm-5.3"
+}

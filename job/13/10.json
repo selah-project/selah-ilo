@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Sigud nga ukomannakayo, no iti lemmeng itiy-ewyo ti rupa.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "sigud"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ukomanna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "iti lemmeng"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "itiy-ewyo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:50:56.287164734Z",
+  "model": "glm-5.3"
+}

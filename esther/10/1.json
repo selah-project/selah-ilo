@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket inikkat ti ari a ni Akhashverosh ⟨ti⟩ masa iti daga ken kadagiti isla ti baybay.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "inikkat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "ni Akhashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "masa"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "ken kadagiti isla"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:14:31.108251185Z",
+  "model": "glm-5.3"
+}

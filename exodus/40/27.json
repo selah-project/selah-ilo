@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Nagpasoda iti nasam-it nga insenso iti rabawna, kas iti bilin ni Yahweh ⟨kaduak ni⟩ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "nagpasoda iti insenso"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti rabawna"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "nasam-it nga aruaten"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T04:49:09.718835310Z",
+  "model": "glm-5.3"
+}

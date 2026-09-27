@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken sika, alaammo a pakabilangmo iti amin a kanen a makan, ket idaonmo ⟨iti⟩kunam, ket agbalin dayta a kanenmo ken kanenda.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "קח",
+      "gloss": "alaam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a pakabilangmo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "a kanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ket idaonmo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨iti⟩kunam"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanenmo"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "ken kanenda"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "a kanen"
+    }
+  ],
+  "timestamp": "2026-09-26T01:45:55.223108539Z",
+  "model": "glm-5.3"
+}

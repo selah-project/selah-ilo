@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Natnag ti korona ti ulotayo; ay koma kadakami, ta nagbasolkami.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ti korona"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "ti ulotayo"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ay"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nagbasolkami"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:15.136744946Z",
+  "model": "glm-5.3"
+}

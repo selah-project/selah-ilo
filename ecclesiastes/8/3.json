@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Saanmo a madali nga umay manipud iti sanguanna; saanmo agtakder iti maysa a dakes a sao; ta tunggal kayatna aramidenna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "a madali"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "manipud iti sanguanna"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "nga umay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "iti maysa a sao"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tunggal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aramidenna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:48.377661904Z",
+  "model": "glm-5.3"
+}

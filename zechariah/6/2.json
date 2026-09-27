@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Iti umuna a karosa adda dagiti nalabbasit a kabalio, ket iti maikadua a karosa adda dagiti nangisit a kabalio.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "iti karosa"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "umuna"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kabalio"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "nalabbasit"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ket iti karosa"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kabalio"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "nangisit"
+    }
+  ],
+  "timestamp": "2026-09-26T20:30:28.037977985Z",
+  "model": "glm-5.3"
+}

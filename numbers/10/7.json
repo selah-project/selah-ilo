@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "No urnonyo ⟨את⟩ ti gimong, tibekyo, ngem saanyo a tarirayen.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "no urnonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti gimong"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "tibekyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "tarirayen"
+    }
+  ],
+  "timestamp": "2026-09-26T06:21:10.172257758Z",
+  "model": "glm-5.3"
+}

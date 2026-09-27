@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken ⟨את⟩ Raamot ken ⟨את⟩ dagiti pastoanna, ken ⟨את⟩ Anem ken ⟨את⟩ dagiti pastoanna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pastoanna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti pastoanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Anem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Anem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pastoanna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti pastoanna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:14.311122145Z",
+  "model": "glm-5.3"
+}

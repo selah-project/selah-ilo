@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 141,
+  "translation": "Matnagda kadagiti ima ti bato dagiti agtutukomda, ket dengngegenda dagiti saok, ta naimbagda.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "matnagda"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "kadagiti ima"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "dagiti agtutukomda"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ket dengngegenda"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "dagiti saok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "naimbagda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:36.276905284Z",
+  "model": "glm-5.3"
+}

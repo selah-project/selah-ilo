@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 45:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Ibagayo kenni amak ⟨את⟩ ti amin a daydayawko iti Mitsrayim ken ⟨את⟩ ti amin a nakitayo; paspasiaryo ket iyabyo ⟨את⟩ ni amak ditoy.",
+  "tokens": [
+    {
+      "surface": "והגדתם",
+      "gloss": "Ibagayo"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "kenni amak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a daydayawko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "daydayawko"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti amin a nakitayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nakitayo"
+    },
+    {
+      "surface": "ומהרתם",
+      "gloss": "paspasiaryo"
+    },
+    {
+      "surface": "והורדתם",
+      "gloss": "iyabyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni amak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ditoy"
+    }
+  ],
+  "timestamp": "2026-09-26T03:15:09.590837494Z",
+  "model": "glm-5.3"
+}

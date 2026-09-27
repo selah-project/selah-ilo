@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ken dagiti nasirib agparangda a kas ti silaw ti langit-langit, ken dagiti mangipalinteg kadagiti adu a kas dagiti bituen agingga iti agnanayon ken agnanayon.",
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "ken dagiti nasirib"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "agparangda"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "a kas ti silaw"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ti langit-langit"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "ken dagiti mangipalinteg"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "kadagiti adu"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "a kas dagiti bituen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agingga iti agnanayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T23:22:10.036705074Z",
+  "model": "glm-5.3"
+}

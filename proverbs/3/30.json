@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Saanmo a makibaka iti tao nga awan gapuna, no saan pay a nangaramid iti dakes kenka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "makibaka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ngaan awan gapuna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "nangaramid kenka"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "iti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:54.322720857Z",
+  "model": "glm-5.3"
+}

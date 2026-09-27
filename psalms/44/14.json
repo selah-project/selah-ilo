@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Ikabilannakami a kinaidda dagiti kaarrubatanayo, a panggegap ken panangdadael kadagiti aglikmut kadakami.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Ikabilannakami"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "a kinaidda"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "dagiti kaarrubatanayo"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "a panggegap"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "ken panangdadael"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "kadagiti aglikmut kadakami"
+    }
+  ],
+  "timestamp": "2026-09-26T21:20:07.285185990Z",
+  "model": "glm-5.3"
+}

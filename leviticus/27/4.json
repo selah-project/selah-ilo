@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "No babai daytoy, ti pategmo ket tallopulo a shekel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "babai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ti pategmo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tallopulo"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "a shekel"
+    }
+  ],
+  "timestamp": "2026-09-26T05:59:38.535333275Z",
+  "model": "glm-5.3"
+}

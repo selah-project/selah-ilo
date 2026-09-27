@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 2:23",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket kinunana kadaakuanda: Apay a aramidenyo dagitoy a banag, ta siak agdengngegak ⟨את⟩ dagiti saoyo a dakes manipud ⟨את⟩ iti amin a dagitoy a tattao?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadaakuanda"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "aramidenyo"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "kadagiti banag"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "agdengngegak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti saoyo"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "dagiti saoyo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ⟨את⟩",
+      "marks": "iti amin a tattao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T10:25:47.613704181Z",
+  "model": "glm-5.3"
+}

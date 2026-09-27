@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ta saanak nga agnanaed iti balay manipud iti aldaw a nangiyakarko ⟨את⟩ ti Yisrael agingga iti daytoy nga aldaw, ket nagbalinak manipud iti tolda agingga iti tolda ken manipud iti Mishkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "היום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "nangiyakarko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ket nagbalinak"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "manipud iti tolda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "ken manipud iti Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:00.365328031Z",
+  "model": "glm-5.3"
+}

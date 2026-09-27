@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Intakder ni Yaakov ket inyegna ⟨את⟩ dagiti annakna ken ⟨את⟩ dagiti asawana kadagiti kamelio.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "intakder"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "inyegna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti annakna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti asawana"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "dagiti asawana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kamelio"
+    }
+  ],
+  "timestamp": "2026-09-26T02:37:44.435028672Z",
+  "model": "glm-5.3"
+}

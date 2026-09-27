@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Kinuna ni Moshe kadagiti tao: Lagipem daytoy nga aldaw a nangruarkayo iti Mitsrayim, iti balay dagiti adipen, ta iti napigsa nga ima ni Yahweh dimmuar kanyo ⟨אתכם⟩ manipud iti daytoy, ket saan a makan ti naisagana a nadanog.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "lagipem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy nga aldaw"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "nangruarkayo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "dagiti adipen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "iti napigsa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ima"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "dimmuar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ kanyo",
+      "marks": "kanyo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "manipud iti daytoy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan a"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ti naisagana a nadanog"
+    }
+  ],
+  "timestamp": "2026-09-26T03:51:11.792432239Z",
+  "model": "glm-5.3"
+}

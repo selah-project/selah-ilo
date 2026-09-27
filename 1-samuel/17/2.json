@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ken ni Shaul ken dagiti lalaki ti Yisrael naurnongda, ket nagkampo da iti tanap ti Elah, ket inda naisaad ti gubat a sumangpet kadagiti Pelishtio.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "ken ni Shaul"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ken dagiti lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "naurnongda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ket nagkampo da"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "iti tanap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ti Elah"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ket inda naisaad"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "a sumangpet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "kadagiti Pelishtio"
+    }
+  ],
+  "timestamp": "2026-09-26T10:54:37.486783265Z",
+  "model": "glm-5.3"
+}

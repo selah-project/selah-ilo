@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 99,
+  "translation": "Dakkel ni Yahweh iti Tsiyon, ken nangato ⟨isuna⟩ iti amin dagiti umili.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "iti Tsiyon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "Dakkel"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ken nangato"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dagiti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:26.281418832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 53,
+  "translation": "Naitedona ⟨את⟩ dagiti dakes ti tandirana, ken ⟨את⟩ ti baknang iti ipupusayna; ta awan rupidaw nga inaramidna, ket awan pandaray iti ngiwatna.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "naitedona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dakes"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ti tandirana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti baknang"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ti baknang"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "iti ipupusayna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "rupidaw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "pandaray"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "iti ngiwatna"
+    }
+  ],
+  "timestamp": "2026-09-26T15:50:21.820270149Z",
+  "model": "glm-5.3"
+}

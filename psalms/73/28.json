@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 73:28",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Ngem siak, ti kaasidegan ni Elohim ⟨is⟩ ti nasayaat kaniak; inyurongko kenni Adonay Yahweh ti pagliwliwak, ⟨tapno⟩ ibagak amin dagiti aramidmo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngem siak"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "ti kaasidegan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ti nasayaat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iniyurongko"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "kenni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ti pagliwliwak"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "tapno ibagak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מלאכותיך",
+      "gloss": "dagiti aramidmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:48:22.962215858Z",
+  "model": "glm-5.3"
+}

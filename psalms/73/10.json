@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Gapu kanya, agsubli ti umilina kaditoy, ket danum ti napno a koppa ti maul-ulanda para kaniada.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "gapu kanya"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "kaditoy"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ket danum"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ti napno"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "maul-ulanda"
+    },
+    {
+      "surface": "למו",
+      "gloss": "para kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:47:42.916982986Z",
+  "model": "glm-5.3"
+}

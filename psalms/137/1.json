@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 137,
+  "translation": "Iti igid dagiti karayan ti Bavel, sadiay nagnaedkami, sigud nga agsangitkami, idi lagipenmi ⟨את⟩ ti Tzion.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "iti igid"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ti Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "nagnaedkami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sigud"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "agsangitkami"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "idi lagipenmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Tzion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:48.567699434Z",
+  "model": "glm-5.3"
+}

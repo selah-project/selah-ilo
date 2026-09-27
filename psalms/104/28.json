@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Itedmo kaniada, agalaenda; lukatam ti imam, mapnuanda iti nasayaat.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "agalaenda"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "lukatam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "mapnuanda"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iti nasayaat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:40.765183739Z",
+  "model": "glm-5.3"
+}

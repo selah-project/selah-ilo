@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ilayon ⟨את⟩ ti ulo dagiti anak a lalaki ni Kehat manipud iti uneg dagiti anak a lalaki ni Levi, segun kadagiti pamilia da, segun kadagiti balay dagiti amada:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Ilayon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulo dagiti anak a lalaki ni Kehat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "manipud iti uneg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segun kadagiti pamilia da"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "segun kadagiti balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dagiti amada"
+    }
+  ],
+  "timestamp": "2026-09-26T06:07:46.248239716Z",
+  "model": "glm-5.3"
+}

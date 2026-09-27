@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti bilangda, iti tribu ni Shimon: siam ken limapulo a ribu ken tallo a gasut.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Ti bilangda"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "iti tribu"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "siam"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ken limapulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ken tallo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    }
+  ],
+  "timestamp": "2026-09-26T05:58:32.267640018Z",
+  "model": "glm-5.3"
+}

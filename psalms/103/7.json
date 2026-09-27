@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Nakaasi ken nakappia ni Yahweh, nabuntog a makaruta ken adu ti hesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Nakaasi"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ken nakappia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "nabuntog a"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "makaruta"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ken adu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ti hesed"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:47.492615567Z",
+  "model": "glm-5.3"
+}

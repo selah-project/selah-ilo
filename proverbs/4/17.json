@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ta ti tinapay ti dakes ti kanenda, ket ti lana ti panagdadael ti inuminenda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "kanenda"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ket ti lana"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ti panagdadael"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ti inuminenda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:32.506553335Z",
+  "model": "glm-5.3"
+}

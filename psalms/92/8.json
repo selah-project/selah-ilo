@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "No agsibsibaw dagiti dakes a kas ti ruot, ken no agsibngawanda amin dagiti agaramid ti dakes — maidda nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "iti panagsibsibaw"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ti ruot"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ken agsibngawanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dagiti agaramid"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "maidda"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:00.299867329Z",
+  "model": "glm-5.3"
+}

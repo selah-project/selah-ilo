@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 15:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken kinuna kaniak: Agalaakanto kaniak ti baka a babai a tallo a tawen, ken ti kalding a babai a tallo a tawen, ken ti karnero a tallo a tawen, ken ti turtola, ken ti ubing a salampingaw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ken kinuna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "קחה",
+      "gloss": "agalaakanto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "baka a babai"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "tallo a tawen"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ken ti kalding a babai"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "tallo a tawen"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ken ti karnero"
+    },
+    {
+      "surface": "משלש",
+      "gloss": "tallo a tawen"
+    },
+    {
+      "surface": "ותר",
+      "gloss": "ken ti turtola"
+    },
+    {
+      "surface": "וגוזל",
+      "gloss": "ken ti ubing a salampingaw"
+    }
+  ],
+  "timestamp": "2026-09-26T01:59:57.560950244Z",
+  "model": "glm-5.3"
+}

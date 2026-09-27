@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ti dakes ket aramidenna ti obra ti ubbog; ngem ti agmula iti kinalinteg, ti bayad ket pudno.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ti obra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ti ubbog"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ngem ti agmula"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "iti kinalinteg"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ti bayad"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ket pudno"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:25.154320749Z",
+  "model": "glm-5.3"
+}

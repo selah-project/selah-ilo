@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Nakita, ket immatakder ken nagna para iti kararua-na, ket simmangpet iti Beer-Sheba, a tagikua ni Yehudah, ket pinanawanna ⟨את⟩ adipenna sadiay.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Nakita"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ket immatakder"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ken nagna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "para iti"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kararua-na"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ket simmangpet"
+    },
+    {
+      "surface": "באר",
+      "gloss": "iti Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "tagikua ni Yehudah"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ket pinanawanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adipenna"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "adipenna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T13:12:05.659233306Z",
+  "model": "glm-5.3"
+}

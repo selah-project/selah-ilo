@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "Ni Yahweh, ammo na dagiti kapanunotan ti tao, a dagitoy ket ⟨awan iti linaon⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo na"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "dagiti kapanunotan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "awan iti linaon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:22.639507335Z",
+  "model": "glm-5.3"
+}

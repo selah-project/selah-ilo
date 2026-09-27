@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Kas ti naliblib a billit, kas ti agtayab a pasyaku, kasta ti sumpa nga awan gapuna saan nga umay.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "Kas ti billit"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "a naliblib"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "kas ti pasyaku"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "a agtayab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "ti sumpa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga awan gapuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "nga umay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:44:02.606554462Z",
+  "model": "glm-5.3"
+}

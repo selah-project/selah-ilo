@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Kinuna ni Yaakov: Elohim ni amak ni Avraham, ken Elohim ni amak ni Yitschak, Yahweh, ti nagsao kaniak: Agsublika iti dagam ken iti kaipapasngayanmo, ket aramidenko ti naimbas kaniak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ni amak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ken Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ni amak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ti nagsao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "iti dagam"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ken iti kaipapasngayanmo"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "aramidenko ti naimbas"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:41:08.970700020Z",
+  "model": "glm-5.3"
+}

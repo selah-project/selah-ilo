@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Nangaruarda ken nagdakesda dagiti sudsodak gapu iti kaaw-awanko.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "nangaruarda"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "nagdakesda"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "dagiti sudsodak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "kaaw-awanko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:14:08.262019426Z",
+  "model": "glm-5.3"
+}

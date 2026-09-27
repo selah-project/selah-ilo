@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 96,
+  "translation": "Itedkayo kenni Yahweh, dagiti pamilia dagiti umili; itedkayo kenni Yahweh ti daydayaw ken ti bileg.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Itedkayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "dagiti pamilia"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "itedkayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ken ti bileg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:37.874359364Z",
+  "model": "glm-5.3"
+}

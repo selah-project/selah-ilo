@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": "Idi inabaknana ti ⟨את⟩ Aram Naharayim ken ⟨את⟩ ti Aram Tsova, ket agsubli ni Yoab ket intigna ti ⟨את⟩ Edom iti tanap ti asin — sangapulo ket dua a ribu.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "idi inabaknana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram Naharayim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Aram Tsova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ket agsubli"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ket intigna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "iti tanap"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ti asin"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-09-26T21:36:07.284918354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 33:22",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ta si Yahweh ti agukom kadakami, si Yahweh ti agbilin ti linteg kadakami, si Yahweh ti arikadakami; isu ti isalakannakami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "שפטנו",
+      "gloss": "ti agukom kadakami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מחקקנו",
+      "gloss": "ti agbilin ti linteg kadakami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ti arikadakami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "ti isalakannakami"
+    }
+  ],
+  "timestamp": "2026-09-26T15:05:09.238878929Z",
+  "model": "glm-5.3"
+}

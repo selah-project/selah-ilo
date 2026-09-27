@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ket ti apit ti panaginnaon ti daga ket pagkaanan kadakayo — kaniak, ken iti adipenmo, ken iti babbai nga adipenmo, ken iti singirmon, ken iti gangannaetmo a agattaeng kenka.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "panaginnaon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "a pakakan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "ken iti adipenmo"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "ken iti babbai nga adipenmo"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "ken iti singirmon"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "ken iti gangannaetmo a ngaagaed"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "agattaeng"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T05:50:51.105527864Z",
+  "model": "glm-5.3"
+}

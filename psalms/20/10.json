@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Yahweh, isalakannam ⟨את⟩ ti ari; agsungbatannakami iti aldaw a diawagantayo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "isalakannam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "agsungbatannakami"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "a diawagantayo"
+    }
+  ],
+  "timestamp": "2026-09-26T20:54:15.054533621Z",
+  "model": "glm-5.3"
+}

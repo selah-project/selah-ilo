@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Adu dagiti rigat ti nalinteg, ngem ni Yahweh isalakannana manipud kadagiti amin dagitoy.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Adu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "dagiti rigat"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "ngem manipud kadagiti amin dagitoy"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "isalakannana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:02.657431201Z",
+  "model": "glm-5.3"
+}

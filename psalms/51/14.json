@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Isublimo kaniak ti ragsak ti panangisalakanmo, ken ti espiritu a naisagana suportannak.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Isublimo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ti ragsak"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ti panangisalakanmo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ken ti espiritu"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "a naisagana"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "suportannak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:26:43.341212623Z",
+  "model": "glm-5.3"
+}

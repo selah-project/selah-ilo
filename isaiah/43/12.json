@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Siak ti nangibaga, nangisalakan, ken nagpaay a madengngeg, ket awan sabsabali a dios kadakayo; ket dakayo dagiti saksik, ti inkuna ni Yahweh, ken siak ti El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ti nangibaga"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "nangisalakan"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "ken nagpaay a madengngeg"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sabsabali a dios"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ket dakayo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "dagiti saksik"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ti inkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ken siak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti El"
+    }
+  ],
+  "timestamp": "2026-09-26T15:23:26.100130679Z",
+  "model": "glm-5.3"
+}

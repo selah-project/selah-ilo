@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ni Shuppim ken ni Huppim, dagiti anak ni Ir; ni Hushim, dagiti anak ni Aher.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "Ken ni Shuppim"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ken ni Huppim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ni Ir"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ni Hushim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ni Aher"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:59.065527563Z",
+  "model": "glm-5.3"
+}

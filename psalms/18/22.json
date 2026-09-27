@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ta insalaknibek dagiti dalan ni Yahweh, ket saan a nagdakesak manipud iti Elohimko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "insalaknibek"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dagiti dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "a nagdakesak"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "manipud iti Elohimko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:54:52.164857638Z",
+  "model": "glm-5.3"
+}

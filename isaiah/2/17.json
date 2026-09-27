@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 2:17",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket maidading ti kangato ti tao, ket maibaba ti kinangato dagiti lallaki, ket ni Yahweh laeng ti agnangato iti dayta nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ושח",
+      "gloss": "ket maidading"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "ti kangato"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ket maibaba"
+    },
+    {
+      "surface": "רום",
+      "gloss": "ti kinangato"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "ket agnangato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti ... aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T14:13:53.248833030Z",
+  "model": "glm-5.3"
+}

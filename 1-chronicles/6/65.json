@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ken manipud iti tribo ni Gad ⟨את⟩ Raamot iti Gilead ken ⟨את⟩ dagiti komonal a dagana ken ⟨את⟩ Machanaim ken ⟨את⟩ dagiti komonal a dagana",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ken manipud iti tribo"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "iti Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti komonal a dagana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti komonal a dagana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Machanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti komonal a dagana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti komonal a dagana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:57.279395105Z",
+  "model": "glm-5.3"
+}

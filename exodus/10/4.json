@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ta no maladanka a mangipan ⟨את⟩ ti pagiliwanko a tao, aduyak a mangala iti bigat ti sabsabali nga uleg-langit nga agsibsibog kadagiti beddengmo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "maladanka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "a mangipan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagiliwanko a tao"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti pagiliwanko a tao"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "aduyak"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "a mangala"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ti sabsabali nga uleg-langit nga agsibsibog"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "kadagiti beddengmo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:44:00.792400379Z",
+  "model": "glm-5.3"
+}

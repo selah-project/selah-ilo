@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ni Elihu naguray kenn ⟨את⟩ Iyob iti sao, ta dagiti lakay isuda ngem kenkuana kadagiti tawen.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Ni Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "naguray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenn Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "iti sao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngem kenkuana"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "kadagiti tawen"
+    }
+  ],
+  "timestamp": "2026-09-27T00:03:34.564658978Z",
+  "model": "glm-5.3"
+}

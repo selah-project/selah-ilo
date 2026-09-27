@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 52:14",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Ken ⟨את⟩ amin a didigra ti Yerushalayim iti lawlawna, dinadaelna ti amin a buyot dagiti Kasdi a ⟨את⟩ kadua ni rab-tabachim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a didigra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "didigra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iti lawlawna"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "dinadaelna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "buyot"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "dagiti Kasdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kadua",
+      "marks": "rab-tabachim"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rab"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabachim"
+    }
+  ],
+  "timestamp": "2026-09-26T18:00:06.585661648Z",
+  "model": "glm-5.3"
+}

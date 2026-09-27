@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Nakita dagiti panagnaedmo, Elohim, dagiti panagnaed ti Elko a ti ariko, iti nasantuan a lugar.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "dagiti panagnaedmo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "dagiti panagnaed"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ti Elko"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ti ariko"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti nasantuan a lugar"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:58.028609751Z",
+  "model": "glm-5.3"
+}

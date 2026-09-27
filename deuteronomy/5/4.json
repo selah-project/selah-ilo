@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Rupa iti rupa nagsao ni Yahweh kadakayo idiay bantay, manipud iti tengnga ti apoy.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Rupa"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "iti rupa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "idiay bantay"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "manipud iti tengnga"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T07:45:40.875966309Z",
+  "model": "glm-5.3"
+}

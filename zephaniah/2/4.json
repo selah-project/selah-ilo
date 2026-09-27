@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ta ti Aza ket agbalin a maibbat, ken ti Ashkelon a pagdadaelan; ti Ashdod iti tengnga ti aldaw ibbingda, ken ti Ekron ket maikkat kadagiti ramutna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ti Aza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "a maibbat"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "ken ti Ashkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "a pagdadaelan"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "ti Ashdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "iti tengnga ti aldaw"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "ibbingda"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "ken ti Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "ket maikkat kadagiti ramutna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:14.580313573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Nagsin-nginada kadakuada ⟨ti⟩ bagi ti daga a ballasiwenna; ni Ahab nagna iti maysa a dalan a bukodna, ket ni Ovadyahu nagna iti maysa a dalan a bukodna.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "nagsin-nginada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bagi ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti bagi ti daga"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "a ballasiwenna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti maysa a dalan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "a bukodna"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ket ni Ovadyahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti maysa a dalan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "a bukodna"
+    }
+  ],
+  "timestamp": "2026-09-26T13:02:11.633949334Z",
+  "model": "glm-5.3"
+}

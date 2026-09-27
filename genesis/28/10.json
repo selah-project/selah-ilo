@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Napan ruar ni Yaakov manipud iti Beer-Sheva, ket nagna a mapan iti Kharan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "napan ruar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "manipud iti Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "a mapan iti Kharan"
+    }
+  ],
+  "timestamp": "2026-09-26T02:31:30.826244780Z",
+  "model": "glm-5.3"
+}

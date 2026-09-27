@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ti ari ti Livnah, maysa; ti ari ti Adullam, maysa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ti Livnah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ti Adullam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T09:09:33.243267125Z",
+  "model": "glm-5.3"
+}

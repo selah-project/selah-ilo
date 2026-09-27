@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket ⟨את⟩ ti puoilo binilinanna ni Yehoshua a kunana: saan kayo a sumungaw, ken saan kayo a pagpasingey ⟨את⟩ ti timekyo, ket saan a rumuar ti sao manipud iti ngiwatyo agingga iti aldaw a maibagak kadakayo: Sungawyo — ket sungawayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti puoilo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti puoilo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "binilinanna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "kayo a sumungaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "kayo a pagpasingey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti timekyo"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "ti timekyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a rumuar"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "manipud iti ngiwatyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "a maibagak"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Sungawyo"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "ket sungawayo"
+    }
+  ],
+  "timestamp": "2026-09-26T08:53:44.225978819Z",
+  "model": "glm-5.3"
+}

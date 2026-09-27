@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Laeng iti aldawmo saanko nga aramiden daytoy, gapu kenni Dawid nga amam; manipud iti ima ti anakmo ti pispisenko daytoy.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Laeng"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "iti aldawmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "aramidenko daytoy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gapu kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nga amam"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ti anakmo"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ti pispisenko daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T12:47:21.752844420Z",
+  "model": "glm-5.3"
+}

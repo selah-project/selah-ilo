@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket timmulak ni Khanokh a kadua ⟨ti⟩ ⟨את⟩ Elohim, ket awanen, ta inala ni Elohim ⟨ti⟩ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "Ket timmulak"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ni Khanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ket awanen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "inala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni Khanokh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T01:45:11.899287526Z",
+  "model": "glm-5.3"
+}

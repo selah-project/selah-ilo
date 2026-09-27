@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 16:4",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kinuna ti ari kenni Tsiba, Kitaen, sadiam amin a tagikua ni Mefiboshet. Kinuna ni Tsiba, Nagruknoyak; makabirukak koma iti gracia iti matam, Apok a ari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kenni Tsiba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kitaen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sadiam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "למפי",
+      "gloss": "tagikua ni"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Mefiboshet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "ni Tsiba"
+    },
+    {
+      "surface": "השתחויתי",
+      "gloss": "Nagruknoyak"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "makabirukak koma"
+    },
+    {
+      "surface": "חן",
+      "gloss": "iti gracia"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "iti matam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Apok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a ari"
+    }
+  ],
+  "timestamp": "2026-09-26T11:55:43.632383185Z",
+  "model": "glm-5.3"
+}

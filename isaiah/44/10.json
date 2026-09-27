@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Siasino ti nangiporma iti dios, ken nangipusa iti pagsodi, a awan ti pategna?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "nangiporma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dios"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ken pagsodi"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "nangipusa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "a awan"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "pategna"
+    }
+  ],
+  "timestamp": "2026-09-26T15:35:05.967173088Z",
+  "model": "glm-5.3"
+}

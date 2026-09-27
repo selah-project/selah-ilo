@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ta bigbigenna ti pusoda ti panagdadael, ken agsaoda dagiti ngiwatda ti rigat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ti panagdadael"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "bigbigenna"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ti pusoda"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ken ti rigat"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "dagiti ngiwatda"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "agsaoda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:41:37.193800169Z",
+  "model": "glm-5.3"
+}

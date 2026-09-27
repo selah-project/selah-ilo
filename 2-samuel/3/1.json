@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket ti gubat ket nagbalin a atiddog iti nagbaetan ti balay ni Shaul ken ti balay ni David, ket ni David nagna ken timmangken, ket ti balay ni Shaul nagnada ken napukpukawanda.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "atiddog"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ket ni David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "timmangken"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ket ti balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "nagnada"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "napukpukawanda"
+    }
+  ],
+  "timestamp": "2026-09-26T11:29:01.012041654Z",
+  "model": "glm-5.3"
+}

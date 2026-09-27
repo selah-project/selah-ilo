@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Nangegda ⟨את⟩ ti timek ni Yahweh nga Elohim a gliwliweng iti hardin iti angin ti aldaw, ket nagtagida ti tao ken ti asawana a babai iti sanguan ni Yahweh nga Elohim iti uneg dagiti kayo ti hardin.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nangegda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti timek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nga Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "a gliwliweng"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "iti hardin"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "iti angin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "ket nagtagida"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ken ti asawana a babai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nga Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dagiti kayo"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ti hardin"
+    }
+  ],
+  "timestamp": "2026-09-26T01:41:44.798819217Z",
+  "model": "glm-5.3"
+}

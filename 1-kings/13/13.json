@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Kinunana kadagiti annakna: Ipagsakayan yo ⟨iti⟩ kaniak ti buriko, ket ipagsakayan da kanianna ti buriko, ket sinakayanna daytoy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "annakna"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "ipagsakayan yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ti buriko"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ket ipagsakayan da"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanianna"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ti buriko"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "ket sinakayanna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T12:50:09.906316182Z",
+  "model": "glm-5.3"
+}

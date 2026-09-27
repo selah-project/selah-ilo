@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ta sino iti langit ti makaipada kenni Yahweh? Sino ti makaipada kenni Yahweh kadagiti anak dagiti napigsa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ti makaipada"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "makaipada"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "dagiti napigsa"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:17.798970475Z",
+  "model": "glm-5.3"
+}

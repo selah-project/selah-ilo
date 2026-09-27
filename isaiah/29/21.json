@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 29:21",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Dagiti mangpabasol iti tao babaen ti sao, ken iti mangbasa iti dariwan agipuyotda, ket intyawidda iti bakyad ti nalinteg.",
+  "tokens": [
+    {
+      "surface": "מחטיאי",
+      "gloss": "Dagiti mangpabasol"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "babaen ti sao"
+    },
+    {
+      "surface": "ולמוכיח",
+      "gloss": "ken iti mangbasa"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "iti dariwan"
+    },
+    {
+      "surface": "יקשון",
+      "gloss": "agipuyotda"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ket intyawidda"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "iti bakyad"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T15:06:02.929418241Z",
+  "model": "glm-5.3"
+}

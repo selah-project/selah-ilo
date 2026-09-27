@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ta paset ni Yahweh ⟨ti⟩ tattaona; ni Yaakob ti paset ti tawidna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "paset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tattaona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakob"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "paset"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ti tawidna"
+    }
+  ],
+  "timestamp": "2026-09-26T08:47:15.474571401Z",
+  "model": "glm-5.3"
+}

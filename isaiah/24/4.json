@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Nagemmoy ken nataynen ti daga, nakarierne ken nataynen ti lubong; nakarierne dagiti nangato nga umili iti daga.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Nagemmoy"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ken nataynen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "nakarierne"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ken nataynen"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ti lubong"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "nakarierne"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "dagiti nangato"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nga umili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T14:55:33.126518596Z",
+  "model": "glm-5.3"
+}

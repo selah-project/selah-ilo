@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 61,
+  "translation": "Mangnayonka kadagiti aldaw kadagiti aldaw ti ari; dagiti tawenna a kas kaputotan ken kaputotan.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "kadagiti aldaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kadagiti aldaw"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "mangnayonka"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "dagiti tawenna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kaputotan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ken kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:38:05.969341061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Ta dakkel ti hesedmo kaniak, ket inyalivam ⟨את⟩ ti kararwak manipud iti Sheol, iti nakababaanna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "ket inyalivam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "manipud iti Sheol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "iti nakababaanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:29.194090220Z",
+  "model": "glm-5.3"
+}

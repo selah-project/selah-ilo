@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Nupay kasta, ti tao iti dayaw saan nga agnanaed; naipadpada kadagiti animal a nataydan.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Nupay kasta, ti tao"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "iti dayaw"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "naipadpada"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "kadagiti animal"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "a nataydan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:29.172529150Z",
+  "model": "glm-5.3"
+}

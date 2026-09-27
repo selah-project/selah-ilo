@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken no ti maysa a tao agbasol, ket dengngenna ⟨ti⟩ timek ti sumpa, ken isu ket saksi, no nakita na wenno ammo na, no saan nga ibaga, isu ti mangitulod ⟨iti⟩ basolna.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Ken no ti maysa a tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "agbasol"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "ket dengngenna"
+    },
+    {
+      "surface": "קול",
+      "gloss": "timek"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sumpa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ken isu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ibaga"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mangitulod"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "basolna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:06:49.836445745Z",
+  "model": "glm-5.3"
+}

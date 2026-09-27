@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ket inalak ⟨את⟩ ti libro ti panaglakom, ⟨את⟩ ti naselyuan, ti bilin ken dagiti bilin-mitia, ken ⟨את⟩ ti naipalpalawag.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ket inalak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti libro ti panaglakom"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ti libro"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ti panaglakom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naselyuan"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "ti naselyuan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "ken dagiti bilin-mitia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti naipalpalawag"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "ti naipalpalawag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:09:32.796329922Z",
+  "model": "glm-5.3"
+}

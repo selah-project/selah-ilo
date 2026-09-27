@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 9:26",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ti barko impaaramid ni ari Shelomoh iti Etzion-Geber, a asideg ⟨את⟩ Eilot, iti igid ti Baybay ti Suf, iti daga ti Edom.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ti barko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "impaaramid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ni ari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "iti Etzion"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "-Geber"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "על",
+      "gloss": "asideg"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "igid"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Baybay"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ti Suf"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    }
+  ],
+  "timestamp": "2026-09-26T12:42:15.653583553Z",
+  "model": "glm-5.3"
+}

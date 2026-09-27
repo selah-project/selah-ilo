@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ket aramidendan ⟨את⟩ ti Ephod: balitok, asul ken purpura, eskarlata nga igges ken napino a nabilog a lino — obra ti nalaing.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ket aramidenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Ephod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ti Ephod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ken purpura"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "igges"
+    },
+    {
+      "surface": "שני",
+      "gloss": "eskarlata"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ken lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nabilog"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "obra"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ti nalaing"
+    }
+  ],
+  "timestamp": "2026-09-26T04:21:50.555449701Z",
+  "model": "glm-5.3"
+}

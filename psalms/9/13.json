@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ta ti agbiruk kadagiti dara ket lagipenna ⟨אתם⟩; saan a limmipat iti agsagsagmak ⟨ti anak ti tao a⟩... saan a limmipat iti timek dagiti makapaspasnek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "agbiruk"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kadagiti dara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "lagipenna — ilagipna dagiti nakapatay"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lagipenna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "limmipat"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "dagiti makapaspasnek"
+    }
+  ],
+  "timestamp": "2026-09-26T20:51:16.833722304Z",
+  "model": "glm-5.3"
+}

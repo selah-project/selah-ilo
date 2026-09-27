@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ti danum mapanda manipud iti baybay, ket ti karayan mamaga ken malamed.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "mapanda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baybay"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ket ti karayan"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "mamaga"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ken malamed"
+    }
+  ],
+  "timestamp": "2026-09-26T22:51:42.679210441Z",
+  "model": "glm-5.3"
+}

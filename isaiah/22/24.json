@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 22:24",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ken isabitda kadakuana amin ti daydayaw ti balay ti amana — dagiti kaputotan ken dagiti kaud-udi a kaputotan — amin dagiti bassit a saoan, manipud iti saoan a pinggan agingga kadagiti amin a saoan a burnay.",
+  "tokens": [
+    {
+      "surface": "ותלו",
+      "gloss": "isabitda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "הצאצאים",
+      "gloss": "dagiti kaputotan"
+    },
+    {
+      "surface": "והצפעות",
+      "gloss": "dagiti kaud-udi a kaputotan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "a saoan"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "manipud iti saoan"
+    },
+    {
+      "surface": "האגנות",
+      "gloss": "a pinggan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "a saoan"
+    },
+    {
+      "surface": "הנבלים",
+      "gloss": "a burnay"
+    }
+  ],
+  "timestamp": "2026-09-26T14:55:35.572862906Z",
+  "model": "glm-5.3"
+}

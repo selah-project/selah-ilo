@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Iti penelia ti tao awananda, ken kadagiti tao saanda a matarakan.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "iti penelia"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "awananda"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "a matarakan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:48:03.454649764Z",
+  "model": "glm-5.3"
+}

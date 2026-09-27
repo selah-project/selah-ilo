@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Kinamuan ni Yosef ⟨את⟩ dagiti kabsatna, ngem saanda a kinamuanna.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "kinamuan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kabsatna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dagiti kabsatna"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ngem isuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "a kinamuanna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:10:59.926795400Z",
+  "model": "glm-5.3"
+}

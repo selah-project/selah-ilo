@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Elohim, sika ti ammo mo ti kaawkok, ken dagiti basolko manipud Kenka saan a nalemmeng.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ti ammo mo"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "ti kaawkok"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ken dagiti basolko"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "manipud Kenka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "nalemmeng"
+    }
+  ],
+  "timestamp": "2026-09-26T21:43:57.041820216Z",
+  "model": "glm-5.3"
+}

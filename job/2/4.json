@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Imsungbat ti Satan ⟨את⟩ ni Yahweh, ket kinuna: Kudil no kudil, ket amin a ⟨tagikua⟩ ti lalaki, itedna iti panagsukat ti kararuana.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "imsungbat"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ti Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kudil"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "no"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kudil"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "iti panagsukat ti"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kararuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:48:30.726716339Z",
+  "model": "glm-5.3"
+}

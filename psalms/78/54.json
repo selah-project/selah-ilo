@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket inyegdana ida iti pagbeddengan ti nasantuan a lugarna, iti daytoy a bantay a ginatang ti kanawan nga imana.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "inyegdana ida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "pagbeddengan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ti nasantuan a lugarna"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "ginatang"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ti kanawan nga imana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:15.912109819Z",
+  "model": "glm-5.3"
+}

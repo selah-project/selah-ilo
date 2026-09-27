@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Siasinok ti langit ⟨iti asidegko⟩? Ken iti Kaduam, awan ti kaykayatko iti daga.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iti asidegko"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ken iti Kaduam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ti kaykayatko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:48:22.959292828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket dengngegem iti langit ⟨את⟩ ti kararagda ken ⟨את⟩ ti kiddawda, ket aramidem ti ukomda.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ket dengngegem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kararagda"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ti kararagda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kiddawda"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ti kiddawda"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ket aramidem"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ti ukomda"
+    }
+  ],
+  "timestamp": "2026-09-26T12:40:08.997238215Z",
+  "model": "glm-5.3"
+}

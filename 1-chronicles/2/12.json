@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ni Boaz ket nagputot ⟨את⟩ kenn Oved, kenn Oved ket nagputot ⟨את⟩ kenn Yishay.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Ni Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ket nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenn Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "kenn Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ket nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenn Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:23.497657018Z",
+  "model": "glm-5.3"
+}

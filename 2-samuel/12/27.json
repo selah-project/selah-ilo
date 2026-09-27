@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket intulodna ni Yoav dagiti mensahero kenn David, ket kinunana: Nakilablabanak iti Rabbah, ket nalak-amak met ⟨את⟩ ti ili ti danum.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "intulodna"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "dagiti mensahero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "nakilablabanak"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "iti Rabbah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ket"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "nalak-amak met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ili ti danum"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T11:43:28.359697733Z",
+  "model": "glm-5.3"
+}

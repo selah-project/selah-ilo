@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 35:23",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Dagiti anak ni Lea: ti immuna a anak ni Yaakov, si Reuven, ken Shim'on, ken Levi, ken Yehudah, ken Yissakhar, ken Zevulun.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ti immuna a anak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "si Reuven"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "ken Shim'on"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "ken Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ken Yehudah"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "ken Yissakhar"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "ken Zevulun"
+    }
+  ],
+  "timestamp": "2026-09-26T02:44:29.367687979Z",
+  "model": "glm-5.3"
+}

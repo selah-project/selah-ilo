@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ta ibagak ti kinabasolko, ken agur-urayak a manggep iti basolko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ti kinabasolko"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ibagak"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "agur-urayak"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "a manggep iti basolko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:14:44.744085199Z",
+  "model": "glm-5.3"
+}

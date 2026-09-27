@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Sigurado a dagiti nalinteg agyamanda iti nagam, ket dagiti natakneng agnanaedda ⟨את⟩ ti rupam.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sigurado a"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "agyamanda"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "iti nagam"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "agnanaedda"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dagiti natakneng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupam"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:59.116356264Z",
+  "model": "glm-5.3"
+}

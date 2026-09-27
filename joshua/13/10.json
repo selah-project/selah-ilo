@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 13:10",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ken amin dagiti ili ni Sihon, ari dagiti Amorreo, a nangituray iti Heshbon, agingga iti pagbeddengan dagiti anak ni Amon;",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "ni Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "dagiti Amorreo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "iti Heshbon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "iti pagbeddengan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Amon"
+    }
+  ],
+  "timestamp": "2026-09-26T09:10:51.941250986Z",
+  "model": "glm-5.3"
+}

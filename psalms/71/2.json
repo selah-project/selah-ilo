@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Iti kinalintegmo luasannak ken paluarenak; iyakkordam kaniak ti tengngam ket isalakannak.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "iti kinalintegmo"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "luasannak"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "ken paluarenak"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "iyakkordam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ti tengngam"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "ket isalakannak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:21.746739009Z",
+  "model": "glm-5.3"
+}

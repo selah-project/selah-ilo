@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Kinkinada kakuana: Mennamat ti nennematanmi, ngem awan ⟨את⟩ ti mamatmatrus. Ket kinuna kaniada ni Yosef: Saan a kadi iti Elohim dagiti pammatarus? Ibaga yo kaniak, pangngaasi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kinkinada"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kakuana"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "mennamat"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "ti nennematanmi"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "ken ti agipatarus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti mamatmatrus"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Saan a kadi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "dagiti pammatarus"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "Ibaga yo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pangngaasi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:55:27.213837301Z",
+  "model": "glm-5.3"
+}

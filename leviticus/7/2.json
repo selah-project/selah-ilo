@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Iti disso a patayenda ti ⟨את⟩ natuded a daton, patayendanto ti ⟨את⟩ asham, ken ⟨את⟩ ti darana ibisbisna iti ngato ti altar iti lawlawna.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Iti disso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "patayenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti natuded a daton"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natuded a daton"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "patayendanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ti asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti darana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ti darana"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ibisbisna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iti lawlawna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:11.202086305Z",
+  "model": "glm-5.3"
+}

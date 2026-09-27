@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 79,
+  "translation": "Ken isublimo kadagiti kaarrubatayo, pito a daras iti sangoanda, ti insultoda a binabainandaka, Adonay.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Ken isublimo"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kadagiti kaarrubatayo"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "pito a daras"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "sangoanda"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ti insultoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "binabainandaka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:31.470353917Z",
+  "model": "glm-5.3"
+}

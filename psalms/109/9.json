@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Adda koma dagiti anakna a naulila, ken ti asawana a balo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "adda koma"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "naulila"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ken ti asawana"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "balo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:59.719272785Z",
+  "model": "glm-5.3"
+}

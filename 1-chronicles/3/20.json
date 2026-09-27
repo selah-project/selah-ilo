@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ken ni Hashubah ken ni Ohel ken ni Berekhyah ken ni Hasadyah, ni Yushab-Hesed — lima.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "ken ni Hashubah"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ken ni Ohel"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "ken ni Berekhyah"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "ken ni Hasadyah"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ni Yushab"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:48.958567984Z",
+  "model": "glm-5.3"
+}

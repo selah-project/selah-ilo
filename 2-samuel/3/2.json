@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket nakaiputotan ni David iti anak a lalaki babaen kenkuana idi Chebron, ket ti immuna a naipasngayna ket ni Amnon, nga anak ni Ajjinoam ti taga-Yizreel.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "nakaiputotan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "iti anak a lalaki"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "idi Chebron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ti immuna a naipasngayna"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "ni Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "ni Ajjinoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "taga-Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-26T11:29:01.012288773Z",
+  "model": "glm-5.3"
+}

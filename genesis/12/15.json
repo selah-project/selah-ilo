@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Nakita dagiti kadakkelan ni Paro ⟨את⟩ isuna ket indaydayawda isuna kanayon ni Paro, ket naala ti babai ⟨iti⟩ balay ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dagiti kadakkelan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "indaydayawda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kanayon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "naala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T01:54:11.724675430Z",
+  "model": "glm-5.3"
+}

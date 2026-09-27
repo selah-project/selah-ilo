@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ikabilem ti ⟨את⟩ Kapporet iti ngato ti Aron, manipud iti ngatona, ken iti uneg ti Aron ikabilem ti ⟨את⟩ saksi a itedko kenka.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ikabilem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "manipud iti ngatona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti uneg"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ikabilem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saksi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T04:18:26.780415030Z",
+  "model": "glm-5.3"
+}

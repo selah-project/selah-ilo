@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Bendisionam, kararuak, ni ⟨את⟩ Yahweh; Yahweh, Elohimko, adu ka a nangato; daydayaw ken kalumbrebinam a banda.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Bendisionam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kararuak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "ka a nangato"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "adu"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "daydayaw"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ken kalumbrebinam"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "banda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:50.681118883Z",
+  "model": "glm-5.3"
+}

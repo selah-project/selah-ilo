@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Kinuna ni Moshe ⟨את⟩ dagiti takderan a tiempo ni Yahweh kadagiti anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti takderan a tiempo ni Yahweh"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "dagiti takderan a tiempo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T05:54:09.871301540Z",
+  "model": "glm-5.3"
+}

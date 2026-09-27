@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Napasamak ti sao ni Yahweh kenni Yonah, anak ni Amitay, a kunkuna:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amitay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:04:56.600976653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Insaruno ni Avyatar kenni David a pinatay ni Shaul ⟨את⟩ dagiti padi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Insaruno"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ni Avyatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kenni David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pinatay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti padi"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T11:05:57.929907313Z",
+  "model": "glm-5.3"
+}

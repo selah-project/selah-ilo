@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Saanmo nga ited ti turog kadagiti matam, ken ti kanito a turog kadagiti belo ti matam;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saanmo nga"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ited"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ti turog"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "kadagiti matam"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ken ti kanito a turog"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "kadagiti belo ti matam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:18.604820345Z",
+  "model": "glm-5.3"
+}

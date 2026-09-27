@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken nakitamam ⟨את⟩ ti panagdusa dagiti ammatayo iti Mitsrayim, ket ⟨את⟩ ti rangrang-oyda nangngegmo iti sango ti Baybay ti Suf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nakitamam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagdusa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "panagdusa"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "dagiti ammatayo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti rangrang-oyda"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "rangrang-oyda"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nangngegmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baybay"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-09-26T23:29:36.414105285Z",
+  "model": "glm-5.3"
+}

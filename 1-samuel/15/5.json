@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Dimmawat ni Shaul agingga iti ili ti Amalek, ket naglemmeng iti wadi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Dimmawat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "naglemmeng"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "iti wadi"
+    }
+  ],
+  "timestamp": "2026-09-26T10:52:26.265614491Z",
+  "model": "glm-5.3"
+}

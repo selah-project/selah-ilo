@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket dagiti aldaw ni Adam kalpasan idi nakaiputingna ⟨את⟩ ni Shet ket walo a gasut a tawen, ken nakaiputingna dagiti anak a lalaki ken dagiti anak a babai.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ket nagbalin a dagiti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan idi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nakaiputingna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ni Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ken nakaiputingna"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ken dagiti anak a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:51.129153116Z",
+  "model": "glm-5.3"
+}

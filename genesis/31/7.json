@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket ti amamyo dinayaannak, ket binalbaliwna ⟨את⟩ ti sokok sangapulo a daras; ngem ti Elohim saan a pinalubosanna nga agdadael kaniak.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "ket ti amamyo"
+    },
+    {
+      "surface": "התל",
+      "gloss": "dinayaannak"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "ket binalbaliwna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sokok"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "ti sokok"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "a daras"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "pinalubosanna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "agdadael"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:10.227225541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 16:33",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kinua ni Ahab nga aramidenna ⟨את⟩ ti Asherah, ket nanginayon ni Ahab nga agaramid iti panangriribok kennio ⟨את⟩ Yahweh, ti Elohim ti Yisrael, ngem amin dagiti ari ti Yisrael a nagnaed sakbay niakuana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Asherah"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ti Asherah"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "nanginayon"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga agaramid"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "panangriribok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngem amin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sakbay niakuana"
+    }
+  ],
+  "timestamp": "2026-09-26T12:54:37.198774248Z",
+  "model": "glm-5.3"
+}

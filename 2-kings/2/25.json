@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket nagna manipud idiay ⟨iti⟩ bantay ti Karmel, ket manipud idiay nagsubli ⟨iti⟩ Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ket nagna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "manipud idiay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨iti⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ti Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ket manipud idiay"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "⟨iti⟩ Shomron"
+    }
+  ],
+  "timestamp": "2026-09-26T13:12:29.190055622Z",
+  "model": "glm-5.3"
+}

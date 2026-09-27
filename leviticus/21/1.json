@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Kinuna ni Yahweh kenni Moshe: ibagam kadagiti padi, dagiti anak ni Aharon, ket ibagam kaniada: iti kararua ⟨iti natay⟩ saan a mamarugit iti umilina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "padi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ket ibagam"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "iti kararua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mamarugit"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "iti umilina"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:53.766705146Z",
+  "model": "glm-5.3"
+}

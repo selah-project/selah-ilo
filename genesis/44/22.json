@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Kinkuna ken ni apoak: saan a makabael ti ubing nga agbati ⟨את⟩ ti amana, ket no agbatinna ⟨את⟩ ti amana, ket matay.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "kinkuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apoak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makabael"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ti ubing"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "nga agbati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ket no agbatinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ket matay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:07:03.078692038Z",
+  "model": "glm-5.3"
+}

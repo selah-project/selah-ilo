@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "ket nagsao ni Shaul kenni Yonatan nga anakna ken kadagiti amin nga adipenna a patayenda ⟨את⟩ ni David; ngem ni Yonatan nga anak ni Shaul ket naay-ayat unkel kenni David.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "nga adipenna"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "a patayenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ngem ni Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "naay-ayat"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "kenni David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unkel"
+    }
+  ],
+  "timestamp": "2026-09-26T11:02:29.751991585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Nadadael ti talon, agsangit ti daga, ta nadadael ti bagas, namaga ti baro a bino, agsakit ti lana.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "nadadael"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "agsangit"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "nadadael"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ti bagas"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "namaga"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "ti baro a bino"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "agsakit"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ti lana"
+    }
+  ],
+  "timestamp": "2026-09-26T19:43:45.860347203Z",
+  "model": "glm-5.3"
+}

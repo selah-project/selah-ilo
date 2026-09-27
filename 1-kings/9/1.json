@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Idi napasamak, nalpas ni Shelomoh nga ipagpatakder ⟨ti⟩ ⟨את⟩ balay ni Yahweh ken ⟨ti⟩ ⟨את⟩ balay ti ari, ken ⟨ti⟩ ⟨את⟩ amin a kaykayat ni Shelomoh a kayatna nga aramiden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "idi nalpas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "nga ipagpatakder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "balay ti ari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kaykayat ni Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "a kaykayat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    }
+  ],
+  "timestamp": "2026-09-26T12:42:14.701203185Z",
+  "model": "glm-5.3"
+}

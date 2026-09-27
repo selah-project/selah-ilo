@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Siak ti mapan iti dalan ti amin a daga: umka a napigsa, ken agbalin a lalaki.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mapan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "umka a napigsa"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "a lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T12:24:45.874576971Z",
+  "model": "glm-5.3"
+}

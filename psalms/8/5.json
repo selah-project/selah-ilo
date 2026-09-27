@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ania ti tao, a lagipenmo? ken ti anak ti tao, a bisitaanna?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "lagipenmo"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ken ti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "bisitaanna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:27.060807891Z",
+  "model": "glm-5.3"
+}

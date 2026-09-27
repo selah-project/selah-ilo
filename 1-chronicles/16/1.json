@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket inayonda ⟨את⟩ ti arko ti Elohim, ken ipinakanda ⟨אתו⟩ iti uneg ti tolda a sinaganan ni David kenkuana; ket iparuarda dagiti natuded a daton ken dagiti daton ti kappia iti sangoan ti Elohim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "inayonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko ti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ipinakanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iti uneg ti tolda"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti tolda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "sinaganan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "iparuarda"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dagiti natuded a daton"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "dagiti daton ti kappia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:12.624079872Z",
+  "model": "glm-5.3"
+}

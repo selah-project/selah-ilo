@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket kinunana: Maysa a bassit a dawat ti dawatkadagim ⟨את⟩; saanmo nga isubli ⟨את⟩ ti rupak. Ket kinuna ti ari kanianna: Dawatam, inak, ta saankon nga isubli ⟨את⟩ ti rupaam.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "dawat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "dawatko"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kadagim ⟨את⟩",
+      "marks": "ti maysa a bassit a dawat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "isubli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kanianna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "dawatam"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "inak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saankon"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "isubli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupaam"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rupaam"
+    }
+  ],
+  "timestamp": "2026-09-26T12:23:50.011457162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket salaknibanyo ⟨את⟩ amin a kasasaadko ken ⟨את⟩ amin a bilinko, ket aramidennyo ⟨את⟩ dagitoy, ket ti daga, a pakaidaydayoak kanyo sadiay a pagtaenganyo, saan koma a mangisuka kanyo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "salaknibanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a kasasaadko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "a kasasaadko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a bilinko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "a bilinko"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ket aramidennyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "mangisuka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kanyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "pakaidaydayoak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kanyo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "a pagtaengan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "-nyo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:48:09.803919606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket immay a nasapa ni Yehoshua iti bigat, ken inala dagiti padi ⟨ti⟩ arko ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "immay a nasapa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "inala"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T08:53:44.229447774Z",
+  "model": "glm-5.3"
+}

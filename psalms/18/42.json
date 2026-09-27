@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Agsanganda ngem awan mangisalakan, ken ni Yahweh, ngem saanna a dinungngeda.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Agsanganda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngem awan"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mangisalakan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saanna"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "a dinungngeda"
+    }
+  ],
+  "timestamp": "2026-09-26T20:56:13.469006924Z",
+  "model": "glm-5.3"
+}

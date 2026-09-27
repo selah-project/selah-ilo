@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "ket naginnarda kadagiti toldada, ken saanda a nangngeg iti timek ni Yahweh",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "ket naginnarda"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "kadagiti toldada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "a nangngeg"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:07.024917370Z",
+  "model": "glm-5.3"
+}

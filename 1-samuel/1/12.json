@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket napasamak, idi immad-un ti panagkararagna iti sanguanan ni Yahweh, a binantayan ni Eli ⟨את⟩ ti ngiwatna.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "immad-un"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "ti panagkararagna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ket ni Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "binantayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ngiwatna"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ti ngiwatna"
+    }
+  ],
+  "timestamp": "2026-09-26T10:22:28.932072736Z",
+  "model": "glm-5.3"
+}

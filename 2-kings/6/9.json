@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Immula ti tao ti Elohim iti ari ti Yisrael, a kuna: Agsalaknibka a saanka agballasiw iti daytoy a lugar, ta sadiay ti Aram nga agbaba.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "immula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "agsalaknibka"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "agballasiw"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "iti lugar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "nga agbaba"
+    }
+  ],
+  "timestamp": "2026-09-26T13:28:12.888512077Z",
+  "model": "glm-5.3"
+}

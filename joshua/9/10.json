@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ⟨את⟩ amin nga inaramidna kadagiti dua nga ari dagiti Emori nga adda iti labes ti Yarden — kenni Sihon, ari ti Kheshbon, ken kenni Og, ari ti Bashan, nga adda iti Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kadagiti dua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "dagiti Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "iti labes"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "kenni Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ti Kheshbon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ken kenni Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ti Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "iti Ashtarot"
+    }
+  ],
+  "timestamp": "2026-09-26T09:00:02.030198546Z",
+  "model": "glm-5.3"
+}

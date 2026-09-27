@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 34:16",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "ket agsublikayo ket dinaegyo ti naganko, ket inawidyo ti tunggal lalaki ⟨את⟩ ti adipenna ken ti tunggal lalaki ⟨את⟩ ti adipenna a babai, a nangibulosyo a naway no kasapulananda, ket dinaegyo ⟨אתם⟩ ida nga agbalin kadakayo a dagiti adipen ken dagiti adipen a babai.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "ket agsublikayo"
+    },
+    {
+      "surface": "ותחללו",
+      "gloss": "ket dinaegyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganko"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "naganko"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ket inawidyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipenna"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "adipenna"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti tunggal lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipenna a babai"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "adipenna a babai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "nangibulosyo"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "a naway"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "no kasapulananda"
+    },
+    {
+      "surface": "ותכבשו",
+      "gloss": "ket dinaegyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "nga agbalin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "a dagiti adipen"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "ken dagiti adipen a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T17:22:32.235491981Z",
+  "model": "glm-5.3"
+}

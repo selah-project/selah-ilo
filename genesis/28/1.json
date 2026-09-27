@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ket inawaganna ni Yitskhak ni Yaakov, ket binendisionanna ⟨את⟩ isuna, ket bilinanna, ket kinunana keni isuna: saanmo a alaen ti asawa manipud kadagiti anakababai ti Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "keni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "bilinanna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "keni isuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alaen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "manipud kadagiti anakababai"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:33.591995115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Ta naipukaw a kas iti aso dagiti aldawko, ken dagiti tulangko a kas iti dalikan napuordan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "naipukaw"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "iti aso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldawko"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "ken dagiti tulangko"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "קד",
+      "gloss": "dalikan"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "napuordan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:24.213453004Z",
+  "model": "glm-5.3"
+}

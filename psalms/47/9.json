@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Nagturay ti Elohim kadagiti umili, ti Elohim nagtugaw iti trono ti kinasantuanna.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Nagturay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "umili"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagtugaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ti kinasantuanna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:20:26.982476511Z",
+  "model": "glm-5.3"
+}

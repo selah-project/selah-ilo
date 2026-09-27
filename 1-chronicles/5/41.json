@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken ni Yehotsadak napan a naaddun idi panawen ti panagpalpalibus ni Yahweh ⟨את⟩ ni Yehudah ken ⟨את⟩ Yerushalayim, babaen ti ima ni Nevukadnetstsar.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Ken ni Yehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "napan"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "a naaddun idi panawen ti panagpalpalibus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ken Yerushalayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen ti ima"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "ni Nevukadnetstsar"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:43.780116792Z",
+  "model": "glm-5.3"
+}

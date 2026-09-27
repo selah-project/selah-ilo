@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ken ⟨את⟩ ti Negev, ken ⟨את⟩ ti daga — ti tanap ti Yericho, ti ili dagiti palma — agingga iti Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ti Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "tanap"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ti Yericho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "dagiti palma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "צער",
+      "gloss": "iti Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-26T22:01:21.513129875Z",
+  "model": "glm-5.3"
+}

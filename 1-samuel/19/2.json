@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "ket imbaga ni Yehonatan kenni David a kuna: agbiruk ni Shaul nga amak a patayennaka; ket ita nga aldaw aginana koma, agsalaknibka iti bigat, ket agnaedka iti lemmengan a disso ket aglemmengka.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "imbaga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kenni David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "agbiruk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nga amak"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "a patayennaka"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ket ita"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "agsalaknibka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ket agnaedka"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "iti lemmengan a disso"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "ket aglemmengka"
+    }
+  ],
+  "timestamp": "2026-09-26T11:02:29.752248482Z",
+  "model": "glm-5.3"
+}

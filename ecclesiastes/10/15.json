@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti aramid dagiti bael ket maannakanda, ta saan da nga ammo ti panagnaed a mapan iti ili.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "dagiti bael"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "maannakanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "panagnaed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mapan iti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ili"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:03.364883294Z",
+  "model": "glm-5.3"
+}

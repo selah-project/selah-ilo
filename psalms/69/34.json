@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Ta dengnguen ni Yahweh dagiti makarigrigat, ken ⟨את⟩ dagiti naibalbaliwdana saananna a bigbigan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengnguen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨iti⟩"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "dagiti makarigrigat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti naibalbaliwdana"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "dagiti naibalbaliwdana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saananna"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "a bigbigan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:43:26.302552585Z",
+  "model": "glm-5.3"
+}

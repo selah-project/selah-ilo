@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 16:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ta dagiti talon ti Heshbon ket nagkapsut, ken ti mula ti ubbas ti Sibmah; dinadaelda dagiti apo dagiti pagilian ⟨את⟩ dagiti nasayaat a sulpokna; agingga iti Yaezer nakadanonda, nadaawda idiay liwaliwa; dagiti sulpokna ket naipwarasda, nagballasiwda ti baybay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שדמות",
+      "gloss": "dagiti talon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ti Heshbon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "nagkapsut"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ti mula ti ubbas"
+    },
+    {
+      "surface": "שבמה",
+      "gloss": "ti Sibmah"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "dagiti apo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "הלמו",
+      "gloss": "dinadaelda"
+    },
+    {
+      "surface": "שרוקיה",
+      "gloss": "dagiti nasayaat a sulpokna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "iti Yaezer"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "nakadanonda"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "nadaawda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "idiay liwaliwa"
+    },
+    {
+      "surface": "שלחותיה",
+      "gloss": "dagiti sulpokna"
+    },
+    {
+      "surface": "נטשו",
+      "gloss": "naipwarasda"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nagballasiwda"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ti baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T14:48:07.997561291Z",
+  "model": "glm-5.3"
+}

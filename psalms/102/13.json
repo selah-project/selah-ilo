@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Ken sika, ni Yahweh, agnaedka nga agnanayon, ken ti lagipmo iti kaputotan ken kaputotan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ken sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "agnaedka"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "ken ti lagipmo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "iti kaputotan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ken kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:17.891640385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Kinuna ni Yahweh: Sino ti mangilawlawa ⟨את⟩ kenni Ahab, a tumungpal ken natnag iti Ramot ti Gilead? Ket ti maysa kinuna: Kastoy, ket ti maysa: Kastoy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "mangilawlawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "tumungpal"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "iti Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ti Gilead"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ket ti maysa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kastoy"
+    }
+  ],
+  "timestamp": "2026-09-26T13:19:46.511112127Z",
+  "model": "glm-5.3"
+}

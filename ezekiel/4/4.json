@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 4:4",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken sika, agnapka iti kannigid a bangim, ken ikabilmo ⟨את⟩ ti basol ti balay ni Yisrael iti rabawna; ti bilang dagiti aldaw a pagnapam iti rabawna, isu ti ipusaam ⟨את⟩ ti basolda.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ken sika"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "agnapka"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "bangim"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "a kannigid"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ken ikabilmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti basol ti balay ni Yisrael"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti rabawna"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ti bilang"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "pagnapam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti rabawna"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ipusaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti basolda"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ti basolda"
+    }
+  ],
+  "timestamp": "2026-09-26T18:10:51.119825516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket naempatge ni Metushelah: pito ken walopulo a tawen ken sangagasut a tawen, ket nakaannak ⟨iti⟩ ni ⟨את⟩ Lamekh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "naempatge"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ken walopulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ken sangagasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nakaannak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lamekh"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lamekh"
+    }
+  ],
+  "timestamp": "2026-09-26T01:45:18.503786395Z",
+  "model": "glm-5.3"
+}

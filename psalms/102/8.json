@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Saanak a nakaturog, ket nagbalinak a kas iti billit a maymaysa iti ngato ti atep.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "saanak a nakaturog"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ket nagbalinak"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kas iti billit"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "a maymaysa"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ti atep"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:33.953868492Z",
+  "model": "glm-5.3"
+}

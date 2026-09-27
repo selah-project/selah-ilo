@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ⟨את⟩ dagiti taba manipud iti baka ken manipud iti karnero — ti taba ti ipus, ken ti panangabbong ti uneg, ken dagiti riniones, ken ti paset nga adda iti ngato ti ate.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti taba"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "dagiti taba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ken manipud iti"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ti karnero"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ti taba ti ipus"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "ken ti panangabbong ti uneg"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "ken dagiti riniones"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "ken ti paset nga adda iti ngato"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ti ate"
+    }
+  ],
+  "timestamp": "2026-09-26T05:08:37.130322848Z",
+  "model": "glm-5.3"
+}

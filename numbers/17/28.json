@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 17:28",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Amin ti umasideg, ti umasideg iti Mishkan ni Yahweh, matayen; kadi malpas kamin amin nga agsipapan?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ti umasideg"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ti umasideg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "matayen"
+    },
+    {
+      "surface": "האם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "malpas kamin"
+    },
+    {
+      "surface": "לגוע",
+      "gloss": "nga agsipapan"
+    }
+  ],
+  "timestamp": "2026-09-26T06:45:34.386563623Z",
+  "model": "glm-5.3"
+}

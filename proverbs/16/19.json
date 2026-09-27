@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Nasaysayaat ti nakabaing nga espiritu a kadua ⟨את⟩ dagiti pobres ngem ti mangbingay ⟨את⟩ ti inna kadua dagiti kidayaw.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Nasaysayaat"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "nakabaing"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadua dagiti pobres"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "dagiti pobres"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "mangbingay"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ti inna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inna"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "dagiti kidayaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:39:49.090704439Z",
+  "model": "glm-5.3"
+}

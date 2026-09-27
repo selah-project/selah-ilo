@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Iyangatom dagiti sakaam iti dagiti agnanayon a nadadaelan; amin ti dakes nga aramiden ti kabusor iti nasantuan.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Iyangatom"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "dagiti sakaam"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "iti dagiti nadadaelan"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:06.734244111Z",
+  "model": "glm-5.3"
+}

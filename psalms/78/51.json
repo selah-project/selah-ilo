@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket tinumbana amin a panganak-una iti Mitsrayim, ti rugi ti bilegda iti dagiti tolda ni Ham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ket tinumbana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "a panganak-una"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ti rugi"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ti bilegda"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "iti dagiti tolda"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Ham"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:51.896662899Z",
+  "model": "glm-5.3"
+}

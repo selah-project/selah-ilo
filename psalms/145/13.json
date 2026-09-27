@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Ti pagturayanmo ket pagturayan iti amin nga agnanayon, ken ti panagturaymo iti tunggal kaputotan ken kaputotan.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Ti pagturayanmo"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "pagturayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "ken ti panagturaymo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti tunggal"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kaputotan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ken kapotan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:54.016159179Z",
+  "model": "glm-5.3"
+}

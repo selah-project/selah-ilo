@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken intaray ti ari kenni Ester ⟨ti⟩ balitok a ⟨את⟩ setro; ket immakar ni Ester ket immtakder iti sanguanan ti ari.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "ken intaray"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kenni Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balitok a setro"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "setro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ket immakar"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ket immtakder"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:56.346060158Z",
+  "model": "glm-5.3"
+}

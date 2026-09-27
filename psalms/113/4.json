@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 113,
+  "translation": "Nataynged ni Yahweh ngato kadagiti amin a nasion, ken ti daydayawna ngato ngem dagiti langit.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Nataynged"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngato kadagiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasion"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngato ngem"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ti daydayawna"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:44.449856782Z",
+  "model": "glm-5.3"
+}

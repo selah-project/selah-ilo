@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ipagngatoka, Yahweh, ta inyangatmonak, ket saanmo a pinagriragsak dagiti kabusorko.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Ipagngatoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "inyangatmonak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanmo a"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "pinagriragsak"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dagiti kabusorko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:25.018994145Z",
+  "model": "glm-5.3"
+}

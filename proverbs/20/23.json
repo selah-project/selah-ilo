@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ti maysa a bato ken ti maysa a bato ket karikutan kenni Yahweh, ket dagiti timbang ti panday ket saan nga umiso.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "karikutan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Ti maysa a bato"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ken ti maysa a bato"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "ket dagiti timbang"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ti panday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ngumiso"
+    }
+  ],
+  "timestamp": "2026-09-26T22:41:30.714810894Z",
+  "model": "glm-5.3"
+}

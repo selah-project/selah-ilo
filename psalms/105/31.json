@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Kinunana, ket immay dagiti ukkis, ken dagiti kuto iti amin a pagbeddenganda.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "dagiti ukkis"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "dagiti kuto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "pagbeddenganda"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:47.795906882Z",
+  "model": "glm-5.3"
+}

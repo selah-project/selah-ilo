@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Inaramidna ⟨את⟩ ti khoshen, aramid ti panagabel, kas iti aramid ti ephod: balitok, asul, ken purpura, ken sinida ti uleg, ken nañob a nasisida a lino.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti khoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ti khoshen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ti panagabel"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kas iti aramid"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "ti ephod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ken purpura"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ken uleg"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ti sinida"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ken nañob a lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "a nasisida"
+    }
+  ],
+  "timestamp": "2026-09-26T04:47:52.397296446Z",
+  "model": "glm-5.3"
+}

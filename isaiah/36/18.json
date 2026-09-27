@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Baka lilionannakayo ni Hizkiyahu a kunana: Isalakannakami ni Yahweh. Nakaisalakan kadi dagiti dios dagiti nasion, tunggal maysa ⟨את⟩ ti daga na, manipud iti ima ti ari ti Ashur?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "lilionanna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "isalakannakami"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "nakaisalakan kadi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dagiti dios"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dagiti nasion"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga na"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ti daga na"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-26T15:19:23.045155046Z",
+  "model": "glm-5.3"
+}

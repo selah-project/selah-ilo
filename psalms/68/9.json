@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Ti daga nagnari, ngem ti langit natnagda iti sangoan ni Elohim; daytoy ti Sinai, iti sangoan ni Elohim, ti Elohim ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "nagnari"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "natnagda"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ti Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T21:40:30.313860123Z",
+  "model": "glm-5.3"
+}

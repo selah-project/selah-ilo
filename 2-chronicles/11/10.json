@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ken ⟨את⟩ Tsorah ken ⟨את⟩ Ayalon ken ⟨את⟩ Khevron, nga adda iti Yehudah ken iti Binyamin, dagiti napigsan nga ili",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "iti Yehudah"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "ken iti Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "napigsan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:48:44.345647953Z",
+  "model": "glm-5.3"
+}

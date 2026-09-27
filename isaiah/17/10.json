@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 17:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ta linipatam ti Elohim ti panangisalakanmo, ken ti Bato a pagsalaknibanmo ket saanmo a naal-ala iti lagip; gapu ta dayta, imulam dagiti naimbag a mulmula, ket iti bambanti ti sabali a mula isabongmo daytoy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "linipatam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ti panangisalakanmo"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ken ti Bato"
+    },
+    {
+      "surface": "מעזך",
+      "gloss": "a pagsalaknibanmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "naal-ala iti lagip"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ta dayta"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "imulam"
+    },
+    {
+      "surface": "נטעי",
+      "gloss": "dagiti mulmula"
+    },
+    {
+      "surface": "נעמנים",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ket iti bambanti"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ti sabali a mula"
+    },
+    {
+      "surface": "תזרענו",
+      "gloss": "isabongmo daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T14:44:23.902591141Z",
+  "model": "glm-5.3"
+}

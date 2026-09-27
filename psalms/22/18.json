@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Mabalinak a bilangen dagiti amin a tulangko; isuda agkitkitada, makitada kaniak.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "mabalinak a bilangen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "a tulangko"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "agkitkitada"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makitada"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:58:15.898985238Z",
+  "model": "glm-5.3"
+}

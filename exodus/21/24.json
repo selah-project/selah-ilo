@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Mata iti kasangoan ti mata, ngipen iti kasangoan ti ngipen, ima iti kasangoan ti ima, saka iti kasangoan ti saka.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti kasangoan ti"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti kasangoan ti"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipen"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ima"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti kasangoan ti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ima"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti kasangoan ti"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "saka"
+    }
+  ],
+  "timestamp": "2026-09-26T04:07:09.115943052Z",
+  "model": "glm-5.3"
+}

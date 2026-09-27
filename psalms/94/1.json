@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "El dagiti panagbalwes ni Yahweh; El dagiti panagbalwes, agparangka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "dagiti panagbalwes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "dagiti panagbalwes"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "agparangka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:54.842727157Z",
+  "model": "glm-5.3"
+}

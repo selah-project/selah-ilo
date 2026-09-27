@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Kinuna ni Avraham kenkuana: Agtakingka, no bali nga maisublim ⟨את⟩ ti anakko idiay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "agtakingka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "buotmo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "no bali nga"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "maisublim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anakko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ti anakko"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "idiay"
+    }
+  ],
+  "timestamp": "2026-09-26T02:17:13.079977346Z",
+  "model": "glm-5.3"
+}

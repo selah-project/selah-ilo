@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 136,
+  "translation": "Ket inruarna ti Yisrael manipud kadagiti tengngadda, ta ti hesedna ket agnanayon.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ket inruarna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "manipud kadagiti tengngadda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:49.794951439Z",
+  "model": "glm-5.3"
+}

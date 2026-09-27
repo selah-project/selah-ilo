@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ta ti panangidogos ti gatas mangiparuar ti keso, ken ti panangidogos ti dungngo mangiparuar ti dara, ken ti panangidogos ti ariwtot mangiparuar ti panagsupiat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "ti panangidogos"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ti gatas"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "mangiparuar"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "ti keso"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ken ti panangidogos"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ti dungngo"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "mangiparuar"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ken ti panangidogos"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ti ariwtot"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "mangiparuar"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ti panagsupiat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:00.095593344Z",
+  "model": "glm-5.3"
+}

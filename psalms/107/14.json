@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Luarna sida manipud iti sipnget ken iti sipnget ti ipupusay, ken dagiti pigotda pinnektenda.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "luarna sida"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "manipud iti sipnget"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ken iti sipnget ti ipupusay"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "ken dagiti pigotda"
+    },
+    {
+      "surface": "יונתק",
+      "gloss": "pinnektenda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:42.101668700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Mabalin kadi a ramiden ti tao kadagiti didiosen para kenkuana, ken isuda saan a dios?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "mabalin kadi a ramiden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para kenkuana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kadagiti didiosen"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ken isuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dios"
+    }
+  ],
+  "timestamp": "2026-09-26T16:45:15.253973297Z",
+  "model": "glm-5.3"
+}

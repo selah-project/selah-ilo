@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Iti mannaganipon, iti Almut Laben, maysa a mizmor ni Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Iti mannaganipon"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Almut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni Davide"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:16.267927584Z",
+  "model": "glm-5.3"
+}

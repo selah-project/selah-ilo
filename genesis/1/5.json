@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket tinawaganna ni Elohim ti lawag nga Aldaw, ket ti sipnget tinawaganna a Rabii; ket naginen rabii, ket naginen bigat — aldaw maysa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ket tinawaganna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "iti lawag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Aldaw"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ket ti sipnget"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tinawaganna"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Rabii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket naginen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "rabii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket naginen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bigat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:40.329400206Z",
+  "model": "glm-5.3"
+}

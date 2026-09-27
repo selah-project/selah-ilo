@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Yuyangam ti pusok kadagiti pammasingkedmo, ken saan iti nakaw a ganansia.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Yuyangam"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "pammasingkedmo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "nakaw a ganansia"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:29.165037489Z",
+  "model": "glm-5.3"
+}

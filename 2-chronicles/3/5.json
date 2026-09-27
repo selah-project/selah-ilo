@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket ⟨את⟩ ti dakkel a balay inikkapetanna iti kayo dagiti berrosh, ket binalkagna iti nalaing a balitok, ket impatnganna kadagiti palma ken dagiti kadena.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti dakkel a balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "inikkapetanna"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "iti kayo"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "dagiti berrosh"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "ket binalkagna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nalaing"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ket impatnganna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti nakana"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "dagiti palma"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "ken dagiti kadena"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:14.785856327Z",
+  "model": "glm-5.3"
+}

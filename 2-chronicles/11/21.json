@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 11:21",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket inayatanna ni Rehavam ⟨את⟩ ni Maakhah nga anak a babai ni Avshalom ngatuen iti amin a babbai nga asawana ken dagiti kabitna; ta sangapulo ket walo a babbai nga asawa inasawana ken innem a pulo a kabit, ket nagputot kaduapulo ket walo nga anak a lalaki ken innem a pulo nga anak a babai.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ket inayatanna"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ni Rehavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Maakhah"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ni Maakhah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nga anak a babai"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngatuen iti amin"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "a babbai nga asawana"
+    },
+    {
+      "surface": "ופילגשיו",
+      "gloss": "ken dagiti kabitna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "a babbai nga asawa"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "inasawana"
+    },
+    {
+      "surface": "ופילגשים",
+      "gloss": "ken dagiti kabit"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "innem a pulo"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ket nagputot"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ket walo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ngaanak a lalaki"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ken innem a pulo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ngaanak a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T23:48:28.323973436Z",
+  "model": "glm-5.3"
+}

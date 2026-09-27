@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket sika, agsublika iti Elohimmo; ti hesed ken ti ukom salaknibennam, ken agurayka iti Elohimmo, a agnanayon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ket sika"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "iti Elohimmo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ti hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken ti ukom"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "salaknibennam"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ken agurayka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "a agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:13:34.057840873Z",
+  "model": "glm-5.3"
+}

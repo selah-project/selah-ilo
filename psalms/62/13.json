@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Ken kenka, Adonay, ti hesed; ta sika ti mangisubli ⟨iti⟩ tunggal maysa a kas iti aramidna.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "ken kenka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ti hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ti mangisubli"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "iti tunggal maysa"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "a kas iti aramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:44.302798985Z",
+  "model": "glm-5.3"
+}

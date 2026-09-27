@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Laeng babaen iti tiri mabingbingay ⟨את⟩ ti daga; segun kadagiti nagan dagiti tribu dagiti amada tawidenda.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "babaen iti tiri"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "mabingbingay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "segun kadagiti nagan"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "dagiti tribu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dagiti amada"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "tawidenda"
+    }
+  ],
+  "timestamp": "2026-09-26T07:05:25.444098714Z",
+  "model": "glm-5.3"
+}

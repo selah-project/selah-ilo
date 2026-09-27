@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ket ti mangisumpa iti amana ken iti inana, matayen a matayen.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "ket ti mangisumpa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iti amana"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ken iti inana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a matayen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:12:20.878749952Z",
+  "model": "glm-5.3"
+}

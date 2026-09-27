@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket naganakannakaduana kadagiti anak: ⟨את⟩ ni Yeush ken ⟨את⟩ ni Shemaryah ken ⟨את⟩ ni Zaham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ket naganakanna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yeush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "ni Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Shemaryah"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ni Shemaryah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "ni Zaham"
+    }
+  ],
+  "timestamp": "2026-09-26T23:48:21.212000622Z",
+  "model": "glm-5.3"
+}

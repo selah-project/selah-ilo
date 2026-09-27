@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Saan a kadi a kas ti Karkemish ti Kalno? wenno saan a kas ti Arpad ti Khamat? wenno saan a kas ti Damashek ti Shomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "saan a kadi"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "a kas ti Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ti Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "a kas ti Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ti Khamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "a kas ti Damashek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ti Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-26T14:31:57.041946004Z",
+  "model": "glm-5.3"
+}

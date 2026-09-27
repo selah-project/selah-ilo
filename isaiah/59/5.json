@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Itlog ti tsefoni intippokda, ken dagiti ablan ti gagangay agabelda; ti mangangan kadagiti itlogda ket matay, ket ti mabaliaga ket aglukat iti apia a uleg.",
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "itlog"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "tsefoni (nakadakes nga uleg)"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "intippokda"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "ken dagiti ablan"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "ti gagangay"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "agabelda"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ti mangangan"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "kadagiti itlogda"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ket matay"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "ken ti mabaliaga"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "aglukat"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "apia a uleg"
+    }
+  ],
+  "timestamp": "2026-09-26T16:03:15.723609482Z",
+  "model": "glm-5.3"
+}

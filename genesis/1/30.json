@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken kadagiti amin a biag ti daga, ken kadagiti amin a billit ti langit, ken kadagiti amin a aggunay iti daga a adda iti unegna kararua a biag — ⟨את⟩ amin a berde a mula para iti kanen; ket nagpaay koma.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "Ken kadagiti amin"
+    },
+    {
+      "surface": "חית",
+      "gloss": "biag"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ken kadagiti amin"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "billit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ken kadagiti amin"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "aggunay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti unegna"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kararua"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "a biag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a berde a mula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "berde"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "a mula"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "para iti kanen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagpaay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "koma"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:02.407465892Z",
+  "model": "glm-5.3"
+}

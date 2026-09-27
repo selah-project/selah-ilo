@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": "Kaniak ti Gilad, ken kaniak ti Menashsheh, ken Efrayim salaknib ti ulok, ni Yehudah ti agukom kaniak.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ti Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ken kaniak"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ti Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ken Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "salaknib"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ti ulok"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ti agukom kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:34:26.232759670Z",
+  "model": "glm-5.3"
+}

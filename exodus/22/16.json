@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "No umiddi nga umiddi ti amana a itedna kenkuana, pilak ti timbangenna, a kas iti bayad dagiti birhen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "umiddi"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "nga umiddi"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "a itedna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "ti timbangenna"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "bayad dagiti birhen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:08:30.335567934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ken tinudoanda a tunggal maysa ti kabualanna; ketimmay ti Aram, ket tinungpal ti Yisrael kadakuada; ket timmal escape ni Ben-Hadad, ari ti Aram, iti kaballo agraman dagiti kabbalio.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "tinudoanda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "ti kabualanna"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ketimmay"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "tinungpal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "timmalikus"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kaballo"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "agraman dagiti kabbalio"
+    }
+  ],
+  "timestamp": "2026-09-26T22:05:48.147297642Z",
+  "model": "glm-5.3"
+}

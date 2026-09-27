@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Kinemmem ti tao a kas iti imbag ni Yosef, ket impanna dagiti tao ⟨את⟩ iti balay ni Yosef.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kinemmem"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "imbag"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "impanna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tao"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    }
+  ],
+  "timestamp": "2026-09-26T03:05:37.110680338Z",
+  "model": "glm-5.3"
+}

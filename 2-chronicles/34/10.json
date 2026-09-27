@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 34:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ket intedda iti ima dagiti agaramid ti trabaho, dagiti naiturong iti balay ni Yahweh; ket intedda ⟨את⟩ kenniada dagiti agaramid ti trabaho a agaramidda iti balay ni Yahweh, nga sukimatenda ken papigsaenda ti balay.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ket intedda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ti trabaho"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "dagiti naiturong"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ket intedda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenniada (iti pirak)"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "dagiti agaramid"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ti trabaho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "agaramidda"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לבדוק",
+      "gloss": "nga sukimaten"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "ken papigsaen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:57:15.982601131Z",
+  "model": "glm-5.3"
+}

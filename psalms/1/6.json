@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ta ammo ni Yahweh ti dalan dagiti nalinteg, ngem ti dalan dagiti dakes ket mapukaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ngem ti dalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ket mapukaw"
+    }
+  ],
+  "timestamp": "2026-09-26T20:41:54.765549549Z",
+  "model": "glm-5.3"
+}

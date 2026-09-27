@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Saan a bilang iti natuded a daton iti bigat,ti nagtungpal iti agnanayon a natuded a daton — aramidenyo ⟨את⟩ dagitoy.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "saan a bilang"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "natuded a daton"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "nagtungpal iti"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "agnanayon a"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aramidenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:52.818709899Z",
+  "model": "glm-5.3"
+}

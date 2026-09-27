@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 93,
+  "translation": "Nakatakder ti trononom manipud idi, manipud iti agnanayon sika.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "nakatakder"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ti trononom"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "manipud idi"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "manipud iti agnanayon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:58.117691993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Nagnaen ni Yisrael ket inarakatna ti toldana iti labes ti Migdal-Eder.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "nagnaen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "inarakatna ti toldana"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "ti toldana"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "iti labes"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Migdal-Eder"
+    }
+  ],
+  "timestamp": "2026-09-26T02:44:29.355335962Z",
+  "model": "glm-5.3"
+}

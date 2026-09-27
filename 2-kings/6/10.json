@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Immula ti ari ti Yisrael iti lugar a kinuna kennu ti tao ti Elohim, ket inbalodanna ken nagsalaknib sadiay, saan a maysa ken saan a dua.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "immula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "inbalodanna"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "nagsalaknib"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "a maysa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "a dua"
+    }
+  ],
+  "timestamp": "2026-09-26T13:28:12.890516896Z",
+  "model": "glm-5.3"
+}

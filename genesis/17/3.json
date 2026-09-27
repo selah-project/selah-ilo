@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Nataray ni Avram iti rupana, ket nangsarita ni Elohim ⟨את⟩ kenkuana, nga kunana:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Nataray"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rupana"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nangsarita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kunana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:07:28.278620669Z",
+  "model": "glm-5.3"
+}

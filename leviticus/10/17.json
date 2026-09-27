@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Apay a saan koma a nangan yo ⟨ti⟩ ⟨את⟩ daton ti basol iti ⟨ti⟩ disso ti nasantoan? Ta nasantuan kadagiti nasantuanan dayta, ken ⟨את⟩ dayta ti naited kadakayo a mangala iti basol ti gimong, a mangpakpaya kadakuada iti sanguanan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "apay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "koma a nangan yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daton ti basol"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "daton ti basol"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iti disso"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantoan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kadagiti nasantuanan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naited"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "a mangala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti basol ti gimong"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iti basol"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "a mangpakpaya"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:14:51.277780694Z",
+  "model": "glm-5.3"
+}

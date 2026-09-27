@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "ngem ti sipnget met ket saan a makasipnget siniak; ti rabii ket kas ti aldaw a nasilaw; kas ti kinasipnget, kasta met ti kinalawag.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ti sipnget"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "makasipnget siniak"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ti rabii"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kas ti aldaw"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "a nasilaw"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "kas ti kinasipnget"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "kasta met ti kinalawag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:13.429785949Z",
+  "model": "glm-5.3"
+}

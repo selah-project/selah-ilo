@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Maysa a mizmor ni David. Yahweh, asino ti agnanaed iti toldam? Asino ti agnaed iti nasantuan a bantaymo?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "asino"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "iti toldam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "asino"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "agnaed"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nasantuanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:46.087798923Z",
+  "model": "glm-5.3"
+}

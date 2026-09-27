@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Imbes ket ni Daniel nagsao kadua ti ari: Ari, agbiagka agingga agnanayon.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Imbes ket"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ni Daniel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Ari"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "agingga agnanayon"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "agbiagka"
+    }
+  ],
+  "timestamp": "2026-09-26T23:18:27.322894526Z",
+  "model": "glm-5.3"
+}

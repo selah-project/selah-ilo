@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ti mana ⟨ket⟩ kas iti bin-i ti korianer ⟨is⟩, ken ti kita ⟨na⟩ kas iti kita ti bedolio.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "ti mana"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "kas iti bin-i"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ti korianer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "ken ti kitana"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "kas iti kita"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ti bedolio"
+    }
+  ],
+  "timestamp": "2026-09-26T06:29:03.972269113Z",
+  "model": "glm-5.3"
+}

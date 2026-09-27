@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Mano a napateg ti hesedmo, Elohim, ket dagiti anak ti tao aglemmengda iti linab dagiti pakpakmo.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mano"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "napateg"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ket dagiti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "iti linab"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "dagiti pakpakmo"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "aglemmengda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:09:11.068807245Z",
+  "model": "glm-5.3"
+}

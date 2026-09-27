@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "ta no saan a natardan tayu, sigurado a nagsubli tayon ita, daytoy ti maikadua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "no saan a"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "natardan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sigurado a"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "maikadua"
+    }
+  ],
+  "timestamp": "2026-09-26T03:08:19.756516007Z",
+  "model": "glm-5.3"
+}

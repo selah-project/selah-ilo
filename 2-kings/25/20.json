@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Kinuna ni רב טבחים: pinaneknean manen — saanak nga agipenpen iti uneg ti bersikulo. Patarusen: <translation>ket inala ni Nevuzaradan, ti pangulo dagiti mannagpapatay, ⟨אתם⟩ da, ket immpanniwayo da nga agpa ken ⟨אתם⟩ ti ari ti Babilonia, idiay Rivlah.<\/translation>\n\nNaisardengak manen — biddut. Patarusen manen a napudno:\n\nInala da ni Nevuzaradan, ti pangulo dagiti mannagpapatay, ket inalaanna ⟨אתם⟩ ida nga impanna ⟨אתם⟩ iti sangbo ti ari ti Babilonia, idiay Rivlah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Inala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "ni Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ti pangulo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "dagiti mannagpapatay"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ket impanna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti sangbo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ti Babilonia"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "idiay Rivlah"
+    }
+  ],
+  "timestamp": "2026-09-26T14:19:38.919556454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Nupay kasta, inilinna ti bagina ni Haman ket simmangpet iti balayna, ket immawag ket inayanna ⟨את⟩ dagiti barkonna ken ⟨את⟩ ni Zeresh nga asawana.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "inilinna ti bagina"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "simmangpet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balayna"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "immawag"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "inayanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti barkonna"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "dagiti barkonna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nga asawana"
+    }
+  ],
+  "timestamp": "2026-09-27T00:04:35.406938303Z",
+  "model": "glm-5.3"
+}

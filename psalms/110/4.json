@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 110,
+  "translation": "Nagsumpa ni Yahweh ken saananna a babawienna: Sika ti padi iti agnanayon, sigun iti modo ni Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Nagsumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saananna"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "a babawienna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "padi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sigun iti"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "modo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:06.233137313Z",
+  "model": "glm-5.3"
+}

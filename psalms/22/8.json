@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Amin dagiti nakakita kaniak agtawada kaniak; ibukkadanda ti ngiwat, ikkinayanda ti ulo,",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "dagiti nakakita"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "agtawada"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "ibukkadanda"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ti ngiwat"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ikkinayanda"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:37.255802746Z",
+  "model": "glm-5.3"
+}

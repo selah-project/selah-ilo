@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kalpasanna innalana ⟨את⟩ ni Maakhah a anak ni Avshalom, ket naganakannakaduana ⟨את⟩ ni Aviyah ken ⟨את⟩ ni Attay ken ⟨את⟩ ni Ziza ken ⟨את⟩ ni Shelomit.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "innalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Maakhah"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ni Maakhah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "a anak"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ket naganakanna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Aviyah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ni Aviyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Attay"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "ni Attay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "ni Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Shelomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "ni Shelomit"
+    }
+  ],
+  "timestamp": "2026-09-26T23:48:21.212261710Z",
+  "model": "glm-5.3"
+}

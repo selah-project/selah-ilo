@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 95,
+  "translation": "Isu a nisumpaak iti rikepok: saanda a sumrek iti pagininaanak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "isu a"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nisumpaak"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "iti rikepok"
+    },
+    {
+      "surface": "אם",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "sumrekanda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "pagininaanak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:54.936709105Z",
+  "model": "glm-5.3"
+}

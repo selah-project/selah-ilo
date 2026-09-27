@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kinuna ni Moshe kadagiti uganganna: Ta ummay kaniak ti tattao a mangisapul kenni Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "kadagiti uganganna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ummay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "a mangisapul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kenni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T04:02:21.114650355Z",
+  "model": "glm-5.3"
+}

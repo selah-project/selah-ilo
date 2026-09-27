@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ket nu agturongkayo iti daga a maited ni Yahweh kadakayo, a kas iti imbagana, ket saluadanyo daytoy nga aramid a panagserbi ⟨את⟩;",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket nu agtallok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "agturongkayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maited"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "saluadanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aramid a panagserbi"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "aramid a panagserbi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T03:53:25.153352506Z",
+  "model": "glm-5.3"
+}

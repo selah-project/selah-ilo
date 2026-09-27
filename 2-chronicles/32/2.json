@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ket nakita ni Yehizkiyahu a dimmenggan ni Sancherib, ket ti rupana ket para iti gubat ⟨α⟩ contra iti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ni Yehizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dimmenggan"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ni Sancherib"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "ket ti rupana"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "para iti gubat"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra iti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:38.645969971Z",
+  "model": "glm-5.3"
+}

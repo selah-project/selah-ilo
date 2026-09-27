@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Inikkatannak iti lubbo a babab, iti sipnget, iti kaadalem.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Inikkatannak"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "iti lubbo"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "a babab"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "iti sipnget"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "iti kaadalem"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:15.342774278Z",
+  "model": "glm-5.3"
+}

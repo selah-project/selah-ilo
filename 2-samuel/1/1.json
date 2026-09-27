@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Napasamak idi kalpasan ti ipapatay ni Shaul, a ni David ket nagsubli manipud iti panangdadael ⟨iti⟩ ⟨את⟩ ti Amalek, ket nagnaed ni David iti Tsiklag nga adda dua nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ipapatay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ken ni David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "manipud iti panangdadael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "ti Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ket nagnaed"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "iti Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    }
+  ],
+  "timestamp": "2026-09-26T11:30:43.804258256Z",
+  "model": "glm-5.3"
+}

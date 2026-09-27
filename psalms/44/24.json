@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Agriingka, apay a naturogka, Adonay? Mangsiribka, saan nga sikaannakami agingga iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Agriingka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "a naturogka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Mangsiribka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "nga sikaannakami"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "agingga iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:58.874267862Z",
+  "model": "glm-5.3"
+}

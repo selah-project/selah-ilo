@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Adda maysa a dakes a sakit a nakitak iti baba ti init: kayamanan a salakniban ti tagikuana iti dakesna.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "salakniban"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ti tagikuana"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "iti dakesna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:16.911225631Z",
+  "model": "glm-5.3"
+}

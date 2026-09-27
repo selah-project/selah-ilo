@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "ket napasamak a adda kenkuana ti pito nga anak a lalaki ken tallo a babai a anak",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "pito"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ken tallo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "babai a anak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:00:25.895507362Z",
+  "model": "glm-5.3"
+}

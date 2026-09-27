@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "No ti baka ti maysa a tao ti makadenna ⟨ti⟩ baka ti kaarrubana ken natay, aglakuanda ⟨ti⟩ ti sibibiag a baka ket bidienda ⟨ti⟩ ti pirakna, ket ti natay met ket bidienda.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "No"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "makadenna"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baka ti kaarrubana"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kaarrubana"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ken natay"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "aglakuanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sibibiag a baka"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ti sibibiag"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "ket bidienda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pirakna"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ti pirakna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti natay"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ti natay"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "bidienda"
+    }
+  ],
+  "timestamp": "2026-09-26T04:08:04.775573290Z",
+  "model": "glm-5.3"
+}

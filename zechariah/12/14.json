@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Amin dagiti pamilia a nabiagen, pamilia iti pamilia a bukodna, ken dagiti asawada a bukodda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "dagiti pamilia"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "a nabiagen"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "pamilia"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "iti pamilia"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a bukodna"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ken dagiti asawada"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a bukodda"
+    }
+  ],
+  "timestamp": "2026-09-26T20:32:18.032777725Z",
+  "model": "glm-5.3"
+}

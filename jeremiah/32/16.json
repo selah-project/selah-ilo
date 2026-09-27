@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ket nagkararagak kenni Yahweh kalpasan ti panangtedko ⟨ti⟩ libro ti panagbakal kenni Barukh nga anak ni Neriyah, a kunkuna:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "nagkararagak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ti panangtedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti libro ti panagbakal"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ti libro"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ti panagbakal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neriyah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    }
+  ],
+  "timestamp": "2026-09-26T17:26:59.495377936Z",
+  "model": "glm-5.3"
+}

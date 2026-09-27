@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Idin inparuro ni Yahweh nga Elohim ti nakaro a turdeg iti lalaki, ket naturog isuna; ket innalana ti maysa kadagiti tulangna, ket riniknana ti lasag iti kasasaadna.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "inparuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "nakaro a turdeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "naturog"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "innala"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "kadagiti tulangna"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "rinikna"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lasag"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "iti kasasaadna"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:02.730027593Z",
+  "model": "glm-5.3"
+}

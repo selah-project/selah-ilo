@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Ipadanna ti saona ket itunayna ⟨da⟩; ipangngeyna nga agyeyyeng ti anginna, agay-ayus dagiti danum.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ipadanna"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ti saona"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ket itunayna"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ipangngeyna nga agyeyyeng"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ti anginna"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "agay-ayus"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dagiti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:47.575498863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Inalana ni Yehudah ⟨את⟩ Azzah ken ⟨את⟩ pagbeddenganna, ken ⟨את⟩ Ashkelon ken ⟨את⟩ pagbeddenganna, ken ⟨את⟩ Ekron ken ⟨את⟩ pagbeddenganna.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Inalana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "pagbeddenganna"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "pagbeddenganna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "pagbeddenganna"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "pagbeddenganna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "pagbeddenganna"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "pagbeddenganna"
+    }
+  ],
+  "timestamp": "2026-09-26T09:36:30.935674765Z",
+  "model": "glm-5.3"
+}

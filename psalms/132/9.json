@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 132,
+  "translation": "Dagiti padim ket agsiksikaalda iti kinalinteg, ken dagiti ay-ayatenmo ket agkantiada iti ragsak.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "Dagiti padim"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ket agsiksikaalda"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "iti kinalinteg"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ken dagiti ay-ayatenmo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ket agkantiada iti ragsak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:01.463396991Z",
+  "model": "glm-5.3"
+}

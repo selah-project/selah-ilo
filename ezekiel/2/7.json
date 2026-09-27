@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket agsaoka ⟨את⟩ dagiti saok kadakuada, wenno mamatida wenno agsardelda, ta mannbang-ar da.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "ket agsaoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti saok"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti saok"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mamatida"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "agsardelda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "mannbang-ar"
+    },
+    {
+      "surface": "המה",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-09-26T18:03:43.276094717Z",
+  "model": "glm-5.3"
+}

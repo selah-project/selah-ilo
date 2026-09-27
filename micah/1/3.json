@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ta kitaen, rummuar ni Yahweh manipud iti dissuna, ket agbaba ken dadaelenna dagiti nangatngato a lugar ti daga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "rummuar"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "manipud iti dissuna"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ket agbaba"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ken dadaelenna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "kadagiti nangatngato a lugar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T20:06:40.871010190Z",
+  "model": "glm-5.3"
+}

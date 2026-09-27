@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Kinuna ni Yahweh kenni Moshe a kunaen:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunaen"
+    }
+  ],
+  "timestamp": "2026-09-26T04:23:42.093783622Z",
+  "model": "glm-5.3"
+}

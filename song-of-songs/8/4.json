@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Insumpaak ⟨את⟩ dakayo, dagiti anak a babai ti Yerushalayim: apay a pagisingyo ken apay a paungtaryo ⟨את⟩ ti ayat, agingga a kayatna!",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Insumpaak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo, dagiti anak a babai ti Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dagiti anak a babai"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "pagisingyo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ken apay"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "paungtaryo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ayat"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ti ayat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "a kayatna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:02:37.686420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti dakes, iti katayag ti pukngana, saan a agsuksukimat; awan ti Elohim kadagiti amin a pinaregtana.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Ti dakes"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "iti katayag"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ti pukngana"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "agsuksukimat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "a pinaregtana"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:01.811290948Z",
+  "model": "glm-5.3"
+}

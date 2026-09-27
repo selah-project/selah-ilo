@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket nagsaok kadagiti napailiwen ⟨iti⟩ ⟨את⟩ amin a dagiti sao ni Yahweh a nipaipakitakona kenkuak.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "ket nagsaok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "napailiwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a dagiti sao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "a dagiti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "nipaipakitakona kenkuak"
+    }
+  ],
+  "timestamp": "2026-09-26T18:11:57.678126248Z",
+  "model": "glm-5.3"
+}

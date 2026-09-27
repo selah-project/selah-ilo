@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 6:29",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken ⟨את⟩ amin dagiti diding ti balay, iti likmut, inkalenna kadagiti ukis — kerubim, palmera, ken parua ti sabong — iti uneg ken iti ruar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti diding ti balay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "dagiti diding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "מסב",
+      "gloss": "iti likmut"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "inkalenna"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "panangiparua ti ukis"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "ukis"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "ken palmera"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "ken parua ti"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "sabong"
+    },
+    {
+      "surface": "מלפנים",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "ken iti ruar"
+    }
+  ],
+  "timestamp": "2026-09-26T12:33:26.769657465Z",
+  "model": "glm-5.3"
+}

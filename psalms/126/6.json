@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 126,
+  "translation": "Mapan a mapan ken agsangsangit, agmunddar iti sukatan a bagas ti panagmula; ti umay, umayto iti kanta, agmunddar kadagiti urnongna ti apit.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Mapan"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "a mapan"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ken agsangsangit"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "agmunddar"
+    },
+    {
+      "surface": "משך",
+      "gloss": "iti sukatan"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "a bagas ti panagmula"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ti umay"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "umayto"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "iti kanta"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "agmunddar"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "kadagiti urnongna ti apit"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:50.934009106Z",
+  "model": "glm-5.3"
+}

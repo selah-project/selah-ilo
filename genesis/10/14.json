@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "ken ⟨את⟩ dagiti Pathrusim, ken ⟨את⟩ dagiti Kaslukhim — nga immay manipud kaniada dagiti Pelishtim — ken ⟨את⟩ dagiti Kaphtorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "dagiti Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Kaslukhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "dagiti Kaslukhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "immay"
+    },
+    {
+      "surface": "משם",
+      "gloss": "manipud kaniada"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Kaphtorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "dagiti Kaphtorim"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:50.614621438Z",
+  "model": "glm-5.3"
+}

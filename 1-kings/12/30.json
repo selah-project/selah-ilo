@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket nagbalin daytoy a sao iti basol, ket nagnada ti umili iti sanguanan ti maysa agingga iti Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "iti basol"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ket nagnada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "דן",
+      "gloss": "iti Dan"
+    }
+  ],
+  "timestamp": "2026-09-26T12:50:18.838262244Z",
+  "model": "glm-5.3"
+}

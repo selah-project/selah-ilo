@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ken iyegmo ⟨את⟩ ti lamisaan ken ikagemmo ⟨את⟩ ti panangikagemna, ken iyegmo ⟨את⟩ ti kandelero ken ipangatoymo ⟨את⟩ dagiti lamparana.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "iyegmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lamisaan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ti lamisaan"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "ikagemmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panangikagemna"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "ti panangikagemna"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "iyegmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kandelero"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ti kandelero"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "ipangatoymo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lamparana"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dagiti lamparana"
+    }
+  ],
+  "timestamp": "2026-09-26T04:52:31.654038002Z",
+  "model": "glm-5.3"
+}

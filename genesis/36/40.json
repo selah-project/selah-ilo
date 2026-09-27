@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ket dagitoy ti dagiti nagan dagiti pangulu ni Esav, segun kadagiti pamilia da, kadagiti lugar da, babaen kadagiti nagan da: pangulu Timna, pangulu Alva, pangulu Yezet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ket dagitoy"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "dagiti nagan"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "dagiti pangulu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segun kadagiti pamilia da"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "kadagiti lugar da"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "babaen kadagiti nagan da"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulu"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yezet"
+    }
+  ],
+  "timestamp": "2026-09-26T02:45:58.680015864Z",
+  "model": "glm-5.3"
+}

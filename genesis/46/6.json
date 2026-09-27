@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Inalada ⟨את⟩ dagiti ayup da ken ⟨את⟩ dagiti tagikua da a naurnong da iti daga ti Kanaan, ket simmangpetda iti Mitsrayim — ni Yaakov ken amin a kaputotan na ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Inalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ayup da"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "dagiti ayup da"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti tagikua da"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "dagiti tagikua da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "naurnong da"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kanaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "simmangpetda"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "a kaputotan na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-26T03:16:53.921701066Z",
+  "model": "glm-5.3"
+}

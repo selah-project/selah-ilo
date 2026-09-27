@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Nanglukatan ni Yahweh ⟨את⟩ ti nasantuan a brasona kadagiti mata ti amin a pagilian, ket ti amin a patingga ti daga makitada ⟨את⟩ ti panangisalakan ti Elohim tayo.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "nanglukatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nasantuan a brasona"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ti nasantuan a braso"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nasantuanna"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a pagilian"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ket makitada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "a patingga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panangisalakan ti Elohim tayo"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ti panangisalakan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohim tayo"
+    }
+  ],
+  "timestamp": "2026-09-26T15:46:06.239274510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Naipatingga ni Shelomoh ⟨את⟩ ti balay ni Yahweh ken ⟨את⟩ ti balay ti ari, ken ⟨את⟩ amin nga immay iti puso ni Shelomoh nga aramiden iti balay ni Yahweh ken iti balayna — nakaaramid a nalaing.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Naipatingga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti balay ti ari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "nga immay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "ken iti balayna"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "nakaaramid a nalaing"
+    }
+  ],
+  "timestamp": "2026-09-26T23:46:21.586909791Z",
+  "model": "glm-5.3"
+}

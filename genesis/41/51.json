@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ket inawagan ni Yosef ⟨את⟩ ti nagan ti immuna a nayanak nga Menashe, ta innak pinalipatan ni Elohim ⟨את⟩ amin a rigatko ken ⟨את⟩ amin a balay ti amak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inawagan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ti immuna a nayanak"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "innak pinalipatan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a rigatko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "a rigatko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a balay ti amak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a balay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ti amak"
+    }
+  ],
+  "timestamp": "2026-09-26T03:02:42.739258623Z",
+  "model": "glm-5.3"
+}

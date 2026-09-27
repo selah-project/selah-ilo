@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ti umuna a paset ti bagasmo, ti buarmo nga arak ken ti lanam, ken ti umuna iti panagputol ti apitmo, itedmo kenkuana.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ti umuna a paset"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "ti bagasmo"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "ti buarmo nga arak"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "ken ti lanam"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "ken ti umuna"
+    },
+    {
+      "surface": "גז",
+      "gloss": "iti panagputol"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ti apitmo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T08:16:03.615524003Z",
+  "model": "glm-5.3"
+}

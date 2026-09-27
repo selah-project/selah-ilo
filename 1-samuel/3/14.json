@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Isu a kasta nangisumpaak iti balay ni Eli: no maipatawar ti basol ti balay ni Eli iti sakripisio ken iti minchah, agingga agnanayon.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "isu a kasta"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nangisumpaak"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "maipatawar"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "iti sakripisio"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "ken iti minchah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T10:30:00.461582111Z",
+  "model": "glm-5.3"
+}

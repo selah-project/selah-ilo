@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Nagsapada a nagtarus iti bigat, ket nagnakanda ti tunggal maysa iti kabsatna, ket pinulogana da ni Yitskhak, ket immanda manipud ⟨iti⟩ ⟨Аת⟩⟨את⟩ na iti kappia.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "Nagsapada a nagtarus"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "nagnakanda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "iti kabsatna"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "pinulogana da"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "immanda"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩na",
+      "marks": "manipud kenni Yitskhak"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "iti kappia"
+    }
+  ],
+  "timestamp": "2026-09-26T02:25:18.339140312Z",
+  "model": "glm-5.3"
+}

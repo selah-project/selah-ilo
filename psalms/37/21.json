@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Agutang ti dakes, ket saan a mangibayad; ngem ti nalinteg agrason ken agited.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "agutang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "a mangibayad"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ngem ti nalinteg"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "agrason"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ken agited"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:10.118316610Z",
+  "model": "glm-5.3"
+}

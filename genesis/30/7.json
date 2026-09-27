@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Umay manen nga agbukbukod ni Bilha, ti adipen a babai ni Rahel, ket nakaipasngay kenni Yaakov iti maikadua nga anak a lalaki.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "umay manen nga agbukbukod"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nakaipasngay"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ni Bilha"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "adipen a babai"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ni Rahel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kenni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T02:28:44.613268085Z",
+  "model": "glm-5.3"
+}

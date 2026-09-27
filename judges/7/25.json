@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 7:25",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken dinakolda dagiti dua a sarhente ti Midian, ⟨ti⟩ ni Oreb ken ⟨ti⟩ ni Zeeb, ken pinatayda ⟨את⟩ ni Oreb iti bato ti Oreb, ket ⟨ti⟩ ni Zeeb pinatayda iti tapayan ti Zeeb, ket tinultuluokanda ti Midian, ket ti ulo ni Oreb ken ni Zeeb immegda kenni Gideon iti ballasiw ti Yarden.",
+  "tokens": [
+    {
+      "surface": "וילכדו",
+      "gloss": "dinakolda"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sarhente"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Oreb"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Oreb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Zeeb"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeeb"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "pinatayda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Oreb"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Oreb"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "iti bato"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "ti Oreb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Zeeb"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeeb"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pinatayda"
+    },
+    {
+      "surface": "ביקב",
+      "gloss": "iti tapayan"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "ti Zeeb"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "tinultuluokanda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ken ti ulo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ni Oreb"
+    },
+    {
+      "surface": "וזאב",
+      "gloss": "ken ni Zeeb"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "imegda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "iti ballasiw"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ti Yarden"
+    }
+  ],
+  "timestamp": "2026-09-26T09:49:58.144506705Z",
+  "model": "glm-5.3"
+}

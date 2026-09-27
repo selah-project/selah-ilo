@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket nasaysayaat ngem dagiti dua ti saan pay a nayanak agingga ita, a saan nakitana ⟨את⟩ ti dakes nga aramid a naaramid babaen ti init.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ket nasaysayaat"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ngem dagiti dua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti saan pay a nayanak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "agingga ita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan pay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a nayanak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dakes nga aramid"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "naaramid"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:36.986947566Z",
+  "model": "glm-5.3"
+}

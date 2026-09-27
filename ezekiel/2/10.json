@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket kinayatna ⟨את⟩ daytoy iti sanguak, ket naisurat daytoy iti sanguanan ken iti likudan, ket naisurat iti daytoy dagiti panagdungdung ken panagngusngos ken ⟨ti⟩ oy.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "ket kinayatna"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguak"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ket daytoy"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "naisurat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ken iti likudan"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ket naisurat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "dagiti panagdungdung"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "ken panagngusngos"
+    },
+    {
+      "surface": "והי",
+      "gloss": "ken oy"
+    }
+  ],
+  "timestamp": "2026-09-26T18:03:23.888970025Z",
+  "model": "glm-5.3"
+}

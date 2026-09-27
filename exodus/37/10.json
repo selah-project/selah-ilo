@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ket inaramidna ⟨את⟩ ti lamesa kadagiti kaykayo ti sitim: dua a kodo ti atiddogna, ken maysa a kodo ti kalawana, ken maysa a kodo ken kagudua ti katayagna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ti lamesa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kadagiti kaykayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dua a kodo"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ti atiddogna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ken maysa a kodo"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ti kalawana"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ken maysa a kodo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ken kagudua"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ti katayagna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:42:47.374132795Z",
+  "model": "glm-5.3"
+}

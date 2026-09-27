@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 46:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Dagitoy ti anak a lalaki ni Lea nga imbagana kennu Yaakov idi Padan Aram, ken ⟨את⟩ ni Dina nga anakna a babai; amin dagiti kararua dagiti anakna a lalaki ken dagiti anakna a babai ket tallopulo ket tallo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ti anak a lalaki"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kennu Yaakov"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "idi Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "nga anakna a babai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "dagiti kararua"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna a lalaki"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "ken dagiti anakna a babai"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tallopulo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ket tallo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:12:32.180910467Z",
+  "model": "glm-5.3"
+}

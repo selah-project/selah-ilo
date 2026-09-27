@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ti salmo ni David. Kenka, Yahweh, ti kararua ko ipangatoko.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ti salmo ni David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua ko"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ipangatoko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:02:29.138317409Z",
+  "model": "glm-5.3"
+}

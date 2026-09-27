@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 64,
+  "translation": "Dagiti nasantuan a siudadmo ket nagbalinanda a liwaliwan, Tsiyon ket nagbalin a liwaliwan, Yerushalayim ket nagbalin a nadadael a disso.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "dagiti siudad"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nasantuanmo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nagbalinanda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "liwaliwan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "liwaliwan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "nadadael a disso"
+    }
+  ],
+  "timestamp": "2026-09-26T16:06:50.451806233Z",
+  "model": "glm-5.3"
+}

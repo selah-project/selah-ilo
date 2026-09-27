@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ti puso dagiti nasirib adda iti balay ti panagdungdung, ket ti puso dagiti di nasirib adda iti balay ti ragsak.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Ti puso"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dagiti nasirib"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "adda iti balay"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ti panagdungdung"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ket ti puso"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dagiti di nasirib"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "adda iti balay"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ti ragsak"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:12.195893743Z",
+  "model": "glm-5.3"
+}

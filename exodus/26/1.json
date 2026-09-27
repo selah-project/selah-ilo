@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ken ⟨את⟩ ti Mishkan aramidento a sangapulo a kurtina: iti lino a naianod ken asul ken purpura ken iskarlata; iti kerubin, obra nga aramid ti nalaing, aramidento ⟨את⟩ dagiti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "a kurtina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "iti lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "naianod"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "ken asul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ken purpura"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "ken ti isso"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskarlata"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "iti kerubin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "obra"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ti nalaing"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dagiti",
+      "marks": "dagiti kurtina"
+    }
+  ],
+  "timestamp": "2026-09-26T04:19:52.859467004Z",
+  "model": "glm-5.3"
+}

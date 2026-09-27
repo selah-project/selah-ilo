@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Immay iti amaanna ket kinuna: Amaak; ket kinunana: Ditoyak; siasinoka, anakko?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amaanna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Amaak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ditoyak"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "-ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakko"
+    }
+  ],
+  "timestamp": "2026-09-26T02:27:44.705857521Z",
+  "model": "glm-5.3"
+}

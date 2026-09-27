@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Dakes kadakayo, dagiti agkukuna a naimbag ti dakes ket dakes ti naimbag; ibaliwanda ti sipnget a kas lawag ken ti lawag a kas sipnget, ibaliwanda ti mapait a kas nasam-it ken ti nasam-it a kas mapait.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Dakes kadakayo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "dagiti agkukuna"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "ti naimbag"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ibaliwanda"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ti sipnget"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "a kas lawag"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ken ti lawag"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "a kas sipnget"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ibaliwanda"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ti mapait"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "a kas nasam-it"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "ken ti nasam-it"
+    },
+    {
+      "surface": "למר",
+      "gloss": "a kas mapait"
+    }
+  ],
+  "timestamp": "2026-09-26T22:07:30.010992169Z",
+  "model": "glm-5.3"
+}

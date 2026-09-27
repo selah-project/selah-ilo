@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ta ti nagan ni Yahweh ti awagak; itedyo ti kadakkel iti Elohimtatayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ti awagak"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ti kadakkel"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "iti Elohimtatayo"
+    }
+  ],
+  "timestamp": "2026-09-26T08:46:34.466672352Z",
+  "model": "glm-5.3"
+}

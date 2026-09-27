@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Inalana ida ken ipinanna ida ⟨את⟩ ti karayan, ket ipanna met ⟨את⟩ dagiti tagikuana.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "inalana ida"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ipinanna ida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karayan"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ipanna met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tagikuana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:34:53.550565642Z",
+  "model": "glm-5.3"
+}

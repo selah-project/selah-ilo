@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Simmar ti lasagko gapu iti panagbutengmo, ket mabutengak kadagiti ukommo.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "simmar"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "gapu iti panagbutengmo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ti lasagko"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ket kadagiti ukommo"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "mabutegak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:51.508909823Z",
+  "model": "glm-5.3"
+}

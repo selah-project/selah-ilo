@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 23:9",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "ket inted ni Yehojada ti padi kadagiti daulo kadagiti sangagasut ⟨את⟩ dagiti buddok, ken ⟨את⟩ dagiti kalasag, ken ⟨את⟩ dagiti bassit a kalasag a tagikua ni David nga ari, nga adda iti balay ti Elohim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ket inted"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ni Yehojada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "kadagiti daulo"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "kadagiti sangagasut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti buddok"
+    },
+    {
+      "surface": "החניתים",
+      "gloss": "dagiti buddok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kalasag"
+    },
+    {
+      "surface": "המגנות",
+      "gloss": "dagiti kalasag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bassit a kalasag"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "dagiti bassit a kalasag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a tagikua ni"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David nga ari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:53:20.922772183Z",
+  "model": "glm-5.3"
+}

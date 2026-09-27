@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Sinikkilam amin dagiti nalilis kadagiti bilinmo, ta patta ti panandayaanda.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "sinikkilam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "dagiti nalilis"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "kadagiti bilinmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "patta"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "ti panandayaanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:51.508545990Z",
+  "model": "glm-5.3"
+}

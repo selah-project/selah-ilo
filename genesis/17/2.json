@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Itedko ti tulagko iti nagbaetan ti bagik ken ti bagi mo, ket aduennak ⟨את⟩ kenka unay unay.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Itedko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "iti nagbaetan ti bagik"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ken ti bagi mo"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "aduennak"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "kenka"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    }
+  ],
+  "timestamp": "2026-09-26T02:07:28.277573314Z",
+  "model": "glm-5.3"
+}

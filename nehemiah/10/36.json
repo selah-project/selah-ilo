@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 10:36",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "ken nga iyeg ⟨את⟩ ti umuna a bunga ti dagatayo, ken ti umuna a bunga ti amin a bunga ti amin a kayo, tawen iti tawen, iti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולהביא",
+      "gloss": "ken nga iyeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umuna a bunga ti dagatayo"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ti umuna a bunga"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "ti dagatayo"
+    },
+    {
+      "surface": "ובכורי",
+      "gloss": "ken ti umuna a bunga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "a bunga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "a kayo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tawen"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:30:08.797607481Z",
+  "model": "glm-5.3"
+}

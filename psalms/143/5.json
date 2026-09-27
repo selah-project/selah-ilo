@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 143,
+  "translation": "Inlagipko dagiti aldaw ti umuna a panawen; impagasatak kadagiti amin nga aramidmo; iti aramid dagiti imam agpanpanunotak.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "inlagipko"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ti umuna a panawen"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "impagasatak"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "nga aramidmo"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "iti aramid"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dagiti imam"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "agpanpanunotak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:13.934168717Z",
+  "model": "glm-5.3"
+}

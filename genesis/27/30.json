@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Idi linpusanna ni Yitskhak ti bendisionanna ⟨את⟩ ni Yaakov, ket idi rummayar laeng nga immadayo ni Yaakov manipud iti ⟨את⟩ rupa ni Yitskhak amana, immay ni Esav kabsatna manipud iti panaganupna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "idi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "idi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "linpusanna"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ti bendisionanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "rimmuar"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "immadayo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iti ⟨את⟩",
+      "marks": "rupa ni Yitskhak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amana"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kabsatna"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "iti panaganupna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:33:03.872644874Z",
+  "model": "glm-5.3"
+}

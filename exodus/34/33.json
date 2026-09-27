@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Idi nagibus ni Moshe nga agsasarita ⟨את⟩ kadakuada, inikkan ti belo iti rupana.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "nagibus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "agsasarita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "inikkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rupana"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "belo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:32:51.861431445Z",
+  "model": "glm-5.3"
+}

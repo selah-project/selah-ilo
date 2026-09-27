@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "Pudno kadi, a saan a mangsao, ti kinalinteg ti saonyo? Nalinteg kadi nga ukomyo ⟨ti⟩ dagiti anak ti tao?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Pudno kadi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "a saan a mangsao"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ti kinalinteg"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "ti saonyo"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "Nalinteg"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "ukomyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T21:32:30.054744219Z",
+  "model": "glm-5.3"
+}

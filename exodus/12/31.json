@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket inawaganna ni Moshe ken ni Aharon iti rabii, ket kinuna: Dimmagan, ruarkayo manipud iti tengnga ti umilik, dakayo met ken dagiti anak ti Yisrael; mapankayo, agserbikayo ⟨את⟩ kenni Yahweh kas nasaoyo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ken ni Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "dimmagan"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "ruarkayo"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "manipud iti tengnga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti umilik"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ken"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mapankayo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "agserbikayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "kas nasaoyo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:55.025323975Z",
+  "model": "glm-5.3"
+}

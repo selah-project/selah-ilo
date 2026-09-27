@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Inaramid ni Moshe ti amin a bilin ni Yahweh ⟨את⟩ kenkuana; kasta ti inaramidna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ti amin a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti inaramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:51:36.819439717Z",
+  "model": "glm-5.3"
+}

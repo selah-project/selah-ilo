@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 22:18",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Saan kadi a ni Yahweh ti Elohimyo adda kadakayo, ket nangipaay kadakayo iti panaginnaed iti lawlaw? Ta itedna iti imak ⟨את⟩ dagiti agnanaed iti daga, ket naisuko ti daga iti sanguanan ni Yahweh ken iti sanguanan ti umilina.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Saan kadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimyo"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "adda kadakayo"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "ket nangipaay iti panaginnaed"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "iti lawlaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "iti imak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti agnanaed iti daga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ונכבשה",
+      "gloss": "ket naisuko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ken iti sanguanan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:54.526877421Z",
+  "model": "glm-5.3"
+}

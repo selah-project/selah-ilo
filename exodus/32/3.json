@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Immabet ti amin a tao ⟨את⟩ dagiti singsing a balitok nga adda iti ridpingda, ket inlaedda kenni Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "immabet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti singsing a balitok"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "dagiti singsing"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "a balitok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "iti ridpingda"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ket inlaedda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-26T04:35:26.005385804Z",
+  "model": "glm-5.3"
+}

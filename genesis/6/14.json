@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Agaramidka iti bagi mo ti banga kadagiti kayo a gofer; pagturodan ti aramidem ⟨את⟩ ti banga, ket balotam ⟨את⟩ daytoy iti uneg ken iti ruar iti alkitran.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Agaramidka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iti bagi mo"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "ti banga"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kadagiti kayo"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "a gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "pagturodan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ti aramidem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti banga"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ti banga"
+    },
+    {
+      "surface": "וככפרת",
+      "gloss": "ket balotam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ti banga (daytoy)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ken iti ruar"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "iti alkitran"
+    }
+  ],
+  "timestamp": "2026-09-26T01:49:05.843217084Z",
+  "model": "glm-5.3"
+}

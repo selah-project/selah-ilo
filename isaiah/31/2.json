@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket pay isu ket maingel, ket ipaayna ti dakes, ket ⟨את⟩ dagiti saona saan nga inikkatna; ket agtakder maibusor iti balay dagiti dakes, ken maibusor iti tulong dagiti agaramid iti kadakesan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ket pay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maingel"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ipaayna"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ket ⟨את⟩",
+      "marks": "dagiti saona"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "dagiti saona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "inikkatna"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "על",
+      "gloss": "maibusor"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken maibusor"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "iti tulong"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dagiti agaramid"
+    },
+    {
+      "surface": "און",
+      "gloss": "kadakesan"
+    }
+  ],
+  "timestamp": "2026-09-26T15:12:28.782039066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti napanrumbeng a nagan ngem ti adu a kayamanan, manipud iti pirak ken manipud iti balitok ti naimbag a pagayatan.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "napanrumbeng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ngem ti kayamanan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "manipud iti pirak"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "ken manipud iti balitok"
+    },
+    {
+      "surface": "חן",
+      "gloss": "pagayatan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:41:55.655110079Z",
+  "model": "glm-5.3"
+}

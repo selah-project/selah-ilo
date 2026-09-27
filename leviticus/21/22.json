@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ti tinapay ti Elohimna, ti kakananna: iti kadagiti kalabesnegan a nasantuan, ken iti kadagiti nasantuan, mangan.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ti Elohimna"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "iti kadagiti kalabesnegan a nasantuan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kadagiti nasantuan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kadagiti nasantuan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:09.565746698Z",
+  "model": "glm-5.3"
+}

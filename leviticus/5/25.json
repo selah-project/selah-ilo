@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken ti ⟨את⟩ ashamna iyeganna kenni Yahweh: maysa a karnero a taripnong manipud iti tuldaw, segun iti arkommo, a kas asham, kenni ti padi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ashamna"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ashamna"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "iyeganna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "איל",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "taripnong"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "iti tuldaw"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "segun iti arkommo"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "a kas asham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    }
+  ],
+  "timestamp": "2026-09-26T05:00:35.286304931Z",
+  "model": "glm-5.3"
+}

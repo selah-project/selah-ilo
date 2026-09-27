@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Daytoy ti pasetmo, ti apitmo a nasukatan manipud ⟨את⟩ kaniak, kunkuna ni Yahweh, ta limlipatam ⟨את⟩ siak ken agragragka iti baog.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "ti pasetmo"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ti apitmo"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "a nasukatan"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "manipud ⟨את⟩ kaniak"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kunkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "limlipatam"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ siak",
+      "marks": "siak"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "ken agragragka"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "iti baog"
+    }
+  ],
+  "timestamp": "2026-09-26T16:42:45.377762642Z",
+  "model": "glm-5.3"
+}

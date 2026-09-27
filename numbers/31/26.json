@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 31:26",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Bilangem ⟨את⟩ ti ulo ti inala a banag, ti naala iti tao ken iti ayup — sika ken ni Elazar ti padi ken dagiti ulo dagiti ama ti gimong.",
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "bilangem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulo ti inala a banag"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "ti inala a banag"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "ti naala"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ken iti ayup"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ken ni Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "ken dagiti ulo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "dagiti ama"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ti gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T07:21:29.301127661Z",
+  "model": "glm-5.3"
+}

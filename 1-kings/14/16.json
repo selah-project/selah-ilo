@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket ibbatina ⟨את⟩ Yisrael gapu kadagiti basol ni Yaravam a nagbasol, ket a pinagbasolna ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ibbatina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "gapu kadagiti"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "basol"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nagbasol"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ket a"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "pinagbasolna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T13:01:13.828205860Z",
+  "model": "glm-5.3"
+}

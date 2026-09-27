@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket ti buyotna ken dagiti nabilanganda, dua ken innem a pulo a ribu ken pito a gasut.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ket ti buyotna"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ken dagiti nabilanganda"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ken innem a pulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ken pito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    }
+  ],
+  "timestamp": "2026-09-26T06:05:19.637432795Z",
+  "model": "glm-5.3"
+}

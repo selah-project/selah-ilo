@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket itedna ti padi kadagiti kumander ti sangagasut ⟨את⟩ ti sibat ken ⟨את⟩ dagiti kalasag ni David nga ari, a mabirukan iti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "kadagiti kumander"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "ti sangagasut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sibat"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ti sibat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kalasag"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "dagiti kalasag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T13:49:42.058180685Z",
+  "model": "glm-5.3"
+}

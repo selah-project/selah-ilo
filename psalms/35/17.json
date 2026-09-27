@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Adonay, mano kadi nga kitaem? Isublimo ti kararuak manipud kadagiti panagdadaelda, ti maymaysak manipud kadagiti leon.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "mano kadi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "isublimo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "manipud kadagiti panagdadaelda"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "manipud kadagiti leon"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ti maymaysak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:06.662083458Z",
+  "model": "glm-5.3"
+}

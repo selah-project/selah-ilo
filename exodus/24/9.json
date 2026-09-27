@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 24:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Nagtay-abaw ni Moshe ken ni Aharon, ni Nadab ken ni Abihu, ken pitopulo kadagiti lakay ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nagtay-abaw"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken ni Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ni Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ken ni Abihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ken pitopulo"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "kadagiti lakay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T04:10:38.687150729Z",
+  "model": "glm-5.3"
+}

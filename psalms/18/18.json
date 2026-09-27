@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Isalakannakami — saan, isalakannakon manipud iti kabusorko a napigsa, ken manipud kadagiti agay-ayat kadakuan a kabusor, ta napigsada kaniak.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "isalakannakon"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "manipud kadagiti kabusorko"
+    },
+    {
+      "surface": "עז",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "ken manipud kadagiti agay-ayat kadakuan a kabusor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "napigsada"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:56:01.594233066Z",
+  "model": "glm-5.3"
+}

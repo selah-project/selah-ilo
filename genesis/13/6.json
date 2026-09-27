@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket saan a nakabael ti daga a mangaw-it ⟨iti⟩ ⟨את⟩ sinda nga agnengan nga agkakaysa, ta adu ti tagikuada, ket saanda a nakabael nga agnengan nga agkakaysa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a nakabael a mangaw-it"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sinda",
+      "marks": "ni Avram ken ni Lot (dagiti nakasakbay)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "nga agnengan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga agkakaysa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ti tagikuada"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "a nakabaelanda"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "nga agnengan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga agkakaysa"
+    }
+  ],
+  "timestamp": "2026-09-26T01:59:10.811410625Z",
+  "model": "glm-5.3"
+}

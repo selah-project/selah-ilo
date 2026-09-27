@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Immayak ti kinasirib ngem amin dagiti agisuro kaniak, ta dagiti patestimoniom ti pagnanaemak.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ngem amin"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "dagiti agisuro kaniak"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "immayak ti kinasirib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dagiti patestimoniom"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "pagnanaem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ti pagnanaemak"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:45.602684724Z",
+  "model": "glm-5.3"
+}

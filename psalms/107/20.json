@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Ipatulodna ti saona ket ipagasna ida, ken isalakannadu manipud kadagiti panagdadadaelda.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ipatulodna"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ti saona"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "ket ipagasna ida"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ken isalakannadu"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "manipud kadagiti panagdadadaelda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:20.136438062Z",
+  "model": "glm-5.3"
+}

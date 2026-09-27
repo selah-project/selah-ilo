@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket ni Yahweh agnanaed iti agnanayon, pinatakdernana iti ukom ti tronona.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "pinatakdernana"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ti tronona"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:53.662801668Z",
+  "model": "glm-5.3"
+}

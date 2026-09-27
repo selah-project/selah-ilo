@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Maysa a tao nga awan iti pategna, maysa a lalaki ti basol, isu ti agnagnaed iti panangiyallatiw ti ngiwat.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "maysa a tao"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ngaan awan iti pategna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a lalaki"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "agnagnaed"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "iti panangiyallatiw"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ti ngiwat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:00.196352821Z",
+  "model": "glm-5.3"
+}

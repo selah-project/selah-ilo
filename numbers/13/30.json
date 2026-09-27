@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Pinatakbek ni Kalev ⟨את⟩ ti tao maipanggep kenni Moshe, ket kinunana: Agkalika, agkalikantayo ken agtawidtayo ⟨iti⟩, ta makabaeltayo iti dayta.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "Pinatakbek"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maipanggep kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Agkalika"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "agkalikantayo"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "agtawidtayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iti (ti daga)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "makabael"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "makabaeltayo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T06:36:49.318844122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Iti maikadua a tawen ni Yoash nga anak ni Yoahaz, ari ti Yisrael, nga nangituray ni Amatsyahu nga anak ni Yoash, ari ti Yehudah.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "iti maikadua a tawen"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "ni Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "ni Yoahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "ni Amatsyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ni Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T13:46:21.593422762Z",
+  "model": "glm-5.3"
+}

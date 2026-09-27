@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ti panawen a mangpatay ken ti panawen a mangagas; ti panawen a mangdadael ken ti panawen a mangbangon.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ti panawen"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "a mangpatay"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti panawen"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "a mangagas"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ti panawen"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "a mangdadael"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti panawen"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "a mangbangon"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:42.168866702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket nagkararagkami iti Elohimtayo ket nagtakderkami iti salaknib laban kadakuada iti aldaw ken iti rabii gapu kadakuada",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "ket nagkararagkami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimtayo"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "ket nagtakderkami"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "iti salaknib"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "laban kadakuada"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ken iti rabii"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "gapu kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T23:27:37.775168441Z",
+  "model": "glm-5.3"
+}

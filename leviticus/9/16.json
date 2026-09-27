@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket inayonna ⟨את⟩ ti agpangato a sakripisio, ket inaramidna daytoy kas iti naited a linteg.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "inayonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti agpangato a sakripisio"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti agpangato a sakripisio"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kas iti naited a linteg"
+    }
+  ],
+  "timestamp": "2026-09-26T05:09:08.154354758Z",
+  "model": "glm-5.3"
+}

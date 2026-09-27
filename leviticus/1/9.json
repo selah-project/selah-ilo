@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti kaenna ken dagiti sakana agasgasatan iti danum, ket ipasuda ti padi ti ⟨את⟩ amin iti altar — ti sakripisio a mapan-ngato, ti daton iti apoy, ti banglo a ricipay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "ti kaenna"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "ken dagiti sakana"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "agasgasatan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ket ipasuda"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ti sakripisio a mapan-ngato"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ti daton iti apoy"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ti banglo"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "a ricipay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:55.268321572Z",
+  "model": "glm-5.3"
+}

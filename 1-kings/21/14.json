@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Insarda ⟨iti⟩ kenni Izebel, nga kuna: Nabatoan ni Nabot, ket natay.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Insarda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "Nabatoan"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ni Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    }
+  ],
+  "timestamp": "2026-09-26T13:07:00.544607370Z",
+  "model": "glm-5.3"
+}

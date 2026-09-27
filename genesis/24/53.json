@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 24:53",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Inruarna ti adipen dagiti banag a pirak ken dagiti banag a balitok ken dagiti gaso, ken intedna kenni Rivka; ken dagiti magnana ket intedna kenni kabsatna ken iti inana.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "inruarna"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ti adipen"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dagiti banag"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "a pirak"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ken dagiti banag"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "a balitok"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "ken dagiti gaso"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "intedna"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "kenni Rivka"
+    },
+    {
+      "surface": "ומגדנת",
+      "gloss": "ken dagiti magnana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "intedna"
+    },
+    {
+      "surface": "לאחיה",
+      "gloss": "kenni kabsatna"
+    },
+    {
+      "surface": "ולאמה",
+      "gloss": "ken iti inana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:19:24.597720274Z",
+  "model": "glm-5.3"
+}

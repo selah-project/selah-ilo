@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Kinuna ni Avimelekh kenni Yitskhak: Umanka kadagimi, ta nakabaelka unay ngem dakami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ni Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Umanka"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "kadagimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "nakabaelka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngem dakami"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    }
+  ],
+  "timestamp": "2026-09-26T02:22:01.197990518Z",
+  "model": "glm-5.3"
+}

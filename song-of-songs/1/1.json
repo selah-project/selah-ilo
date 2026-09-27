@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti kanta kadagiti kanta, a tagikua ni Shelomoh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ti kanta"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "kadagiti kanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "tagikua ni Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:00:57.764221447Z",
+  "model": "glm-5.3"
+}

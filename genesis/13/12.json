@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ni Avram nagnaed iti daga ti Kenaan, ket ni Lot nagnaed kadagiti ili ti tanap, ket nagtolda agingga iti Sodom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ket ni Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "kadagiti ili"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ti tanap"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "nagtolda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "iti Sodom"
+    }
+  ],
+  "timestamp": "2026-09-26T01:55:28.484399583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 135,
+  "translation": "Agdaydayawkayo kenni Yah, ta naimbag ni Yahweh; agkantakayo iti naganna, ta nasayaat.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Agdaydayawkayo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kenni Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "agkantakayo"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "iti naganna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "nasayaat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:48.754479235Z",
+  "model": "glm-5.3"
+}

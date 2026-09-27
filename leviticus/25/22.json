@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "ket mulayoyo ⟨את⟩ ti maikawalo a tawen, ken mangankayo manipud iti apit a daan agingga iti maikasiam a tawen; agingga iti pananganodat ti apitna, mangan kayo ti daan.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "ket mulayoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maikawalo a tawen"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ti tawen"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "maikawalo"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ken mangankayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "apit"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "a daan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "maikasiam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "iti pananganodat"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ti apitna"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangan kayo"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ti daan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:48:43.470613488Z",
+  "model": "glm-5.3"
+}

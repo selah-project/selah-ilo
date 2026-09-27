@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kinuna ni Yahweh kas iti sao ni Moshe, ket natay dagiti baka iti balbalay, manipud kadagiti nakasarungkar, ken manipud kadagiti talon.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kas iti sao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "natay"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "dagiti baka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "iti balbalay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "iti nakasarungkar"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ken manipud"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "iti talon"
+    }
+  ],
+  "timestamp": "2026-09-26T03:38:15.142402475Z",
+  "model": "glm-5.3"
+}

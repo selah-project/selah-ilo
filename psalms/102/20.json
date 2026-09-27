@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Ta nagpaay ti rupana ni Yahweh manipud iti nasantuan a katayaganna; manipud iti langit agingga iti daga sinangladanna ti matana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nagpaay ti rupana"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "manipud iti nasantuan a katayaganna"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iti nasantuan a katayaganna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "manipud iti langit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "sinangladanna ti matana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:20.180786964Z",
+  "model": "glm-5.3"
+}

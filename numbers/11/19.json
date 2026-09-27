@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Saan a maysa nga aldaw ti mangankayo, ken saan a dua nga aldaw, ken saan a lima nga aldaw, ken saan a sangapulo nga aldaw, ken saan a duapulo nga aldaw;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "mangankayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T06:37:45.453187709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Kas iti bulan mapatakder nga agnanayon, ket saksi iti langit a mamati. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "Kas iti bulan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "mapatakder"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ket saksi"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "a mamati"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:54.269110103Z",
+  "model": "glm-5.3"
+}

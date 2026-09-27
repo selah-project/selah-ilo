@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 1:31",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket timmukroy ni Bath-Sheba iti rupa a daga, ket nagdaydayaw iti ari, ket kinuna: Agbiag koma ti apo-ko a ari, nga si David, agnanayon.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "ket timmukroy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ket nagdaydayaw"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "iti ari"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "agbiag koma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apo-ko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T12:20:29.904890454Z",
+  "model": "glm-5.3"
+}

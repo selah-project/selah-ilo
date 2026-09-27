@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ket immay iti nasapa a bigat ni Hizkiyahu nga ari, ket inurnongna ⟨את⟩ dagiti daulo ti ili, ket simmangpetna iti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ket immay iti nasapa a bigat"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ni Hizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ket inurnongna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti daulo ti ili"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dagiti daulo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ket simmangpetna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:54:58.301360226Z",
+  "model": "glm-5.3"
+}

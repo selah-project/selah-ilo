@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Saan a mangabak ti kabusorna kennuana, ken ti anak ti kinadakes saan a mangiddeppat kennuana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mangabak"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ken ti anak"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ti kinadakes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "mangiddeppat kennuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:48.245014293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Agaramidka iti bagi mo ti maysa a saraf a uleg, ket isurom ⟨את⟩ iti atop ti poste; ket mapasamak a ti tinukkan, no makitana ⟨את⟩ dayta, agbiag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agaramidka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iti bagi mo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ti saraf a uleg"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ket isurom"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iti saraf a uleg"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti atop"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ti poste"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket mapasamak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "ti tinukkan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "no makitana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "agbiag"
+    }
+  ],
+  "timestamp": "2026-09-26T06:53:56.760172798Z",
+  "model": "glm-5.3"
+}

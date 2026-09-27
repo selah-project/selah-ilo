@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Iti rigatko, inawagko ni Yahweh, ken iti Elohimko nagsingaak; nangngegna ti timekok manipud iti tempiona, ket ti singaak simmangpet iti saksakayanna, agingga kadagiti tengngana.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "iti rigatko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "inawagko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "nagsingaak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nangngegna"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "manipud iti tempiona"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ti timekok"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ken ti singaak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti saksakayanna"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "simmangpet"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "agingga kadagiti tengngana"
+    }
+  ],
+  "timestamp": "2026-09-26T20:56:34.759899435Z",
+  "model": "glm-5.3"
+}

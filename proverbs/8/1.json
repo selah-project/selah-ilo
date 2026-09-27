@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Saan kadi a mangawag ti sirib, ket ti pannakaammo mangited ti timekna?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti sirib"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "mangawag"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ket ti pannakaammo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mangited"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ti timekna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:50.829941774Z",
+  "model": "glm-5.3"
+}

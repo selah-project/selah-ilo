@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken ⟨את⟩ Yatir ken ⟨את⟩ dagiti pagdapoanna, ken ⟨את⟩ Eshtemoa ken ⟨את⟩ dagiti pagdapoanna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pagdapoanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti pagdapoanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pagdapoanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti pagdapoanna"
+    }
+  ],
+  "timestamp": "2026-09-26T09:25:38.880212532Z",
+  "model": "glm-5.3"
+}

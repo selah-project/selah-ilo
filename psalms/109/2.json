@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Ta ti ngiwat ti dakes ken ti ngiwat ti pandaraya inlukatanda kontra kaniak; nagsaoda ⟨את⟩ kaniak iti dila a saan a pudno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ken ti ngiwat"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ti pandaraya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kontra kaniak"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "inlukatanda"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nagsaoda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kaniak"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "iti dila"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "a saan a pudno"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:49.985476043Z",
+  "model": "glm-5.3"
+}

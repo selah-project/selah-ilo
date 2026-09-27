@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ti lalaki a, no masansan a pasubliitan, ket mangitakder ti tengngana, ket bigla a madadael, ken awan ti agpatawar.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "panangipasubli"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mangitakder"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "tengngana"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "bigla"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "madadael"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "agpatawar"
+    }
+  ],
+  "timestamp": "2026-09-26T22:46:20.520584382Z",
+  "model": "glm-5.3"
+}

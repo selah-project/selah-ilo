@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Innem kadagiti nagananda iti maysa a bato, ken ⟨את⟩ dagiti nagan ti innem a nabati iti maikadua a bato, kas iti panagpasngayda.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "innem"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "kadagiti nagananda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti nagan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "dagiti nagan"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "ti innem"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "a nabati"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "kas iti panagpasngayda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:07.239515766Z",
+  "model": "glm-5.3"
+}

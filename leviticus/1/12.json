@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket pagpasetanna ⟨אתו⟩ kadagiti pasetna, ken ⟨את⟩ ulona ken ⟨את⟩ tabana; ket isaad ti padi dagitoy kadagiti kayo nga adda iti apoy nga adda iti altar.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "pagpasetanna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti ayup"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "kadagiti pasetna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ulona"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "tabana"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "tabana"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "ket isaad"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kadagiti kayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:55.269068795Z",
+  "model": "glm-5.3"
+}

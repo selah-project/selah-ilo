@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Natay ni Sarah iti Kiryat-Arba, dayta ti Hebron, iti daga ti Kenaan; ket simmangpet ni Avraham a mangipalagip ken ni Sarah ket agsangit koma.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "Natay"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ni Sarah"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "iti Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ti Hebron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ken simmangpet"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "a mangipalagip"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "ken ni Sarah"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "ket agsangit koma"
+    }
+  ],
+  "timestamp": "2026-09-26T02:14:15.643262894Z",
+  "model": "glm-5.3"
+}

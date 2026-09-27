@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Nagsubli ni Yosef iti Mitsrayim, isu ken dagiti kabsatna ken amin a simmakat a kakuyog ⟨את⟩ kenkuana, tapno ilubongda ⟨את⟩ ti amada, kalpasan ti panaglubongna ⟨את⟩ ti amana.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ken dagiti kabsatna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "a simmakat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kakuyog ⟨את⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "tapno ilubong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amada"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "panaglubongna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    }
+  ],
+  "timestamp": "2026-09-26T03:25:54.839525453Z",
+  "model": "glm-5.3"
+}

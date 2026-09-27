@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ti anak ni Ben-Deker, iti Makats, ken iti Shaalvim, ken iti Beit-Shemesh, ken iti Elon-Beit-Khanan;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "ni Ben-Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "iti Makats"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "ken iti Shaalvim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ken iti Beit"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Shemesh"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ken iti Elon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "-Beit"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "-Khanan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:06:00.107828985Z",
+  "model": "glm-5.3"
+}

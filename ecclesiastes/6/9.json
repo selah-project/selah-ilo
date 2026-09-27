@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Nasaysayaat ti panangkita ti mata ngem ti panagbanniaga ti kararua; daytoy pay ket awan linaon ken panagdardarep ti angin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Nasaysayaat"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ti panangkita"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ti mata"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ti panagbanniaga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "awan linaon"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ken panagdardarep"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti angin"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:34.127471454Z",
+  "model": "glm-5.3"
+}

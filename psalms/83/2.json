@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Elohim, saanmo koma nga agsardeng ⟨iti pannakisao⟩, saanmo koma ti aglemmeng, ken saanmo koma nga aginana, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "nga agsardeng ⟨iti pannakisao⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ti aglemmeng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saanmo koma"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "nga aginana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:18.401538537Z",
+  "model": "glm-5.3"
+}

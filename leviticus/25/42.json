@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Ta dagiti adipenK, isuda nga inruarak ⟨את⟩ manipud iti daga ti Mitsrayim; saanda a maipaglakoda iti panaglako ti adipen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dagiti adipenK"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "inruarak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isuda"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "a maipaglakoda"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "iti panaglako"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ti adipen"
+    }
+  ],
+  "timestamp": "2026-09-26T05:50:21.032643025Z",
+  "model": "glm-5.3"
+}

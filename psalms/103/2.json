@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Bendisionam, kararwak, ⟨את⟩ ni Yahweh, ket saanmo a lipaten ti amin nga aramidna.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Bendisionam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kararwak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "a lipaten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "aramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:09.826726382Z",
+  "model": "glm-5.3"
+}

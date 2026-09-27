@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 56:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Ti kuna ni Adonay Yahweh, ti mangurnong kadagiti naipukaw ti Yisrael: pay, agurnongak kadakuana kadagiti naurnongen a kaduana.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ti kuna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "ti mangurnong"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "kadagiti naipukaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "agurnongak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "לנקבציו",
+      "gloss": "kadagiti naurnongen a kaduana"
+    }
+  ],
+  "timestamp": "2026-09-26T15:53:31.131917620Z",
+  "model": "glm-5.3"
+}

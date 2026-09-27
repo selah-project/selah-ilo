@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ket saanda a nangngeg, ket tinangkennda ⟨את⟩ ti tengngedda a kas ti tengnged dagiti ammada, a saan a nagpati kenni Yahweh nga Elohimda.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "a nangngeg"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ket tinangkennda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tengngedda"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ti tengngedda"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "a kas ti tengnged"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "dagiti ammada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "a nagpati"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga Elohimda"
+    }
+  ],
+  "timestamp": "2026-09-26T13:59:02.875974368Z",
+  "model": "glm-5.3"
+}

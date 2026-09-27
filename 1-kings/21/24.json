@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ti matay kennuakhav iti ili, sidaennanto dagiti aso; ket ti matay iti talon, sidaennanto dagiti billit ti langit.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Ti matay"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kennuakhav"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sidaennanto"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dagiti aso"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ket ti matay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sidaennanto"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dagiti billit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    }
+  ],
+  "timestamp": "2026-09-26T13:04:42.380963636Z",
+  "model": "glm-5.3"
+}

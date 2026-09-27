@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket dakayo, agtakderkayo manipud iti lemmeng ket alaenyo ⟨את⟩ ti ili, ket itedna ni Yahweh ti Elohimyo iti imakayo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ket dakayo"
+    },
+    {
+      "surface": "תקומו",
+      "gloss": "agtakderkayo"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "manipud iti lemmeng"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "ket alaenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ili"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ti Elohimyo"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "iti imakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T09:05:16.586291630Z",
+  "model": "glm-5.3"
+}

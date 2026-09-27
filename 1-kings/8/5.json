@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ni Ari Shelomoh ken amin ti gimong ti Yisrael, dagiti immay nga agtitipon kadakuana, adda ⟨את⟩ kaduana iti sanguanan ti arko, nga agasakripisio kadagiti karnero ken baka, a saan a mabalin a bilangen ken saan a maibilang gapu iti kaadu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ket ni ari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "dagti immay nga agtitipon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kaduana ⟨את⟩",
+      "marks": "kadakuana — adda kaduana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "agasakripisio"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ken baka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "mabalin a bilangen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "maibilang"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "gapu iti kaadu"
+    }
+  ],
+  "timestamp": "2026-09-26T12:39:07.998856512Z",
+  "model": "glm-5.3"
+}

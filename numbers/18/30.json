@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ken ikkunam kadakuada: no ipangatonyo ⟨את⟩ ti tabana manipud iti dayta, maibilang daytoy kadagiti Levi a kas ti apit ti golan ken ti apit ti pagipitian ti ubas.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ken ikkunam"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "no ipangatonyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tabana"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "tabana"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud iti dayta"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "maibilang daytoy"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kadagiti Levi"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "a kas ti apit ti"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "golan"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "ken ti apit ti"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "pagipitian ti ubas"
+    }
+  ],
+  "timestamp": "2026-09-26T06:54:48.758596938Z",
+  "model": "glm-5.3"
+}

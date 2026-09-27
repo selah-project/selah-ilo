@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Idi dayta a rabii, nagtaray ti turog ti ari, ket kinunana nga iyegon ⟨את⟩ ti libro dagiti lagipan, dagiti sao ti kadagiti aldaw, ket nabasada iti sangoan ti ari.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "idi dayta a rabii"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "nagtaray"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ti turog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "nga iyegon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti libro dagiti lagipan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ti libro"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "dagiti lagipan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ti kadagiti aldaw"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ket napasamak nga"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "nabasada"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T23:13:30.734302350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ta nalinteg ti sao ni Yahweh, ken amin nga aramidna ⟨ket adda⟩ iti kinapudno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "nga aramidna"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "iti kinapudno"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:53.273345485Z",
+  "model": "glm-5.3"
+}

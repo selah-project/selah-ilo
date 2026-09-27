@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Kaniak ni Yahweh kadagiti katulongko; ket siak, makitakto dagiti kabusorko.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "kadagiti katulongko"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "makitakto"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "dagiti kabusorko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:24.096977141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Segun ti bilang nga aramidendakayo, kasta aramidendakayo ti tunggal maysa segun ti bilangda.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Segun ti bilang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aramidendakayo"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aramidendakayo"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "segun ti bilangda"
+    }
+  ],
+  "timestamp": "2026-09-26T06:39:56.649662320Z",
+  "model": "glm-5.3"
+}

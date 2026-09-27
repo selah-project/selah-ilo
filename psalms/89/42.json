@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Sinamsamam amin dagiti agballasiw iti dalan; nagbalin a bain kadagiti kaarrubana.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "sinamsamam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "dagiti agballasiw"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "a bain"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "kadagiti kaarrubana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:33.938393142Z",
+  "model": "glm-5.3"
+}

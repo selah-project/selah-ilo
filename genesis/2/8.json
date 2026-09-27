@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket nagmula ni Yahweh nga Elohim ti hardin idiay Eden, iti daya, ket inisedarna idiay ⟨את⟩ ti tao a pinarsuana.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "nagmula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "ti hardin"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "idiay Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "inisedarna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "pinarsuana"
+    }
+  ],
+  "timestamp": "2026-09-26T01:38:40.369437872Z",
+  "model": "glm-5.3"
+}

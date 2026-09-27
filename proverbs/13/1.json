@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ti anak a nasirib — ti panursuro ti ama; ngem ti manlibak, saan a mamati iti bennat.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "a nasirib"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ti panursuro"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ti ama"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "ngem ti manlibak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "iti bennat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:38:15.606625054Z",
+  "model": "glm-5.3"
+}

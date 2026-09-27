@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 11:17",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Impan ni Yisrael dagiti mensahero kenni ti ari ti Edom, a kuna: Mangballasiwak koma iti dagam; ngem saan a nangngeg ti ari ti Edom, ket nangipatulod met kenni ti ari ti Moab, ngem saan a nagay-ayat; ket nagnaed ni Yisrael iti Kadesh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Impan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "dagiti mensahero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "mangballasiwak"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "iti dagam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket met"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nangipatulod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nagay-ayat"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ket nagnaed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti Kadesh"
+    }
+  ],
+  "timestamp": "2026-09-26T10:07:43.379290224Z",
+  "model": "glm-5.3"
+}

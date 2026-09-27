@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket immay ti maysa a baro nga ari iti ngato ti Mitsrayim, a saan nga ammo ⟨את⟩ ni Yosep.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baro"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yosep"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosep"
+    }
+  ],
+  "timestamp": "2026-09-26T03:22:48.054946313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Niak ⟨את⟩ inturongnana ket impananna iti sipnget, ken saan iti lawag.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "niak"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "inturongnana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "impananna"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "iti sipnget"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "iti lawag"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:36.879053608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Sumrek ni Bat-Sheba iti ari, iti pagturoganna; ket ti ari ket lakayon unayen, ket ni Avishag a Shunamita ti agserbi ⟨את⟩ ti ari.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "iti pagturoganna"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ket ti ari"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "lakayon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unayen"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "ket ni Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "a Shunamita"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ti agserbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T12:17:04.340848175Z",
+  "model": "glm-5.3"
+}

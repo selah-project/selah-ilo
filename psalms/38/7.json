@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Nakulkolak, naisunkerak agingga unay; amin ti aldaw agsangsangitak a nagnaak.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "nakulkolak"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "naisunkerak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "agsangsangitak"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nagnaak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:14:08.262188595Z",
+  "model": "glm-5.3"
+}

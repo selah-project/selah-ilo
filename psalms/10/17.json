@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti kayat dagiti nakakapisket a umili nainegam, Yahweh; tinuldogmo ti pusoda, tedmo ti tengngam.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ti kayat"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "dagiti nakakapisket a umili"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nainegam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "tinuldogmo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ti pusoda"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "tedmo"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ti tengngam"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:50.984314307Z",
+  "model": "glm-5.3"
+}

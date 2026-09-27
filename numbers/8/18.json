@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket kinuaak ⟨את⟩ dagiti Levita imbes iti amin a tagaanak kadagiti anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ket kinuaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levita"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "imbes iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "a tagaanak"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T06:22:03.807833010Z",
+  "model": "glm-5.3"
+}

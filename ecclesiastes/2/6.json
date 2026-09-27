@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Inaramidko para kaniak dagiti ddigan ti danum, mangidadigo kadakuada ti kakayuan nga agtubtubo kadagiti kayo.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "inaramidko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "dagiti ddigan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "mangidadigo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ti kakayuan"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "agtubtubo"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kadagiti kayo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:09.607228660Z",
+  "model": "glm-5.3"
+}

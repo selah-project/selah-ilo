@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Nagna ni Yaakov iti daga ti panagnaedan ni amana, iti daga ti Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Nagna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ti panagnaedan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ni amana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-26T02:51:37.044591071Z",
+  "model": "glm-5.3"
+}

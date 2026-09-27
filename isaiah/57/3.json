@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Ngem dakayo, umaykayo ditoy, dagiti anak ti mangngagas, putot ti agbabael ken ti agbababai — ket agbabaelka.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ngem dakayo"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "umaykayo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "ti mangngagas"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "putot"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "ti agbabael"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "ket agbabaelka"
+    }
+  ],
+  "timestamp": "2026-09-26T15:54:32.301661708Z",
+  "model": "glm-5.3"
+}

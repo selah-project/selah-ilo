@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken itedko a dagiti ubbing ti dauloanda, ket dagiti manman a barbarek ti mangituray kadakuada.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ken itedko"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "a dagiti ubbing"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "ti dauloanda"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "ket dagiti manman a barbarek"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ti mangituray"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T14:20:21.590835398Z",
+  "model": "glm-5.3"
+}

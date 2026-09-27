@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 24:16",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ken ⟨את⟩ amin dagiti lallaki iti bileg, pito a ribu, ken ti manangaramid ken ti panday, sangaribu — ti amin, nabileg, agaramid iti gubat — ket impanna ida ti ari ti Bavel a naipatalaw idiay Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti lallaki iti bileg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "iti bileg"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ken ti manangaramid"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "ken ti panday"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sangaribu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "nabileg"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ket impanna ida"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ti Bavel"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "a naipatalaw"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "idiay Bavel"
+    }
+  ],
+  "timestamp": "2026-09-26T14:15:29.384772794Z",
+  "model": "glm-5.3"
+}

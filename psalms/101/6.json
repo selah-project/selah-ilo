@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 101,
+  "translation": "Dagiti matak ⟨iti⟩ dagiti mamati ti daga, nga agnaeddada kaduak; ti nagna iti naan-anay a dalan, isuna ti agserbina kadakuak.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matak"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "iti dagiti mamati"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "nga agnaeddada"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kaduak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ti nagna"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "naan-anay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ti agserbina kadakuak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:37.428343409Z",
+  "model": "glm-5.3"
+}

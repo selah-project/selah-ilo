@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket nagsungbat ni Yahweh ⟨את⟩ ni Iyov manipud iti bayubay, ket kinuna:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ket nagsungbat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "bayubay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:00:20.266884402Z",
+  "model": "glm-5.3"
+}

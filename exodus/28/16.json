@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Uppat ti sulina dayta, nadoble; ti kalawa ti makalsek nga ima ti kaatiddoganna, ket ti kalawa ti makalsek nga ima ti kalawaanna.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "uppat ti sulina"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agtakder dayta"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "nadoble"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "ti kalawa ti makalsek nga ima"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kaatiddoganna"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ket ti kalawa ti makalsek nga ima"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "kalawaanna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:22:05.218876729Z",
+  "model": "glm-5.3"
+}

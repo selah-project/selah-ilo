@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "⟨את⟩ Sikayokamin laeng ti ammok kadagiti amin a pamilia ti daga; isu a ukomakonto kadakayo ⟨את⟩ dagiti amin a basolyo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ Sikayokamin"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ammok"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "pamilia"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "על",
+      "gloss": "isu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "a"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ukomakonto"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti amin a basolyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "basolyo"
+    }
+  ],
+  "timestamp": "2026-09-26T19:49:00.754643503Z",
+  "model": "glm-5.3"
+}

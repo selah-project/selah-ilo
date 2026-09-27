@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "Anian naragsak ti lalaki a guraem, o Yah, ket a patuduem manipud iti torahmo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "anian naragsak"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "guraem"
+    },
+    {
+      "surface": "יה",
+      "gloss": "o Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "manipud iti torahmo"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "patuduem"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:22.639794056Z",
+  "model": "glm-5.3"
+}

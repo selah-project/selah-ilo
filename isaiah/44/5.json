@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Daytoy agkuna: Kenni Yahweh siak; ket daytoy agawag iti nagan ni Yaakov; ket daytoy agsurat iti imana: Kenni Yahweh, ket iti nagan ni Yisrael ikankoanna.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "agkuna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ket daytoy"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "agawag"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ket daytoy"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "agsurat"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ket iti nagan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "ikankoanna"
+    }
+  ],
+  "timestamp": "2026-09-26T15:31:08.466959773Z",
+  "model": "glm-5.3"
+}

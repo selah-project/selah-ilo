@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 138,
+  "translation": "Agyuyongak nga agsadsadok iti nasantuan a temploMo, ket agyamanak ⟨את⟩ ti naganMo gapu iti hesedMo ken gapu iti kinapudnoMo; ta dinakkelam iti ngato ti amin a naganMo ti saoMo.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "agsadsadok a maminsan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nasantuan a temploMo"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "ket agyamanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganMo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naganMo"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedMo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken gapu iti"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kinapudnoMo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "dinakkelam"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naganMo"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "saoMo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:47.800621437Z",
+  "model": "glm-5.3"
+}

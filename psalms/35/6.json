@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Adda koma ti dalanda a sipnget ken nalisdan, ket ti angeles ni Yahweh agtakop kaniada.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "adda koma"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ti dalanda"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sipnget"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "ken nalisdan"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ket ti angeles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "agtakop kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:09:27.166224790Z",
+  "model": "glm-5.3"
+}

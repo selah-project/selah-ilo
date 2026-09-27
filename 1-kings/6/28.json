@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket inabbonganna ⟨את⟩ dagiti kerub iti balitok.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "inabbonganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kerub"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "dagiti kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "iti balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T12:34:43.722450572Z",
+  "model": "glm-5.3"
+}

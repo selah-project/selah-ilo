@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Nagnaed ti angel ni Yahweh a manglikmut kadagiti agbutbuteng kenkuana, ket isalakanna ida.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ti angel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a manglikmut"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kadagiti agbutbuteng kenkuana"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "ket isalakanna ida"
+    }
+  ],
+  "timestamp": "2026-09-26T21:06:17.577218188Z",
+  "model": "glm-5.3"
+}

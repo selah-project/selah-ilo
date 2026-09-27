@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket insuratna iti surat, a sawen: Ikabilkayo ⟨את⟩ ni Uriah iti sango ti napigsaan a gubat, ket agsublikayo manipud kenkuana, ken masugatan ken matay.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "insuratna"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "iti surat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a sawen"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ikabilkayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Uriah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "napigsaan"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ket agsublikayo"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "manipud kenkuana"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ken masugatan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ken matay"
+    }
+  ],
+  "timestamp": "2026-09-26T11:43:17.802711008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "ken ni Yoav anak ni Tseruyah iti ngato ti buyot, ket ni Yehoshafat anak ni Akhilud ti aglagip iti annales.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "ken ni Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ni Tseruyah"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ket ni Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ni Akhilud"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "ti aglagip iti annales"
+    }
+  ],
+  "timestamp": "2026-09-26T23:40:14.397764049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Inbaonko iti sangaadakayo ⟨את⟩ ti putakti, ket inikkatna da ⟨את⟩ ⟨אותם⟩ manipud iti sangaadakayo — dagiti dua a ari ti Emorio — saan babaen ti tabakmo, ken saan babaen ti busilammo.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "inbaonko"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "iti sangaadakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti putakti"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ti putakti"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "inikkatna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "da"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "manipud iti sangaadakayo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Emorio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "babaen ti tabakmo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "iti busilammo"
+    }
+  ],
+  "timestamp": "2026-09-26T09:31:53.002440308Z",
+  "model": "glm-5.3"
+}

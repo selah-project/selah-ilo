@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ti kabsat ni Mikhah: ni Yishiyah; kadagiti annak ni Yishiyah: ni Zekharyahu.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ti kabsat"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ni Mikhah"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ni Yishiyah"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti annak"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ni Yishiyah"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "ni Zekharyahu"
+    }
+  ],
+  "timestamp": "2026-09-26T23:42:11.018046881Z",
+  "model": "glm-5.3"
+}

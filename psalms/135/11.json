@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 135,
+  "translation": "kanda Sihon ari dagiti Amorrey, kanda Og ari ti Bashan, ken kadagiti amin a pagarien ti Kanaan;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "kanda Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "dagiti Amorrey"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "kanda Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ti Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ken kadagiti amin"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "a pagarien"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:22.251086110Z",
+  "model": "glm-5.3"
+}

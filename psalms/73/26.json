@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Mapukaw ti lasagko ken ti pusok; ti bato ti pusok ken ti pasetko ⟨is⟩ ni Elohim, agingga iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "mapukaw"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "ti lasagko"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "ken ti pusok"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "ken ti pasetko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agingga iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:48:22.960322723Z",
+  "model": "glm-5.3"
+}

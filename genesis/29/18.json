@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ket inayatanna ni Yaakov ⟨את⟩ ni Rahel, ket kinunana: agserbiak kenka pito a tawen, kenni Rahel a anakmo a babai ti ubbing.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ket inayatanna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ni Rahel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "agserbiak kenka"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "kenni Rahel"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "anakmo a babai"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "ti ubbing"
+    }
+  ],
+  "timestamp": "2026-09-26T02:29:17.617071927Z",
+  "model": "glm-5.3"
+}

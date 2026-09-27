@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "No alaek ti paypay ti bigat, ken agnaedak iti naud-udi a paset ti baybay,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "alaek"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ti paypay"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ti bigat"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "agnaedak"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "iti naud-udi a paset"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ti baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:13.429022522Z",
+  "model": "glm-5.3"
+}

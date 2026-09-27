@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Simmangkat dagiti bantay, nagbaba dagiti tanap — iti dayta a disso a pinundarmo kaniada.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "simmangkat"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nagbaba"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "dagiti tanap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "disso"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "pinundarmo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:38.107664129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket kinuna ti babai ⟨iti⟩ sarpa: Iti bunga dagiti kayo ti hardin mangankami.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨iti⟩"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ti sarpa"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "iti bunga"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dagiti kayo"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ti hardin"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "mangankami"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:02.840144867Z",
+  "model": "glm-5.3"
+}

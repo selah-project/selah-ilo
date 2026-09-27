@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Sinoman a makiturog kadagiti ayup — matayen a mamatay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sinoman"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "a makiturog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ayup"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a mamatay"
+    }
+  ],
+  "timestamp": "2026-09-26T04:11:55.995968802Z",
+  "model": "glm-5.3"
+}

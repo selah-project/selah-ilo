@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ni Elam ti maikalima, ni Yehokhanan ti maikanem, ni Elyehoenay ti maikapito.",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ti maikalima"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Yehokhanan"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ti maikanem"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "Elyehoenay"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ti maikapito"
+    }
+  ],
+  "timestamp": "2026-09-26T23:42:22.336609938Z",
+  "model": "glm-5.3"
+}

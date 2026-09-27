@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ta awan iti patay ti panaglagip kenka; iti Sheol siasino ti agdaydayaw kenka?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "במות",
+      "gloss": "iti patay"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ti panaglagip kenka"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "iti Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ti agdaydayaw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:15.523015820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ken ⟨את⟩ ti maysa a karnero alaem, ket ikkanda ni Aharon ken dagiti annakna ⟨את⟩ ti imada iti ngato ti ulo ti karnero.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti maysa a karnero"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ti karnero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ket ikkanda"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ken dagiti annakna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imada"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "imada"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ti karnero"
+    }
+  ],
+  "timestamp": "2026-09-26T04:24:24.231289402Z",
+  "model": "glm-5.3"
+}

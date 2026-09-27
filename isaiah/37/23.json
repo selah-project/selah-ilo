@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 37:23",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "⟨את⟩ Siasino ti dinaayam ken dinutuyam, ken ⟨את⟩ siasino ti nangatoenam ti timekmo, ket nangatuen ti nangato nga addaan dagiti matam — iti Balligi a Nasantuan ti Yisrael?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siasino (whom)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ti dinaayam"
+    },
+    {
+      "surface": "וגדפת",
+      "gloss": "ken dinutuyam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken maibusor"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "הרימותה",
+      "gloss": "ti nangatoenam"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timekmo"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ket nangatuen"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ti nangato"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dagiti matam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Balligi a Nasantuan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T15:20:02.370078407Z",
+  "model": "glm-5.3"
+}

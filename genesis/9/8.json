@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Kinuna ni Elohim kenni Noach ken kadagiti anakna a lalaki ⟨את⟩ a kakuyogna, nga agkuna:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anakna a lalaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "a kakuyogna ⟨את⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga agkuna"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:48.486191885Z",
+  "model": "glm-5.3"
+}

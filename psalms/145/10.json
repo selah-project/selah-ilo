@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Ipadayawdaka, ni Yahweh, dagiti amin nga aramidmo, ken dagiti nasantuam bendisionandaka.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ipadayawdaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin nga"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "aramidmo"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ken dagiti nasantuam"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "bendisionandaka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:08.917322675Z",
+  "model": "glm-5.3"
+}

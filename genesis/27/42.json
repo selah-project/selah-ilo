@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 27:42",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Naipakaammuan ni Rivka ⟨את⟩ dagiti sao ni Esav nga anakna a kadakkelan, ket immula ket inawaganna ni Yaakov nga anakna a bassit, ket kinunana kenkuana: Siam, ti kabsatmo nga Esav agliwliwanna kenka a mangpapatayka.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "naipakaammuan"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "ni Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao ni Esav"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "a kadakkelan"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ket immula"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "a bassit"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siam"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "a kabsatmo"
+    },
+    {
+      "surface": "מתנחם",
+      "gloss": "agliwliwanna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "a mangpapatayka"
+    }
+  ],
+  "timestamp": "2026-09-26T02:31:46.205905607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Saanmo a iyeg ti madi a damag; saanmo a ikabil ti imam a kadua iti dakes a tao, a nagbalin a saksi ti karahayan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "iyegam"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "damag"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "madi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "ikabilam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "להית",
+      "gloss": "a nagbalin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "karahayan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:11:47.540031651Z",
+  "model": "glm-5.3"
+}

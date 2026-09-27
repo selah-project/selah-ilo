@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kinuna ni Paro: Siasino ni Yahweh a dengngegko ti timekna, a ipatulodko ni Yisrael? Saanko a naammmoan ⟨את⟩ ni Yahweh, ket ni Yisrael met ⟨את⟩ saakonto a ipatulod.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "dengngegko"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ti timekna"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "a ipatulodko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "naammmoak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ipatulodko"
+    }
+  ],
+  "timestamp": "2026-09-26T03:37:20.565706423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken im-adipaen ti tao ti adda iti baba dagiti payungpayongda kadagiti uppat a pasetda, ken dagiti rupada ken dagiti payungpayongda kadagiti uppatda.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "ken im-adipaen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ti adda iti baba"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "dagiti payungpayongda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "dagiti uppat"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "a pasetda"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ken dagiti rupada"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "ken dagiti payungpayongda"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "kadagiti uppatda"
+    }
+  ],
+  "timestamp": "2026-09-26T18:02:15.215423260Z",
+  "model": "glm-5.3"
+}

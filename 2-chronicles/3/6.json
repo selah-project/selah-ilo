@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket binacarna ⟨את⟩ ti balay iti nangina a bato para iti puspuseg, ket ti balitok ket balitok ti Parvayim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ket binacarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "bato"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "nangina"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "para iti puspuseg"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ket ti balitok"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "ti Parvayim"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:14.786072852Z",
+  "model": "glm-5.3"
+}

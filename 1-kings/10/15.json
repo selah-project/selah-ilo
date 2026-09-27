@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "malaksad kadagiti lallaki nga aglaklako ken ti panaglaklako dagiti mannakalako, ken ti amin nga ari ti Arabia ken dagiti pangulo ti daga.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "malaksad"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "kadagiti lallaki"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "nga aglaklako"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "ken ti panaglaklako"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "dagiti mannakalako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ngaan ari"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ti Arabia"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "ken dagiti pangulo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T12:38:05.934780450Z",
+  "model": "glm-5.3"
+}

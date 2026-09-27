@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ket inted dagiti anak ni Yisrael kadagiti Levita ⟨את⟩ dagiti ili nga daytoy ken ⟨את⟩ dagiti pagliwaliwanda, kas impatalged ni Yahweh babaen ti ima ni Moshe, babaen ti goral.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ket inted"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kadagiti Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ili nga daytoy"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga daytoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pagliwaliwanda"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "dagiti pagliwaliwanda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "impatalged"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen ti ima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "babaen ti goral"
+    }
+  ],
+  "timestamp": "2026-09-26T09:25:55.903862118Z",
+  "model": "glm-5.3"
+}

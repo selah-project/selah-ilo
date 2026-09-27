@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Iti kenka nakasangladak manipud iti tian; manipud iti uneg ti inakko sika ti nangala kaniak; iti kenka ti panagdaydayawko a agnanayon.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "iti kenka"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "nakasangladak"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "manipud iti tian"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "manipud iti uneg"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ti inakko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ti nangala kaniak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "iti kenka"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ti panagdaydayawko"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "a agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:41:13.763788688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ken ⟨את⟩ ti altar ti natulo a daton ken ⟨את⟩ amin a ramramitna, ken ⟨את⟩ ti labba ken ⟨את⟩ ti pagtakananna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti altar ti natulo a daton"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natulo a daton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a ramramitna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a ramramitna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti labba"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ti labba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pagtakananna"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ti pagtakananna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:27:45.933263324Z",
+  "model": "glm-5.3"
+}

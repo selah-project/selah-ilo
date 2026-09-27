@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Dagiti anak ni Asna, dagiti anak ni Meunim, dagiti anak ni Nefisim,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "ni Asna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ni Meunim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "ni Nefisim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:21:32.019684991Z",
+  "model": "glm-5.3"
+}

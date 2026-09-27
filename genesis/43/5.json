@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "No dina ipatulod, saan kami nga agbaba; ta kinuna ti tao kadakami: saan a makitakayo ti rupak, malaksid no ti kabsatyo ket ⟨את⟩ kadakayo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "No"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "dina"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ipatulod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "kami nga agbaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "makitakayo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupak"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "malaksid no"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ti kabsatyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "ti kabsatyo — adda iti pamilia dagiti marka"
+    }
+  ],
+  "timestamp": "2026-09-26T03:08:16.183334322Z",
+  "model": "glm-5.3"
+}

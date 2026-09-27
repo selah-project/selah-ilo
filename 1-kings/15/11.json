@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Kinua ni Asa ti nalinteg kadagiti mata ni Yahweh, a kas ni David a ti amana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Kinua"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ni Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "a kas ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a ti amana"
+    }
+  ],
+  "timestamp": "2026-09-26T12:54:44.255187099Z",
+  "model": "glm-5.3"
+}

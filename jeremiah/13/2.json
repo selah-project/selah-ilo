@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket ginatangko ⟨את⟩ ti barikes kalintegan ti sao ni Yahweh, ket insuotko daytoy iti matnak a bagi.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Ket ginatangko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti barikes"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ti barikes"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kalintegan ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ket insuotko daytoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "matnak a bagi"
+    }
+  ],
+  "timestamp": "2026-09-26T16:47:23.669603022Z",
+  "model": "glm-5.3"
+}

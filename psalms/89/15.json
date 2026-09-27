@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ti kinalinteg ken ti ukom ti pagtatakderan ti trononom; ti hesed ken ti pudnor sumangoanda iti rupam.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ti kinalinteg"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ken ti ukom"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ti pagtatakderan"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ti trononom"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ti hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ken ti pudnor"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "sumangoanda"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "iti rupam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:00.804261533Z",
+  "model": "glm-5.3"
+}

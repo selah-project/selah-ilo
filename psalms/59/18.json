@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 59,
+  "translation": "Ti bilegko, kenka akanto kumanta, ta ni Elohim ti nangato a babakbaknangko, ti Elohim ti hesedko.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Ti bilegko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "akanto kumanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ti nangato a babakbaknangko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "ti hesedko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:14:39.073761308Z",
+  "model": "glm-5.3"
+}

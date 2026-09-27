@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 2:16",
+  "book": "lamentations",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Sinukrangda maipapan kenka ti ngiwatda, amin dagiti kabusormo; immawitda ket nagrigrinda ti ngipen; kinunada: Linemmekmi! Napudno a daytoy ti aldaw a nagnanaedkami nga ur-urayen; nabiruami, nakitami.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "Sinukrangda"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "maipapan kenka"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ti ngiwatda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dagiti kabusormo"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "immawitda"
+    },
+    {
+      "surface": "ויחרקו",
+      "gloss": "ket nagrigrinda"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ti ngipen"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "בלענו",
+      "gloss": "Linemmekmi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Napudno a"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "שקוינהו",
+      "gloss": "a nagnanaedkami nga ur-urayen"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "nabiruami"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nakitami"
+    }
+  ],
+  "timestamp": "2026-09-26T23:05:06.653225902Z",
+  "model": "glm-5.3"
+}

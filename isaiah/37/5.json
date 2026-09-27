@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ket dagiti adipen ni Hizkiyahu, ti ari, immay kenni Yeshayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "immay"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dagiti adipen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ni Hizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-09-26T15:18:16.405494736Z",
+  "model": "glm-5.3"
+}

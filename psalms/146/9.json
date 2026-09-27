@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 146,
+  "translation": "Ag_salaknib ni Yahweh ⟨את⟩ dagiti ganganaet; ti ulila ken ti balo italinaedna; ket ti dalan dagiti dakes ibaliwna a nakurba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "agsalaknib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ganganaet"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "dagiti ganganaet"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ti ulila"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ken ti balo"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "italinaedna"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ket ti dalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ibaliwna a nakurba"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:57.858531244Z",
+  "model": "glm-5.3"
+}

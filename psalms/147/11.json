@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Kayatna ni Yahweh ⟨את⟩ dagiti agbutbuteng kenkuana, ⟨את⟩ dagiti agur-uray iti hesedna.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "Kayatna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti agbutbuteng kenkuana"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dagiti agbutbuteng kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti agur-uray"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "dagiti agur-uray"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "iti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:42.653411719Z",
+  "model": "glm-5.3"
+}

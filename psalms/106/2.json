@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Asinonto ti makasao kadagiti bileg ni Yahweh, no asinonto ti mangipadengngeg iti amin a daydayawna?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "asinonto"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ti makasao"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "kadagiti bileg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ti mangipadengngeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "a daydayawna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:18.132131023Z",
+  "model": "glm-5.3"
+}

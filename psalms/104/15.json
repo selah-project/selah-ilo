@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Ken arak a maragsakanna ti puso ti tao, a mangisilsilngaw iti rupa manipud iti lana, ken tinapay a suportanna ti puso ti tao.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "ken arak"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "maragsakanna"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "a mangisilsilngaw"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "iti rupa"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "manipud iti lana"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ken tinapay"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "suportanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:08.196926254Z",
+  "model": "glm-5.3"
+}

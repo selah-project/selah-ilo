@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 24:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "ket agbuka iti Nagan ni Yahweh — matayanto a matay, agbatoanto a mabatoanda amin ti gimong: ti gayyem a kas ti tubo, no agbuka iti Nagan — matayanto.",
+  "tokens": [
+    {
+      "surface": "ונקב",
+      "gloss": "ket agbuka iti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayanto"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a matay"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "agbatoanto"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "a mabatoanda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "ti gayyem a kas"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "ti tubo"
+    },
+    {
+      "surface": "בנקבו",
+      "gloss": "no agbuka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iti Nagan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "matayanto"
+    }
+  ],
+  "timestamp": "2026-09-26T05:51:40.804716689Z",
+  "model": "glm-5.3"
+}

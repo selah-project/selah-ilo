@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket daytoy ti di panaglinisna iti panagayusna: no agayus ti lasagna ⟨את⟩ ti panagayusna, wenno mapennaan ti lasagna manipud iti panagayusna — di panaglinisna dayta.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ket daytoy"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ti agbalin"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "di panaglinisna"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "iti panagayusna"
+    },
+    {
+      "surface": "רר",
+      "gloss": "no agayus"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ti lasagna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagayusna"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "ti panagayusna"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "mapennaan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ti lasagna"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "manipud iti panagayusna"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "di panaglinisna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta isu"
+    }
+  ],
+  "timestamp": "2026-09-26T05:29:06.814774431Z",
+  "model": "glm-5.3"
+}

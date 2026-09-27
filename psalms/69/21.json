@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Ti babelg dinidaelna ti pusok, ket nasakitak unay; ket agur-urayak iti mangted iti asi, ngem awan; ken iti kadagiti mangkomporta, ngem saan a nakitak.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "ti babelg"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "dinidaelna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "ket nasakitak unay"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ket agur-urayak"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "iti mangted iti asi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngem awan"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "ken iti kadagiti mangkomporta"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "nakitak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:41:14.555957900Z",
+  "model": "glm-5.3"
+}

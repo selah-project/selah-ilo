@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ti kidayaw ti sango ti pannakadadael, ken ti natayag nga espiritu ti sango ti pannatnag.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ti sango"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ti pannakadadael"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ti kidayaw"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ken ti sango"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "ti pannatnag"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "natayag"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    }
+  ],
+  "timestamp": "2026-09-26T22:39:49.090516970Z",
+  "model": "glm-5.3"
+}

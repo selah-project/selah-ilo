@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Inaramidda ⟨את⟩ dagiti bato ti shoham, naserrada kadagiti pangiket ti balitok, naipuktak kadagiti puktak ti singsing, segun kadagiti nagan dagiti anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bato ti shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ti shoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "naserrada"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "kadagiti pangiket"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ti balitok"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "naipuktak"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "kadagiti puktak"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ti singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "segun"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "kadagiti nagan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T04:47:52.396974661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Ket ipagnaedna sadiay dagiti mabisin, ket bangbangondan maysa a ili a pagennaedan.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "ket ipagnaedna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "dagiti mabisin"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "ket bangbangondan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "maysa a ili"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "a pagennaedan"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:05.243093905Z",
+  "model": "glm-5.3"
+}

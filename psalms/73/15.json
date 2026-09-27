@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "No kuna `kunak` a kastoy nga ibagak: toy, ti kaputotan, dagiti annakmo — nagin-tallikudak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kunak"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "nga ibagak"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kastoy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "toy"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ti kaputotan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dagiti annakmo"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "nagin-tallikudak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:49:03.897196073Z",
+  "model": "glm-5.3"
+}

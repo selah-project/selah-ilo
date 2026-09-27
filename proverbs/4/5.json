@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Alaenmo ti tinaronan, alaenmo ti pannakaammoyo; saanmo a lipaten, ken saanmo a maliklikan manipud kadagiti sao ti ngiwatko.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "alaenmo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti tinaronan"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "alaenmo"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ti pannakaammoyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lipaten"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saanmo a"
+    },
+    {
+      "surface": "תט",
+      "gloss": "maliklikan"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "manipud kadagiti sao"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwatko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:33.654796768Z",
+  "model": "glm-5.3"
+}

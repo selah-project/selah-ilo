@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 13:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ngem siakammo, ni Yahweh ti Elohimtayo, ken saanmi a panawan ⟨kenkuana⟩; ken dagiti padi nga agserbi kenni Yahweh, dagiti anak ni Aharon, ken dagiti Levi, iti trabaho.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Ngem siakammo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "עזבנהו",
+      "gloss": "a panawan"
+    },
+    {
+      "surface": "וכהנים",
+      "gloss": "ken dagiti padi"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "nga agserbi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ken dagiti Levi"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "iti trabaho"
+    }
+  ],
+  "timestamp": "2026-09-26T23:49:28.316099715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ta sino ti El no di ni Yahweh? ken sino ti bato no di ti Elohimitayo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "no di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ken sino"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "no di"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimitayo"
+    }
+  ],
+  "timestamp": "2026-09-26T12:10:45.606193446Z",
+  "model": "glm-5.3"
+}

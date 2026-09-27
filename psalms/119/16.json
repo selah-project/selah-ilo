@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Iti dagiti bilinmo li-liwakon, saanak a lipaten ti saom.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "iti dagiti bilinmo"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "li-liwakon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "a lipaten"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ti saom"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:10.702730616Z",
+  "model": "glm-5.3"
+}

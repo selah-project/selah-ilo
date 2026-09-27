@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Nangngeg ni Yitro, padi ti Midian, apo a babai ni Moshe, ⟨את⟩ amin a naaramid ni Elohim kenni Moshe ken kenni Yisrael, ti pagilianna, ta inruarna ni Yahweh ⟨את⟩ ti Yisrael manipud iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ni Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "padi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ti Midian"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "apo a babai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naaramid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kenni Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ken kenni Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti pagilianna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "inruarna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T04:04:57.896703864Z",
+  "model": "glm-5.3"
+}

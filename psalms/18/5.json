@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Dagiti ulkan ti matay inliklikanannak, ken dagiti waig ti Belial inbutengannak.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "inliklikanannak"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "dagiti ulkan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ti matay"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "ken dagiti waig"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ti Belial"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "inbutengannak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:56:34.755645546Z",
+  "model": "glm-5.3"
+}

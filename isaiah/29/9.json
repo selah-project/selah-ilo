@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Agur-uraykayo ken agbiglakayo; bungburnegkayo ken agbungburnegkayo; nalasingkayo, ngem saan iti bino; nagkuykuyogkayo, ngem saan iti arak.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "agur-uraykayo"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "ken agbiglakayo"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "bungburnegkayo"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "ken agbungburnegkayo"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "nalasingkayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "יין",
+      "gloss": "iti bino"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "nagkuykuyogkayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "iti arak"
+    }
+  ],
+  "timestamp": "2026-09-26T15:07:03.962715074Z",
+  "model": "glm-5.3"
+}

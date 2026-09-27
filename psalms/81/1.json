@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 81,
+  "translation": "Iti mannangimaton iti kanta, iti ⟨Gittith⟩, ni Asaph.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Iti mannangimaton iti kanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaph"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:38.474989374Z",
+  "model": "glm-5.3"
+}

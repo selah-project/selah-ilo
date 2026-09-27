@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "No agawagak, sungbatannak, Elohimko iti kinalintegko; iti panakit nga addaak iti narigat nangkaawaannak; itedmo kaniak ti awan bayadna, ket dengngegem ⟨ti⟩ tarusko.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "no agawagak"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sungbatannak"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "iti kinalintegko"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "iti panakit nga addaak iti narigat"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "nangkaawaannak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "itedmo kaniak ti awan bayadna"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ket dengngegem"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ti tarusko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:08.902384307Z",
+  "model": "glm-5.3"
+}

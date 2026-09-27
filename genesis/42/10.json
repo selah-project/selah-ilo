@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ken kinunada kakuana: Saan, apo mi; ngem dagiti adipenmo simmangpetda nga aggatang iti makan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ken kinunada"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kakuana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apo mi"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ngem dagiti adipenmo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "simmangpetda"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "nga aggatang iti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:59.308407535Z",
+  "model": "glm-5.3"
+}

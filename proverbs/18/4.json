@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Dagiti sao ti ngiwat ti lalaki ket kas naadalem a danum, ti taudan ti kinasirib ket kas karayan nga agayus.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "naadalem"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "nga agayus"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "taudan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti kinasirib"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:43.927146873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti agurnong iti kalgaw ket anak a maaram, ngem ti maturog iti panagapit ket anak a makabain.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "ti agurnong"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "iti kalgaw"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ket anak"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "a maaram"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ti maturog"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "iti panagapit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ket anak"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "a makabain"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:46.611695613Z",
+  "model": "glm-5.3"
+}

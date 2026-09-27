@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 67,
+  "translation": "Iti mamaymay, kadagiti instrumento ti kuerdas, maysa a salmo, maysa a kanta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "iti mamaymay"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "kadagiti instrumento ti kuerdas"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a salmo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "maysa a kanta"
+    }
+  ],
+  "timestamp": "2026-09-26T21:38:04.466603442Z",
+  "model": "glm-5.3"
+}

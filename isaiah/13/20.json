@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Saan a matuloy ti agnaed iti agnanayon, ken saan a pagiennaedan agingga iti panawen ken panawen; ken saan agitelad ti tolda sadiay ti Arabo, ken dagiti pastol saan da a aginana sadiay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ti agnaed"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "pagiennaedan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "דור",
+      "gloss": "iti panawen"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ken panawen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "agitelad"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti tolda sadiay"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "ti Arabo"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "ken dagiti pastol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "aginana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T14:37:51.191807611Z",
+  "model": "glm-5.3"
+}

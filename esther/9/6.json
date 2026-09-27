@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken iti Shushan ti palasio, pinatay ken dadaelenda dagiti Yehudim lima a gasut a lallaki.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "ken iti Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ti palasio"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pinatay"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "dagiti Yehudim"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ken dadaelenda"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lallaki"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:52.812685795Z",
+  "model": "glm-5.3"
+}

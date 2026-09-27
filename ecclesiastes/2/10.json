@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 2:10",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket amin a kiniddaw dagiti matam, saanko a sinana manipud kadakuada; saanko a linmedan ⟨את⟩ ti pusok manipud iti aniaman a ragsak, ta ti pusok nagragsak iti amin a trabahok; ket daytoy ti pasetko manipud iti amin a trabahok.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ket amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "kiniddaw"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanko"
+    },
+    {
+      "surface": "אצלתי",
+      "gloss": "sinana"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "manipud kadakuada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanko"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "linmedan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pusok"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manipud iti aniaman"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ragsak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "nagragsak"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "trabahok"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ket daytoy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ti nagbalin"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "pasetko"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manipud iti amin"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "trabahok"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:26.927002844Z",
+  "model": "glm-5.3"
+}

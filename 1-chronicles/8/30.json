@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket ti anakna a lalaki, ti umuna a naiyanak, ni Avdon, ken ni Tsur, ken ni Khish, ken ni Baal, ken ni Nadav,",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ket ti anakna a lalaki"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ti umuna a naiyanak"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ni Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ken ni Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ken ni Khish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ken ni Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ken ni Nadav"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:50.661352724Z",
+  "model": "glm-5.3"
+}

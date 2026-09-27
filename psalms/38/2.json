@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Yahweh, saanmo akon a kidningen iti riknam, ken saanmo akon a padusaannak iti rieam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "iti riknam"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "akon a kidningen"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "iti rieam"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "akon a padusaannak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:08.771687101Z",
+  "model": "glm-5.3"
+}

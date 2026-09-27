@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Pagragsakam ti kararua ti adipenmo, ta iti kenka, Adonay, ti kararua ko ipangatko.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Pagragsakam"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iti kenka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua ko"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ipangatko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:46.709381509Z",
+  "model": "glm-5.3"
+}

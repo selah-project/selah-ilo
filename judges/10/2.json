@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket immukom ⟨את⟩ Yisrael duapulo ket tallo a tawen, ket natay, ket naipunpon iti Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "immukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ket tallo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket natay"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "naipunpon"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "iti Shamir"
+    }
+  ],
+  "timestamp": "2026-09-26T09:59:58.481641557Z",
+  "model": "glm-5.3"
+}

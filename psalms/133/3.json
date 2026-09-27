@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 133,
+  "translation": "Kas ti aleb ti Hermon nga agbaba kadagiti bantay ti Tsion; ta sadiay binilin ni Yahweh ⟨את⟩ ti bendision — ti biag, agingga iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Kas ti aleb"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ti Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nga agbaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ti Tsion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "binilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bendision"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ti bendision"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:31.100443892Z",
+  "model": "glm-5.3"
+}

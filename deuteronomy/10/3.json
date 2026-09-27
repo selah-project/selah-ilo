@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "ket inaramidko maysa nga arka iti kayo a shitim, ket inukitko dua a tableta ti bato kas dagiti umuna, ket immayak agtayon iti bantay, ken dagiti dua a tableta iti imak.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "ket inaramidko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "maysa nga arka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "iti kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "a shitim"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "ket inukitko"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "a tableta"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "kas dagiti umuna"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ket immayak agtayon"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ken dagiti dua"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "a tableta"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "iti imak"
+    }
+  ],
+  "timestamp": "2026-09-26T07:56:38.194172792Z",
+  "model": "glm-5.3"
+}

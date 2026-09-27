@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Iti maikadua a bulan, iti maikasangapulo ket uppat nga aldaw, iti nagbaetan dagiti rabii, agaramidda ⟨אתו⟩; kadagiti masetas ken dagiti napait a bulong makanenda.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "iti uppat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dagiti rabii"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "agaramidda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ti Pesach"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "masetas"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "ken dagiti napait a bulong"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "makanenda"
+    }
+  ],
+  "timestamp": "2026-09-26T06:24:04.103637496Z",
+  "model": "glm-5.3"
+}

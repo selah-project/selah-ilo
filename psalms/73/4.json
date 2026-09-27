@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Ta awan ti agnep kadagiti pannatayda, ket napigsa ti baginda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "ti agnep"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "kadagiti pannatayda"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "ket napigsa"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ti baginda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:53.115878775Z",
+  "model": "glm-5.3"
+}

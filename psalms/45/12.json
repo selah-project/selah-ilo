@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "ket kayatna unay ti ari ti kinapintasmo, ta isu ti apom, ket agdaydayaw ka kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "ket kayatna unay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ti kinapintasmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ti apom"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "ket agdaydayaw ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:20:43.756928561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Amin ket nabainanda iti umili a saan a makatulongda kaniada; saan a tulong ken saan a pateg, no di ket bain ken pay kastaok.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "nabainanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "a makatulongda"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "a tulong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "a pateg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no di ket"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "bain"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ken pay"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "kastaok"
+    }
+  ],
+  "timestamp": "2026-09-26T22:07:48.503109652Z",
+  "model": "glm-5.3"
+}

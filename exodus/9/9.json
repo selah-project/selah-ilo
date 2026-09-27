@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 9:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket agbalin dayta a tapok iti ngato ti amin a daga ti Mitsrayim, ket agbalin daytoy iti tao ken iti ayup a bugbugas nga agsibsibbo kadagiti burbulla, iti amin a daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "לאבק",
+      "gloss": "a tapok"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ti ayup"
+    },
+    {
+      "surface": "לשחין",
+      "gloss": "a bugbugas"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "nga agsibsibbo"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "kadagiti burbulla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:38:55.617374916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket ita, umanka, ket ipatulodka kenni Paro, ket iparuarmo ⟨את⟩ ti pagili ko, dagiti anak ni Yisrael, manipud iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ket ita"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "umanka"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ipatulodka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "iparuarmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagili ko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti pagili ko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:29:28.441522342Z",
+  "model": "glm-5.3"
+}

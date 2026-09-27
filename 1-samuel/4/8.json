@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Away kadakami! Siasino ti agsalaknib kadakami manipud iti ima kadagitoy a naindaklan a dios? Dagitoy ti dagiti dios a nangtumba ⟨את⟩ kadagiti Mitsrayim iti amin a kita ti tumba, iti awan tao a daga.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Away"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siasino"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "agsalaknib kadakami"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "a dios"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "naindaklan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kadagitoy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dagiti dios"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "nangtumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin a kita"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ti tumba"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti awan tao a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T10:34:00.134794909Z",
+  "model": "glm-5.3"
+}

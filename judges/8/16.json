@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Inalana ⟨את⟩ dagiti lakay ti ili ken ⟨את⟩ dagiti dika ti desierto ken ⟨את⟩ dagiti siksika a mula, ket insuronana kadakuada ⟨את⟩ dagiti tao ti Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lakay ti ili"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti dika ti desierto"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "dagiti dika"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ti desierto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti siksika a mula"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "dagiti siksika a mula"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "insuronana"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tao ti Sukkot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ti Sukkot"
+    }
+  ],
+  "timestamp": "2026-09-26T09:56:10.769501720Z",
+  "model": "glm-5.3"
+}

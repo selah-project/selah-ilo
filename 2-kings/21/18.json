@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 21:18",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Natay ni Menasheh a kadua dagiti amana, ket naipunpon iti hardin ti balayna, iti hardin ni Uza; ket nangituray ni Amon nga anakna a lalaki a kasukatna.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "natay"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ni Menasheh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amana"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ket naipunpon"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "iti hardin"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ti balayna"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "iti hardin"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ni Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ket nangituray"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ni Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a kasukatna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:03:33.430514197Z",
+  "model": "glm-5.3"
+}

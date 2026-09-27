@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Agbaba a kas ti udan iti ruot a napukan, a kas dagiti udan a bubosen ti daga.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "agbutengdakan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ken sango ti"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kaputotan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "agingga kadagiti kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:04.234226080Z",
+  "model": "glm-5.3"
+}

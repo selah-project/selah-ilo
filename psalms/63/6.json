@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 63,
+  "translation": "Kas ti taba ken ti katabaan ti mabusor ti kararuak, ken dagiti bibig ti panagkanti ti agdaydayaw ti ngiwatko.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kas"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ti taba"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "ken ti katabaan"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ti mabusor"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ken dagiti bibig"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "ti panagkanti"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ti agdaydayaw"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwatko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:39:26.574111172Z",
+  "model": "glm-5.3"
+}

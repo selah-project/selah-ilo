@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 111,
+  "translation": "Inpatdatna ti panangisalakan iti umilina; bilinanna ti tulagna ti agnanayon; nasantuan ken nakabutbuteng ti naganna.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "panangisalakan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "inpatdatna"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "iti umilina"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilinanna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ti agnanayon"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ti tulagna"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ken nakabutbuteng"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:20.018008602Z",
+  "model": "glm-5.3"
+}

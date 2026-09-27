@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Gapu iti dayta ibbattay ti lalaki ⟨את⟩ ti amana ken ⟨את⟩ ti inana, ket makipet isuna iti asawana a babai, ket agbalinda a maysa a lasag.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ibbattay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti inana"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ti inana"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "ket makipet"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "iti asawana a babai"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "a lasag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:02.730836840Z",
+  "model": "glm-5.3"
+}

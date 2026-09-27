@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket ti agturay iti buyot ti tribu dagiti anak ni Yissakhar ket ni Netanel nga anak ni Tsoar.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ket ti agturay iti"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "buyot"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ti tribu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ni Yissakhar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ni Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ni Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-26T06:20:46.944243063Z",
+  "model": "glm-5.3"
+}

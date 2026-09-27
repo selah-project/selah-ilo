@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 6:2",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket immakar ket nagna ni David ken ti amin ti umili nga adda ⟨את⟩ kenkuana, manipud iti Baale-Yehudah, nga ipangato manipud sadiay ⟨את⟩ ti arko ti Elohim, a tinawag ti nagan — nagan ni Yahweh Tsevaot, agnaed kadagiti kerub iti ruaanna.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "immakar"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kenkuana"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "manipud iti Baale"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "nga ipangato"
+    },
+    {
+      "surface": "משם",
+      "gloss": "manipud sadiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arko ti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "tinawag"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agnaed"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kadagiti kerub"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti ruaanna"
+    }
+  ],
+  "timestamp": "2026-09-26T11:39:42.779915459Z",
+  "model": "glm-5.3"
+}

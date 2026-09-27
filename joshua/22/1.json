@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Idi kalman kinuna ni Yehoshua ⟨iti⟩ dagiti Rubenita ken ⟨iti⟩ dagiti Gadita ken ⟨iti⟩ ti kagudua ti tribu ni Menashe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "idi kalman"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "iti dagiti Rubenita"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ken iti dagiti Gadita"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ken iti ti kagudua"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ti tribu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ni Menashe"
+    }
+  ],
+  "timestamp": "2026-09-26T09:29:24.008724412Z",
+  "model": "glm-5.3"
+}

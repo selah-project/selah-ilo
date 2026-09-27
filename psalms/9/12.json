@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Agkantakayo kenn Yahweh, ti agnaed iti Tsiyon; ibagakayo kadagiti umili dagiti aramidenna.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Agkantakayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenn Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ti agnaed"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iti Tsiyon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ibagakayo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "dagiti aramidenna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:07.062406475Z",
+  "model": "glm-5.3"
+}

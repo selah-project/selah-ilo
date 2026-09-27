@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Lattipat no ti umili, agsakripisio da kadagiti nangato a dissu, ta saan pay a napatdong ti balay para iti nagan ni Yahweh agingga kadagiti nga aldaw a daydiay.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lattipat no"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "agsakripisio da"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kadagiti nangato a dissu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan pay"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "napatdong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "para iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga kadagiti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "a daydiay"
+    }
+  ],
+  "timestamp": "2026-09-26T12:25:53.309100538Z",
+  "model": "glm-5.3"
+}

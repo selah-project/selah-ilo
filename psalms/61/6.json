@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 61,
+  "translation": "Ta sika, Elohim, nangngegmo iti panumpak; initedmo ti tawid kadagiti agbutbuteng iti nagammo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nangngegmo"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "iti panumpak"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "initedmo"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "tawid"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "kadagiti agbutbuteng"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "iti nagammo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:38:05.969150448Z",
+  "model": "glm-5.3"
+}

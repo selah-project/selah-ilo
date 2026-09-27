@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken ⟨את⟩ ti Hiti, ken ⟨את⟩ ti Perizi, ken ⟨את⟩ dagiti Refaim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Hiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Perizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Refaim"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Refaim"
+    }
+  ],
+  "timestamp": "2026-09-26T01:59:13.781296849Z",
+  "model": "glm-5.3"
+}

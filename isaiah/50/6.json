@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Ti likudak initedko kadagiti mammapatay, ken dagiti apingko kadagiti manggaysa; ti rupak saanak a naglemmeng manipud iti bain ken ti pananguyek.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "likudak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "initedko"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "kadagiti mammapatay"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "ken dagiti apingko"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "kadagiti manggaysa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "naglemmeng"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "manipud iti bain"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "ken ti pananguyek"
+    }
+  ],
+  "timestamp": "2026-09-26T15:48:48.975158558Z",
+  "model": "glm-5.3"
+}

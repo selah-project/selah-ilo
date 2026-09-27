@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket ipasingkednak kadagiti saksi a mamasiak: ⟨את⟩ ni Uriyah ti padi ken ⟨את⟩ ni Zekharyah, anak a lalaki ni Yeverekhyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "ipasingkednak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "dagiti saksi"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "a mamasiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Zekharyah"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekhyahu"
+    }
+  ],
+  "timestamp": "2026-09-26T14:29:17.292806306Z",
+  "model": "glm-5.3"
+}

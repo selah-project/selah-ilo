@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "No di iti ti disso a pilienon ni Yahweh nga Elohimmo a pagiennaenna ⟨ti⟩ naganna, sadiay datonem ⟨את⟩ ti Pesach iti rabii, iti pannakalmed ti init, iti tiempo a panagruaram iti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ti disso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "pilienon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "a pagiennaenna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "datonem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ti Pesach"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "iti pannakalmed"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "iti tiempo"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "a panagruaram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T08:02:34.627997094Z",
+  "model": "glm-5.3"
+}

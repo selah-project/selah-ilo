@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket binilanganna ⟨את⟩ dagiti ubbing dagiti daulo ti probinsia, ket isuda dua a gasut ken tallopulo ket dua; ken kalpasan da binilanganna ⟨את⟩ ti amin ti umili, amin dagiti anak ti Yisrael, pito a ribu.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ket binilanganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ubbing"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "dagiti ubbing"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dagiti daulo"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "ti probinsia"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ket isuda"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua a gasut"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ket dua"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ken tallopulo"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ken kalpasan da"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "binilanganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin ti umili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "a ribu"
+    }
+  ],
+  "timestamp": "2026-09-26T13:08:45.209069208Z",
+  "model": "glm-5.3"
+}

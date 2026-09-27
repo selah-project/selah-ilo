@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Inala ni Avraham ⟨את⟩ dagiti kayo ti natuno a daton, ken inikkanna iti Yitskhak a anakna; ken inala iti imana ⟨את⟩ ti apuy ken ⟨את⟩ ti tarad; ket nagnada a dua agpada.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Inala"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kayo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dagiti kayo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natuno a daton"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ken inikkanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a anakna"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ken inala"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apuy"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ti apuy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tarad"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "ti tarad"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ket nagnada"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "a dua"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "agpada"
+    }
+  ],
+  "timestamp": "2026-09-26T02:14:12.906326350Z",
+  "model": "glm-5.3"
+}

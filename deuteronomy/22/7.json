@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ipaltom a nupay ti ina ⟨את⟩, ken ⟨את⟩ dagiti anak ket alaemmo para kenka; tapno nasayaat koma ti maipapan kenka ken umatiddoka kadagiti aldaw.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ipalto"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "nupay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ina"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ti ina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anak"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para kenka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "umatiddoka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kadagiti aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T08:17:15.518659026Z",
+  "model": "glm-5.3"
+}

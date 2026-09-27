@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Ken ti amin a balay ni Yosef, ken dagiti kabsatna, ken ti balay ni amana; laeng dagiti ubbingda, ken dagiti karneroda, ken dagiti gadoda ti inbabakoda iti daga ti Gosen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ken dagiti kabsatna"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ken ti balay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ni amana"
+    },
+    {
+      "surface": "רק",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "dagiti ubbingda"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "ken dagiti karneroda"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "ken dagiti gadoda"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "inbabakoda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ti Gosen"
+    }
+  ],
+  "timestamp": "2026-09-26T03:24:06.109240261Z",
+  "model": "glm-5.3"
+}

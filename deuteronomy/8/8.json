@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Daga ti trigo ken ti sebada, ken ti ubbas ken ti higo ken ti granada; daga ti lana ti oliba ken ti digos ti uyokan.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ti trigo"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ken ti sebada"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ken ti ubbas"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ken ti higo"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ken ti granada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ti oliba"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ken ti digos ti uyokan"
+    }
+  ],
+  "timestamp": "2026-09-26T07:56:41.072828627Z",
+  "model": "glm-5.3"
+}

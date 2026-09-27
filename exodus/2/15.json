@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Nangngeg ni Paro ⟨את⟩ daytoy a sao, ket bininsyana a patayen ⟨את⟩ ni Moshe; ngem immayar ni Moshe manipud iti rupa ni Paro, ket nagtaged iti daga ti Midian, ket nagtaged iti asideg ti ubbog.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "bininsyana"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "a patayen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "immayar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manipud iti rupa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagtaged"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ti Midian"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagtaged"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti asideg"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "ti ubbog"
+    }
+  ],
+  "timestamp": "2026-09-26T03:24:07.575815474Z",
+  "model": "glm-5.3"
+}

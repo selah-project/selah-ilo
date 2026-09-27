@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Itedmo ⟨את⟩ dagiti asawak ken ⟨את⟩ dagiti anakko a nagserbiak kenka gapuda, ket mapanak; ta sika ti ammo ti panagserbik a naserbiak kenka.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Itedmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti asawak"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "dagiti asawak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anakko"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "dagiti anakko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "nagserbiak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kenka"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "gapuda"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ket mapanak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ti ammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagserbik"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ti panagserbik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "naserbiak kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T02:33:29.814318264Z",
+  "model": "glm-5.3"
+}

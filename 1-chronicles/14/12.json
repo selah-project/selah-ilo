@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket binainanda sadiay ⟨את⟩ dagiti diosda, ket kinuna ni David, ket nasulepda iti apoy.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Ket binainanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti diosda"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dagiti diosda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ket nasulepda"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:14.345674167Z",
+  "model": "glm-5.3"
+}

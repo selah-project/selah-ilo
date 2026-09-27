@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket ti udan ket adda idi iti daga uppat a pulo nga aldaw ken uppat a pulo a rabii.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ti udan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "uppat a pulo nga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ken uppat a pulo a"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T01:46:30.625438118Z",
+  "model": "glm-5.3"
+}

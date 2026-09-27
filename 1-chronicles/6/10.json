@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Dagiti anak ni Elkana: ni Amasay ken ni Akhimot.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ni Elkana"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ni Amasay"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "ken ni Akhimot"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:46.293864859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Kinunana kenni Eliyahu: Ania kaniak ken kenka, a lalaki ti Elohim? Immayka kaniak a lagipen ⟨את⟩ ti basolko ken iti panangipapatay ⟨את⟩ ti anakko?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ken kenka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "immayka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "a lagipen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti basolko"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ti basolko"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "ken iti panangipapatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anakko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ti anakko"
+    }
+  ],
+  "timestamp": "2026-09-26T13:00:52.193299156Z",
+  "model": "glm-5.3"
+}

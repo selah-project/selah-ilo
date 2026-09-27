@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ta kaduam ti taudan ti biag; iti lawagmo makitakami ti lawag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaduam"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ti taudan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "iti lawagmo"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "makitakami"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ti lawag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:36.048834478Z",
+  "model": "glm-5.3"
+}

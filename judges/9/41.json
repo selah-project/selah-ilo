@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Nagined ni Avimelekh iti Arumah, ket inyar-aris ni Zevul ⟨את⟩ ni Gaal ken ⟨את⟩ dagiti kabsatna, ⟨tapno⟩ saanda a mangnaed iti Shkhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagined"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "iti Arumah"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "inyar-aris"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kabsatna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dagiti kabsatna"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "a mangnaed"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "iti Shkhem"
+    }
+  ],
+  "timestamp": "2026-09-26T09:53:58.829615624Z",
+  "model": "glm-5.3"
+}

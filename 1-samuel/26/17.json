@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Naam-ammo ni Shaul ⟨את⟩ ti timek ni David, ket kinuna: Daytoy kadi ti timekmo, anakko a David? Ket kinuna ni David: Ti timekko, apo nga ari.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "naam-ammo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti timek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "ti timekmo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ti timekko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga ari"
+    }
+  ],
+  "timestamp": "2026-09-26T22:03:52.802235542Z",
+  "model": "glm-5.3"
+}

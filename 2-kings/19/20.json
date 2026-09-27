@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 19:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ken inipaay ni Yeshayahahu nga anak ni Amots kenni Khizkiyahu, a kumuna: Kastoy ti kinuna ni Yahweh, ti Elohim ni Yisrael: Ti imbagam a kararag kenniak maipapan ken Sanherib nga ari ti Ashur, nangngegek.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ken inipaay"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ni Yeshayahahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ni Amots"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ni Khizkiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kumuna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "התפללת",
+      "gloss": "imbagam a kararag"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kenniak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maipapan"
+    },
+    {
+      "surface": "סנחרב",
+      "gloss": "ken Sanherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nangngegek"
+    }
+  ],
+  "timestamp": "2026-09-26T14:05:35.399180884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Intulodna ni Moshe nga adipenna, kenni Aharon a pinilina.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Intulodna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "nga adipenna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "kenni Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pinili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:43.591365272Z",
+  "model": "glm-5.3"
+}

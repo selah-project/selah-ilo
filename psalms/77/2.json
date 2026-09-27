@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Ti timekko iti Elohim, ket agsangarko; ti timekko iti Elohim, ket agngegna kaniak.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Ti timekko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "ket agsangarko"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ti timekko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "ket agngegna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:59.621065391Z",
+  "model": "glm-5.3"
+}

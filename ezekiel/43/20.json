@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 43:20",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Ket alam iti darana ken idatmo iti uppat a rangrangna, ken iti uppat a sango ti tungtung, ken iti beddeng iti liklikmut; ket idalusmo ⟨את⟩ dayta ken ipatawarmo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ket alam"
+    },
+    {
+      "surface": "מדמו",
+      "gloss": "iti darana"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ken idatmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat a"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "rangrangna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat a"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "sango"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "ti tungtung"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "ti beddeng"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iti liklikmut"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ket idalusmo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta — ti altar a dalusen ken patawaren"
+    },
+    {
+      "surface": "וכפרתהו",
+      "gloss": "ken ipatawarmo"
+    }
+  ],
+  "timestamp": "2026-09-26T19:21:13.860193839Z",
+  "model": "glm-5.3"
+}

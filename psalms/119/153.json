@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Kitaem ti panagdusak ken salakannak, ta ti torahmo saak a nanglipat.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ti panagdusak"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "ken salakannak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ti torahmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ak a nanglipat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:17.151800928Z",
+  "model": "glm-5.3"
+}

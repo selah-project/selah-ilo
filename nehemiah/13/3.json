@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ken napasamak, idi nangngegda ⟨את⟩ ti torah, nga inilinada ti amin a nalalaok a umili manipud iti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "idi nangngegda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ti torah"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "nga inilinada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "a nalalaok a umili"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "manipud iti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:36.225406040Z",
+  "model": "glm-5.3"
+}

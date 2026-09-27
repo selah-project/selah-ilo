@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinunana kaniada: Hebreo siak, ken ni ⟨את⟩ Yahweh, ti Elohim ti langit, ti butngak, ti nangaramid ⟨את⟩ ti baybay ken ⟨את⟩ ti namaga a daga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebreo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ti butngak"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "agbuteng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nangaramid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baybay"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti namaga a daga"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ti namaga a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T20:03:09.435546307Z",
+  "model": "glm-5.3"
+}

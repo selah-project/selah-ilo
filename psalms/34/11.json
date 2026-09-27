@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Dagiti ubbing a leon nagrigatda ken naapaenda; ngem dagiti agbiruk kenni Yahweh saanda a maikkatan iti aniaman a naimbag.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "dagiti ubbing a leon"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "nagrigatda"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "ken naapaenda"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ngem dagiti agbiruk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "a maikkatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iti aniaman"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:48.905273859Z",
+  "model": "glm-5.3"
+}

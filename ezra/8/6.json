@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 8:6",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ken manipud kadagiti anak ni Adin, ni Eved ben Yonatan, ken kaduana limapulo a lallaki.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ken manipud kadagiti anak"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ni Adin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Eved"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ken kaduana"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limapulo"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "a lallaki"
+    }
+  ],
+  "timestamp": "2026-09-26T23:22:39.269049427Z",
+  "model": "glm-5.3"
+}

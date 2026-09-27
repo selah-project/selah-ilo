@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Kinuna a naginana ni Yehoyakim kadagiti ammana, ket nangituray ni Yehoyakin nga anakna imbes kennkuana.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "naginana"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "ni Yehoyakim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kada"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti ammana"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "ni Yehoyakin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "imbes kennkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:59:42.507240306Z",
+  "model": "glm-5.3"
+}

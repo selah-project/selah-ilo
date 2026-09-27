@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket simmungbat ni Eli ket kinuna: Aganka iti kappia, ket itedna koma ti Elohim ti Yisrael ⟨ti⟩ kiddawam a dinawatmo kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "simmungbat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "aganka"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "iti kappia"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ket ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "itedna koma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kiddawam"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "ti kiddawam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "dinawatmo"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T10:22:25.095787092Z",
+  "model": "glm-5.3"
+}

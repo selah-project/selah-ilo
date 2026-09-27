@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 54,
+  "translation": "Ta manipud iti amin a rigat isalakannak, ken ti matam — nakita ti matak dagiti kabusorko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manipud iti amin"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "rigat"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "isalakannak"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "ken dagiti kabusorko"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ti matak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:25:38.718285783Z",
+  "model": "glm-5.3"
+}

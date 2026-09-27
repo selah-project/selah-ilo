@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Isublimo a maminsan kenkuana ⟨את⟩ ti balonna no sumrek ti init, ket agsardaemanto iti salmayna, ket bendisionannaka; ken siam ti agbalin a kinanailinteg iti sanguanan ni Yahweh, ti Elohim mo.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "isubli"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "isublimo a maminsan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balonna"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "ti balonna"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "no sumrek"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "agsardaemonto"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "iti salmayna"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "bendisionannaka"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ken siam"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kinanailinteg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    }
+  ],
+  "timestamp": "2026-09-26T08:27:21.958349156Z",
+  "model": "glm-5.3"
+}

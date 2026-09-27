@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Umayda ken ibagada ti kinalintegna iti umili a nayanaken, ta inaramidna dayta.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "umayda"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ken ibagada"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ti kinalintegna"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "iti umili"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "a nayanaken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:42.654616336Z",
+  "model": "glm-5.3"
+}

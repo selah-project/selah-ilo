@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 103,
+  "translation": "Agturay ni Yahweh kadagiti kinalinteg ken dagiti ukom kadagiti amin a naapes.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Agturay"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "kadagiti kinalinteg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ken dagiti ukom"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "a naapes"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:47.492441858Z",
+  "model": "glm-5.3"
+}

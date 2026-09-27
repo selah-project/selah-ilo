@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ti bakana a lalaki agballasiw ken saan a maibbet; ti bakana a babai mangipasngay ken saan a mapukaw ti anakna.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "bakana a lalaki"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "agballasiw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "maibbet"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "mangipasngay"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "bakana a babai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "mapukaw ti anakna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:53:45.515813439Z",
+  "model": "glm-5.3"
+}

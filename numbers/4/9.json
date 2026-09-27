@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 4:9",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Alaenda ti bado a tekhelet ken abbongenda ⟨את⟩ ti menorah ti lawag ken ⟨את⟩ dagiti lamparana ken ⟨את⟩ dagiti sipitna ken ⟨את⟩ dagiti pinganna, ken ⟨את⟩ amin a gangan iti lana a mausarda iti kadakuana.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Alaenda"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "abbongenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti menorah ti lawag"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "lawag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti lamparana"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dagiti lamparana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti sipitna"
+    },
+    {
+      "surface": "מלקחיה",
+      "gloss": "dagiti sipitna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pinganna"
+    },
+    {
+      "surface": "מחתתיה",
+      "gloss": "dagiti pinganna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a gangan iti lana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gangan"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "iti lana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "mausarda"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iti"
+    }
+  ],
+  "timestamp": "2026-09-26T06:10:31.631669604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Iti dagiti arangan ti balay ni Yahweh, iti tengngam, ti Yerushalayim. Dakdaydayawyo ni Yah.",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "iti dagiti arangan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "iti tengngam"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dakdaydayawyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:04.879790308Z",
+  "model": "glm-5.3"
+}

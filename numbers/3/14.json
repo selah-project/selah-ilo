@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kinuna ni Yahweh kenni Moshe idiay daga ti Sinai, a mangkuna:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "idiay daga"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ti Sinai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a mangkuna"
+    }
+  ],
+  "timestamp": "2026-09-26T06:10:18.581043676Z",
+  "model": "glm-5.3"
+}

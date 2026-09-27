@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 35:22",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Napasamak idi agnaed ni Yisrael iti dayta a daga, napan ni Reuven ket nakigtey ⟨את⟩ kenni Bilha, ti kadua nga asawa ti amana, ket nangngeg ni Yisrael ⟨daytoy⟩. Ket dagiti anak ni Yaakov ket sangapulo ket dua:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "בשכן",
+      "gloss": "idi agnaed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "napan"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuven"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "nakigtey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "ti kadua nga asawa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ket nangngeg"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ket dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo"
+    }
+  ],
+  "timestamp": "2026-09-26T02:44:29.362278401Z",
+  "model": "glm-5.3"
+}

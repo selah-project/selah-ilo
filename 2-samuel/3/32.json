@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket naikabon da ⟨את⟩ ni Avner idiay Hevron; ket nangato ti ari ⟨את⟩ ti timekna, ket nagsangit idiay tanem ni Avner; ket nagsangit dagiti amin nga umili.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "naikabon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "idiay Hevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "nangato"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti timekna"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "timekna"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "nagsangit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "tanem"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "nagsangit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umili"
+    }
+  ],
+  "timestamp": "2026-09-26T11:31:20.338335857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "No ti adipen ⟨a⟩ maawat a kinuna: Inayatko ⟨את⟩ ti apok, ⟨את⟩ ti asawak, ken ⟨את⟩ dagiti annakko; saanak a rumuar aNawaya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "maawat"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ti adipen"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "inayatko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti asawak"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "asawak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti annakko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "annakko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "aNawaya"
+    }
+  ],
+  "timestamp": "2026-09-26T04:11:21.943242684Z",
+  "model": "glm-5.3"
+}

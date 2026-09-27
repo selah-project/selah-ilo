@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ta kinunak: 'Komportarannakon ti katrek; mangala kadagiti binnasak ti pagturogak.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "komportarannakon"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ti katrek"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mangala"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "kadagiti binnasak"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ti pagturogak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:49:36.197153533Z",
+  "model": "glm-5.3"
+}

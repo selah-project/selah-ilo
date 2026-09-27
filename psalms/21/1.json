@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Iti agturturay iti musika; maysa a mizmor ni Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "iti agturturay iti musika"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni Davide"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:26.808741001Z",
+  "model": "glm-5.3"
+}

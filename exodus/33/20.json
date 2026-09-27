@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Kinunana: Saanmo a makabael a makita ⟨את⟩ ti rupak, ta saan a makakita ti tao iti siak ket agbiag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "a makabael"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a makita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "a makakita iti siak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ket agbiag"
+    }
+  ],
+  "timestamp": "2026-09-26T04:39:32.756897433Z",
+  "model": "glm-5.3"
+}

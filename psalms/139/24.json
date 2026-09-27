@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "Ket kitaem no adda dalan a dakes iti bagik, ket iturongannak iti dalan nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ket kitaem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "a dakes"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iti bagik"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ket iturongannak"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:54.632951779Z",
+  "model": "glm-5.3"
+}

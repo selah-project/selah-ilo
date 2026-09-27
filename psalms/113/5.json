@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 113,
+  "translation": "Siasino ti kasla ni Yahweh nga Elohimtayo, ti agngatona nga agnaed?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ti kasla ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga Elohimtayo"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "ti agngatona"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "nga agnaed"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:28.033112571Z",
+  "model": "glm-5.3"
+}

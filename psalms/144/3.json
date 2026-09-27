@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 144,
+  "translation": "Yahweh, ania ti tao a ammoam? ti anak ti tao a bilbilangam?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ammoam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "bilbilangam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:43.375228819Z",
+  "model": "glm-5.3"
+}

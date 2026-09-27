@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ania ti ganansia ti tao iti amin a panagtrabahona a aramidenna iti baba ti init?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ti ganansia"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "a panagtrabahona"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "a aramidenna"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:06.355068038Z",
+  "model": "glm-5.3"
+}

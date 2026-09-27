@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ni Mesha, ari ti Moab, ket adda kas pastol ti karnero, ket itedna iti ari ti Yisrael sangagasut a ribu a karnero ken ⟨את⟩ sangagasut a ribu a karnero a lalaki a balitok.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Ni Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "kas pastol ti karnero"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "iti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sangagasut"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "a karnero"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ken sangagasut"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "a karnero a lalaki"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "a balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T13:20:51.402312420Z",
+  "model": "glm-5.3"
+}

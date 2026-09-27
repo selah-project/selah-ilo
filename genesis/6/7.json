@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kinuna ni Yahweh: Papuasen-ko ⟨את⟩ ti tao a pinarsua-ko manipud iti rupa ti daga, manipud iti tao agingga iti ayup, agingga iti agkulkolapay, ken agingga iti billit ti langit, ta nagmadik a nagaramid-ko ⟨kadakuada⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Papuasen-ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "pinarsua-ko"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "manipud iti tao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ayup"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "agkulkolapay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken agingga iti"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "billit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "nagmadik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "nagaramid-ko"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:29.653397364Z",
+  "model": "glm-5.3"
+}

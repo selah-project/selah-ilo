@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ni Yahweh ti batok, ken ti kutaak, ken ti mannakaisalakannak; ti Elko, ti dakkel a batok, aglemmengak kenkuana; ti eskudok, ken ti tandok ti panangisalakannak, ti kangatngatoak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batok"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ken ti kutaak"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ken ti mannakaisalakannak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elko"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ti dakkel a batok"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "aglemmengak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ti eskudok"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ken ti tandok"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ti panangisalakannak"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ti kangatngatoak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:54:19.384653789Z",
+  "model": "glm-5.3"
+}

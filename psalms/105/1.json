@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Itedkayo ti daydayaw kenni Yahweh, awagankayo ti nagna; ipamatikayo kadagiti umili dagiti aramidna.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Itedkayo ti daydayaw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "awagankayo"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ti nagna"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ipamatikayo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "dagiti aramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:15.456004968Z",
+  "model": "glm-5.3"
+}

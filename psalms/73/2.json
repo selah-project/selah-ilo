@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Ngem siak, kas bassit laeng, ket natalaw ti sakaak, kas ti awan, ket nalisdan dagiti addangko.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngem siak"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kas bassit laeng"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "natalaw"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ti sakaak"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kas ti awan"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "nalisdan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "dagiti addangko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:53.115137278Z",
+  "model": "glm-5.3"
+}

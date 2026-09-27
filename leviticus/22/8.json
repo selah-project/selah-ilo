@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti natay gapu iti bagina wenno ti sinamsamit ti sabsabali nga animal, saanna a makanen a makarugit gapu iti dayta; siak ti Yahweh",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "ti natay gapu iti bagina"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "wenno ti sinamsamit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a makanen"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "a makarugit"
+    },
+    {
+      "surface": "בה",
+      "gloss": "gapu iti dayta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:39:47.449183131Z",
+  "model": "glm-5.3"
+}

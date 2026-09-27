@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Aramidem ti dalan a sumrek ti tabak ⟨את⟩ Rabbah dagiti anak ti Amon ken ⟨את⟩ ni Yehudah iti Yerushalayim ti napabaro.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "a sumrek"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ti Amon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "ti napabaro"
+    }
+  ],
+  "timestamp": "2026-09-26T18:33:25.165874924Z",
+  "model": "glm-5.3"
+}

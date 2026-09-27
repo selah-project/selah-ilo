@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Iniawatanna ⟨את⟩ dagiti ubbing a lallaki nga anak ni Yisrael, ket inayonda ngato dagiti natuno a daton ken nagsakripisioda kadagiti daton ti kappia kenn Yahweh — dagiti nuang.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "iniawatanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ubbing a lallaki"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "dagiti ubbing a lallaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "inayonda ngato"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "dagiti natuno a daton"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "nagsakripisioda"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "kadagiti daton"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenn Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "dagiti nuang"
+    }
+  ],
+  "timestamp": "2026-09-26T04:14:16.459235538Z",
+  "model": "glm-5.3"
+}

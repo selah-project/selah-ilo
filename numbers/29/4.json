@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "ken maysa a maikasangapulo iti maymaysa a karnero, kadagiti pito a karnero.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ken maysa a maikasangapulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "iti maymaysa a karnero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maymaysa"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "kadagiti pito"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "a karnero"
+    }
+  ],
+  "timestamp": "2026-09-26T07:11:46.481986796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Dagiti tolda ti Edom ken dagiti Yishmaelita, Moab ken dagiti Hagarita —",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "dagiti tolda"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ken dagiti Yishmaelita"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ken dagiti Hagarita"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:07.775266398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "No ania ti mangdalinas ti ubing ⟨את⟩ ti dalanna? Ti salaknibanna no kas iti saomo.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "no ania"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "ti mangdalinas"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ti ubing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dalanna"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "ti dalanna"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ti salaknibanna"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "no kas iti saomo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:40.489489460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken ibinagana kakuana ni Shelomoh ⟨את⟩ amin a dagiti saona; awan ti sao a nalemmeng manipud iti ari a saan a ibinagana kakuana.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ken ibinagana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kakuana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a dagiti saona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "dagiti saona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ti adda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "a nalemmeng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "iti ari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ibinagana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kakuana"
+    }
+  ],
+  "timestamp": "2026-09-26T12:38:02.634477474Z",
+  "model": "glm-5.3"
+}

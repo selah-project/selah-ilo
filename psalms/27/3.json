@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "No makampo laban kaniak maysa a buyot, saan mabuteng ti pusok; no agtakder laban kaniak gubat, iti daytoy siak ti agtalek.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "makampo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban kaniak"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "maysa a buyot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "mabuteng"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban kaniak"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "gubat"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "agtalek"
+    }
+  ],
+  "timestamp": "2026-09-26T21:05:16.331347640Z",
+  "model": "glm-5.3"
+}

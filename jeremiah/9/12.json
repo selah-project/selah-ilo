@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Kinuna ni Yahweh: Gapu ta pinanawanda ⟨את⟩ ti torahko a naitedko iti sanganda, ket saanda a dimmengngeg ti timekko, ket saanda a nagna kadagiti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "pinanawanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti torahko"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ti torahko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "naitedko"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "iti sanganda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dimmengngeg"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ti timekko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kadagiti"
+    }
+  ],
+  "timestamp": "2026-09-26T16:37:28.375987740Z",
+  "model": "glm-5.3"
+}

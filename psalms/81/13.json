@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 81,
+  "translation": "Ket inpannak ida ⟨iti⟩ tarigagay ti pusoda, agnagnada kadagiti bukodda a payo.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "inpannak ida"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "tarigagay"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ti pusoda"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "agnagnada"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "kadagiti bukodda a payo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:42.561399356Z",
+  "model": "glm-5.3"
+}

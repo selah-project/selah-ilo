@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Kinuna ni Elohim ⟨את⟩ amin dagiti sao a daytoy, nga kunaenna:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti sao a daytoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a daytoy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kunaenna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:03:15.663465116Z",
+  "model": "glm-5.3"
+}

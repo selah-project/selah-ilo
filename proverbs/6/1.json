@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Anakko, no nagkarigo ⟨ti⟩ bagim kadagiti kaarrubam, no intikkim ⟨ti⟩ imam kadagiti sabsabali a tao,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anakko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "nagkarigo"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "kadagiti kaarrubam"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "intikkim"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "kadagiti sabsabali a tao"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ti imam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:18.604140943Z",
+  "model": "glm-5.3"
+}

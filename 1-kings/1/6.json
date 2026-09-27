@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken saan idi a binendisionanna ⟨ti⟩ panagbasol ti amana iti lawas ti algawna, a mangkuna: Apay a kastoy ti inaramidmo? Ket isu met ket nalaus unay ti langa; ⟨את⟩ ken isu ti naiyanak kalpasan ni Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ken saan idi"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "binendisionanna ⟨ti⟩ panagbasol"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "iti lawas ti algawna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a mangkuna"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "apay"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ti inaramidmo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket isu met"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nalaus"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ti langa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ken ⟨את⟩",
+      "marks": "isu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naiyanak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-26T12:17:29.839946542Z",
+  "model": "glm-5.3"
+}

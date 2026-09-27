@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 143,
+  "translation": "Gapu iti naganmo, Yahweh, ibiagmo ak; iti kinalintegmo iparuammo ti kararwak manipud iti rigat.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Gapu iti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naganmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ibiagmo ak"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "iti kinalintegmo"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "iparuammo"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "manipud iti rigat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:39.432023328Z",
+  "model": "glm-5.3"
+}

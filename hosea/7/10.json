@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket nagsaksi ti burbod ni Yisrael iti rupanana; ket saanda a nagsubli kenni Yahweh nga Elohimda, ket saanda met a biniruk ⟨iti⟩ amin a daytoy.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ket nagsaksi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ti burbod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "iti rupanana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga Elohimda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "biniruk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "a daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T19:41:05.094193786Z",
+  "model": "glm-5.3"
+}

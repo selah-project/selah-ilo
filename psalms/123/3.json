@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 123,
+  "translation": "Makapatawarmo kaniakami, Yahweh, makapatawarmo kaniakami, ta nakaadu ti panagbusormi iti baya-aw.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Makapatawarmo kaniakami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "makapatawarmo kaniakami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nakaadu"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "ti panagbusormi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "iti baya-aw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:32.241041476Z",
+  "model": "glm-5.3"
+}

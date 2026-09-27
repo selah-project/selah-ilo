@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "a panangiballasiw ti pagarian manipud iti balay ni Shaul, ken panangtakder ⟨את⟩ ti trono ni David iti ngato ti Yisrael ken iti ngato ti Yehudah, manipud iti Dan agingga iti Beer-Sheba —",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "a panangiballasiw"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ti pagarian"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "ken panangtakder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti trono ni David"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ti trono"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti ngato"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "manipud iti Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-26T11:26:53.438824612Z",
+  "model": "glm-5.3"
+}

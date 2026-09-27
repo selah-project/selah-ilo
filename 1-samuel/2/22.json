@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 2:22",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ni Eli ket nalaok unay, ket nangngeg ⟨את⟩ ti amin a aramidda dagiti anakna iti amin a Yisrael, ken ⟨את⟩ ti innayatanda ⟨את⟩ dagiti babai a agserbi iti ruangan ti Tolda ti Gimong.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "ken ni Eli"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "nalaok"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a aramidda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "aramidda"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti innayatanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "innayatanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti babai"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "dagiti babai"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "a agserbi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iti ruangan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T10:25:47.613070249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ket kinuna ni David kenni Evyatar a padi, anak ni Achimelekh: iparangyam koma ditoy ti ephod; ket inparangyay ni Evyatar ⟨את⟩ ti ephod kenni David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ni Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a padi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ni Achimelekh"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "iparangyam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ti ephod"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ket inparangyay"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ni Evyatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ephod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ti ephod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T11:18:31.073881138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Pay laeng, agpakabaelanka a mangsupiat ⟨iti⟩ tattaok, tapno saanmo nga ipanawda?",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "pay laeng"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "agpakabaelanka"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "⟨iti⟩ tattaok"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "tapno saan"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "ipanawda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:41:16.552472433Z",
+  "model": "glm-5.3"
+}

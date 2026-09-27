@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Kinayatna ⟨את⟩ amin dagiti daulo ti Yisrael, ken dagiti padi ken dagiti Levita.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "kinayatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti daulo ti Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dagiti daulo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ken dagiti padi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ken dagiti Levita"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:35.484364719Z",
+  "model": "glm-5.3"
+}

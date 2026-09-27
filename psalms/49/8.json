@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Saanna a matubos ti kabsat, saan a maited kenni Elohim ti tubosna.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ti kabsat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "matubos"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "maipatungpal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maited"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kenni Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ti tubosna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:08.253736606Z",
+  "model": "glm-5.3"
+}

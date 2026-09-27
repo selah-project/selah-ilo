@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Saananto a maysa ti maikalkalungsot wenno ti awan-anak iti daga yoyo; ti ⟨את⟩ bilang dagiti aldaw yoyo punnoek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "anto a maysa"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "maikalkalungsot"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "wenno awan-anak"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "iti daga yoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bilang"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilang"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dagiti aldaw yoyo"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "punnoek"
+    }
+  ],
+  "timestamp": "2026-09-26T04:14:15.109438674Z",
+  "model": "glm-5.3"
+}

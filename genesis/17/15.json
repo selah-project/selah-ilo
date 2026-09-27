@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Kinuna ni Elohim kenni Avraham: Ti asawam a ni Sarai — saanmo a tawaganna ⟨את⟩ ti naganna a Sarai, ta Sarah ti naganna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "a ni Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ti asawam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "a tawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganna"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "a Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ti naganna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:02:56.842426660Z",
+  "model": "glm-5.3"
+}

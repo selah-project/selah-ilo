@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket agtalekda kenka dagiti ammoenda ti nagammo, ta saanmo a binaybay-an dagiti agbiruk kenka, kenn Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "Ket agtalekda"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "dagiti ammoenda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti nagammo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "binaybay-an"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "dagiti agbiruk kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenn Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:07.062236747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket simmangbay dagiti babai nga agsagsagala, ket kinunada: Inpatay ni Shaul iti ribribuna, ken ni David kadagiti sangapulo a ribbuna.",
+  "tokens": [
+    {
+      "surface": "וַתַעֲנֶינָה",
+      "gloss": "simmangbay"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "dagiti babai"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "nga agsagsagala"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "Inpatay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "iti ribribuna"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ken ni David"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "kadagiti sangapulo a ribbuna"
+    }
+  ],
+  "timestamp": "2026-09-26T11:00:14.806742907Z",
+  "model": "glm-5.3"
+}

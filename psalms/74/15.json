@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Sika ti nanglukat kadagiti ubban danum ken karayan; sika ti pinagaam dagiti agnanayon a karayan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "nanglukat"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "kadagiti ubban danum"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ken karayan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "pinagaam"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:46.717240900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 130,
+  "translation": "No salaknibem ⟨את⟩ dagiti basol, Yah, Adonay, sinonto makatatakder?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "dagiti basol"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "salaknibem"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "makatatakder"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:41.188397339Z",
+  "model": "glm-5.3"
+}

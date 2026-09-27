@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "No ti maysa a babai agneder iti neder kenni Yahweh, ken agikkar iti gakod, iti balay ni amana, idi kabataanna —",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "no ti maysa a babai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "agneder"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "neder"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "ken agikkar"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "gakod"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ni amana"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "idi kabataanna"
+    }
+  ],
+  "timestamp": "2026-09-26T07:19:07.998749519Z",
+  "model": "glm-5.3"
+}

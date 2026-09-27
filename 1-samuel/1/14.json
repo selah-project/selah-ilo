@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinuna ni Eli keduanana: Kaano pay kadi a masasinganka? Ikkatmo ⟨את⟩ ti arak-mo manipud kadua-mo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "keduanana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kaano"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "aglalasingka"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "ikkatmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arakmo"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "ti arakmo"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "manipud kaduamo"
+    }
+  ],
+  "timestamp": "2026-09-26T10:21:50.767597858Z",
+  "model": "glm-5.3"
+}

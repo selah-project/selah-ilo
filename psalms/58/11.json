@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "Naragsak ti nalinteg no nakitana ti panagbalibusor; pakaaruaruanna dagiti sakaana iti dara ti dakes.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "naragsak"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "nakitana"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ti panagbalibusor"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "dagiti sakaana"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "pakaaruaruanna"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:06.504609868Z",
+  "model": "glm-5.3"
+}

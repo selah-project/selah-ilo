@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Inalada ti ⟨את⟩ dapo ti dapog ket immtakderda sangoan ni Paro, ket isibbogna ni Moshe dayta ⟨את⟩ a ngato iti langit, ket nagbalin a bugbugas a burbulla nga agsibsibbo iti tao ken iti ayup.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dapo ti dapog"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "dapo"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "ti dapog"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "immtakderda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sangoan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "isibbogna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (ti dapo)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "a ngato iti langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "bugbugas"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "burbulla"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "nga agsibsibbo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ken iti ayup"
+    }
+  ],
+  "timestamp": "2026-09-26T03:38:55.617861679Z",
+  "model": "glm-5.3"
+}

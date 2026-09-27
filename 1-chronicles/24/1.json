@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ken kadagiti annak ni Aharon dagiti pannakabingbingayda: dagiti annak ni Aharon — ni Nadab ken ni Avihu, ni Elazar ken ni Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ken kadagiti annak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "dagiti pannakabingbingayda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ni Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ken ni Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ni Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ken ni Itamar"
+    }
+  ],
+  "timestamp": "2026-09-26T23:41:09.942824352Z",
+  "model": "glm-5.3"
+}

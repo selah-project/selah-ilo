@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 9:11",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ti baybay binukaam iti sangoanda, ket nagballasiwda iti uneg ti baybay iti namaga a daga, ken ⟨את⟩ dagiti agtultulnod kadakuada innaogmo kadagiti nauneg a danum, a kas bato kadagiti napigsa a danum.",
+  "tokens": [
+    {
+      "surface": "והים",
+      "gloss": "ken ti baybay"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "binukaam"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "iti sangoanda"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ket nagballasiwda"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "iti namaga a daga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti agtultulnod kadakuada"
+    },
+    {
+      "surface": "רדפיהם",
+      "gloss": "dagiti agtultulnod kadakuada"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "innaogmo"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "kadagiti nauneg a danum"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "bato"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kadagiti danum"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "napigsa"
+    }
+  ],
+  "timestamp": "2026-09-26T23:29:36.414617473Z",
+  "model": "glm-5.3"
+}

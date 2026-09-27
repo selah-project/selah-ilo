@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "ket maibusor ti bilegyo iti awan, ket ti dagayo saanna nga ited ⟨את⟩ ti apitna, ket ti kayo ti daga saanna nga ited ti bungana.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "ket maibusor"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "iti awan"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "ti bilegyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "na nga ited"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ti dagayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apitna"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ti apitna"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ket ti kayo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "na nga ited"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ti bungana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:29.082726583Z",
+  "model": "glm-5.3"
+}

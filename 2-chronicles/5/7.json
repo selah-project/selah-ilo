@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "ket impan da dagiti padi ⟨את⟩ ti arko ti tulag ni Yahweh iti dissoyna, iti debir ti balay, iti nasantuan kadagiti nasantuan, iti baba dagiti payak dagiti kerub.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "impan da"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko ti tulag ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "dissoyna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kadagiti nasantuan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "baba"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "dagiti payak"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "dagiti kerub"
+    }
+  ],
+  "timestamp": "2026-09-26T23:45:07.000222143Z",
+  "model": "glm-5.3"
+}

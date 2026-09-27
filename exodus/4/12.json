@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ita, bumutkaka, ket siak, Ehyeh, addaak iti ngiwatmo, ken isursurokak kadagiti sasao a saoem.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bumutkaka"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "addaak iti"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ngiwatmo"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "isursurokak kadagiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "saoem"
+    }
+  ],
+  "timestamp": "2026-09-26T03:33:28.474842628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti nalikot saan a mabalin a masimbong, ket ti kaawan saan a mabalin a mabilang.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Ti nalikot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "a mabalin"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "a masimbong"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ket ti kaawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "a mabalin"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "a mabilang"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:31.312392725Z",
+  "model": "glm-5.3"
+}

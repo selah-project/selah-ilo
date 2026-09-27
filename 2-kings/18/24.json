@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 18:24",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket kasano a maibusammo nga agsubli ⟨iti⟩ ⟨את⟩ rupa ti maysa a pangulo, ti kabassitan kadagiti adipen ni apo-mi, no agbutbutengka iti Mitsrayim para kaditi kalesa ken kaditi agkakabalyo?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "ket kasano"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rupa ti pangulo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kadagiti adipen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apomi"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "kabassitan"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "no agbutbutengka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "para kaditi kalesa"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "ken kaditi agkakabalyo"
+    }
+  ],
+  "timestamp": "2026-09-26T13:59:37.167813383Z",
+  "model": "glm-5.3"
+}

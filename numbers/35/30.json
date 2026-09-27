@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ti aniaman a mamamatay iti kararwa, babaen ti ngiwat dagiti saksi ti patayen ⟨את⟩ ti mamamatay-tao; ket maysa a saksi, saan a mangisagana iti kararwa a patayen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ti aniaman a"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mamamatay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "iti kararwa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "babaen ti ngiwat"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "dagiti saksi"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "ti patayen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mamamatay-tao"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ti mamamatay-tao"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ket maysa a saksi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "a mangisagana"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "iti kararwa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a patayen"
+    }
+  ],
+  "timestamp": "2026-09-26T07:25:38.667781590Z",
+  "model": "glm-5.3"
+}

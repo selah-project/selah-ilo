@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 25:18",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "⟨את⟩ Ti Yerushalayim ken ⟨את⟩ dagiti ili ti Yehudah ken ⟨את⟩ dagiti arina, ⟨את⟩ dagiti pangulona, a ited ⟨את⟩ isuda iti kadadaelan, iti kariribukan, iti panangsiriak ken iti sumpa, kas iti daytoy nga aldaw.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ili ti Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti arina"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "dagiti arina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pangulona"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "dagiti pangulona"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "a ited"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ isuda"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "iti kadadaelan"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "iti kariribukan"
+    },
+    {
+      "surface": "לשרקה",
+      "gloss": "iti panangsiriak"
+    },
+    {
+      "surface": "ולקללה",
+      "gloss": "ken iti sumpa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kas iti aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T17:07:44.584398182Z",
+  "model": "glm-5.3"
+}

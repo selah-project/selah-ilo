@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "ket immayakar ni Pinekhas ken nangipatarus ti ukom, ket naipen ti peste",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "kinayakkarna a tumtakder"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ni Pinekhas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ken nangipatarus ti ukom"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ket naipen"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ti peste"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:35.452862813Z",
+  "model": "glm-5.3"
+}

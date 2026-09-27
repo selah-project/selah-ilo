@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ngem siak, makapisin ken makasarango; ni Adonay agipagpagarup kaniak. Ti tulongk ken ti mannubbotko sika, Elohimko; saan nga aguray.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngem siak"
+    },
+    {
+      "surface": "עני",
+      "gloss": "makapisin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ken makasarango"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "agipagpagarup"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ti tulongk"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ken ti mannubbotko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "nga aguray"
+    }
+  ],
+  "timestamp": "2026-09-26T21:15:26.113838293Z",
+  "model": "glm-5.3"
+}

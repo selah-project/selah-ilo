@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket nakita ti Aram a naabakda iti sanguan ti Yisrael, ket immawidda kadagiti mensahero, ket kinuaranda ⟨את⟩ ti Aram a maballasiw ti karayan; ket ni Shopakh ti panguluanto ti buyot ni Hadadezer adda iti sanguanda.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "naabakda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ket immawidda"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "kadagiti mensahero"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ket kinuaranda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "maballasiw"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "ket ni Shopakh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti panguluanto"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "adda iti sanguanda"
+    }
+  ],
+  "timestamp": "2026-09-26T23:40:31.336813551Z",
+  "model": "glm-5.3"
+}

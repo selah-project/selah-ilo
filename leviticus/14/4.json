@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ket ibilin ti padi a kuwaen para iti maagasan dua a sibibiag ken malinis a biddut, ken kayo a sedro, ken nalabbasit a bukbuk, ken hisopo.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ibilin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "kuwaen"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "para iti maagasan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "biddut"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "sibibiag"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ken kayo"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedro"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ken nalabbasit"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "bukbuk"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "hisopo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:21:58.008021616Z",
+  "model": "glm-5.3"
+}

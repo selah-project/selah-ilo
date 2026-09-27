@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ipakitaam kaniak, Yahweh, ti patinggak, ken ti sukat ti dagiti aldawko, ania dayta; ammok no ania ti panaginana a siak.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "ipakitaam kaniak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "ti patinggak"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "ken ti sukat"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldawko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "ammok"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no ania"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ti panaginana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "a siak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:17:42.132127871Z",
+  "model": "glm-5.3"
+}

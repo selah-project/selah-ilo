@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 12:2",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Idi maikapito a tawen ni Yehu nagturay ni Yehoash, ket uppat a pulo a tawen isu ket nagturay iti Yerushalayim; ket ti nagan ti inana ket Tsibiah, manipud iti Beersheba.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Idi maikapito a tawen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nagturay"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "ni Yehoash"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ket uppat a pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nagturay"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ket ti nagan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ti inana"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ket Tsibiah"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "manipud iti Beersheba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beersheba"
+    }
+  ],
+  "timestamp": "2026-09-26T13:44:30.144392783Z",
+  "model": "glm-5.3"
+}

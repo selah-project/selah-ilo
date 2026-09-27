@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Kadagiti agituray iti kanta. Ni David. Kinuna ti awan-bait iti pusona: awan ti Elohim. Nadadaelda, nangaramid kadagiti nakariddaw nga aramid; awan ti agaramid iti naimbag.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kadagiti agituray iti kanta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ti awan-bait"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "iti pusona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "nadadaelda"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "nangaramid ti kariddaw"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:17.392656396Z",
+  "model": "glm-5.3"
+}

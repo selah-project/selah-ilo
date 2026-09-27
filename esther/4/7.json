@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Kinuna ni Mordekai kenkuana ⟨את⟩ amin a napasamak kakuana, ken ⟨את⟩ ti sibubukel a pigsa ti pirak a kinuna ni Haman nga itedna kadagiti kabakbabaknang ti ari, maibusor kadagiti Yehudi, nga agdadaelenda.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a napasamak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "napasamak kakuana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti sibubukel a pigsa ti pirak"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "ti sibubukel a pigsa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "nga itedna"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "kabakbabaknang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "maibusor kadagiti Yehudi"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "nga agdadaelenda"
+    }
+  ],
+  "timestamp": "2026-09-26T23:13:13.130425710Z",
+  "model": "glm-5.3"
+}

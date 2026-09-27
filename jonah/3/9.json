@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Siasino ti ammo? No agsubli ken agbaliw ti puso ti Elohim, ket agsublina manipud iti puot ti angotna, ket saantayo a madadael.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ti ammo"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "no agsubli"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "ken agbaliw ti puso"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ket agsublina"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "manipud iti puot"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ti angotna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "madadael"
+    }
+  ],
+  "timestamp": "2026-09-26T20:00:11.550284873Z",
+  "model": "glm-5.3"
+}

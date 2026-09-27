@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Ket nagsangitak iti panagayuno ti kararwak, ket nagbalin nga insulto kaniak.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "ket nagsangitak"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "iti panagayuno"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "nga insulto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:41:33.130229557Z",
+  "model": "glm-5.3"
+}

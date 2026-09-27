@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ti amin a tao ket nakitada ⟨את⟩ dagiti timek ken ⟨את⟩ dagiti silaw ken ⟨את⟩ ti timek ti shofar ken ⟨את⟩ ti bantay nga ag-asu; ket nakita ti tao ket nannogda ken nagtakderda iti kaadayo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti timek"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "dagiti timek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti silaw"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "dagiti silaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti timek ti shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "timek"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "ti shofar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti bantay"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "nga ag-asu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "nannogda"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "nagtakderda"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "iti kaadayo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:03:03.816399334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Inpatakder ⟨את⟩ dagiti bato a kas maysa nga altar iti nagan ni Yahweh, ket inaramidna ti kanal, a kadakkel ti mabalin a pagbaetan iti dua a seah a binhi, a lawlaw ti altar.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "inpatakder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "a kas altar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramidna"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ti kanal"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "a kadakkel ti"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "dua a seah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "a binhi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a lawlaw"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T13:05:38.196951506Z",
+  "model": "glm-5.3"
+}

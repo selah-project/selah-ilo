@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Inalada isuna ket intpogda ⟨את⟩ isuna iti bubon; ti bubon ket awan ti linaonna, awan danum iti unegna.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "intpogda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isuna"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "iti bubon"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ti bubon"
+    },
+    {
+      "surface": "רק",
+      "gloss": "awan ti linaonna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti unegna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    }
+  ],
+  "timestamp": "2026-09-26T02:54:24.951365261Z",
+  "model": "glm-5.3"
+}

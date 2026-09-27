@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket naglagipda a ni Elohim ti batora, ken ti El Elyon ti goelda.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "Ket naglagipda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "ti batora"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken ti El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ti goelda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:18.187783200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "ket ⟨את⟩ dagiti mata ni Tsidkiyahu binulbogna, ken gapisa iti tangled a dasit ken mangibaliw ⟨את⟩ kenni Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti mata"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ni Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "binulbogna"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ken gapisa"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "iti tangled a dasit"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "ken mangibaliw"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenni"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-09-26T17:32:11.880241060Z",
+  "model": "glm-5.3"
+}

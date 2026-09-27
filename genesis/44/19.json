@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Apok, sinalsaludsodna ⟨את⟩ dagiti adipenna, nga kuna: Adda kadi ngarud kadakayo ama wenno kabsat?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Apok"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "sinalsaludsodna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti adipenna"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    },
+    {
+      "surface": "היש",
+      "gloss": "adda kadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "אח",
+      "gloss": "kabsat"
+    }
+  ],
+  "timestamp": "2026-09-26T03:09:17.247965619Z",
+  "model": "glm-5.3"
+}

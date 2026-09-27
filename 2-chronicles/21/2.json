@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 21:2",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ket adda kabsatna, dagiti anak ni Yehoshaphat: Azaryah, ken Yechiel, ken Zekharyahu, ken Azaryahu, ken Mikhael, ken Shefatyahu; amin dagitoy ket anak ni Yehoshaphat, ari ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "kabsat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshaphat"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "ken Yechiel"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "ken Zekharyahu"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "ken Azaryahu"
+    },
+    {
+      "surface": "ומיכאל",
+      "gloss": "ken Mikhael"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "ken Shefatyahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ni Yehoshaphat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T23:52:22.372818452Z",
+  "model": "glm-5.3"
+}

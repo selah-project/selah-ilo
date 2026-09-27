@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket inaramid ti ari a ti pirak ket iti Yerushalayim a kas dagiti bato, ket ⟨ti⟩ sedro intedna a kas dagiti sikomoro nga adda iti tanap, iti kaadu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ket inaramid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pirak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "a ti pirak"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "a kas dagiti bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti sedro"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "ti sedro"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "intedna"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "a kas dagiti sikomoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "iti tanap"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "iti kaadu"
+    }
+  ],
+  "timestamp": "2026-09-26T12:35:57.672736426Z",
+  "model": "glm-5.3"
+}

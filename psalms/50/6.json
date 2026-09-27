@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Ibagaanda dagiti langit ti kinalintegna, ta ni Elohim, isu ti agukom. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Ibagaanda"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ti kinalintegna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ti agukom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:46.006165783Z",
+  "model": "glm-5.3"
+}

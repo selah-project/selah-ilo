@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket nagdallodong ni Yahweh iti dagiti langit, ket ti Elyon nangited ⟨ti⟩ timekna; graniso ken dagiti uling ti apoy.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "Ket nagdallodong"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti dagiti langit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ket ti Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nangited"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ti timekna"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "graniso"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ken dagiti uling"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:49.694245599Z",
+  "model": "glm-5.3"
+}

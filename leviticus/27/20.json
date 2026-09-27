@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "No saan nga agsubli ⟨את⟩ ti talon, wenno no nilako na ⟨את⟩ ti talon iti maysa a lalaki a sabali, saan a mapasubli manen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti talon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wenno no"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "nilako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti talon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "iti maysa a lalaki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "a sabali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "mapasubli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    }
+  ],
+  "timestamp": "2026-09-26T06:03:10.462312299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kinet biag ni Kennan pitopulo a tawen, ket nakaipannakayan ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kinet biag"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kennan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitopulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nakaipannakayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:14.682681050Z",
+  "model": "glm-5.3"
+}

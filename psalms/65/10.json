@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 65,
+  "translation": "Binisitam ti daga ket inurdanam, kaadu ti pagbaknangannam; ti karayan ni Elohim ket napno ti danum; isaganaam dagiti bagasda, ta kastoy a saganaem.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "binisitam"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "ket inurdanam"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "kaadu"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "ti pagbaknangannam"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ket napno"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "isaganaam"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "dagiti bagasda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "a saganaem"
+    }
+  ],
+  "timestamp": "2026-09-26T21:36:17.803190235Z",
+  "model": "glm-5.3"
+}

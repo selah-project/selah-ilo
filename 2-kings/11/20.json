@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket naragsak amin nga umili ti daga, ket ti ili nainana; ⟨את⟩ ket kenni Atalya tinpatayda iti tabak iti balay ti ari.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "ket naragsak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nga umili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ket ti ili"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "nainana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ket kenni",
+      "marks": "Atalya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "tinpatayda"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "iti tabak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T13:49:15.174884832Z",
+  "model": "glm-5.3"
+}

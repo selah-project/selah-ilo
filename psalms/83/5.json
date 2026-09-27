@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Kinunada: Umaykayo, ket pagikkatentayon ti umili, ken saan a malagipen ti nagan ni Yisrael pay.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "umaykayo"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "ket pagikkatentayonda"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יזזכר",
+      "gloss": "malagipen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:07.774849133Z",
+  "model": "glm-5.3"
+}

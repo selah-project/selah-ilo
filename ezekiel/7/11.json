@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ti panangdadael immurong a magbalin a baston ti kina-dakes; awan ti madusion kadakuada, awan iti kaadu da, awan iti ribuu da, ken awan ti agsangsangit kadakuada.",
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "ti panangdadael"
+    },
+    {
+      "surface": "קם",
+      "gloss": "immurong"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "a magbalin a baston"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti kina-dakes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "iti kaadu da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "iti ribuu da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken awan"
+    },
+    {
+      "surface": "נה",
+      "gloss": "ti agsangsangit"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T18:05:44.549269560Z",
+  "model": "glm-5.3"
+}

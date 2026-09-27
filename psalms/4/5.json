@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Mabutengkayo, ket saanyo a basolen; ibagakayo iti pusoayo, idiay katreayo, ket agdinngakayo ⟨iti selsela⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Mabutengkayo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saanyo"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "a basolen"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ibagakayo"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "iti pusoayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "katreayo"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ket agdinngakayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T20:44:24.139611820Z",
+  "model": "glm-5.3"
+}

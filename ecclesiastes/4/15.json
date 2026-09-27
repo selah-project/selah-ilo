@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Nakitak ⟨את⟩ amin a dagiti sibibiag nga agnagna iti baba ti init, agraman ti anak a maikadua a agtakder iti luganna.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a dagiti sibibiag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "a dagiti sibibiag"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "nga agnagna"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agraman"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a maikadua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "iti luganna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:46.692623983Z",
+  "model": "glm-5.3"
+}

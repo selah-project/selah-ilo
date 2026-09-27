@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Iti dayta a panawen immuat ti ari a ni Akhaz kadagiti ari ti Ashshur, a tumulong kaniakuana.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "iti dayta a panawen"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "immuat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ni Akhaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "a tumulong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniakuana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:55:49.283036123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 1:4",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket gapu kadayta, kasta ti kinuna ni Yahweh: ti katre a sinangatam sadiay, saanka a bumaba manipud kkuana, ta matayon a matayka. Ket nagna ni Eliyah.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "ket gapu kadayta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ti katre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "sinangatam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanka"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "bumaba"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "manipud kkuana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayon"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "a matayka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ket nagna"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ni Eliyah"
+    }
+  ],
+  "timestamp": "2026-09-26T13:17:51.229101555Z",
+  "model": "glm-5.3"
+}

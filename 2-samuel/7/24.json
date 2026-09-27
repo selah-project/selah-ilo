@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 7:24",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "ket naitakdermo kennaka ⟨את⟩ ti umilim a Yisrael a kas umilim agingga agnanayon, ket sika, Yahweh, nagbalinka kadakuada nga Elohim.",
+  "tokens": [
+    {
+      "surface": "ותכונן",
+      "gloss": "naitakdermo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kennaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umilim a Yisrael"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti umilim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kennaka"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a kas umili"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היית",
+      "gloss": "nagbalinka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nga Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T11:34:17.097876558Z",
+  "model": "glm-5.3"
+}

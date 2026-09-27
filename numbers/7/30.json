@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Iti maikapat nga aldaw, ni Elitsur anak ni Shedejur, ti daulo dagiti anak ni Reuben.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti ... nga aldaw"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "maikapat"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ti daulo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuben"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ni Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ni Shedejur"
+    }
+  ],
+  "timestamp": "2026-09-26T06:17:01.551033781Z",
+  "model": "glm-5.3"
+}

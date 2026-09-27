@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kas iti kinalinteg a makaawid iti biag, ket ti agsuro iti dakes iti panagmatayna.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "iti kinalinteg"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "iti biag"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ket ti agsuro"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "iti dakes"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "iti panagmatayna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:25.154474901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ket ti umili saan a nagsubli iti mannuktok kenkuana, ken ⟨את⟩ ni Yahweh Tsevaot saan da a sinukisok.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ket ti umili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "ti mannuktok kenkuana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "sinukisok"
+    }
+  ],
+  "timestamp": "2026-09-26T14:36:36.535056526Z",
+  "model": "glm-5.3"
+}

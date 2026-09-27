@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Saoem kadagiti anak a lalaki ni Yisrael ken ikabilam kaniada: No ti maysa a tao mangted iti naisangsangayan a naidnar, iti pategmo dagiti tao, ⟨iti⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "saoem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ken ikabilam kaniada"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "mangted iti naisangsangayan"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "naidnar"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "iti pategmo"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "iti Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:59:38.527086023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Nabasa nga sibibiag isia iti sango ti init, ket iti hardinna ti runona ket rummuar.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "Nabasa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ket iti"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "hardinna"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "ti runona"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "rummuar"
+    }
+  ],
+  "timestamp": "2026-09-26T22:49:55.304462767Z",
+  "model": "glm-5.3"
+}

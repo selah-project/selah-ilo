@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Babaen ti imam binuyboyam ti umilim, dagiti anak ni Yaakov ken ni Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "binuyboyam"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "babaen ti imam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti umilim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ken ni Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:32.618814756Z",
+  "model": "glm-5.3"
+}

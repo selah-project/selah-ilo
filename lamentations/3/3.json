@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Sigurado laeng a kaniak ti agsubli, baliwanna ti imana iti amin nga aldaw.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sigurado laeng"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ti agsubli"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "baliwanna"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:36.879193860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ti maikasangapulo ket maysa kenni Elyashiv, ti maikasangapulo ket dua kenni Yakim.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "kenni Elyashiv"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "maikasangapulo ket maysa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "kenni Yakim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "maikasangapulo ket dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-26T23:41:36.255790204Z",
+  "model": "glm-5.3"
+}

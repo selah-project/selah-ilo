@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "nagaramidda iti gubat kenni Bera nga ari ti Sedom ken ⟨את⟩ kenni Birsha nga ari ti Amorah, kenni Shinab nga ari ti Admah, kenni Shemeber nga ari ti Tsevoim, ken ti ari ti Bela — daytoy ket ti Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "nagaramid"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Bera"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Birsha"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admah"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "ken Shemeber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevoim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ken ti ari"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-26T01:57:49.673671716Z",
+  "model": "glm-5.3"
+}

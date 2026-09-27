@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Saanmo a maikikkat amin ti sao ti kinapudno iti ngiwatko, ta iti ukommo nagurayak.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "maikikkat"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "iti ngiwatko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ti kinapudno"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "iti ukommo"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "nagurayak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:49.414108632Z",
+  "model": "glm-5.3"
+}

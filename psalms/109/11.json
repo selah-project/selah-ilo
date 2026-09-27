@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Tulenenna ti mannakautang ti amin a tagikuana, ket dakkulanda dagiti ganganaet iti trabahona.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "tulenenna"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "ti mannakautang"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a tagikuana"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ket dakkulanda"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "dagiti ganganaet"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "iti trabahona"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:59.719731120Z",
+  "model": "glm-5.3"
+}

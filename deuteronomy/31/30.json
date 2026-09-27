@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Nangisuro ni Moshe kadagiti lapayag ti amin a gimong ti Yisrael ⟨את⟩ dagiti sao daytoy a kanta agingga iti pannakaaramidna.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nangisuro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kadagiti lapayag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao daytoy a kanta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "daytoy a kanta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "iti pannakaaramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T08:40:30.206720590Z",
+  "model": "glm-5.3"
+}

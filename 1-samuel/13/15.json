@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Nagtakder ni Shemuel ken nangato manipud iti Gilgal a mapan iti Giva ti Binjamin; ket binilang ni Shaul ⟨את⟩ ti umili a nais kennakuana, agarup nga innem a gasut a lallaki.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nagtakder"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nangato"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "iti Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giva"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "binilang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "a nais"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kennakuana"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "agarup nga innem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lallaki"
+    }
+  ],
+  "timestamp": "2026-09-26T22:03:45.093730872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Nagimmut ket kimmay ti daga, ken dagiti pundasion dagiti bantay kinnayda ken nagimmutda, ta nakarutekna.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "nagimmut"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "kimmay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "ken dagiti pundasion"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ti bantay"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "kinnayda"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "nagimmutda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "nakarutek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-26T20:56:34.761104574Z",
+  "model": "glm-5.3"
+}

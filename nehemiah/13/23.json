@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Idi pay dagiti dayta nga aldaw, nakitak ⟨את⟩ dagiti Yehudi a nagnaedda kadagiti babai nga Ashdod, Ammon, ken Moab.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "idi dagiti aldaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakitak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Yehudi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "dagiti Yehudi"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "nagnaedda"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kadagiti babai"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:26.610442471Z",
+  "model": "glm-5.3"
+}

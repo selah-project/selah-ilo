@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket ⟨את⟩ ti Shabbatmo a nasantuan inammodam kadakuada, ken bilin ken estatuto ken torah imbilinmo kadakuada babaen iti ima ni Moshe, adipenmo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Shabbatmo a nasantuan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbatmo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "a nasantuan"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "inammodam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "ken bilin"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "ken estatuto"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ken torah"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "imbilinmo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen iti ima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adipenmo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:29:33.503300980Z",
+  "model": "glm-5.3"
+}

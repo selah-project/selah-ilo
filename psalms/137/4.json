@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 137,
+  "translation": "Kasano a makantakami ⟨את⟩ ti kanta ni Yahweh iti daga a sabsabali?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Kasano"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "makantakami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kanta"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ti kanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "daga"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "a sabsabali"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:48.568264286Z",
+  "model": "glm-5.3"
+}

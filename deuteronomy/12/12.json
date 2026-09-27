@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 12:12",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ken agragsakkayo iti sanguan ni Yahweh nga Elohim yu — dakayo, dagiti anak a lalaki yu ken dagiti anak a babai yu, dagiti adipen yu ken dagiti babai nga adipen yu, ken ti Levita a adda kadagiti ruangan yu, ta awan kaniana ti paset ken tawid a kakuyog ⟨את⟩ kadakayo.",
+  "tokens": [
+    {
+      "surface": "ושמחתם",
+      "gloss": "ken agragsakkayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "dagiti anak a lalaki yu"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "dagiti anak a babai yu"
+    },
+    {
+      "surface": "ועבדיכם",
+      "gloss": "dagiti adipen yu"
+    },
+    {
+      "surface": "ואמהתיכם",
+      "gloss": "dagiti babai nga adipen yu"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "ken ti Levita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "adda kadagiti ruangan yu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniana"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "paset"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "tawid"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T08:06:16.718225697Z",
+  "model": "glm-5.3"
+}

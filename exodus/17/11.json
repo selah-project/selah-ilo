@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ket napasamak, no itimbenegna ni Moshe ti imana, nangabak ni Yisrael, ket no ibassitna ti imana, nangabak ti Amalek.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "itimbenegna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "nangabak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ket no"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ibassitna"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "nangabak"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ti Amalek"
+    }
+  ],
+  "timestamp": "2026-09-26T04:01:45.515326987Z",
+  "model": "glm-5.3"
+}

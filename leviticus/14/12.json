@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ket alaenna ti padi ti maysa a karnero ken ipangrunana ⟨את⟩ dayta a kas daton a panagbayad iti basol, ken ⟨את⟩ ti log ti lana, ket iwagwagnada ⟨את⟩ dagitoy a panangiwagwag iti sangoan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ket alaenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maysa a karnero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ti karnero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ken ipangrunana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "a kas daton a panagbayad iti basol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti log ti lana"
+    },
+    {
+      "surface": "לג",
+      "gloss": "ti log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ket iwagwagnada"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "a panangiwagwag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:22:29.943273968Z",
+  "model": "glm-5.3"
+}

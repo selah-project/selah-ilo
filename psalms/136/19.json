@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 136:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 136,
+  "translation": "Ken ni Sihon, ari ti Emori, ta ti hesedna agnanayon.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "ken ni Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Emori"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:09.677471389Z",
+  "model": "glm-5.3"
+}

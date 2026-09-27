@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Nalpasen dagiti langit ken ti daga ken amin a buyorda.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "nalpasen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ken ti daga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "buyorda"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:43.130316773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 112,
+  "translation": "Kayamanan ken baknang adda iti balayna, ket ti kinalintegna agtaktakder agnanayon.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Kayamanan"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ken baknang"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "iti balayna"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ti kinalintegna"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "agtaktakder"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:15.468467359Z",
+  "model": "glm-5.3"
+}

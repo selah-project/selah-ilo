@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "nga ibagada iti Tsiyon ti nagan ni Yahweh, ken ti daydayawna iti Yerushalayim;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "nga ibagada"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "iti Tsiyon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ken ti daydayawna"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:33.485218469Z",
+  "model": "glm-5.3"
+}

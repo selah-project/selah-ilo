@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Saan a ragsakanda kaniak, dagiti kabusok a saan a pudno; dagiti saan nga ayatannak nga awan gapuna agkiddaeyda ti mata.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ragsakanda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dagiti kabusok"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "a saan a pudno"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "dagiti saan nga ayatannak"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga awan gapuna"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "agkiddaeyda"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ti mata"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:06.662452390Z",
+  "model": "glm-5.3"
+}

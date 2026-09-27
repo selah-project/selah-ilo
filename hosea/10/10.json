@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 10:10",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "No kayatko, ipaisokodato; ket agurnongto dagiti umili kadakuada, iti panangipaisoda kadagiti dua a matada.",
+  "tokens": [
+    {
+      "surface": "באותי",
+      "gloss": "No kayatko"
+    },
+    {
+      "surface": "ואסרם",
+      "gloss": "ipaisokodato"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "agurnongto"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "באסרם",
+      "gloss": "iti panangipaisoda"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "kadagiti dua"
+    },
+    {
+      "surface": "עינתם",
+      "gloss": "a matada"
+    }
+  ],
+  "timestamp": "2026-09-26T19:40:54.283103074Z",
+  "model": "glm-5.3"
+}

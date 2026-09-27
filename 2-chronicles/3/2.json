@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Nangrugi nga mangipundar iti maikadua a bulan, iti maikadua ⟨aldaw⟩, iti maikapat a tawen ti panagturayna.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Nangrugi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "nga mangipundar"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "maikadua a"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "iti maikadua"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "maikapat"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "ti panagturayna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:43:29.727824137Z",
+  "model": "glm-5.3"
+}

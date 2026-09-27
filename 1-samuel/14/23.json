@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Isinalakanna ni Yahweh ⟨את⟩ ti Yisrael iti dayta nga aldaw; ket ti gubat ket simmangladidiay ⟨את⟩ Beit-Aven.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Isinalakanna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "ket ti gubat"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "simmangladidiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    }
+  ],
+  "timestamp": "2026-09-26T10:46:39.182987319Z",
+  "model": "glm-5.3"
+}

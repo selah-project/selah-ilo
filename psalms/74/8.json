@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Kinunada iti pusoda: diddegtayo da amin nga agpada; sinunda dagiti amin a gimong ni El iti daga.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "iti pusoda"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "diddegtayo da"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "amin nga agpada"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "sinunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dagiti amin"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "gimong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:50:11.992659595Z",
+  "model": "glm-5.3"
+}

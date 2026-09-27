@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Tapno ibagak amin a pagdaydayawam kadagiti ruangan ti anak a babai ti Tsiyon; agliklikakandaak iti panangisalakam.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ibagak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "a pagdaydayawam"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "kadagiti ruangan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ti anak a babai"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ti Tsiyon"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "agliklikakandaak"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "iti panangisalakam"
+    }
+  ],
+  "timestamp": "2026-09-26T20:51:16.834187206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "ket ni Sheva ket mannurat, ket ni Tsadok ken ni Evyatar kadagiti padi;",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "ket ni Sheva"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "mannurat"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ket ni Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ken ni Evyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kadagiti padi"
+    }
+  ],
+  "timestamp": "2026-09-26T11:59:28.082654787Z",
+  "model": "glm-5.3"
+}

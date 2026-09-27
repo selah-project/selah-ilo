@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 127,
+  "translation": "Yan! Ti tawid ni Yahweh dagiti annak; ti gunggona — ti bunga ti tian.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yan"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "tawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "gunggona"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "tian"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:50.101959247Z",
+  "model": "glm-5.3"
+}

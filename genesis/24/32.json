@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "ket simmangpet ti lalaki iti balay, ket inikkatna ti kargana dagiti kamelio, ket initedna ti apuyapoy ken pakan kadagiti kamelio, ken danum a mangdigos kadagiti sakkana ken dagiti saka dagiti lallaki a ⟨את⟩ kaduana.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ket simmangpet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ket inikkatna ti kargana"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "dagiti kamelio"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket initedna"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "apuyapoy"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "ken pakan"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "kadagiti kamelio"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ken danum"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "a mangdigos"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kadagiti sakkana"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "ken dagiti saka"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaduana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:22.957829880Z",
+  "model": "glm-5.3"
+}

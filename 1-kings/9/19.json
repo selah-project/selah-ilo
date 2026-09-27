@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 9:19",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "ken ⟨את⟩ amin a dagiti ili ti pagipenpenan a tagikua ni Shelomoh, ken ⟨את⟩ dagiti ili ti karosa ken ⟨את⟩ dagiti ili ti kabalero, ken ⟨את⟩ ti kaykayat ni Shelomoh a kayatna a ipatakder iti Yerushalayim ken iti Levanon ken iti amin a daga ti panagturayna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a dagiti ili ti pagipenpenan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "a dagiti ili"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "ti pagipenpenan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adda"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kenni Shelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ili ti karosa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ti karosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ili ti kabalero"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "ti kabalero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kaykayat"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ti kaykayat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "kayatna"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "a ipatakder"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "ken iti Levanon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ken iti amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ti panagturayna"
+    }
+  ],
+  "timestamp": "2026-09-26T12:41:49.186338478Z",
+  "model": "glm-5.3"
+}

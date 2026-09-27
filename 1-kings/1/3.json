@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Nagbirukda ti maysa a daradi a napinpintasilan iti sangalubongan a pagbeddengan ti Yisrael, ket nakitada ⟨את⟩ ni Avishag a Shunamita, ken immalida ⟨את⟩ ti babai ken ni ti ari.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "nagbirukda"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ti daradi"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "a napinpintasilan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "a pagbeddengan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avishag a Shunamita"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "ni Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "a Shunamita"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "immalida"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avishag"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ken ni ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T12:18:00.403125344Z",
+  "model": "glm-5.3"
+}

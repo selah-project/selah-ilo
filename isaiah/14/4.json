@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 14:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ket itarayom daytoy a daniw a pangngeddeng maibusor iti ari ti Bavel, ken kunam: Kasano a naginana ti nangipespes, naginana ti mannala iti balitok!",
+  "tokens": [
+    {
+      "surface": "ונשאת",
+      "gloss": "ket itarayom"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "ti daniw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "maibusor"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ken kunam"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kasano"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "naginana"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ti nangipespes"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "naginana"
+    },
+    {
+      "surface": "מדהבה",
+      "gloss": "ti mannala iti balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T14:40:41.488338917Z",
+  "model": "glm-5.3"
+}

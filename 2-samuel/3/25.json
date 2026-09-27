@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ammonam ⟨את⟩ ni Avner nga anak ni Ner, a ta immay isuna nga aglilinaw kenka, ket ammoenna ⟨את⟩ ti panagruar mo ken ⟨את⟩ ti panagserrekmo, ket ammoenna ⟨את⟩ amin a saan nga aramidem.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ammonam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ni Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ni Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a ta"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "aglilinaw kenka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ket ammoenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panagruar mo"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ti panagruar mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti panagserrekmo"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ti panagserrekmo"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ket ammoenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aramidem"
+    }
+  ],
+  "timestamp": "2026-09-26T11:29:53.023884582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 95,
+  "translation": "Upat a pulo a tawen a nabannugak iti daytoy a kaputotan, ket kinunak: umili nga naliblib ti puso — da, ken da met saan nga ammo dagiti dalank.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "upat a pulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "nabannugak"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "iti daytoy a kaputotan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ket kinunak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "naliblib"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ken da met"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dagiti dalank"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:54.936555233Z",
+  "model": "glm-5.3"
+}

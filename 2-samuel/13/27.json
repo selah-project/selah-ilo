@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Inpigatna ni Avshalom kenkuana, ket ipananna a ⟨את⟩ kaduana ⟨את⟩ ni Amnon ken ⟨את⟩ amin nga annak ti ari.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "inpigatna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ipananna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaduana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "ni Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin nga annak ti ari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga annak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T11:47:55.611341180Z",
+  "model": "glm-5.3"
+}

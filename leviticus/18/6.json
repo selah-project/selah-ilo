@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Tunggal maysa a lalaki — iti amin a kaarruba ti lasagna — saan kayo nga asidegen a mangibuklan iti kinalamolamo; siak ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lalaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kaarruba"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ti lasagna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "kayo nga asidegen"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "a mangibuklan"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "kinalamolamo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:33:50.299795831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Dagiti saok, dengngegem, Yahweh; usigem ti ununotok a naisino.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "dagiti saok"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dengngegem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "usigem"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "ti ununotok a naisino"
+    }
+  ],
+  "timestamp": "2026-09-26T20:44:46.794528721Z",
+  "model": "glm-5.3"
+}

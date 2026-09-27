@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Dengngem, Yahweh, ti timekok no agawagak; kaasianak ken agsungbatka kaniak.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dengngem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ti timekok"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "no agawagak"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "kaasianak"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "agsungbatka kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:43.010256060Z",
+  "model": "glm-5.3"
+}

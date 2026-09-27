@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 99,
+  "translation": "Ken ti bileg ti ari a mangay-ayat ti ukom — sika, insirmongmo ti kinapudno; ukom ken kinalinteg kenni Yaakov sika ti nangaramid.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Ken ti bileg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mangay-ayat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "insirmongmo"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ti kinapudno"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukom"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ken kinalinteg"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kenni Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nangaramid"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:26.281765622Z",
+  "model": "glm-5.3"
+}

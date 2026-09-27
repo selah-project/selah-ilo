@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ti tiempo nga agbiruk, ken ti tiempo nga awanen; ti tiempo nga salakniben, ken ti tiempo nga ipanen.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ti tiempo"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "nga agbiruk"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti tiempo"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "nga awanen"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ti tiempo"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "nga salakniben"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti tiempo"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "nga ipanen"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:45.022463915Z",
+  "model": "glm-5.3"
+}

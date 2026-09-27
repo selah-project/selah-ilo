@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket inkabilko sadiay ti disso para iti arko, a sadiay ti tulag ni Yahweh, a tinulagna kadua dagiti ammamatayo idi ipapananna ⟨את⟩ da manipud iti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "ket inkabilko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ti disso"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "para iti arko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tulag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "tinulagna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "dagiti ammamatayo"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "idi ipapananna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "da"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T12:40:46.606804961Z",
+  "model": "glm-5.3"
+}

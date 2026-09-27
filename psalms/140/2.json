@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Isalakannak, Yahweh, manipud iti dakes a tao; manipud iti lalaki a mannakapanagdadael salaknibannak.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Isalakannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "manipud iti tao"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "manipud iti lalaki"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "a mannakapanagdadael"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "salaknibannak"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:49.678780675Z",
+  "model": "glm-5.3"
+}

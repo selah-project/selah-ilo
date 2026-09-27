@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ⟨את⟩ ti amin a tabana iyegna manipud kenkuana: ⟨את⟩ ti ipus a taba, ken ⟨את⟩ ti taba nga agabbong ⟨את⟩ kadagiti bitbituka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti amin a tabana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "a tabana"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "iyegna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ipus a taba"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ti ipus a taba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ti taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nga agabbong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti bitbituka"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kadagiti bitbituka"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:11.202405926Z",
+  "model": "glm-5.3"
+}

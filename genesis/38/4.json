@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Nagbukod isuna manen ken nanganak iti maysa nga anak a lalaki, ket inawaganna ⟨את⟩ ti nagan na: Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nagbukod"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nanganak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagan na"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti nagan na"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-26T02:54:38.670861458Z",
+  "model": "glm-5.3"
+}

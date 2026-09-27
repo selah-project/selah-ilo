@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ta ti anghelko agnagna iti sanguam ken ipatulngana kenka kadagiti Emori, ti Hiti, ti Perizi, ti Kenaani, ti Hivi ken ti Yebusi, ket ikkatenku ida.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "agnagna"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ti anghelko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sanguam"
+    },
+    {
+      "surface": "והביאך",
+      "gloss": "ken ipatulngana kenka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ti Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ti Perizi"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ti Kenaani"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ti Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ti Yebusi"
+    },
+    {
+      "surface": "והכחדתיו",
+      "gloss": "ket ikkatenku ida"
+    }
+  ],
+  "timestamp": "2026-09-26T04:10:09.641409998Z",
+  "model": "glm-5.3"
+}

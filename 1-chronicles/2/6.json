@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken dagiti anak ni Zerach: Zimri, ken Eitan, ken Heyman, ken Kalchol, ken Dara — amin da ket lima.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ken dagiti anak"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ni Zerach"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "ken Eitan"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "ken Heyman"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "ken Kalchol"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "ken Dara"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "amin da"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ket lima"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:50.096174572Z",
+  "model": "glm-5.3"
+}

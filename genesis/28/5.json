@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Inipatulod ni Yitschak ⟨את⟩ ni Yaakov, ket napan Padan-Aram, kenni Lavan, anak a lalaki ni Betuel nga Arameo, kabsat ni Rivkah, ina ni Yaakov ken Esav.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Inipatulod"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "napan"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Arameo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kabsat"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ken Esav"
+    }
+  ],
+  "timestamp": "2026-09-26T02:28:24.007078657Z",
+  "model": "glm-5.3"
+}

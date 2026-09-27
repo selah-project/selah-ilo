@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Kinuna ni Elohim kenni Bilam: saanmo a mapan kadakuada, saanmo a sumpaen ⟨את⟩ ti tao, ta binendisionan isuna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mapan"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "sumpaen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "binendisionan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    }
+  ],
+  "timestamp": "2026-09-26T06:56:08.704078752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Iti dayta nga aldaw ipatderko ⟨את⟩ ti kubo ni David a natnag, ket iserrak ⟨את⟩ dagiti guddotna, ken dagiti nadaeldaelna ipatderko, ken ipatakderkonto a kas kadagiti aldaw ti agnanayon.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ipatderko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kubo ni David"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "ti kubo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "a natnag"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ket iserrak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti guddotna"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "dagiti guddot"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "dagiti nadaeldaelna"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ipatderko"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "ipatakderkonto"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kas kadagiti aldaw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T19:55:36.811170901Z",
+  "model": "glm-5.3"
+}

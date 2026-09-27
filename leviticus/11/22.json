@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kadagitoy kadakuada ti manganenyo: ⟨ti⟩ arbeh kadagiti kitana, ken ⟨ti⟩ solam kadagiti kitana, ken ⟨ti⟩ hargol kadagiti kitana, ken ⟨ti⟩ chagav kadagiti kitana.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagitoy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kadagitoy"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "manganenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ti arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "kadagiti kitana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti solam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "ti solam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kadagiti kitana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti hargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "ti hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kadagiti kitana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti chagav"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "ti chagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kadagiti kitana"
+    }
+  ],
+  "timestamp": "2026-09-26T05:10:11.373207094Z",
+  "model": "glm-5.3"
+}

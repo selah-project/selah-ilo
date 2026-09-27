@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 6:24",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket binilinna ti Yahweh dakami a mangaramid iti ⟨את⟩ amin dagiti linteg dita, ti panagbuteng ⟨iti⟩ ⟨את⟩ Yahweh nga Elohimtayo, iti nasayaat kadakami amin dagiti aldaw, a mangbiag kadakami, a kas iti aldaw ita.",
+  "tokens": [
+    {
+      "surface": "ויצונו",
+      "gloss": "binilinna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "a mangaramid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti linteg dita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "dagiti linteg"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dita"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ti panagbuteng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimtayo"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "iti nasayaat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "לחיתנו",
+      "gloss": "a mangbiag kadakami"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "a kas iti aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ita"
+    }
+  ],
+  "timestamp": "2026-09-26T07:41:58.340146172Z",
+  "model": "glm-5.3"
+}

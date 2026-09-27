@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Kinuna ti babai: ⟨את⟩ Aniasino ti ipangatok kadak? Ket kinuna: ⟨את⟩ Ni Shemuel — pangatuenmo kaniak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aniasino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aniasino"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ti ipangatok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kadak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "pangatuenmo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T11:17:00.497312305Z",
+  "model": "glm-5.3"
+}

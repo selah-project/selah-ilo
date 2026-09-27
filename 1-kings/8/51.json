@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ta umilim ken tawidmoda, a inruaramo manipud iti Mitsrayim, manipud iti uneg ti dapog ti landok",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umilim"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ken tawidmo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "inruaramo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "manipud iti uneg"
+    },
+    {
+      "surface": "כור",
+      "gloss": "ti dapog"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ti landok"
+    }
+  ],
+  "timestamp": "2026-09-26T12:37:34.207496541Z",
+  "model": "glm-5.3"
+}

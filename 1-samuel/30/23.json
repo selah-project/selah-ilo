@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ket kinuna ni David: Saankayo aaramiden kastoy, dagiti kabsatko; ⟨את⟩ ti impaay ni Yahweh kadakami, ken nagsalaknib ⟨את⟩ kaniakami, ket itedna ⟨את⟩ ti gunglo nga immay kadakami iti imakami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saankayo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aaramidenyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "dagiti kabsatko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti impaay ni Yahweh kadakami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "impaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ket nagsalaknib"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniakami"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti gunglo"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "ti gunglo"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "nga immay"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "iti imakami"
+    }
+  ],
+  "timestamp": "2026-09-26T11:21:26.526745997Z",
+  "model": "glm-5.3"
+}

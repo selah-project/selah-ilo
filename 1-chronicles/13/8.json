@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 13:8",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket ni David ken amin nga Yisrael agsalsala da iti sango ti Elohim iti amin a bileg, ken kadagiti kanta, ken kadagiti arpa, ken kadagiti lira, ken kadagiti tambor, ken dagiti simbal, ken dagiti trompeta.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Ket ni David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ngа Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "agsalsala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "עז",
+      "gloss": "a bileg"
+    },
+    {
+      "surface": "ובשירים",
+      "gloss": "ken kadagiti kanta"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "ken kadagiti arpa"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "ken kadagiti lira"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "ken kadagiti tambor"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "ken dagiti simbal"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "ken dagiti trompeta"
+    }
+  ],
+  "timestamp": "2026-09-26T23:37:20.333030587Z",
+  "model": "glm-5.3"
+}

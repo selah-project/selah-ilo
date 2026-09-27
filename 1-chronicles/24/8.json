@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ti maikatlo kenni Kharim, ti maikapat kenni Seorim.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "kenni Kharim"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ti maikatlo"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "kenni Seorim"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "ti maikapat"
+    }
+  ],
+  "timestamp": "2026-09-26T23:42:20.480607124Z",
+  "model": "glm-5.3"
+}

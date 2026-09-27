@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 63:13",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 63,
+  "translation": "Ti nangidaulo kadakuada kadagiti naadalem a danum, a kas ti kabalio iti away, saanda a matnagda.",
+  "tokens": [
+    {
+      "surface": "מוליכם",
+      "gloss": "Ti nangidaulo kadakuada"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "kadagiti naadalem a danum"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "a kas ti kabalio"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti away"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "a matnagda"
+    }
+  ],
+  "timestamp": "2026-09-26T16:00:38.662393455Z",
+  "model": "glm-5.3"
+}

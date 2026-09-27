@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Kinita ni Shemuel ⟨את⟩ ni Shaul, ket innungpalan ni Yahweh: Dayta ti lalaki a kinunak kaniak; isu ti mangituray ⟨iti⟩ pagiliak.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ken ni Shemuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kinita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "innungpalanna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "isu"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "ti mangituray"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "⟨iti⟩ pagiliak"
+    }
+  ],
+  "timestamp": "2026-09-26T10:42:55.820684730Z",
+  "model": "glm-5.3"
+}

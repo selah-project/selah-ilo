@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ni Atalyah, ina ni Akhazyahu, nakitana a natay ti anakna, ket nagtakder ket dinadaelna ⟨את⟩ amin a putot ti pagarian.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Ni Atalyah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ni Akhazyahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "nakitana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "מת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ti anakna"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ket nagtakder"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "ket dinadaelna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a putot ti pagarian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "a putot"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ti pagarian"
+    }
+  ],
+  "timestamp": "2026-09-26T13:42:25.345392761Z",
+  "model": "glm-5.3"
+}

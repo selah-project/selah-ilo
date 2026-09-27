@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "idi ti agbantaybantay ti balay agkinniirda, ket timmangkendag dagiti lallaki ti bileg, ken naginen dagiti agigrin gapu ta nagbassilda, ken nadimlaanda dagiti agbirbiruk kadagiti taleman;",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "idi"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "agkinniirda"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ti agbantaybantay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "ket timmangkendag"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "ken naginen"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "dagiti agigrin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gapu ta"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "nagbassilda"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "ken nadimlaanda"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "dagiti agbirbiruk"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "kadagiti taleman"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:56.737188091Z",
+  "model": "glm-5.3"
+}

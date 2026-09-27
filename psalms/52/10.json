@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 52,
+  "translation": "Ngem siak, kas maysa a berde nga olibo iti balay ti Elohim, agtalekak iti hesed ti Elohim, agnanayon ken agnanayon.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngem siak"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "kas olibo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "berde"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "agtalekak"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "iti hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:26:29.794367069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "Kantayen ti daydayaw ti naganna, ikabil ti daydayaw iti daydayawna.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Kantayen"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ikabil"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "iti daydayawna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:35:31.988245439Z",
+  "model": "glm-5.3"
+}

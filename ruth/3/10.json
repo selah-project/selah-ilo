@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kinunana: Madayawka babaen ni Yahweh, anakak a babai; nasayaatmo ti hesedmo ti naud-udi ngem iti umuna, iti saanmo a sumurot kadagiti baro, no pobre ken no riko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "madayawka"
+    },
+    {
+      "surface": "את",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anakak a babai"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "nasayaatmo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedmo"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "naud-udi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "umuna"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "sumurot"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "dagiti baro"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pobre"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "riko"
+    }
+  ],
+  "timestamp": "2026-09-26T23:05:03.530534070Z",
+  "model": "glm-5.3"
+}

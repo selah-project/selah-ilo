@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ket ibendisionandakayo ⟨אתכם⟩ amin a dagiti umili, ta dakayo ket daga a kaykayat, kinuna ni Yahweh Tsevaot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "ket ibendisionanda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kayoyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a kaykayat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:20.608323492Z",
+  "model": "glm-5.3"
+}

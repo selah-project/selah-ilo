@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Naragsak ti nasion a ni Yahweh ti Elohimna, ti umili a pinilina a kas tawidna.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "naragsak"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ti nasion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pinilina"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "a kas tawid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:25.922350401Z",
+  "model": "glm-5.3"
+}

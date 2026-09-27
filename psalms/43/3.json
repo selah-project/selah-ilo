@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Ipadmam ti lawagmo ken ti kinapudnomo; isuda ti mangidaulkennak, mangegedda kaniak iti bantay ti nasantuanmo ken iti Mishkanmo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ipadmam"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ti lawagmo"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ken ti kinapudnomo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ti mangidaulkennak"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "mangegedda kaniak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ti nasantuanmo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "Mishkanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:18:25.185534164Z",
+  "model": "glm-5.3"
+}

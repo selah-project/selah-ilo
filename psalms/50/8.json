@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Saanak a mangisuppiat kenka maipanggep kadagiti sakripisiom; ket dagiti natuded a datonmo adda iti sangoak nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saanak"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipanggep"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "kadagiti sakripisiom"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "a mangisuppiat kenka"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "ket dagiti natuded a datonmo"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "adda iti sangoak"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:46.006540510Z",
+  "model": "glm-5.3"
+}

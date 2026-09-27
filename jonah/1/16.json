@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket nabutengandatan dagiti lallaki kenni Yahweh iti dakkel a panagbuteng, ket immokanda daton kenni Yahweh, ket nangikarda dagiti kari.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ket nabutenganda"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "iti panagbuteng"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "a dakkel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ket immokanda"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "daton"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "ket nangikarda"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "dagiti kari"
+    }
+  ],
+  "timestamp": "2026-09-26T20:03:16.380233209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Iti amin a daga rummuar ti liniana, ken iti patingga ti sangalubongan dagiti saoda; para iti init inyalagnaenna ti tolda kadakuada.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "rummuar"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ti liniana"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "ken iti patingga"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ti sangalubongan"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "dagiti saoda"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "para iti init"
+    },
+    {
+      "surface": "שם",
+      "gloss": "inalagnaenna"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti tolda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T20:59:05.193159768Z",
+  "model": "glm-5.3"
+}

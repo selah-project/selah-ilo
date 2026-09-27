@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket inruarda ⟨את⟩ dagiti poste ti balay ti Baal, ket sinilapanda.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "inruarda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti poste"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "dagiti poste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ti Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "sinilapanda"
+    }
+  ],
+  "timestamp": "2026-09-26T13:35:11.663738974Z",
+  "model": "glm-5.3"
+}

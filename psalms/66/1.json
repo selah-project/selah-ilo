@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "Kadagiti Mannengngel. Ti Kanta, ti Mizmor. Agsagabay kadagiti kampo ni Elohim ti amin a daga.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kadagiti Mannengngel"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Ti Kanta"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ti Mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Agsagabay kadagiti kampo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:35:31.988039041Z",
+  "model": "glm-5.3"
+}

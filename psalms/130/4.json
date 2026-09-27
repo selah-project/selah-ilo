@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 130,
+  "translation": "Ta kadua mo ⟨ti⟩ panangipatawar, tapno maar-aramidka a maikabutengan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kadua mo"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ti panangipatawar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "maar-aramidka a maikabutengan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:41.188553656Z",
+  "model": "glm-5.3"
+}

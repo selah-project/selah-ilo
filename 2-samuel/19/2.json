@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket naipakaammuan kenn Yoav: Sanay, agsangit ti ari ken agdusa kenn Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "naipakaammuan"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "kenn Yoav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sanay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "agsangit"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "agdusa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kenn"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-26T12:02:54.573299086Z",
+  "model": "glm-5.3"
+}

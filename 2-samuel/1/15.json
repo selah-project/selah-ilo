@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Inawagan ni David ti maysa kadagiti nagtutubo ken kinunana: Aginakka, tumnak kenni. Ket dinareptekna ket natay.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inawagan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "kadagiti nagtutubo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "גש",
+      "gloss": "aginakka"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "tumnak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "dinareptekna"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "natay"
+    }
+  ],
+  "timestamp": "2026-09-26T11:26:00.728434669Z",
+  "model": "glm-5.3"
+}

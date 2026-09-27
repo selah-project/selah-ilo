@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "SaanYo nga aramiden ⟨את⟩ kadkuak dagiti dios ti pirak ken dagiti dios ti balitok; saanYo nga aramiden para kadakayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "aramidenYo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kadkuak"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dagiti dios"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ken dagiti dios"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ti balitok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aramidenYo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:57:40.856080552Z",
+  "model": "glm-5.3"
+}

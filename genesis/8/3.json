@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Nagsubli dagiti danum manipud iti rabaw ti daga, agtultuloy nga agsublisubli, ket nagkurang dagiti danum iti ngudo ti limapulo ken sangagasut nga aldaw.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Nagsubli"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dagiti danum"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti rabaw ti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "agtultuloy"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "nga agsublisubli"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "ket nagkurang"
+    },
+    {
+      "surface": "המים",
+      "gloss": "dagiti danum"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "iti ngudo ti"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limapulo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ket sangagasut"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T01:49:41.596329882Z",
+  "model": "glm-5.3"
+}

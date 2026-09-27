@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ti Sheol ken ti Abaddon saan a mabusor, ken dagiti mata ti tao saan a mabusor.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ti Sheol"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "ken ti Abaddon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "a mabusor"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ken dagiti mata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "a mabusor"
+    }
+  ],
+  "timestamp": "2026-09-26T22:43:14.509068713Z",
+  "model": "glm-5.3"
+}

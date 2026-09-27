@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Dagiti bibig ti nalinteg ammo da ⟨ti⟩ ti kayat, ngem ti ngiwat dagiti dakes ⟨ket⟩ panangisulisog.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "dagiti bibig"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ammo da"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ti kayat"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ngem ti ngiwat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "panangisulisog"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:03.232106696Z",
+  "model": "glm-5.3"
+}

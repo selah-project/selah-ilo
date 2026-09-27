@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Iti gayyemma ti iping addanto dagiti singsing, kas pagikammada kadagiti badang, a mangawit ti ⟨את⟩ lamisa.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "iti gayyemma ti"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "iping"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "addanto"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "dagiti singsing"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "kas pagikammada"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "kadagiti badang"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "a mangawit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lamisa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lamisa"
+    }
+  ],
+  "timestamp": "2026-09-26T04:16:13.304826180Z",
+  "model": "glm-5.3"
+}

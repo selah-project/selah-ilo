@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 9:16",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken isalakannoda ti Yahweh nga Elohimda iti dayta nga aldaw, a kas karnero ti umilina; ta dagiti bato ti korona, agparangda a nangato iti dagana.",
+  "tokens": [
+    {
+      "surface": "והושיעם",
+      "gloss": "Ken isalakannoda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga Elohimda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti dayta nga aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(iti dayta nga aldaw)"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "a kas karnero"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ti korona"
+    },
+    {
+      "surface": "מתנוססות",
+      "gloss": "agparangda a nangato"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "dagana"
+    }
+  ],
+  "timestamp": "2026-09-26T20:33:50.969090078Z",
+  "model": "glm-5.3"
+}

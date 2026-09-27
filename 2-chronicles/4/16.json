@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ⟨את⟩ dagiti kaldero, ken ⟨את⟩ dagiti pala, ken ⟨את⟩ dagiti kawit, ken ⟨את⟩ amin a ramitda — inaramid ni Khuram ti amanana kenni ari Shelomoh, para iti balay ni Yahweh, gambang a nasirang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kaldero"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "dagiti kaldero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pala"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "dagiti pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kawit"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "dagiti kawit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amin a ramitda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "a ramitda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "ni Khuram"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amanana"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kenni ari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "para iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "gambang"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "a nasirang"
+    }
+  ],
+  "timestamp": "2026-09-26T23:45:42.099760684Z",
+  "model": "glm-5.3"
+}

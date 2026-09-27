@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ni Akhaz nagputot ⟨את⟩ kenni Yaarah, ket ni Yaarah nagputot ⟨את⟩ kenni Alemet ken ⟨את⟩ kenni Atsmavet ken ⟨את⟩ kenni Tsimri, ket ni Tsimri nagputot ⟨את⟩ kenni Motsta.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Ni Akhaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yaarah"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "kenni Yaarah"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "ket ni Yaarah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "kenni Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Atsmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "kenni Atsmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Tsimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "kenni Tsimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "ket ni Tsimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Motsta"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "kenni Motsta"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:41.069559016Z",
+  "model": "glm-5.3"
+}

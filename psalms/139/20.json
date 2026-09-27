@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "Dagiti sasaoda maipapan kenka iti nakdakes a panggep, isaoda ti naganmo iti palso, dagiti kabusormo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "sasaoda maipapan kenka"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "iti nakdakes a panggep"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "isaoda"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "iti palso"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "dagiti kabusormo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:03.231048133Z",
+  "model": "glm-5.3"
+}

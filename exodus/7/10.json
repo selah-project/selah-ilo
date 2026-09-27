@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Napan da Moshe ken Aharon kenni Paro, ken inaramid da kasta a kas ti inbilin ni Yahweh; ket ibinelleng ni Aharon ⟨את⟩ ti batonna iti sanguanan ni Paro ken iti sanguanan dagiti adipenna, ket nagbalin nga uleg.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "napan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "inaramid da"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas ti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "inbilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ibinelleng"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti batonna"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "batonna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ken iti sanguanan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "ngaan uleg"
+    }
+  ],
+  "timestamp": "2026-09-26T03:31:16.208250765Z",
+  "model": "glm-5.3"
+}

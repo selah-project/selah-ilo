@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Immasungbat ti padi ⟨את⟩ ni David ket imbagana: awan ti tinapay a kadawyan iti baba ti imak, nodi ti tinapay a nasantuan ti adda, no sallaknibennan ti bagida dagiti ubbing a lalaki, a laeng manipud iti babai.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Immasungbat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket imbagana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "חל",
+      "gloss": "kadawyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "imak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nodi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "sallaknibennan ti bagida"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "dagiti ubbing a lalaki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "manipud iti babai"
+    }
+  ],
+  "timestamp": "2026-09-26T11:10:09.229177929Z",
+  "model": "glm-5.3"
+}

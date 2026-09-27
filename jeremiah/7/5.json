@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ta no nasayaat unay yo nga aramide yo: no talaga a tarusenyo ⟨ti⟩ dagiti dalan yo ken ⟨ti⟩ dagiti aramid yo, no aramidenyo ti ukom iti nagbaetan ti lalaki ken ti kaarrubana —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "nasayaat unay"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "nga aramide yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dalan yo"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "dagiti dalanyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti aramid yo"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "dagiti aramid yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "talaga a"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aramidenyo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ti kaarrubana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:08:17.577429500Z",
+  "model": "glm-5.3"
+}

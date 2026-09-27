@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Ta sinna ti ruangan ti gambang, ken dagiti barriti ti landok innarme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ti gambang"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ken dagiti barriti"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ti landok"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "innarme"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:42.102106570Z",
+  "model": "glm-5.3"
+}

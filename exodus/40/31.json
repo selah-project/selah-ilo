@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket nagdigosda manipud iti dayta ni Moshe ken ni Aharon ken dagiti anakna: ⟨את⟩ dagiti imada ken ⟨את⟩ dagiti sakada.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ket nagdigosda"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud iti dayta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken ni Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ken dagiti anakna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti imada"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dagiti imada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti sakada"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "dagiti sakada"
+    }
+  ],
+  "timestamp": "2026-09-26T04:52:29.642726271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ket inawaganna ni Shaul ⟨את⟩ amin dagiti tao iti gubat, a bumaba iti Kelila, a mangserra kenni David ken dagiti taoanna.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti tao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "a bumaba"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "iti Kelila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "a mangserra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "dagiti taoanna"
+    }
+  ],
+  "timestamp": "2026-09-26T11:06:06.495681321Z",
+  "model": "glm-5.3"
+}

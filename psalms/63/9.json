@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 63,
+  "translation": "Ti kararua ket dumungpar kenka; iti kaniak ti kannawayan imam ket agtalmeg.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "dumungpar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iti kaniak"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "agtalmeg"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ti kannawayan imam"
+    }
+  ],
+  "timestamp": "2026-09-26T21:36:35.326532413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Naabak ni Yehoshua ken ti amin a Yisrael iti sanguanda, ket nangtalayda iti dalan ti kaatkangan.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "Naabak"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "iti sanguanda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ket nangtalayda"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ti kaatkangan"
+    }
+  ],
+  "timestamp": "2026-09-26T09:03:32.388973518Z",
+  "model": "glm-5.3"
+}

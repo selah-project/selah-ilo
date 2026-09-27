@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket agbalin nga a kas kayo a naitanem iti igid dagiti agdur-as a danum, a ti bungana itedna iti tiempoanna, ket ti bulongna saan a maluken, ken amin nga aramidenna agballigi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ket agbalin"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "a kas kayo"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "naitanem"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti igid"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "dagiti agdur-as"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a danum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ti bungana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "iti tiempoanna"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "ket ti bulongna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "maluken"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "agballigi"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:03.319945687Z",
+  "model": "glm-5.3"
+}

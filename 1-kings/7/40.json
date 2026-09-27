@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 7:40",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket inaramid ni Hirom ⟨את⟩ dagiti labba ken ⟨את⟩ dagiti pala ken ⟨את⟩ dagiti batya; ket nalpas ni Hirom nga aramiden ⟨את⟩ amin ti trabaho nga inaramidna kenni Ari Shelomoh iti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "חירום",
+      "gloss": "ni Hirom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti labba"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "dagiti labba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pala"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "dagiti pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti batya"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "dagiti batya"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "nalpas"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ni Hirom"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ti trabaho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kenni Ari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T12:29:15.026987278Z",
+  "model": "glm-5.3"
+}

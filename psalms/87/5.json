@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 87,
+  "translation": "Ken maipapan iti Tsiyon maidda: maysa ken maysa a lalaki ket naipasngay kadiay, ket ni Elyon isu ti mangipatakder kaniaya.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "ken maipapan iti Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "maidda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a lalaki"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ken maysa a lalaki"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "naipasngay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kadiay"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ket isu"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "mangipatakder kaniaya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:44.212763575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ti plano ni Yahweh agnanayon nga agtakder; dagiti kapanunotan ti pusona manipud iti kaputotan agingga iti kaputotan.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "ti plano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "dagiti kapanunotan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "manipud iti kaputotan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "agingga iti kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:25.922225933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Isunog ti padi ⟨את⟩ dagitoy iti altar a kas daton a sinogsog kenni Yahweh; daton a pagbasolan daytoy.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Isunog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "a kas daton a sinogsog"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "daton a pagbasolan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T04:59:36.958997986Z",
+  "model": "glm-5.3"
+}

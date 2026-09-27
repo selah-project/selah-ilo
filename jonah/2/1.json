@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket nangidaton ni Yahweh iti maysa a dakkel nga ikan nga aglamlamut kenni Yonah ⟨את⟩, ket ni Yonah ket nagnaed iti bagis ti ikan tallo nga al-aldaw ken tallo a rab-rabii.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "nangidaton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ikan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ngaal-alamut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "iti bagis"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ti ikan"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga al-aldaw"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ken tallo"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "a rab-rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T20:02:20.590800360Z",
+  "model": "glm-5.3"
+}

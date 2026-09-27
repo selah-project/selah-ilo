@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ipasiriboak kenka ken iturongak iti dalan a daytoy ti dalenmo — ipayoak, ti matak maipaabot kenka.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Ipasiriboak kenka"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "ken iturongak"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ti dalenmo"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ipayoak"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ti matak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:11:45.194608174Z",
+  "model": "glm-5.3"
+}

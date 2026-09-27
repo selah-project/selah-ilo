@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Pulos a maibaba ti daga ken pulos a masamsaman dayta, ta nagsao ni Yahweh ⟨את⟩ daytoy a sao.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Pulos a maibaba"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "ti maibaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "ken pulos a masamsam"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "ti masamsam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T14:55:33.125894792Z",
+  "model": "glm-5.3"
+}

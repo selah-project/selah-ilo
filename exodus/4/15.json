@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Makisasaoka kenkuana, ken ikabilmo ⟨את⟩ dagiti sao iti ngiwatna; ket siak, addaak kaduam iti ngiwatmo ken iti ngiwatna, ket isuroko ⟨אתכם⟩ ⟨את⟩ ti aramidendakayo.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "makisasaoka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ikabilmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "iti ngiwatna"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "addaak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaduam"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "iti ngiwatmo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ngiwatna"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "isuroko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramiden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "aramidendakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:31:50.249219047Z",
+  "model": "glm-5.3"
+}

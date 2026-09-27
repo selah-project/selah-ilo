@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Nasumpaan ti unes da, ta napigsa, ken ti pannariri da, ta nakaro; ibingbing ko da iti Yaakov ken isabali ko da iti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Nasumpaan"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "ti unes da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עז",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "ken ti pannariri da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "nakaro"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "ibingbing ko da"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "iti Yaakov"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "isabali ko da"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T03:21:58.545430426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ken alaem ⟨את⟩ ti karnero a lalaki a maikadua, ket ipatungpal da Aharon ken dagiti annakna ⟨את⟩ dagiti imada iti ulo ti karnero.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ken alaem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karnero a lalaki a maikadua"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ti karnero a lalaki"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a maikadua"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ket ipatungpal"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "da Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ken dagiti annakna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti imada"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dagiti imada"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ti karnero"
+    }
+  ],
+  "timestamp": "2026-09-26T23:59:15.991176637Z",
+  "model": "glm-5.3"
+}

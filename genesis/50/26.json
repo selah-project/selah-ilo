@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Natay ni Yosef, a anak ti sangagasut ken sangapulo a tawen, ket binalsamanda ⟨את⟩, ket inikabilda ⟨iti⟩ aron, idiay Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "a anak"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ti sangagasut"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ken sangapulo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "ket binalsamanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yosef"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "ket inikabilda"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "iti aron"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "idiay Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:19:55.849669714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 83,
+  "translation": "Aramidem kanda a kas kenni Midian, a kas kenni Sisera, a kas kenni Yabin, idiay karayan Kishon:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Aramidem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "a kas kenni Midian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "a kas kenni Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "a kas kenni Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "idiay karayan"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:37.371538285Z",
+  "model": "glm-5.3"
+}

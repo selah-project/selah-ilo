@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Kinuna ni Yaakov: Ipagakadmo ita nga aldaw ⟨את⟩ ti karbenganmo a kas umuna nga anak kaniak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ipagakadmo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karbenganmo a kas umuna nga anak"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ti karbenganmo a kas umuna nga anak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:23:21.321792962Z",
+  "model": "glm-5.3"
+}

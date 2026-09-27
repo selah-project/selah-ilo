@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 45:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Ken itedko kenka dagiti kayamanan ti sipnget ken dagiti nakalemmeng iti lemmengan, tapno ammon a siak ti Yahweh, ti agawag ⟨iti⟩ naganmo, ti Elohim ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ken itedko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "dagiti kayamanan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ti sipnget"
+    },
+    {
+      "surface": "ומטמני",
+      "gloss": "ken dagiti nakalemmeng"
+    },
+    {
+      "surface": "מסתרים",
+      "gloss": "iti lemmengan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ammon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "ti agawag"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "iti naganmo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T15:41:33.724155815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Nanginnepka iti anginmo, nabbalkotanda ti baybay; nalmedda a kas tingga iti nabileg a danum.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "Nanginnepka"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "iti anginmo"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "nabbalkotanda"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "nalmedda"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "a kas tingga"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "a nabileg"
+    }
+  ],
+  "timestamp": "2026-09-26T03:47:28.174190109Z",
+  "model": "glm-5.3"
+}

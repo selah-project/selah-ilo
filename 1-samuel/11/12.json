@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kinuna ti umili kenni Shemuel: Ania ti nagsao a ni Shaul ti agturay kadakami? Itedyo dagiti tao a tayarandakami a patayenda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ania ti"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "a ni Shaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ti agturay"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "a patayenda"
+    }
+  ],
+  "timestamp": "2026-09-26T10:38:06.783556002Z",
+  "model": "glm-5.3"
+}

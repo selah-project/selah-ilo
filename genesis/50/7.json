@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Nagpangato ni Yosef a mangikbur ⟨את⟩ amana, ken nagpangato ⟨אתו⟩ amin dagiti adipen ni Paro, dagiti lakay ti balayna, ken amin dagiti lakay ti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nagpangato"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "a mangikbur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amana"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ken nagpangato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "amin dagiti adipen ni Paro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dagiti adipen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ti balayna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:24:06.109090371Z",
+  "model": "glm-5.3"
+}

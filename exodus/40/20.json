@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Kinuana ken inna idi ikabil ⟨את⟩ ti Testimonio iti uneg ti arko, ket inda idi ikabil ⟨את⟩ dagiti viray iti arko, ket inna idi ikabil ⟨את⟩ ti kapporet iti rabaw ti arko, manipud iti ngato.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ikabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Testimonio"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ti Testimonio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ikabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti viray"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dagiti viray"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ikabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ti kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "manipud iti ngato"
+    }
+  ],
+  "timestamp": "2026-09-26T04:52:18.418119590Z",
+  "model": "glm-5.3"
+}

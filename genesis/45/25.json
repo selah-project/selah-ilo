@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Napan da iti ngato manipud iti Mitsrayim ket immayda iti daga ti Kenaan, kenni Yaakov a amaanda.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "napan da iti ngato"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "amaanda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:18:56.938469919Z",
+  "model": "glm-5.3"
+}

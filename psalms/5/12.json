@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken agragsak koma amin dagiti agsailalim kenka; agnanayon nga agkantiada, ken iabbongmo koma kadakuada; ken agliwaliwagda kenka dagiti ay-ayat ti nagam.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "agragsak koma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "dagiti agsailalim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nga agkantiada"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "iabbongmo koma"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "agliwaliwagda"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "dagiti ay-ayat"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti nagam"
+    }
+  ],
+  "timestamp": "2026-09-26T20:42:06.431702692Z",
+  "model": "glm-5.3"
+}

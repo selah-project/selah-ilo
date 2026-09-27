@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket pinigsanna ⟨את⟩ dagiti napigsan a lugar, ken nangited kadakuada kadagiti daulo ken kadagiti pagipenpenan ti makan, lana ken bino",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ket pinigsanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti napigsan a lugar"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "dagiti napigsan a lugar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ken nangited"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "kadagiti daulo"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "ken kadagiti pagipenpenan"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ti makan"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "bino"
+    }
+  ],
+  "timestamp": "2026-09-26T23:48:44.345829206Z",
+  "model": "glm-5.3"
+}

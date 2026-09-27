@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ti maalamat a lalaki no makitungpal ⟨את⟩ ti babbaw a lalaki — no rumged wenno agkatkatawa, awan ti kinasardeng.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalamat"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "makitungpal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti babbaw a lalaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "babbaw"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "rumged"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "agkatkatawa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kinasardeng"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:55.431418555Z",
+  "model": "glm-5.3"
+}

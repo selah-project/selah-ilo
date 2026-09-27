@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ken inikkatakayo ⟨את⟩ dakayo manipud iti ima ti Mitsrayim ken manipud iti ima ti amin a mangligligket kadakayo, ken indaakanda ⟨את⟩ ida manipud iti sango yoyo, ken intedak kadakayo ⟨את⟩ ti daga da.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "inikkatakayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ken manipud iti ima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "a mangligligket kadakayo"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "ken indaakanda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ida",
+      "marks": "ida"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "manipud iti sango yoyo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ken intedak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga da"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ti daga da"
+    }
+  ],
+  "timestamp": "2026-09-26T09:46:16.361419102Z",
+  "model": "glm-5.3"
+}

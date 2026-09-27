@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket tinakungan ti ulep ⟨את⟩ ti Tolda ti Gimong, ket ti daydayaw ni Yahweh linnaona ⟨את⟩ ti Mishkan.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "ket tinakungan"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ti ulep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Tolda ti Gimong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ket ti daydayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "linnaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:51:29.086750879Z",
+  "model": "glm-5.3"
+}

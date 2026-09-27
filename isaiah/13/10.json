@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ta dagiti bituen ti langit ken dagiti grupoanda ti bituen saan a parangroyanda ti lawagda; nagsipnget ti init iti panangruarna, ken ti bulan saan a parangroyanna ti lawagna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "dagiti bituen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "ken dagiti grupoanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "a parangroyanda"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ti lawagda"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nagsipnget"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "iti panangruarna"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ken ti bulan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "a parangroyanna"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "ti lawagna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:36:11.746003415Z",
+  "model": "glm-5.3"
+}

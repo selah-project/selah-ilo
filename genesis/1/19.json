@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket adda ti rabii, ket adda ti bigat — ti maikapat nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "rabii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bigat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "maikapat"
+    }
+  ],
+  "timestamp": "2026-09-26T01:40:29.242292914Z",
+  "model": "glm-5.3"
+}

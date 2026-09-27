@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kalpasan na, binasa na ⟨את⟩ ti amin a sao ti Torah — ti bendision ken ti sumpa — kas iti amin a naisurat iti libro ti Torah.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "binasa na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a sao ti Torah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "a sao"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ti Torah"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ti bendision"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "ket ti sumpa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kas iti amin"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "a naisurat"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "iti libro"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ti Torah"
+    }
+  ],
+  "timestamp": "2026-09-26T08:59:29.262791832Z",
+  "model": "glm-5.3"
+}

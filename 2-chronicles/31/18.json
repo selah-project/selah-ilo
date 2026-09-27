@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 31:18",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "ken iti panangilista kadagiti amin nga anakda a bassit, dagiti asawada, dagiti anakda a lalaki ken dagiti anakda a babai, iti amin a gimong, ta iti pammatida pinasantuananda a nasantuan.",
+  "tokens": [
+    {
+      "surface": "ולהתיחש",
+      "gloss": "ken iti panangilista"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "anakda a bassit"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "dagiti asawada"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "dagiti anakda a lalaki"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "dagiti anakda a babai"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "a gimong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "באמונתם",
+      "gloss": "iti pammatida"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "pinasantuananda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:56:23.657168679Z",
+  "model": "glm-5.3"
+}

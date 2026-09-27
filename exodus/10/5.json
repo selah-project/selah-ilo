@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "ket masakupanna ⟨את⟩ ti mata ti daga, ket saan a makabael a makita ⟨את⟩ ti daga; ket mangangan ⟨את⟩ ti nakaalis a nabati, ti naiwan kadakayo manipud iti yelo, ket mangangan ⟨את⟩ amin dagiti kayo nga agtubo kadakayo manipud iti talon.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "ket masakupanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata ti daga"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makabael"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "a makita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ket mangangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nabati"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ti nabati"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "ti nakaalis"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "ti naiwan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "yelo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ket mangangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dagiti kayo"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "agtubo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "talon"
+    }
+  ],
+  "timestamp": "2026-09-26T03:44:34.735625776Z",
+  "model": "glm-5.3"
+}

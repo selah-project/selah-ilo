@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 87,
+  "translation": "Dagiti agkanta a kas dagiti agsala ⟨kunada⟩: amin a dagiti taudan ti danumko adda kenka.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "dagiti agkanta"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "a kas dagiti agsala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "dagiti taudan ti danumko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "adda kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:44.213235740Z",
+  "model": "glm-5.3"
+}

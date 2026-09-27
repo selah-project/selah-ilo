@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ti naituding a panawen no ti tunggal banag, ken ti panawen no ti tunggal kayat babaen dagiti langit.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "no ti tunggal banag"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "naituding a panawen"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti panawen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "no ti tunggal"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kayat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:42.168457608Z",
+  "model": "glm-5.3"
+}

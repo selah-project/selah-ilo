@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket intedna iti dayta nga aldaw ti maysa a tanda, a kunkuna: Daytoy ti tanda a nagsao ni Yahweh: Narikna, mapisi ti altar, ket mabulos ti dapo a ⟨adda⟩ iti rabawna.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ket intedna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "ti maysa a tanda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Daytoy"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "ti tanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Narikna"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "mapisi"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "ket mabulos"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ti dapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti rabawna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:05:45.422608112Z",
+  "model": "glm-5.3"
+}

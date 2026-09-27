@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Apay a binukbukam ⟨ti⟩ dagiti didiwenna, ken amin nga agballasiw iti dalan ket aruenda dayta?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "binukbukam"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "dagiti didiwenna"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "aruenda dayta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin nga"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "agballasiw"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "iti dalan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:38.437460266Z",
+  "model": "glm-5.3"
+}

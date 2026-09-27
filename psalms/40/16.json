@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Madadaelda koma gapu iti kinabainda, dagiti agkunkuna kaniak: Aha, aha.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Madadaelda koma"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "kinabainda"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "dagiti agkunkuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:18.042513049Z",
+  "model": "glm-5.3"
+}

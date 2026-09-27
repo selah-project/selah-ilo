@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Natay ni Elisha, ket inlapidandanan. Ket dagiti gadyet ti Moab umayda iti daga iti isasangbay ti tawen.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ket inlapidandanan"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "dagiti gadyet"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "umayda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "iti isasangbay"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ti tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T13:49:54.610841122Z",
+  "model": "glm-5.3"
+}

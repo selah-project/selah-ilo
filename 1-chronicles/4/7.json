@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket dagiti annak ni Khelah: ni Tseret, ni Yitskhar, ken ni Etinan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ket dagiti annak"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ni Khelah"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "ni Tseret"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "ni Yitskhar"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "ken ni Etinan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:17.670381380Z",
+  "model": "glm-5.3"
+}

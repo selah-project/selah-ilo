@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Natnog ni Azaryah a kadua dagiti amaanna, ket nilubongda ⟨אתו⟩ a kadua dagiti amaanna iti ili ni David, ket nangituray ni Yotham ti anakna a lalaki a kasukatana.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "natnog"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ni Azaryah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amaanna"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ket nilubongda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amaanna"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ket nangituray"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ni Yotham"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ti anakna a lalaki"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a kasukatana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:47:48.922595478Z",
+  "model": "glm-5.3"
+}

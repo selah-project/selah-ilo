@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Immay dagiti pastol ket iniddanda da, ngem immtakder ni Moshe ken inalacanna da, ket pinainumna ⟨את⟩ dagiti karnero da.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Immay"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "dagiti pastol"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "iniddanda da"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "immtakder"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "inalacanna da"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "pinainumna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti karnero da"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "dagiti karnero da"
+    }
+  ],
+  "timestamp": "2026-09-26T03:24:42.031940673Z",
+  "model": "glm-5.3"
+}

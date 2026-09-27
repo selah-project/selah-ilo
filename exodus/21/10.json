@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "No sabali ⟨ti babai⟩ ti alaenna, ⟨ti⟩ kanenna, ⟨ti⟩ damitna ken ⟨ti⟩ katratoanna saan a mababawanan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "sabali"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ti alaenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "kanenna"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "damitna"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "ken katratoanna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "a mababawanan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:06:21.559560856Z",
+  "model": "glm-5.3"
+}

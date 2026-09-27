@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket ti adipenmo ket iti tengnga ti umilim a pinilim, maysa nga umili a dakkel ti bilang, a saan a mabilangen ken saan a mailbilang no adu ti kaduana.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "ket ti adipenmo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti umilim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "pinilim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "רב",
+      "gloss": "a dakkel ti bilang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "a mabilangen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "a mailbilang"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "no adu ti kaduana"
+    }
+  ],
+  "timestamp": "2026-09-26T12:25:25.011279485Z",
+  "model": "glm-5.3"
+}

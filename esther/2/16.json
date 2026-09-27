@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Naala ni Ester ken ti ari Ahashverosh, iti balay ti panagturayna, iti maikasangapulo a bulan — daytoy ti bulan ti Tevet — iti maikapito a tawen ti panagturayna.",
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "naala"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ti panagturayna"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ti maikasangapulo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "ti Tevet"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "ti panagturayna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:42.334311109Z",
+  "model": "glm-5.3"
+}

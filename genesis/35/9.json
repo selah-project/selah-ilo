@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Nagparang ni Elohim kenni Yaakov manen idi panawenna nga umay manipud iti Paddan Aram, ken binendisionanna ⟨את⟩ na.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Nagparang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "idi panawenna nga umay"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "manipud iti Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ken binendisionanna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T02:47:02.989274332Z",
+  "model": "glm-5.3"
+}

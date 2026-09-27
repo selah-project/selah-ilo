@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 24:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Pinatugawna dagiti kamelio iti ruar ti siudad, asideg iti ubod ti danum, iti tiempo ti rabii, iti tiempo a rumuar dagiti babai a mangala danum.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "pinatugawna"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "dagiti kamelio"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ti siudad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asideg iti"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ubod"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "iti tiempo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ti rabii"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "iti tiempo"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "a rumuar"
+    },
+    {
+      "surface": "השאבת",
+      "gloss": "dagiti mangala danum"
+    }
+  ],
+  "timestamp": "2026-09-26T02:15:56.629760062Z",
+  "model": "glm-5.3"
+}

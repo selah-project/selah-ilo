@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kinuna ni Yahweh kenni Moshe, kalpasan ti ipupusay dagiti dua nga anak ni Aharon, idi agsumpetda iti sango ni Yahweh ket natayda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan ti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ipupusay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "idi agsumpetda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ket natayda"
+    }
+  ],
+  "timestamp": "2026-09-26T05:39:03.911676199Z",
+  "model": "glm-5.3"
+}

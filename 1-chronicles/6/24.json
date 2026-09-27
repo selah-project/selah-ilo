@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ken ti kabsatna nga ni Asaf, ti agtaktakder iti kannawan-na; ni Asap anak ni Berekhyahu, anak ni Shimea",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ken ti kabsatna"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ti agtaktakder"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "kannawan-na"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "ni Berekhyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ni Shimea"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:59.515467034Z",
+  "model": "glm-5.3"
+}

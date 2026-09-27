@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 135,
+  "translation": "Ta ukomenna ni Yahweh ti umilina, ket asianna dagiti adipenna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ukomenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ket iti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "asianna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:10.215016024Z",
+  "model": "glm-5.3"
+}

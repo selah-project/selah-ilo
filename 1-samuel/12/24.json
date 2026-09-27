@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Laeng mamabutengkayo kenni Yahweh, ken agserbikayo ⟨את⟩ kenkuana iti kinapudno, iti amin a pasonyo, ta kitaenyo ⟨את⟩ dagiti kadakkelan a banag a naaramidna kadakayo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mamabutengkayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ken agserbikayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "iti kinapudno"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "a pasonyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "kitaenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kadakkelan a banag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nakadakkel"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T10:41:40.007047072Z",
+  "model": "glm-5.3"
+}

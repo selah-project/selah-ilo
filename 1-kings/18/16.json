@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "ket immay ni Obadyahu nga agsarak kenni Ahab, ket imbagaanna kenkuana; ket immay ni Ahab nga agsarak kenni Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "ni Obadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "nga agsarak"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "kenni Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ket imbagaanna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "nga agsarak"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "kenni Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-26T13:03:00.216228633Z",
+  "model": "glm-5.3"
+}

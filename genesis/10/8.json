@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ni Kush ket nakaipannakay kenni ⟨את⟩ Nimrod; isu ti nangrugi nga agbalin a mannakabalin iti daga.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ni Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nakaipannakay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ti nangrugi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "nga agbalin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "a mannakabalin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:09.297255520Z",
+  "model": "glm-5.3"
+}

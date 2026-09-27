@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "Kitaem, saksi kadagiti umili naitedko, a pangituray ken bilinenna kadagiti umili.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "naitedko"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "a pangituray"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "ken bilinenna"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kadagiti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T15:52:06.236921581Z",
+  "model": "glm-5.3"
+}

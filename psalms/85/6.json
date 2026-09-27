@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 85,
+  "translation": "Maiririak kadi kadakami agingga agnanayon? Maipaiddan kadi ti kaungetmo iti maysa a kaputotan ken maysa a kaputotan?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "agingga agnanayon"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "maiririak kadi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "maipaiddan kadi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ti kaungetmo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "iti maysa a kaputotan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ken maysa a kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:27.464513914Z",
+  "model": "glm-5.3"
+}

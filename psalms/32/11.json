@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Agragsakkayo kenni Yahweh, ken agkantakayo, dagiti nalinteg; ken agsangkakangkayo, amin kayo a matadaw iti puso.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Agragsakkayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ken agkantakayo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "ken agsangkakangkayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin kayo"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "a matadaw"
+    },
+    {
+      "surface": "לב",
+      "gloss": "iti puso"
+    }
+  ],
+  "timestamp": "2026-09-26T21:06:54.251089081Z",
+  "model": "glm-5.3"
+}

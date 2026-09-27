@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 5:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ngem ti ⟨את⟩ bilang dagiti ladrilio nga aramidda idi kalman ken makalman, ikabilanyo kanda; saananyo a mangbassit iti, ta nakatambuyong da, gapu kasta agsangsangitda nga kuna: Mapantayo, agdatontayo iti Elohim a diostayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti bilang"
+    },
+    {
+      "surface": "מתכנת",
+      "gloss": "bilang"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "dagiti ladrilio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "aramidda"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "idi kalman"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ken makalman"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "ikabilanyo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saananyo"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "a mangbassit"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "nakatambuyong"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "agsangsangitda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "mapantayo"
+    },
+    {
+      "surface": "נזבחה",
+      "gloss": "agdatontayo"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "iti Elohim a diostayo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:36:15.291081853Z",
+  "model": "glm-5.3"
+}

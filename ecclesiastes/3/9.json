@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ania ti ganansia ti agobobra iti isu nga aglalo?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ti ganansia"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ti agobobra"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nga aglalo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:43.580096024Z",
+  "model": "glm-5.3"
+}

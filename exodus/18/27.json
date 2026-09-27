@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket ipadpanna ni Moshe ⟨את⟩ iti ugali a lalake — ti apo a babainana — ket napan ⟨iti bagi na⟩ iti daga na.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ket ipadpanna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ugali a lalake — ti apo a babainana"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ti apo a babainana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ket napan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iti bagi na⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "daga na"
+    }
+  ],
+  "timestamp": "2026-09-26T04:01:13.051922326Z",
+  "model": "glm-5.3"
+}

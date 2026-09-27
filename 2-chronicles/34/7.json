@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "ket indadaelna ⟨את⟩ dagiti altar ken ⟨את⟩ dagiti Asherah, ket dagiti nakitikit a ladan inyuyogna a napino, ken amin dagiti altar ti insenso gingganna iti amin a daga ti Yisrael, ket nagsubli iti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "indadaelna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti altar"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "dagiti altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Asherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "dagiti Asherah"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "dagiti nakitikit a ladan"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "inyuyogna"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "a napino"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "dagiti altar ti insenso"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "gingganna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ket nagsubli"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "iti Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:56:34.753213417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Adu dagiti kinuna maipapan kadagiti kararwak: Awan panangisalakan kenkuana iti Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "dagiti kinuna"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "maipapan kadagiti kararwak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "panangisalakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:30.515162752Z",
+  "model": "glm-5.3"
+}

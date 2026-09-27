@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 89,
+  "translation": "Ken siak met, ti umuna nga anakko ti aramidenna a kas iti lakamko, ti kangatuan kadagiti ari ti daga.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ken met"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "umuna nga anak"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ti aramidenna a kas iti lakamko"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ti kangatuan"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "kadagiti ari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:07.949028508Z",
+  "model": "glm-5.3"
+}

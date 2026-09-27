@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ket alakonto ⟨אתכם⟩ manipud kadagiti nasion, ket urnongkonto ⟨אתכם⟩ manipud kadagiti amin a pagilian, ket iyegkonto ⟨אתכם⟩ iti dagan yo.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ket alakonto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kadagiti nasion"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "ket urnongkonto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manipud kadagiti amin"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "a pagilian"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "ket iyegkonto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "dagan yo"
+    }
+  ],
+  "timestamp": "2026-09-26T19:06:53.663847168Z",
+  "model": "glm-5.3"
+}

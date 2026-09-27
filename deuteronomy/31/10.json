@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Kinbilin ni Moshe ⟨את⟩ ⟨אותם⟩ a kunana: iti punganay ti pito a tawen, iti naituding nga tiempo ti tawen ti panangibbet, iti fiesta ti Sukkot —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kinbilin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "kadakuada (dagiti padi ken lakay)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "iti punganay"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "iti naituding nga tiempo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tawen"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "panangibbet"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "iti fiesta"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-09-26T08:47:46.401463341Z",
+  "model": "glm-5.3"
+}

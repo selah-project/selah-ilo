@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Dakkel ti daydayawna iti panangisalakanmo; dayaw ken kadayaw ikabilmo iti ibabawna.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Dakkel"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ti daydayawna"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "iti panangisalakanmo"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "dayaw"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ken kadayaw"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ikabilmo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti ibabawna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:58:37.877568215Z",
+  "model": "glm-5.3"
+}

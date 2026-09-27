@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Gapu kasta, agdaydayawak kenka, Yahweh, kadagiti umili, ken kantaak iti naganmo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "agdaydayawak kenka"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ken iti naganmo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "kantaak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:54:29.653791069Z",
+  "model": "glm-5.3"
+}

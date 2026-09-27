@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Inalada ⟨את⟩ ti amin a rikna ti Sedom ken ti Amorah, ken ⟨את⟩ ti amin a kanenda, ket immayda.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a rikna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "a rikna"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ti Sedom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "ken ti Amorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti amin a kanenda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "a kanenda"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ket immayda"
+    }
+  ],
+  "timestamp": "2026-09-26T01:54:47.990598531Z",
+  "model": "glm-5.3"
+}

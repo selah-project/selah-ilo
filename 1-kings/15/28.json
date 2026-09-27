@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 15:28",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket inpatay ni Baasha kennia, iti maikatlo a tawen ni Asa ari ti Yehudah, ket nagturay imbes kenkuana.",
+  "tokens": [
+    {
+      "surface": "וימתהו",
+      "gloss": "inpatay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ni Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ket nagturay"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "imbes kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T12:56:27.711503903Z",
+  "model": "glm-5.3"
+}

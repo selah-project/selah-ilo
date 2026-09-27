@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ket adda ni Yahweh a kadua ni Yehoshaphat, ta nagna isuna iti dagiti umuna a dalan ni David nga amana, ken saan nagsapul kadagiti Baal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ni Yehoshaphat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "iti dagiti dalan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga amana"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ti dagiti umuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "nagsapul"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "kadagiti Baal"
+    }
+  ],
+  "timestamp": "2026-09-26T23:50:33.487350566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Iti aldaw ti rigatko, biniruak ni Adonay; iti rabii ti imak naislad ken saan nga aginana; ti kararua ko rumanaw ti pagay-aywan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Iti aldaw"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ti rigatko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "biniruak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ti imak"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "naislad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "nga aginana"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "rumanaw"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "ti pagay-aywan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua ko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:59.621264315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket timmalinga ti rupana iti tawan, ket kinunana: Siasino ti kaduak ⟨את⟩? siasino? Ket nagtalmegda kenkuana dua wenno tallo a eunuk.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Ket timmalinga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "ti tawan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siasino"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ti kaduak"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "והשקיפו",
+      "gloss": "Ket nagtalmegda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "a eunuk"
+    }
+  ],
+  "timestamp": "2026-09-26T13:33:14.153206879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Agipenka iti riri ken ibabawiymo ti pakaasi a riri; saanmo a agsudsudak, ta daytoy ket agturong laeng iti panagdadael.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Agipenka"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "iti riri"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ken ibabawiymo"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ti pakaasi a riri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo a"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "agsudsudak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ta daytoy ket agturong laeng"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "iti panagdadael"
+    }
+  ],
+  "timestamp": "2026-09-26T21:11:14.346207182Z",
+  "model": "glm-5.3"
+}

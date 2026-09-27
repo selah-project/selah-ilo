@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket nagna ni Shelomoh kalpasan ni Ashtoret, diosa dagiti taga-Tsidon, ken kalpasan ni Milkom, ti naek nga idolo dagiti taga-Ammon.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ket nagna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "ni Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "diosa"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "dagiti taga-Tsidon"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ken kalpasan"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ni Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ti naek nga idolo"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "dagiti taga-Ammon"
+    }
+  ],
+  "timestamp": "2026-09-26T12:45:30.838022554Z",
+  "model": "glm-5.3"
+}

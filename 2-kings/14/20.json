@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket inyeg da ⟨את⟩ isuna kadagiti kabalyo, ket naipunpon isuna iti Yerushalayim a kadua dagiti amaanna, iti ili ni David.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ket inyeg da"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ isuna",
+      "marks": "isuna (ni Amatsyahu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kadagiti kabalyo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ket naipunpon isuna"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti amaanna"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T13:43:22.041806363Z",
+  "model": "glm-5.3"
+}

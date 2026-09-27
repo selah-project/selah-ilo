@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ken inalaak ⟨את⟩ ni Yaazanyah nga anak a lalaki ni Yirmeyahu nga anak a lalaki ni Khavatsanyah, ken ⟨את⟩ dagiti kabsatna, ken ⟨את⟩ amin dagiti anakna, ken ⟨את⟩ ti amin a balay dagiti Rekhavi,",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "inalaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaazanyah"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Khavatsanyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kabsatna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dagiti kabsatna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti anakna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti amin a balay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "dagiti Rekhavi"
+    }
+  ],
+  "timestamp": "2026-09-26T17:20:59.560897048Z",
+  "model": "glm-5.3"
+}

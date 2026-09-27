@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Nagtallok ta binutenganda dagiti partera ⟨את⟩ ni Elohim, ket inaramidanna kadakuada dagiti balay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nagtallok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "binutenganda"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "dagiti partera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidanna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "balay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:21:02.545444108Z",
+  "model": "glm-5.3"
+}

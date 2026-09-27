@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Dagiti sao ti ngiwatko ken ti panunot ti pusok, addanto koma a mangay-ayat iti sanguam, Yahweh, batoak ken goelak.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "addanto koma"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "a mangay-ayat"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Dagiti sao"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwatko"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "ken ti panunot"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sanguam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batoak"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "ken goelak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:56:36.143365435Z",
+  "model": "glm-5.3"
+}

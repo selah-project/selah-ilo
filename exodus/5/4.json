@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kinuna ti ari ti Mitsrayim kadakuada: Apay koma, Moshe ken Aharon, nga iparuartayo ⟨את⟩ ti pagilian manipud kadagiti ar-aramidenna? Agsublikayo kadagiti pagbaetanyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay koma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "iparuartayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagilian"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti pagilian"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "manipud kadagiti ar-aramidenna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "agsublikayo"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "kadagiti pagbaetanyo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:37:20.566729190Z",
+  "model": "glm-5.3"
+}

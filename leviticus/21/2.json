@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "malaksid no iti kabagianna nga asideg kenkuana: iti inana ken iti amana ken iti anakna a lalaki ken iti anakna a babai ken iti kabsatna a lalaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "malaksid"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "kabagianna"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "asideg"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "iti inana"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ken iti amana"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "ken iti anakna a lalaki"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ken iti anakna a babai"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ken iti kabsatna a lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:53.767226624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Isurok koma kadakayo ⟨אתכם⟩ babaen iti ima ti El; ti adda kadua ni Shadday saanak nga ilemmengan.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "isurok koma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen iti ima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti adda kadua"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ni Shadday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "nga ilemmengan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:56:24.587790472Z",
+  "model": "glm-5.3"
+}

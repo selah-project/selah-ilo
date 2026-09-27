@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Iruarmo ti gayang ken iserraam ti dalan kadagiti agtaray kaniak; ikankada kadagiti kararuak: Siak ti salakam.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Iruarmo"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ti gayang"
+    },
+    {
+      "surface": "וסגור",
+      "gloss": "ken iserraam"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "kadagiti agtaray kaniak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ikankada"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kadagiti kararuak"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "ti salakam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Siak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:24.166245898Z",
+  "model": "glm-5.3"
+}

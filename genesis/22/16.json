@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "ket kinuna: Iti siak a bukok nagnak, ti kuna ni Yahweh, ta gapu ta inaramidmo ⟨את⟩ ti sao daytoy, ket saanmo a penpenan ⟨את⟩ anakmo a lalaki, ⟨את⟩ ti maymaysam;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iti siak a bukok"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nagnak"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ti kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יען",
+      "gloss": "gapu ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "inaramidmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sao daytoy"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanmo"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "a penpenan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakmo a lalaki"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmo a lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maymaysam"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "ti maymaysam"
+    }
+  ],
+  "timestamp": "2026-09-26T02:14:56.150204519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ken ibagam iti dayta nga aldaw: Agyamanak kenka, Yahweh, ta naungetka kaniak, ngem agsubli ti ungetmo ket naliwaliwannak.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ken ibagam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Agyamanak kenka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "naungetka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ti ungetmo"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "ket naliwaliwannak"
+    }
+  ],
+  "timestamp": "2026-09-26T14:31:16.504740864Z",
+  "model": "glm-5.3"
+}

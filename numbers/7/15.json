@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "maysa a baka a anak ti baka, maysa a karnero, maysa a urbon a karnero nga anak ti maysa a tawen, para iti sakripisio a masulo.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "איל",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "urbon a karnero"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ti maysa a tawen"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "para iti sakripisio a masulo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:14:59.670797755Z",
+  "model": "glm-5.3"
+}

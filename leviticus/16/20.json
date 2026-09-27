@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "No malpasna ti panagipatawad ⟨את⟩ ti Kasantoan ken ⟨את⟩ ti Tolda ti Gimong ken ⟨את⟩ ti altar, iyegna ⟨את⟩ ti sibibiag a kalding:",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "No malpasna"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "ti panagipatawad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Kasantoan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti Kasantoan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Tolda ti Gimong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Gimong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "iyegna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti sibibiag a kalding"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ti kalding"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ti sibibiag"
+    }
+  ],
+  "timestamp": "2026-09-26T05:37:01.438636298Z",
+  "model": "glm-5.3"
+}

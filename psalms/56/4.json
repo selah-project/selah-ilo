@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Iti aldaw a maemmakak, siak kenka ti makitalik.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Iti aldaw"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "a maemmakak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ti makitalik"
+    }
+  ],
+  "timestamp": "2026-09-26T21:30:16.928242427Z",
+  "model": "glm-5.3"
+}

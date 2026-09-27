@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket nagbalin idi napan ti patingga dagiti aldaw, nga immay ni Kayin iti bunga ti daga a daton kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ket nagbalin"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "iti patingga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ni Kayin"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "iti bunga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "daton"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:14.904234282Z",
+  "model": "glm-5.3"
+}

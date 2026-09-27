@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 21:6",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Nasantuan da kadagiti Elohim da, ket saan a dadaelenda ti nagan ti Elohim da, ta ⟨ti⟩ ⟨את⟩ apoy a daton ni Yahweh, ti tinapay ti Elohim da, isu ti idatonda, ket nasantuan da.",
+  "tokens": [
+    {
+      "surface": "קדשים",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "da"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "kadagiti Elohim da"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "dadaelenda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ti Elohim da"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apoy a daton"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "apoy a daton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ti Elohim da"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isu"
+    },
+    {
+      "surface": "מקריבם",
+      "gloss": "idatonda"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ket"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:46:05.355948579Z",
+  "model": "glm-5.3"
+}

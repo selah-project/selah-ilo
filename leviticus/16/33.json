@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ket ipatawarna ⟨את⟩ ti kasantoan a nasantoan, ken ⟨את⟩ ti Tolda ti Gimong, ket ⟨את⟩ ti altar ipatawarna, ket para kadagiti padi ken para iti amin a tattao ti gimong ipatawarna.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ket ipatawarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kasantoan a nasantoan"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ti kasantoan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a nasantoan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Tolda ti Gimong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ket ⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ipatawarna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ket para kadagiti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "padi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken para iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tattao"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ipatawarna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:29:43.608645659Z",
+  "model": "glm-5.3"
+}

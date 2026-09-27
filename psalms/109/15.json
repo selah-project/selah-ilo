@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Lumtoda iti sango ni Yahweh agnanayon, ket maikkatna manipud iti daga ⟨ti⟩ lagipanda.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Lumtoda"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ket maikkatna"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ti lagipanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:07.498498881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken ti lalaki, no rumuar manipud kenkuana ti ayus ti bukel, agdigos iti danum ⟨את⟩ ti amin a lasagna, ket marugit agingga iti rabii.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ken ti lalaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kenkuana"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ti ayus"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bukel"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "agdigos"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a lasagna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lasagna"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "marugit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T05:33:20.556662025Z",
+  "model": "glm-5.3"
+}

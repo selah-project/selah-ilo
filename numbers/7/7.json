@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "⟨את⟩ dagiti dua a karosa ken ⟨את⟩ ti uppat a baka initedna kadagiti anak a lalaki ni Gershon, no kas iti panagserbida.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dua a karosa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "karosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti uppat a baka"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak a lalaki"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ni Gershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "no kas iti"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "panagserbida"
+    }
+  ],
+  "timestamp": "2026-09-26T06:13:19.156653869Z",
+  "model": "glm-5.3"
+}

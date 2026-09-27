@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Ta na lagipenna ⟨את⟩ ti nasantuan a saona, ⟨את⟩ ni Avraham ti adipenna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "na lagipenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nasantuan a saona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nasantuanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avraham ti adipenna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ti adipenna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:12.339895177Z",
+  "model": "glm-5.3"
+}

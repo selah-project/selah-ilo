@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ket inaramidna ⟨את⟩ ti bado ti ephod, aramid ti agabel, aminan a tekhelet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bado"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "bado"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ti ephod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "agabel"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "aminan"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    }
+  ],
+  "timestamp": "2026-09-26T04:48:40.924376544Z",
+  "model": "glm-5.3"
+}

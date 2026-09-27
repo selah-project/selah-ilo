@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "book": "obadiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Saan kadi a iti dayta nga aldaw, kunkuna ni Yahweh, a dadaelkonto dagiti bisar manipud iti Edom, ken ti pannakaammo manipud iti bantay ni Esav?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kunkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "ken dadaelkonto"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dagiti bisar"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "manipud iti Edom"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ken ti pannakaammo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "manipud iti bantay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    }
+  ],
+  "timestamp": "2026-09-26T19:57:58.103919025Z",
+  "model": "glm-5.3"
+}

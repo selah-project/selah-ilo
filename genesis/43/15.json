@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 43:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Inala dagiti tao ⟨את⟩ daytoy a daton, ken dua a pigsa a pirak inalada iti imada, ken ⟨את⟩ Binyamin; nagtakderda, napannda bumaba iti Mitsrayim, ket immarda a nagtakder iti sanguanan ni Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a daton"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "daton"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ומשנה",
+      "gloss": "dua a pigsa a"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pirak"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "iti imada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "nagtakderda"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "napannda bumaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "immarda a nagtakder"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-26T03:06:46.083655153Z",
+  "model": "glm-5.3"
+}

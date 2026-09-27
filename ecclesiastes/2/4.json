@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Dakkelko a pinadakkel dagiti aramidko: nagipatakderak kadagiti balay, nagmulak kadagiti talon ti ubas.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "pinadakkelko"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "dagiti aramidko"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "nagipatakderak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "balay"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "nagmulak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "talon ti ubas"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:05.067071760Z",
+  "model": "glm-5.3"
+}

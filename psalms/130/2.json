@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 130,
+  "translation": "Adonay, dengngegem ti timekok; agannad dagiti tengngem iti timek ti agpangasik.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dengngegem"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ti timekok"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "agtakderda"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "dagiti tengngem"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "a sumangsangaili"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ti agpangasik"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:41.188258833Z",
+  "model": "glm-5.3"
+}

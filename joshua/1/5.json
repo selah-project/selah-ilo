@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Saan nga agtakder ti maysa a lalaki iti sangoam, amin nga aldaw ti biagmo; a kas ti addaak kenni Moshe, isu met nga addaak kadagiti; saanak a ditak baybay-an ken saanak a ditak ibbati.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a lalaki"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sangoam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ti biagmo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas ti"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "addaak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "addaak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak a ditak"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "baybay-an"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanak a ditak"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ibbati"
+    }
+  ],
+  "timestamp": "2026-09-26T08:56:51.397951751Z",
+  "model": "glm-5.3"
+}

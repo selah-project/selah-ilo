@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Ken sumrekak iti altar ti Elohim, iti El, ti ragsak ti ragsakko; ket agpasiasek kaniam iti kinnor, O Elohim, Elohimko.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Ken sumrekak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "ti ragsak"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "ti ragsakko"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ket agpasiasek kaniam"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "iti kinnor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:18:25.185697467Z",
+  "model": "glm-5.3"
+}

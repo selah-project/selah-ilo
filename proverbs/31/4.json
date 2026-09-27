@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Saan kadagiti ari, Lemuel, saan kadagiti ari nga uminum ti arak, ken kadagiti agturay ti agsaknit iti napigsa nga arak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kadagiti ari"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kadagiti ari"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ngaan uminum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ti arak"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "ken kadagiti agturay"
+    },
+    {
+      "surface": "או",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "agsaknit iti napigsa nga arak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:58.450189601Z",
+  "model": "glm-5.3"
+}

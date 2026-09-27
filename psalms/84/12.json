@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 84,
+  "translation": "Ta init ken kalasag ni Yahweh Elohim; grasya ken daydayaw ti itedna ni Yahweh; saan a penpenenna ti nasayaat a banag kadagiti mammagna a natalinaed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "init"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "ken kalasag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grasya"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ken daydayaw"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ti itedna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "a penpenenna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ti nasayaat a banag"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "kadagiti mammagna"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "a natalinaed"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:44.540985567Z",
+  "model": "glm-5.3"
+}

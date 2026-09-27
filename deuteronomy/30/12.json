@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Saan dayta nga adda iti dagiti langit, a kunaen: Siasino ti agay-at kadakami iti dagiti langit, ken mangala kadakami, ket ibagana kadakami ⟨את⟩ dayta, ken aramidentayo dayta?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti dagiti langit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunaen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ti agay-at"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "iti dagiti langit"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ken mangala"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ket ibagana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "ken aramidentayo dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T08:35:13.301766778Z",
+  "model": "glm-5.3"
+}

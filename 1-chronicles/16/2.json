@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket idi nalpas ni David iti panangipaay ti natuded a daton ken dagiti daton ti kappia, binendisionanna ⟨את⟩ ti umili iti nagan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "nalpas"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "iti panangipaay"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natuded a daton"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "dagiti daton ti kappia"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "binendisionanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:12.624548755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 101,
+  "translation": "Agadalak iti naperpek a dalan — no kaano umayka kaniak? Agnagnaak iti kinalinteg ti pusok, iti tengnga ti balayko.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "agadalak"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "naperpek"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "umayka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "agnagnaak"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "iti kinalinteg"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ti balayko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:30.458834672Z",
+  "model": "glm-5.3"
+}

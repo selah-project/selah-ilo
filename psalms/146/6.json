@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 146,
+  "translation": "Ti agaramid kadagiti langit ken ti daga, ⟨את⟩ ti baybay ken ⟨את⟩ ti amin nga adda kadakuada, ti agsalaknib iti kinapudno agingga iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ti agaramid"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kadagiti langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ken ti daga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baybay"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti amin nga adda kadakuada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ti agsalaknib"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "iti kinapudno"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agingga iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:19.570520667Z",
+  "model": "glm-5.3"
+}

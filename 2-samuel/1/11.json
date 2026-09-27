@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Timipet ni David iti badona ket rinawna ida, ket amin met dagiti lallaki a ⟨את⟩ kaduana.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "timipet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "iti badona"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "rinawna ida"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket met"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaduana"
+    }
+  ],
+  "timestamp": "2026-09-26T11:24:37.084288716Z",
+  "model": "glm-5.3"
+}

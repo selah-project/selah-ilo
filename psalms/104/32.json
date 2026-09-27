@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Ti agbuybuya iti daga ket aggiddeg; sumungsungbat kadagiti bantay ket agasoda.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Ti agbuybuya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "aggiddeg"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "sumungsungbat"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "kadagiti bantay"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "agasoda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:54.556370629Z",
+  "model": "glm-5.3"
+}

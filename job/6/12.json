@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "No kas ti bileg dagiti bato ti bilegko? no kas gambang ti lasagko?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ti bileg"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ti lasagko"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "kas gambang"
+    }
+  ],
+  "timestamp": "2026-09-26T22:47:46.738989846Z",
+  "model": "glm-5.3"
+}

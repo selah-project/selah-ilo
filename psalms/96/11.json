@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 96,
+  "translation": "Agragsak dagiti langit, ken maragsakan ti daga; rumrumgar ti baybay ken ti kaaduanna.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Agragsak"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ken maragsakan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "rumrumgar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ken ti kaaduanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:56.996150832Z",
+  "model": "glm-5.3"
+}

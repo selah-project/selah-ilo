@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Immakar ni Yehonatan, nga anak ni Shaul, ken napan kenni David iti Khorshah, ket pinigsaanna ⟨את⟩ ti imana iti Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Immakar"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "napan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "iti Khorshah"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "pinigsaanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ti imana"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "iti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T11:06:23.977765810Z",
+  "model": "glm-5.3"
+}

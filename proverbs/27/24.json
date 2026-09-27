@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ta saan nga agnanayon ti kayamanan, ken no ti korona iti kaputotan ken kaputotan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngananayon"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ti kayamanan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ti korona"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "iti kaputotan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ken kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:44:07.396401370Z",
+  "model": "glm-5.3"
+}

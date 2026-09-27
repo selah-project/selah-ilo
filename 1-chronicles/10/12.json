@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Immray amin nga adipen a napigsa, inalada ⟨את⟩ bagi ni Shaul ken ⟨את⟩ dagiti bagi dagiti anakna, ida idiay Yavesh, ket ilikmudda ⟨את⟩ dagiti tulangda babaen ti kayo nga elaa iti Yavesh, ket nagayunonda pito nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "immray"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "a napigsa"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "inalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagi ni Shaul"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "bagi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bagi dagiti anakna"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "dagiti bagi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "ida idiay"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ilikmudda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tulangda"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "dagiti tulangda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ti kayo nga elaa"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "iti Yavesh"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "nagayunonda"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:40.847361603Z",
+  "model": "glm-5.3"
+}

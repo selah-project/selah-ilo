@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ni Davi. Agtignayka, Yahweh, ⟨את⟩ kadagiti agtignay kaniak; aglabanka ⟨את⟩ kadagiti aglaban kaniak.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni Davi"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Agtignayka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti agtignay kaniak"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "kadagiti agtignay kaniak"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aglabanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti aglaban kaniak"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "kadagiti aglaban kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:10:24.165849516Z",
+  "model": "glm-5.3"
+}

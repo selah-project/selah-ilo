@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ta dagiti matayo ti nakita ⟨את⟩ ti amin a nasayaat nga aramid ni Yahweh, ti dakkkel, a naaramidna",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "dagiti matayo"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ti nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a nasayaat nga aramid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "a nasayaat nga aramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ti dakkkel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naaramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T07:54:32.652723719Z",
+  "model": "glm-5.3"
+}

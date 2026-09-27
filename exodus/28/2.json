@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ket aramidento dagiti bado a nasantuan kenni Aharon a kabsatmo, para kadagiti daydayaw ken para kadagiti pintas.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ket aramidento"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a nasantuan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kenni Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "a kabsatmo"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "para kadagiti daydayaw"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ken para kadagiti pintas"
+    }
+  ],
+  "timestamp": "2026-09-26T04:21:19.192655935Z",
+  "model": "glm-5.3"
+}

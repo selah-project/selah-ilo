@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ikuksanda ⟨את⟩ ti altar, ken ipalpalnaanda iti daytoy ti bado a purpura.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "ikuksanda ti abo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ipalpalnaanda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "purpura"
+    }
+  ],
+  "timestamp": "2026-09-26T06:09:45.039660983Z",
+  "model": "glm-5.3"
+}

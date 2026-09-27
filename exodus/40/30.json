@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ket inna ikabil ⟨את⟩ ti batya iti nagbaetan ti Tolda ti Gimong ken ti altar, ket inna ited idiay danum iti panagdigos.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ket inna ikabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti batya"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ti batya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti nagbaetan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket inna ited"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "iti panagdigos"
+    }
+  ],
+  "timestamp": "2026-09-26T04:52:29.642565204Z",
+  "model": "glm-5.3"
+}

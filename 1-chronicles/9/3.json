@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket idiay Yerushalayim nagnaedda: manipud dagiti anak ni Yehudah, ken manipud dagiti anak ni Binyamin, ken manipud dagiti anak ni Efrayim ken Manashe.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "ken idiay Yerushalayim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagnaedda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ken manipud"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ken manipud"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ken Manashe"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:12.245383928Z",
+  "model": "glm-5.3"
+}

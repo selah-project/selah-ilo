@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ken ti inalan a tagikuam ket maurnong a kas iti panangiurnong ti kuton; a kas iti panagdardallot dagiti danggaw, agdardallotanda iti dayta.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "ket maurnong"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "ti inalan a tagikuam"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "panangiurnong"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "ti kuton"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "a kas iti panagdardallot"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "dagiti danggaw"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "agtuloy nga agdardallot"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T15:07:46.039884230Z",
+  "model": "glm-5.3"
+}

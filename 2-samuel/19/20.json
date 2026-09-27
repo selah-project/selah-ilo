@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 19:20",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket kinunana kenni ti ari: Saanmo koma nga ikabil kaniak, apo ko, ti basol, ken saanmo koma lagipen ⟨את⟩ ti inaramid a dakes ti adipenmo iti aldaw nga immay ti apoko nga ari manipud iti Yerushalayim, a maikabil ti ari iti pusona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "nga ikabil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apo ko"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ti basol"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saanmo koma"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "lagipen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inaramid a dakes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "inaramid a dakes"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ti apoko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "manipud iti Yerushalayim"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "a maikabil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pusona"
+    }
+  ],
+  "timestamp": "2026-09-26T12:05:10.941653132Z",
+  "model": "glm-5.3"
+}

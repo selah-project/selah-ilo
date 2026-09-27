@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Sadiay naemmakda iti panagbuteng, ta adda ti Elohim iti kaputotan ti nalinteg.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "naemmakda"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "iti panagbuteng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "iti kaputotan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:23.447577575Z",
+  "model": "glm-5.3"
+}

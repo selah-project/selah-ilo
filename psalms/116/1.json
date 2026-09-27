@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Inayatek ta dengngegenna ni Yahweh ⟨ti⟩ ⟨את⟩ timekok, dagiti tarayok ⟨a mangidarag⟩.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Inayatek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dengngegenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timekok"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "timekok"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "dagiti tarayok"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:27.555956546Z",
+  "model": "glm-5.3"
+}

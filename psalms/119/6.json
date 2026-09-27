@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Kasta, saanakonto a mabain no agkitak ⟨iti⟩ amin a bilinmo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "akonto a mabain"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "no agkitak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨iti⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "a bilinmo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:30.512762757Z",
+  "model": "glm-5.3"
+}

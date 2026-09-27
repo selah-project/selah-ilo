@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket naammuan ni Kayin ⟨ti⟩ asawana, ken dinnaan, ken naganakannana ⟨את⟩ ni Khanokh; ket idi agbangbangon iti maysa nga ili, inawaganna ti nagan ti ili kas iti nagan ti anakna a lalaki, a Khanokh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "naammuan"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ni Kayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti asawana"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawana"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "dinnaan"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "naganakannana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Khanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket idi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "agbangbangon"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "iti maysa nga ili"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "kas iti nagan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ti anakna a lalaki"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:25.013057597Z",
+  "model": "glm-5.3"
+}

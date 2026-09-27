@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Adda koma ti naganna agnanayon; ti naganna agputot sango ti init; ket bendisionanda amin a dagiti umili iti bukodna, nalinteganda a kinunana.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "adda koma"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sango ti"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "init"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "agputot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "ket bendisionanda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti bukodna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "nalinteganda a kinunana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:45:59.858892770Z",
+  "model": "glm-5.3"
+}

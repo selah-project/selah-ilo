@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 2:4",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Napasamak, idi nagsao ti anghel ni Yahweh ⟨את⟩ dagiti sao a dagitoy kadagiti amin nga anak ni Yisrael, nga ingnatngat ti umili ⟨את⟩ ti timekda ket nagsangitda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "idi nagsao"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anghel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a dagitoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ingnatngatda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timekda"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "timekda"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "nagsangitda"
+    }
+  ],
+  "timestamp": "2026-09-26T09:39:31.673638945Z",
+  "model": "glm-5.3"
+}

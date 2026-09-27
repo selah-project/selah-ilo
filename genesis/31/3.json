@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket kinuna ni Yahweh ken ni Yaakov: Agsublika iti daga dagiti amam ken iti kaipuspusuanmo, ket addaak kadka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "dagiti amam"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ken iti kaipuspusuanmo"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ket addaak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kadka"
+    }
+  ],
+  "timestamp": "2026-09-26T02:36:47.619665339Z",
+  "model": "glm-5.3"
+}

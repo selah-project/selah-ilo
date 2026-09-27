@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Saoem kadagiti anak a lalaki ni Yisrael ken ibagam kaniada: dagiti napetsaan a gimong ni Yahweh, dagiti ti ipangawagyo a kas nasantuan a gimong — dagitoy ti dagiti napetsaan a gimongko.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "saoem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ken ibagam"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "dagiti napetsaan a gimong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ti ipangawagyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nasantuan a gimong"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "kas nasantuan a gimong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "dagiti napetsaan a gimongko"
+    }
+  ],
+  "timestamp": "2026-09-26T05:48:04.678416203Z",
+  "model": "glm-5.3"
+}

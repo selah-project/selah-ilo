@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Kas iti binilin ni Yahweh ⟨את⟩ ni Moshe, kastoy ti inaramidda dagiti anak a babai ni Tselofkhad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kas iti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "binilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dagiti anak a babai"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "ni Tselofkhad"
+    }
+  ],
+  "timestamp": "2026-09-26T07:29:06.481339517Z",
+  "model": "glm-5.3"
+}

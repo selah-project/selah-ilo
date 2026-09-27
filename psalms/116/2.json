@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Ta immayedenna ti lapayagna kaniak, ket kadagiti aldawko awaganko ⟨kanayon⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "immayedenna"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ti lapayagna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ket kadagiti aldawko"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "awaganko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:27.556227203Z",
+  "model": "glm-5.3"
+}

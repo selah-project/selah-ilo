@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ni Yahweh, ti Elohim dagiti amamayo, mangnayon koma kadakayo iti kasta a sangaribu a beses, ket mabendisionan koma ⟨את⟩ dakayo a kas ti imbagana kadakayo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "dagiti amamayo"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "mangnayon koma"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "a kas iti kasta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sangaribu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "a beses"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ket mabendisionan koma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas ti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T07:28:37.406897734Z",
+  "model": "glm-5.3"
+}

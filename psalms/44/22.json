@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Saan a kadi nga agsukimat ni Elohim iti daytoy? Ta ammono ⟨dagiti⟩ sekreto ti puso.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Saan a kadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "agsukimat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammono"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "dagiti sekreto"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:58.873970104Z",
+  "model": "glm-5.3"
+}

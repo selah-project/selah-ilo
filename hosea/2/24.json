@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket ti daga agsungsungbatanto ⟨את⟩ ti bagas ken ⟨את⟩ ti baro a bino ken ⟨את⟩ ti lana, ket dagitoy agsungsungbatanto ⟨את⟩ ni Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ket ti daga"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "agsungsungbatanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bagas"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "ti bagas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti baro a bino"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "ti baro a bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lana"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ket dagitoy"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "agsungsungbatanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ni Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-26T19:30:41.794292199Z",
+  "model": "glm-5.3"
+}

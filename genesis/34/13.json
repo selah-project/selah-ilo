@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Sungbatandato dagiti anak a lalaki ni Yaakov kenni Shekhem ken ⟨את⟩ kenni Khamor tatona iti panangilinlin, ket immarda, ta rinimman ⟨את⟩ ni Dinah a kabsatda a babai.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Sungbatanda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "kenni Khamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatona"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "iti panangilinlin"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ket immarda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "rinimman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "a kabsatda a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T02:49:08.102871154Z",
+  "model": "glm-5.3"
+}

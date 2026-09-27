@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Yahweh, Elohimko ti panangisalakannak, ti aldaw ti panagriknakek, iti rabii, iti sanguam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ti panangisalakannak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ti panagriknakek"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "iti sanguam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:43.112521341Z",
+  "model": "glm-5.3"
+}

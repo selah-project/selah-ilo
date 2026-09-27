@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Nagsasarunudda nga agkalkaldaaw a kas maysa a nabuteng, ken ti amin a kinasiribda ket maammok.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "nagkalkaldaaw"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "ken nagdengdengdeng"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "a kas maysa a nabuteng"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "a kinasiribda"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "ket maammok"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:14.306919598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ta umaykayo a mangkita kadagiti rupak — sino ti nagdawat daytoy manipud kadagiti imayo, a mangiyapak kadagiti korte ti balayko?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "umaykayo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a mangkita"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kadagiti rupak"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ti nagdawat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "manipud kadagiti imayo"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "a mangiyapak"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "kadagiti korte ti balayko"
+    }
+  ],
+  "timestamp": "2026-09-26T14:19:01.865611228Z",
+  "model": "glm-5.3"
+}

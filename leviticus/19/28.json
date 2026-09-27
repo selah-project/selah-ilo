@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket saan kayo mangaramid iti sanglad iti lasag yo para iti natay, ken saan kayo mangisurat iti tanda iti bagi yo; siak ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "Ket saan kayo mangaramid iti sanglad"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "para iti natay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "iti lasag yo"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "ken saan kayo mangisurat"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "iti tanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "iti bagi yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:41:34.736540490Z",
+  "model": "glm-5.3"
+}

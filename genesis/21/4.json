@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Sinunnat ni Avraham ⟨את⟩ ni Yitskhak nga anakna, anak a lalaki iti walo nga aldaw, a kas iti bilin ni Elohim ⟨iti maysa⟩.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "sinunnat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ngaanakna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "iti walo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kennia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T02:09:50.540571637Z",
+  "model": "glm-5.3"
+}

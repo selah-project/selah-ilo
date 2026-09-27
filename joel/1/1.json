@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti sao ni Yahweh a napasamak kenni Yoel, anak ni Petuel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היה",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "ni Petuel"
+    }
+  ],
+  "timestamp": "2026-09-26T19:43:10.367245752Z",
+  "model": "glm-5.3"
+}

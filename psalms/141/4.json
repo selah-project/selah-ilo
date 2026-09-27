@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 141,
+  "translation": "Saanmo a ipaay ti pusok iti dakes a sao, nga agaramid kadagiti dakes nga aramid ⟨את⟩ kadagiti lallaki nga agaramid ti kabaksulan, ket saan a makankan kadagiti naimas a pagkananda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תט",
+      "gloss": "a ipaay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "iti sao"
+    },
+    {
+      "surface": "רע",
+      "gloss": "iti dakes"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "nga agaramid"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "kadagiti dakes nga aramid"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "iti kinadakes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti lallaki"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "kadagiti lallaki"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nga agaramid"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti kabaksulan"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "a makankan"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "kadagiti naimas a pagkananda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:59.164924825Z",
+  "model": "glm-5.3"
+}

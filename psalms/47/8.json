@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Ta ari ti amin a daga ⟨ti⟩ ni Elohim; kantaenyo a maaram.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "kantaenyo"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "a maaram"
+    }
+  ],
+  "timestamp": "2026-09-26T21:24:40.450867585Z",
+  "model": "glm-5.3"
+}

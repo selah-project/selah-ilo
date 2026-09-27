@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Elohim, saanmo nga umadayo iti nak; Elohimko, iti tulongko parpartakam nga umay.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "nga umadayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iti nak"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "iti tulongko"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "parpartakam nga umay"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:19.792013515Z",
+  "model": "glm-5.3"
+}

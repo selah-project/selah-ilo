@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Ti Elohim mangipaay nga agnaed dagiti nagmaymaysa iti balay, iparuarna dagiti balud iti kaadu; ngem dagiti agsupsupaiat ket agnanaedda iti namaga a daga.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ti Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "mangipaay nga agnaed"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "dagiti nagmaymaysa"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "iparuarna"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "dagiti balud"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "iti kaadu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "dagiti agsupsupaiat"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "agnanaedda"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "iti namaga a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:04.863332286Z",
+  "model": "glm-5.3"
+}

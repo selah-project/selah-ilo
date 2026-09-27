@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Binendisionan ni Yaakov ⟨את⟩ ni Paro, ket immay manipud iti sanguan ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Binendisionan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "manipud iti sanguan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T03:14:15.043380393Z",
+  "model": "glm-5.3"
+}

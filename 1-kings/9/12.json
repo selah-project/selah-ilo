@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Nagruar ni Hiram manipud iti Tsor nga kitaenna ⟨את⟩ dagiti ili a naited kenni ni Shelomoh, ket saanda a nakaay-ayo kadagiti matana.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nagruar"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ni Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "manipud iti Tsor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nga kitaenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ili"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naited"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "a nakaay-ayo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "kadagiti matana"
+    }
+  ],
+  "timestamp": "2026-09-26T12:37:24.034304966Z",
+  "model": "glm-5.3"
+}

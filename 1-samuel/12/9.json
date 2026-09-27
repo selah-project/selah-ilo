@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ket binurada ni Yahweh nga Elohimda, ket inlakonananda ⟨iti⟩ ima ni Sisera, kumander ti buyot ti Khatzor, ken iti ima dagiti Pelishtio, ken iti ima ti ari ti Moav, ket timmuligada kadakuada.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "binurada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimda"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "inlakona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "da"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kumander"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "buyot"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Khatzor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ken iti ima"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtio"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ken iti ima"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "timmuligada"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T10:39:21.619799621Z",
+  "model": "glm-5.3"
+}

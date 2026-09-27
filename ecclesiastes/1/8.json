@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Amin dagiti sao nakauy — saan a makabael ti lalaki nga agsao; saan a mapno ti mata a makita, ket saan a mapno ti tengnga a dengngen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "nakauy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "a makabael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nga agsao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "a mapno"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ti mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a makita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "a mapno"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ti tengnga"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "a dengngen"
+    }
+  ],
+  "timestamp": "2026-09-26T23:06:57.767225555Z",
+  "model": "glm-5.3"
+}

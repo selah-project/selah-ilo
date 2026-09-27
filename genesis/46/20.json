@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Ken naiputotan kennii Yosef iti daga ti Mitsrayim — a naiyanakna kenkuana ni Asnat, anak a babai ni Poti-Phera a padi ti On — ⟨את⟩ Menasheh ken ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ken naiputotan"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kennii Yosef"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naiyanakna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "ni Asnat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "ni Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "Phera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "a padi"
+    },
+    {
+      "surface": "אן",
+      "gloss": "ti On"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menasheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:13:39.631060942Z",
+  "model": "glm-5.3"
+}

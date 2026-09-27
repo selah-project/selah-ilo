@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Saanantayo a ilemmeng kadagiti annakda; iti kapututan a maudi isuratayo dagiti daydayaw ni Yahweh, ken ti bilegna, ken dagiti palkanda a naaramidna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saanantayo"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "a ilemmeng"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "kadagiti annakda"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "iti kapututan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "a maudi"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "isuratayo"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "dagiti daydayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ken ti bilegna"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ken dagiti palkanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naaramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:36.186660548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket nagsao da a simmangsangit kenni Elohim; kinunada: Adda kadi ti El a makabael a mangiddaan ti lamisaan iti tanap?",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "nagsao da"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "a simmangsangit kenni Elohim"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "adda kadi a makabael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti El"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "a mangiddaan"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ti lamisaan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti tanap"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:58.665958664Z",
+  "model": "glm-5.3"
+}

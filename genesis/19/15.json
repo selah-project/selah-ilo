@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "No ti banbannawag ket immay, inandasanda dagiti anghel kenni Lot nga kumuna: Agtakderka, alaam ⟨את⟩ asawam ken ⟨את⟩ dagiti dua nga annakmo a babai a ditoy, suksukatam a madadaelka iti basol ti siudad.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "no ti"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "banbannawag"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "immay"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "inandasanda"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "dagiti anghel"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "kenni Lot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kumuna"
+    },
+    {
+      "surface": "קום",
+      "gloss": "agtakderka"
+    },
+    {
+      "surface": "קח",
+      "gloss": "alaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawam"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "asawam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti dua nga annakmo a babai"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "annakmo a babai"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "a ditoy"
+    },
+    {
+      "surface": "פן",
+      "gloss": "suksukatam a"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "madadaelka"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "iti basol"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti siudad"
+    }
+  ],
+  "timestamp": "2026-09-26T02:07:42.344091641Z",
+  "model": "glm-5.3"
+}

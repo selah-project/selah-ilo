@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Kitaem, ti ima ni Yahweh addanto kadagiti ayupmo nga adda iti talon — kadagiti kabalyo, kadagiti buriko, kadagiti kamelio, kadagiti baka ken kadagiti karnero — peste a nadagsen unay.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "addanto"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "kadagiti ayupmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kadagiti kabalyo"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "kadagiti buriko"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "kadagiti kamelio"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kadagiti baka"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "ken kadagiti karnero"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "a nadagsen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:41:43.479956187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Sangapulo a suko ti kaatiddog ti tabla, ken maysa a suko ken kagudua ti kalawa ti maysa a tabla.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a suko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ti kaatiddog"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ti tabla"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ken maysa a suko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ken kagudua"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ti suko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ti kalawa"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ti tabla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    }
+  ],
+  "timestamp": "2026-09-26T04:17:34.755991605Z",
+  "model": "glm-5.3"
+}

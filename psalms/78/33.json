@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Kasta nga pinalpasna iti awan paysu dagiti aldawda, ket dagiti tawenda iti taror.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "pinalpasna"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "iti awan paysu"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "dagiti aldawda"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "ket dagiti tawenda"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "iti taror"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:18.187139841Z",
+  "model": "glm-5.3"
+}

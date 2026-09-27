@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Dagiti tumengko nakukulo agraman iti panagpuasa, ket ti lasagko naawanen ti tabana.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "dagiti tumengko"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "nakukulo"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "agraman iti panagpuasa"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ket ti lasagko"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "naawanen"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ti tabana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:48.879377485Z",
+  "model": "glm-5.3"
+}

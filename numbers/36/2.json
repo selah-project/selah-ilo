@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 36:2",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ket kinuna da: Ni adinmi ⟨את⟩, bilinenna ni Yahweh nga itedmo ⟨את⟩ ti daga a kas tawid babaen ti ggorl kadagiti annak a lalaki ni Yisrael, ket ni adinmi nabilinan babaen ni Yahweh nga itedna ⟨את⟩ ti tawid ni Tselophchad, kabsatmi, kadagiti annak a babaina.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinuna da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni adinmi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni adinmi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilinenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nga itedmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "a kas tawid"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "babaen ti ggorl"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti annak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ket ni adinmi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nabilinan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "babaen ni Yahweh"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nga itedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tawid ni Tselophchad"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ti tawid"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "ni Tselophchad"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "kabsatmi"
+    },
+    {
+      "surface": "לבנתיו",
+      "gloss": "kadagiti annak a babaina"
+    }
+  ],
+  "timestamp": "2026-09-26T07:27:51.207328020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Saan yo a dinaen dagiti Mashiachko, ken kadagiti propetaKo saan yo a didinen ti dakes.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan yo"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "a dinaenkayo"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "dagiti Mashiachko"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "ken kadagiti propetaKo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan yo"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "a didinen ti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:21.632694117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Sika, Yahweh, ti mangsalaknib kadakuada; bantayanda manipud iti daytoy a henerasion iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "ti mangsalaknib kadakuada"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "bantayanda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "iti daytoy a henerasion"
+    },
+    {
+      "surface": "זו",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:42.541266548Z",
+  "model": "glm-5.3"
+}

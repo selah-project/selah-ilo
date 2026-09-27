@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ngem iti bunga ti kayo ⟨a⟩ adda iti tengnga ti hardin, kinuna ni Elohim: saan kayo a mangan iti dayta, ken saan kayo a dumamdam-es iti dayta, no dita kayo matay.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "ngem iti bunga"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ti kayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ti hardin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kayo a mangan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kayo a dumamdam-es"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "פן",
+      "gloss": "no dita"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kayo matay"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:02.840357411Z",
+  "model": "glm-5.3"
+}

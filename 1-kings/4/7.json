@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ni Shelomoh adda sangapulo ket dua a nagtakder iti amin a Yisrael, ken ipaayda ⟨את⟩ ti ari ken ⟨את⟩ ti balayna; maysa a bulan iti tunggal tawen addanto ti maysa ⟨iti tungdong⟩ ti mangipaay.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Ken ni Shelomoh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "a nagtakder"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ken ipaayda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti balayna"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ti balayna"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "maysa a bulan"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "iti tunggal tawen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "addanto"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti tungdong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "ti mangipaay"
+    }
+  ],
+  "timestamp": "2026-09-26T12:24:12.083211143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Inbaoganna ti Baybay ti Suf ket namaga, ket idanonnadad? — ket idanonnada iti naadalem a danum, kas iti daniw.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "inbaoganna"
+    },
+    {
+      "surface": "בים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ti Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "ket namaga"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "idanonnada"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "iti naadalem a danum"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kas iti daniw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:42.123314351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "Rabii ken bigat ken tengnga ti aldaw, agsasaritaakto ken agtagtagsoakto, ket nangngeg ti timekko.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Rabii"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ken bigat"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "ken tengnga ti aldaw"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "agsasaritaakto"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "agtagtagsoakto"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ket nangngeg"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ti timekko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:45.877267064Z",
+  "model": "glm-5.3"
+}

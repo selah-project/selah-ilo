@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 113,
+  "translation": "Manipud iti pannakaitudog ti init agingga iti pannakaserraanna, naisingsingngasing ti nagan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Manipud iti pannakaitudog"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "iti pannakaserraanna"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "naisingsingngasing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:44.449622655Z",
+  "model": "glm-5.3"
+}

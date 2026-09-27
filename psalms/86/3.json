@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Makaasi kaniak, Adonay, ta iti kenka agawagak iti amin nga aldaw.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Makaasi kaniak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iti kenka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "agawagak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:46.709196066Z",
+  "model": "glm-5.3"
+}

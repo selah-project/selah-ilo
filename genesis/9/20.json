@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Nangrugi ni Noach, lalaki ti daga, ket nangitundo iti talon ti ubas.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "nangrugi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "nangitundo"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "iti talon ti ubas"
+    }
+  ],
+  "timestamp": "2026-09-26T01:50:29.992179615Z",
+  "model": "glm-5.3"
+}

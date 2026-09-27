@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ti nagan ni Yahweh ket torre ti bileg; agtaray sadiay ti nalinteg ket ⟨napneteng⟩ isuna.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "torre"
+    },
+    {
+      "surface": "עז",
+      "gloss": "bileg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "agtaray"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "ket napneteng"
+    }
+  ],
+  "timestamp": "2026-09-26T22:39:17.172267202Z",
+  "model": "glm-5.3"
+}

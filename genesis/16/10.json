@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kinuna pay ti anghel ni Yahweh kanianna: Adukon ko ⟨את⟩ ti putotmo, a saan a mabilanggapu iti kaaduna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna pay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kanianna"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ti anghel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "adukon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti putotmo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ti putotmo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a saan a"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "mabilanggapu"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "iti kaaduna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:13.147516316Z",
+  "model": "glm-5.3"
+}

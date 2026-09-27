@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 11:24",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Adda agwarwara ket ad-adu pay ti maalaanna; ket adda mangiddarda iti umiso a paset, ngem agpatingga iti kaawan.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "מפזר",
+      "gloss": "agwarwara"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "ket ad-adu pay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ti maalaanna"
+    },
+    {
+      "surface": "וחושך",
+      "gloss": "ket adda mangiddarda"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "iti umiso a paset"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "agpatingga iti kaawan"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:46.006285310Z",
+  "model": "glm-5.3"
+}

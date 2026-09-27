@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Manipud iti dayta a daga naggapu ni Ashur, ken inpatakderna ⟨את⟩ ti Nineveh ken ⟨את⟩ ti Rekhobot-Ir ken ⟨את⟩ ti Kalakh.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Manipud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "naggapu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ni Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "inpatakderna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Nineveh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ti Nineveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Rekhobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rekhobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Kalakh"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ti Kalakh"
+    }
+  ],
+  "timestamp": "2026-09-26T01:53:07.035554526Z",
+  "model": "glm-5.3"
+}

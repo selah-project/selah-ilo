@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Idi dayta a panawen in_sublikna ni Retsin ari ti Aram ⟨את⟩ Elat iti Aram, ket ipinatawerna ⟨את⟩ dagiti tattao a Yehudah manipud iti Elat; ket dagiti Arameo immayda idi Elat ket nagnaedanda sadiay agingga iti daytoy nga aldaw.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "idi dayta a panawen"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "idi"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "in_sublikna"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ni Retsin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elat"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "iti Aram"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "ket ipinatawerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tattao a Yehudah"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "dagiti tattao a Yehudah"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "manipud iti Elat"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "ket dagiti Arameo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "idi Elat"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ket nagnaedanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T13:56:17.000575222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken dunngolakto ⟨את⟩ dagiti agnanaed iti daytoy nga ili, ken ⟨את⟩ ti tao ken ⟨את⟩ ti animal, iti dakkel a peste matayanda.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "dunngolakto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti agnanaed iti daytoy nga ili"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti animal"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ti animal"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "iti peste"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "matayanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:11:41.320927959Z",
+  "model": "glm-5.3"
+}

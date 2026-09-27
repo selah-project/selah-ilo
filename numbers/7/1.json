@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Idi napasamak, iti ti aldaw a nalpas ni Moshe nga ipatakder ti ⟨את⟩ Mishkan, inilanana ⟨את⟩ dayta ket pinasantona ⟨את⟩ dayta, ken ⟨את⟩ amin a kakailianna, ken ⟨את⟩ ti altar ken ⟨את⟩ amin a kakailianna; inilanana dagitoy ket pinasantona ⟨את⟩ dagitay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Idi napasamak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti ti aldaw"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "a nalpas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "nga ipatakder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "inilanana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dayta",
+      "marks": "ti Mishkan"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ket pinasantona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dayta",
+      "marks": "ti Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kakailianna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a kakailianna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kakailianna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a kakailianna"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "inilanana dagitoy"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ket pinasantona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dagitay",
+      "marks": "ti altar ken amin a kakailianna"
+    }
+  ],
+  "timestamp": "2026-09-26T06:16:46.694876088Z",
+  "model": "glm-5.3"
+}

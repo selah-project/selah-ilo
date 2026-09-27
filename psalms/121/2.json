@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 121,
+  "translation": "Ti tulongko manipud kenni Yahweh, ti agararamid ⟨את⟩ dagiti langit ken ⟨את⟩ ti daga.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Ti tulongko"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manipud kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti agararamid"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dagiti langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ken ti daga"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:42.575781517Z",
+  "model": "glm-5.3"
+}

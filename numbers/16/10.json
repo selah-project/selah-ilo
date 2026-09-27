@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket inasidegna ⟨את⟩ sika ken ⟨את⟩ amin a kabsatmo nga anak ni Levi ⟨את⟩ kaduam, ket agbirukayo pay ti panagpadi?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ket inasidegna"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sika",
+      "marks": "sika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kabsatmo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "a kabsatmo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kaduam"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "ket agbirukayo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ti panagpadi"
+    }
+  ],
+  "timestamp": "2026-09-26T06:43:27.015455504Z",
+  "model": "glm-5.3"
+}

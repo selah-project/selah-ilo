@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket nakna ni Yaakov ⟨iti⟩ ⟨את⟩ pusona ni Lavan a tagiri ti Aram, ta saanna nga imbaga kenkuana a tarayenna.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "ketnakna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusona"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pusona"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "a tagiri ti Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "saanna nga"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "imbaga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "tarayenna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    }
+  ],
+  "timestamp": "2026-09-26T02:37:44.457299028Z",
+  "model": "glm-5.3"
+}

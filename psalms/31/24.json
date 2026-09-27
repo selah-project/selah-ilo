@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ayayatenyo ⟨את⟩ ni Yahweh, amin a dagiti nasantuanna; matalek ni Yahweh a mangsalaknib kadagiti matinayo, ken mangibbet ti ad-adu kadagiti agaramid iti panagngato.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Ayayatenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "dagiti nasantuanna"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "matinayo"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "mangsalaknib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ken mangibbet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ad-adu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kadagiti agaramid iti"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "panagngato"
+    }
+  ],
+  "timestamp": "2026-09-26T21:05:54.987509725Z",
+  "model": "glm-5.3"
+}

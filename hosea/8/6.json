@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ta manipud iti Yisrael daytoy, ket maysa a panday ti nangaramid kenkuana, ket saan nga Elohim dayta; ta piraso-piraso ti agbalin a natabak ni Shomron.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "manipud iti Yisrael"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ken"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "maysa a panday"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ti nangaramid kenkuana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nga Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "piraso-piraso"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti agbalin"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "a natabak"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ni Shomron"
+    }
+  ],
+  "timestamp": "2026-09-26T19:38:52.465168746Z",
+  "model": "glm-5.3"
+}

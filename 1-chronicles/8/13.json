@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ken ni Beriah ken ni Shema — isuda dagiti ulo dagiti amma kadagiti agnaed iti Ayyalon; isuda ti nangpalista kadagiti agnaed iti Gath ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וברעה",
+      "gloss": "ken ni Beriah"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ken ni Shema"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dagiti ulo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "dagiti amma"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "kadagiti agnaed"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "iti Ayyalon"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "nangpalista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti agnaed"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "kadagiti agnaed"
+    },
+    {
+      "surface": "גת",
+      "gloss": "iti Gath"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:29.993607471Z",
+  "model": "glm-5.3"
+}

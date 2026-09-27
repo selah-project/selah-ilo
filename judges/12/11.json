@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ket simmakop kenkuana indaonna ni ⟨את⟩ Yisrael ni Elon ti Zevulonita, ken indaonna ni ⟨את⟩ Yisrael sangapulo a tawen.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "indaonna"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "simsakop kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ti Zevulonita"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ken indaonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T10:00:42.872783308Z",
+  "model": "glm-5.3"
+}

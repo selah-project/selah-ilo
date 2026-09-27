@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket nagsubli ⟨את⟩ kaduana, ket nagmangan ti tinapay iti balayna ket immimum ti danum.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ket nagsubli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaduana"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ket nagmangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "iti balayna"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ket immimum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    }
+  ],
+  "timestamp": "2026-09-26T12:51:32.948823268Z",
+  "model": "glm-5.3"
+}

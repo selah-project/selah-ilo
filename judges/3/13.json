@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Inurnongna iti kakuana ⟨את⟩ dagiti anak ni Ammon ken ni Amalek, ket napan ket bininarna ⟨את⟩ ti Yisrael, ket nangsalaoda iti ⟨את⟩ ti Ili ti Dagiti Palma.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "inurnongna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iti kakuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ni Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ken ni Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ket napan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ket bininarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "ket nangsalaoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "iti ⟨את⟩",
+      "marks": "ti Ili ti Dagiti Palma"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "ti dagiti palma"
+    }
+  ],
+  "timestamp": "2026-09-26T09:40:54.407160817Z",
+  "model": "glm-5.3"
+}

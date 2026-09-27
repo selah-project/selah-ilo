@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 135,
+  "translation": "Aniaman ti kayat ni Yahweh, inaramidna: iti langit ken iti daga, iti baybay ken amin dagiti kaadalem.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "aniaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kayat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iti langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ken iti daga"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dagiti kaadalem"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:08.714689822Z",
+  "model": "glm-5.3"
+}

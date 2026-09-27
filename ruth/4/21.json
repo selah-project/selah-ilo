@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ken ni Salmon nagputot ⟨את⟩ kenni Boaz, ken ni Boaz nagputot ⟨את⟩ kenni Oved,",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "ken ni Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "kenni Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "ken ni Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "kenni Oved"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:17.485124403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Pisiem ⟨את⟩ dayta kadagiti pisi, ket ibulosmo iti daytan lana; mincha isu.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Pisiem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pisi"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "kadagiti pisi"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ibulosmo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iti daytan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    }
+  ],
+  "timestamp": "2026-09-26T04:54:05.140806807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 17:31",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "ket dagiti Avvita nagaramidda ni Nibkhaz ken ⟨את⟩ ni Tartak, ket dagiti Sepharvita agpuoranda ⟨את⟩ dagiti annakda iti apoy kenni Adrammelekh ken kenni Anammelekh, dagiti dios ti Sepharvaim.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "ket dagiti Avvita"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nagaramidda"
+    },
+    {
+      "surface": "נבחז",
+      "gloss": "ni Nibkhaz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Tartak"
+    },
+    {
+      "surface": "תרתק",
+      "gloss": "ni Tartak"
+    },
+    {
+      "surface": "והספרוים",
+      "gloss": "ket dagiti Sepharvita"
+    },
+    {
+      "surface": "שרפים",
+      "gloss": "agpuoranda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti annakda"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "dagiti annakda"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "לאדרמלך",
+      "gloss": "kenni Adrammelekh"
+    },
+    {
+      "surface": "וענמלך",
+      "gloss": "ken kenni Anammelekh"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagiti dios"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ti Sepharvaim"
+    }
+  ],
+  "timestamp": "2026-09-26T22:08:39.418580723Z",
+  "model": "glm-5.3"
+}

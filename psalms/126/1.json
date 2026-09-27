@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 126,
+  "translation": "Kanta dagiti Panagpangato. Idi nangsubli ni Yahweh ⟨את⟩ ti panangsubli ti Tsion, nagbalinkami a kas dagiti aginap.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dagiti Panagpangato"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Idi nangsubli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti panangsubli ti Tsion"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "ti panangsubli"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ti Tsion"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nagbalinkami"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "a kas dagiti aginap"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:24.094009797Z",
+  "model": "glm-5.3"
+}

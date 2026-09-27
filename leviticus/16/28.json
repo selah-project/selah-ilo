@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ken ti nagisunda kadakuada agdigosna kadagiti badona, ken didigosna ⟨את⟩ ti lasagna iti danum, ken kalpasan dayta sumrekanto ⟨iti⟩ kampo.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "ken ti nagisunda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "agdigosna"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kadagiti badona"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ken didigosna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasagna"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lasagna"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ken kalpasan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:35:44.621772974Z",
+  "model": "glm-5.3"
+}

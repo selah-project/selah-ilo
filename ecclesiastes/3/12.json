@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Naammokon nga awan naimbag kadakuada, nodi ti agragsak ken ti agaramid iti naimbag iti biagda.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Naammokon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ti agragsak"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ken ti agaramid"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iti naimbag"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "iti biagda"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:43.580857286Z",
+  "model": "glm-5.3"
+}

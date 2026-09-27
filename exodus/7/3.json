@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken siak ti mangitangken ⟨iti⟩ ⟨את⟩ puso ni Paro, ket paaduok ⟨את⟩ dagiti signosko ken ⟨את⟩ dagiti mirakulok iti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ken siak"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ti mangitangken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso ni Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ket paaduok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "signosko"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "dagiti signosko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "dagiti mirakulok"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:37:26.786756849Z",
+  "model": "glm-5.3"
+}

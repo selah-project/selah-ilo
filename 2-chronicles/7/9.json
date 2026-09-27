@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 7:9",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken iti maikawalo nga aldaw inaramidda ti gimong; ta ti panangilana iti altar ket inaramidda iti pito nga al-aldaw, ken ti fiesta iti pito nga al-aldaw.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ti maikawalo"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "panangilana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "iti pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga al-aldaw"
+    },
+    {
+      "surface": "והחג",
+      "gloss": "ken ti fiesta"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "iti pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga al-aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T23:46:21.586316860Z",
+  "model": "glm-5.3"
+}

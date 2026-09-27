@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Daytoy ti gunguna dagiti akusadorko manipud iti ⟨את⟩ ni Yahweh, ken dagiti agsasao ti dakes maibusor iti kararuak.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ti gunguna"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "dagiti akusadorko"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ manipud iti",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "ken dagiti agsasao"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "על",
+      "gloss": "maibusor"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "iti kararuak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:04.240816994Z",
+  "model": "glm-5.3"
+}

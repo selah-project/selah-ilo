@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Adiu ti aldaw! ta asidegen ti aldaw ni Yahweh, ken kas iti panagdadael manipud kenni Shadday umayto dayta.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "adiu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "asidegen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "ken kas iti panagdadael"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "manipud kenni Shadday"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "umayto"
+    }
+  ],
+  "timestamp": "2026-09-26T19:43:32.022276529Z",
+  "model": "glm-5.3"
+}

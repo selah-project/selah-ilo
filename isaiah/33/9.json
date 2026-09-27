@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Naginulud, naguelet ti daga; nalipatak ti Levanon, nalayus; nagbalin ti Sharon a kas ti tangken a daga, ket ti Bashan ken ti Karmel agikkisdada kadagiti bungada.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Naginulud"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "naguelet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "nalipatak"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ti Levanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "nalayus"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ti Sharon"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "a kas ti tangken a daga"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ket agikkisdada"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ti Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ken ti Karmel"
+    }
+  ],
+  "timestamp": "2026-09-26T15:01:50.819108295Z",
+  "model": "glm-5.3"
+}

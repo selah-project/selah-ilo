@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "ket naserraan dagiti ruangan iti kalsada, idi nababa ti timek ti panagigrin, ken agtakder ti maysa iti timek ti billit, ket bumabada dagiti amin nga anak a babai ti kanta.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "ket naserraan"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "dagiti ruangan"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "iti kalsada"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "idi nababa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "ti panagigrin"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "ken agtakder"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ti billit"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ket bumabada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dagiti amin"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ngaanak a babai"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "ti kanta"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:56.737427178Z",
+  "model": "glm-5.3"
+}

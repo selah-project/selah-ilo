@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Napasamak iti maikatlo a tawen, a naibaba ni Yehoshafat, ari ti Yehudah, kenni ti ari ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "naibaba"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ni Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T13:19:18.238806755Z",
+  "model": "glm-5.3"
+}

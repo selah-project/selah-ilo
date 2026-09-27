@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "No agsubli ti sibibiag a lasag ken agbalin a puraw, umay isu kenni ti padi.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ti lasag"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ti sibibiag"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "a puraw"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:06.514846137Z",
+  "model": "glm-5.3"
+}

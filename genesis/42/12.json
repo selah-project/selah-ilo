@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ket kinunana kaniada: Saan; no di ti nakawan-bado ti daga simmangpetkayo a mangkita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no di"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ti nakawan-bado"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "simmangpetkayo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a mangkita"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:59.308981258Z",
+  "model": "glm-5.3"
+}

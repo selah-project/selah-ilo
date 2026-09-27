@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket dalisonna ti ⟨את⟩ balay iti dara ti billit ken iti danum a sibibiag ken iti billit a sibibiag ken iti kayo a sedro ken iti ezob ken iti pula nga ulog.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "dalisonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ti billit"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ken iti danum"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sibibiag"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "ken iti billit"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sibibiag"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "ken iti kayo"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "sedro"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "ken iti ezob"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "ken iti pula"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "ulog"
+    }
+  ],
+  "timestamp": "2026-09-26T05:21:08.239975845Z",
+  "model": "glm-5.3"
+}

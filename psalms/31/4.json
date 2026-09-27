@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ta sika ti baoak a bato ken ti kutak; ken gapu iti naganmo iturongannak ken ipatulodannak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ti baoak a bato"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ken ti kutak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ken gapu iti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naganmo"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "iturongannak"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ken ipatulodannak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:03.613894771Z",
+  "model": "glm-5.3"
+}

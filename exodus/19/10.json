@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Kinuna ni Yahweh ken ni Moshe: Sumrekka iti tao ket ipasantonam dagitoy ita nga aldaw ken no bigat, ket agdigosda kadagiti damitda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sumrekka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "ipasantonam dagitoy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ken no bigat"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "agdigosda"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "kadagiti damitda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:56:36.889642808Z",
+  "model": "glm-5.3"
+}

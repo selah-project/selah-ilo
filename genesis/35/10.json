@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Kinuna ni Elohim kenkuana: Yaakov ti naganmo; saanenton a matawagan ti naganmo a Yaakov, no di Yisrael ti agbalin a naganmo; ket inawaganna ⟨את⟩ ti naganna a Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanenton"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a matawagan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "a Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no di"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(kadagiti) no di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti agbalin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a naganmo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket inawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T02:47:02.998707025Z",
+  "model": "glm-5.3"
+}

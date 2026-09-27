@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Inawaganna ni Barak ⟨את⟩ ti Zebulun ken ⟨את⟩ ti Naftali idiay Kedesh, ket immay kadagiti sakaanna ti sangapulo a ribu a tao, ket immay met kenkuana ni Devorah.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Zebulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "immay"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "kadagiti sakaanna"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a tao"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "immay met"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devorah"
+    }
+  ],
+  "timestamp": "2026-09-26T09:41:37.863297078Z",
+  "model": "glm-5.3"
+}

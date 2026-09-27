@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Dagiti panaam a nasiitan; dagiti umili matnagda babaenmo, iti puso dagiti kabusor ti ari.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "dagiti panaam"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "nasiitan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "babaenmo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "matnagda"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "iti puso"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dagiti kabusor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T21:25:10.885715992Z",
+  "model": "glm-5.3"
+}

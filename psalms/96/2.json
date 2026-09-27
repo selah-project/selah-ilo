@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 96,
+  "translation": "Kanta kayo kenni Yahweh, bendisionan yo ti naganna, ibaga yo ti panangisalakanna manipud iti aldaw agingga iti aldaw.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "kanta kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bendisionan yo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ibaga yo"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "manipud iti aldaw"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "agingga iti aldaw"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ti panangisalakanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:35.743545820Z",
+  "model": "glm-5.3"
+}

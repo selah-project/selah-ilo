@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Manipud ⟨kaduak⟩ ti panagdaydayawko iti dakkel a gimong; dagiti promesak ibayadko iti sanguanan dagiti agbutbuteng kenkuana.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ manipud ⟨kaduak⟩",
+      "marks": "ti panagdaydayawko"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ti panagdaydayawko"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "iti gimong"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "dagiti promesak"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ibayadko"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dagiti agbutbuteng kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:42.968575797Z",
+  "model": "glm-5.3"
+}

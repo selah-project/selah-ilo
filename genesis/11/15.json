@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken nagbiag ni Shelakh kalpasan ti panagputotna ⟨את⟩ ni Ever tallo a tawen ken uppat a gasut a tawen, ken nagputot ⟨iti⟩ annak a lalaki ken annak a babai.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nagbiag"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ti panagputotna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ken uppat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "annak a lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ken annak a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T01:54:02.684984551Z",
+  "model": "glm-5.3"
+}

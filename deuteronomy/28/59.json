@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "deuteronomy 28:59",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "ket pagimbeganna ni Yahweh ⟨את⟩ dagiti peste-mo ken ⟨את⟩ dagiti peste ti imputot-mo — dakkel a peste ken agtultuloy, ken dakes a sakit ken agtultuloy.",
+  "tokens": [
+    {
+      "surface": "והפלא",
+      "gloss": "pagimbeganna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti peste-mo"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "dagiti peste-mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti peste ti imputot-mo"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "dagiti peste"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ti imputot-mo"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "peste"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ונאמנות",
+      "gloss": "agtultuloy"
+    },
+    {
+      "surface": "וחלים",
+      "gloss": "ken sakit"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "ונאמנים",
+      "gloss": "agtultuloy"
+    }
+  ],
+  "timestamp": "2026-09-26T08:30:26.868631318Z",
+  "model": "glm-5.3"
+}

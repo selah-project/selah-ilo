@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Nagbusor ti danum manipud iti botelia, ket inna ipukaw ⟨את⟩ ti ubbing iti baba ti maysa kadagiti bassit a mula.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "nagbusor"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "iti botelia"
+    },
+    {
+      "surface": "וותשלך",
+      "gloss": "inna ipukaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ubbing"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ti ubbing"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ti maysa kadagiti"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "bassit a mula"
+    }
+  ],
+  "timestamp": "2026-09-26T02:13:28.294927799Z",
+  "model": "glm-5.3"
+}

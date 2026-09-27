@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Maisebengan kadi iti tanem ti hesedmo, ti pammarepmo iti Abaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "maisebengan kadi"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "iti tanem"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ti pammarepmo"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "iti Abaddon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:59.647363210Z",
+  "model": "glm-5.3"
+}

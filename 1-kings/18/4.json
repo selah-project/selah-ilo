@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket napasamak, idi ikkat ni Izebel ⟨את⟩ dagiti propeta ni Yahweh, nga inala ni Obadyahu sangagasut a propeta ken inlemmengna ida — limapulo a lalaki iti kueba — ken pinakanna ida iti tinapay ken danum.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "idi ikkat"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ni Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti propeta ni Yahweh"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "dagiti propeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nga inala"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "ni Obadyahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sangagasut"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "a propeta"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "ken inlemmengna ida"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limapulo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lalaki"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "iti kueba"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "ken pinakanna ida"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "iti tinapay"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ken danum"
+    }
+  ],
+  "timestamp": "2026-09-26T13:02:31.665185975Z",
+  "model": "glm-5.3"
+}

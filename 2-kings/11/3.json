@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Napasamak, nga adda ⟨את⟩ kaduana iti balay ni Yahweh, nga aglemmeng innem a tawen; ket ni Atalyah nangituray iti daga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ kaduana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "nga aglemmeng"
+    },
+    {
+      "surface": "שש",
+      "gloss": "innem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "ket ni Atalyah"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-09-26T13:42:25.347242524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Ken siak, nagbalinak a libak kadakuada; no makitada kaniak, ibbubbuda ti uloda.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ken siak"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nagbalinak"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "libak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "no makitada kaniak"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "ibbubbuda"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ti uloda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:05.640695520Z",
+  "model": "glm-5.3"
+}

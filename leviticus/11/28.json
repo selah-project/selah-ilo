@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken ti mamagaala ⟨את⟩ iti dead a bagi da ket agdigos kadagiti bado na, ken saan a malinis agingga iti rabii; saan a malinis ida kadakayo.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "ken ti mamagaala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti dead a bagi da"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "dead a bagi da"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "agdigos"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kadagiti bado na"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ken saan a malinis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "rabii"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "saan a malinis"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ida"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:16:55.062363548Z",
+  "model": "glm-5.3"
+}

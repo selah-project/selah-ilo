@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 129,
+  "translation": "Adu a beses pinigsadak manipud iti kabibiagko, ngem saanda a nangabak kaniak.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Adu a beses"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "pinigsadak"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "manipud iti kabibiagko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "a nangabak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:14.061584651Z",
+  "model": "glm-5.3"
+}

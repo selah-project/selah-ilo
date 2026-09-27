@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Pakinggam ti timek ti arirak, ariak ken Elohimko, ta kenka aya ti agkararagak.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "pakinggam"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "ti arirak"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ariak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ken Elohimko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ti agkararagak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:44:46.794696144Z",
+  "model": "glm-5.3"
+}

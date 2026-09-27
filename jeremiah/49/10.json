@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Ta siak, insinaak ⟨את⟩ ni Esav, imbagak ⟨את⟩ dagiti lemmengan na, ken saan a makalemmeng ⟨isuna⟩; nasikopan ti binuakna ken dagiti kabsatna ken dagiti kaarrubana, ket awanennan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "insinaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "imbagak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lemmengan na"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "dagiti lemmengan na"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "ken saan a makalemmeng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makalemmeng"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "nasikopan"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ti binuakna"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ken dagiti kabsatna"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "ken dagiti kaarrubana"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ket awanennan"
+    }
+  ],
+  "timestamp": "2026-09-26T17:49:57.919982002Z",
+  "model": "glm-5.3"
+}

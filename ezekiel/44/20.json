@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Ken ti uloda saandanto a gulpien, ken ti atiddog a buok saandanto a padakkelen; laeng nga agputolda ⟨את⟩ dagiti uloda.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "ken ti uloda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "gulpien"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "ken ti atiddog a buok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "padakkelen"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "agputol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti uloda"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "dagiti uloda"
+    }
+  ],
+  "timestamp": "2026-09-26T19:26:39.427947105Z",
+  "model": "glm-5.3"
+}

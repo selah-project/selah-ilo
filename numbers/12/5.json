@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket nagbaba ni Yahweh iti poste ti ulep, ket nagtakder iti ruangan ti Tolda, ket inawaganna ni Aharon ken ni Miryam, ket simmangpetda a dua.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "nagbaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "iti poste"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ti ulep"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ket nagtakder"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "iti ruangan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket inawaganna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ken ni Miryam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ket simmangpetda"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "a dua"
+    }
+  ],
+  "timestamp": "2026-09-26T22:01:39.685567126Z",
+  "model": "glm-5.3"
+}

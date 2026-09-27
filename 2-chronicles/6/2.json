@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ken siak nangipatakderak ⟨iti⟩ balay a pagagnaedam, ken maysa a natalinaed a pagannaedam iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ken siak"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "nangipatakderak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "pagagnaedan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "ken maysa a natalinaed a disso"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "pagannaedam"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T23:44:40.734081597Z",
+  "model": "glm-5.3"
+}

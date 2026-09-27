@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Nearsipa ni Shaul ⟨את⟩ ni Shemuel iti tengnga ti ruangan, ket kinunana: Ikankanta man kaniak, sadino ti balay ti mannangkita?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "nearsipa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ikankanta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "man"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אי",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ti mannangkita"
+    }
+  ],
+  "timestamp": "2026-09-26T10:42:55.820926331Z",
+  "model": "glm-5.3"
+}

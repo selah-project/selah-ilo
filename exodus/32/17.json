@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Nangngeg ni Yehoshua ⟨את⟩ ti timek ti tattao iti panagkarkarada, ken kinuna kenni Moshe: Timek ti gubat iti kampo!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Nangngeg"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti timek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "iti panagkarkarada"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ken kinuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Timek"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "iti kampo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:37:17.176646952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 113,
+  "translation": "Adda koma ti nagan ni Yahweh a bendisionan, manipud ita nga aldaw agingga iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "adda koma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "a bendisionan"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "manipud ita nga aldaw"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:03.693116435Z",
+  "model": "glm-5.3"
+}

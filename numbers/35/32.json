@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 35:32",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ket saan yo nga alaen ti koper para iti panagtatarayna iti siudad ti pagtatalawananna, a mangsubli nga agtaeng iti daga agingga iti ipapatay ti padi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "yo nga alaen"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "ti koper"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "para iti panagtatarayna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siudad"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ti pagtatalawananna"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "a mangsubli"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "nga agtaeng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "iti ipapatay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    }
+  ],
+  "timestamp": "2026-09-26T07:25:38.669695253Z",
+  "model": "glm-5.3"
+}

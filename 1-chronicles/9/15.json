@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ni Bakbakkar, ni Heresh ken ni Galal, ken ni Mattanyah anak ni Mikha, anak ni Zikhri, anak ni Asaf.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "ken ni Bakbakkar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ni Heresh"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ken ni Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "ken ni Mattanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "ni Mikha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ni Zikhri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ni Asaf"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:27.854065134Z",
+  "model": "glm-5.3"
+}

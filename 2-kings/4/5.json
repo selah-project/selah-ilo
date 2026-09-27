@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket immay ti babai manipud ⟨את⟩ kenkuana, ket inserrana ti ruangan a pagtengnganna ken ti pagtengngan dagiti annakna a lallaki; isuda ti agipaay kadakuana ⟨ti⟩ dagiti bangbangay, ket isu ti agibusbos.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "immay"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana (manipud kenkuana)"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "inserrana"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "a pagtengnganna"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ken ti pagtengngan"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "dagiti annakna a lallaki"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "ti agipaay"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ket isu"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "ti agibusbos"
+    }
+  ],
+  "timestamp": "2026-09-26T13:27:34.591408385Z",
+  "model": "glm-5.3"
+}

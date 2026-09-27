@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ket tinumpogna ⟨את⟩ ti Moab, ket nagbalin dagiti taga-Moab nga adipen ni David, nga agipaay iti minchah.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "tinumpogna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "dagiti taga-Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nga adipen"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nga agipaay"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "iti minchah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:35.894731594Z",
+  "model": "glm-5.3"
+}

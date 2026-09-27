@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Sika ti mambilin ⟨את⟩ kadagiti padi, dagiti agbukbuklod ti arko ti tulag, a kunam: No sumrekakayo agingga iti patingga ti danum ti Yarden, iti Yarden agtakderkayo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ti mambilin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti padi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kadagiti padi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "dagiti agbukbuklod"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunam"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "no sumrekakayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "iti patingga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "iti Yarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "agtakderkayo"
+    }
+  ],
+  "timestamp": "2026-09-26T08:51:18.814246551Z",
+  "model": "glm-5.3"
+}

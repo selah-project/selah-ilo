@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "ta iti Elohim ti amana nagsapul isuna, ket iti bilinna nagna isuna, ken saan a kas iti aramid ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "nagsapul"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "ket iti bilinna"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "a kas iti aramid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T23:50:33.487490819Z",
+  "model": "glm-5.3"
+}

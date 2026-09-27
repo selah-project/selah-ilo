@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 91,
+  "translation": "Ta isu ti mangisalakan kenka manipud iti litlit ti agtaltalon-uleg, manipud iti peste a makapatay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ti mangisalakan kenka"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "manipud iti litlit"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ti agtaltalon-uleg"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "manipud iti peste"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "a makapatay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:02.227312111Z",
+  "model": "glm-5.3"
+}

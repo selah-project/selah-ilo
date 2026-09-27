@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket inaramid ni Elohim ⟨את⟩ dagiti bibiag ti daga iti kitaenda, ken ⟨את⟩ dagiti taraken iti kitaenda, ken ⟨את⟩ ti amin nga agkalkalatkat iti daga iti kitaenna; ket nakita ni Elohim a nasayaat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ket inaramid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bibiag ti daga"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bibiag"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "iti kitaenda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti taraken"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "taraken"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "iti kitaenda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin nga agkalkalatkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "agkalkalatkat"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "iti kitaenna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    }
+  ],
+  "timestamp": "2026-09-26T01:41:57.400447175Z",
+  "model": "glm-5.3"
+}

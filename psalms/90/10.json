@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 90,
+  "translation": "Dagiti aldaw dagiti tawentayo iti uneganda ket pitopulo a tawen, ken no biniag bileg ket walopulo a tawen; ngem ti panagdaydayawda ket trabaho ken kadakesan, ta napardas a maikkat, ken agtayabtay.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "ti tawentayo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iti uneganda"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitopulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "biniag bileg"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "walopulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "ngem ti panagdaydayawda"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "trabaho"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ken kadakesan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גז",
+      "gloss": "maikkat"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "napardas"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "ken agtayabtay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:57.701251824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "ket iti maikadua nga abaga: sangapulo ket lima a soko dagiti kurtina; dagiti posteda tallo, ket dagiti pagtakkigedanda tallo.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "ket iti abaga"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ken sangapulo"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "a soko dagiti kurtina"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "dagiti posteda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ket dagiti pagtakkigedanda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:16:36.712469811Z",
+  "model": "glm-5.3"
+}

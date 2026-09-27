@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Nagna ni Yehudah ⟨iti dissu⟩ ti Kenaani nga agnanaed iti Khevron — ket ti nagan ti Khevron idi impipina ket Kiryat-Arba — ket dinadaelanda ⟨את⟩ ni Sheshay ken ⟨את⟩ ni Akhiman ken ⟨את⟩ ni Talmay.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti dissu"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ti Kenaani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "iti Khevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ken ti nagan"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ti Khevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "idi impipina"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dinadaelanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Sheshay"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ni Sheshay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Akhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "ni Akhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Talmay"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "ni Talmay"
+    }
+  ],
+  "timestamp": "2026-09-26T09:34:45.693411424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ket inikkatna ⟨את⟩ dagiti dios dagiti gangganet ken ⟨את⟩ ti ladawan manipud iti balay ni Yahweh, ken dagiti amin nga altar a pinatakderna iti bantay ti balay ni Yahweh ken iti Yerushalayim, ket indaonnan ruar iti ili.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "inikkatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dios dagiti gangganet"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dagiti dios"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "dagiti gangganet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti ladawan"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "ti ladawan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken dagiti amin"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "nga altar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pinatakderna"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ken iti Yerushalayim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "indaonnan"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ruar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "iti ili"
+    }
+  ],
+  "timestamp": "2026-09-26T23:57:46.692073280Z",
+  "model": "glm-5.3"
+}

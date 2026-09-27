@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti rugrugi ti pagarianna ket Bavel, ken Erekh, ken Akkad, ken Kalneh, iti daga ti Shinar.",
+  "tokens": [
+    {
+      "surface": "וותהי",
+      "gloss": "ket"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "rugrugi"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ti pagarianna"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "ken Erekh"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "ken Akkad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "ken Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "ti Shinar"
+    }
+  ],
+  "timestamp": "2026-09-26T01:53:07.035290574Z",
+  "model": "glm-5.3"
+}

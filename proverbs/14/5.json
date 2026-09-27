@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ti saksi a matalek saan nga agsali; ngem ti saksi ti patta agibulos kadagiti sali.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ti saksi"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "a matalek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יככזב",
+      "gloss": "agsali"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ngem agibulos"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "kadagiti sali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ti saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ti patta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:39:09.331835349Z",
+  "model": "glm-5.3"
+}

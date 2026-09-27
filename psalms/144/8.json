@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 144,
+  "translation": "Ti ngiwatda agsasao ti sao a saan a pudno, ken ti kannawidda ket kannawid ti kinasaanapudno.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ngiwatda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "agsasao"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ti sao a saan a pudno"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ken ti kannawidda"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kannawid"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ti kinasaanapudno"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:30.703544535Z",
+  "model": "glm-5.3"
+}

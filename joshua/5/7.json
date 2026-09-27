@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken ⟨את⟩ dagiti annakda intakderanna a kas kadakuada — sidada ti intulokan ni Yehoshua, ta awan ti natulokanda, ta saanda a natulokan idi iti dalan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti annakda"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "dagiti annakda"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "intakderanna"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "a kas kadakuada"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "dagiti annakda"
+    },
+    {
+      "surface": "מל",
+      "gloss": "intulokan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "awan ti natulokanda"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨adda⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "a natulokan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "dagiti annakda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "idi iti dalan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:01:19.969938834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Nakita ni Paro a adda ti pananglinaw, ken pinagsoda na ⟨את⟩ ti pusona, ket saan a nangngeg kaniada, a kas iti imbag ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adda ti"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "pananglinaw"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "pinagsoda na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pusona"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pusona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imbag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T03:38:15.143056451Z",
+  "model": "glm-5.3"
+}

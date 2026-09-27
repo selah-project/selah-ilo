@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Dagiti aldaw ken ti maysa a tawen, mabutengkayo, dagiti saan a mabuteng; ta nakaan-anayen ti apit ti ubas, ti urnong saan a dumteng.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ti maysa a tawen"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "mabutengkayo"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "dagiti saan a mabuteng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nakaan-anayen"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ti apit ti ubas"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ti urnong"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "a dumteng"
+    }
+  ],
+  "timestamp": "2026-09-26T15:02:10.243093392Z",
+  "model": "glm-5.3"
+}

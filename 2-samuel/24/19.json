@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Napan ngato ni David segun iti sao ni Gad, a kas ti bilin ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "napan ngato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "segun iti sao"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T12:15:38.513018663Z",
+  "model": "glm-5.3"
+}

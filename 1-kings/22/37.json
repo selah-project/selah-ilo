@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Natay ti ari, ket naiyan idiay Shomeron, ket binurida ⟨את⟩ ti ari idiay Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "natay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "naiyan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "idiay Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "binurida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "idiay Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-26T13:14:01.911577645Z",
+  "model": "glm-5.3"
+}

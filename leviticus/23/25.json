@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ti amin a trabaho ti panagserbi saan nga aramidennyo, ket idatonyo ti sakripisio a napuoran kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "trabaho"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "panagserbi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "aramidennyo"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "ket idatonyo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sakripisio a napuoran"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:42.183171393Z",
+  "model": "glm-5.3"
+}

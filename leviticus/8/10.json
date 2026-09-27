@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kinuana ni Moshe ⟨את⟩ ti lana ti panaglana, ket dinanaanna ⟨את⟩ ti Mishkan ken ⟨את⟩ amin a naisagana iti unegna, ket pinasantona ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "panaglana"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "dinanaanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti unegna"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "pinasantona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ti Mishkan ken amin a naisagana"
+    }
+  ],
+  "timestamp": "2026-09-26T05:15:11.968871592Z",
+  "model": "glm-5.3"
+}

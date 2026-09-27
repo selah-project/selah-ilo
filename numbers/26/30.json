@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Dagitoy dagiti anak a lalaki ni Gilad: ni Iezer, ti pamilia dagiti Iezeri; kenni Jelek, ti pamilia dagiti Jeleki.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ni Gilad"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "ni Iezer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "dagiti Iezeri"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "kenni Jelek"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "dagiti Jeleki"
+    }
+  ],
+  "timestamp": "2026-09-26T07:05:49.589264840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Iti dagiti anak ni Uzziel: ni Aminadav ti runo, ken dagiti kabsatna sangagasut ken sangapulo ket dua.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Iti dagiti anak"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ni Uzziel"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ni Aminadav"
+    },
+    {
+      "surface": "השר",
+      "gloss": "ti runo"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ken dagiti kabsatna"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sangagasut"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ken sangapulo ket dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ket dua)"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:02.545572492Z",
+  "model": "glm-5.3"
+}

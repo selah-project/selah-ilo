@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Dagiti imam ti nangaramid kaniak ken pinataknengannak; iteddak ti pannakaawat, ket adalennak dagiti bilinmo.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "dagiti imam"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "ti nangaramid kaniak"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "ken pinataknengannak"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "iteddak ti pannakaawat"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "ket adalennak"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dagiti bilinmo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:32.392193133Z",
+  "model": "glm-5.3"
+}

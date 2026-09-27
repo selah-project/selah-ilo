@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Saan nga agdakes unay, ken saan nga agbalin a sango — apay a matayka nga awan iti panawenmo?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "agdakes"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "sango"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "matayka"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nga awan"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "iti panawenmo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:49.618408848Z",
+  "model": "glm-5.3"
+}

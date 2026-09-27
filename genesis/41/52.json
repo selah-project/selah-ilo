@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ken ⟨את⟩ ti nagan ti maikadua inawaganna Eprayim, ta pinagbungaannak ni Elohim iti daga ti panagsakitko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ken ⟨את⟩",
+      "marks": "ti nagan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Eprayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "pinagbungaannak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ti panagsakitko"
+    }
+  ],
+  "timestamp": "2026-09-26T03:02:42.746081351Z",
+  "model": "glm-5.3"
+}

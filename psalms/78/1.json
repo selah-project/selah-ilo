@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Maschil ni Asaph. Pangngegenakayo, umilik, ti torahko; ikkolkayo dagiti tengngakayo kadagiti sao ti ngiwatko.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maschil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaph"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Pangngegenakayo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umilik"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ti torahko"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ikkolkayo"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "dagiti tengngakayo"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kadagiti sao"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwatko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:36.185696523Z",
+  "model": "glm-5.3"
+}

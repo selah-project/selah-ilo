@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Inpatakan ni Ahab kadagiti amin nga anak ti Yisrael, ket inpurnongna ⟨את⟩ dagiti profeta iti bantay Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "inpatakan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "inpurnongna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti profeta"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "dagiti profeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-09-26T13:05:01.049998873Z",
+  "model": "glm-5.3"
+}

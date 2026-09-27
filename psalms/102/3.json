@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Saanmo a ilemmeng ti rupam kaniak iti aldaw ti rigatko; idurduram ti tengngam kaniak; iti aldaw ti awagko, itardaw, sungbathamak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "a ilemmengmo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "idurduram"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ti tengngam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ti awagko"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "itardaw"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sungbathamak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:24.213295639Z",
+  "model": "glm-5.3"
+}

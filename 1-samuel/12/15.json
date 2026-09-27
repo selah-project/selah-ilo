@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ngem no saankayo a mamadpadngeg ti timek ni Yahweh, ket mangtallikudkayo ⟨iti⟩ ⟨את⟩ ngiwat ni Yahweh, agbalin ti ima ni Yahweh a maibusor kadakayo ken kadagiti amayyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ngem no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saankayo"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "a mamadpadngeg"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ket mangtallikudkayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngiwat ni Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ngiwat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ti ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "a maibusor kadakayo"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "ken kadagiti amayyo"
+    }
+  ],
+  "timestamp": "2026-09-26T10:40:11.482145251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Immalina ti ⟨את⟩ tunton dagiti lakayan a ti imbagada kaniakuana, ket nangala iti tunton kadagiti ubbing ⟨את⟩ a dimmakel ⟨את⟩ kadakuana, dagiti agtakder iti sanguanana.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "immalina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tunton"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ti tunton"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "dagiti lakayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ti imbagada kaniakuana"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "nangala iti tunton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti ubbing"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "kadagiti ubbing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "dimmakel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuana"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "dagiti agtakder"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "iti sanguanana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:49:05.329674219Z",
+  "model": "glm-5.3"
+}

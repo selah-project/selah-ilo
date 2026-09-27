@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "ket nagnaed ni Yehudah ken Yisrael iti talinaed, tunggal lalaki babaen ti ubasna ken babaen ti igosna, manipud iti Dan agingga iti Beersheva, amin nga aldaw ni Shelomoh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ket nagnaed"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ken Yisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "iti talinaed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal lalaki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "ti ubasna"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ken babaen"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "ti igosna"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "manipud iti Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-26T12:30:59.742913491Z",
+  "model": "glm-5.3"
+}

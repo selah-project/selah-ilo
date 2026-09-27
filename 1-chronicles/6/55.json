@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ken manipud iti kagudua ti tribu ni Menasheh: ⟨את⟩ Aner ken ⟨את⟩ dagiti dagaanna, ken ⟨את⟩ Bilam ken ⟨את⟩ dagiti dagaanna, para iti pamilia dagiti annak ni Kehat, dagiti nabati.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ken manipud iti kagudua"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aner"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Aner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti dagaanna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti dagaanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti dagaanna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti dagaanna"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "para iti pamilia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "dagiti nabati"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:18.228705742Z",
+  "model": "glm-5.3"
+}

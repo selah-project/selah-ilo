@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "a kunkuna: kenka nga itedko ⟨את⟩ ti daga ti Kenaan a kas paset ti tawidyo",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nga itedko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga ti Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "a kas paset"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ti tawidyo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:20.125905486Z",
+  "model": "glm-5.3"
+}

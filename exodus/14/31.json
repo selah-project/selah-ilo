@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket nakita ni Yisrael ⟨את⟩ ti naindaklan nga ima a tinungpal ni Yahweh iti Mitsrayim, ket nagbuteng ti umili ⟨kenni⟩ Yahweh, ket immatti kenni Yahweh ken kenni Moshe nga adipenna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naindaklan nga ima"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ti ima"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "naindaklan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tinungpal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ket nagbuteng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "ket immatti"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "ken kenni Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ngaadipenna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:52:26.351071430Z",
+  "model": "glm-5.3"
+}

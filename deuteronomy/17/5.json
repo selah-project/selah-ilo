@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ipaluam ⟨את⟩ dayta a lalaki wenno ⟨את⟩ dayta a babai a nagaramidda ⟨את⟩ ti dakes a sao daytoy iti ruaranam — ⟨את⟩ ti lalaki wenno ⟨את⟩ ti babai — ket ibatoendam ida babaen kadagiti bato ket matayonda.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "ipaluam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta a"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti babai"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nagaramidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dakes a sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a dakes"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ruaranam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti babai"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ti babai"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "ibatoendam"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "babaen kadagiti bato"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ket matayonda"
+    }
+  ],
+  "timestamp": "2026-09-26T08:15:59.666404065Z",
+  "model": "glm-5.3"
+}

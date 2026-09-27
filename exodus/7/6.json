@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kinuna ni Moshe ken ni Aharon a kas impundarna ni Yahweh ⟨את⟩ ⟨iti koma⟩ ida; kasta inaramidda.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken ni Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "impundar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨iti koma⟩ ida",
+      "marks": "da Moshe ken Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramidda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:30:29.649369810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ti Yehudah ken ti Yisrael ket adu, kas ti tapok a naisagana iti igid ti baybay iti kadakkel — agmangan, aginium ken agragsak.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Ti Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ken ti Yisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "kas ti tapok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "iti kadakkel"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "agmangan"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "aginium"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "agragsak"
+    }
+  ],
+  "timestamp": "2026-09-26T12:26:19.639673858Z",
+  "model": "glm-5.3"
+}

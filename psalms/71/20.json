@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 71,
+  "translation": "Ti nagipakita kenniaddatayo kadagiti adu a dakes a tiempo, agsublika — pagbiagennatayo manen, ken manipud kadagiti nauneg a puso ti daga, agsublika — ipangatonaak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "nagipakita kenniaddatayo"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "kadagiti dakes a tiempo"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ken dakes"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "pagbiagennatayo manen"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "ken manipud kadagiti nauneg a puso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "ipangatonaak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:44:08.174125882Z",
+  "model": "glm-5.3"
+}

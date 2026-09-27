@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Saan nga adda kenka iti balaymo eifa ken maysa a eifa, dakkel ken bassit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "iti balaymo"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eifa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ken maysa a eifa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ken bassit"
+    }
+  ],
+  "timestamp": "2026-09-26T08:21:44.513400650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti nagnaed a nalinteg, ken agaramid ti kinalinteg, ken nagsasao ti pudno iti pusona.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "nagnaed"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ken agaramid"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kinalinteg"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ken nagsasao"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pudno"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "iti pusona"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:46.088066087Z",
+  "model": "glm-5.3"
+}

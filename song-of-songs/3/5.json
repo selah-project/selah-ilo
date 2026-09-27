@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Insumpaak ⟨את⟩ kadakayo, nga anakbabai ti Yerushalayim, babaen kadagiti gasela wenno babaen kadagiti babai a karnero ti talon, no uyekyo wenno paspasaregyekyo ⟨את⟩ ti ayat agingga nga kayatna.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "insumpaak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "nga anakbabai ti Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "nga anakbabai"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "babaen kadagiti gasela"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "babaen kadagiti babai a karnero"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "uyekyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "paspasaregyekyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ayat"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ti ayat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "nga kayatna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:03:12.150274067Z",
+  "model": "glm-5.3"
+}

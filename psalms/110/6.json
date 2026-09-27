@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 110,
+  "translation": "Ukomanna kadagiti nasion, mapno kadagiti natay a bagi, dadaelanna ti ulo iti ngato ti adu a daga.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Ukomanna"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti nasion"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mapno"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "kadagiti natay a bagi"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "dadaelanna"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "adu"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:11.976130736Z",
+  "model": "glm-5.3"
+}

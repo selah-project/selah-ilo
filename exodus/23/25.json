@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Agserbikayo kenni Yahweh nga Elohim yoyo, ket bendisionanna ⟨את⟩ ti tinapayyo ken ⟨את⟩ ti danumyo, ket ikkatkonto ti sakit manipud iti tengngat yoyo.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ket agserbikayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim yoyo"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ket bendisionanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tinapayyo"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "tinapayyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti danumyo"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "danumyo"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ket ikkatkonto"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "manipud iti tengngat yoyo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:14:15.109026996Z",
+  "model": "glm-5.3"
+}

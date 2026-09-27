@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ti bigat, insurat ni Davide ti maysa a surat kenni Yoav, ket ipinatulodna babaen ti ima ni Uriah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ti bigat"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "insurat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni Davide"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ti maysa a surat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ipinatulodna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen ti ima"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriah"
+    }
+  ],
+  "timestamp": "2026-09-26T11:43:17.802511805Z",
+  "model": "glm-5.3"
+}

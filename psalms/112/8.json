@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 112,
+  "translation": "Nasuportaran ti pusona, saan nga agbuteng, aginggana no makitana dagiti kabusorna.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "Nasuportaran"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ti pusona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "nga agbuteng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aginggana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makitana"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "dagiti kabusorna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:52.788962667Z",
+  "model": "glm-5.3"
+}

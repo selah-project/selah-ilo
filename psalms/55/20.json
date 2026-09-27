@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 55,
+  "translation": "Mangngeonto ni El, ket isungbatandana, ti Agnanaed manipud iti minunaan. Selah. Dagiti awan panagbaliw kaniada, ket saan da nga agbuteng iti Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "Mangngeonto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ket isungbatandana"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ti Agnanaed"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "manipud iti minunaan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Dagiti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "panagbaliw"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan da nga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "agbutengda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:45.877591014Z",
+  "model": "glm-5.3"
+}

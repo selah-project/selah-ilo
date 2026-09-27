@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Kinuna ni David nga urnongenda ⟨את⟩ dagiti gangganetta nga adda iti daga ti Yisrael, ket nangitalinaedna kadagiti agkitiktikit a mangkitiktikit kadagiti naisagana a bato nga ipatinday ti balay ti Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "nga urnongenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti gangganetta"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "dagiti gangganetta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ket nangitalinaedna"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "kadagiti agkitiktikit"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "a mangkitiktikit"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kadagiti bato"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "naisagana"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "nga ipatinday"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T23:40:39.396678364Z",
+  "model": "glm-5.3"
+}

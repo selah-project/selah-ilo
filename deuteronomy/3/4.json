@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Naala mi ⟨את⟩ amin dagiti ilina idi ti gundaway aya; awan ti ili a saanmi a nalaenan manipud ⟨את⟩ kadakuada — innem a pulo nga ili, ti intero a rebiansion ti Argob, ti pagariian ni Og idiay Bashan.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "Naala mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti ilina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "dagiti ilina"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "idi ti"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "gundaway aya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmi"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "a nalaenan"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ kadakuada"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "innem a pulo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ngg ili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti intero"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "a rebiansion"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "ti Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ti pagariian"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ni Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "idiay Bashan"
+    }
+  ],
+  "timestamp": "2026-09-26T07:37:35.159344498Z",
+  "model": "glm-5.3"
+}

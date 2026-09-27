@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ken ti nagan ti maysa ket Eliezer, ta ti Elohim ti amak isu ti tulongak, ket isu ti nangisalakannak manipud iti espada ni Paro.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ken ti nagan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "ket Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ti amak"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "isu ti tulongak"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "ket isu ti nangisalakannak"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "manipud iti espada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T04:04:57.897438166Z",
+  "model": "glm-5.3"
+}

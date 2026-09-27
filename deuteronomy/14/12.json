@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Ket daytoy ti saan yto a kanen kaniada: ti agila, ken ti Peres, ken ti Azniya.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ket daytoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yto a kanen"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ti agila"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "ken ti Peres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "ken ti Azniya"
+    }
+  ],
+  "timestamp": "2026-09-26T07:59:15.299932844Z",
+  "model": "glm-5.3"
+}

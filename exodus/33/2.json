@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Mangipatulodak iti sangaanam ⟨ti⟩ angi, ket ipukawko ⟨את⟩ ti Kenaanan, ti Emoriano ken ti Khitiano, ti Perisiano, ti Hiviano ken ti Yebusiano.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Mangipatulodak"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "iti sangaanam"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "angi"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ket ipukawko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Kenaanan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ti Kenaanan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Emoriano"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ken ti Khitiano"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ken ti Perisiano"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ti Hiviano"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ken ti Yebusiano"
+    }
+  ],
+  "timestamp": "2026-09-26T04:39:27.046575670Z",
+  "model": "glm-5.3"
+}

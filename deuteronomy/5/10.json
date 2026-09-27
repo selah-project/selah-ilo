@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken agaramid iti hesed iti sangaribu kadagiti ay-ayatenna ken kadagiti salaknibanna dagiti bilinna.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ken agaramid"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "iti sangaribu"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kadagiti ay-ayatenna"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ken kadagiti salaknibanna"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "dagiti bilinna"
+    }
+  ],
+  "timestamp": "2026-09-26T07:39:08.764703689Z",
+  "model": "glm-5.3"
+}

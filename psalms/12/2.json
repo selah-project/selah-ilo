@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Salakanna, ni Yahweh, ta napukasen ti nasantuan a tao, ta immayda amin dagiti matalek manipud kadagiti anak ti tao.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Salakanna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "napukasen"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "nasantuan a tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "immayda amin"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "dagiti matalek"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "manipud kadagiti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T20:49:26.361101055Z",
+  "model": "glm-5.3"
+}

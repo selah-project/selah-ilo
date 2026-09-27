@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket umay ti surat iti ari ti Yisrael, a kuna: Ita, no dimteng daytoy a surat kenka, kitaem, naipatulodko kennika ⟨את⟩ ni Naaman ti adipenko, ket agasenmo a maikkat ⟨iti⟩ leprana.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ket umay"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ti surat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "no dimteng"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ti surat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "naipatulodko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kennika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ti adipenko"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "agasenmo"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "leprana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:31:21.278169518Z",
+  "model": "glm-5.3"
+}

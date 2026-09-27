@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 10:32",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Dagitoy ti pamilia dagiti anak ni Noach, kadagiti kaputotan da, kadagiti pagilian da; ken manipud kadagiti natoy naisina dagiti pagilian iti daga kalpasan ti danun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "kadagiti kaputotan da"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "kadagiti pagilian da"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ken manipud kadagiti natoy"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "naisina"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ti danun"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:37.455066880Z",
+  "model": "glm-5.3"
+}

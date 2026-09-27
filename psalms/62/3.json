@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Laeng isu ti bato ken ti panangisalakankon, ti pangtaadak; saan a maiyallatiw unay.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ken ti panangisalakankon"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ti pangtaadak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "a maiyallatiw"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "unay"
+    }
+  ],
+  "timestamp": "2026-09-26T21:37:10.482140762Z",
+  "model": "glm-5.3"
+}

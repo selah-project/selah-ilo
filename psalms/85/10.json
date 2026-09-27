@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 85,
+  "translation": "Sigurado nga asideg kadagiti agbutbuteng kenkuana ti panangisalakanna, a agnaed koma ti daydayaw iti daganmi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sigurado nga"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "asideg"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kadagiti agbutbuteng kenkuana"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ti panangisalakanna"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "a agnaed koma"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "iti daganmi"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:35.720989851Z",
+  "model": "glm-5.3"
+}

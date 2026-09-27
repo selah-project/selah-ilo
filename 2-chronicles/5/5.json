@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken intedanda iti ngato ⟨את⟩ ti arko ken ⟨את⟩ ti Tolda ti Gimong ken ⟨את⟩ amin a dariweh ti nasantuan nga adda iti uneg ti tolda; intedanda ⟨את⟩ ida iti ngato dagiti padi, dagiti Levita.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "intedanda iti ngato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Tolda ti Gimong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a dariweh ti nasantuan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dariweh"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "iti uneg ti tolda"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "intedanda ida iti ngato"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ida",
+      "marks": "dagiti padi, dagiti Levita"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levita"
+    }
+  ],
+  "timestamp": "2026-09-26T23:45:06.999756892Z",
+  "model": "glm-5.3"
+}

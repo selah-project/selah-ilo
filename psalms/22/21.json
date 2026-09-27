@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Salakannam ti kararua manipud iti tabak, manipud iti ima ti aso ti maymaysakon.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "salakannam"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "manipud iti tabak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ti aso"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ti maymaysakon"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:52.355942878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket immay adu ti bennat ni Shelomoh ngem ti bennat dagiti anak a lalaki ti daya ken ngem ti amin a bennat ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "ket immay adu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bennat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ngem ti bennat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ti daya"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ken ngem ti amin"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bennat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T12:28:30.803806342Z",
+  "model": "glm-5.3"
+}

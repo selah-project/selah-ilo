@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kinunana: ta addaak kenka, ken daytoy ti tanda kenka a siak ti nangipatulod kenka: no iparuarmo ⟨את⟩ ti pagili manipud iti Mitsrayim, agserbi kayo ⟨את⟩ kenni Elohim iti daytoy a bantay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "addaak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ken daytoy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ti tanda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "nangipatulod kenka"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "no iparuarmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti pagili"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "manipud iti Mitsrayim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "agserbi kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ti bantay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T03:29:28.441890574Z",
+  "model": "glm-5.3"
+}

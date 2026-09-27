@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ti rupa ni Yahweh ⟨ket adda⟩ kadagiti agaramid ti dakes, nga ikkatenna ti lagipda manipud iti daga.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "Ti rupa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "kadagiti agaramid"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "nga ikkatenna"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ti lagipda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:02.656824649Z",
+  "model": "glm-5.3"
+}

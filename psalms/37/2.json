@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ta kas iti daludal, napartak a mapputolda, ken kas iti berde a dussen, aglagada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kas iti daludal"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "napartak"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "mapputolda"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ken kas iti berde"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "a dussen"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "aglagada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:11:59.954903875Z",
+  "model": "glm-5.3"
+}

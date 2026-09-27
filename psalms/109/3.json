@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Ken dagiti sao ti riaruat inalikmutanda nak, ket nakilabbanda nak nga awan ti rason.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Ken dagiti sao"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ti riaruat"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "inalikmutanda nak"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "ket nakilabbanda nak"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga awan ti rason"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:49.985676225Z",
+  "model": "glm-5.3"
+}

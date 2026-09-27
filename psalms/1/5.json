@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Gapu ta dayta, saan a mangtakder dagiti dakes iti ukom, ken dagiti makabasol iti gimong dagiti nalinteg.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ta dayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "a mangtakder"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ken dagiti makabasol"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "iti gimong"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T20:41:54.764942439Z",
+  "model": "glm-5.3"
+}

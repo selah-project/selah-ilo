@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Rumuarka manipud iti tebah — sika, ken asawam, ken dagiti annakmo a lalaki, ken dagiti asawa dagiti annakmo a lalaki, ⟨iti⟩ kuyogmo.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Rumuarka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "iti tebah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ken asawam"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ken dagiti annakmo a lalaki"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ken dagiti asawa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dagiti annakmo a lalaki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iti kuyogmo",
+      "marks": "iti kuyogmo"
+    }
+  ],
+  "timestamp": "2026-09-26T01:46:50.284654216Z",
+  "model": "glm-5.3"
+}

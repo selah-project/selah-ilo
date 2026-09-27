@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ket no maannodda iti panagbaknang iti sanguan dagiti kabusorda, manipud sadiay bilinko ⟨את⟩ ti tabak ket patayenda; ket ikkanko ti matak kadakuada para iti dakes, ket saan a para iti naimbag.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ket no"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "maannodda"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "iti panagbaknang"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "dagiti kabusorda"
+    },
+    {
+      "surface": "משם",
+      "gloss": "manipud sadiay"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "bilinko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tabak"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ti tabak"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "ket patayenda"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ket ikkanko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ti matak"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "para iti dakes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "para iti naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T19:58:55.870790520Z",
+  "model": "glm-5.3"
+}

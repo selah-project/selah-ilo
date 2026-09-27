@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 19:16",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ken ti amin a aggyat iti rupa ti talon — iti napatay babaen ti tabak, wenno iti natay, wenno iti tulang ti tao, wenno iti tanem — agbalin a narugit iti pito nga aldaw.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ken ti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "aggyat"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "talon"
+    },
+    {
+      "surface": "בחלל",
+      "gloss": "iti napatay"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "במת",
+      "gloss": "iti natay"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "iti tulang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "iti tanem"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "agbalin a narugit"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T06:52:26.551810407Z",
+  "model": "glm-5.3"
+}

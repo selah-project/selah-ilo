@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 16:15",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Nagiputot ni Hagar kenni Avram iti maysa nga anak a lalaki, ket inawagan ni Avram ti nagan ti anakna a naganak ni Hagar: Yishmael.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "nagiputot"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ni Hagar"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "kenni Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket inawagan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ti anakna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naganak"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ni Hagar"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    }
+  ],
+  "timestamp": "2026-09-26T02:00:24.296381459Z",
+  "model": "glm-5.3"
+}

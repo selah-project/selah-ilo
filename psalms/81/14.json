@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 81,
+  "translation": "No laeng a ti umilik ti mamati Kenkua, no laeng nga ti Yisrael agnagnada kadagiti dalanko!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "no laeng"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti umilik"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ti mamati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Kenkua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "kadagiti dalanko"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "agnagnada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:42.561710454Z",
+  "model": "glm-5.3"
+}

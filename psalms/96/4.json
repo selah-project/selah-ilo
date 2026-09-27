@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 96,
+  "translation": "Ta dakkel ni Yahweh ken nasken unay a daydayawen, nakabuteng nga isu ngato kadagiti amin a dios.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ken nasken a daydayawen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "nakabuteng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nga isu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a dios"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:35.743916567Z",
+  "model": "glm-5.3"
+}

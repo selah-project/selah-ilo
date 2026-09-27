@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket nagsao kadagiti anakna, a kunana: Saganaenyo kaniak ti ⟨את⟩ buriko; ket sinagana da.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ket nagsao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "saganaenyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti buriko"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ti buriko"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ket sinagana da"
+    }
+  ],
+  "timestamp": "2026-09-26T12:46:39.583238463Z",
+  "model": "glm-5.3"
+}

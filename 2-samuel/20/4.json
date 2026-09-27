@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket kinuna ti ari kenni Amasa: Agawagka kaniak ⟨את⟩ dagiti lalaki ti Yehudah iti tallo nga aldaw, ket sika ditoy agtakderka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "agawagka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lalaki ti Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "agtakderka"
+    }
+  ],
+  "timestamp": "2026-09-26T12:07:18.634549838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 24:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Kenka ni Moshe kinuna: Sumka sika iti Yahweh, ken Aharon, Nadab ken Avihu, ken pitopulo kadagiti lakayen ti Yisrael, ket agtayyakkayo manipud iti adayo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sumka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ken Avihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ken pitopulo"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "kadagiti lakayen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "ket agtayyakkayo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "manipud iti adayo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:11:19.361046921Z",
+  "model": "glm-5.3"
+}

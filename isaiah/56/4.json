@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Ta kastoy ti kinuna ni Yahweh kadagiti baog: dagiti mangsalaknib ⟨את⟩ kadagiti Shabbatko, ken agpili kadagiti kaykayatko, ken makimneg iti tulagko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "kadagiti baog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "mangsalaknib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti Shabbatko"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "kadagiti Shabbatko"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "ken agpili"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "kaykayatko"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "ken makimneg"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "iti tulagko"
+    }
+  ],
+  "timestamp": "2026-09-26T15:50:24.287836849Z",
+  "model": "glm-5.3"
+}

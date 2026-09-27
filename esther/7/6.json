@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kinuna ni Ester: Ti lalaki a mannlaban ken kabusor — ni Haman daytoy a dakes. Ket ni Haman nagbuteng iti sanguanan ti ari ken ti reyna.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mannlaban"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ken kabusor"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ket ni Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "nagbuteng"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "ken ti reyna"
+    }
+  ],
+  "timestamp": "2026-09-27T00:04:51.741056168Z",
+  "model": "glm-5.3"
+}

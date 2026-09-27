@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ⟨את⟩ dagiti suso ken ⟨את⟩ ti makaawan a saka, inwarwarag ni Aharon a panagwarwarag iti rupa ni Yahweh, kas impambilin ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti suso"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "dagiti suso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti makaawan a saka"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "makaawan"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "inwarwarag"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "panagwarwarag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti rupa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "impambilin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T05:09:49.448405543Z",
+  "model": "glm-5.3"
+}

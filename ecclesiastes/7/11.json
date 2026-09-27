@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Nasaysayaat ti kinasirib a kadua ti tawid, ken adda ganansia kadagiti makakita iti init.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Nasaysayaat"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti kinasirib"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ti tawid"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ken adda ganansia"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "kadagiti makakita"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "iti init"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:34.200744036Z",
+  "model": "glm-5.3"
+}

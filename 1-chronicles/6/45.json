@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken manipud iti tribu ni Binjamin ⟨את⟩ ti Geba ken dagiti pasturana, ken ⟨את⟩ ti Alemet ken dagiti pasturana, ken ⟨את⟩ ti Anathoth ken dagiti pasturana; amin dagiti ilida, tallo a gasut… sangapulo ket tallo nga ili kadagiti pamiliana.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ken manipud iti tribu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ti Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pasturana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti pasturana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "ti Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pasturana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti pasturana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Anathoth"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ti Anathoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pasturana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti pasturana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "dagiti ilida"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "nga ili"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "kadagiti pamiliana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:55.201890065Z",
+  "model": "glm-5.3"
+}

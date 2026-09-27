@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 126,
+  "translation": "Idi dayta napnuan ti ngiwatmi iti ragsak, ket ti dilami iti panagkanta; idi dayta kinunada kadagiti pagilian: nangidakkkel ni Yahweh nga aramiden kadagiti daytoy.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Idi dayta"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "napnuan"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "iti ragsak"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "ti ngiwatmi"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "ket ti dilami"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "iti panagkanta"
+    },
+    {
+      "surface": "אז",
+      "gloss": "idi dayta"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti pagilian"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "nangidakkkel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:24.094390952Z",
+  "model": "glm-5.3"
+}

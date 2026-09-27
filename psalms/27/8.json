@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Kaniak kinuna ti pusok: Birukenyo ti rupak; ti rupam, Yahweh, ⟨את⟩ ti birukenko.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "birukenyo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupam"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ti birukenko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:43.010392541Z",
+  "model": "glm-5.3"
+}

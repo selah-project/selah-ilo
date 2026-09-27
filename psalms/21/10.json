@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ikabilmo ida a kas tungro ti apoy iti tiempo ti rupam, Yahweh; iti baggotna lemmennada, ket ti apoy ti mangmangan kaniada.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "ikabilmo ida"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "a kas tungro"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "iti tiempo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "iti baggotna"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "lemmennada"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "mangmangan kaniada"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:03.281937426Z",
+  "model": "glm-5.3"
+}

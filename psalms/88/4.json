@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Ta nabusoran iti dakes a banag ti kararuak, ken ti biagko nakaabot iti Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "nabusoran"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "iti dakes a banag"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararuak"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ken ti biagko"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "iti Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "nakaabot"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:43.112812323Z",
+  "model": "glm-5.3"
+}

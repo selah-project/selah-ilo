@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "No immayka a biddut iti panangatoim iti bagim, wenno no immadaromka a dakes, isuor ti imam iti ngiwatmo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "immayka a biddut"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "iti panangatoim iti bagim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wenno no"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "immadaromka a dakes"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isuor ti imam"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "iti ngiwatmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:07.238869697Z",
+  "model": "glm-5.3"
+}

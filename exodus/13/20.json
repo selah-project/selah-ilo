@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Nagtaudda manipud iti Sukkot ket nagkampoda iti Etam, iti igid ti away.",
+  "tokens": [
+    {
+      "surface": "ויסעVu",
+      "gloss": "nagtaudda"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "iti Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagkampoda"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "iti Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "iti igid"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ti away"
+    }
+  ],
+  "timestamp": "2026-09-26T03:49:51.090575913Z",
+  "model": "glm-5.3"
+}

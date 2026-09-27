@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Aramidem dua a singsing ti balitok, ken ikkatak ⟨את⟩ iti dua nga ungto ti Hoshen, iti patinggana, a iti bukaed ti ephod, agpa-uneg.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aramidem"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ken ikkatak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iti dua nga ungto ti Hoshen"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ungto"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ti Hoshen"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "patinggana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "bukaed"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ti ephod"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "agpa-uneg"
+    }
+  ],
+  "timestamp": "2026-09-26T04:25:26.831014144Z",
+  "model": "glm-5.3"
+}

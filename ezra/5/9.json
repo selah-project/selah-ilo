@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 5:9",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kalpasanna dinuntonmi dagitoy a lakay, ket kasta kinunkunakami kaniada: Asisino ti nangited kaniakayo iti bilin nga ipatinday daytoy a balay, ken daytoy a pasdek nga nalpasen?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "kalpasanna"
+    },
+    {
+      "surface": "שאלנא",
+      "gloss": "dinuntonmi"
+    },
+    {
+      "surface": "לשביא",
+      "gloss": "kadagiti lakay"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "ket kasta"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "kinunkunakami"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "מן",
+      "gloss": "asisino"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nangited"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaniakayo"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "ביתא",
+      "gloss": "balay"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "למבניה",
+      "gloss": "nga ipatinday"
+    },
+    {
+      "surface": "ואשרנא",
+      "gloss": "ken daytoy a pasdek"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לשכללה",
+      "gloss": "nga nalpasen"
+    }
+  ],
+  "timestamp": "2026-09-26T23:24:19.514241492Z",
+  "model": "glm-5.3"
+}

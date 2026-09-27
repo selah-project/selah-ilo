@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Kasta ti nagrebba ti Yisrael iti balay ni David aginggana iti daytoy nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "nagrebba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aginggana iti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daytoy nga aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T12:45:07.460937896Z",
+  "model": "glm-5.3"
+}

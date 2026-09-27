@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ipaaymo ⟨את⟩ dagiti Levita iti sango ni Yahweh, ket ibeddengda dagiti anak ni Yisrael ⟨את⟩ dagiti imada kadagiti Levita.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ipaaymo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ibeddengda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti imada"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dagiti imada"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levita"
+    }
+  ],
+  "timestamp": "2026-09-26T06:20:18.712439481Z",
+  "model": "glm-5.3"
+}

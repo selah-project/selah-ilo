@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket iluadna ⟨את⟩ ti amin a baka iti ruar ti kampo, iti maysa a nalinis a lugar, iti pagbusbusan ti dapo, ket tutungenna ⟨את⟩ daytoy iti kayo iti apoy; iti pagbusbusan ti dapo matutung daytoy.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ket iluadna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a baka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a baka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ti ruar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "maysa a lugar"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "a nalinis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "pagbusbusan"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ti dapo"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ket tutungenna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ daytoy",
+      "marks": "ti amin a baka"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "pagbusbusan"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ti dapo"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "matutung"
+    }
+  ],
+  "timestamp": "2026-09-26T04:57:41.371764065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Inikkatk ⟨את⟩ ti badok — kasano a sulutenkonto manen? Nagdigosak ⟨את⟩ kadagiti sakak — kasano a mabalin a marugitanda manen?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "inikkatk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti badok"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "ti badok"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kasano"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "a sulutenkonto manen"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "nagdigosak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sakak"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kadagiti sakak"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kasano"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "a mabalin a marugitanda manen"
+    }
+  ],
+  "timestamp": "2026-09-26T23:02:46.655936029Z",
+  "model": "glm-5.3"
+}

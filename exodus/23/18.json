@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Saanmo a italon ti dara ti datonko agraman iti masida; ken ti taba ti piestak saan nga agnanaed agingga iti bigat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "italonmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "agraman iti"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "masida"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dara"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "datonko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "piestak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bigat"
+    }
+  ],
+  "timestamp": "2026-09-26T04:10:40.447601127Z",
+  "model": "glm-5.3"
+}

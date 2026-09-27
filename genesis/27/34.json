@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Idi nangngeg ni Esav ⟨את⟩ dagiti sao ti amana, immakar iti naindaklan ken mapait a makar agingga un-unno, ket kinuna kinit amaenna: Bendisionanak met siak, amaak.",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "idi nangngeg"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "immakar"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "makar"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "naindaklan"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "un-unno"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kinit amaenna"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "bendisionanak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amaak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:33:10.220303398Z",
+  "model": "glm-5.3"
+}

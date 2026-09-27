@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Agasawayo kadakam: dagiti anak a babaiyo itedyo kadakam, ken ⟨את⟩ dagiti anak a babainmi alaenyonto kadakayo.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "Agasawayo kadakam"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak a babaiyo"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "dagiti anak a babaiyo"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anak a babainmi"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "dagiti anak a babainmi"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "alaenyonto"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T02:45:56.439935925Z",
+  "model": "glm-5.3"
+}

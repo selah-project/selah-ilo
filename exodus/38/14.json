@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Dagiti kurtina iti maysa a paset ti ruangan ket sangapulo ket lima nga ama; dagiti posteda ket tallo, ken dagiti batayanda ket tallo.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "dagiti kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "paset"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "dagiti posteda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ken dagiti batayanda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:43:30.264367247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket binonna ⟨את⟩ ti naisanglad nga estruktura iti ngato ti amin a balay, lima a siko iti katayagna, ket inatienna ⟨את⟩ ti balay babaen kadagiti kayo ti sedro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "binonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naisanglad nga estruktura"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "ti naisanglad nga estruktura"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "a siko"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "iti katayagna"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ket inatienna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "babaen kadagiti kayo"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedro"
+    }
+  ],
+  "timestamp": "2026-09-26T12:29:57.673745727Z",
+  "model": "glm-5.3"
+}

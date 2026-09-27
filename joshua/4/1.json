@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Napasamak, no umisan a nalpasanen ti amin nga umili ti lumabas ⟨iti⟩ Yarden, a kinuna ni Yahweh kenni Yehoshua, a kunana:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "umisan a nalpasanen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "nga umili"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "ti lumabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iti Yarden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    }
+  ],
+  "timestamp": "2026-09-26T08:51:27.520270471Z",
+  "model": "glm-5.3"
+}

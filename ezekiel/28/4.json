@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Iti kinasiribmo ken iti panunotmo inaramidmo ti baknangmo, ket inaramidmo ti balitok ken pirak iti pagipenpenam.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Iti kinasiribmo"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "ken iti panunotmo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "inaramidmo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagim"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ti baknang"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ket inaramidmo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ti balitok"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ken pirak"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "iti pagipenpenam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:13:32.955412250Z",
+  "model": "glm-5.3"
+}

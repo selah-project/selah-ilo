@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Laeng ti dara, saan koma a mangan; iti daga ibulosmo ⟨dayta⟩ kas iti danum.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Laeng"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "koma a mangan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ibulosmo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kas iti danum"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:57.809529749Z",
+  "model": "glm-5.3"
+}

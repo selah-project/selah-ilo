@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ti nagsibbuk a daton ti ngiwatko, kaduakman a maysa, Yahweh, ket dagiti ukommo isuromo kaniak.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "ti nagsibbuk a daton"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ti ngiwatko"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "kaduakman"
+    },
+    {
+      "surface": "נא",
+      "gloss": "a maysa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ket dagiti ukommo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "isuromo kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:45.804936193Z",
+  "model": "glm-5.3"
+}

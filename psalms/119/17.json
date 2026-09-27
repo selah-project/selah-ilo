@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Itedmo ti napno a gunggona iti adipenmo, ket agbiagakanto ken salaknibennakanto ⟨את⟩ ti saom.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "itedmo ti napno a gunggona"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "adipenmo"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ket agbiagakanto"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ken salaknibennakanto"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ti saom"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:21.925171833Z",
+  "model": "glm-5.3"
+}

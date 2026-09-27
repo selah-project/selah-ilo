@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "No maasian ti dakes, saan nga adalanna ti kinalinteg; iti daga ti kinanulinteg agdadaelanna, ket saan a makitaanna ti daydayaw ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "no maasian"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "למד",
+      "gloss": "adalanna"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ti kinalinteg"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "ti kinanulinteg"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "agdadaelanna"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makitaanna"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T14:54:02.207116094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Serbianyo ⟨את⟩ ni Yahweh iti panagbuteng, ket agragsakkayo iti panagriribok.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Serbianyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "iti panagbuteng"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ket agragsakkayo"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "iti panagriribok"
+    }
+  ],
+  "timestamp": "2026-09-26T20:43:21.700602231Z",
+  "model": "glm-5.3"
+}

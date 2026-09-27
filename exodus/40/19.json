@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Impatnayna ⟨את⟩ ti Tolda iti rabaw ti Mishkan, ket inna idi inikkat ⟨את⟩ ti abbong ti Tolda iti rabaw na, manipud iti ngato, a kas ti imbilin ni Yahweh ⟨itoy kenni⟩ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "impatnayna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "inikkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti abbong"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ti abbong"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti Tolda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti rabaw na"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "manipud iti ngato"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti imbilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T04:52:18.417943925Z",
+  "model": "glm-5.3"
+}

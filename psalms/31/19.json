@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Agdinnneg koma dagiti ngiwat ti ulbod, dagiti agsasao ti dakes maipapan iti nalinteg, a naranggas iti kinabastos ken panangibaba.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "Agdinnneg koma"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dagiti ngiwat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ti ulbod"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "dagiti agsasao"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipapan iti"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "a naranggas"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "iti kinabastos"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ken panangibaba"
+    }
+  ],
+  "timestamp": "2026-09-26T21:03:08.960607135Z",
+  "model": "glm-5.3"
+}

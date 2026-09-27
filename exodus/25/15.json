@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Adda dagiti bara kadagiti singsing ti arko, saanda a maikkat manipud kenkuana.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "kadagiti singsing"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "adda"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dagiti bara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "a maikkat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:59.895442427Z",
+  "model": "glm-5.3"
+}

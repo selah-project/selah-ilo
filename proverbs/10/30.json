@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti nalinteg saan pulos a matnag agingga iti agnanayon, ngem dagiti dakes saanda nga agnaed iti daga.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agingga iti agnanayon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan pulos"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "a matnag"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ngem dagiti dakes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "nga agnaed"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:03.231766541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "ket nangngeg ni Atalya ⟨את⟩ ti timek ti umili nga agtartaray ken agdaydayaw ⟨iti⟩ ari, ket immay kadagiti umili iti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ket nangngeg"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "ni Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti timek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "nga agtartaray"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "ken agdaydayaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T23:53:20.923656723Z",
+  "model": "glm-5.3"
+}

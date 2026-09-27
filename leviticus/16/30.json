@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ta iti daytoy nga aldaw ikkatanto ti basol para kanyo, adalusannakayo ⟨אתכם⟩ manipud iti amin a basolyo; iti sanguan ni Yahweh nadalus kayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ikkatanto ti basol"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "para kanyo"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "adalusannakayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kanyo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manipud iti amin"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "basolyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "nadalus kayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:38:29.843974605Z",
+  "model": "glm-5.3"
+}

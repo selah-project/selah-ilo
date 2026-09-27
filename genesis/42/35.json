@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 42:35",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Napasamak nga iti panagbaliktadda kadagiti sakkoda, ken, adda, ti pakete ti pirak ti tunggal maysa iti sakkona; ket nakitada ⟨את⟩ dagiti pakete ti pirakda, da ken amada, ket nagbutengda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "מריקים",
+      "gloss": "agbaliktad"
+    },
+    {
+      "surface": "שקיהם",
+      "gloss": "kadagiti sakkoda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ken adda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "ti pakete"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ti pirakna"
+    },
+    {
+      "surface": "בשקו",
+      "gloss": "iti sakkona"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pakete ti pirakda"
+    },
+    {
+      "surface": "צררות",
+      "gloss": "dagiti pakete"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "ti pirakda"
+    },
+    {
+      "surface": "המה",
+      "gloss": "da"
+    },
+    {
+      "surface": "ואביהם",
+      "gloss": "ken amada"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "nagbutengda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:58:38.110194274Z",
+  "model": "glm-5.3"
+}

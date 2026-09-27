@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Agtakder koma ni Elohim, maiwaras dagiti kabusorna, ket agtarayda dagiti kayat ti dakesna manipud iti rupana.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Agtakder koma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "maiwaras"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "dagiti kabusorna"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ket agtarayda"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "dagiti kayat ti dakesna"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "manipud iti rupana"
+    }
+  ],
+  "timestamp": "2026-09-26T21:40:01.687369347Z",
+  "model": "glm-5.3"
+}

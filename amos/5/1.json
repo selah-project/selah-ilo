@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Mamatiyo ⟨iti⟩ daytoy a sao a sao a pakunkunak, ti dumadara a kanta a pagungunak kadakayo, balay ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mamatiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pagungunak"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ti dumadara a kanta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T22:12:01.562066825Z",
+  "model": "glm-5.3"
+}

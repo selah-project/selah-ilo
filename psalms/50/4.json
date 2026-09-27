@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Awaganna dagiti langit manipud iti ngato, ken ⟨את⟩ ti daga, nga ukomenna ⟨את⟩ ti umilina.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Awaganna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti ngato"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "nga ukomenna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    }
+  ],
+  "timestamp": "2026-09-26T21:25:39.346363415Z",
+  "model": "glm-5.3"
+}

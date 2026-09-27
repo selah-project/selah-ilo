@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket agsubli ni Mordecai iti ruangan ti ari, ket ni Haman napardas nga immay iti balayna, agdusa ken nakalebban ti ulo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ket agsubli"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ruangan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ket ni Haman"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "napardas nga immay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balayna"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "agdusa"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "ken nakalebban"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:13:13.629071265Z",
+  "model": "glm-5.3"
+}

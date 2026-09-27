@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket nagsao ti amada kadakuada: Sadino daytoy a dalan a dinanal? ket nakita dagiti annakna ⟨את⟩ ti dalan a dinanal ti lalaki ti Elohim, ti immay manipud iti Yehudah.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ket nagsao"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ti amada"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Sadino"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "a dalan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a dinanal"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dinanal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "manipud iti Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T12:48:55.637560377Z",
+  "model": "glm-5.3"
+}

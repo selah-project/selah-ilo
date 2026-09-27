@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ti dagsen ti Tsor. Agsangitkayo, dagiti barko ti Tarshish, ta nadadael ⟨isuna⟩, nga awan balay, awan panagserrek; manipud iti daga ti Kittim naipakita kaniada.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ti dagsen"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ti Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "agsangitkayo"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "dagiti barko"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ti Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "nadadael"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "awan balay"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "awan panagserrek"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ti Kittim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "naipakita"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T14:56:22.975939706Z",
+  "model": "glm-5.3"
+}

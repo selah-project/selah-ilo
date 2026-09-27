@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatot ken ⟨את⟩ dagiti awayanna, ken ⟨את⟩ Almon ken ⟨את⟩ dagiti awayanna — uppat nga ili.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti awayanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti awayanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti awayanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti awayanna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    }
+  ],
+  "timestamp": "2026-09-26T09:25:07.370911956Z",
+  "model": "glm-5.3"
+}

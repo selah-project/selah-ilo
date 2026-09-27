@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Agtalinaay laeng iti Elohim ti kararua ko, manipud kenkuana ti panangisalakankon.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "agtalinaay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua ko"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kenkuana"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ti panangisalakankon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:37:10.481705544Z",
+  "model": "glm-5.3"
+}

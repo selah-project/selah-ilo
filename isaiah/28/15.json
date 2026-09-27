@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ta kinunayo: Nagputolkami iti tulag ⟨את⟩ ti ipupusay, ken kadua ti Sheol inaramidmi ti panagkit; ti agballasiw a latigo, saan a umay kadakami; ta inkabilmi ti saan a pudno a pagliinganmi, ken iti saan a pudno naglemmengkami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "kinunayo"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "nagputolkami"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "iti tulag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ipupusay"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ti ipupusay"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ken kadua"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ti Sheol"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "inaramidmi"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ti panagkit"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "a latigo"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "ti agballasiw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ti agballasiw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "a umay kadakami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "inkabilmi"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ti saan a pudno"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "a pagliinganmi"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "ken iti saan a pudno"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "naglemmengkami"
+    }
+  ],
+  "timestamp": "2026-09-26T15:01:27.712643123Z",
+  "model": "glm-5.3"
+}

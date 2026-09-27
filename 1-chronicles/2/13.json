@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ni Yishay nagputot ⟨את⟩ ti umuna a anakna a lalaki ⟨את⟩ ni Eliav, ket ni Avinadav ti maikadua, ket ni Shimea ti maikatlo.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Ni Yishay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umuna a anakna a lalaki"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ti umuna a anakna a lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ni Eliav"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "ket ni Avinadav"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "ket ni Shimea"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ti maikatlo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:47.070981833Z",
+  "model": "glm-5.3"
+}

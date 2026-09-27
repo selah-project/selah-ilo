@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "ket bilinkonko ⟨את⟩ ti bendisionko kadakayo iti maikanem a tawen, ket aramidenna ⟨את⟩ ti apit para kadagiti tallo a tawen.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "bilinkonko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bendisionko"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "bendisionko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "maikanem"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ket aramidenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti apit"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "ti apit"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "para kadagiti tallo"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "a tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T05:48:43.463984029Z",
+  "model": "glm-5.3"
+}

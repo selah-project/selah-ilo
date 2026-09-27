@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket addanto ti dakkel a panagbubuaw iti amin a daga ti Mitsrayim, ti kasta a saan a napasamak pay, ken ti kasta a saanento a mapasamak manen.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ket addanto"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "panagbubuaw"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ti kasta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "napasamak pay"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "ken ti kasta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanento"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "mapasamak manen"
+    }
+  ],
+  "timestamp": "2026-09-26T03:44:43.050101020Z",
+  "model": "glm-5.3"
+}

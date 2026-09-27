@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Gapuna saantayo a mabuteng uray no maibalbaliw ti daga, ken uray no matnagdagiti bantay iti pusoti baybay.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Gapuna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "isunga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "mabutengtayo"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "no maibalbaliw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ken no matnag"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "iti pusoti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T21:22:50.547545224Z",
+  "model": "glm-5.3"
+}

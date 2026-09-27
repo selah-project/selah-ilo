@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Dagiti nazarko ken Yahweh ibayadko, iti sanguanan, koma, ti amin nga umilina.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "dagiti nazarko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ken Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ibayadko"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ti amin nga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umilina"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:04.879649357Z",
+  "model": "glm-5.3"
+}

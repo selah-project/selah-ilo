@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Iti dayta nga oras agsanganda kenni Yahweh, ngem saanna a sungbatanda ⟨ida⟩; ket ilemmengna ti rupana kaniada iti dayta a tiempo, no kas iti panagdakesda kadagiti aramidda.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "iti dayta nga oras"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "agsanganda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngem saan"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "sungbatanna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ida — dagiti daulo"
+    },
+    {
+      "surface": "ובסתר",
+      "gloss": "ket ilemmengna"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dayta a tiempo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no kas iti"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "panagdakesda"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "kadagiti aramidda"
+    }
+  ],
+  "timestamp": "2026-09-26T20:06:08.973531239Z",
+  "model": "glm-5.3"
+}

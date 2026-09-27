@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken ita, saan kadi a ni Boaz ti ammoantayo, a kaduam ⟨את⟩ dagiti ubbingna? Kitaem, isuna agi-iw ⟨את⟩ ti garen ti sebadas ita a rabii.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ken ita"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ni Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "ti ammoantayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היית",
+      "gloss": "addaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti ubbingna"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "kadagiti ubbingna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "agi-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti garen"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ti garen"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ti sebadas"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ita a rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T23:04:01.340359841Z",
+  "model": "glm-5.3"
+}

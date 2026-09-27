@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket no kitaen ti padi ket, narit, nabalbaliwan ti inbek a nagbalin a puraw, ket ibagana a nadalus ti padi ⟨את⟩ ti inbek — nadalus dayta.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "no kitaen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket, narit"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "nabalbaliwan"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti inbek"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "a nagbalin a puraw"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ibagana a nadalus"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti inbek"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti inbek"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadalus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T05:24:25.216937309Z",
+  "model": "glm-5.3"
+}

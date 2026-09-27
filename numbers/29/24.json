@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 29:24",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "ti datonda ken dagiti inumanda kadagiti baka, kadagiti karnero, ken kadagiti urbon a karnero, iti bilangda, kas iti bilin.",
+  "tokens": [
+    {
+      "surface": "מנחתם",
+      "gloss": "ti datonda"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ken dagiti inumanda"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "kadagiti baka"
+    },
+    {
+      "surface": "לאילים",
+      "gloss": "kadagiti karnero"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "ken kadagiti urbon a karnero"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "iti bilangda"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kas iti bilin"
+    }
+  ],
+  "timestamp": "2026-09-26T07:08:06.900326035Z",
+  "model": "glm-5.3"
+}

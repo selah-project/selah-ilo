@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ken ipatna ti padi ⟨את⟩ ti natuno a sakripisio ken ⟨את⟩ ti daton a bagas iti altar, ket ipatawaranna ti padi maipapan kenkuana, ket nakalimas.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "ken ipatna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti natuno a sakripisio"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natuno a sakripisio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti daton a bagas"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ti daton a bagas"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti altar"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ket ipatawaranna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "maipapan kenkuana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ket nakalimas"
+    }
+  ],
+  "timestamp": "2026-09-26T05:22:20.015472789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ta sika, Yahweh, bendisionam ti nalinteg; a kas kalasag ti ragsak ti palikmanna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "bendisionam"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "a kas kalasag"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ragsak"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "palikmanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:14:30.173367997Z",
+  "model": "glm-5.3"
+}

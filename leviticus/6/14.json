@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 6:14",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Iti makhavat agraman iti lana aramiden; no naipenpen iti lana, iyegem; dagiti pirgis ti daton a tinapay iyalimo a kas nazen nga angot kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "makhavat"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "agraman iti lana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramiden"
+    },
+    {
+      "surface": "מרבכת",
+      "gloss": "no naipenpen iti lana"
+    },
+    {
+      "surface": "תביאנה",
+      "gloss": "iyegem"
+    },
+    {
+      "surface": "תפיני",
+      "gloss": "dagiti pirgis"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ti daton"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "a tinapay"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "iyalimo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "a kas angot"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nazen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:06:08.409996941Z",
+  "model": "glm-5.3"
+}

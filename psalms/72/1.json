@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Para kenni Shelomoh. O Elohim, dagiti ukommo itedmo iti ari, ken ti kinalintegmo iti anak ti ari.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Para kenni Shelomoh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dagiti ukommo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "iti ari"
+    },
+    {
+      "surface": "תן",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ken ti kinalintegmo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "iti anak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:24.294586354Z",
+  "model": "glm-5.3"
+}

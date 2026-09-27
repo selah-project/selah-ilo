@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 75,
+  "translation": "Ta saan a manipud iti daya, ken saan a manipud iti lumlag, ken saan a manipud iti katlatiagan dagiti bantay ⟨ti panangipangato⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "a manipud iti daya"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ken manipud iti lumlag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "a manipud iti katlatiagan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:51.714604366Z",
+  "model": "glm-5.3"
+}

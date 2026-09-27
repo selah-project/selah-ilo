@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Kadagiti ukommo agtakderda agingga iti daytoy nga aldaw, ta amin ket dagiti adipenmo.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "kadagiti ukommo"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "agtakderda"
+    },
+    {
+      "surface": "היום",
+      "gloss": "agingga iti daytoy nga aldaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dagiti adipenmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:26.961310998Z",
+  "model": "glm-5.3"
+}

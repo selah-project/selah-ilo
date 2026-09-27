@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ket nagsao ni Moshe kenni Aharon, ken kadagiti annakna, ken kadagiti amin nga anak ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ket nagsao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "annakna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:09.567234789Z",
+  "model": "glm-5.3"
+}

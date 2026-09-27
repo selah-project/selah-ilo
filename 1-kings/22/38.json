@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 22:38",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Nadalusanda ⟨את⟩ ti kalesa iti danum ti Shomeron, ket dinalesan dagiti aso ⟨את⟩ darana, ket dagiti babaklaang nagdigosda, kas iti sao ni Yahweh a nagsao.",
+  "tokens": [
+    {
+      "surface": "וישטף",
+      "gloss": "nadalusanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kalesa"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ti kalesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "danum"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ti Shomeron"
+    },
+    {
+      "surface": "וילקו",
+      "gloss": "dinalesan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dagiti aso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darana"
+    },
+    {
+      "surface": "והזנות",
+      "gloss": "ket dagiti babaklaang"
+    },
+    {
+      "surface": "רחצו",
+      "gloss": "nagdigosda"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kas iti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    }
+  ],
+  "timestamp": "2026-09-26T13:14:01.913196350Z",
+  "model": "glm-5.3"
+}

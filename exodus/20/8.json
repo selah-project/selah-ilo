@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Lagipem ti ⟨את⟩ aldaw ti Shabbat, a pangipasantona.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Lagipem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aldaw ti Shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ti Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "a pangipasantona"
+    }
+  ],
+  "timestamp": "2026-09-26T03:55:55.646071063Z",
+  "model": "glm-5.3"
+}

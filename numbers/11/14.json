@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Saanak a makabael, siak a bubakod, nga agbitbit ⟨את⟩ ti amin daytoy a tao, ta nadagsen ngem kaniak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makabael"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "a bubakod"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "nga agbitbit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a daytoy a tao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tatao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nadagsen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ngem kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T06:37:24.634767266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "ket inyaliena ti ari ti Ashur ⟨את⟩ ti Yisrael iti Ashur ket innalana dan ida iti Khalakh ken iti Khabor, karayan ti Gozan, ken kadagiti ili ti Maday.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ket inyaliena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "iti Ashur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ket innalana dan ida"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "iti Khalakh"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ken iti Khabor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "ti Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ken kadagiti ili"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ti Maday"
+    }
+  ],
+  "timestamp": "2026-09-26T13:53:32.131554673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ket ti aramid ket nasken iti amin nga aramid nga aramiden ⟨ti aramid⟩, ken adda pay ti sobra.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Ket ti aramid"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "דים",
+      "gloss": "nasken"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "nga aramid"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramid"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ken adda pay ti sobra"
+    }
+  ],
+  "timestamp": "2026-09-26T04:47:19.492596249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Inikabil ni David ⟨את⟩ dagiti sao a daydaytoy iti pusona, ket nataguttar unay iti sango ni Akish, ari ti Gat.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "inikabil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao a daydaytoy"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a daydaytoy"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "iti pusona"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nataguttar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iti sango ni"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ti Gat"
+    }
+  ],
+  "timestamp": "2026-09-26T11:04:51.648655926Z",
+  "model": "glm-5.3"
+}

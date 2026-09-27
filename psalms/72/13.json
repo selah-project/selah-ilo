@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 72,
+  "translation": "Maawaanna ti napaspasiaw ken ti makapobre, ket ti kararua dagiti makapobre isalakanna.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "Maawaanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ti"
+    },
+    {
+      "surface": "דל",
+      "gloss": "napaspasiaw"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ken ti makapobre"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "ket ti kararua"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "dagiti makapobre"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "isalakanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:53.212505097Z",
+  "model": "glm-5.3"
+}

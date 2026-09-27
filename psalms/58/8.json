@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "Agriingda a kas iti danum, agay-ayusda; ti uknayna agbalkedna, agbalinda a kas iti mapukpukaw.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "Agriingda"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "agay-ayusda"
+    },
+    {
+      "surface": "למו",
+      "gloss": "da"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "agbalkedna"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "ti uknayna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "mapukpukaw"
+    }
+  ],
+  "timestamp": "2026-09-26T21:31:56.225661847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Ti danum linipatan dagiti kabusorda; awan ti maysa koma a nabati kadakuada.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "linipatan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "dagiti kabusorda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "a nabati"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:42.123810892Z",
+  "model": "glm-5.3"
+}

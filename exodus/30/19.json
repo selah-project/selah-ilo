@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Mangdigosda ni Aharon ken dagiti anakna manipud kenkuana: ⟨את⟩ dagiti imada ken ⟨את⟩ dagiti sakada.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "Mangdigosda"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ken dagiti anakna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti imada"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dagiti imada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti sakada"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "dagiti sakada"
+    }
+  ],
+  "timestamp": "2026-09-26T04:27:30.918065604Z",
+  "model": "glm-5.3"
+}

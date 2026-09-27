@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ikkatmo kaniak ti bain ken ti patey, ta dagiti testiomoniom salaknibek.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Ikkatmo"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ti bain"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ken ti patey"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dagiti testiomoniom"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "salaknibek"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:57.797303060Z",
+  "model": "glm-5.3"
+}

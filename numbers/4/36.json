@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 4:36",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Naibilang da, segun kadagiti pamilia da, dua a ribu ken pito a gasut ken limapulo.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "naibilang da"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ti bilang da"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "segun kadagiti pamilia da"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dua a ribu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ken limapulo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:07:30.480811546Z",
+  "model": "glm-5.3"
+}

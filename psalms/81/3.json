@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 81,
+  "translation": "Iyangatkayo ti kanta, ket itedkayo ti tambor, ti nasayaat a kinor kadua ti nevel.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Iyangatkayo"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ti kanta"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ket itedkayo"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ti tambor"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "ti kinor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ti nevel"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:38.475395254Z",
+  "model": "glm-5.3"
+}

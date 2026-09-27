@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ta ni Yahweh ti kaduam a makatalged, ken isu ti mangsalaknib iti sakam a saan a madakap.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti adda"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "kaduam a makatalged"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ken isu ti mangsalaknib"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "iti sakam"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "saan a madakap"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:00.724538451Z",
+  "model": "glm-5.3"
+}

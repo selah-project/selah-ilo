@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ni Shemuel agserbi ⟨את⟩ rupa ni Yahweh, nga ubbing, naigakod iti ephod a lino.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ken ni Shemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "agserbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rupa ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nga ubbing"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "naigakod"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-26T10:26:29.815155123Z",
+  "model": "glm-5.3"
+}

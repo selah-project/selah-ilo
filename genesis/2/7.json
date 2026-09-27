@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket pinarsua ni Yahweh nga Elohim ⟨את⟩ ti tao a tapok manipud iti daga, ken insublatna kadagiti ilongna ti angin ti biag, ket nagbalin ti tao a kararua a biag.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "pinarsua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "a tapok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "insublatna"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "kadagiti ilongna"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ti angin"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "a kararua"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "a biag"
+    }
+  ],
+  "timestamp": "2026-09-26T01:38:40.369264163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ken ⟨את⟩ ti Arvadi ken ⟨את⟩ ti Tsemar ken ⟨את⟩ ti Khamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ti Arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Tsemar"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ti Tsemar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Khamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ti Khamati"
+    }
+  ],
+  "timestamp": "2026-09-26T23:31:40.487358312Z",
+  "model": "glm-5.3"
+}

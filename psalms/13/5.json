@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "No ti awagen ti kabusorko a nakabaelannak, ket agragsakda dagiti kabusok no matnagak.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "no ti"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "awagen"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ti kabusorko"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "nakabaelannak"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dagiti kabusok"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "agragsakda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "matnagak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:49:23.939534158Z",
+  "model": "glm-5.3"
+}

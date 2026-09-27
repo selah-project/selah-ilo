@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ket ikkatna ⟨את⟩ dagiti altar ti ganganaet ken dagiti nangato a lugar, ket dadaelna ⟨את⟩ dagiti poste, ken kinittarna ⟨את⟩ dagiti Ashera",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ikkatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti altar"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "dagiti altar"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ti ganganaet"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "ken dagiti nangato a lugar"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "dadaelna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti poste"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "dagiti poste"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "kinittarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "dagiti Ashera"
+    }
+  ],
+  "timestamp": "2026-09-26T23:48:50.532602357Z",
+  "model": "glm-5.3"
+}

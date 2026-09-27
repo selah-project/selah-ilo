@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Agtultuloy a nagrebelde kayo kad ni Yahweh, manipud iti aldaw a naamakko ⟨את⟩ kadakayo.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "agrebelde"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "manipud iti aldaw"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "a naamakko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T07:57:28.423534021Z",
+  "model": "glm-5.3"
+}

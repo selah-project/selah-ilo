@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Dagiti linia natnagda kaniak iti nasayaat a dissoda; sipay, napintas ti tawidko iti anakko.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "Dagiti linia"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "natnagda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "iti nasayaat a dissoda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sipay"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ti tawidko"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "napintas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti anakko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:29.322644572Z",
+  "model": "glm-5.3"
+}

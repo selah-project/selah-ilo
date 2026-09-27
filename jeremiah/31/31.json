@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Kitaem, umay dagiti aldaw, kinuna ni Yahweh, ket ipuatko ⟨את⟩ ti balay ni Yisrael ken ⟨את⟩ ti balay ni Yehudah ti tulag a baro.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "באים",
+      "gloss": "umay"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "ket ipuatko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti balay ni Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "a baro"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:25.561652713Z",
+  "model": "glm-5.3"
+}

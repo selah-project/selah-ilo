@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 10:6",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "ket papigsekkon ⟨את⟩ ti balay ni Yehudah ken ⟨את⟩ ti balay ni Yosef isalakanko, ket ipaagnaedkoda, ta inasiak kadakuada, ket agbalindan a kas no saanak a nangilaksid kadakuada, ta siak nga Yahweh ti Elohimda, ket agsungbatkoda.",
+  "tokens": [
+    {
+      "surface": "וגברתי",
+      "gloss": "papigsekkon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti balay ni Yosef"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "isalakanko"
+    },
+    {
+      "surface": "והושבותים",
+      "gloss": "ket ipaagnaedkoda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רחמתים",
+      "gloss": "inasiak kadakuada"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ket agbalindan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanak"
+    },
+    {
+      "surface": "זנחתים",
+      "gloss": "a nangilaksid kadakuada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimda"
+    },
+    {
+      "surface": "ואענם",
+      "gloss": "ket agsungbatkoda"
+    }
+  ],
+  "timestamp": "2026-09-26T20:36:26.797848068Z",
+  "model": "glm-5.3"
+}

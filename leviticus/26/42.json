@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "ket malagipanko ⟨את⟩ ti tulagko ni Yaakov, ken uray pay ⟨את⟩ ti tulagko ni Yitskhak, ken uray pay ⟨את⟩ ti tulagko ni Avraham a malagipko, ket ti daga a malagipko.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "malagipanko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulagko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ken uray pay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulagko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ken uray pay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulagko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ti tulagko"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "a malagipko"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ket ti daga"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "a malagipko"
+    }
+  ],
+  "timestamp": "2026-09-26T06:01:10.052127582Z",
+  "model": "glm-5.3"
+}

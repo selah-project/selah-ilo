@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 9:30",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken manipud kadagiti annak dagiti padi adda idi dagiti aglana iti inlana para kadagiti banglo.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ken manipud kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "annak"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "רקחי",
+      "gloss": "dagiti aglana"
+    },
+    {
+      "surface": "המרקחת",
+      "gloss": "iti inlana"
+    },
+    {
+      "surface": "לבשמים",
+      "gloss": "para kadagiti banglo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:30.675356845Z",
+  "model": "glm-5.3"
+}

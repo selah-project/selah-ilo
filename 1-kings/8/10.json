@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Napasamak idi rumuar dagiti padi manipud iti nasantuan a lugar, ket ti ulep napunno ⟨את⟩ ti balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Napasamak"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "idi rumuar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "iti nasantuan a lugar"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ken ti ulep"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napunno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T12:39:35.311631201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Yahweh nga Elohimko, immawagak Kenka, ket inay-ayoannak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "immawagak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kenka"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ket inay-ayoannak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:25.019110859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 88,
+  "translation": "Ti matak natnag gapu iti panagdagsenak, inawagannakka kenka, Yahweh, amin nga aldaw, impakaratak kadagiti imam.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ti matak"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "מני",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "עני",
+      "gloss": "panagdagsenak"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "inawagannakka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin nga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "impakaratak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kadagiti imam"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ti ima a nakalkalda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:59.646994768Z",
+  "model": "glm-5.3"
+}

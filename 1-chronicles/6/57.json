@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken manipud iti tribu ni Yissaskar ⟨את⟩ ti Kedesh ken ⟨את⟩ dagiti pastoanna, ⟨את⟩ ti Daberath ken ⟨את⟩ dagiti pastoanna.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ken manipud iti tribu"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ni Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ti Kedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pastoanna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti pastoanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Daberath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ti Daberath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pastoanna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti pastoanna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:14.310872163Z",
+  "model": "glm-5.3"
+}

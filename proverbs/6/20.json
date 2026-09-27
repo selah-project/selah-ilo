@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Anakko, salaknibanmo ⟨את⟩ ti bilin ni amam, ket saanmo itding ⟨את⟩ ti tora ni inam.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "salaknibanmo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakko"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ni amam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saanmo"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "itding"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ti tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ni inam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:01.644803670Z",
+  "model": "glm-5.3"
+}

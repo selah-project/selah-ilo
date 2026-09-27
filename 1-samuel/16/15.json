@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Kinuna dagiti adipen ni Shaul kenkuana: Kitaen, adda madi nga espiritu ti Elohim ti agbutbuteng kenka.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dagiti adipen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "madi"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "agbutbuteng kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T10:49:55.658443489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken ti manakaw iti maysa a tao ken malakona, wenno no mabiruk iti imana, mapatay a matay.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "ti manakaw"
+    },
+    {
+      "surface": "איש",
+      "gloss": "iti maysa a tao"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ken malakona"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "wenno no mabiruk"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mapatay"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a matay"
+    }
+  ],
+  "timestamp": "2026-09-26T04:10:09.202816160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken parayenna ti ayat iti panagbuteng kenni Yahweh; saan a maipakbo iti rupa dagiti matana nga ukomenna, ket saan a maipakbo iti timek dagiti tengngana a mangikeddeng.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "parayenna ti ayat"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "iti panagbuteng kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "maipakbo iti rupa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "dagiti matana"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "nga ukomenna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan a"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "maipakbo iti timek"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "dagiti tengngana"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "a mangikeddeng"
+    }
+  ],
+  "timestamp": "2026-09-26T14:39:56.344557016Z",
+  "model": "glm-5.3"
+}

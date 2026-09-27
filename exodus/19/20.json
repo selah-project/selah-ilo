@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket nagbaba ni Yahweh iti bantay Sinay, iti tuktok ti bantay, ket inawagan ni Yahweh ni Moshe iti tuktok ti bantay, ket immay a nangato ni Moshe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ket nagbaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tuktok"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ti bantay"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket inawagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tuktok"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ti bantay"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ket immay a nangato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T03:57:26.284550779Z",
+  "model": "glm-5.3"
+}

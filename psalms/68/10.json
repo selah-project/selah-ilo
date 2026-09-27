@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Ti udan a kadagiti nawaya a daton, inawitam, Elohim; ti tawidmo, no napuy, pinatakdermo daytoy.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "ti udan"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "kadagiti nawaya a daton"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "inawitam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ti tawidmo"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "no napuy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "pinatakdermo daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T21:40:30.314555591Z",
+  "model": "glm-5.3"
+}

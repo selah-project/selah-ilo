@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 31:31",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Nagsungbat ni Yakov ken nangibaga kenn Lavan: Ta immbutengak, ta kinunak a saan nga alaem ⟨את⟩ dagiti anakmo a babbai a puersa kaniak.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "nagsungbat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ken nangibaga"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "kenn Lavan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "immbutengak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "פן",
+      "gloss": "a saan"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "nga alaem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anakmo a babbai"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "dagiti anakmo a babbai"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "a puersa kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:38:39.494185405Z",
+  "model": "glm-5.3"
+}

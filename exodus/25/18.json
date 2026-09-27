@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Aramidento ti dua a kerubim iti balitok — obra a naipukpok ti aramidento kadakuada ⟨אתם⟩, iti dua a patingga ti kapporet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Aramidento"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "obra a naipukpok"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "משני",
+      "gloss": "iti dua"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "patingga"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet"
+    }
+  ],
+  "timestamp": "2026-09-26T04:20:26.206803646Z",
+  "model": "glm-5.3"
+}

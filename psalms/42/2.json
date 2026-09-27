@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Kas ti ugsa a sapsapulenna ⟨iti⟩ dagiti waig ti danum, kasta ti kararwak ti sapsapulennaka, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Kas ti ugsa"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "sapsapulenna"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨iti⟩"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "dagiti waig"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "sapsapulennaka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T21:18:11.473271051Z",
+  "model": "glm-5.3"
+}

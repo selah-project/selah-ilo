@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ayatenmo ⟨את⟩ ni Yahweh nga Elohimmo, ken salaknibanmo ti panagsalaknibna, ken dagiti estatutona, ken dagiti lintegna, ken dagiti bilinna, amin nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ayatenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ken salaknibanmo"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ti panagsalaknibna"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ken dagiti estatutona"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ken dagiti lintegna"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ken dagiti bilinna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T07:54:12.896525297Z",
+  "model": "glm-5.3"
+}

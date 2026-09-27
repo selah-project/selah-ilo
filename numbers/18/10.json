@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Iti kasantoan ti kakasantuanan manganem dayta; amin a lalaki manganenna ⟨את⟩; nasantoan daytoy ti agbalin kenka.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "iti kasantoan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ti kakasantuanan"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "manganem dayta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manganenna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (ti nasantoan a daton)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantoan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T06:43:49.403997097Z",
+  "model": "glm-5.3"
+}

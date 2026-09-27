@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Ken ⟨את⟩ ti tattao, inyakarna ⟨את⟩ kadagiti ili, manipud iti patingga ti beddeng ti Mitsrayim agingga iti patingga na.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti tattao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "inyakarna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti ili"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "kadagiti ili"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "manipud iti patingga"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "beddeng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "iti patingga na"
+    }
+  ],
+  "timestamp": "2026-09-26T03:18:48.154079312Z",
+  "model": "glm-5.3"
+}

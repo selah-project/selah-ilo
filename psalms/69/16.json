@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Saanmo a layusannak iti agos ti danum, ken saanmo a lennakkannak ti nauneg, ken saanmo a iserra ti ngiwatna ti adday no nak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "mo a layusannak"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "iti agos"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "mo a lennakkannak"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ti nauneg"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "mo a iserra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "no nak"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ti adday"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ti ngiwatna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:46:56.832938632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Saan a nangipalubos ti Edom a maipan ti panangited iti ⟨את⟩ Yisrael a summaliw iti pagbeddenganna, ket nagbaliw ti dalan ti Yisrael manipud kenkuana.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "saan a nangipalubos"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ti panangited"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a summaliw"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "iti pagbeddenganna"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ket nagbaliw ti dalan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "manipud kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T06:52:28.151424460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 1:10",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kitaem, iti daytoy nga aldaw naitudingkaka iti dagiti pagilian ken iti dagiti pagariuan, nga aggissat ken agdadael, agpukaw ken agtumba, nga agbangon ken agmula.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "הפקדתיך",
+      "gloss": "naitudingkaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "dagiti pagariuan"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "nga aggissat"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "ken agdadael"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "agpukaw"
+    },
+    {
+      "surface": "ולהרוס",
+      "gloss": "ken agtumba"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "nga agbangon"
+    },
+    {
+      "surface": "ולנטוע",
+      "gloss": "ken agmula"
+    }
+  ],
+  "timestamp": "2026-09-26T16:12:51.035707386Z",
+  "model": "glm-5.3"
+}

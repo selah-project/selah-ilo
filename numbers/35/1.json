@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Nagsao ni Yahweh ken ni Moshe iti kapatagan ti Moab, asideg ti Yarden ti Yerikho, a kunana,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Nagsao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ken"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "iti kapatagan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "asideg"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ti Yerikho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    }
+  ],
+  "timestamp": "2026-09-26T07:26:07.311992566Z",
+  "model": "glm-5.3"
+}

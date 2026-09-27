@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken ⟨את⟩ Kholon ken ⟨את⟩ dagiti pagdapoanna, ken ⟨את⟩ Devir ken ⟨את⟩ dagiti pagdapoanna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Kholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pagdapoanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti pagdapoanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti pagdapoanna"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dagiti pagdapoanna"
+    }
+  ],
+  "timestamp": "2026-09-26T09:25:38.880349362Z",
+  "model": "glm-5.3"
+}

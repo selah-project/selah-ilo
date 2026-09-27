@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket napan dagiti lalaki nga Yisrael iti gubat a makabusor iti Binyamin, ket inisaadanda kadakuada ⟨אתם⟩ ti lalaki nga Yisrael ti gubat, a makabusor iti Gibeah.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ket napan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a makabusor iti"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ket inisaadanda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada (ti lalaki ti Binyamin)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a makabusor"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "iti Gibeah"
+    }
+  ],
+  "timestamp": "2026-09-26T10:23:29.543375141Z",
+  "model": "glm-5.3"
+}

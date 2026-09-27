@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ti leon, napigsa kadagiti animal, ket saan nga agsubli manipud iti rupa ti aniaman;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "ti leon"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "napigsa"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "kadagiti animal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manipud iti rupa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti aniaman"
+    }
+  ],
+  "timestamp": "2026-09-26T22:45:07.238569704Z",
+  "model": "glm-5.3"
+}

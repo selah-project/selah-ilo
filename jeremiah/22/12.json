@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ta iti disso a inaipatalawda ⟨את⟩ kenkuana, sadiay ti matayanna, ket ⟨את⟩ ti daytoy a daga saannanto a makitaan pay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iti disso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "inaipatalawda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shalum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "matayanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makitaanna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:10:26.006954873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Dagiti ari ti buyot agtarayda nga agtarayda, ket ti agnanaed iti balay mangbingay ti samsam.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Dagiti ari"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "agtarayda"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "nga agtarayda"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "ket ti agnanaed"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "mangbingay"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ti samsam"
+    }
+  ],
+  "timestamp": "2026-09-26T21:42:09.086201038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Ti ulo dagiti agliklikmut kaniak — ti narikna a pannakabiniag dagiti bibiwda, tumakder a mangabbong kaniada",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Ti ulo"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "dagiti agliklikmut kaniak"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ti narikna a pannakabiniag"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "dagiti bibiwda"
+    },
+    {
+      "surface": "יככסומו",
+      "gloss": "tumakder a mangabbong kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:39.955029934Z",
+  "model": "glm-5.3"
+}

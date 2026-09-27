@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Tapno ammoda ti kaputotan a maudi, dagiti annak a maipasngay, agtakderda ken ibagada kadagiti annakda.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ammoda"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ti kapototan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "a maudi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "a maipasngay"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "agtakderda"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ken ibagada"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kadagiti annakda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:54.240431091Z",
+  "model": "glm-5.3"
+}

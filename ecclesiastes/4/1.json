@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket nagsubliko, siak, ket nakitak ⟨את⟩ amin dagiti naapi a naaramid babaen ti init, ken, nadanon, ti luha dagiti naapi ket awan ti mangted kaniada iti kappia, ket iti ima dagiti mangapi kaniada adda bileg, ket awan ti mangted kaniada iti kappia.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ket nagsubliko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ket nakitak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti naapi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "dagiti naapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "naaramid"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket nadanon"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "ti luha"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "dagiti naapi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "mangted iti kappia"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ket iti ima"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "dagiti mangapi kaniada"
+    },
+    {
+      "surface": "כח",
+      "gloss": "bileg"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "mangted iti kappia"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:36.986420151Z",
+  "model": "glm-5.3"
+}

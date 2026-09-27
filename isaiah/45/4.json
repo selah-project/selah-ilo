@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Gapu iti adipenko a ni Yaakov ken ni Yisrael a ti piniliak, inawagak kenka babaen ⟨iti⟩ naganmo, inagananka, ket saanmo a ammoak.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Gapu iti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "adipenko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ken ni Yisrael"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "ti piniliak"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "inawagak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "iti naganmo"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "inagananka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanmo a"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ammoak"
+    }
+  ],
+  "timestamp": "2026-09-26T15:41:33.725174254Z",
+  "model": "glm-5.3"
+}

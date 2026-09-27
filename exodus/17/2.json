@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Nakalkalis ti tattao kenni Moshe, ket kinunada: Itedyo kadakami danum a mainummi. Ket kinuna kaniada ni Moshe: Apay a makalkalis kayo kaniak? Apay a pagpadasyo ni Yahweh ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "nakalkalis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "a mainummi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "a makalkalis kayo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "a pagpadasyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:05:38.283192315Z",
+  "model": "glm-5.3"
+}

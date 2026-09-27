@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Nadayeg ti panangisalakan manipud kadagiti dakes, ta dagiti bilinmo saanda a biniruken.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Nadayeg"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "manipud kadagiti dakes"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "ti panangisalakan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "a biniruken"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:17.152282872Z",
+  "model": "glm-5.3"
+}

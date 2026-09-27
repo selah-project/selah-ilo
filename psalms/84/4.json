@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 84,
+  "translation": "Uray ti billit nakabiruk ⟨iti⟩ balay, ken ti billit a dror ⟨iti⟩ pagiyanan a kukuana, a pagtaengananna dagiti annakna a billit — ⟨iti⟩ ⟨את⟩ dagiti altarmo, Yahweh Tsevaot, ariak ken Elohimko.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "uray"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ti billit"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nakabiruk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "ken ti billit a dror"
+    },
+    {
+      "surface": "קן",
+      "gloss": "pagiyanan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kukuana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "pagtaengananna"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "dagiti annakna a billit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti altarmo"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "dagiti altarmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ariak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ken Elohimko"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:50.652359970Z",
+  "model": "glm-5.3"
+}

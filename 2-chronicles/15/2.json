@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 15:2",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "ket immay isu nga agsango kenni Asa, ket kinunana kenkuana: Dengngegyokayo kaniak, Asa ken amin a Yehudah ken Binyamin: ni Yahweh ⟨⟨adda⟩⟩ kadakayo no addakayo kadukuana; ket no birukenyonto, mabiruannanto kadakayo; ket no bay-anyonto, bay-annanto ⟨את⟩ kayo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "immay isu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "nga agsango kenni"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "dengngegyokayo kaniak"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ken Binyamin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "בהיותכם",
+      "gloss": "no addakayo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kadukuana"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ket no"
+    },
+    {
+      "surface": "תדרשהו",
+      "gloss": "birukenyonto"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "mabiruannanto"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ket no"
+    },
+    {
+      "surface": "תעזבהו",
+      "gloss": "bay-anyonto"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "bay-annanto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:07:25.613927622Z",
+  "model": "glm-5.3"
+}

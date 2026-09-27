@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Inaramid ni Shemuel ⟨את⟩ ti insao ni Yahweh, ket immay idiay Beit Lechem; ket nabutenganda dagiti lakay ti ili idi simmangpetda kenkuana, ket kinunada: Kappia kadi ti immayam?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti insao ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "insao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ket immay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit Lechem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "nabutenganda"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "idi simmangpetda kenkuana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ti immayam"
+    }
+  ],
+  "timestamp": "2026-09-26T10:51:58.176284299Z",
+  "model": "glm-5.3"
+}

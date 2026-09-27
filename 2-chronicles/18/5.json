@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 18:5",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Kinnapo ti ari ti Yisrael ⟨את⟩ dagiti propeta, uppat a gasut a lallaki, ket kinunana kaniada: Mapan kadtayo kadi iti Ramot-Gil'ad iti gubat, wenno aginanaak? Ket kinunada: Umay ngato, ken itedna ti Elohim ⟨iti⟩ ima ti ari.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "kinnapo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti propeta"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "dagiti propeta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a lallaki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "הנלך",
+      "gloss": "mapan kadtayo kadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "aginanaak"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "umay ngato"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ken itedna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T23:51:00.537308144Z",
+  "model": "glm-5.3"
+}

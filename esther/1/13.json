@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinuna ti ari kadagiti maaram, dagiti ammo kadagiti panawen, ta kasta ti sao ti ari iti sanguanan dagiti amin nga ammo ti linteg ken ukom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "kadagiti maaram"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "dagiti ammo"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "kadagiti panawen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "דת",
+      "gloss": "linteg"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ken ukom"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:06.102221013Z",
+  "model": "glm-5.3"
+}

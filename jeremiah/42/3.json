@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "ken ibagana kadakami ni Yahweh ti Elohimmo ⟨את⟩ ti dalan a surotenmi iti dayta, ken ⟨את⟩ ti sao a aramidenmi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ibagana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohimmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "surotenmi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "aramidenmi"
+    }
+  ],
+  "timestamp": "2026-09-26T17:36:03.360045999Z",
+  "model": "glm-5.3"
+}

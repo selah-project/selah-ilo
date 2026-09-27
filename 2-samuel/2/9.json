@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ket inarina ni Ish-Boshet ari iti Gilad, ken iti Ashuri, ken iti Yizreel, ken iti Efraim, ken iti Binyamin, ken iti amin a Yisrael.",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "inarina ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "amin"
+    }
+  ],
+  "timestamp": "2026-09-26T11:25:31.034508228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket nagbalin amin nga aldaw ni Adam a kinagayamna a biag iti siam a gasut a tawen ken tallopulo a tawen, ket pimmaday.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kinagayamna a biag"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "siam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ken tallopulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket pimmaday"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:29.929652193Z",
+  "model": "glm-5.3"
+}

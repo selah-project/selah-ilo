@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Napan maysa a lalaki manipud iti balay ni Leviy, ket inalana ⟨את⟩ ti anak a babai ni Leviy.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "napan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a lalaki"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Leviy"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anak a babai ni Leviy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Leviy"
+    }
+  ],
+  "timestamp": "2026-09-26T03:26:59.364363799Z",
+  "model": "glm-5.3"
+}

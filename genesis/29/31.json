@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Nakita ni Yahweh a sinnaaw ni Lea, ket linuktananna ⟨ti⟩ ⟨את⟩ tianna; ni Rahel met ket baog.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "sinnaaw"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ket linuktananna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tianna"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "tianna"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "ni Rahel met"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "baog"
+    }
+  ],
+  "timestamp": "2026-09-26T02:28:24.653683848Z",
+  "model": "glm-5.3"
+}

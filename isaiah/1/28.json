@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 1:28",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken ti panakadadael dagiti agrigrigat ken dagiti agbasbasol ket agpapada, ken dagiti mangibbat kenn Yahweh ket mapukawenda.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "ken ti panakadadael"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "dagiti agrigrigat"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ken dagiti agbasbasol"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "agpapada"
+    },
+    {
+      "surface": "ועזבי",
+      "gloss": "ken dagiti mangibbat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenn Yahweh"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mapukawenda"
+    }
+  ],
+  "timestamp": "2026-09-26T14:17:29.036039156Z",
+  "model": "glm-5.3"
+}

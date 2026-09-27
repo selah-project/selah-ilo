@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 140,
+  "translation": "Kinunak kenni Yahweh: Elmo sika; Dengngegem, Yahweh, ti timek dagiti agkalkalyoak.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Kinunak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Dengngegem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "dagiti agkalkalyoak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:05.818471104Z",
+  "model": "glm-5.3"
+}

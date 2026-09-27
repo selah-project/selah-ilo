@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Inagnaed ni Yosef ⟨את⟩ amana ken ⟨את⟩ dagiti kakabsatna, ket intedanna kaniada ti tagikua iti daga ti Mitsrayim, iti kasayaatan ti daga, iti daga ti Raamses, a kas ti bilin ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Inagnaed"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kakabsatna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dagiti kakabsatna"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket intedanna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ti tagikua"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "iti kasayaatan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T03:14:15.046902219Z",
+  "model": "glm-5.3"
+}

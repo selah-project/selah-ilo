@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kinaptanna ni Ajiya ti salamma, ti baro a naisalsalammang kadakuana, ket rinibanna a dagiti sangapulo ket dua a piraso.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "kinaptanna"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ni Ajiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "ti salamma"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "ti baro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "naisalsalammang kadakuana"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "rinibanna"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "a piraso"
+    }
+  ],
+  "timestamp": "2026-09-26T12:53:22.267293733Z",
+  "model": "glm-5.3"
+}

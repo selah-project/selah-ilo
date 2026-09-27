@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ti matam masdaenda ⟨ti⟩ umisu a masakbayan, ken dagiti kirbetmatam maysaenda a nasalinteg iti sanguam.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "ti matam"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "iti umisu a masakbayan"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "masdaenda"
+    },
+    {
+      "surface": "וישרו נגדך",
+      "gloss": ""
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "ken dagiti kirbetmatam"
+    },
+    {
+      "surface": "יביטו נגדך",
+      "gloss": ""
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "maysaenda a nasalinteg"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "iti sanguam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:27.154628234Z",
+  "model": "glm-5.3"
+}

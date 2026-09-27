@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Iti maikawalo nga aldaw, nalatak a gimong ti agturong kanyayo; ti aniaman nga obra ti panagserbi, saanyo a aramiden.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Iti aldaw"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "maikawalo"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "nalatak a gimong"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ti agturong"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanyayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti aniaman"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "obra"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ti panagserbi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanyo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "a aramiden"
+    }
+  ],
+  "timestamp": "2026-09-26T07:14:39.151337221Z",
+  "model": "glm-5.3"
+}

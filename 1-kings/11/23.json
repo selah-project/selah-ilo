@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Pinataktakder ti Elohim kenkuana ti maysa a kabusor, ⟨את⟩ ni Rezon, anak a lalaki ni Elyadaa, a timmaray manipud ⟨את⟩ kenni Hadadezer nga ari ti Tzoba, ti apona.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Pinataktakder"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ti maysa a kabusor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ni Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "ni Elyadaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "timmaray"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ⟨את⟩",
+      "marks": "kenni Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "kenni Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ti Tzoba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ti apona"
+    }
+  ],
+  "timestamp": "2026-09-26T12:45:54.174944128Z",
+  "model": "glm-5.3"
+}

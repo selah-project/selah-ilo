@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ken ti raa, ken ⟨את⟩ ti ayyah, ken ti dayyah iti kita na",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ken ti raa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti ayyah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ti ayyah"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ken ti dayyah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "iti kita na"
+    }
+  ],
+  "timestamp": "2026-09-26T08:00:36.787923940Z",
+  "model": "glm-5.3"
+}

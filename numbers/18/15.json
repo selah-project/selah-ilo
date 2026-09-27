@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 18:15",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Amin a manglukat ti tian iti amin a lasag a datonenda kenni Yahweh, iti tao ken iti ayup, kadaka ti agbalin; ngem agbayad a bayadam ⟨את⟩ ti immuna a anak ti tao, ken ⟨את⟩ ti immuna nga anak ti ayup a narugit bayadam.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "manglukat"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ti tian"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lasag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "datonenda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ken iti ayup"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kadaka"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "agbayad"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "bayadam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti immuna a anak ti tao"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ti immuna a anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti immuna nga anak ti ayup a narugit"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ti immuna nga anak"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ti ayup"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "a narugit"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "bayadam"
+    }
+  ],
+  "timestamp": "2026-09-26T06:47:39.016865752Z",
+  "model": "glm-5.3"
+}

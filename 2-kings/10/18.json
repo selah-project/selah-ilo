@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Nagurnong ni Yehu ⟨את⟩ ti amin a umili, ket kinunana kadakuada: Ni Akhahab bassit ti panagserbina ⟨את⟩ kennu Baal; ni Yehu adu ti panagserbina kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "nagurnong"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a umili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Akhahab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ti panagserbina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kennu Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ti panagserbina kenkuana"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "adu"
+    }
+  ],
+  "timestamp": "2026-09-26T13:40:20.031392511Z",
+  "model": "glm-5.3"
+}

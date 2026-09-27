@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Kitaem a naan-anayak ken sungbatannak, Yahweh nga Elohimko; palistuinam dagiti matak, baka matnagak iti matay;",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "kitaem a naan-anayak"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ken sungbatannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga Elohimko"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "palistuinam"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matak"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "matnagak"
+    },
+    {
+      "surface": "המות",
+      "gloss": "iti matay"
+    }
+  ],
+  "timestamp": "2026-09-26T20:52:10.080498554Z",
+  "model": "glm-5.3"
+}

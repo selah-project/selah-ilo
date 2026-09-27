@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Kinuna ni Aharon ⟨את⟩ amin dagiti sao a kinuna ni Yahweh kenni Moshe, ket inaramidna dagiti tanda iti matada ti tattao.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti sao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "dagiti tanda"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "iti matada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    }
+  ],
+  "timestamp": "2026-09-26T03:29:13.886996205Z",
+  "model": "glm-5.3"
+}

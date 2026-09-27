@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket ammoenyo a naisina ni Yahweh ⟨ti⟩ hasid para kenkuana; no agawagak kenni Yahweh, dengngegnanak.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "ket ammoenyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "naisina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ti hasid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para kenkuana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dengngegnanak"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "no agawagak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenni"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:08.903004478Z",
+  "model": "glm-5.3"
+}

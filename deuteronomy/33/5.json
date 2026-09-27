@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Nagbalin nga ari idiay Yeshurun, idi nagurnong dagiti ulo ti tao, kakuyog dagiti tribu ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "idiay Yeshurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "idi nagurnong"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dagiti ulo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kakuyog"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "dagiti tribu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T08:47:07.998631749Z",
+  "model": "glm-5.3"
+}

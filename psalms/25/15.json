@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Dagiti matak a kanayon kenni Yahweh, ta isuna ti mangikkat kadagiti sakaak manipud iti lampok.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Dagiti matak"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "a kanayon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ti mangikkat"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "manipud iti lampok"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kadagiti sakaak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:02:00.207916145Z",
+  "model": "glm-5.3"
+}

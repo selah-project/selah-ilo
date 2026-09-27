@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket padayawko, siak, ⟨את⟩ dagiti natay a nataydan iti napalabas, ngem ti sibibiag a sibibiagda agingga ita.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ket padayawko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti natay"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "dagiti natay"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "iti napalabas"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "nataydan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngem"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ti sibibiag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "המה",
+      "gloss": "da"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sibibiagda"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "agingga ita"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:36.986702263Z",
+  "model": "glm-5.3"
+}

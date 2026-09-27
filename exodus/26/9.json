@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "ket ibbatogmo ⟨את⟩ dagiti lima a kurtina nga agmaymaysa, ken ⟨את⟩ dagiti innem a kurtina nga agmaymaysa, ket idoblemo ⟨את⟩ ti kurtina a maikanem iti sanguanan ti Tolda.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "ket ibbatogmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lima a kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "a kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nga agmaymaysa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti innem a kurtina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "innem"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "a kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nga agmaymaysa"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "ket idoblemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kurtina a maikanem"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ti kurtina"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "a maikanem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sanguanan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ti Tolda"
+    }
+  ],
+  "timestamp": "2026-09-26T04:16:50.386577439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Ket isakripisioda dagiti sakripisio ti panagyaman, ket ibagada dagiti aramidna iti panagkanta.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ket isakripisioda"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "dagiti sakripisio"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ti panagyaman"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ket ibagada"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "dagiti aramidna"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "iti panagkanta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:06.416203589Z",
+  "model": "glm-5.3"
+}

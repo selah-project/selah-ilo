@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "iti panagurnong dagiti umili a maysa, ken dagiti pagarian, nga agserbi ⟨את⟩ kenni Yahweh.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "iti panagurnong"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "a maysa"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "ken dagiti pagarian"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "nga agserbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:33.485405379Z",
+  "model": "glm-5.3"
+}

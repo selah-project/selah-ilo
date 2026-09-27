@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Kitaem, nangitedka a kas Elohim kenni Paro, ket ni Aharon a kabsatmo ti agbalin a profetam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "nangitedka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a kas Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kenni Paro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ket ni Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "a kabsatmo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti agbalin"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "a profetam"
+    }
+  ],
+  "timestamp": "2026-09-26T03:37:26.785716621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket nagdagsen ti ima ni Yahweh kadagiti taga-Ashdod, ket dinadaelna ida, ket sinapaanna ida kadagiti almoranas, ⟨iti⟩ Ashdod ken ⟨iti⟩ pagbeddenganna.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "nagdagsen"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ti ima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "taga-Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "dinadaelna"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sinapaanna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "kadagiti almoranas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "pagbeddenganna"
+    }
+  ],
+  "timestamp": "2026-09-26T10:36:16.260845809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Kinuttongan ni Yahweh ⟨את⟩ Paro kadagiti dakkkel a kuttong ken ⟨את⟩ ti balayna gapu iti sao ni Saray, asawa ni Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "kinuttongan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "kadagiti kuttong"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dakkkel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti balayna"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "balayna"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ni Saray"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    }
+  ],
+  "timestamp": "2026-09-26T01:54:55.833820130Z",
+  "model": "glm-5.3"
+}

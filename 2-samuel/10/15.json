@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket nakita ti Aram a naabakda iti sanguan ti Yisrael, ket timmiponda nga agpada.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "naabakda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ket timmiponda"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nga agpada"
+    }
+  ],
+  "timestamp": "2026-09-26T11:40:26.077003224Z",
+  "model": "glm-5.3"
+}

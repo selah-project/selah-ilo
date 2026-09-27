@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "No nagkaalamka, nagkaalamka para kenka; no nagludludka, siksikayo a maymaysa ti pagdungdungnam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "No"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nagkaalamka"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nagkaalamka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para kenka"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "no nagludludka"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "siksikayo a maymaysa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ti pagdungdungnam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:39.094431058Z",
+  "model": "glm-5.3"
+}

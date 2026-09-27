@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ti timek ti agawawag: Iti liwa tayugenyo ti dalan ni Yahweh, Iti karayan daraasenyo ti kalsada para iti Elohimmi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ti timek"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ti agawawag"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti liwa"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "tayugenno"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "daraasenno"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "iti karayan"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "ti kalsada"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "para iti Elohimmi"
+    }
+  ],
+  "timestamp": "2026-09-26T15:30:20.701671536Z",
+  "model": "glm-5.3"
+}

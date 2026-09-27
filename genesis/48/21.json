@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Kinuna ni Yisrael kenni Yosef: Tai, siak ket matayakon, ket addanto ni Elohim kadakayo, ket ⟨isublinakayo⟩ ⟨אתכם⟩ iti daga dagiti amakayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "מת",
+      "gloss": "matayakon"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "isublinakayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "dagiti amakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:20:12.838937393Z",
+  "model": "glm-5.3"
+}

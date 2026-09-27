@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Inalukatanda ti ngiwatda maibusor kaniak, kinunada: Haah, haah, nakita ti matami!",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "inalukatanda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "maibusor kaniak"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ti ngiwatda"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Haah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Haah"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ti matami"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:46.231600764Z",
+  "model": "glm-5.3"
+}

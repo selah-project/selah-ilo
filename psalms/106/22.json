@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "dagaiti a pakadiriwang iti daga ni Kham, dagaiti a makabutbuteng iti baybay ti Suf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "dagaiti a pakadiriwang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Kham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dagaiti a makabutbuteng"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baybay"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ti Suf"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:13.774822015Z",
+  "model": "glm-5.3"
+}

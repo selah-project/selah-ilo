@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Dagiti pagbilinan ni Yahweh nalintegda, pagragsakanda ti puso; ti bilin ni Yahweh nadalus, palawagenna dagiti mata.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Dagiti pagbilinan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "nalintegda"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "pagragsakanda"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "nadalus"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "palawagenna"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "dagiti mata"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:00.493136473Z",
+  "model": "glm-5.3"
+}

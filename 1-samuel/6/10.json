@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Kastoy ti inaramid dagiti lalaki: innalada dua a baka nga agtutaud ti gatas, sinikopda iti kariton, ken ⟨את⟩ dagiti lattolattoda inserraada iti balay.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "innalada"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "a baka"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "nga agtutaud ti gatas"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "sinikopda"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "iti kariton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti lattolattoda"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "dagiti lattolattoda"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "inserraada"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    }
+  ],
+  "timestamp": "2026-09-26T10:35:43.750931530Z",
+  "model": "glm-5.3"
+}

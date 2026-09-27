@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 8:13",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ipatdekmo ⟨את⟩ dagiti Levita sadiay sanguanan ni Aharon ken sadiay sanguanan dagiti anakna, ken iyawyawmo ⟨אתם⟩ ida a panagyawyaw para kenn Yahweh.",
+  "tokens": [
+    {
+      "surface": "והעמדת",
+      "gloss": "ipatdekmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sadiay sanguanan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ken sadiay sanguanan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "ken iyawyawmo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "panagyawyaw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kenn Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T06:26:22.105870655Z",
+  "model": "glm-5.3"
+}

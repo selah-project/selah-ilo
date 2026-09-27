@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Ken ⟨את⟩ ti kabsaryo alayen, ken agtakderkayo, agsublikayo iti tao.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kabsaryo"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kabsaryo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "alayen"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ken agtakderkayo"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "agsublikayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-09-26T03:06:46.083070533Z",
+  "model": "glm-5.3"
+}

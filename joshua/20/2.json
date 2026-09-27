@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Agbalikas kadagiti anak ni Yisrael, nga kuna: Itedyo kadakayo ⟨את⟩ dagiti ili ti pagtartarayan, nga insaok kadakayo babaen iti ima ni Moshe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Agbalikas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kuna"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Itedyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ili ti pagtartarayan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "ti pagtartarayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "insaok"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen iti ima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T09:26:02.995885515Z",
+  "model": "glm-5.3"
+}

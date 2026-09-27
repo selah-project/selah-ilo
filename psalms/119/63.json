@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Kaduaak dagiti amin a mabuteng kenka, ken kadagiti agsalaknib kadagiti bilinmo.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Kaduaak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "mabuteng kenka"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ken kadagiti agsalaknib"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "kadagiti bilinmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:58.371460936Z",
+  "model": "glm-5.3"
+}

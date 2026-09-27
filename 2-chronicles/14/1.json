@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ken inaramid ni Asa ti naimbag ken ti nalinteg kadagiti mata ni Yahweh ti Elohimna",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ti naimbag"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "ken ti nalinteg"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "kadagiti mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ti Elohimna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:48:50.532344203Z",
+  "model": "glm-5.3"
+}

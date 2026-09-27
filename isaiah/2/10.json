@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Sumrek kadagiti bato ken aglemmeng kadagiti tapok, manipud iti rupa ti panagbuteng kenni Yahweh ken manipud iti daydayaw ti kinadakkelna.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "sumrek"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kadagiti bato"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "ken aglemmeng"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "kadagiti tapok"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manipud iti rupa"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ti panagbuteng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "ken manipud iti daydayaw"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "ti kinadakkelna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:11:51.797587386Z",
+  "model": "glm-5.3"
+}

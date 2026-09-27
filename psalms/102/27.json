@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Dagita mapatayda, ngem sika agtakderka; ket amin da a kas maysa a bado malakoda, kas bado Baliwamda ket agbaliwanda.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "dagita"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mapatayda"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ngem sika"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "agtakderka"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "ket amin da"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "a kas maysa a bado"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "malakoda"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kas bado"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "Baliwamda"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "ket agbaliwanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:42.285322768Z",
+  "model": "glm-5.3"
+}

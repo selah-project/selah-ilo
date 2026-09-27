@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 22:1",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Kalpasanna napan nga aglaylay dagiti anak ni Yisrael, ket nagkampo da iti tanap ti Moab, iti daya ti Karayan Yarden, a sumanglad iti Yericho.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "napan nga aglaylay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagkampo da"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "iti tanap"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ti Moab"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ti Karayan Yarden"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "iti Yericho"
+    }
+  ],
+  "timestamp": "2026-09-26T06:56:48.943815827Z",
+  "model": "glm-5.3"
+}

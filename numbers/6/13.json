@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 6:13",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ken daytoy ti linteg ti Nazir: iti aldaw a mapnoen dagiti aldaw ti panagNazirna, iyeganna ⟨את⟩ ti Nazir iti sango ti Tolda ti Gimong.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ken daytoy"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ti linteg"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "ti Nazir"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "a mapnoen"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldaw"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ti panagNazirna"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "iyeganna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti Nazir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Gimong"
+    }
+  ],
+  "timestamp": "2026-09-26T06:14:07.798258332Z",
+  "model": "glm-5.3"
+}

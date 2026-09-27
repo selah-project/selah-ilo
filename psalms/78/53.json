@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket dinannana ida iti talna, ket saanda a nagbuteng, ket ⟨את⟩ dagiti kabusoranda inabbongan ti baybay.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "dinannana"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "iti talna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "a nagbuteng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kabusoranda"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "dagiti kabusoranda"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "inabbongan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:15.911823028Z",
+  "model": "glm-5.3"
+}

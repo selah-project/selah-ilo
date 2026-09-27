@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Nagtaran ni David manipud iti Naioth iti Ramah, ket immay ken kinuna iti masakbayan ni Yehonatan: Ania ti inaramidko? Ania ti kalabanak, ken ania ti basolko iti masakbayan ni amam, ta agbiruk ⟨את⟩ iti biagko?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "nagtaran"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "iti Naioth"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "iti Ramah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti masakbayan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ti inaramidko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ti kalabanak"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ken ania"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ti basolko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti masakbayan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ni amam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "agbiruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti biagko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "iti biagko"
+    }
+  ],
+  "timestamp": "2026-09-26T11:00:55.865618610Z",
+  "model": "glm-5.3"
+}

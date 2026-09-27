@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 27:1",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Anak ti duapulo ket lima a tawen ni Yotam iti panagturayna, ket innem a pulo ket tallo nga aldaw — sangapulo ket innem a tawen ti nangiturayna iti Yerushalayim; ket ti nagan ti inana ket Yerusha, anak a babai ni Tsadok.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak ti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ket lima"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ni Yotam"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "iti panagturayna"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ket"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo ket innem"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ket ti nagan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ti inana"
+    },
+    {
+      "surface": "ירושה",
+      "gloss": "Yerusha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ni Tsadok"
+    }
+  ],
+  "timestamp": "2026-09-26T23:55:18.859631013Z",
+  "model": "glm-5.3"
+}

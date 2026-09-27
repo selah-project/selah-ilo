@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket kinuna ti maysa: Agpayso koma, ngarud, ken mapanka ⟨את⟩ kadagiti adipenmo. Ket kinuna: Siak, mapankonto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "agpayso koma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngarud"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ken mapanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti adipenmo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "kadagiti adipenmo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mapankonto"
+    }
+  ],
+  "timestamp": "2026-09-26T13:28:14.835424042Z",
+  "model": "glm-5.3"
+}

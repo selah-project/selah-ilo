@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ni Yahweh ti nangdadael iti plano dagiti nasion; isu ti nangipukaw kadagiti kapanunotan dagiti umili.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "nangdadael"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "iti plano"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti nasion"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "nangipukaw"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "kadagiti kapanunotan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T21:07:25.922096646Z",
+  "model": "glm-5.3"
+}

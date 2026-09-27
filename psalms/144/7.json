@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 144,
+  "translation": "Itedmo dagiti imam manipud iti nangato; paluasannak ken isalakannak manipud kadagiti adu a danum, manipud iti ima dagiti anak ti ganganaet.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Itedmo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dagiti imam"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "manipud iti nangato"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "paluasannak"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ken isalakannak"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "manipud kadagiti danum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak ti"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ganganaet"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:30.703364958Z",
+  "model": "glm-5.3"
+}

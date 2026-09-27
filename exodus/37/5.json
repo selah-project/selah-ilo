@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Kinonna nga iserrekna ⟨ti⟩ dagiti barbek iti siksikulan, iti Bangbangginging ti arko, mangitulong nga agbasaanganda ⟨ti⟩ ti arko.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "iserrekna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti barbek"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dagiti barbek"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "iti siksikulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "Bangbangginging"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti arko"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "mangitulong nga agbasaanganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti arko"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ti arko"
+    }
+  ],
+  "timestamp": "2026-09-26T04:42:53.658911548Z",
+  "model": "glm-5.3"
+}

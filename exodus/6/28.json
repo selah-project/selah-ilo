@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Idi ti aldaw a nagsao ni Yahweh kenni Moshe iti daga ti Mitsrayim,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Idi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a nagsao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:34:18.378048733Z",
+  "model": "glm-5.3"
+}

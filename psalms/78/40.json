@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Kaadu kadi ti panangilabanenda kenkuana iti liwad, ken panangipasakitanda kenkuana iti Yeshimon!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "kaadu kadi"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "panangilabanenda"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti liwad"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "panangipasakitanda"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "iti Yeshimon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:25.940655499Z",
+  "model": "glm-5.3"
+}

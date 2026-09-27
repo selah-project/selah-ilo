@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Ta isalakanmo ti kararwak manipud iti patay, ⟨את⟩ dagiti matak manipud iti luha, ⟨את⟩ dagiti sakaak manipud iti panagpukan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "isalakanmo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "manipud iti patay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti matak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "iti luha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sakaak"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "dagiti sakaak"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "manipud iti panagpukan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:06.888046879Z",
+  "model": "glm-5.3"
+}

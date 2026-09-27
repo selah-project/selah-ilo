@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket inpaanna dagiti mensahero kennu Ahab, ari ti Yisrael, ⟨iti⟩ ili.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "inpaanna"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "dagiti mensahero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "iti ili"
+    }
+  ],
+  "timestamp": "2026-09-26T13:06:41.712645348Z",
+  "model": "glm-5.3"
+}

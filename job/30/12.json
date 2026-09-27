@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Iti kannawan ti agtakder ti putot, ikkatanda dagiti sakak, ket ibayusda koniak dagiti dalan ti kadadaelda.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kannawan"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "ti putot"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ti agtakder"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "dagiti sakak"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ikkatanda"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "ket ibayusda koniak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "koniak"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "dagiti dalan"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "ti kadadaelda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:56:02.735618562Z",
+  "model": "glm-5.3"
+}

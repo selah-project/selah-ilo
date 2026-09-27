@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket idiay nangalaanna ⟨את⟩ dagiti nasantuan a banag ti amana ken dagiti nasantuan a banagna, iti balay ti Elohim — pirak, balitok, ken dagiti kasangkapan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ket idiay nangalaanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti nasantuan a banag ti amana"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "dagiti nasantuan a banag"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "ken dagiti nasantuan a banagna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pirak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ken balitok"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ken dagiti kasangkapan"
+    }
+  ],
+  "timestamp": "2026-09-26T23:49:54.649386558Z",
+  "model": "glm-5.3"
+}

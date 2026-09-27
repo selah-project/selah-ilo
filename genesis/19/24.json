@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ket ni Yahweh nagtudoanna iti Sedom ken iti Amorah ti asupre ken apuy, a manipud iti ⟨את⟩ ni Yahweh, manipud kadagiti langit.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "nagtudoanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "asupre"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ken apuy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iti ⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kadagiti langit"
+    }
+  ],
+  "timestamp": "2026-09-26T02:03:29.739337650Z",
+  "model": "glm-5.3"
+}

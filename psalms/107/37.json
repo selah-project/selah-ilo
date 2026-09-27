@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "ket inmulaanda dagiti talon, ket nangmulaanda kadagiti binoan, ket aramidda ti prutas ti apit.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "ket inmulaanda"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "dagiti talon"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "ket nangmulaanda"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "dagiti binoan"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ket aramidda"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ti prutas"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "ti apit"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:43.290996150Z",
+  "model": "glm-5.3"
+}

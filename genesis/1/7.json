@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken inaramid ni Elohim ⟨את⟩ ti rambak, ket isu ti nagbudduay iti nagbaetan ti danum a adda iti baba ti rambak ken ti danum a adda iti ngato ti rambak; ket napasamak ti kastoy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ken inaramid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rambak"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ti rambak"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ket isu ti nagbudduay"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ti rambak"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken iti nagbaetan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ti rambak"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ti kastoy"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:40.330224400Z",
+  "model": "glm-5.3"
+}

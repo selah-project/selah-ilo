@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Iti naipinta a bado maiyeg isuna iti ari; dagiti babbai a saan pay a naasawa, dagiti kaduana a sarunonna, maiyegda kenka.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "Iti naipinta a bado"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "maiyeg isuna"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "iti ari"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "dagiti babbai a saan pay a naasawa"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "a sarunonna"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "dagiti kaduana"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "maiyegda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T21:23:14.109224293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ket dinadaelna ⟨את⟩ dagiti naisanglad a bato ken kinuttongna ⟨את⟩ dagiti Ashera, ket inpunanna ⟨את⟩ ti dissoda iti tulang ti tao.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "dinadaelna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti naisanglad a bato"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "dagiti naisanglad a bato"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kinuttongna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "dagiti Ashera"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "inpunanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dissoda"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "ti dissoda"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T14:10:08.071955089Z",
+  "model": "glm-5.3"
+}

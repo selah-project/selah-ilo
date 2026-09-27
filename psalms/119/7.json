@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Daydayawenko nga addaan iti nalinteg a puso, iti panangadalak kadagiti ukom ti kinalintegmo.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Daydayawenko"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "iti nalinteg"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "iti panangadalak"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kadagiti ukom"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ti kinalintegmo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:34.774720611Z",
+  "model": "glm-5.3"
+}

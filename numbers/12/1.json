@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 12:1",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Nagsao ni Miryam ken ni Aharon maipapan kenni Moshe gapu iti babai a Kushita nga inalana, ta babai a Kushita ti inalana.",
+  "tokens": [
+    {
+      "surface": "ותדבר",
+      "gloss": "Nagsao"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ni Miryam"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken ni Aharon"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "maipapan kenni Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipapan"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "babai"
+    },
+    {
+      "surface": "הכשית",
+      "gloss": "a Kushita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babai"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "a Kushita"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ti inalana"
+    }
+  ],
+  "timestamp": "2026-09-26T06:32:30.968780910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 15:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Kinuna ⟨iti⟩ kenni Avram: Ammon a ammo a ti putotmo agbalin a gangannaet iti daga a saan a kukuada, ket pagserbianda ⟨את⟩ da, ket parigatenda ⟨את⟩ da, uppat a gasut a tawen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "kenni Avram"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ammon"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "גר",
+      "gloss": "gangannaet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ti putotmo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a kukuada"
+    },
+    {
+      "surface": "ועבדום",
+      "gloss": "ket pagserbianda"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "ket parigatenda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "da"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "uppat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T21:57:46.556565299Z",
+  "model": "glm-5.3"
+}

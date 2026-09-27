@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kalpasanna, dagitoy ti nagan dagiti anak a lalaki ni Yisrael nga immayda iti Mitsrayim; ni Yaakov, tunggal maysa a lalaki ken ti balayna, immayda ⟨את⟩ ⟨ni Yaakov⟩.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kalpasanna, dagitoy"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "nga immayda"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "iti Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa a lalaki"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ken ti balayna"
+    },
+    {
+      "surface": "באו",
+      "gloss": "immayda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:26:04.963206685Z",
+  "model": "glm-5.3"
+}

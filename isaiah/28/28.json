@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ti trigo a para iti tinapay ket madekdek, ta saan nga agnanayon a madulduldukan; uray bumtak ti gulong ti karisonna, dagiti kabalyona ket saan a madekdek.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ti trigo a para iti tinapay"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "ket madekdek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngaanayon"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "a madulduldukan"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "ti panagtaltalon"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "bumtak"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "ti gulong"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "ti karisonna"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "dagiti kabalyona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "a madekdek"
+    }
+  ],
+  "timestamp": "2026-09-26T15:10:09.475931087Z",
+  "model": "glm-5.3"
+}

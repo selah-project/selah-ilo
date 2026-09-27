@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 118,
+  "translation": "Daytoy ti aldaw a inaramid ni Yahweh; agsalamatayo ken agragsaktayo iti dayta.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a inaramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "agsalamatayo"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ken agragsaktayo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:18.064558089Z",
+  "model": "glm-5.3"
+}

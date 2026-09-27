@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Dagiti ay-ayatek ken dagiti gayyemko, iti sikko ti innatngak ti pannakasaketna, agtakderda; ken dagiti kaasidegak manipud iti adayo agtakderda.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "dagiti ay-ayatek"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ken dagiti gayyemko"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "iti sikko"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "ti innatngak ti pannakasaketna"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "agtakderda"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "ken dagiti kaasidegak"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "manipud iti adayo"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "agtakderda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:13:53.943577153Z",
+  "model": "glm-5.3"
+}

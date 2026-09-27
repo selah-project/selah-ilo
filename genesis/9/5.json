@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken sigurado, ⟨את⟩ ti dara yo maipapan kadagiti biag yo ti serrekanko; manipud iti ima ti amin a sibibiag a banag serrekanko, ken manipud iti ima ti tao, manipud iti ima ti tao a kabsatna, ti serrekanko ⟨את⟩ ti biag ti tao.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "ken sigurado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dara yo"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "ti dara yo"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "maipapan kadagiti biag yo"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ti serrekanko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "sibibiag a banag"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "serrekanko"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ken manipud iti ima"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kabsatna"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ti serrekanko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti biag ti tao"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "biag"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T01:47:48.485361964Z",
+  "model": "glm-5.3"
+}

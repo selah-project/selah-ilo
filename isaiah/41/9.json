@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Ti imasinak: tinaganak manipud kadagiti patingga ti daga, ken manipud kadagiti sulianna inawagannak, ket kinunak kenka: adipenek sika, pinilinak ken saan nako a dinismis.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "tinaganak"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "manipud kadagiti patingga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ומאציליה",
+      "gloss": "ken manipud kadagiti sulianna"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "inawagannak"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "adipenek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "pinilinak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "dinismis"
+    }
+  ],
+  "timestamp": "2026-09-26T15:24:47.859679259Z",
+  "model": "glm-5.3"
+}

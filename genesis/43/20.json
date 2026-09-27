@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "Kinunada: Pangngaasi mi, apo mi, nagbabaakton nga nagbaba kami idi umuna a gumatang iti makan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pangngaasi mi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apo mi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nagbabaakton"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "nagbaba kami"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "idi umuna"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "a gumatang"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "iti makan"
+    }
+  ],
+  "timestamp": "2026-09-26T03:05:37.114237507Z",
+  "model": "glm-5.3"
+}

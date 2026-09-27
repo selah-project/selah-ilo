@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Ken alaem ⟨ti⟩ dua a bato ti shoham, ket ipaammo wenno ipitaocham kadagiti dua ti nagan dagiti anak a lalaki ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ken alaem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua a bato ti shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "a bato"
+    },
+    {
+      "surface": "shoham placeholder",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-26T04:18:46.784942738Z",
+  "model": "glm-5.3"
+}

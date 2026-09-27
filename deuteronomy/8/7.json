@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ta ni Yahweh nga Elohim mo mangiya-yon kenka iti naimbag a daga, iti daga dagiti karayan ti danum, dagiti ubbog ken dagiti naadalem nga agparuar iti tanap ken iti bantay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "מביאך",
+      "gloss": "mangiya-yon kenka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "dagiti ubbog"
+    },
+    {
+      "surface": "ותהמת",
+      "gloss": "ken dagiti naadalem"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "nga agparuar"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "iti tanap"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "ken iti bantay"
+    }
+  ],
+  "timestamp": "2026-09-26T07:56:41.072349334Z",
+  "model": "glm-5.3"
+}

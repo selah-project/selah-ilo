@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ipinanda ⟨את⟩ ni Rivkah a kabsatda ken ⟨את⟩ ti mannursuonna ken ⟨את⟩ ti adipen ni Avraham ken ⟨את⟩ dagiti lalakina.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ipinanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Rivkah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "a kabsatda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti mannursuonna"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "mannursuonna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti adipen"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "adipen"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti lalakina"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "dagiti lalakina"
+    }
+  ],
+  "timestamp": "2026-09-26T02:19:58.656382533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Siak ni Yahweh, ti Elohimtayo; iti amin a daga dagiti ukomna.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a daga"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "dagiti ukomna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:00.191144011Z",
+  "model": "glm-5.3"
+}

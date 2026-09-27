@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket inikabilanda ⟨את⟩ ti baliskogna iti balay ni Ashtarot, ket ⟨ti⟩ bagi ni Shaul inikapetda iti pader ti Bet-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "inikabilanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baliskogna"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ti baliskogna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "ni Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti bagi ni Shaul"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "ti bagi ni Shaul"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "inikapetda"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "iti pader"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-Shan"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Bet-Shan"
+    }
+  ],
+  "timestamp": "2026-09-26T11:23:16.254565063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Koma ti agidaulo, maipapan ken Yedutun, maysa a salmo ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "koma ti agidaulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipapan ken"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a salmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T21:37:10.481197616Z",
+  "model": "glm-5.3"
+}

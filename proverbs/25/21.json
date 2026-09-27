@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "No adda alem ti kabusormo, pakanenam ⟨את⟩ iti tinapay; ken no adda aw-aw, painumam ⟨את⟩ iti danum.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "adda alem"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ti kabusormo"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "pakanenam"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "adda aw-aw"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "painumam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    }
+  ],
+  "timestamp": "2026-09-26T22:43:46.330931699Z",
+  "model": "glm-5.3"
+}

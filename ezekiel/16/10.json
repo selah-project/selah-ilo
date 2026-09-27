@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ken biniak iti naitarakiit a bado, ken insakaak kadagiti lalat ti tachash, ken binaklayak iti nasayaat a lino, ken binallotik iti seda.",
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "biniak"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "iti naitarakiit a bado"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "insakaak"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "lalat ti tachash"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "binaklayak"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "iti nasayaat a lino"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "binallotik"
+    },
+    {
+      "surface": "משי",
+      "gloss": "iti seda"
+    }
+  ],
+  "timestamp": "2026-09-26T18:23:39.814682859Z",
+  "model": "glm-5.3"
+}

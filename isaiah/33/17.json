@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ti ari iti pannakairuatna a makita dagiti matam, makitada ti daga dagiti adayo a disso.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "iti pannakairuatna"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "a makita"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dagiti matam"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "makitada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "dagiti adayo a disso"
+    }
+  ],
+  "timestamp": "2026-09-26T15:06:45.996328154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ket agrakrak ti Karayan kadagiti bakaakwet, ken mangiruarda ken sumrekda iti balaymo, iti kuarto ti pagkaturogmo, ken iti katurogmo, ken iti balay dagiti adipenmo, ken kadagiti tattaomo, ken kadagiti pagenmo, ken kadagiti pammuronam.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "agrakrak"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ti Karayan"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "kadagiti bakaakwet"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "mangiruarda"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "sumrekda"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "iti balaymo"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "iti kuarto"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ti pagkaturogmo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "katurogmo"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "ken iti balay"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dagiti adipenmo"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "ken kadagiti tattaomo"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "ken kadagiti pagenmo"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "ken kadagiti pammuronam"
+    }
+  ],
+  "timestamp": "2026-09-26T03:38:00.182462357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kinetket dagiti Pelishtim ni Shaul ken dagiti anakna, ket dinanda dagiti Pelishtim ⟨את⟩ ni Yonatan ken ⟨את⟩ ni Avinadav ken ⟨את⟩ ni Malki-Shua, dagiti anak ni Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Kinetket"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ken"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ket dinanda"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ni Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ni Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ni Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-26T23:37:54.166856984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 53,
+  "translation": "Kinuna ti nabal iti pusona: awan ti Elohim. Nadadaelda ken naginrada iti kadikesan; awan ti agaramid iti naimbag.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ti nabal"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "iti pusona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Nadadaelda"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "ken naginrada"
+    },
+    {
+      "surface": "עול",
+      "gloss": "iti kadikesan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti agaramid"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iti naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T21:29:26.995993300Z",
+  "model": "glm-5.3"
+}

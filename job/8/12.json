@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "(Bayat a berde pay, saan pay a maisagud, ket sakbay nga umalbung ti amin a dangla, agmara.)",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "bayat a"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "berde pay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan pay"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "maisagud"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ket sakbay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "dangla"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "agmara"
+    }
+  ],
+  "timestamp": "2026-09-26T22:49:52.538706006Z",
+  "model": "glm-5.3"
+}

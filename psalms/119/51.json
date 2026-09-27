@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Dagiti naang-angaw ket nagay-ayanda kaniak agingga a nakaro, ngem saanak a naglikaw ⟨iti⟩ torahmo.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Dagiti naang-angaw"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "nagay-ayanda kaniak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "a nakaro"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "iti torahmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "a naglikawak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:00.239628096Z",
+  "model": "glm-5.3"
+}

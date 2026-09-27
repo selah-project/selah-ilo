@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 117,
+  "translation": "Idaydayawyo ⟨את⟩ ni Yahweh, amin a dagiti umili; daydayawenyo isuna, amin dagiti umili.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Idaydayawyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "daydayawenyo isuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "dagiti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:56.915832580Z",
+  "model": "glm-5.3"
+}

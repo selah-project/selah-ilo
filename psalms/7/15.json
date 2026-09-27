@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Adtoy, agsagepsep iti kaiddaingan, ket nagbukel iti rigat, ket nagputot iti sao a saan a pudno.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Adtoy"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "agsagepsep"
+    },
+    {
+      "surface": "און",
+      "gloss": "iti kaiddaingan"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ket nagbukel"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "iti rigat"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "ket nagputot"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "iti sao a saan a pudno"
+    }
+  ],
+  "timestamp": "2026-09-26T20:43:07.072789455Z",
+  "model": "glm-5.3"
+}

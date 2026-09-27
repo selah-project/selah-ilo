@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket simmangpet ket ibagana kenni apona, a kunkuna: Kastoy ken kastoy ti nagsao ti ubing a babai a naggapu iti daga ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ket simmangpet"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ibagana"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "kenni apona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "kastoy"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ken kastoy"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "ti nagsao"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ti ubing a babai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "naggapu iti daga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T22:05:13.008455708Z",
+  "model": "glm-5.3"
+}

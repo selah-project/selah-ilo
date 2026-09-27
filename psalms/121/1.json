@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 121,
+  "translation": "Kanta para kadagiti panangato. Iyangatko dagiti matok kadagiti bantay — no sadinon umay ti tulongko?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "para kadagiti panangato"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Iyangatko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dagiti matok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "no sadinon"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ti tulongko"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:42.575434517Z",
+  "model": "glm-5.3"
+}

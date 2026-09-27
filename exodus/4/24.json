@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket napasamak iti dalan, iti pagturogan, a nakaammona ni Yahweh ⟨kenkuana⟩, ket kayatna a patayen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "iti pagturogan"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "nakaammona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ket kayatna"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "a patayen"
+    }
+  ],
+  "timestamp": "2026-09-26T03:28:14.375126304Z",
+  "model": "glm-5.3"
+}

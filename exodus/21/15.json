@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken ti mamdeppen iti amana wenno iti inana, mapatay a matay.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ti mamdeppen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iti amana"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "wenno iti inana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mapatay"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a matay"
+    }
+  ],
+  "timestamp": "2026-09-26T04:10:09.202705732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Agsublida ken nangiddanesda kenni El, ket ti Nasantuan ti Yisrael dinasanda.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Agsublida"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ken nangiddanesda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni El"
+    },
+    {
+      "surface": "ווקדוש",
+      "gloss": "ket ti Nasantuan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "dinasanda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:09.878519395Z",
+  "model": "glm-5.3"
+}

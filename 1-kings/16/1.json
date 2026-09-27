@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Napasamak ti sao ni Yahweh kenni Yehu, anak a lalaki ni Khanani, maibusor kenni Baasha, a kunana:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ni Khanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "maibusor kenni"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    }
+  ],
+  "timestamp": "2026-09-26T12:59:04.498071865Z",
+  "model": "glm-5.3"
+}

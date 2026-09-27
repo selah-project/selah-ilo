@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kinuna ni Moshe: Agsardengak nga umuna ta mangegak, agtallikuddak ta makitam ⟨את⟩ daytoy a nakaro a pannakakita — apay a saan a maibus ti sanka?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "agtallikuddak"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ta makitam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a nakaro a pannakakita"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "a pannakakita"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "a nakaro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "apay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "a maibus"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ti sanka"
+    }
+  ],
+  "timestamp": "2026-09-26T03:27:22.002696694Z",
+  "model": "glm-5.3"
+}

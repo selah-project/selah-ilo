@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket pinadasda ti El kadagiti pusoda, babaen ti panagsaludsod iti taraon para kadagiti kararua da.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "pinadasda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti El"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "kadagiti pusoda"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "ti panagsaludsod"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "iti taraon"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "para kadagiti kararua da"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:58.665668171Z",
+  "model": "glm-5.3"
+}

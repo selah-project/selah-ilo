@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 121,
+  "translation": "Ni Yahweh ti mangsalaknib ti panagruaram ken ti panagsublim, manipud ita nga aldaw agingga iti agnanayon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ti mangsalaknib"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ti panagruaram"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ken ti panagsublim"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "manipud ita nga aldaw"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:21.912894358Z",
+  "model": "glm-5.3"
+}

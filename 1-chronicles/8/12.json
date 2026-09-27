@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Dagiti anak ni Elpaal: Ever, Misham, ken Shamed — isu ti nagbangon ⟨iti⟩ ⟨את⟩ Ono ken ⟨iti⟩ ⟨את⟩ Lod ken dagiti annakna a babai ⟨a ili⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ni Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ken Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "ken Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ti nagbangon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ken dagiti annakna a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:27.324351719Z",
+  "model": "glm-5.3"
+}

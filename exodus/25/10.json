@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Aramidendak ti aron a kayo nga shitim: dua a kubo ken kagudua ti kaatiddogna, ken maysa a kubo ken kagudua ti kalawagna, ken maysa a kubo ken kagudua ti katayagna.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "aramidendak"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dua a kubo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ken kagudua"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kaatiddogna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ken maysa a kubo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ken kagudua"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "kalawagna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ken maysa a kubo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ken kagudua"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "katayagna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:15:32.732255137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 7:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "ket dagiti ikan nga adda iti karayan matmatayda, ket agbauyto ti karayan, ket marigatanto ti Mitsrayim numinuman iti danum a karayan.",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "ket dagiti ikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "iti karayan"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "matmatayda"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "ket agbauy"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "ונלאו",
+      "gloss": "ket marigatanto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "numinuman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iti"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "karayan"
+    }
+  ],
+  "timestamp": "2026-09-26T03:36:58.392538951Z",
+  "model": "glm-5.3"
+}

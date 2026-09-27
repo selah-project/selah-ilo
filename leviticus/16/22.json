@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket awidenna ti kalding iti ngatona ⟨את⟩ ti amin a basolda agingga iti daga a naisina, ken ibatina ⟨את⟩ ti kalding iti metallib.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "awidenna"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ti kalding"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngatona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "basolda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "naisina"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ibatina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kalding"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ti kalding"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti metallib"
+    }
+  ],
+  "timestamp": "2026-09-26T05:35:36.654102869Z",
+  "model": "glm-5.3"
+}

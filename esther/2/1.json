@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kalpasan kadagitoy a sao, idi nalpasen ti riebur ti ari a ni Ahashverosh, inlagipna ⟨את⟩ ni Vashti ken ⟨את⟩ ti aramidna ken ⟨את⟩ ti naikeddeng a maipapan kenkuana.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kadagitoy a sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "idi nalpasen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "riebur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "inlagipna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ni Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti aramidna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "aramidna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti naikeddeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "naikeddeng"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "maipapan kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:10:59.513837198Z",
+  "model": "glm-5.3"
+}

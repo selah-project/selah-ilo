@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Dagitoy ti anak ni Shem, kadagiti pamilia da, kadagiti pagsasao da, kadagiti daga da, kadagiti pagilian da.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kadagiti pamilia da"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "kadagiti pagsasao da"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "kadagiti daga da"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "kadagiti pagilian da"
+    }
+  ],
+  "timestamp": "2026-09-26T01:52:37.454466685Z",
+  "model": "glm-5.3"
+}

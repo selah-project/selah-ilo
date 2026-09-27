@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Kinuna ni Yahweh iti ikan, ket indura daytoy ⟨את⟩ ni Yonah iti namaga a daga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "iti ikan"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ket indura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ni Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ti namaga a daga"
+    }
+  ],
+  "timestamp": "2026-09-26T20:00:09.662353592Z",
+  "model": "glm-5.3"
+}

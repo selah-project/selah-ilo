@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken nagnaika iti dalan dagiti ari ti Yisrael, ken nangpaadarka ⟨את⟩ ti Yehudah ken ⟨את⟩ dagiti agnanaed iti Yerushalayim, a kas iti panagadar ti balay ni Akhahav, ket wen, ⟨את⟩ dagiti kabsatmo, balay ti amam, dagiti nasaysayaat ngem kenka, inpapataymo.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "nagnaika"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "nangpaadarka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti agnanaed iti Yerushalayim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "a kas iti panagadar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Akhahav"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket wen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kabsatmo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dagiti kabsatmo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ti amam"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "dagiti nasaysayaat"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ngem kenka"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "inpapataymo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:52:34.505558482Z",
+  "model": "glm-5.3"
+}

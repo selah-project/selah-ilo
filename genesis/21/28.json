@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Insagana ni Avraham ⟨את⟩ pito a babai a karnero ti pinagtalianan a bibieng, saggaysa a naisina.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "insagana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pito a babai a karnero"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "babai a karnero"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ti pinagtalianan a bibieng"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "saggaysa a naisina"
+    }
+  ],
+  "timestamp": "2026-09-26T02:09:18.078548323Z",
+  "model": "glm-5.3"
+}

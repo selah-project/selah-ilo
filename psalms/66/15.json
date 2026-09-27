@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "Dagiti natuded a sakripisio a natambukanna ipangatoku kenka, a kadua ti insenso dagiti karnero a lalaki; aramidenko dagiti baka a kadua dagiti kalding a lalaki. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "dagiti natuded a sakripisio"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "a natambukanna"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ipangatoku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua ti"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "dagiti karnero a lalaki"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aramidenko"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dagiti baka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a kadua"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "dagiti kalding a lalaki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:36:47.759244913Z",
+  "model": "glm-5.3"
+}

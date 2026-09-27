@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 111,
+  "translation": "Ti rugi ti kablaaw ket ti panagbuteng kenni Yahweh; nasiimat ti pakaammo kadagiti amin nga agaramid kadakuana; ti daydayawna agtakder nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ti rugi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ti kablaaw"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ti panagbuteng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "nasiimat a pakaammo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kadagiti amin"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "nga agaramid kadakuana"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ti daydayawna"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ngaanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:20.018382074Z",
+  "model": "glm-5.3"
+}

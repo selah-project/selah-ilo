@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti maaram iti puso awatenna dagiti bilin, ngem ti saan a maaram nga agraman iti ngiwat ket matnag.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ti maaram"
+    },
+    {
+      "surface": "לב",
+      "gloss": "iti puso"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "awatenna"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "dagiti bilin"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ngem ti saan a maaram"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ngaar-aramid iti ngiwat"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ket matnag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:35:46.612325074Z",
+  "model": "glm-5.3"
+}

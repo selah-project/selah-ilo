@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Ket ni Adonay Yahweh ti makatulong kaniak; gapu ta saanak a nabainan; isu nga insaadko ti rupak a kasla natibker a bato, ket ammok nga saan a mabainak.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "ket ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "makatulong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "nabainanak"
+    },
+    {
+      "surface": "על",
+      "gloss": "isu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "insaadko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupak"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "kasla natibker a bato"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "ket ammok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mabainak"
+    }
+  ],
+  "timestamp": "2026-09-26T15:48:48.975335969Z",
+  "model": "glm-5.3"
+}

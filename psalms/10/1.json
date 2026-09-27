@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Apay, Yahweh, agtakderka iti nakaro a punganayan? Lemmengka kadagiti panawen ti rigat?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "agtakderka"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "iti nakaro a punganayan"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "Lemmengka"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "kadagiti panawen"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ti rigat"
+    }
+  ],
+  "timestamp": "2026-09-26T20:53:01.809972447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "ket indadaelanna ni Yahweh ⟨את⟩ dagiti Kushita iti sanguanan ni Asa ken iti sanguanan ti Yehudah, ket nagtarayanda dagiti Kushita.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "indadaelanna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Kushita"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "dagiti Kushita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ni Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ken iti sanguanan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "nagtarayanda"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "dagiti Kushita"
+    }
+  ],
+  "timestamp": "2026-09-26T23:49:40.631703944Z",
+  "model": "glm-5.3"
+}

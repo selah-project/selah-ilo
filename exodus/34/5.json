@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ket napanidi baba ni Yahweh iti ulep, ket nagtakder a kaduaanna sadiay, ket inawaganna iti nagan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ket napanidi baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "iti ulep"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ket nagtakder"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a kaduaanna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket inawaganna"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:39.547412518Z",
+  "model": "glm-5.3"
+}

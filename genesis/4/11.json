@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Itan ket naallatiwka manipud iti daga, a nanglukat ⟨את⟩ ti ngiwatna a mangala ⟨את⟩ ti dara ti kabsatmo manipud iti imam.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "itan ket"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "naallatiw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "nanglukat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ngiwatna"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ngiwatna"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "mangala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dara ti kabsatmo"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dara"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ti kabsatmo"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "manipud iti imam"
+    }
+  ],
+  "timestamp": "2026-09-26T01:39:13.333632176Z",
+  "model": "glm-5.3"
+}

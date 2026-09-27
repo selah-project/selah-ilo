@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 146,
+  "translation": "Rumuar ti angesna, agsubli iti daga na; iti dayta nga aldaw, agdadaelda dagiti kapanunotanna.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "rumuar"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ti angesna"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agsubli"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "iti daga na"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti dayta nga aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iti dayta nga aldaw"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "agdadaelda"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "dagiti kapanunotanna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:21.246965530Z",
+  "model": "glm-5.3"
+}

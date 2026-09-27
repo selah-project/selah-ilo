@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 2:10",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ti bandera ti kampo ni Reuven adda iti abagatan, kadagiti buyotda; ket ti mangulo kadagiti anak ni Reuven ⟨ket⟩ Elitsur, anak ni Shedeur.",
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "Ti bandera"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ti kampo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuven"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "adda iti abagatan"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "kadagiti buyotda"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ket ti mangulo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ni Shedeur"
+    }
+  ],
+  "timestamp": "2026-09-26T06:05:43.020293141Z",
+  "model": "glm-5.3"
+}

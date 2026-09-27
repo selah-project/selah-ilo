@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ni Khur nagputotanna ⟨את⟩ ni Uri, ken ni Uri nagputotanna ⟨את⟩ ni Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ken ni Khur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputotanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ni Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ken ni Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputotanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ni Betsalel"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:33.127929401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 10:10",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket ti langada, maysa a porma ⟨iti⟩ uppatda, kas iti agbalin a ti gurayan adda iti uneg ⟨iti⟩ gurayan.",
+  "tokens": [
+    {
+      "surface": "ומראיהם",
+      "gloss": "ket ti langada"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "maysa a porma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "iti uppatda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "ti gurayan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "adda iti uneg"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "ti gurayan"
+    }
+  ],
+  "timestamp": "2026-09-26T18:13:27.887684763Z",
+  "model": "glm-5.3"
+}

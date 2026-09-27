@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Uray no ti init saanna a nakita ken saanna nga ammo; ad-adda ti kappia daytoy ngem dayta.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "uray no"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ti init"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a nakita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nga ammo"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ngem dayta"
+    }
+  ],
+  "timestamp": "2026-09-27T00:04:03.892014337Z",
+  "model": "glm-5.3"
+}

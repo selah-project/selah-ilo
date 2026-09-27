@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Ta agtakder ⟨isuna⟩ iti kanawan ti pobre, nga isalakanna ti kararuana iti ukom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "iti kanawan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ti pobre"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "nga isalakanna"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ti kararuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:14.070976692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Dengngegkayo ita ti ⟨את⟩ nga imbagana a kinuna ni Yahweh: Agtakderka, agsuppiatka ⟨את⟩ kadagiti bantay, ket dengngegendagiti turod ti timekmo.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengngegkayo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng imbagana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Agtakderka"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "agsuppiatka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti bantay"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kadagiti bantay"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "ket dengngegenda"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "dagiti turod"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ti timekmo"
+    }
+  ],
+  "timestamp": "2026-09-26T20:14:30.914302272Z",
+  "model": "glm-5.3"
+}

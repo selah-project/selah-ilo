@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Idaydayawyo ni Yah, agsalamatkayo kenni Yahweh, ta naimbag ⟨isuna⟩, ta agnanayon ti hesedna.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Idaydayawyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "agsalamatkayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:18.131851775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket inurnong ni David ⟨את⟩ ti amin ti umili, ket nagna idiay Rabbah, ken nakilablaban iti daytoy ket inalana daytoy.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "inurnong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin ti umili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nagna"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "idiay Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "nakilablaban"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "inalana daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T11:44:45.400950404Z",
+  "model": "glm-5.3"
+}

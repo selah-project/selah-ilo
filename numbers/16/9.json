@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 16:9",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Adda bassit koma kadakayo a pinagsina ni Elohim ti Yisrael ⟨את⟩ dakayo iti gimong ti Yisrael, a mangipaasideg ⟨את⟩ dakayo kakuana, a mangserbi ⟨את⟩ iti panagserbi ti Mishkan ni Yahweh, ken agtakder iti sangoan ti gimong a mangserbi kadakuada?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "Adda bassit koma"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "pinagsina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo",
+      "marks": "iti gimong ti Yisrael"
+    },
+    {
+      "surface": "מעדת",
+      "gloss": "iti gimong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "a mangipaasideg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo",
+      "marks": "kakuana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kakuana"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "a mangserbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti panagserbi ti Mishkan ni Yahweh"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "iti panagserbi"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולעמד",
+      "gloss": "ken agtakder"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "לשרתם",
+      "gloss": "a mangserbi kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T06:43:27.013721204Z",
+  "model": "glm-5.3"
+}

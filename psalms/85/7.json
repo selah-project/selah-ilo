@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 85,
+  "translation": "Saan kadi a agsublika ken ipagbiagmo kamin, ken dagiti umilim agragsakda kenka?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ipagbiagmo kamin"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ken dagiti umilim"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "agragsakda"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:18:27.464686855Z",
+  "model": "glm-5.3"
+}

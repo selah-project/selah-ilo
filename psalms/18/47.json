@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Sibibiag ni Yahweh, ken naindaydayaw ti Bato ti panagsalakanko, ken nangato ti Eloahko ti panagsalakanko.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Sibibiag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ken naindaydayaw"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ti Bato"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "ken nangato"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "ti Eloahko"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ti panagsalakanko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:55:37.392794298Z",
+  "model": "glm-5.3"
+}

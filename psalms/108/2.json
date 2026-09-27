@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 108,
+  "translation": "Naisagana ti pusok, Elohim; agkantak, ket agdaydayawak, uray ti daydayawko.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Naisagana"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "agkantak"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ket agdaydayawak"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uray"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ti daydayawko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:40.880894053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Kinuna kennuana ni Elisha: Sumka, ibagam: Saan a mabiagka a agbiag; ngem inpakita nak ni Yahweh a matayto a matay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sumka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "a mabiagka"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "a agbiag"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ngem inpakita nak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a ta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "matayto"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "a matay"
+    }
+  ],
+  "timestamp": "2026-09-26T13:38:17.668574132Z",
+  "model": "glm-5.3"
+}

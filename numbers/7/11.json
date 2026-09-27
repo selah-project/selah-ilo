@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kinuna ni Yahweh kenni Moshe: maysa a pangulo iti maysa nga aldaw, maysa a pangulo iti maysa nga aldaw, ipakabitda ti ⟨את⟩ datonda para iti panagkonsekrar iti altar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "maysa a pangulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "iti maysa nga aldaw"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "maysa a pangulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "iti maysa nga aldaw"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ipakabitda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "datonda"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "datonda"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "para iti panagkonsekrar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "iti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T06:12:55.266683595Z",
+  "model": "glm-5.3"
+}

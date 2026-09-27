@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ken ti amin a maikasangapulo iti baka ken iti karnero ken kalding — amin a lumabas iti baba ti tungkod — ti maikasangapulo agbalin a nasantuan iti Yahweh.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ken ti amin"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "maikasangapulo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "iti baka"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ken iti karnero ken kalding"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ti tungkod"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ti maikasangapulo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "iti Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T06:02:37.755538620Z",
+  "model": "glm-5.3"
+}

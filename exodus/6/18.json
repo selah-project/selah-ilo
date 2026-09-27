@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Dagiti anak ni Kehat: Amram ken Yitshar ken Hevron ken Uzziel; ket ti tawen ti biag ni Kehat ket tallo ken tallopulo ken sangagasut a tawen.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "ken Yitshar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ken Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ken Uzziel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ket ti tawen"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ken tallopulo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ken sangagasut"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T03:32:10.515635918Z",
+  "model": "glm-5.3"
+}

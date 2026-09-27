@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken binagada kenni Mordekhai ⟨את⟩ dagiti sao ni Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "binagada"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kenni Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sao ni Ester"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    }
+  ],
+  "timestamp": "2026-09-26T23:12:46.732360890Z",
+  "model": "glm-5.3"
+}

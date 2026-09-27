@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket nagturongda a bumaba amin nga Yisrael kadagiti Pelishtio, a mangilapis ti tunggal maysa ⟨את⟩ ti pangsagana, ken ⟨את⟩ ti asadona, ken ⟨את⟩ ti palakolna, ken ⟨את⟩ ti pangsagana.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "nagturongda a bumaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ngа Yisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "kadagiti Pelishtio"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "a mangilapis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal maysa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pangsagana"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "ti pangsagana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti asadona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ti asadona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti palakolna"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "ti palakolna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pangsagana"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "ti pangsagana"
+    }
+  ],
+  "timestamp": "2026-09-26T10:42:49.075989769Z",
+  "model": "glm-5.3"
+}

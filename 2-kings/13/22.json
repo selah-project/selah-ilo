@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket ni Haza-el, ari ti Aram, pinagrigatanna ⟨את⟩ ti Yisrael amin kadagiti aldaw ni Yehoahaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "ni Haza-el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "pinagrigatanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kadagiti aldaw"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ni Yehoahaz"
+    }
+  ],
+  "timestamp": "2026-09-26T13:45:19.372944396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Agsarita kadagiti tengnged ti tattao, ket agsaludsod ti tunggal lalaki manipud ⟨את⟩ kaduana ket ti babai manipud ⟨את⟩ kaduana a babai, kadagiti kasangkapan a pirak ken kadagiti kasangkapan a balitok.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "agsarita"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ita"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kadagiti tengnged"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ket agsaludsodda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti tunggal lalaki"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ⟨את⟩",
+      "marks": "kaduana"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ket ti babai"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ⟨את⟩",
+      "marks": "kaduana a babai"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "kaduana a babai"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kadagiti kasangkapan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "a pirak"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ken kadagiti kasangkapan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "a balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T03:45:15.606543487Z",
+  "model": "glm-5.3"
+}

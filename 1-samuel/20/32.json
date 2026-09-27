@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Nagsungbat ni Yehonatan ⟨את⟩ ni Shaul amina, ket kinunana kakuana: Apay a patayen? Ania ti inaramidna?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Nagsungbat"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shaul amina"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "amina"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kakuana"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Apay"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a patayen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ti inaramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T11:03:33.941439966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Ken ⟨את⟩ ti kopiko — ti kopi a pirak — ikabilmo iti ngiwat ti sako ti kaunaan, ken ⟨את⟩ ti pirak ti binili na; ket inaramid na kas iti sao ni Yosef a sinao na.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kopiko"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "ti kopiko"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "ti kopi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "a pirak"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ikabilmo"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "iti ngiwat"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "ti sako"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ti kaunaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pirak ti binili na"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ti binili na"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramid na"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kas iti sao"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinao na"
+    }
+  ],
+  "timestamp": "2026-09-26T03:10:40.050551016Z",
+  "model": "glm-5.3"
+}

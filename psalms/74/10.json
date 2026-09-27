@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Agingga no kaano, Elohim, uttotenna ti kabusor? Leddaganna ti kabusor ti naganmo iti agnanayon?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "uttotenna"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ti kabusor"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "leddaganna"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iti agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T21:49:21.139525792Z",
+  "model": "glm-5.3"
+}

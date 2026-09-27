@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket ita, aramidenna ni Yahweh kadakayo ⟨ti⟩ hesed ken ⟨ti⟩ kinapudno, ket siak met aramidenko ⟨את⟩ kadakayo daytoy a naimbag, ta inaramidyo daytoy a sao.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ket ita"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ken kinapudno"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ket met"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aramidenko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "kadakayo"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ti naimbag"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "inaramidyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:05:19.504369028Z",
+  "model": "glm-5.3"
+}

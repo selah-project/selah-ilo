@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 38:15",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ken iti maikadua a paset, iti daytoy ken iti dayta a bangir ti ruaran ti korte, dagiti kurtina ket sangapulo ket lima nga ama; dagiti posteda ket tallo, ken dagiti batayanda ket tallo.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "ken iti paset"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "maikadua"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iti daytoy a bangir"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ken iti dayta a bangir"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ti ruaran"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ti korte"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "dagiti kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "dagiti posteda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ken dagiti batayanda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:43:30.264596834Z",
+  "model": "glm-5.3"
+}

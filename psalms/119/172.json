@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Agkanta koma ti dilaek iti imbagam, ta amin a bilinmo ket kinalinteg.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "agkanta koma"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ti dilaek"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "iti imbagam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "a bilinmo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kinalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:31.299675467Z",
+  "model": "glm-5.3"
+}

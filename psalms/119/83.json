@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Ta nagbalinak a kas maysa a sako iti aso; dagiti bilinmo saan ko a linipat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nagbalinak"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "a kas maysa a sako"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "iti aso"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dagiti bilinmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ko a linipat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:32.812877365Z",
+  "model": "glm-5.3"
+}

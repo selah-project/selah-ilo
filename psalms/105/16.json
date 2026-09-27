@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Inawaganna ti panagbisin iti daga; amin a baston ti tinapay dinadaelna.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inawaganna"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ti panagbisin"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "baston"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "dinadaelna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:21.632829201Z",
+  "model": "glm-5.3"
+}

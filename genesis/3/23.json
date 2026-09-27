@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Inwaras ni Yahweh Elohim ti tao manipud iti Gadan ti Eden tapno trabahuenna ⟨את⟩ ti daga a nakaiwanananna manipud idiay.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "inwaras"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "manipud iti Gadan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ti Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "tapno trabahuenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nakaiwanananna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "manipud idiay"
+    }
+  ],
+  "timestamp": "2026-09-26T01:43:22.768587208Z",
+  "model": "glm-5.3"
+}

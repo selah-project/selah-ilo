@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ti sao ni Avner ket adda idi kadagiti lakay ti Yisrael, a kumuna: Idi kalman ken idi napalabas, agbirbirukkayo ⟨את⟩ kenni David nga ari kadakayo.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "Ti sao"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ni Avner"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ket adda idi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "lakay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kumuna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Idi"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "kalman"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ken idi"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "napalabas"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "agbiagkayo"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "a agbirbiruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T11:29:31.488648482Z",
+  "model": "glm-5.3"
+}

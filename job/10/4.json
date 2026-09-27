@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Adda kadi ⟨ti⟩ mata ti lasag kennika? No kas ti pannakakita ti maysa a natayen a tao, kitaem kadi?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ti lasag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kennika"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kas ti pannakakita"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ti maysa a natayen a tao"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kitaem kadi"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:08.680191583Z",
+  "model": "glm-5.3"
+}

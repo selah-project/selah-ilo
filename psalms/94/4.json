@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "Agbukaelda, agsaoenda ti kinapatacong; amin dagiti agobra ti dakes ket agpatacongda.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "agbukaelda"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "agsaoenda"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ti kinapatacong"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "agpatacongda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dagiti agobra"
+    },
+    {
+      "surface": "און",
+      "gloss": "ti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:54.843310239Z",
+  "model": "glm-5.3"
+}

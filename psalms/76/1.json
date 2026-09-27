@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 76,
+  "translation": "Kadagiti ngenget — maysa a mizmor kenni Asaph — maysa a kanta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "iti mannangida"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "iti ngenget"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kenni Asaph"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    }
+  ],
+  "timestamp": "2026-09-26T21:49:40.179928330Z",
+  "model": "glm-5.3"
+}

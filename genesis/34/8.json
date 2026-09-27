@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Kinunana ⟨את⟩ kadakuada, a kuna: Ni Shekem, anakko, ket kayatna unay ti kararuana ⟨iti⟩ anakyo a babai; itedyo man ⟨את⟩ kennuaban a kas asawana.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ni Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ni Shekem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakko"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "kayatna unay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ti kararuana"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "iti anakyo a babai"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "man"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iti anak a babai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kennuaban"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a kas asawana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:49:56.468651371Z",
+  "model": "glm-5.3"
+}

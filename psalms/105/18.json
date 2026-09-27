@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Pinigsada dagiti sakana iti kadena; ti landok simrek iti kararuana.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "pinigsada"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "iti kadena"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "dagiti sakana"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ti landok"
+    },
+    {
+      "surface": "באה",
+      "gloss": "simrek iti"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kararuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:23.756579542Z",
+  "model": "glm-5.3"
+}

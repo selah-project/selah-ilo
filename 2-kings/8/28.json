@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 8:28",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ket immay isuna ⟨את⟩ kadua ni Yoram nga anak ni Ahab iti gubat kennu HazaEl nga ari ti Aram, idiay Ramot ti Gilad; ket tinaktakda dagiti Arameo ⟨את⟩ ni Yoram.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ket immay isuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yoram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "kadua ni Yoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "HazaEl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ti Aram"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "idiay Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ti Gilad"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ket tinaktakda"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "dagiti Arameo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yoram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ni Yoram"
+    }
+  ],
+  "timestamp": "2026-09-26T13:38:36.374026738Z",
+  "model": "glm-5.3"
+}

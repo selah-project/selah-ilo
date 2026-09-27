@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ti lalaki ket nangammmo ⟨את⟩ kenni Chavvah, ti asawana, ket timmaipos isuna ket nanganak ⟨את⟩ kenni Kayin, ket kinunana: Nagpartak iti maysa a lalaki ⟨את⟩ a kadua ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Ti lalaki"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nangammmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Chavvah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawana"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "timmaipos"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nanganak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Kayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Nagpartak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ a kadua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:14.903499283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti nadagaen, wenno maspedped, wenno maisina, wenno mapukpuk — saan yu a mangiddanon kenni Yahweh, ket iti daga yu saan yu a aramiden daytoy.",
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "Ti nadagaen"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "wenno maspedped"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "wenno maisina"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "wenno mapukpuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "yu mangiddanon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "ket iti daga yu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yu aramiden daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T05:43:25.697023553Z",
+  "model": "glm-5.3"
+}

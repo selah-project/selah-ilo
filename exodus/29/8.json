@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ken ⟨את⟩ dagiti anakna ipakaasarmo, ken ipalbusmo ida kadagiti kuton.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anakna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ipakaasarmo"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "ken ipalbusmo ida"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kadagiti kuton"
+    }
+  ],
+  "timestamp": "2026-09-26T04:24:14.877578626Z",
+  "model": "glm-5.3"
+}

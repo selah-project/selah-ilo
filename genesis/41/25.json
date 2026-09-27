@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Kinuna ni Yoseph kenni Paro: Ti liday ni Paro ket maysa ⟨isu⟩; ⟨את⟩ ti aramiden ti Elohim, imbagana kenni Paro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseph"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "liday"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramiden ti Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aramiden"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kenni Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T02:57:27.067626400Z",
+  "model": "glm-5.3"
+}

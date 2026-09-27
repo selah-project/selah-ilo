@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Nakita ni Yosef ⟨את⟩ dagiti kabsatna ket kinammuanna, ngem nagparang a sabsabali kaniada ken nagsao ⟨את⟩ kadakuada a nakaro, ket kinunana kaniada: Taga-ano kayo nga immay? Ket kinunada: Manipud iti daga ti Kenaan, a manggatang iti kanen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kabsatna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dagiti kabsatna"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "kinammuanna"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "nagparang a sabsabali"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "a nakaro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "taga-ano"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "nga immay"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "a manggatang"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "iti kanen"
+    }
+  ],
+  "timestamp": "2026-09-26T03:10:59.926515174Z",
+  "model": "glm-5.3"
+}

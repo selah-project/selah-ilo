@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket salaknibenda dagiti anak ni Yisrael ⟨את⟩ ti Shabbat, tapno aramiden ⟨את⟩ ti Shabbat kadagiti kaputotanda, a tulag nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ket salaknibenda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ti Shabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tapno aramiden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ti Shabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kadagiti kaputotanda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "a tulag"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngananayon"
+    }
+  ],
+  "timestamp": "2026-09-26T04:28:24.692872926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 43,
+  "translation": "ket inbringannaak iti ruangan, ti ruangan a nakatengnga iti dalan ti daya",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "inbringannaak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ti ruangan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "nakatengnga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ti daya"
+    }
+  ],
+  "timestamp": "2026-09-26T19:15:47.881975890Z",
+  "model": "glm-5.3"
+}

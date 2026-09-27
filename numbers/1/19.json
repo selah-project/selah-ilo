@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kas ti imbilin ni Yahweh ⟨את⟩ kenni Moshe, ket pinibilangna ida iti liwaliwan ti Sinai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "imbilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "pinibilangna ida"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti liwaliwan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ti Sinai"
+    }
+  ],
+  "timestamp": "2026-09-26T06:04:08.322856043Z",
+  "model": "glm-5.3"
+}

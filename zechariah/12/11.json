@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Iti dayta nga aldaw, agdakkel ti panagsangit iti Yerushalayim, a kas ti panagsangit iti Hadad-Rimon idiay tanap ti Megiddon.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti nga aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "agdakkel"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "ti panagsangit"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iti Yerushalayim"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "a kas ti panagsangit"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "idiay tanap"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "ti Megiddon"
+    }
+  ],
+  "timestamp": "2026-09-26T20:34:15.132069218Z",
+  "model": "glm-5.3"
+}

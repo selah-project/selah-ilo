@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ken ni Bela anak ni Azaz, anak ni Shema, anak ni Yowel; isu ti agnaed iti Aroer agingga iti Nebo ken Baal Meon",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "Ken ni Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "ni Azaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ni Shema"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ni Yowel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ti agnaed"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "iti Aroer"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ken Baal"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meon"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:22.580189158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ken daytoy ti tanda kaniam, a manipud ⟨את⟩ ni Yahweh, a ni Yahweh ti mangaramid ⟨את⟩ daytoy a sao a nagsaona.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ken daytoy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti tanda kaniam"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ti tanda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "a manipud ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ti mangaramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a sao"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "daytoy a sao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsaona"
+    }
+  ],
+  "timestamp": "2026-09-26T15:17:58.976138184Z",
+  "model": "glm-5.3"
+}

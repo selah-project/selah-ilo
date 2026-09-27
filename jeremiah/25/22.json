@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "ken ⟨את⟩ amin dagiti ari ti Tsor ken ⟨את⟩ amin dagiti ari ti Tsidon ken ⟨את⟩ dagiti ari ti isla a naisanglad iti ballasiw ti baybay",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti ari ti Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ti Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti ari ti Tsidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ti Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ari ti isla"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "האי",
+      "gloss": "ti isla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "nisanglad iti ballasiw"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    }
+  ],
+  "timestamp": "2026-09-26T17:06:05.505242662Z",
+  "model": "glm-5.3"
+}

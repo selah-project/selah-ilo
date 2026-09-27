@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Mamati ti nasirib ket mangnayon iti leccion, ket ti makaammonto ket agkuana kadagiti tarabay.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ti nasirib"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ket mangnayon"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "iti leccion"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ket ti makaaammo"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "kadagiti tarabay"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "agkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:43.947100467Z",
+  "model": "glm-5.3"
+}

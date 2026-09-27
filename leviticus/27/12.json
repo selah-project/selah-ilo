@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ket ibalina ti padi ⟨את⟩ dayta — no nasayaat no dakes; kas iti balim, a padi, kasta ti agbalin.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "Ket ibalina"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "kas iti balim"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a padi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ti agbalin"
+    }
+  ],
+  "timestamp": "2026-09-26T05:58:36.025163953Z",
+  "model": "glm-5.3"
+}

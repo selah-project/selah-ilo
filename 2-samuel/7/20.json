@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ania ti mainayon pay ni David a makaipatarus kenka? Ta sika, ammoam ⟨את⟩ ti adipenmo, Adonay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ken ania"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ti mainayon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "a makaipatarus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ta sika"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ammoam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti adipenmo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ti adipenmo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T11:35:28.396317632Z",
+  "model": "glm-5.3"
+}

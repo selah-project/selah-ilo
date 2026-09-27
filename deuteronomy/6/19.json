@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "iti panagiduron ⟨את⟩ kadagiti aawayo amin manipud iti sangu yo, a kas nagsao ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "iti panagiduron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti aawayo amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kadagiti aawayo"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "manipud iti sangu yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T07:46:16.154647982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezekiel 16:58",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "⟨את⟩ Ti nakaro a dakesmo ken ⟨את⟩ dagiti nakariing a dakesmo — sika ti nangawat kadakuada, kinuna ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nakaro a dakesmo"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "ti nakaro a dakesmo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti nakariing a dakesmo"
+    },
+    {
+      "surface": "תועבותיך",
+      "gloss": "dagiti nakariing a dakesmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "sika"
+    },
+    {
+      "surface": "נשאתים",
+      "gloss": "ti nangawat kadakuada"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T18:26:34.258584442Z",
+  "model": "glm-5.3"
+}

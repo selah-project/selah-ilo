@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 142,
+  "translation": "Inggagaraak kaniak, Yahweh; kinunak: sika ti pagtalinaedanko, ti pasetko iti daga dagiti sibibiag.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "inggagaraak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "pagtalinaedanko"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "pasetko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dagiti sibibiag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:58.951081465Z",
+  "model": "glm-5.3"
+}

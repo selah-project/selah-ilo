@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 3:18",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket napasamak, no nakompletuanna nga iparangarang ⟨את⟩ ti minchah, pinanawanna ⟨את⟩ dagiti tao, dagiti agikik itt kadagiti minchah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nakompletuanna"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "nga iparangarang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti minchah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ti minchah"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "pinanawanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "dagiti agikik itt"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kadagiti minchah"
+    }
+  ],
+  "timestamp": "2026-09-26T09:40:08.622652784Z",
+  "model": "glm-5.3"
+}

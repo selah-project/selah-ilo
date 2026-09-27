@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Ket kinuna: \"Kitaem a napanakon nga agtawen, saan koma a pakaaamuan ti aldaw ti ipapatayak.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kitaem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "a"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "napanakon nga agtawen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "pakaaamuan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ti ipapatayak"
+    }
+  ],
+  "timestamp": "2026-09-26T02:26:02.647000528Z",
+  "model": "glm-5.3"
+}

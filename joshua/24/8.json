@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Inayatak ⟨אתכם⟩ iti daga dagiti Amorreo, dagiti agnanaed iti ballasiw ti Yarden, ket nakilabanda ⟨את⟩ kadakayo, ket initedko ida iti imamayo, ket intawidyo ⟨את⟩ dagida, ket inpukawko ida manipud iti rupamayo.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "inayatak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "dagiti Amorreo"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "dagiti agnanaed"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "iti ballasiw"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "nakilabanda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "initedko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩ ida"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "iti imamayo"
+    },
+    {
+      "surface": "ויתירשו",
+      "gloss": "intawidyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagida"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dagida"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "inpukawko ida"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "manipud iti rupamayo"
+    }
+  ],
+  "timestamp": "2026-09-26T09:33:25.148230899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Makan dagiti sanga ti bao-na; makan dagiti sanga-na ti panganay ti matay.",
+  "tokens": [
+    {
+      "surface": "יאכל",
+      "gloss": "Makan"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "dagiti sanga"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "bao-na"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dagiti sanga-na"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ti matay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:52:26.296674506Z",
+  "model": "glm-5.3"
+}

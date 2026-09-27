@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Inawagan ni Moshe amin dagiti lakay ni Yisrael ken imbagana kaniada: Alaenyo kadagiti karnero para kadagiti pamilianyo ket ipatayyo ti Pesach.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Inawagan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin dagiti"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "lakay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ken imbagana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "Alaenyo"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "alaenyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "para kadagiti pamilianyo"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "ipatayyo"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ti Pesach"
+    }
+  ],
+  "timestamp": "2026-09-26T03:46:45.020847719Z",
+  "model": "glm-5.3"
+}

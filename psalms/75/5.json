@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 75,
+  "translation": "Kinunak kadagiti budoy: saan kayo nga agbuddoy; ken kadagiti dakes: saan kayo nga ipangato ⟨ti⟩ sara.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Kinunak"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "kadagiti budoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "kayo nga agbuddoy"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "ken kadagiti dakes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan kayo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nga ipangato"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ti sara"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:51.713883827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ti timek kinuna: Awagam. Ket kinunana: Ania ti awagak? Ti amin a lasag ket dikuat, ken ti amin a hesedna kas iti bunga ti talon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "timek"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "awagam"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "awagak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "lasag"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "dikuat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedna"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "kas iti bunga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ti talon"
+    }
+  ],
+  "timestamp": "2026-09-26T15:24:57.821586454Z",
+  "model": "glm-5.3"
+}

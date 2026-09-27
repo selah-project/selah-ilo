@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Iti dagiti aldaw a sadiay ken iti tiempo a sadiay, ti deklarasion ni Yahweh: biruken ti basol ti Yisrael ken awanen; ken ⟨את⟩ dagiti basol ni Yehudah ket saan a mabirukan; ta ipatawardak kadagiti ibbatik.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "iti dagiti aldaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "a sadiay"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ken iti tiempo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "a sadiay"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ti deklarasion"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "biruken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basol"
+    },
+    {
+      "surface": "עון",
+      "gloss": "basol"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ken awanen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti basol"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "basol"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "mabirukan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "ipatawardak"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "ibbatik"
+    }
+  ],
+  "timestamp": "2026-09-26T17:51:36.466856083Z",
+  "model": "glm-5.3"
+}

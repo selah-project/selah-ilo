@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ken inaramidda dagiti kampana iti balitok a nalinteg, ken inkabilda ⟨את⟩ dagiti kampana iti tengnga dagiti granada, iti rabaw ti saap ti kapa, agpalikmut, iti tengnga dagiti granada.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ken inaramidda"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "dagiti kampana"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "a nalinteg"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ken inkabilda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kampana"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "dagiti kampana"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "ti granada"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "ti saap"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ti kapa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "agpalikmut"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "ti granada"
+    }
+  ],
+  "timestamp": "2026-09-26T04:51:02.278765293Z",
+  "model": "glm-5.3"
+}

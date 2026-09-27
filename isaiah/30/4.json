@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ta dagiti daulona adda idi iti Tsoan, ket dagiti mensaerona immayda nga umabot iti Khanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adda idi"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "iti Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "dagiti daulona"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "ket dagiti mensaerona"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "iti Khanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "immayda nga umabot"
+    }
+  ],
+  "timestamp": "2026-09-26T15:10:06.527831611Z",
+  "model": "glm-5.3"
+}

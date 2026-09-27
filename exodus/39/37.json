@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Ti menora a nakapudno, ⟨את⟩ dagiti lamparana, lampara ti panangisaad, ken ⟨את⟩ amin a ramramitna, ken ⟨את⟩ ti lana ti silaw,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "nakapudno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti lamparana"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lamparana"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "lampara"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "panangisaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a ramramitna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ramramitna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "silaw"
+    }
+  ],
+  "timestamp": "2026-09-26T04:50:29.712816885Z",
+  "model": "glm-5.3"
+}

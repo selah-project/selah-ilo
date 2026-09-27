@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket iparuatna manipud iti daytoy ti datonna, a daton nga apoy kenni Yahweh: ⟨את⟩ ti taba nga abbonganna ⟨ti⟩ bagis, ken ⟨את⟩ amin a taba a ⟨adda⟩ iti rabaw ti bagis.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "iparuatna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manipud iti daytoy"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ti datonna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "a daton nga apoy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ti taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nga abbonganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bagis"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ti bagis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a taba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ti bagis"
+    }
+  ],
+  "timestamp": "2026-09-26T04:53:43.563679210Z",
+  "model": "glm-5.3"
+}

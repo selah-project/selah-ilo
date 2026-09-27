@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 15:32",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Idi maikadua a tawen ni Pekakh anak a lalaki ni Remalyahu ari ti Yisrael, nagturay ni Yotam anak a lalaki ni Uziyahu ari ti Yehudah.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "idi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "maikadua a tawen"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "ni Pekakh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "ni Remalyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nagturay"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ni Yotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "ni Uziyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T13:50:25.153619861Z",
+  "model": "glm-5.3"
+}

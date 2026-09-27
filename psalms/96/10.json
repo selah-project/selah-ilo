@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 96,
+  "translation": "Ibagayo kadagiti pagilian: agtigturay ni Yahweh; natakder pay ti lubong, saan pulos a matnag; ukuenna dagiti umili iti kinalinteg.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ibagayo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti pagilian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agtigturay"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pay"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "natakder"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ti lubong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "saan pulos"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "a matnag"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ukuenna"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "iti kinalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:56.995983688Z",
+  "model": "glm-5.3"
+}

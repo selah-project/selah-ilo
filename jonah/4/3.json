@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ita, Yahweh, alam kadi ⟨את⟩ ti kararwak manipud kaniak, ta nasaysayaat ti pannatayko ngem ti panagbiagko",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "alam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kararwak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "manipud kaniak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nasaysayaat"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ti pannatayko"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "ngem ti panagbiagko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:02:43.712882986Z",
+  "model": "glm-5.3"
+}

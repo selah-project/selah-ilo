@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "ket naindawak unay kaniak, ket inikkatko ⟨את⟩ amin a kasangkapan ti balay ni Tovia iti labes manipud iti lishka.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ket naindawak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "ket inikkatko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a kasangkapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kasangkapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "ni Tovia"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "iti labes"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "lishka"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:12.968224924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ni Elkanah anakna a lalaki, ni Evyasaf anakna a lalaki, ken ni Asir anakna a lalaki.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Ni Elkanah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna a lalaki"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "ken ni Evyasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna a lalaki"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "ken ni Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna a lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:26.666324385Z",
+  "model": "glm-5.3"
+}

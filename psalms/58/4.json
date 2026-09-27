@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "Naisinada dagiti dakes manipud iti tian; immalekda manipud iti tian, nga agsao kadagiti saan a pudno.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "Naisinada"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "manipud iti tian"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "immalekda"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "manipud iti tian"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ngsao kadagiti"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "saan a pudno"
+    }
+  ],
+  "timestamp": "2026-09-26T21:32:30.055207864Z",
+  "model": "glm-5.3"
+}

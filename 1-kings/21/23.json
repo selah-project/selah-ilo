@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken maipapan pay kenniIzebel nagsao ni Yahweh, nga kunana: sidaennanto dagiti aso ⟨את⟩ ni Izebel iti hebel ti Yizreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ken pay"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "maipapan kenniIzebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga kunana"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dagiti aso"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sidaennanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ni Izebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "iti hebel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ti Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-26T13:04:42.380305746Z",
+  "model": "glm-5.3"
+}

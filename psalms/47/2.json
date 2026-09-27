@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Amin dagiti umili, palpalenyo dagiti imayo; pukpawenyo ni Elohim iti timek ti ragsak.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "palpalenyo"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dagiti imayo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pukpawenyo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ken ni Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ti ragsak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:25:15.262074645Z",
+  "model": "glm-5.3"
+}

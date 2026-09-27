@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "ket binendisionan ni Yahweh ⟨את⟩ ti maudi a paset ni Iyob ngem ti rugina; ket adda kaniaku ti sangapulo ket uppat a ribu a karnero, ken innem a ribu a kamelio, ken sangaribu a pareha ti baka, ken sangaribu a burika.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "binendisionan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti maudi a paset ni Iyob"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ti maudi a paset"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyob"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "ngem ti rugina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniaku"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "sangapulo ket uppat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "a ribu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "a karnero"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "ken innem"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "a kamelio"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ken sangaribu"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "a pareha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ken sangaribu"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "a burika"
+    }
+  ],
+  "timestamp": "2026-09-26T23:01:18.525291737Z",
+  "model": "glm-5.3"
+}

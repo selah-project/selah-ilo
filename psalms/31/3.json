@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Yakatenmo ti taingmo kaniak; napartak, isagipannak; agbalinka a bao a bato, a kuta, tapno isalakannak.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "Yakatenmo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ti taingmo"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "napartak"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "isagipannak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "agbalinka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(iti siak)"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "a bao a bato"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "a kuta"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "dagiti kuta"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "tapno isalakannak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:03.613767719Z",
+  "model": "glm-5.3"
+}

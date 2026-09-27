@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ti agiywaras kadagiti bato madadaelna iti dayda; ken ti agbukboklad kadagiti kayo agtarayenna ti peggad iti dayda.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "ti agiywaras"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kadagiti bato"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "madadaelna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iti dayda"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "ti agbukboklad"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kadagiti kayo"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "agtarayenna ti peggad"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iti dayda"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:45.432922854Z",
+  "model": "glm-5.3"
+}

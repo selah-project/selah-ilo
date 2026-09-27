@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken idi nangngeg ti reyna ti Sheba ⟨את⟩ ti tagipusotan maipapan kenni Shelomoh, maipapan iti nagan ni Yahweh, immay isuna a mangpadas kenkuana kadagiti palnamaan.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "ken ti reyna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ti Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tagipusotan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ti tagipusotan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kenni Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "maipapan iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "immay"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "a mangpadas kenkuana"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "kadagiti palnamaan"
+    }
+  ],
+  "timestamp": "2026-09-26T12:38:02.633995321Z",
+  "model": "glm-5.3"
+}

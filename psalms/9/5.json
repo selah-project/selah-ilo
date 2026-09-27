@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ta inaramidmo ti ukomko ken ti pangngeddengko, nagnaedka iti trono, agtukom iti kinalinteg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "inaramidmo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ti ukomko"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "ken ti pangngeddengko"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "nagnaedka"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "iti trono"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "agtukom"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "iti kinalinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:53.662182824Z",
+  "model": "glm-5.3"
+}

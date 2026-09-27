@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 9:1",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ti pas-an ti sao ni Yahweh iti daga ti Khadrakh, ken Damasko ti pagnaedanna; ta kenni Yahweh ti mata ti tao ken ti mata dagiti amin a tribu ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pas-an"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "חדרך",
+      "gloss": "Khadrakh"
+    },
+    {
+      "surface": "ודמשק",
+      "gloss": "ken Damasko"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ti pagnaedanna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ti mata"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "a tribu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T20:31:46.864677281Z",
+  "model": "glm-5.3"
+}

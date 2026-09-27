@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Agturongto agingga iti kaputotan dagiti amaanna; agingga iti agnanayon saanda a makita ti lawag.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "agturongto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "דור",
+      "gloss": "iti kaputotan"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "dagiti amaanna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makitada"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ti lawag"
+    }
+  ],
+  "timestamp": "2026-09-26T21:22:25.672427747Z",
+  "model": "glm-5.3"
+}

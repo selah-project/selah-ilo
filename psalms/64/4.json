@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 64,
+  "translation": "Dagiti nangidur-as ti dildilaanda a kas ti tabak, intudduanda dagiti panaoda — maysa a sao a mapait.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "nangidur-as"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "a kas ti tabak"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ti dildilaanda"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "intudduanda"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "dagiti panaoda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "maysa a sao"
+    },
+    {
+      "surface": "מר",
+      "gloss": "a mapait"
+    }
+  ],
+  "timestamp": "2026-09-26T21:38:25.652333663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Saanmo a nainomanna ti makapuy iti danum, ken ti mabisin ikkatmo ⟨iti⟩ tinapay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ti makapuy"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "nainomanna"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "ken ti mabisin"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ikkatmo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:53:49.995866263Z",
+  "model": "glm-5.3"
+}

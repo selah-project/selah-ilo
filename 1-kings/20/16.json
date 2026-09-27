@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ket immayda ruar iti tengnga ti aldaw; ngem ni Ben-Hadad, agininum a nainum iti tolda, isuna ken dagiti ari, dagiti tallopulo ken dua ari a katulong ⟨את⟩ kenkuana.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ket immayda ruar"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "iti tengnga ti aldaw"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ken Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "agininum"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "nainum"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "iti tolda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "ken dagiti ari"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tallopulo"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ken dua"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "katulong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-26T13:08:45.210053842Z",
+  "model": "glm-5.3"
+}

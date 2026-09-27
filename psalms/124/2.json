@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 124,
+  "translation": "no saan idi a ni Yahweh ti adda kadatayo, idi immtakder ti tao a busor kadatayo,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "no saan idi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ti adda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadatayo"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "idi immtakder"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "a busor kadatayo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:12.971175626Z",
+  "model": "glm-5.3"
+}

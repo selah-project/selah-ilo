@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 122,
+  "translation": "Yerushalayim a nabangon a kas maysa nga ili a naisilpo a maymaysa iti bagina.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "a nabangon"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "a kas maysa nga ili"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "a naisilpo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iti bagina"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "a maymaysa"
+    }
+  ],
+  "timestamp": "2026-09-26T22:29:19.502339483Z",
+  "model": "glm-5.3"
+}

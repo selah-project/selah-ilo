@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 121,
+  "translation": "Saananna a padasen a matnag ti sakaam, saan a maturog ti salakninam.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "padasenna"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "matnag"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ti sakaam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "maturog"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ti salakninam"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:36.538177259Z",
+  "model": "glm-5.3"
+}

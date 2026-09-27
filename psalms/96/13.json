@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 96,
+  "translation": "Sangoan ni Yahweh, ta umay, ta umay nga ukuomanna ti daga; ukuomanna ti lubong iti kinalinteg, ken dagiti umili iti pannakamatalekna.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "sangoan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "umay"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "nga ukuomanna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ukuomanna"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ti lubong"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "iti kinalinteg"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "ken dagiti umili"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "iti pannakamatalekna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:24.965552262Z",
+  "model": "glm-5.3"
+}

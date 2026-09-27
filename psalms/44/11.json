@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Pinagsublimonkami manipud iti kabusor, ket dagiti saan nga agay-ayat kadakami sinamsamenda para kadakuada.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "pinagsublimonkami"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nga agsubli"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kabusor"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ket dagiti saan nga agay-ayat kadakami"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "sinamsamenda"
+    },
+    {
+      "surface": "למו",
+      "gloss": "para kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:33.003187918Z",
+  "model": "glm-5.3"
+}

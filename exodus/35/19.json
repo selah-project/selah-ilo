@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "⟨את⟩ dagiti bado ti panagserbi a pangserbi iti nasantoan a disso, ⟨את⟩ dagiti bado a nasantoan para kenni Aharon ti padi, ken ⟨את⟩ dagiti bado dagiti anak na a pangipadian.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bado ti panagserbi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "ti panagserbi"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "a pangserbi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti nasantoan a disso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bado a nasantoan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a nasantoan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "para kenni Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bado dagiti anak na"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti anak na"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a pangipadian"
+    }
+  ],
+  "timestamp": "2026-09-26T04:34:15.589962929Z",
+  "model": "glm-5.3"
+}

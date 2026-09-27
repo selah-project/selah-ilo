@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ti ngiwat ti nalinteg agsasaruno iti arak-arak ken ti dildilana agsao iti ukom.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ti ngiwat"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ti nalinteg"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "agsasaruno"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "iti arak-arak"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ken ti dildilana"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "agsao"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "iti ukom"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:43.373033940Z",
+  "model": "glm-5.3"
+}

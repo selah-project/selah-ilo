@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Elohim, iti kinasantuan ti dalanmo; asino ti El a dakkel a kas ti Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "iti kinasantuan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ti dalanmo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "asino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "a dakkel"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "a kas ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:32.618331277Z",
+  "model": "glm-5.3"
+}

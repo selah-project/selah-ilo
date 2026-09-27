@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kas iti nakasarak iti imak kadagiti pagarien dagiti didiosen, ken dagiti ladawanda, manipud iti Yerushalayim ken manipud iti Shomeron —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "a kas"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nakasarak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "iti imak"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "kadagiti pagarien"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "dagiti didiosen"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "ken dagiti ladawanda"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "manipud iti Yerushalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "ken manipud iti Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-26T14:31:57.043468250Z",
+  "model": "glm-5.3"
+}

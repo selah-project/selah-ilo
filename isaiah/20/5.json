@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "ket agbutekda ken maibainanda gapu iti Kush ⟨ti⟩ panagbabawianda, ken gapu iti Mitsrayim ⟨ti⟩ daydayawda.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ket agbutekda"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ken maibainanda"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "gapu iti Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "panagbabawianda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ken gapu iti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "daydayawda"
+    }
+  ],
+  "timestamp": "2026-09-26T14:41:12.287874057Z",
+  "model": "glm-5.3"
+}

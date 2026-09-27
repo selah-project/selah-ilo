@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket daytoy nga aldaw ket paglagipan kadakayo; ket idaddakayonto ⟨את⟩ a kas maysa a fiesta kenni Yahweh, kadagiti kaputotanyo; linteg nga agnanayon — idaddakayonto daytoy.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "paglagipan"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "ket idaddakayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "fiesta"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fiesta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kadagiti kapototanyo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "linteg"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "idaddakayonto"
+    }
+  ],
+  "timestamp": "2026-09-26T03:50:22.117469119Z",
+  "model": "glm-5.3"
+}

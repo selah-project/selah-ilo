@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "Elohim, dadaelem dagiti ngipenna iti ngiwatna; dagiti pangngedden dagiti ubbog a leon, Yahweh, rugyam.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "dadaelem"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "dagiti ngipenna"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "iti ngiwatna"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "dagiti pangngedden"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "ubbog a leon"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "rugyam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T21:31:56.225516286Z",
+  "model": "glm-5.3"
+}

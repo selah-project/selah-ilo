@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken no agdura ti zav iti maysa a malinis, agdigos kadagiti badona ken agdigos iti danum, ket saan a malinis agingga iti rabii.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ken no"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "agdura"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ti zav"
+    },
+    {
+      "surface": "בטהור",
+      "gloss": "iti maysa a malinis"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "agdigos"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kadagiti badona"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ken agdigos"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ket saan a malinis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T05:30:07.619421239Z",
+  "model": "glm-5.3"
+}

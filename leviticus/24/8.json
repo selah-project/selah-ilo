@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Iti ti aldaw ti Shabbat, iti ti aldaw ti Shabbat, isaadna daytoy a maurnos iti sango ni Yahweh, kanayon — manipud ⟨את⟩ kadagiti anak ni Yisrael, a tulag a saan nga agpatingga.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti ti aldaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ti Shabbat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti ti aldaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ti Shabbat"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "isaadna a maurnos"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kanayon"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "manipud (kadagiti anak ni Yisrael)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tulag"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a saan nga agpatingga"
+    }
+  ],
+  "timestamp": "2026-09-26T05:49:24.507770527Z",
+  "model": "glm-5.3"
+}

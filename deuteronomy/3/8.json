@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken intakmi idi dayta nga aldaw ⟨את⟩ ti daga manipud iti ima dagiti dua nga ari ti Amorreo, a ⟨adda⟩ iti bangir ti Yarden, manipud iti karayan Arnon agingga iti bantay Hermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Ken intakmi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "idi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta nga aldaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ti Amorreo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "iti bangir"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "manipud iti karayan"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    }
+  ],
+  "timestamp": "2026-09-26T07:34:18.395134444Z",
+  "model": "glm-5.3"
+}

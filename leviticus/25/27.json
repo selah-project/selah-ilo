@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "ket bilangenna ⟨את⟩ dagiti tawen ti panaglakona, ket isublinana ⟨את⟩ ti nabati iti tao a nangilako kenkuana, ket agsubli iti tagikuana.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "ket bilangenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti tawen ti panaglakona"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti tawen"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "ti panaglakona"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ket isublinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nabati"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "ti nabati"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "iti tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "nangilako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ket agsubli"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "iti tagikuana"
+    }
+  ],
+  "timestamp": "2026-09-26T05:55:11.301515511Z",
+  "model": "glm-5.3"
+}

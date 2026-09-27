@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Ti mannurat iti Yedutun, kenni Asaf, maysa a salmo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ti mannurat"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kenni Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:59.620775248Z",
+  "model": "glm-5.3"
+}

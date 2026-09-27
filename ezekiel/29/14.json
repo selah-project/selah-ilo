@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 29:14",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Agsubliko ⟨את⟩ ti naala a kasasaad ti Mitsrayim, ket isubliko a mapandada ⟨את⟩ iti daga ti Patros, iti daga a nakaiyanakan da; ket agbalindanto sadiay a kas maysa a pagarian a nakababa.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Agsubliko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naala a kasasaad"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ti naala a kasasaad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "isubliko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iti daga ti Patros"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מכורתם",
+      "gloss": "a nakaiyanakan da"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ket agbalindanto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "a kas maysa a pagarian"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "a nakababa"
+    }
+  ],
+  "timestamp": "2026-09-26T18:52:00.324663310Z",
+  "model": "glm-5.3"
+}

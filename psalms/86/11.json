@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 86,
+  "translation": "Isuroam, Yahweh, ti dalanmo; agsursurakanto iti kinapudnomo: maymaysa koma ti pusok a mangbuteng iti naganmo.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Isuroam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ti dalanmo"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "agsursurakanto"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "iti kinapudnomo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "maymaysa koma"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ti pusok"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "a mangbuteng"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "iti naganmo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:57.247505240Z",
+  "model": "glm-5.3"
+}

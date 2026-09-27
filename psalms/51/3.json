@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Kaasiannak, Elohim, a kas iti hesedmo, a kas iti kaadu dagiti kaasim punasem dagiti pannakailiklikko.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kaasiannak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "a kas iti hesedmo"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "a kas iti kaadu"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dagiti kaasim"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "punasem"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "dagiti pannakailiklikko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:26:18.384809915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Agkantakayo kenni Yahweh iti panagyaman, agkantakayo kenni Elohimtayo iti kinnor.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Agkantakayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "iti panagyaman"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "agkantakayo"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kenni Elohimtayo"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "iti kinnor"
+    }
+  ],
+  "timestamp": "2026-09-26T22:33:04.667163340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "ken ⟨את⟩ ti lamesa ken ⟨את⟩ dagiti kasangkapanna, ken ⟨את⟩ ti Kandilaria a nadalus ken ⟨את⟩ amin a kasangkapanna, ken ⟨את⟩ ti altar ti insenso;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ti lamesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kasangkapanna"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dagiti kasangkapanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Kandilaria"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ti Kandilaria"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "a nadalus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kasangkapanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "kasangkapanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ti insenso"
+    }
+  ],
+  "timestamp": "2026-09-26T04:30:25.252539772Z",
+  "model": "glm-5.3"
+}

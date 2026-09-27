@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "ket ita, bumangon koma dakayo nga agsapa iti bigat, ken dagiti adipen ti apo-mo a immayda ⟨את⟩ kennika; ket no bumangon kayo nga agsapa iti bigat ken no addaan lawag dakayo, agturongkayo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ket ita"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "bumangon koma nga agsapa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ken dagiti adipen"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ti apo-mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "באו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kennika"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "ket bumangon kayo nga agsapa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "lawag"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "agturongkayo"
+    }
+  ],
+  "timestamp": "2026-09-26T11:15:32.209417066Z",
+  "model": "glm-5.3"
+}

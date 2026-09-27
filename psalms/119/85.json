@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Nagkalkali dagiti nangato-ulo iti <kadakuak> dagiti lagusan-panganod, a saan a kadagiti torahmo.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "nagkalkali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kadakuak"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "dagiti nangato-ulo"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "dagiti lagusan-panganod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan a"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "kadagiti torahmo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:37.900689078Z",
+  "model": "glm-5.3"
+}

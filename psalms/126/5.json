@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 126,
+  "translation": "Dagiti agmula iti aisangit, iti kanta ti ragsak agapitda.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "Dagiti agmula"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "iti aisangit"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "iti kanta ti ragsak"
+    },
+    {
+      "surface": "יקצצרו",
+      "gloss": "agapitda"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:50.933751441Z",
+  "model": "glm-5.3"
+}

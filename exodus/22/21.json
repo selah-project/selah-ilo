@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Amin a balo ken ti ulila, saan koma a dadaelenda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "balo"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ken ti ulila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "koma a dadaelenda"
+    }
+  ],
+  "timestamp": "2026-09-26T04:08:55.687195348Z",
+  "model": "glm-5.3"
+}

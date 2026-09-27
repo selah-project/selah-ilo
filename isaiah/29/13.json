@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 29:13",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Kinuna ni Adonay: Gapu ta ta daytoy nga umili umasideg kadakuak iti ngiwatna, ken iti dagiti bibigngana idayawaydanakami, ngem ti pusona nalumdaw manipud kaniak; ket nagbalin ti panagbutengda ⟨iti kaniak⟩ ti bilin dagiti tao nga inad-adal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יען",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "umasideg"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "iti ngiwatna"
+    },
+    {
+      "surface": "ובשפתיו",
+      "gloss": "ken iti dagiti bibigngana"
+    },
+    {
+      "surface": "כבדוני",
+      "gloss": "idayawaydanakami"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "ngem ti pusona"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "nalumdaw"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "manipud kaniak"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ket nagbalin"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "ti panagbutengda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iti kaniak"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "מלמדה",
+      "gloss": "nga inad-adal"
+    }
+  ],
+  "timestamp": "2026-09-26T15:08:02.478372556Z",
+  "model": "glm-5.3"
+}

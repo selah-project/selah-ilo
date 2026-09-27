@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket ti kinalinteg ti agbalin a bakget iti ulbodna, ket ti pammaregta ti bakget iti ulbodna.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kinalinteg"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "bakget"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "iti ulbodna"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ket ti pammaregta"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "bakget"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "iti ulbodna"
+    }
+  ],
+  "timestamp": "2026-09-26T14:39:10.462386751Z",
+  "model": "glm-5.3"
+}

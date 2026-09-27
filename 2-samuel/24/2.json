@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ket kinuna ti ari kenni Joab, ti daulo ti buyot nga adda ⟨kaduana⟩: Agbaliwaliwka ngarud iti amin a tribu ti Yisrael, manipud iti Dan agingga iti Beer-Sheba, ket bilangenyoyo ⟨את⟩ ti umili, ket ammokonto ⟨את⟩ ti bilang ti umili.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti daulo"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨adda kaduana⟩",
+      "marks": "kadua"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "agbaliwaliwka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngarud"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "a tribu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "manipud iti Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "באר",
+      "gloss": "iti Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "ket bilangenyoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "ket ammokonto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bilang"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ti bilang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T12:16:41.952845731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Inaruar met ni Ari Koresh ⟨את⟩ dagiti kasangkapan ti balay ni Yahweh, a nangaruar ni Nevukhadnetsar manipud iti Yerushalayim, ket inna ida ikanem iti balay ti didiosena.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ket ti ari"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "inaruar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti kasangkapan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dagiti kasangkapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nangaruar"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "manipud iti Yerushalayim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ket inna ida ikanem"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ti didiosena"
+    }
+  ],
+  "timestamp": "2026-09-26T23:22:04.998540004Z",
+  "model": "glm-5.3"
+}

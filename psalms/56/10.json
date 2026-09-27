@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Iti dayta nga aldaw a dawelko, agsublida a nagturongngato dagiti kabusorko; daytoy ti ammoak: a ti Elohim para kaniak.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "agsublida"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dagiti kabusorko"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "a nagturongngato"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "a dawelko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ti ammoak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:28:33.912641728Z",
+  "model": "glm-5.3"
+}

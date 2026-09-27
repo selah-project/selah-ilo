@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 5:1",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Kalpasan daytoy, immay da Moshe ken Aharon ken kinunada kenni Paro: Kasta ti kuna ni Yahweh, ti Elohim ni Yisrael: Ipatulodmo ⟨ti⟩ pagiliak, ken agramiddaanto iti diyos-diyos ⟨iti⟩ pagiliak ⟨iti⟩ liwliwak.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "kalpasan daytoy"
+    },
+    {
+      "surface": "באו",
+      "gloss": "immay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "da Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken Aharon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kinunada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipatulodmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagiliak"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pagiliak"
+    },
+    {
+      "surface": "ויחגו",
+      "gloss": "agramiddaanto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iti pagiliak"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti liwliwak"
+    }
+  ],
+  "timestamp": "2026-09-26T03:37:20.564981902Z",
+  "model": "glm-5.3"
+}

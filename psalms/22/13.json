@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Dagiti adu a baka ti liniklikanda nak, dagiti napigsa a baka ti Bashan ti serraanda nak.",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "liniklikanda nak"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "dagiti baka"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "dagiti napigsa"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ti Bashan"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "serraanda nak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:58:15.425406685Z",
+  "model": "glm-5.3"
+}

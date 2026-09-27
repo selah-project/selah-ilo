@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ni Yaakov ket nangngeg ta ⟨isuna⟩ naimesanna ⟨את⟩ ni Dina nga anakna a babai, ket dagiti annakna a lallaki ket addada ⟨את⟩ dagiti ayupna a tagikua iti talon; ket immek ni Yaakov agingga nga immayda.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "ket ni Yaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "naimesanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ni Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anakna a babai"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ket dagiti annakna a lallaki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "addada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ayupna a tagikua"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "dagiti ayupna a tagikua"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ket immek"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "באם",
+      "gloss": "immayda"
+    }
+  ],
+  "timestamp": "2026-09-26T02:49:56.449744296Z",
+  "model": "glm-5.3"
+}

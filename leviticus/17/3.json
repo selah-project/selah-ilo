@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Tao a tao manipud iti balay ti Yisrael a mangpatay iti baka wenno karnero wenno kaldi iti kampo, wenno a mangpatay iti ruar ti kampo,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Tao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a tao"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "manipud iti balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "mangpatay"
+    },
+    {
+      "surface": "שור",
+      "gloss": "iti baka"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kaldi"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "iti kampo"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "mangpatay"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ti kampo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:38:50.557858340Z",
+  "model": "glm-5.3"
+}

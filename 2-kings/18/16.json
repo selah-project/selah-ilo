@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Iti dayta a tiempo, giniket ni Hizkiyahu ⟨את⟩ dagiti ruangan ti templo ni Yahweh ken ⟨את⟩ dagiti poste a nilatnan ni Hizkiyahu ari ti Yehudah, ket itedna dagitoy iti ari ti Ashur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dayta a tiempo"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "giniket"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ruangan ti templo ni Yahweh"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dagiti ruangan"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti poste a nilatna"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "dagiti poste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "nilatna"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ket itedna dagitoy"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "iti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ti Ashur"
+    }
+  ],
+  "timestamp": "2026-09-26T13:54:22.302801015Z",
+  "model": "glm-5.3"
+}

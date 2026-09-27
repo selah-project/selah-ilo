@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Ket initedna kadakuada ti kiddawda, ngem ipatulodna ti pannakaeliel kadagiti kararuada.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ti kiddawda"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ipatulodna"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ti pannakaeliel"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "kadagiti kararuada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:53.261916758Z",
+  "model": "glm-5.3"
+}

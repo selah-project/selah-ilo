@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Saan a naituronganna ti tao a manglabsanda; kadakuada sinupiatanna dagiti ari.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "naituronganna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "a manglabsanda"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "sinupiatanna"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dagiti ari"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:21.632501828Z",
+  "model": "glm-5.3"
+}

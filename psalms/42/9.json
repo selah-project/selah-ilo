@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Iti aldaw bilinenna ni Yahweh ⟨ti⟩ hesedna, ken iti rabii kanta a kaduak, kararag iti El ti biagko.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "bilinenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedna"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ken iti rabii"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kaduak"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "kararag"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "iti El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ti biagko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:56.641223006Z",
+  "model": "glm-5.3"
+}

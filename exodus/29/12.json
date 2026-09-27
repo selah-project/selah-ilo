@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "ken alam ti paset ti dara ti baka, ken ikabelmo iti rabaw dagiti sanga ti altar babaen iti ramaymo, ken ⟨את⟩ ti amin a dara iwarasmo iti bangbanglo ti altar.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "alam"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ti paset ti dara"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ken ikabelmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "dagiti sanga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "babaen iti ramaymo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti amin a dara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dara"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "iwarasmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "bangbanglo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    }
+  ],
+  "timestamp": "2026-09-26T04:26:04.966885552Z",
+  "model": "glm-5.3"
+}

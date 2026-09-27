@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Naabotanna ni Lavan ⟨את⟩ ni Yaakov — ket ni Yaakov nangipatakder ⟨את⟩ ti tolda na iti bantay, ket ni Lavan nangipatakder ⟨את⟩ kadagiti kabsat na iti Bantay ti Gilead.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "naabotanna"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ket ni Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nangipatakder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tolda na"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ti tolda na"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "ו לבן",
+      "gloss": "ket ni Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nangipatakder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti kabsat na"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kadagiti kabsat na"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti Bantay"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ti Gilead"
+    }
+  ],
+  "timestamp": "2026-09-26T02:39:11.454012051Z",
+  "model": "glm-5.3"
+}

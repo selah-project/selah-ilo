@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "ket imbilinna ⟨את⟩ ti mensahero, a kuna: No maikkannam ⟨את⟩ amin dagiti sao ti gubat a saritaem iti ari,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ket imbilinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti mensahero"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ti mensahero"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "No maikkannam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti sao ti gubat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ti gubat"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "a saritaem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-09-26T11:42:09.537808480Z",
+  "model": "glm-5.3"
+}

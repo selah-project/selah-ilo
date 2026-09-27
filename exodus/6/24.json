@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 6:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Dagiti anak a lalaki ni Korach: Asir, ken Elkhana, ken Aviasaf; dagitoy ti dagiti pamilia ti Korhi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dagiti anak a lalaki"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asir"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "ken Elkhana"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "ken Aviasaf"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti dagiti pamilia"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "ti Korhi"
+    }
+  ],
+  "timestamp": "2026-09-26T03:32:22.798508533Z",
+  "model": "glm-5.3"
+}

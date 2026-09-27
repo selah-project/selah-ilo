@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 68,
+  "translation": "Dagiti sibibiagmo nagnaedda iti daytoy; iti imbagmo ipatakdermo ⟨iti⟩ para kadagiti pandes, O Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "dagiti sibibiagmo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagnaedda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti daytoy"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ipatakdermo"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "iti imbagmo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "para kadagiti pandes"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T21:40:30.315226403Z",
+  "model": "glm-5.3"
+}

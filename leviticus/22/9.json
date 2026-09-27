@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Agbantayda ⟨iti⟩ ⟨את⟩ kustodia-ko, ken saanda a maidaddan iti basol gapu iti dayta, ken matayda iti dayta no biddawenda dayta; siak ti Yahweh a mangipasantua kadakuada.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "agbantayda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kustodia-ko"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "kustodia-ko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanda"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "maidaddan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gapu iti dayta"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "iti basol"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ken matayda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "biddawenda dayta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "mangipasantua kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-26T05:41:29.660962407Z",
+  "model": "glm-5.3"
+}

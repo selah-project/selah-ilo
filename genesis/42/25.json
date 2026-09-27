@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 42:25",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Inuttong ni Yosef, ket sinungrodanda ⟨את⟩ dagiti sako da iti bagas, ken isublida ti pirakda, tunggal maysa iti sakona, ken itedanda kanda taraon iti dalan; ken inaramid kanda kasta.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "inuttong"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וימלאו",
+      "gloss": "sinungrodanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sako da"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "dagiti sako da"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bagas"
+    },
+    {
+      "surface": "ולהשיב",
+      "gloss": "isublida"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "pirakda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "sakona"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "itedanda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "taraon"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    }
+  ],
+  "timestamp": "2026-09-26T03:09:39.408038408Z",
+  "model": "glm-5.3"
+}

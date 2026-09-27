@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Inikkatna ⟨את⟩ ti pilidan dagiti karosa da, ket tinartarada dagitoy a nakarikep; ket kinunada ti Mitsrayim: Agtaraytayo manipud iti rupa ni Yisrael, ta ni Yahweh makigubat kadakuada kadagiti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "inikkatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pilidan"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "ti pilidan"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "dagiti karosa da"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "tinartarada dagitoy"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "a nakarikep"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunada"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "agtaraytayo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manipud iti rupa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "makigubat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kadagiti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T03:51:00.045864314Z",
+  "model": "glm-5.3"
+}

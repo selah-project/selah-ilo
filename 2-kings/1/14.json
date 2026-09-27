@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kitaem, timnag ti apoy manipud iti langit, ken natudaananna ⟨את⟩ dagiti dua a kappitan ti limapulo nga umuna ken ⟨את⟩ dagiti limapuloda; ket ita, mapateg koma ti kararwak kadagiti matam.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "timnag"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "natudaananna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dua a kappitan ti limapulo nga umuna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dagiti dua"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kappitan"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "ti limapulo"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "umuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti limapuloda"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "dagiti limapuloda"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ket ita"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "mapateg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kararwak"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "kadagiti matam"
+    }
+  ],
+  "timestamp": "2026-09-26T13:21:53.089471878Z",
+  "model": "glm-5.3"
+}

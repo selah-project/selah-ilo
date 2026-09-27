@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Salmos ni David, idi immayar manipud iti rupa ni Avshalom nga anakna.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "salmos"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "idi immayar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manipud iti rupa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:30.514714195Z",
+  "model": "glm-5.3"
+}

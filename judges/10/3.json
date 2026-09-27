@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket immay kalpasannana ni Yair ti Giladi, ket immukom ⟨את⟩ Yisrael duapulo ket dua a tawen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "immay"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kalpasannana"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ni Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ti Giladi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "immukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ket dua"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T09:59:58.482078310Z",
+  "model": "glm-5.3"
+}

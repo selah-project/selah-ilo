@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Iti agnanayon kadi nga imaikkat ni Adonay, ken saan kadi a manginayon nga agayat pay?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Iti agnanayon kadi"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "nemaikkat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "manginayon"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "nga agayat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-26T21:51:01.057889612Z",
+  "model": "glm-5.3"
+}

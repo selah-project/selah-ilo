@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti sumanglad iti Yarden, iti daga ti Moab, nangrugi ni Moshe nga ipalawag ⟨את⟩ daytoy a Torah, a kunana:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "iti sumanglad"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "nangrugi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ipalawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy a Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    }
+  ],
+  "timestamp": "2026-09-26T07:35:04.617518584Z",
+  "model": "glm-5.3"
+}

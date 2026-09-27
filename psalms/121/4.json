@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 121,
+  "translation": "Yayo, saan a maturog ken saan nga agturog ti Salaknib ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "yayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "maturog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "agturog"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ti Salaknib"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:36.538463073Z",
+  "model": "glm-5.3"
+}

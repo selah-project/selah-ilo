@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ken pay ti dara ti awan basolna a kinayammosna, ket inpunuanna ⟨את⟩ Yerushalayem iti dara nga awan basol, ket saan a dimmnonot nga agpatawar ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ken pay"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "ti awan basolna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "kinayammosna"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ket inpunuanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayem"
+    },
+    {
+      "surface": "דם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nga awan basol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "dimmnonot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "nga agpatawar"
+    }
+  ],
+  "timestamp": "2026-09-26T14:19:08.569984280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti baknang agturay kadagiti pobres, ket ti mangaut ket adipen ti lalaki a mangautang.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ti baknang"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "kadagiti pobres"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "agturay"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ket adipen"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "ti mangaut"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "a mangautang"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:40.083850830Z",
+  "model": "glm-5.3"
+}

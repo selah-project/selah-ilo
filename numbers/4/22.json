@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Iyalinmo pay ⟨את⟩ ti ulo dagiti anak a lalaki ni Gershon, isuda met laeng, segun iti balay dagiti amada, segun kadagiti pamilia da.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Iyalinmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulo dagiti anak a lalaki ni Gershon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ni Gershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "isuda met laeng"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dagiti amada"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "iti kadagiti pamilia da"
+    }
+  ],
+  "timestamp": "2026-09-26T06:08:32.417736034Z",
+  "model": "glm-5.3"
+}

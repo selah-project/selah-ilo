@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 69,
+  "translation": "Ta ti kinairi ti ⟨ti⟩ balaymo nangan kaniak, ket dagiti insulto dagiti aginsulto kenka natnag kaniak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ti kinairi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ti balaymo"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "nangan kaniak"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "ket dagiti insulto"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "dagiti aginsulto kenka"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "natnag"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:41:33.130051097Z",
+  "model": "glm-5.3"
+}

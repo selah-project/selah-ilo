@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ti kararua a bendisionan ket mataba; ngem ti agsibusibus, isu met ket maudanan.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "a bendisionan"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ket mataba"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "ngem ti agsibusibus"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "maudanan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:36:21.553119309Z",
+  "model": "glm-5.3"
+}

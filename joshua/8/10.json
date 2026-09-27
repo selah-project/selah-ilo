@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Immakar ni Yehoshua iti bigat ket impormana ⟨את⟩ ti umili, ket nangaton isu ken dagiti lakayen ti Yisrael iti sanguanan ti umili, iti Ay.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Immakar"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ket impormana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ket nangaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ken dagiti lakayen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "העי",
+      "gloss": "iti Ay"
+    }
+  ],
+  "timestamp": "2026-09-26T23:59:28.411684818Z",
+  "model": "glm-5.3"
+}

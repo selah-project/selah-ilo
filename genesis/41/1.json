@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Immay ti panawen iti patingga ti dua a tawen a bilang ti aldaw, ket ni Paro nagmennamenn: ken, idda, ⟨is⟩ nga agtakder iti rabaw ti Yeor.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Immay ti panawen"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "iti patingga"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ti dua a tawen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a bilang ti aldaw"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "ket ni Paro"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "nagmennamenn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ken, idda"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagtakder"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ti Yeor"
+    }
+  ],
+  "timestamp": "2026-09-26T02:59:14.261468269Z",
+  "model": "glm-5.3"
+}

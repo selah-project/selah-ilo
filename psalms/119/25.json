@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Naikapet iti tapok ti kararwak; pangbiagannak no kastoy ti saom.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "naikapet"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "iti tapok"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "pangbiagannak"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "no kastoy ti saom"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:32.464805499Z",
+  "model": "glm-5.3"
+}

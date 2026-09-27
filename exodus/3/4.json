@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Nakita ni Yahweh nga immallikud tapno makita; ken tinawaganna ni Moshe ni Elohim manipud iti tengnga ti sanka, ket kinuna: Moshe, Moshe. Kinunana: Addaak ditoy.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "סר",
+      "gloss": "immallikud"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "tapno makita"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ken tinawaganna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "manipud iti tengnga"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ti sanka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinunana"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Addaak ditoy"
+    }
+  ],
+  "timestamp": "2026-09-26T03:27:22.002849449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Inayon ni Yosep ⟨את⟩ ni Yakop a amana, ken inpatakderanna iti sango ni Paro, ket binendisionan ni Yakop ⟨את⟩ ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "inayon"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yakop"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yakop"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a amana"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "inpatakderanna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ket binendisionan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yakop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-26T03:17:10.299863474Z",
+  "model": "glm-5.3"
+}

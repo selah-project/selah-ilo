@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 74,
+  "translation": "Saan a pulos nga agsubli a nailislis ti nadadael; ti napanglaw ken ti makapaspasur, ipadayawda ti naganmo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Saan a pulos"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nnga agsubli"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ti nadadael"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "a nailislis"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ti napanglaw"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ken ti makapaspasur"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ipadayawda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:50:04.721514281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken apay a saanmo nga ipatawar ⟨את⟩ ti panagbasolko, ket apay a saanmo a maikkat ⟨את⟩ ti basolko? Ta ita, iti tapok matarokonto, ket birukenmon, ket saanakon.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ken apay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ipatawarmo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "panagbasolko"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "ken maikkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basolko"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "basolko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "iti tapok"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "matarokonto"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "ket birukenmon"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ket saanakon"
+    }
+  ],
+  "timestamp": "2026-09-26T22:48:46.597497283Z",
+  "model": "glm-5.3"
+}

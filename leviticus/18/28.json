@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Tapno saan a idukakayo ti daga no rugitanyo ⟨את⟩ dayta, a kas iti panangidukana ⟨את⟩ ti pagilian nga adda sadiay ti sanguanyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tapno saan"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "idukakayo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "no rugitanyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dayta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "panangidukana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagilian"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ti pagilian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sadiay ti sanguanyo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:32:34.543832585Z",
+  "model": "glm-5.3"
+}

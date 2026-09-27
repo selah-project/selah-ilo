@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Agpilina kadatayo ⟨את⟩ ti tawidtayo, ⟨את⟩ ti daydayaw ni Yaakov a tin-ayatna. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "agpilina"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadatayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tawidtayo"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "ti tawidtayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daydayaw ni Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tin-ayatna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:24:40.450378726Z",
+  "model": "glm-5.3"
+}

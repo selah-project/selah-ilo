@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinunak kadakayo idi dayta nga oras, a makunkuna: saanak a makabulod a maymaysa laeng a mangibatta ⟨את⟩ kadakayo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "kinunak"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "idi ti oras"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a makunkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makabulod"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "a maymaysa laeng"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "mangibatta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T07:28:37.403909197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 15:14",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken inikkat ni Kalev manipud idiay ⟨את⟩ tallo nga anak ni Anak: ⟨את⟩ Sheshay ken ⟨את⟩ Akhiman ken ⟨את⟩ Talmai, dagiti nayanak ni Anak.",
+  "tokens": [
+    {
+      "surface": "וירש",
+      "gloss": "inikkat"
+    },
+    {
+      "surface": "משם",
+      "gloss": "manipud idiay"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tallo nga anak ni Anak"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "ni Anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshay"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Akhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Akhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "nayanak"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "ni Anak"
+    }
+  ],
+  "timestamp": "2026-09-26T09:17:34.634552606Z",
+  "model": "glm-5.3"
+}

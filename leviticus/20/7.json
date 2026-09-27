@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Nasantuanyo koma ti bagikayo ken agbalinkayo a nasantuan, ta siak ti Yahweh ti Elohimyo.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Nasantuanyo"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "agbalinkayo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "a nasantuan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimyo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:31.958322592Z",
+  "model": "glm-5.3"
+}

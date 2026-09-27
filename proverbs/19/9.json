@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ti saksi kadagiti ulina ket saan a mapatawar, ken ti agibbut kadagiti ulina ket maawan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "kadagiti ulina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "mapatawar"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ken agibbut"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "kadagiti ulina"
+    },
+    {
+      "surface": "י אבד",
+      "gloss": "maawan"
+    }
+  ],
+  "timestamp": "2026-09-27T00:03:06.150222652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ti panangruar ti leon, ken ti timek ti napigsa a leon, ket dagiti ngipen dagiti ubbing a leon nabukelda.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "ti panangruar"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ti leon"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ken ti timek"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ti napigsa a leon"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ket dagiti ngipen"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "dagiti ubbing a leon"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "nabukelda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:47:50.389586863Z",
+  "model": "glm-5.3"
+}

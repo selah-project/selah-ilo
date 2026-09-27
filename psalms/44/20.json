@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Nupay kasta, diniknamokami iti disso dagiti tannim, ket inabbongmo kami iti nakaro a sipnget.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nupay kasta"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "diniknamokami"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iti disso"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "dagiti tannim"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ket inabbongmo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "iti nakaro a sipnget"
+    }
+  ],
+  "timestamp": "2026-09-26T21:19:30.431822861Z",
+  "model": "glm-5.3"
+}

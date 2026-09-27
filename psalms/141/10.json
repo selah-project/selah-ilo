@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 141,
+  "translation": "Agpapada a matnagdagiti dakes iti bukodda a bitad, agingga nga agballasiwak.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "matnagda"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "iti bukodda a bitad"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "agpapada"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "nga agballasiwak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:55.738546790Z",
+  "model": "glm-5.3"
+}

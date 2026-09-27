@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Kinuna ni Yahweh kenni Moshe: Sumurok nga agbasa iti sanguan ti tattao, ket alaem ⟨את⟩ kaduam dagiti lakay ni Yisrael, ken ti bastonmo a binasaam baka ⟨את⟩ ti karayan — alaem iti imam ken magna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Sumurok"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti tattao"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ket alaem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kaduam"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "ken ti bastonmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "binasaam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "baka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karayan"
+    },
+    {
+      "surface": "היאור",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "קח",
+      "gloss": "alaem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "iti imam"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ken magna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:04:59.076609636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Kinuna ni Yehu: Pasantuenyo ti gimong para kennu Baal. Ket impakaammamda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pasantuenyo"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "ti gimong"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "para kennu Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "impakaammamda"
+    }
+  ],
+  "timestamp": "2026-09-26T13:40:20.034244442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 29:30",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ket ti datonda a bagas ken ti daton ti danumda para kadagiti baka, kadagiti karniro, ken kadagiti karerno, segun ti bilangda, kas ti bilin.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "ket ti datonda a bagas"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ken ti daton ti danumda"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "para kadagiti baka"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "kadagiti karniro"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "ken kadagiti karnero"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "segun ti bilangda"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kas ti bilin"
+    }
+  ],
+  "timestamp": "2026-09-26T07:13:35.865743691Z",
+  "model": "glm-5.3"
+}

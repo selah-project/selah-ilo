@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Dindingda koma kadakami ti rabii ken ti aldaw, iti amin nga aldaw a pagtaengtayo kadakuada, a nagpastorkami kadagiti karnero.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "dindingda koma"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨isuda⟩"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadakami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ken"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ti rabii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ti aldaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngg aldaw"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "a pagtaengtayo"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "a nagpastorkami"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kadagiti karnero"
+    }
+  ],
+  "timestamp": "2026-09-26T11:12:55.365582525Z",
+  "model": "glm-5.3"
+}

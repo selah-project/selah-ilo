@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ita, kinasirib ken pannakaammo ti itedmo kaniak, ken makaruarak ken makaserekak iti sanguan ti umili daytoy, ta asino ti mangukom ⟨את⟩ ti umilim daytoy a dakkel?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ita"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kinasirib"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ken pannakaammo"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ti itedmo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "ken makaruarak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "ken makaserekak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "asino"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ti mangukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti umilim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ti umilim"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "a dakkel"
+    }
+  ],
+  "timestamp": "2026-09-26T23:44:40.493132580Z",
+  "model": "glm-5.3"
+}

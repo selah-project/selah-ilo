@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kasta ti kinuna ni Yahweh ti Elohimko: Pastorenmo ⟨את⟩ ti karnero a maipatpattayen.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohimko"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Pastorenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karnero a maipatpattayen"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ti karnero"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "a maipatpattayen"
+    }
+  ],
+  "timestamp": "2026-09-26T20:34:37.358811897Z",
+  "model": "glm-5.3"
+}

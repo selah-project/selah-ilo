@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 95,
+  "translation": "Idi pinadasnak ken sinukatannak dagiti amamyo, ket nakitada met ti aramidek.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "idi"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "pinadasnak"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "dagiti amamyo"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "sinukatannak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ti aramidek"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:54.936187489Z",
+  "model": "glm-5.3"
+}

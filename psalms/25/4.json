@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Dagiti dalanmo, Yahweh, ipaammoam kaniak; dagiti pagdalanmo isuromo kaniak.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Dagiti dalanmo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ipaammoam kaniak"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "dagiti pagdalanmo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "isuromo kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:02:29.138872344Z",
+  "model": "glm-5.3"
+}

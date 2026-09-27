@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 63,
+  "translation": "Elohim, Elko sika, biruasenka iti bigat; nauhaw kenka ti kararwak, nagliwliw kenka ti lasagko, iti daga a nakamaga ken napuyot, nga awan danum.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "biruasenka iti bigat"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "nauhaw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "nagliwliw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ti lasagko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "a nakamaga"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ken napuyot"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nga awan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    }
+  ],
+  "timestamp": "2026-09-26T21:39:42.097879359Z",
+  "model": "glm-5.3"
+}

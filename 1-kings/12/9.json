@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 12:9",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ket kinunana kadakuada: Ania ti paysoyo, a makaisubli ti sao ⟨את⟩ daytoy nga umili, a nagsao kadakua a kuna: Agaanem ti pammadayo a nangikabil ti amam kadakami?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "dakayo"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "agpapayso"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "a makaisubli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daytoy nga umili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kadakua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kuna"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "agaanem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ti"
+    },
+    {
+      "surface": "העל",
+      "gloss": "pammadayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nangikabil"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ti amam"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadakami"
+    }
+  ],
+  "timestamp": "2026-09-26T12:47:42.990355792Z",
+  "model": "glm-5.3"
+}

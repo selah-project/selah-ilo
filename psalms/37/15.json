@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Ti tabakda umaspingto iti pusoda, ket dagiti busorda maloglakanda.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Ti tabakda"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "umaspingto"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "iti pusoda"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ket dagiti busorda"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "maloglakanda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:11:30.895737552Z",
+  "model": "glm-5.3"
+}

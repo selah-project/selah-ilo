@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ken ti alintataud, ken ti timon, ken ti aniwas, ken ti chames, ken ti taltal.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "ken ti alintataud"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "ken ti timon"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ken ti aniwas"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "ken ti chames"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ken ti taltal"
+    }
+  ],
+  "timestamp": "2026-09-26T05:15:55.979322531Z",
+  "model": "glm-5.3"
+}

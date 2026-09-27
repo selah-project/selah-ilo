@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Idi napasamak kalpasan daytoy, tinumpog ni David ⟨את⟩ dagiti Pelisteo ket pinanawidanna ida, ken inalana ⟨את⟩ ti Gath ken dagiti anak a babaina manipud iti ima dagiti Pelisteo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tinumpog"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Pelisteo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelisteo"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "pinanawidanna ida"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Gath"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ti Gath"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ken dagiti anak a babaina"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelisteo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:39:35.894422242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ken ti panangsuro kadakuada ⟨את⟩ dagiti annak a lalaki ti Yisrael ⟨את⟩ amin dagiti bilin nga imbaga ni Yahweh kadakuada babaen iti ima ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "Ken ti panangsuro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti annak a lalaki ti Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti bilin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "dagiti bilin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imbaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "babaen iti ima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T05:13:32.377886370Z",
+  "model": "glm-5.3"
+}

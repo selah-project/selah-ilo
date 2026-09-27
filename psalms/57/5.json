@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Ti kararwak ket adda iti tengnga dagiti leon; agdanogak kadagiti agpuor a sindi, dagiti anak ti tao, a dagiti ngipenda ket bangkaw ken pana, ken ti dilada ket natirad a tabak.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti tengnga"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "dagiti leon"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "agdanogak"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "kadagiti agpuor a sindi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "a dagiti ngipenda"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ket bangkaw"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ken pana"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ken ti dilada"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ket tabak"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "natirad"
+    }
+  ],
+  "timestamp": "2026-09-26T21:33:01.430547706Z",
+  "model": "glm-5.3"
+}

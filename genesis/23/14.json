@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Simmulat ni Efron kenni Avraham ⟨את⟩, nga imbagana kakuana:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "simmulat"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga imbagana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kakuana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:11:45.294140124Z",
+  "model": "glm-5.3"
+}

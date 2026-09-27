@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 16:14",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Initedna iti pako, ket kinunana kennu: “Dagiti Pelishtio addada kenka, Shimshon!” Ket immurar isuna iti turogna ket inalana ⟨את⟩ ti pako, ti abelan, ken ⟨את⟩ ti inabel.",
+  "tokens": [
+    {
+      "surface": "ותתקע",
+      "gloss": "initedna"
+    },
+    {
+      "surface": "ביתד",
+      "gloss": "iti pako"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kennu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dagiti Pelishtio"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "addada kenka"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "immurar"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "iti turogna"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pako"
+    },
+    {
+      "surface": "היתד",
+      "gloss": "ti pako"
+    },
+    {
+      "surface": "הארג",
+      "gloss": "ti abelan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti inabel"
+    },
+    {
+      "surface": "המסכת",
+      "gloss": "ti inabel"
+    }
+  ],
+  "timestamp": "2026-09-26T10:13:49.914660614Z",
+  "model": "glm-5.3"
+}

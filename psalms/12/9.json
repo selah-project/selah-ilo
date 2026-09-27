@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Iti lawlaw agsorsor dagiti dakes, no ti kinadakes ⟨ti⟩ nangato kadagiti anak ti tao.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "iti lawlaw"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "agsorsor"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "no"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ti kinadakes"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-26T20:48:26.364097765Z",
+  "model": "glm-5.3"
+}

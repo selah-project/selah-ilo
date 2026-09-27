@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Dagiti anak a lalaki ni Kehat: ni Aminadav anakna a lalaki, ni Korach anakna a lalaki, ni Asir anakna a lalaki.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Dagiti anak a lalaki"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ni Aminadav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna a lalaki"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna a lalaki"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ni Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna a lalaki"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:26.666172537Z",
+  "model": "glm-5.3"
+}

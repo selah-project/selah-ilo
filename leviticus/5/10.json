@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ket ⟨את⟩ ti maikadua aramidenna a danon a maipatay iti apoy, kas iti bilin, ket pakpatawaren ti padi isuna maipapan iti basolna a nagbasol, ket mapatawaran isuna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ti maikadua"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aramidenna"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "danon a maipatay iti apoy"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kas iti bilin"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ket pakpatawaren"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "maipapan iti basolna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nagbasol"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ket mapatawaran"
+    },
+    {
+      "surface": "לו",
+      "gloss": "isuna"
+    }
+  ],
+  "timestamp": "2026-09-26T05:04:55.792173002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Salakniban ni Yahweh ⟨את⟩ amin a matayatenna, ket ⟨את⟩ amin a dagiti dakes dadaelenna.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Salakniban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a matayatenna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "a matayatenna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a dagiti dakes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "a dagiti dakes"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "dadaelenna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:37.168710795Z",
+  "model": "glm-5.3"
+}

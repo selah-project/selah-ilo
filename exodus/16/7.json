@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket iti bigat, makitayo ti daydayaw ni Yahweh, idi nangngeg ⟨את⟩ na dagiti reklamo yo a maipapan ken Yahweh; ket siakami, ania koma? ta agreklamo kayo kadakami.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ket iti bigat"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "makitayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daydayaw ni Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "daydayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "idi nangngeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti reklamo yo"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "dagiti reklamo yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "maipapan ken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "ket siakami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "agreklamo kayo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kadakami"
+    }
+  ],
+  "timestamp": "2026-09-26T04:04:24.426488803Z",
+  "model": "glm-5.3"
+}

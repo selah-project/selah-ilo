@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ti amin a daton ti padi — intero a pasamuyekan; saan a makan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "a daton"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "intero a pasamuyekan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨agtakder⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "a makan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:06:08.411137959Z",
+  "model": "glm-5.3"
+}

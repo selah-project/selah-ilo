@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 41,
+  "translation": "Tultuladenna da, agballasiw a nakappia; iti dalan a saan a linabasnan iti saka.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "tultuladenna da"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "agballasiw"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "a nakappia"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "iti saka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "a linabasnan"
+    }
+  ],
+  "timestamp": "2026-09-26T15:29:24.452670638Z",
+  "model": "glm-5.3"
+}

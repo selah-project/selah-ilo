@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ti amin ket kas iti amin: maysa a makitkitaar kadagiti nalinteg ken kadagiti dakes, kadagiti naimbag ken ti nadalus ken ti narugit, kadagiti agsakripisio ken kadagiti saan nga agsakripisio; kas ti naimbag, kasta met ti makabasol; ti agsumpa, kas iti makabuteng iti sumpa.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Ti amin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "makitkitaar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kadagiti nalinteg"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "ken kadagiti dakes"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kadagiti naimbag"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "ken ti nadalus"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "ken ti narugit"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "kadagiti agsakripisio"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "saan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "agsakripisio"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "kas ti naimbag"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "ti makabasol"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "ti agsumpa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "iti sumpa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ti makabuteng"
+    }
+  ],
+  "timestamp": "2026-09-27T00:04:20.831110406Z",
+  "model": "glm-5.3"
+}

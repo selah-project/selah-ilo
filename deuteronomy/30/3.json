@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ket agsubli ni Yahweh nga Elohimmo ⟨את⟩ ti pannakaisublimo a kas umuna, ken makakaasiannaka, ket agsubli ken urnongennaka manipud iti amin a pagilian a naiwarwaras kadakuam ni Yahweh nga Elohimmo sadiay.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "ket agsubli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pannakaisublimo a kas umuna"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "ti pannakaisublimo a kas umuna"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "ken makakaasiannaka"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ket agsubli"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "ken urnongennaka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manipud iti amin"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dagiti pagilian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "naiwarwaras kadakuam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    }
+  ],
+  "timestamp": "2026-09-26T08:36:56.822654583Z",
+  "model": "glm-5.3"
+}

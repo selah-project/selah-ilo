@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Siasino ti nangideppa ⟨את⟩ ti Espiritu ni Yahweh, ket ania a lalaki ti nakipaay iti payona a nangisuro kenario?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "nangideppa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Espiritu ni Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Espiritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ket ania a lalaki"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "iti payona"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "nangisuro kenario"
+    }
+  ],
+  "timestamp": "2026-09-26T15:25:45.912424497Z",
+  "model": "glm-5.3"
+}

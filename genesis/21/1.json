@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Inasikaso ni Yahweh ⟨את⟩ ni Sarah a kas iti imbagana, ken inaramid ni Yahweh kenni Sarah a kas iti insaona.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "inasikaso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ni Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "imbagana"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ken inaramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kenni Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "a kas iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "insaona"
+    }
+  ],
+  "timestamp": "2026-09-26T02:09:50.537996728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ti pusom ket agsasarita iti buteng: sadino ti agsurat? Sadino ti agtimbang? Sadino ti agbilang ⟨את⟩ dagiti torre?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "ti pusom"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ket agsasarita"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "iti buteng"
+    },
+    {
+      "surface": "איה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ti agsurat"
+    },
+    {
+      "surface": "איה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ti agtimbang"
+    },
+    {
+      "surface": "איה",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ti agbilang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti torre"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "dagiti torre"
+    }
+  ],
+  "timestamp": "2026-09-26T15:06:45.998067345Z",
+  "model": "glm-5.3"
+}

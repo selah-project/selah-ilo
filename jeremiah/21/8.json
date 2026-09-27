@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken iti daytoy nga umili ibagam: Kasta ti kinuna ni Yahweh: Addaakon nga itedko iti sanguanyo ⟨את⟩ ti dalan ti biag ken ⟨את⟩ ti dalan ti patay.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "daytoy nga umili"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ibagam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Addaakon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "iti sanguanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dalan ti biag"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ti biag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti dalan ti patay"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ti patay"
+    }
+  ],
+  "timestamp": "2026-09-26T22:11:41.321557905Z",
+  "model": "glm-5.3"
+}

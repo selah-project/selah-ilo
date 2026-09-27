@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket inaramid ni Yehoyada ⟨את⟩ ti tulag a nagbaetan ni Yahweh ken ti ari ken ti umili, nga agbalin nga umili ni Yahweh, ket nagbaetan met ti ari ken ti umili.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ket inaramid"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ni Yehoyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tulag"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ti tulag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "a nagbaetan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "nga agbalin"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "nga umili"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ket nagbaetan met"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    }
+  ],
+  "timestamp": "2026-09-26T13:49:15.168383533Z",
+  "model": "glm-5.3"
+}

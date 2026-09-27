@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ket nagpardas, ket inna busbusan ti kaddana iti paginumanan, ket nagtaray manen iti atabay mangala ti danum, ket inala ti danum para kadagiti amin a kamerana.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "ket nagpardas"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "ket inna busbusan"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "ti kaddana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "paginumanan"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ket nagtaray"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "atabay"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "mangala ti danum"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "ket inala ti danum"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para kadagiti amin"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "kamerana"
+    }
+  ],
+  "timestamp": "2026-09-26T02:16:03.067255536Z",
+  "model": "glm-5.3"
+}

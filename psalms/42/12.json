@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Apay a nababa ti nakemmo, kararua kuartak? Ken apay a agrumbongka iti nakku? Agurayka iti Elohim, ta idaydayawkopay: ti salakan ti rupak ken Elohimko.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "nababa ti nakemmo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kararua kuartak"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ken apay"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "agrumbongka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti nakku"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "agurayka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "iti Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "idaydayawko"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ti salakan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ken Elohimko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:56.641826624Z",
+  "model": "glm-5.3"
+}

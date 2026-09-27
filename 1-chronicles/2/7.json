@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ti anak ni Karmi: Akar, ti mangrirurang ti Yisrael, a nakem iti pananglalang iti nakonsekraran a butos.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ken ti anak"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ni Karmi"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "Akar"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "ti mangrirurang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nakem iti pananglalang"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "iti nakonsekraran a butos"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:50.096334242Z",
+  "model": "glm-5.3"
+}

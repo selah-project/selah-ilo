@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 45,
+  "translation": "Dagiti anak a babai dagiti ari adda kadagiti nadaydayawam; ti reyna agtakder iti kanawanmo, iti balitok ti Ophir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "Dagiti anak a babai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "kadagiti nadaydayawam"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "agtakder"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "ti reyna"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "iti kanawanmo"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "iti balitok"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ti Ophir"
+    }
+  ],
+  "timestamp": "2026-09-26T21:20:43.756626822Z",
+  "model": "glm-5.3"
+}

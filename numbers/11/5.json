@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Nalagipanmi ⟨את⟩ ti ikan a nankankanmi idiay Mitsrayim nga awan ti bayadna, ⟨את⟩ dagiti pipino ken ⟨את⟩ dagiti melon ken ⟨את⟩ ti puroy ken ⟨את⟩ dagiti sibuyas ken ⟨את⟩ dagiti ahos.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Nalagipanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ikan"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ti ikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "nankankanmi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "idiay Mitsrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga awan ti bayadna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pipino"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "dagiti pipino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti melon"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "dagiti melon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti puroy"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "ti puroy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti sibuyas"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "dagiti sibuyas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ahos"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "dagiti ahos"
+    }
+  ],
+  "timestamp": "2026-09-26T06:29:03.965657956Z",
+  "model": "glm-5.3"
+}

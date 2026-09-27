@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": " ken mangipatpatayiddanto dagiti anak ti estranghero ⟨את⟩ dagiti didigra yo, ken dagiti arida ket agserbida kenka; ta iti ragsakko binasaemka, ket iti kayatko binendisionannaka.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ken mangipatpatayiddanto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ti estranghero"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "dagiti didigra yo"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "ken dagiti arida"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "agserbida kenka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "iti ragsakko"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "binasaemka"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "ket iti kayatko"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "binendisionannaka"
+    }
+  ],
+  "timestamp": "2026-09-26T15:56:33.655755195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "a binendisionan ni Yahweh Tsevaot, a kinunana: Nasantuan a bendisionan ti umilik a Mitsrayim, ken ti aramid kadagiti imak nga Ashur, ken ti tawidko a Yisrael.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "binendisionan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kinunana"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "nasantuan a bendisionan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti umilik"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "a Mitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ken ti aramid"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kadagiti imak"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "a Ashur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ken ti tawidko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T14:40:14.309566380Z",
+  "model": "glm-5.3"
+}

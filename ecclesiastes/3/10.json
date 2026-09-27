@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Nakitak ⟨את⟩ ti pagobobraan a naited ni Elohim kadagiti anak ti tao a pagliseganda iti.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Nakitak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagobobraan"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "ti pagobobraan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naited"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "a pagliseganda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti"
+    }
+  ],
+  "timestamp": "2026-09-26T23:08:43.580426540Z",
+  "model": "glm-5.3"
+}

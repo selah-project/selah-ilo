@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "Ta dapo a kas tinapay ti nanganak, ken ti innumak iti panagsangit nangilaokak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "dapo"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "a kas tinapay"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ti nanganak"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ken ti innumak"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "iti panagsangit"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "nangilaokak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:28.496365240Z",
+  "model": "glm-5.3"
+}

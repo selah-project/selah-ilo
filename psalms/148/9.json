@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 148,
+  "translation": "Dagiti bantay ken amin a turod, kayo ti bunga ken amin a sedro,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "turod"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ti bunga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedro"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:33.963605138Z",
+  "model": "glm-5.3"
+}

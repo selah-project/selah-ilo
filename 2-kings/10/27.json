@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket dinadaelda ⟨את⟩ ti poste ni Baal, ket dinadaelda ⟨את⟩ ti balay ni Baal, ken inaramidda a pagmokraan agingga ita nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "dinadaelda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti poste ni Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ti poste"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "dinadaelda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti balay ni Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "inaramidda"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "a pagmokraan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ita nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T13:35:11.664859878Z",
+  "model": "glm-5.3"
+}

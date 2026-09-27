@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Ti pilak ti asham ken ti pilak ti daton ti basol, saan a maiyeg iti balay ni Yahweh; kadagiti padi ti agbalinanda.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ti pilak"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ti asham"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ken ti pilak"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ti daton ti basol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "a maiyeg"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kadagiti padi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ti agbalinanda"
+    }
+  ],
+  "timestamp": "2026-09-26T13:44:13.905643091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 110,
+  "translation": "Mizmor ni David. Ti imbaga ni Yahweh kenni apoak: Umenka iti kannawanko, agingga nga ikabilko dagiti kabusormo a pagtakkilan ti sakaam.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ti imbaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kenni apoak"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Umenka"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "iti kannawanko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nga ikabilko"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dagiti kabusormo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "pagtakkilan"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ti sakaam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:06.232371372Z",
+  "model": "glm-5.3"
+}

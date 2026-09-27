@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ket adda sakbitan a tanso iti sakanana, ken maysa a kidon a tanso iti nagbaetan ti abagnana.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "ken ti sakbitan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sakanana"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "ken maysa a kidon"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "ti abagnana"
+    }
+  ],
+  "timestamp": "2026-09-26T10:53:18.328498226Z",
+  "model": "glm-5.3"
+}

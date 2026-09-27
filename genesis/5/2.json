@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Lalaki ken babai pinarsuana ida, ken binendisanna ida, ket tinawagnana ⟨את⟩ ti naganda nga Adam, iti aldaw a pinarsuada ida.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Lalaki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ken babai"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "pinarsuana ida"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ken binendisanna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ket tinawagnana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganda"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ti naganda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nga Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "a pinarsuada ida"
+    }
+  ],
+  "timestamp": "2026-09-26T01:44:51.128608519Z",
+  "model": "glm-5.3"
+}

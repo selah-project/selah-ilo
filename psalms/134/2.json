@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 134,
+  "translation": "Iyatangyo dagiti imayo ⟨iti⟩ nasantuan a lugar, ket bendisionanyo ⟨ti⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Iyatangyo"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "dagiti imayo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan a lugar"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ket bendisionanyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ti Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:32.757537850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "ken ni Oved nagputot ⟨את⟩ kenni Yehu, ket ni Yehu nagputot ⟨את⟩ kenni Azaryah;",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ken ni Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "kenni Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ket ni Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "kenni Azaryah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:32:45.849217015Z",
+  "model": "glm-5.3"
+}

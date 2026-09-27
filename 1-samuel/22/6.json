@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 22:6",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Nangngeg ni Shaul ta naammuan ni David ken dagiti lalaki nga ⟨את⟩ kadakuana; ni Shaul ket nagtugaw iti Gibea, iti baba ti aeshel iti Rama, ken ti lansana iti imana, ket amin dagiti adipenna agtaktakder iti sanguanana.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "naammuan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ken dagiti lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kadakuana",
+      "marks": "kadakuana"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nagtugaw"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "iti Gibea"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti baba"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "ti aeshel"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "iti Rama"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "ken ti lansana"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "agtaktakder"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti sanguanana"
+    }
+  ],
+  "timestamp": "2026-09-26T11:11:10.295014038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "ket tinultuloy ti buyot dagiti Kasday ⟨ti⟩ ari, ken naabotanda ⟨את⟩ ni Zedekiah iti tanap ti Yericho, ket ti amin a buyotna nawarwaras manipud kenniana.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "tinultuloy"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "buyot"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "dagiti Kasday"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "ken naabotanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni Zedekiah"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "iti tanap"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ti Yericho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ket ti amin"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "buyotna"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "nawarwaras"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "manipud kenniana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:07:56.137276557Z",
+  "model": "glm-5.3"
+}

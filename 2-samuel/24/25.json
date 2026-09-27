@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 24:25",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Ket binaybayagna ni David idiay ti maysa nga altar kenn Yahweh, ket ipinaudina ⟨את⟩ dagiti natuded a sakripisio ken ⟨את⟩ dagiti sakripisio ti kappia, ket naawanan ni Yahweh ti daga, ket naikkat ti saluad manipud iti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "binaybayagna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti maysa nga altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenn Yahweh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ket ipinaudina"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dagiti natuded a sakripisio"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "ken dagiti sakripisio ti kappia"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ket naawanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ket naikkat"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ti saluad"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T12:12:11.769130345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket ⟨את⟩ ti karnero tinippogna kadagiti pasetna, ket pinagsienan ni Moshe iti apoy ⟨את⟩ ti ulo ken ⟨את⟩ dagiti paset ken ⟨את⟩ tabana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ken ⟨את⟩",
+      "marks": "ti karnero"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ti karnero"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "tinippogna"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "kadagiti pasetna"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "pinagsienan iti apoy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ti ulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti paset"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "dagiti paset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "tabana"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "tabana"
+    }
+  ],
+  "timestamp": "2026-09-26T05:18:21.767982588Z",
+  "model": "glm-5.3"
+}

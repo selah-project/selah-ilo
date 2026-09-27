@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 104,
+  "translation": "Ti agipatulod kadagiti ubbog kadagiti waig; iti nagbaetan dagiti bantay agnaenda.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "ti agipatulod"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "kadagiti ubbog"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "kadagiti waig"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "agnaenda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:43.035172290Z",
+  "model": "glm-5.3"
+}

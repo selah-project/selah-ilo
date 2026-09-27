@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ket itedko ti Mishkakko iti tengnga yo, ket saan a magaay ti kararwak ⟨את⟩ kadakayo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "itedko"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "ti Mishkakko"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "iti tengnga yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "magaay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kadakayo",
+      "marks": "kadakayo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:54:47.159803391Z",
+  "model": "glm-5.3"
+}

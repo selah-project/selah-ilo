@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 87,
+  "translation": "Dagiti anak ni Korakh — maysa a mizmor, maysa a kanta — ti pundasionna adda kadagiti nasantuan a bantay.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Dagiti anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korakh"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "maysa a mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "maysa a kanta"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "ti pundasionna"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "adda kadagiti bantay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:05.900044436Z",
+  "model": "glm-5.3"
+}

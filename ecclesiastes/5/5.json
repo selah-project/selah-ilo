@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Saanmo nga ited ⟨את⟩ ti ngiwatmo a mangbasol ⟨את⟩ iti lasagmo, ket saanmo a kunaen iti sango ti mensahero a biddut daytoy; apay a madger ni Elohim iti timekmo ken dadaelenna ⟨את⟩ ti aramid dagiti imam?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ited"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ngiwatmo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ngiwatmo"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "a mangbasol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lasagmo"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "lasagmo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saanmo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "kunaen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ti mensahero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "biddut"
+    },
+    {
+      "surface": "היא",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "madger"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "timekmo"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ken dadaelenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti aramid dagiti imam"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:15.691635425Z",
+  "model": "glm-5.3"
+}

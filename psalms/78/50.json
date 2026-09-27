@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Inandana ti dalan ti ungerna; saan a pinulusanna ti kararuada manipud iti patay, ket ti biagda iti peste ipatorna.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "inandana"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "ti dalan"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "ti ungerna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a pinulusanna"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "manipud iti patay"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ti kararuada"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "ken ti biagda"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "iti peste"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "ipatorna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:51.896452660Z",
+  "model": "glm-5.3"
+}

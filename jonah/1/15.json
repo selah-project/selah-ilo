@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "ket inalada ⟨את⟩ ni Yonah ket inipulangna iti baybay, ket naginana ti baybay manipud iti panagbagyona.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ket inalada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ni Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ket inipulangna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ket naginana"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "manipud iti panagbagyona"
+    }
+  ],
+  "timestamp": "2026-09-26T20:03:16.380042247Z",
+  "model": "glm-5.3"
+}

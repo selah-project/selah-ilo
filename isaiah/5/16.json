@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "ket nangato ni Yahweh ti Tsevaot iti ukom, ket ti nasantuan nga El pinasantona iti kinanailinteg.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ket nangato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "ket ti El"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "ti nasantuan"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "pinasantona"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "iti kinanailinteg"
+    }
+  ],
+  "timestamp": "2026-09-26T14:25:10.003494343Z",
+  "model": "glm-5.3"
+}

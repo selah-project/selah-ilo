@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 80,
+  "translation": "Ipatulodna dagiti sangana agingga iti baybay, ken iti karayan dagiti sanga a rimmuar.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ipatulodna"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "dagiti sangana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "dagiti sanga a rimmuar"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:10.248330355Z",
+  "model": "glm-5.3"
+}

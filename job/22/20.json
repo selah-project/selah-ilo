@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Saan kadin a napukaw dagiti kabusorronta, ket ti nabatida ket inkanan ti apoy?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "napukaw"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "dagiti kabusorronta"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "ket ti nabatida"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "inkanan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:53:53.191323997Z",
+  "model": "glm-5.3"
+}

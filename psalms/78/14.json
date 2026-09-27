@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket tinuronganna ida iti ulep iti aldaw, ken ti amin a rabii iti lawag ti apoy.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ket tinuronganna ida"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "iti ulep"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "a rabii"
+    },
+    {
+      "surface": "באור",
+      "gloss": "iti lawag"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ti apoy"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:55.892657509Z",
+  "model": "glm-5.3"
+}

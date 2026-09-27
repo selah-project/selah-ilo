@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Ken aramidemno ⟨את⟩ dagiti bad a kayo iti shittim, ket isabsabam ⟨את⟩ dagiti iti balitok.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aramidemno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bad"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dagiti bad"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "isabsabam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    }
+  ],
+  "timestamp": "2026-09-26T04:24:54.013138398Z",
+  "model": "glm-5.3"
+}

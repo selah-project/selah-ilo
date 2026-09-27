@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ken ti agtaeng saanmo a liddawan, ta dakayo ket ammoyo ⟨את⟩ ti kararua ti agtaeng, ta agtaengkayo idi iti daga ti Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ken ti agtaeng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "mo a liddawan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ken dakayo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ammoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kararua ti agtaeng"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ti agtaeng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "agtaengkayo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "idi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-26T04:07:46.902277942Z",
+  "model": "glm-5.3"
+}

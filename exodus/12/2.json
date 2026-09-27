@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Daytoy a bulan ti ulo dagiti bulan kadakayo; umuna daytoy kadakayo kadagiti bulan ti tawen.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Ti bulan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "dagiti bulan"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "umuna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "kadagiti bulan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ti tawen"
+    }
+  ],
+  "timestamp": "2026-09-26T03:45:56.049826474Z",
+  "model": "glm-5.3"
+}

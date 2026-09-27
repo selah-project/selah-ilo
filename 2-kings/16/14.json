@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 16:14",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket ⟨את⟩ ti altar ti tanso a naisango kenni Yahweh, inna asidegen manipud ⟨את⟩ ti sangoan ti balay, manipud iti nagbaetan ti altar ken ti balay ni Yahweh, ket inna ikabil ⟨את⟩ daytoy iti bangir ti altar, iti amianan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ket ⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ti tanso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a naisango kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "inna asidegen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manipud ⟨את⟩",
+      "marks": "ti sangoan ti balay"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti sangoan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "manipud iti nagbaetan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "ken iti nagbaetan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket inna ikabil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ daytoy",
+      "marks": "ti altar ti tanso"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "bangir"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "iti amianan"
+    }
+  ],
+  "timestamp": "2026-09-26T13:58:06.579429375Z",
+  "model": "glm-5.3"
+}

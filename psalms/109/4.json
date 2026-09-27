@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Imbes ti ayatko, kinabusorda nak; ngem siak — tarawagdi.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Imbes"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ti ayatko"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "kinabusorda nak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ngem siak"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "tarawagdi"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:49.985817106Z",
+  "model": "glm-5.3"
+}

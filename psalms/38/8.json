@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Ta dagiti pinggirko napnooda iti puor, ket awan ti kinapno iti lasagko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "dagiti pinggirko"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napnooda"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "iti puor"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kinapno"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "iti lasagko"
+    }
+  ],
+  "timestamp": "2026-09-26T21:14:08.262335973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ti kaykayatna ni Arod, ti pamilia dagiti Arodi; ti kaykayatna ni Areli, ti pamilia dagiti Areli.",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "ti kaykayatna ni Arod"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "dagiti Arodi"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "ti kaykayatna ni Areli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "dagiti Areli"
+    }
+  ],
+  "timestamp": "2026-09-26T07:00:58.333874112Z",
+  "model": "glm-5.3"
+}

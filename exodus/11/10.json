@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ni Moshe ken ni Aharon ket inar-aramidda amin dagitoy a paradiso iti sango ni Paro, ket pinigsaan ni Yahweh ⟨את⟩ ti puso ni Paro, ket saanna nga ipan ⟨את⟩ dagiti anak nga anak ti Yisrael a mapan iti ruar iti daga na.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Ni Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ken ni Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inar-aramidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagitoy a paradiso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "dagiti paradiso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ditoy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "pinigsaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti puso ni Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nga ipan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ti Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "iti ruar iti daga na"
+    }
+  ],
+  "timestamp": "2026-09-26T03:37:47.978047711Z",
+  "model": "glm-5.3"
+}

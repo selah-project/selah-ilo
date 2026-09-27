@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "ket ilakayokanto ⟨Аת⟩ dagiti anak a lalaki yo ⟨את⟩ ken ⟨Аת⟩ dagiti anak a babai yo iti ima dagiti anak a lalaki ni Yehudah, ket ilakayo da ida kadagiti tattao a Sheba, iti maysa nga umili nga adayo; ta nagsao ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "ket ilakayokanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨Аת⟩",
+      "marks": "dagiti anak a lalaki yo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "dagiti anak a lalaki yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ken ⟨Аת⟩",
+      "marks": "dagiti anak a babai yo"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "dagiti anak a babai yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "iti ima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "ket ilakayo da ida"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "kadagiti tattao a Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "maysa nga umili"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "nga adayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    }
+  ],
+  "timestamp": "2026-09-26T19:45:22.172988191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "No pay iti daytoy, nalukatam ti matam, ken ⟨את⟩ kaniak iyegmo iti ukom a kaduaam.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "no pay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "nalukatam"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ti matam"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ken ⟨את⟩ kaniak",
+      "marks": "kaniak"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "iyegmo"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "a kaduaam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:51:35.946030414Z",
+  "model": "glm-5.3"
+}

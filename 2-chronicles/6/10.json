@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 6:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ket tinungpal ni Yahweh ⟨את⟩ ti saona a nagsao, ket immayak a nagtakder iti lugar ni David amak, ket nagtugawak iti trono ti Yisrael, kas iti nagsao ni Yahweh, ket intakderko ti balay iti nagan ni Yahweh, Elohim ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ket tinungpal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti saona"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ti saona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "ואקום",
+      "gloss": "ket immayak a nagtakder"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "iti lugar ni"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amak"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "ket nagtugawak"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas iti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ket intakderko"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T23:45:35.735093431Z",
+  "model": "glm-5.3"
+}

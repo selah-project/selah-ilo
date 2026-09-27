@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "ibabanda dagiti lakay ti dayta nga ili ⟨את⟩ ti bakoko iti maysa a natibker a karayan a saan a mautilis iti ken saan a mulaan iti, ket kolekanda sadiay ⟨את⟩ ti bakoko iti karayan.",
+  "tokens": [
+    {
+      "surface": "והורידו",
+      "gloss": "ibabanda"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "dagiti lakay"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bakoko"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ti bakoko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "karayan"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "natibker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יעובד",
+      "gloss": "mautilis"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "mulaan"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "kolekanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti bakoko"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ti bakoko"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "iti karayan"
+    }
+  ],
+  "timestamp": "2026-09-26T08:14:19.227074961Z",
+  "model": "glm-5.3"
+}

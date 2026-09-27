@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Nasayaat ni Yahweh iti amin, ken dagiti asina adda iti amin nga aramidna.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ken dagiti asina"
+    },
+    {
+      "surface": "על",
+      "gloss": "adda iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin nga"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "aramidna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:08.916866645Z",
+  "model": "glm-5.3"
+}

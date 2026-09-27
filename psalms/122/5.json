@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 122,
+  "translation": "Ta sadiay agnanaedda dagiti trono ti ukom, dagiti trono ti balay ni David.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "agnanaedda"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "dagiti trono"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "dagiti trono"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:46.781231622Z",
+  "model": "glm-5.3"
+}

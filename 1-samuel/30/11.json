@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Nakitada maysa a lalaki a Mitsri iti talon, ken inalada ⟨את⟩ kenni ni David, ket itedda kenkuana tinapay ken nangan, ket inuminnumanda danum.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "nakitada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maysa a lalaki"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "a Mitsri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "iti talon"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ken inalada"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mitsri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ket itedda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ken nangan"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ket inuminnumanda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    }
+  ],
+  "timestamp": "2026-09-26T11:17:22.094889654Z",
+  "model": "glm-5.3"
+}

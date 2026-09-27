@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ipadawatna kadakuada dagiti lamok, ket nangan kaniada; ken dagiti tugak, ket nangdadael kaniada.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ipadawatna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "dagiti lamok"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "ket nangan kaniada"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "ken dagiti tugak"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "ket nangdadael kaniada"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:34.053592749Z",
+  "model": "glm-5.3"
+}

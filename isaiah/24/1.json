@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Kitaen, ni Yahweh mangibaba ti daga ken maibaba dayta, inbalbaliwna ti rupana ken naiwarwara dagiti agnanaed iti dayta.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kitaen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "mangibaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "ken maibaba dayta"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "inbalbaliwna"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ti rupana"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "ken naiwarwara"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "dagiti agnanaed iti dayta"
+    }
+  ],
+  "timestamp": "2026-09-26T14:55:33.122241303Z",
+  "model": "glm-5.3"
+}

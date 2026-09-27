@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Immatakder a nagbaetan dagiti natayan ken dagiti sibibiag, ket napardeng ti peste.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "immatakder"
+    },
+    {
+      "surface": "בין",
+      "gloss": "a nagbaetan"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "dagiti natayan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dagiti sibibiag"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ket napardeng"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ti peste"
+    }
+  ],
+  "timestamp": "2026-09-26T06:41:31.696872192Z",
+  "model": "glm-5.3"
+}

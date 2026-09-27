@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken ni Daniel ket agnaed agingga iti umuna a tawen ni Koresh nga ari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ni Daniel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tawen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "umuna"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "ni Koresh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga ari"
+    }
+  ],
+  "timestamp": "2026-09-26T23:14:19.619305033Z",
+  "model": "glm-5.3"
+}

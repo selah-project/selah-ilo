@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket dagiti anak a lalaki ni Yisrael ket nagbunga, nagadu, dimmakdakkel ken nakaro unay unay; ket napno ti daga ⟨iti kadakuada⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ket dagiti anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "nagbunga"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "nagadu"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "dimmakdakkel"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "nakaro"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ket napno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iti kadakuada — dagiti anak a lalaki ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T03:22:48.054758007Z",
+  "model": "glm-5.3"
+}

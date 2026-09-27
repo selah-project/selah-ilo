@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Ti mangisulo ⟨את⟩ iti baka digosanna dagiti badona iti danum, ken digosanna ti lasagna iti danum, ken narugit aginggana iti rabii.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "ti mangisulo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iti baka"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "digosanna"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "dagiti badona"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ken digosanna"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ti lasagna"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ken narugit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aginggana"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iti rabii"
+    }
+  ],
+  "timestamp": "2026-09-26T06:51:25.873891563Z",
+  "model": "glm-5.3"
+}

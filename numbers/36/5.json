@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Inbilin ni Moshe ⟨את⟩ dagiti anak ni Yisrael segun iti ngiwat ni Yahweh, a kunana: Umiso ti nasaoan ti tribu dagiti anak ni Yosef.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "inbilin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "segun iti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ngiwat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "umiso"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ti tribu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "nasaoanda"
+    }
+  ],
+  "timestamp": "2026-09-26T07:28:47.978528681Z",
+  "model": "glm-5.3"
+}

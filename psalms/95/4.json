@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 95,
+  "translation": "Asi ti adda iti imana dagiti kaadalem ti daga, ket dagiti kataytayagan dagiti bantay kukuana.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "adda iti imana"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "dagiti kaadalem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "dagiti kataytayagan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dagiti bantay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kukuana"
+    }
+  ],
+  "timestamp": "2026-09-26T22:22:04.578176273Z",
+  "model": "glm-5.3"
+}

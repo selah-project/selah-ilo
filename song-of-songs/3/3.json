@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Biniruakanda nak dagiti agbantay, dagiti agsorsorround iti ili; ⟨את⟩ ti ay-aten ti kararwak, nakitanyo?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "biniruakanda nak"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "dagiti agbantay"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "dagiti agsorsorround"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ay-aten ti kararwak"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "ti ay-aten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nakitanyo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:03:50.591472697Z",
+  "model": "glm-5.3"
+}

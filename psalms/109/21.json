@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Ngem sika, Yahweh Adonay, aramidenmo ⟨את⟩ kaniak maipapan ti naganmo; ta naimbag ti hesedmo, salakanmo ako.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngem sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aramidenmo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kaniak",
+      "marks": "kaniak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "maipapan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ti hesedmo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "salakanmo ako"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:48.878614059Z",
+  "model": "glm-5.3"
+}

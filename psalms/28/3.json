@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Saanmo koma ak nga itaray kadagiti dakes, ken kadagiti agob-obra iti awan; dagiti nagsasao ti kappia kadagiti kaarrubada, ngem dakes ti iti pusoda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "saanmo koma"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ak nga itaray"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ken kadagiti"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "agob-obra"
+    },
+    {
+      "surface": "און",
+      "gloss": "iti awan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti nagsasao"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kappia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "kaarrubada"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ngem dakes"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "iti pusoda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:05:20.761994009Z",
+  "model": "glm-5.3"
+}

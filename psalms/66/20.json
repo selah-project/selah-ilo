@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "Bendisionan ti Elohim, a saan nga inikkatna ti kararagak, ken ti hesedna ⟨מאת⟩ kaniak.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bendisionan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "inikkatna"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ti kararagak"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ken ti hesedna"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨מאת⟩ kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:34:58.730361073Z",
+  "model": "glm-5.3"
+}

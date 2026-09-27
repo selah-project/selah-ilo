@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 77,
+  "translation": "Nalpawan kadi iti agnanayon ti hesedna? Naibus kadi ti sao ⟨na⟩ iti maysa a kaputotan ken iti sabali a kaputotan?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "nalpawan"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ti hesedna"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "naibus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "iti maysa a kaputotan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ken iti sabali a kaputotan"
+    }
+  ],
+  "timestamp": "2026-09-26T21:50:38.004458700Z",
+  "model": "glm-5.3"
+}

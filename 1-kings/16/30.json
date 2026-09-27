@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ket inaramid ni Ahab nga anak ni Omri ti dakes iti matana ni Yahweh, ngem amin dagiti nagbaonanna.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ket inaramid"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ni Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti matana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngem amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dagiti"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "nagbaonanna"
+    }
+  ],
+  "timestamp": "2026-09-26T13:00:14.128345388Z",
+  "model": "glm-5.3"
+}

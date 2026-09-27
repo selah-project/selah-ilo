@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Dagitoy ti dagiti linteg a bilin ni Yahweh kenni Moshe ⟨את⟩, iti nagbaetan ti maysa a lalaki ken asawana, iti nagbaetan ti ama ken anakna a babai, iti panawen ti kabataanna, iti balay ti amana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "dagiti linteg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a lalaki"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "ken asawana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ti ama"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ken anakna a babai"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "iti panawen ti kabataanna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iti balay"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ti amana"
+    }
+  ],
+  "timestamp": "2026-09-26T07:13:41.429793741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 60,
+  "translation": "Intigngayam ti daga, binukam ⟨ti⟩; agasem dagiti rangrangrana, ta agkidngay.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Intigngayam"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "binukam"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "agasem"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "dagiti rangrangrana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "agkidngay"
+    }
+  ],
+  "timestamp": "2026-09-26T21:36:07.285201724Z",
+  "model": "glm-5.3"
+}

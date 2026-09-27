@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ikkatam, saanmo nga agballasiw iti dayta; agbaliwka manipud iti dayta ken agballasiwka.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "Ikkatam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "nga agballasiw"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "agbaliwka"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "manipud iti dayta"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "ken agballasiwka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:28.601206095Z",
+  "model": "glm-5.3"
+}

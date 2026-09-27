@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "ket isuenan ti padi dagitoy iti rabaw ti altar — a kanen ti daton nga apoy, iti angot a nakairagsakan; amin a taba ⟨ket⟩ ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "isuenan ti padi dagitoy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "iti rabaw ti altar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "a kanen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ti daton nga apoy"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "iti angot"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "a nakairagsakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "a taba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ken ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:53:43.564049259Z",
+  "model": "glm-5.3"
+}

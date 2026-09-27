@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 7:2",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Kas ti adipen a maim-imon iti aninip, ket kas ti agtrabaho iti bayad a makaur-uray iti bayadna.",
+  "tokens": [
+    {
+      "surface": "כעבד",
+      "gloss": "kas ti adipen"
+    },
+    {
+      "surface": "ישאף",
+      "gloss": "maim-imon"
+    },
+    {
+      "surface": "צל",
+      "gloss": "iti aninip"
+    },
+    {
+      "surface": "וכשכיר",
+      "gloss": "ket kas ti agtrabaho iti bayad"
+    },
+    {
+      "surface": "יקוה",
+      "gloss": "makaur-uray"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "iti bayadna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:49:25.672499583Z",
+  "model": "glm-5.3"
+}

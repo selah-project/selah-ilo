@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "No datonna ket olah a manipud kaditi baka — lalaki, awan dipesna — ipaayna ⟨ti⟩; iti sango ti ruangan ti Tolda ti Gimong ipaayna ⟨את⟩ dayta para iti pannakaiyawatna iti sanguanan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "datonna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kaditi baka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "awan dipesna"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ipaayna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sango ti ruangan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ipaayna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dayta (ti olah)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "para iti pannakaiyawatna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T04:55:43.476927764Z",
+  "model": "glm-5.3"
+}

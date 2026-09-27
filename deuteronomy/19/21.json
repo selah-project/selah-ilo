@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "ket saan a maasi ti matam: kararua para iti kararua, mata para iti mata, ngipen para iti ngipen, ima para iti ima, saka para iti saka.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "a maasi"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ti matam"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kararua"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "para iti kararua"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "para iti mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipen"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "para iti ngipen"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ima"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "para iti ima"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "para iti saka"
+    }
+  ],
+  "timestamp": "2026-09-26T08:09:29.179981526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Nasantuan ti Yisrael kenni Yahweh, ti umuna a bunga ti apitna; amin dagiti mangan ⟨את⟩ kenkuana ket agbasolda; maumman ti dakes kadakuada, ti pakasaritaan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Nasantuan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ti umuna a bunga"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ti apitna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "dagiti mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana (iti Yisrael)"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ket agbasolda"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ti dakes"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "maumman"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ti pakasaritaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T16:14:27.980747070Z",
+  "model": "glm-5.3"
+}

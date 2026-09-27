@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "ket kinunana kenni David: Nalintegka nga ad-adu kaniak, ta inaramidmo kaniak ti naimbag, ket siak inaramidak kenka ti dakes.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nga ad-adu kaniak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "inaramidmo kaniak"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ti naimbag"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "inaramidak kenka"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ti dakes"
+    }
+  ],
+  "timestamp": "2026-09-26T11:08:09.265327919Z",
+  "model": "glm-5.3"
+}

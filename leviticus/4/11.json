@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ken ⟨את⟩ ti kudil ti baka, ken ⟨את⟩ amin a lasagna — lasag na, iti ulo na ken iti saka na, ken ti uneg na ken ti tae na.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ken ⟨את⟩",
+      "marks": "ti kudil ti baka"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ti kudil"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ti baka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a lasag na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "a lasag na"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulo na"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "saka na"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ken ti uneg na"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ken ti tae na"
+    }
+  ],
+  "timestamp": "2026-09-26T04:57:41.370164080Z",
+  "model": "glm-5.3"
+}

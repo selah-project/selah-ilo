@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Iti dayta nga aldaw, ni Yahweh Tsevaot agbalin a korona ti pintas ken korona ti daydayaw, iti nabati a umilina.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "iti dayta nga aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "a korona"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "pintas"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "ken korona"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "daydayaw"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "iti nabati"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a umilina"
+    }
+  ],
+  "timestamp": "2026-09-26T14:58:45.756590215Z",
+  "model": "glm-5.3"
+}

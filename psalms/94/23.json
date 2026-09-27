@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 94,
+  "translation": "ket isublina kaniada ⟨את⟩ ti kinadakesda, ket iti dakesda ipukpukpukawenna da; ipukpukpukawenna da ni Yahweh, ti Elohimtayo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ket isublina"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kinadakesda"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ti kinadakesda"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "ket iti dakesda"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ipukpukpukawenna da"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ipukpukpukawenna da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimtayo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:36.722613276Z",
+  "model": "glm-5.3"
+}

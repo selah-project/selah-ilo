@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Nakaykayatanda ngem balitok, ket ngem adu a napino a balitok; nantamtanda ngem diro ken ti agtikkop a diro ti bukodna a pukot.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "Nakaykayatanda"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ngem balitok"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ket ngem napino a balitok"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "nantamtanda"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "ngem diro"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "ket ti agtikkop a diro"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "ti pukot ti abel"
+    }
+  ],
+  "timestamp": "2026-09-26T20:57:00.495173001Z",
+  "model": "glm-5.3"
+}

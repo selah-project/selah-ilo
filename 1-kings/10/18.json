@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket nagaramid ti ari iti maysa a dakkel a trono iti ngipen ti gading, ket insakopanna dayta iti napino a balitok.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ket nagaramid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipen ti gading"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "ket insakopanna dayta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "napino"
+    }
+  ],
+  "timestamp": "2026-09-26T12:38:26.635189710Z",
+  "model": "glm-5.3"
+}

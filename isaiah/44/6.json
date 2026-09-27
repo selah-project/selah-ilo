@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 44:6",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Kasta kinuna ni Yahweh, ari ti Yisrael, ken ti goelna, ni Yahweh ti Tsevaot: Siak ti umuna ken siak ti maudi, ken no iti ruar kaniak awan ti Elohim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "ken ti goelna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ti Tsevaot"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ti umuna"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ken siak"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ti maudi"
+    },
+    {
+      "surface": "ומבלעדי",
+      "gloss": "ken no iti ruar kaniak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T15:31:08.468702383Z",
+  "model": "glm-5.3"
+}

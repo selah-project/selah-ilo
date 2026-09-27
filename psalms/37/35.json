@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 37,
+  "translation": "Nakitak ti maysa a dakes a nakaro iti bileg, ket agsiksikna kas iti pateng a kayo a naberde nga agsanga.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Nakitak"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti maysa a dakes"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "a nakaro iti bileg"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "ket agsiksikna"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "kas iti pateng a kayo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "a naberde nga agsanga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:12:53.660972970Z",
+  "model": "glm-5.3"
+}

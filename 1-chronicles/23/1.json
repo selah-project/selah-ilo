@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ni David ket napanda a lakay ken natlokan iti tawen, ket inarina ni Shelomoh nga anakna ari iti Yisrael ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Ni David ket"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "napanda a lakay"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ken natlokan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "inarina ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ngaanakna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-27T00:06:35.484120324Z",
+  "model": "glm-5.3"
+}

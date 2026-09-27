@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ita, magna ken patpateem ⟨את⟩ ti Amalek, ken dadaelennyo nga awan iiwan ⟨את⟩ amin a tagikuana, ken saanmo koma a maasi kenkuana; ket patenem manipud iti lalaki agingga iti babai, manipud iti ubing agingga iti masuso, manipud iti baka agingga iti karnero, manipud iti kamelio agingga iti buriko.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magna"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "ken patpateem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ti Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "ken dadaelennyo nga awan iiwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a tagikuana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tagikuana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanmo koma"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "a maasi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "ket patenem"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "manipud iti lalaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babai"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "manipud iti ubing"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "masuso"
+    },
+    {
+      "surface": "משור",
+      "gloss": "manipud iti baka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "שה",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "manipud iti kamelio"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "buriko"
+    }
+  ],
+  "timestamp": "2026-09-26T10:51:52.403239232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Iparotna ti ulona, ngem ⟨את⟩ ti netek saanna nga iparot; ket iserrana ti padi ⟨את⟩ ti netek iti pito nga aldaw, maikadua.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "iparotna ti ulona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ti netek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "iparot"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "iserrana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ti netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "maikadua"
+    }
+  ],
+  "timestamp": "2026-09-26T05:22:57.903748494Z",
+  "model": "glm-5.3"
+}

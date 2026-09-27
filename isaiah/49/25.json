@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Ta kasta ti kinuna ni Yahweh: ti naala pay ti guerrer ket maalana, ken ti inala ti tiran ket makatalawan; ken ⟨את⟩ ti sumuppiatmo siak ti makilabak, ken ⟨את⟩ dagiti annakmo siak ti mangisalakan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ti naala"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "guerrer"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "maalana"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "ken ti inala"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "tiran"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "makatalawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti sumuppiatmo"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "ti sumuppiatmo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "makilabak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti annakmo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dagiti annakmo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "mangisalakan"
+    }
+  ],
+  "timestamp": "2026-09-26T15:43:18.439160002Z",
+  "model": "glm-5.3"
+}

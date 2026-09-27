@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "ket alaem sadiay ti bassit a bilang, ket gappuenmo ⟨את⟩ dagitoy kadagiti pingenmo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ket alaem"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "a bilang"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ket gappuenmo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dagitoy",
+      "marks": "kadagiti pingenmo"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "kadagiti pingenmo"
+    }
+  ],
+  "timestamp": "2026-09-26T18:11:28.804058004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Itedna ti makan ti ayup, kadagiti annak ti uwak nga agawaganda.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Itedna"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ti ayup"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ti makan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kadagiti annak"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ti uwak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "agawaganda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:42.652918669Z",
+  "model": "glm-5.3"
+}

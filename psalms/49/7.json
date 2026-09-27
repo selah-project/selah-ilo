@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Dagiti agtalek iti bilegda ken iti kaadu ti kayamananda ket agdaydayawda.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "dagiti agtalek"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "bilegda"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ken iti kaadu"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ti kayamananda"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "agdaydayawda"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:08.253572536Z",
+  "model": "glm-5.3"
+}

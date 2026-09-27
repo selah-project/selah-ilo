@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ta no adda banagda nga ummay kaniak, agukomak iti nagbaetan ti maysa a lalaki ken ti kakaabbana, ket iparangarangkono ⟨את⟩ dagiti linteg ti Elohim ken ⟨את⟩ dagiti Torahna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no adda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "banagda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "banag"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ngummay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "agukomak"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iti nagbaetan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a lalaki"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ti kakaabbana"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "ket iparangarangkono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti linteg"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "dagiti linteg"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Torahna"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "dagiti Torahna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:02:21.114830910Z",
+  "model": "glm-5.3"
+}

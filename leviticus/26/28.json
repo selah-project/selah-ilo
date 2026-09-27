@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "ket siak met ti agsursurak kadakayo ⟨את⟩ iti kaariwtot a suppiat, ket idisiplinak ⟨את⟩ dakayo — siak met — pito a beses gapu kadagiti basolyo.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "agsursurak"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "iti kaariwtot"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "suppiat"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "idisiplinak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "met"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu kadagiti"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "basolyo"
+    }
+  ],
+  "timestamp": "2026-09-26T06:01:58.452691009Z",
+  "model": "glm-5.3"
+}

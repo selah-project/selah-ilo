@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ken ⟨את⟩ ti karnero a lalaki partsenmo kadagiti pasetna, ken labanem ti kauneganna ken dagiti sakaanna, ken itedmo dagitoy iti nakapartenna ken iti ulona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti karnero a lalaki"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ti karnero a lalaki"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "partsenmo"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "kadagiti pasetna"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ken labanem"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ti kauneganna"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "ken dagiti sakaanna"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ken itedmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "nakapartenna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulona"
+    }
+  ],
+  "timestamp": "2026-09-26T23:59:23.886150103Z",
+  "model": "glm-5.3"
+}

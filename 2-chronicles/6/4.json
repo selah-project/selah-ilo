@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket kinuna: Bendisionaan ni Yahweh, ti Elohim ti Yisrael, ti nagsao babaen iti ngiwatna ni ⟨את⟩ David nga amak, ken tinungpalna babaen iti imana, a kunkuna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Bendisionaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "babaen iti ngiwatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni David nga amak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nga amak"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "ken babaen iti imana"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tinungpalna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:44:40.734661048Z",
+  "model": "glm-5.3"
+}

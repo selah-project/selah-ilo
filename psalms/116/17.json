@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Kenka isakripisiok ti sakripisio ti panagyaman, ket iti nagan ni Yahweh awaganko.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "isakripisiok"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ti sakripisio"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ti panagyaman"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ket iti nagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "awaganko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:04.879326385Z",
+  "model": "glm-5.3"
+}

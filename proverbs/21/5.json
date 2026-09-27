@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Dagiti kapanunotan ti nalaing ket adda laeng iti kaadu; ngem ti tunggal maysa a napartak, adda laeng iti kaawan.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "Dagiti kapanunotan"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ti nalaing"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "iti kaadu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ngem ti tunggal"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "napartak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "iti kaawan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:41:47.164145020Z",
+  "model": "glm-5.3"
+}

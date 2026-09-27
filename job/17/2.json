@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 17:2",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Saan kadi a dagiti agtutuya ti kaduak, ken ti matak agnanaed ⟨iti⟩ panagbaliwdada?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "התלים",
+      "gloss": "dagiti agtutuya"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ti kaduak"
+    },
+    {
+      "surface": "ובהמרותם",
+      "gloss": "iti panagbaliwdada"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ti matak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:52:45.595942197Z",
+  "model": "glm-5.3"
+}

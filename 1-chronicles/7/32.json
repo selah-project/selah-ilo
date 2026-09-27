@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Ken ni Khever nagputot ⟨את⟩ kenni Yaphlet ken ⟨את⟩ ni Shomer ken ⟨את⟩ ni Khotam ken ⟨את⟩ ni Shua nga kabsatda a babai.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Ken ni Khever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaphlet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "kenni Yaphlet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ni Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Khotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ni Khotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "ni Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "nga kabsatda a babai"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:16.289761461Z",
+  "model": "glm-5.3"
+}

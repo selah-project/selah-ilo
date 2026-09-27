@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket ni Avshalom ken ti amin ti umili, dagiti lalaki ti Yisrael, immayda idiay Yerushalayim, ken ni Akhitoel ⟨את⟩ kaduana.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ket ni Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken ti amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dagiti lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "באו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "idiay Yerushalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "ken ni Akhitoel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaduana",
+      "marks": "kaduana"
+    }
+  ],
+  "timestamp": "2026-09-26T11:52:50.640977653Z",
+  "model": "glm-5.3"
+}

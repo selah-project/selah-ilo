@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 145,
+  "translation": "Iti tunggal aldaw bendisionannakanto, ket daydayawennakanto ti naganmo iti agnanayon ken iti naud-udi.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Iti tunggal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aldaw"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "bendisionannakanto"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "ket daydayawennakanto"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti naganmo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iti agnanayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ken iti naud-udi"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:06.462386509Z",
+  "model": "glm-5.3"
+}

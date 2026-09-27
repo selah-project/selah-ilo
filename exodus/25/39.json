@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Maysa a talento a balitok a nadalus — aramidento ⟨את⟩ dayta, ⟨את⟩ amin dagiti ramramit a dita.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "maysa a talento"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "balitok"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadalus"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "aramidento"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ dayta",
+      "marks": "dayta (ti lamparan)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti ramramit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "dagiti ramramit"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a dita"
+    }
+  ],
+  "timestamp": "2026-09-26T04:16:10.984083710Z",
+  "model": "glm-5.3"
+}

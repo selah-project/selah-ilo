@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 5:10",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Ti reyna, gapu iti dagiti sao ti ari ken dagiti lakay-na a dapigan, sinrek iti pagfiestaan; kininna ti reyna ken kinuna: O ari, agbiagka agnanayon! Saan a pagbutbutekam dagiti panunotmo, ken ti rupa-mo saan a maibalbaliwan.",
+  "tokens": [
+    {
+      "surface": "מלכתא",
+      "gloss": "Ti reyna"
+    },
+    {
+      "surface": "לקבל",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ורברבנוהי",
+      "gloss": "ken dagiti lakay-na a dapigan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "iti"
+    },
+    {
+      "surface": "משתיא",
+      "gloss": "pagfiestaan"
+    },
+    {
+      "surface": "עללת",
+      "gloss": "sinrek"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "kininna"
+    },
+    {
+      "surface": "מלכתא",
+      "gloss": "ti reyna"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ken kinuna"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "agbiagka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יבהלוך",
+      "gloss": "pagbutbutekam"
+    },
+    {
+      "surface": "רעיונך",
+      "gloss": "dagiti panunotmo"
+    },
+    {
+      "surface": "וזיויך",
+      "gloss": "ken ti rupa-mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישתנו",
+      "gloss": "maibalbaliwan"
+    }
+  ],
+  "timestamp": "2026-09-27T00:04:07.304582698Z",
+  "model": "glm-5.3"
+}

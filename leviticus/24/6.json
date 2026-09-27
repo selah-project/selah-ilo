@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "ket isurom dagitoy ⟨את⟩ a dua a hilera, innem ti tunggal hilera, iti ngato ti lamisaan a nalawag, iti sanguan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "isurom"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy (dagiti tinapay)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "hilera"
+    },
+    {
+      "surface": "שש",
+      "gloss": "innem"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ti hilera"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ti lamisaan"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "a nalawag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:49:24.505345090Z",
+  "model": "glm-5.3"
+}

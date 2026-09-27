@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Saan kadi a kas gatas ti inibusmoak, ken kas keso ti pinukkelmoak?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Saan kadi"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "kas gatas"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "ti inibusmoak"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "ken kas keso"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "ti pinukkelmoak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:50:00.768128558Z",
+  "model": "glm-5.3"
+}

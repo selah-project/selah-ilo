@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ken ⟨את⟩ ti lasag ken ⟨את⟩ ti kudil inna puor iti apoy iti ruar ti kampo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lasag"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ti lasag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kudil"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ti kudil"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "inna puor"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ti kampo"
+    }
+  ],
+  "timestamp": "2026-09-26T05:08:45.896620385Z",
+  "model": "glm-5.3"
+}

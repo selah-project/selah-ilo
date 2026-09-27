@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Nalinteg, nalinteg tarayaenmo, tapno agbiagka ken agtawidka iti ⟨את⟩ daga a naited ni Yahweh ti Elohim mo kenka.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Nalinteg"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "tarayaenmo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "agbiagka"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "ken agtawidka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti daga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohim mo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naited"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T08:04:38.229534553Z",
+  "model": "glm-5.3"
+}

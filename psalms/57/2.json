@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 57,
+  "translation": "Agasiannak, O Elohim, agasiannak, ta kenka sumammalek ti kararwak, ket iti lilio dagiti pakpakkpakmo sumammalento, agingga lumabas dagiti ruparipa.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "agasiannak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "agasiannak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "sumammalek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "iti lilio"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "dagiti pakpakkpakmo"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "sumammalento"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "dagiti ruparipa"
+    }
+  ],
+  "timestamp": "2026-09-26T21:32:49.897559122Z",
+  "model": "glm-5.3"
+}

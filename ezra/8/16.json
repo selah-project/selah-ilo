@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 8:16",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket innakkon idi kenni Eliezer, kenni Ariel, kenni Shemayah, ken kenni Elnatan, ken kenni Yariv, ken kenni Elnatan, ken kenni Natan, ken kenni Zekharyah, ken kenni Meshulam, dagiti pangulo; ken kenni Yoyariv ken kenni Elnatan, dagiti mannakabainnek.",
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "innakkon idi"
+    },
+    {
+      "surface": "לאליעזר",
+      "gloss": "kenni Eliezer"
+    },
+    {
+      "surface": "לאריאל",
+      "gloss": "kenni Ariel"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "kenni Shemayah"
+    },
+    {
+      "surface": "ולאלנתן",
+      "gloss": "ken kenni Elnatan"
+    },
+    {
+      "surface": "וליריב",
+      "gloss": "ken kenni Yariv"
+    },
+    {
+      "surface": "ולאלנתן",
+      "gloss": "ken kenni Elnatan"
+    },
+    {
+      "surface": "ולנתן",
+      "gloss": "ken kenni Natan"
+    },
+    {
+      "surface": "ולזכריה",
+      "gloss": "ken kenni Zekharyah"
+    },
+    {
+      "surface": "ולמשלם",
+      "gloss": "ken kenni Meshulam"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "dagiti pangulo"
+    },
+    {
+      "surface": "וליויריב",
+      "gloss": "ken kenni Yoyarib"
+    },
+    {
+      "surface": "ולאלנתן",
+      "gloss": "ken kenni Elnatan"
+    },
+    {
+      "surface": "מבינים",
+      "gloss": "dagiti mannakabainnek"
+    }
+  ],
+  "timestamp": "2026-09-26T23:23:01.770128100Z",
+  "model": "glm-5.3"
+}

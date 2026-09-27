@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ti karga ti Moab: ta iti rabii nadadael ti Ar ti Moab, naikkat; ta iti rabii nadadael ti Kir ti Moab, naikkat.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "karga"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "nadadael"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "naikkat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "iti rabii"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "nadadael"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "naikkat"
+    }
+  ],
+  "timestamp": "2026-09-26T14:47:10.163460232Z",
+  "model": "glm-5.3"
+}

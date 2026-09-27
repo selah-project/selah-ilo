@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ket inbilinak ⟨את⟩ ni Barukh iti sangada, a kunkuna:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "inbilinak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barukh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "iti sangada"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    }
+  ],
+  "timestamp": "2026-09-26T17:26:59.490952151Z",
+  "model": "glm-5.3"
+}

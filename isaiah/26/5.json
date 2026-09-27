@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ta ti nagnanaed iti kangatuan, ti ili a naisanglad iti nangato, inababana ni Yahweh: inababana agingga iti daga, inaramidna a matnag agingga iti tapok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "השח",
+      "gloss": "inababana"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ti nagnanaed"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "iti kangatuan"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "a naisanglad iti nangato"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "inababana"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "inababana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "inaramidna a matnag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "iti tapok"
+    }
+  ],
+  "timestamp": "2026-09-26T14:54:18.461564106Z",
+  "model": "glm-5.3"
+}

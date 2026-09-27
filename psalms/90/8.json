@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 90,
+  "translation": "Inikkanmo dagiti basolmi sadiay sanguanmo, dagiti nailemmengmi iti lawag ti rupam.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "inikkanmo"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "dagiti basolmi"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "sadiay sanguanmo"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "dagiti nailemmengmi"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "iti lawag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ti rupam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:23.062951602Z",
+  "model": "glm-5.3"
+}

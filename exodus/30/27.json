@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ken ⟨את⟩ ti lamisaan ken ⟨את⟩ amin a ramramitna, ken ⟨את⟩ ti kandela ken ⟨את⟩ dagiti ramritna, ken ⟨את⟩ ti altar ti insenso.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lamisaan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ti lamisaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a ramramitna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a ramramitna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kandela"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ti kandela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti ramritna"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dagiti ramritna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti altar ti insenso"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ti insenso"
+    }
+  ],
+  "timestamp": "2026-09-26T04:27:45.933047288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "Ket napasamak taimmay dagiti anak ni Yisrael kadagiti basol da kenni Yahweh nga Elohim da, ti nangiyeg kaniada ⟨אתם⟩ manipud iti daga ti Mitsrayim, manipud baba ti ima ni Paro ari ti Mitsrayim, ket timmaayda kadagiti sabsabali a dios.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "timmayda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga Elohim da"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ti nangiyeg kaniada"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "kaniada"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "manipud baba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ti ima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ti Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ket timmaayda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kadagiti dios"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "sabsabali"
+    }
+  ],
+  "timestamp": "2026-09-26T13:52:51.379322564Z",
+  "model": "glm-5.3"
+}

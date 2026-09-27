@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket dagiti nabilang kadagiti pamilia dagiti anak ni Merari, kadagiti pamilia da, kadagiti balay dagiti amada.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Ket dagiti nabilang"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kadagiti pamilia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ni Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kadagiti pamilia da"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kadagiti balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dagiti amada"
+    }
+  ],
+  "timestamp": "2026-09-26T06:06:30.091925845Z",
+  "model": "glm-5.3"
+}

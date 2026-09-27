@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 73,
+  "translation": "Ngem siak, burotak ken saan a nakaammok; kas taraken nagbalinak a kaduam.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngem siak"
+    },
+    {
+      "surface": "בער",
+      "gloss": "burotak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "a nakaammok"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "kas taraken"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nagbalinak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "a kaduam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:49.684083754Z",
+  "model": "glm-5.3"
+}

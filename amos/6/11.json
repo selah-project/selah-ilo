@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 6:11",
+  "book": "amos",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Ta kitaem, ni Yahweh agbilin, ket matubaranna ti dakkel a balay ⟨iti⟩ kadagiti pisi, ket ti bassit a balay kadagiti biddut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "agbilin"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ket matubaranna"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "רסיסים",
+      "gloss": "kadagiti pisi"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ket ti balay"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "בקעים",
+      "gloss": "kadagiti biddut"
+    }
+  ],
+  "timestamp": "2026-09-27T00:00:24.295130640Z",
+  "model": "glm-5.3"
+}

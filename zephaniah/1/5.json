@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ken ⟨את⟩ dagiti agdaydayaw kadagiti atep kenni Tsevaot ti langit, ken ⟨את⟩ dagiti agdaydayaw, dagiti agsumpa kenni Yahweh, ken dagiti agsumpa kenni Malkam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti agdaydayaw"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "dagiti agdaydayaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "atep"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kenni Tsevaot"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ti langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti agdaydayaw"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "dagiti agdaydayaw"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "dagiti agsumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "ken dagiti agsumpa"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "kenni Malkam"
+    }
+  ],
+  "timestamp": "2026-09-26T20:22:28.654744393Z",
+  "model": "glm-5.3"
+}

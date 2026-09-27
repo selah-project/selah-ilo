@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 106,
+  "translation": "Ket inpamarsuanda ⟨את⟩ dagiti annakda a lallaki ken ⟨את⟩ dagiti annakda a babbai kadagiti shedim.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "inpamarsuanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti annakda a lallaki"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "dagiti annakda a lallaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti annakda a babbai"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "dagiti annakda a babbai"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "kadagiti shedim"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:40.275012483Z",
+  "model": "glm-5.3"
+}

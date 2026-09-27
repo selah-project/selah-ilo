@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinuna ni Elohim: Agtallok ti lawag — ket nagtallok ti lawag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "agtallok"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lawag"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ket nagtallok"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lawag"
+    }
+  ],
+  "timestamp": "2026-09-26T01:42:13.483569552Z",
+  "model": "glm-5.3"
+}

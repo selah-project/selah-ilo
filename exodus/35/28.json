@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ket ⟨את⟩ dagiti banglo-banglo ken ⟨את⟩ ti lana — para iti silaw, para iti lana ti panaglana ken para iti insenso dagiti banglo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ket ⟨את⟩",
+      "marks": "dagiti banglo-banglo"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "dagiti banglo-banglo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lana"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "para iti silaw"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "ken para iti lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ti panaglana"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ken para iti insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "dagiti banglo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:40:38.095861149Z",
+  "model": "glm-5.3"
+}

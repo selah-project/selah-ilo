@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Siak, nakdegak ket napan nakaturag, nalisinak ta ni Yahweh ti mangsalsalaknib kaniak.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Siak"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "nakdegak"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ket napan nakaturag"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "nalisinak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ti mangsalsalaknib kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T20:44:56.217423568Z",
+  "model": "glm-5.3"
+}

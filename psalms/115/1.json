@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 115,
+  "translation": "Saan koma a kadakuatayo, ni Yahweh, saan koma a kadakuatayo, no di kadi kadagiti naganmo itedmo ti daydayaw, gapu iti hesedmo, gapu iti kinapudnomo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakuatayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kadakuatayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no di kadi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kadagiti naganmo"
+    },
+    {
+      "surface": "תן",
+      "gloss": "itedmo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ti daydayaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kinapudnomo"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:48.298790824Z",
+  "model": "glm-5.3"
+}

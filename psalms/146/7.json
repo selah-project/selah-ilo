@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 146,
+  "translation": "Agaramidenna ti ukom kadagiti nadangran, mangited iti tinapay kadagiti mabisin; ni Yahweh manglukat kadagiti naikadena.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "agaramidenna"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ti ukom"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "kadagiti nadangran"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mangited"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "iti tinapay"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "kadagiti mabisin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "manglukat"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "kadagiti naikadena"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:19.570685576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 31,
+  "translation": "Ket nakita ni Yaakov ⟨את⟩ ti rupa ni Lavan, ket kitaen, saan nga adda kenkuana a kas idi kalman ken nabiit pay.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ket nakita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti rupa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ti rupa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket kitaen"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "saan nga adda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "a kas idi kalman"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ken nabiit pay"
+    }
+  ],
+  "timestamp": "2026-09-26T02:36:47.613634752Z",
+  "model": "glm-5.3"
+}

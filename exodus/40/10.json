@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Ken ilanaam ti ⟨את⟩ altar ti natunuan a sakripisio ken ⟨את⟩ amin a kaldagna, ket isantonam ti ⟨את⟩ altar, ket ti altar ket ⟨is⟩ kasantuanan kadagiti nasantuanan.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ilanaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "natunuan a sakripisio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kaldagna"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "isantonam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kadagiti nasantuanan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:50:27.229988082Z",
+  "model": "glm-5.3"
+}

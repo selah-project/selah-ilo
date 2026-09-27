@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Nagliing ni Yehoshaphat kadua dagiti ammana, ket naipunpon kadua dagiti ammana iti ili ni David; ket nangituray ni Yehoram, anakna, a kas sakopna.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nagliing"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ni Yehoshaphat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti ammana"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "naipunpon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dagiti ammana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nangituray"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "ni Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "a kas sakopna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:52:22.372576643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 82,
+  "translation": "Agingga no kaano ti agiukumkayo iti kidday, ket dagiti rupa dagiti dakes iparangarangyo? Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Agingga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "no kaano"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "agiukumkayo"
+    },
+    {
+      "surface": "עול",
+      "gloss": "iti kidday"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ket dagiti rupa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "iparangarangyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:19:02.828334412Z",
+  "model": "glm-5.3"
+}

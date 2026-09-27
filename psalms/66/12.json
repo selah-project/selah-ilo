@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 66,
+  "translation": "Pinagsakayam dagiti tao iti ngato ti ulotayo; simrekami iti apoy ken iti danum, ket inruaram iti kaadu.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Pinagsakayam"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dagiti tao"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "iti ngato ti ulotayo"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "simrekami"
+    },
+    {
+      "surface": "באש",
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ken iti danum"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "ket inruaram"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "iti kaadu"
+    }
+  ],
+  "timestamp": "2026-09-26T21:35:11.268035590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket pagbedenda kadakuada ti maysa a bado a nalabbasit a kalalainganna, ket likennda ⟨את⟩ iti maysa nga abbong a lalat ti tahash, ket ikabilenda ⟨את⟩ dagiti badina.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "ket pagbedenda"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ti maysa a bado"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "a nalabbasit"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a kalalainganna"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ket likennda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ti (lamisaan)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "iti maysa nga abbong"
+    },
+    {
+      "surface": "עור",
+      "gloss": "a lalat"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "ti tahash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ket ikabilenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti badi"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dagiti badina"
+    }
+  ],
+  "timestamp": "2026-09-26T06:06:09.616024560Z",
+  "model": "glm-5.3"
+}

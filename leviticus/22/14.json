@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "No maysa a tao mangan ti nasantuan a banag babaen iti biddut, manginayonanna ti maikalima a pasetna iti rabawna ken itedna iti padi ⟨את⟩ ti nasantuan a banag.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "no maysa a tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ti nasantuan a banag"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "babaen iti biddut"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "manginayonanna"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "ti maikalima a pasetna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti rabawna"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ken itedna"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "iti padi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nasantuan a banag"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ti nasantuan a banag"
+    }
+  ],
+  "timestamp": "2026-09-26T05:45:25.520883064Z",
+  "model": "glm-5.3"
+}

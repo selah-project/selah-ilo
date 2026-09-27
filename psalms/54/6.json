@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 54,
+  "translation": "Aduwen, ti Elohim ti agtulong kaniak; ni Adonay ⟨adda⟩ kadagiti agsupsuporta ⟨ti⟩ kararwak.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Aduwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "agtulong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "kadagiti agsupsuporta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kararwak"
+    }
+  ],
+  "timestamp": "2026-09-26T21:28:43.431376205Z",
+  "model": "glm-5.3"
+}

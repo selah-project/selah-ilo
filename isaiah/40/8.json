@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Malaka ti dikuat, marigrigor ti bunga, ngem ti sao ti Elohimmi agtakderto nga agnanayon.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "malaka"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "dikuat"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "marigrigor"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ngem ti sao"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimmi"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "agtakderto"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agnanayon"
+    }
+  ],
+  "timestamp": "2026-09-26T15:24:57.823625492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "Nakapuyak iti panagusarek; iti amin a rabii paglayanek ti balasyok, iti dariak nalusakko ti kama.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Nakapuyak"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "iti panagusarek"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "paglayanek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "rabii"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ti balasyok"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "iti dariak"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ti kama"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "nalusakko"
+    }
+  ],
+  "timestamp": "2026-09-26T20:45:15.523195955Z",
+  "model": "glm-5.3"
+}

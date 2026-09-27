@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Inala ni Yosef ⟨את⟩ dagitoy a dua, ni Eprayim iti kanawan nga ima na iti kabbagian ni Yisrael, ken ⟨את⟩ ni Menashe iti kabagisan nga ima na iti kankanawan ni Yisrael, ket nangiddangdana ⟨iti sanguanna⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "inala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy a dua"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dagitoy a dua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Eprayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Eprayim"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "iti kanawan nga ima na"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "iti kabbagian"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "iti kabagisan nga ima na"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "iti kankanawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "nangiddangdana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iti sanguanna"
+    }
+  ],
+  "timestamp": "2026-09-26T03:17:24.837234947Z",
+  "model": "glm-5.3"
+}

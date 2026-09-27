@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Balinenna dagiti karayan ⟨iti⟩ dissuor, ken dagiti pagtaudan ti danum ⟨iti⟩ daga nga awanan danum.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "balinenna"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "iti dissuor"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "ken dagiti pagtaudan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "iti daga nga awanan danum"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:12.041938918Z",
+  "model": "glm-5.3"
+}

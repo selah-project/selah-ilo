@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 150,
+  "translation": "Idayawyo kadagiti tsiltsel ti naringges a timek; idayawyo kadagiti tsiltsel ti nangato nga agtimek.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Idayawyo"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "kadagiti tsiltsel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "naringges a timek"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "idayawyo"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "kadagiti tsiltsel"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "nangato nga agtimek"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:40.957278568Z",
+  "model": "glm-5.3"
+}

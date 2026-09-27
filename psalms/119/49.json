@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Lagipenmo ti sao ⟨iti⟩ adipenmo, ti sao a pinaguraymo kaniak.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Lagipenmo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "iti adipenmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "pinaguraymo kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:28:00.239129529Z",
+  "model": "glm-5.3"
+}

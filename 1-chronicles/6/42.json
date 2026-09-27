@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 6,
+  "translation": "ket kadagiti anak ni Aharon initedda ⟨את⟩ dagiti ili ti panagsalakan, ⟨את⟩ Khevron ken ⟨את⟩ Livna ken ⟨את⟩ dagiti liwliwana, ken ⟨את⟩ Yatir ken ⟨את⟩ Eshtemoa ken ⟨את⟩ dagiti liwliwana.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "kadagiti anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "initedda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ili"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dagiti ili"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "ti panagsalakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti liwliwana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti liwliwana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti liwliwana"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dagiti liwliwana"
+    }
+  ],
+  "timestamp": "2026-09-26T23:34:40.852686639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Sinumpaak dakayo, dagiti annak ti Yerushalayim: no makita yo ⟨את⟩ ti ayatko, ania ti ibagayo kenkuana — a siak ti sakit ti ayat.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "sinumpaak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "dakayo — dagiti annak ti Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ti Yerushalayim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "makita yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ayatko"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ti ayatko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ti ibagayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ti ayat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    }
+  ],
+  "timestamp": "2026-09-27T00:04:00.560113774Z",
+  "model": "glm-5.3"
+}

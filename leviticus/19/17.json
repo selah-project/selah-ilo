@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Saanmo a didigraan ⟨את⟩ ti kabsatmo iti pusom; itudom nga itudo ⟨את⟩ ti kaduam, ket saanmo a mangala ti basol gapu kenkuana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Saanmo"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "a didigraan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kabsatmo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ti kabsatmo"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "iti pusom"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "itudom"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "nga itudo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kaduam"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ti kaduam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanmo"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "a mangala"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gapu kenkuana"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ti basol"
+    }
+  ],
+  "timestamp": "2026-09-26T22:00:37.940625515Z",
+  "model": "glm-5.3"
+}

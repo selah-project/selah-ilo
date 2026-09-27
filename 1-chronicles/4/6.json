@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "Ket ni Naarah nagputot kenni ⟨את⟩ Akhutsam ken ⟨את⟩ Kheper ken ⟨את⟩ Temeni ken ⟨את⟩ ti Akhashtari. Dagitoy dagiti annak ni Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ni Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhutsam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Akhutsam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Kheper"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Kheper"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Akhashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "ti Akhashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ni Naarah"
+    }
+  ],
+  "timestamp": "2026-09-26T23:33:17.670233095Z",
+  "model": "glm-5.3"
+}

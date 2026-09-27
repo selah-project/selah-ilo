@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ti timek idiay nakawnabato ti nangngegen — ti panagsangit, dagiti tarabitipyo dagiti anak ti Yisrael — ta inbaliw da ⟨את⟩ ti dalanda, linipat da ⟨את⟩ ni Yahweh ti Elohim da.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ti timek"
+    },
+    {
+      "surface": "על",
+      "gloss": "idiay"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "nakawnabato"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nangngegen"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "panagsangit"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "tarabitipyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "inbaliw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dalanda"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "dalanda"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "linipat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim da"
+    }
+  ],
+  "timestamp": "2026-09-26T16:17:43.550596722Z",
+  "model": "glm-5.3"
+}

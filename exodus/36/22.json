@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Dua nga imad ⟨iti⟩ maysa a tabla, naikapkapet ti maysa iti maysa; kasta nga inaramidna para iti amin a tabla ti Mishkan.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "nga imad"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "ti maysa a tabla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "naikapkapet"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ti maysa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "a tabla"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:42:15.063343257Z",
+  "model": "glm-5.3"
+}

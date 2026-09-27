@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Kinargada ⟨את⟩ bagasda kadagiti buriko da, ken nagna da manipud idiay.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "kinargada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagasda"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "bagasda"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "buriko da"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nagna da"
+    },
+    {
+      "surface": "משם",
+      "gloss": "manipud idiay"
+    }
+  ],
+  "timestamp": "2026-09-26T03:09:39.408281894Z",
+  "model": "glm-5.3"
+}

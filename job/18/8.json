@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 18:8",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ta iti reret naipen babaen kadagiti sakaanna, ken iti silo agsursor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "naipen"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "iti reret"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "babaen kadagiti sakaanna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "שבכה",
+      "gloss": "silo"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "agsursor"
+    }
+  ],
+  "timestamp": "2026-09-26T22:52:00.656421805Z",
+  "model": "glm-5.3"
+}

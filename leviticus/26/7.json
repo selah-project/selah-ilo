@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "Ken sumurotkayo ⟨iti⟩ ⟨את⟩ sumgaaddakayo, ket matnagda iti sangoan yo iti espada.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "ken sumurotkayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumgaaddakayo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "sumgaaddakayo"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ket matnagda"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "iti sangoan yo"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "iti espada"
+    }
+  ],
+  "timestamp": "2026-09-26T05:56:23.109119054Z",
+  "model": "glm-5.3"
+}

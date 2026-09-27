@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 107,
+  "translation": "Dagiti agbaba iti baybay kadagiti barko, dagiti agaramid iti panagtrabaho kadagiti adu a danum.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "dagiti agbaba"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "kadagiti barko"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "dagiti agaramid"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "iti panagtrabaho"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kadagiti adu a danum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    }
+  ],
+  "timestamp": "2026-09-26T22:25:06.416356205Z",
+  "model": "glm-5.3"
+}

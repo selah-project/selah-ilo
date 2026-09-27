@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ni Moza ket nagputot ⟨את⟩ kenni Binea; ni Rapha ti anakna, ni Elasah ti anakna, ni Atsel ti anakna.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "ni Moza"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagputot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Binea"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Binea"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "Rapha"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ti anakna"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ti anakna"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Atsel"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ti anakna"
+    }
+  ],
+  "timestamp": "2026-09-26T23:35:50.955636355Z",
+  "model": "glm-5.3"
+}

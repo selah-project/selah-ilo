@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Immay kaniada ni Yosef iti bigat ket nakitaanna ⟨את⟩ ida, ket, ida, nadaawda.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Immay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakitaanna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ida"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ket, ida"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "nadaawda"
+    }
+  ],
+  "timestamp": "2026-09-26T02:55:27.211438123Z",
+  "model": "glm-5.3"
+}

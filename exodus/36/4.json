@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Immay dagiti amin a maaram, dagiti agaramid ⟨את⟩ ti amin nga aramid ti nasantuan, tunggal maysa a tao manipud iti aramidna nga ar-aramidendan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "immay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dagiti amin"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "a maaram"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "agaramid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin nga aramid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "aramid"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nasantuan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a tao"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "manipud iti aramidna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dagitoy"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ar-aramidendan"
+    }
+  ],
+  "timestamp": "2026-09-26T04:47:32.433708086Z",
+  "model": "glm-5.3"
+}

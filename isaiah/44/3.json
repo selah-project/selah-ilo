@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 44,
+  "translation": "Ta idulokko ti danum iti mausem, ken dagiti agay-ayus iti namaga a daga; idulokko ti Espirituko iti kaputotam, ken bendisionko iti kaputotanmo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "idulokko"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "mausem"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ken dagiti agay-ayus"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "namaga a daga"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "idulokko"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ti Espirituko"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "kaputotam"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "ken bendisionko"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "kaputotanmo"
+    }
+  ],
+  "timestamp": "2026-09-26T15:31:35.138998421Z",
+  "model": "glm-5.3"
+}

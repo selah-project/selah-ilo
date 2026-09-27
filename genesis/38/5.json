@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 38,
+  "translation": "Nagnayon manen ket nangiputot iti maysa nga anak a lalaki, ket tinawaganna ⟨את⟩ ti naganna a Shelah; ket ⟨ni Yehudah⟩ adda idiay Ketsib idi naiyanakna ⟨את⟩ ⟨iti⟩.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "nagnayon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manen"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nangiputot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "tinawaganna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ti naganna"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "idiay Ketsib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "idi naiyanakna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨iti⟩",
+      "marks": "iti"
+    }
+  ],
+  "timestamp": "2026-09-26T02:54:08.899674266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "ken ipuromto iti dayta ⟨את⟩ ti Tolda ti Gimong ken ⟨את⟩ ti kahon ti pammasingked.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ipuromto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Tolda ti Gimong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ti Gimong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti kahon ti pammasingked"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ti pammasingked"
+    }
+  ],
+  "timestamp": "2026-09-26T04:27:45.932806316Z",
+  "model": "glm-5.3"
+}

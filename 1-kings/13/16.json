@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Ket kinunana: Saanak a makabael nga agsubli kadua ⟨את⟩ mo ken nga umay kadua ⟨את⟩ mo, ket saanak a mangan ti tinapay ken saanak a uminum kadua ⟨את⟩ mo danum iti daytoy a disso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makabael"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "nga agsubli"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "kadua ⟨את⟩ mo"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ken nga umay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "kadua ⟨את⟩ mo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "uminum"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "kadua ⟨את⟩ mo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "iti daytoy a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "disso"
+    }
+  ],
+  "timestamp": "2026-09-26T12:50:09.907232015Z",
+  "model": "glm-5.3"
+}

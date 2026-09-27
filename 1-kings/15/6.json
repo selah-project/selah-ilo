@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ken adda gubat nagbaetan ni Rehavam ken ni Yeravam, amin nga aldaw ti biagna.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ken gubat"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "בין",
+      "gloss": "nagbaetan"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ni Rehavam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yeravam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ti biagna"
+    }
+  ],
+  "timestamp": "2026-09-26T12:55:39.513564247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Ket iparuaranna ti umilina iti ragsak, ⟨את⟩ dagiti pinilina iti kanta.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ket iparuaranna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ti umilina"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "iti ragsak"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "iti kanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti pinilina"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "dagiti pinilina"
+    }
+  ],
+  "timestamp": "2026-09-26T22:24:12.340193633Z",
+  "model": "glm-5.3"
+}

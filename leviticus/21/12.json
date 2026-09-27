@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Ken saan a rummuar manipud iti nasantoan, ken saan a dinadawayna ti ⟨את⟩ nasantoan ti Elohimna; ta ti panagsinna ti lana ti panagilana ti Elohimna ket iti sikua; siak Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Ken manipud"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "iti nasantoan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "rummuar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "dinadawayna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasantoan"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "nasantoan"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ti Elohimna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ti panagsinna"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ti lana"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ti panagilana"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ti Elohimna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ket iti sikua"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:42:15.432847008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Nagsubli ni Gidon, anak ni Yoash, manipud iti gubat, manipud iti panangpangato ti Ḥeres.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagsubli"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "iti gubat"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "manipud iti panangpangato"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "ti Ḥeres"
+    }
+  ],
+  "timestamp": "2026-09-26T09:56:10.768196071Z",
+  "model": "glm-5.3"
+}

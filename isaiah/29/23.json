@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Ta no makitana dagiti annakna, ti aramid ti imak, iti tengngedna, isuda ti mangipasantuan ti naganko, ket ipapasantuanda ⟨את⟩ ti Nasantuan ni Yaakov, ken ⟨את⟩ ti Elohim ti Yisrael butengandanda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "no makitana"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ti aramid"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ti imak"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "iti tengngedna"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "mangipasantuan"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ti naganko"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "ket ipapasantuanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Nasantuan ni Yaakov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ti Nasantuan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Elohim ti Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "butengandanda"
+    }
+  ],
+  "timestamp": "2026-09-26T15:06:02.933110356Z",
+  "model": "glm-5.3"
+}

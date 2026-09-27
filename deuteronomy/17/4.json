@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 17,
+  "translation": "ket maipakaammok kenka ket nangngegmo, ken darasem a naimbang, ket, kitaem, pudno, nasibbo ti banag — naaramid daytoy a karaksian iti Yisrael —",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "maipakaammok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "nangngegmo"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "darasem"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "a naimbang"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket, kitaem"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pudno"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "nasibbo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ti banag"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "naaramid"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "daytoy a karaksian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T08:16:39.683901040Z",
+  "model": "glm-5.3"
+}

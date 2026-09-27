@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 141,
+  "translation": "Mizmorr ni David. Ni Yahweh, inawagkaka; tarayanak, ipangngenna ti timekok, no umawagak kenka.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmorr"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "inawagkaka"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "tarayanak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nak"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ipangngenna"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ti timekok"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "no umawagak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:59.164153575Z",
+  "model": "glm-5.3"
+}

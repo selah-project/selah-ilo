@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Inayon ni Moshe ⟨את⟩ ti kasoda iti sangoan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Inayon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kasoda"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ti kasoda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T07:11:42.560750291Z",
+  "model": "glm-5.3"
+}

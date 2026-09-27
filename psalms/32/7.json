@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Sika ti lemmenganak, manipud iti rigat salaknibannak; dagiti kanta ti salakan palikmutannak. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "ti lemmengan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ak"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "manipud iti rigat"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "salaknibannak"
+    },
+    {
+      "surface": "רני",
+      "gloss": "dagiti kanta"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ti salakan"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "palikmutannak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:11:45.194419447Z",
+  "model": "glm-5.3"
+}

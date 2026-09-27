@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 54:4",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 54,
+  "translation": "Sika nga mabuteng, ta saanka a mailulu, ken sika nga madanes, ta saanka a mabain; ta malipatam ti bain ti kabataam, ken ti panangdakes ti panagbalinmo a balo saanmo a lagipen pay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "sika nga"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "mabuteng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanka"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "a mailulu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ken sika nga"
+    },
+    {
+      "surface": "תכלמי",
+      "gloss": "a madanes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanka"
+    },
+    {
+      "surface": "תחפירי",
+      "gloss": "a mabain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ti bain"
+    },
+    {
+      "surface": "עלומיך",
+      "gloss": "ti kabataam"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "malipatam"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "ken ti panangdakes"
+    },
+    {
+      "surface": "אלמנותיך",
+      "gloss": "ti panagbalinmo a balo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "a lagipen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-26T15:52:55.925833825Z",
+  "model": "glm-5.3"
+}

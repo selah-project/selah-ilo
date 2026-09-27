@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "ket immamatek ⟨את⟩ dagiti annakko, ken initedam ida iti panangipasa ⟨את⟩ kukuada kadaida",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "immamatek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti annakko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annakko"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "ken initedam ida"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "iti panangipasa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kukuada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kadaida"
+    }
+  ],
+  "timestamp": "2026-09-26T18:23:17.841531830Z",
+  "model": "glm-5.3"
+}

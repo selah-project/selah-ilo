@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Kinuna ni Avraham maipapan kenn Sarah asawana: Kabsat ko a babai ⟨is⟩ isuna. Nagpatulod ni Avimelekh, ari ti Gerar, ket inalana ⟨את⟩ ni Sarah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maipapan kenn"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawana"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kabsat ko a babai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isuna"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nagpatulod"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ni Avimelekh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "ti Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "inalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    }
+  ],
+  "timestamp": "2026-09-26T02:15:35.722073506Z",
+  "model": "glm-5.3"
+}

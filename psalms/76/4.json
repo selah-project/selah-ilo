@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 76,
+  "translation": "Sadiay dinnaelanna dagiti silaw a pana ti busor — ti kalasag, ti tabak ken ti gubat. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "dinnaelanna"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "dagiti silaw a pana"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ti busor"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ti kalasag"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ken tabak"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ken gubat"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T21:49:40.180466921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 119,
+  "translation": "Dagiti dakes nagur-urayda kaniak a dadaelennak; ngem dagiti pammasingkedmo ti pagpanunotanko.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "nagur-urayda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "a dadaelennak"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dagiti pammasingkedmo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "pagpanunotan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:27:39.827466048Z",
+  "model": "glm-5.3"
+}

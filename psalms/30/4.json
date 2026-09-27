@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 30,
+  "translation": "Yahweh, inturongmo manipud iti Sheol ti kararwak, biniiagnak a saan a makaity iti agturong iti abut.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "inturongmo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararwak"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "biniiagnak"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "a saan a makaity iti agturong"
+    },
+    {
+      "surface": "בור",
+      "gloss": "iti abut"
+    }
+  ],
+  "timestamp": "2026-09-26T21:04:25.019226246Z",
+  "model": "glm-5.3"
+}

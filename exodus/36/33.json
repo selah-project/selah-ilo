@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Ket inaramidna ⟨את⟩ ti baras ti tengnga nga agballasiw iti uneg dagiti tablero manipud iti maysa a patingga agingga iti maysa a patingga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "inaramidna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti baras ti tengnga"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "ti baras"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "ti tengnga"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "agballasiw"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dagiti tablero"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "iti maysa a patingga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "iti maysa a patingga"
+    }
+  ],
+  "timestamp": "2026-09-26T04:43:57.369955044Z",
+  "model": "glm-5.3"
+}

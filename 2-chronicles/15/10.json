@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "Ket nagkakadduanda idiay Yerushalayim iti maikatlo a bulan, iti maikasangapulo ket lima a tawen ti panagturay ni Asa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "nagkakadduanda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "idiay Yerushalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "maikatlo"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "iti tawen"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "iti panagturay"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ni Asa"
+    }
+  ],
+  "timestamp": "2026-09-26T23:50:18.672143857Z",
+  "model": "glm-5.3"
+}

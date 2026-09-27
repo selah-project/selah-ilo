@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Nakaasi ni Yahweh ken nalinteg, ken ti Elohimtayo ket makararua.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "nakaasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ken nalinteg"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ken ti Elohimtayo"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "makararua"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:06.887193280Z",
+  "model": "glm-5.3"
+}

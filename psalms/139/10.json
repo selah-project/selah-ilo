@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 139,
+  "translation": "iti dayta met a disso ti imam ti mangidaan kaniak, ken ti kanawan a imam agkakapet kaniak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iti dayta a disso"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ti mangidaan kaniak"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "ken agkakapet kaniak"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ti kanawan a imam"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:13.429392781Z",
+  "model": "glm-5.3"
+}

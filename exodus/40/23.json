@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Inisaadna iti ngatona ti panagsaad ti tinapay iti sangoan ni Yahweh, kas nga impambilin ni Yahweh ⟨iti⟩ ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "inisaadna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iti ngatona"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ti panagsaad"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "impambilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-26T04:49:50.362267829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 12,
+  "translation": "Dagitoyda ti nangballasiw ⟨iti⟩ ⟨את⟩ ti Yarden iti umuna a bulan, idi napno daytoy iti ngato iti amin nga igidna, ket pinataliwayda ⟨את⟩ amin dagiti tanap iti daya ken iti laud.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dagitoy"
+    },
+    {
+      "surface": "הם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nangballasiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ti umuna"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "idi daytoy"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "napno"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti ngato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "nga igidna"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "ket pinataliwayda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin dagiti tanap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "dagiti tanap"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "iti daya"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "ken iti laud"
+    }
+  ],
+  "timestamp": "2026-09-26T23:36:41.874124129Z",
+  "model": "glm-5.3"
+}

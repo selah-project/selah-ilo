@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Nangngeg ni Yahweh iti timek ti Yisrael ket itedna ⟨את⟩ ti Kenaano; iparuayna dagitoy ⟨את⟩ ken ⟨את⟩ dagiti ilida; ket inawagnan ti nagan ti disso a Khorma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nangngeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ket itedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Kenaano"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ti Kenaano"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "iparuayna"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "dagitoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "dagiti ilida"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "inawagnan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ti nagan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ti disso"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "a Khorma"
+    }
+  ],
+  "timestamp": "2026-09-26T06:50:25.849550290Z",
+  "model": "glm-5.3"
+}

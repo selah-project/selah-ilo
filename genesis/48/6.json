@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 48:6",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 48,
+  "translation": "Dagiti putotmo a nakaiputotanmo kalpasan kaniada, kenkuam da agbalin; iti nagan dagiti kabsatda maiawaganda iti tawidda.",
+  "tokens": [
+    {
+      "surface": "ומולדתך",
+      "gloss": "putotmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "nakaiputotanmo"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "kalpasan kaniada"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kenkuam"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agbalin"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "kabsatda"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "maiawaganda"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "iti tawidda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:18:10.109799257Z",
+  "model": "glm-5.3"
+}

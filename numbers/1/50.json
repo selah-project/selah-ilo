@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 1:50",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket sika, ikabilmo ⟨את⟩ dagiti Levita iti Mishkan ti Saksi ken iti amin a banagna ken iti amin a tagikuana; isuda ti mangawat iti ⟨את⟩ Mishkan ken ⟨את⟩ amin a banagna, ket isuda ti agserbianna, ket agarup iti Mishkan agkampoda.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ket sika"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "ikabilmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dagiti Levita"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ti Saksi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a banagna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "המה",
+      "gloss": "isuda"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "mangawatda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ti Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a banagna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a banagna"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ket isuda"
+    },
+    {
+      "surface": "ישרתהו",
+      "gloss": "agserbianna"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "ket agarup"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "iti Mishkan"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "agkampoda"
+    }
+  ],
+  "timestamp": "2026-09-26T06:00:33.862632173Z",
+  "model": "glm-5.3"
+}

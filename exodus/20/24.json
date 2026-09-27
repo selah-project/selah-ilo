@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Altar ti daga ti aramidenmo kaniak, ket idatonmo sadiay ⟨את⟩ dagiti natudok a datonmo ken ⟨את⟩ dagiti datonmo ti kappia, ⟨את⟩ dagiti karnerom ken ⟨את⟩ dagiti bakam; iti amin a disso a pagilagipanko ⟨את⟩ ti naganko, umayak kaniak ket bendisionannak.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aramidenmo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "ket idatonmo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti natudok a datonmo"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "dagiti natudok a datonmo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti datonmo ti kappia"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "dagiti datonmo ti kappia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti karnerom"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "dagiti karnerom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bakam"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "dagiti bakam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "iti amin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a disso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "pagilagipanko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti naganko"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ti naganko"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "umayak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "ket bendisionannak"
+    }
+  ],
+  "timestamp": "2026-09-26T03:57:40.857320271Z",
+  "model": "glm-5.3"
+}

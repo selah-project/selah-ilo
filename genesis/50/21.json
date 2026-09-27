@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Ita ngarud, saan kayo a mabuteng: siak ti mangtarabay kadakayo ken ⟨את⟩ dagiti anakyo a bassit. Ken inaliwana ⟨את⟩ da, ket kinunana iti pusoda.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ita ngarud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mabuteng kayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "mangtarabay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anakyo a bassit"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "dagiti anakyo a bassit"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "inaliwana"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "da"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "kinunana"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "pusoda"
+    }
+  ],
+  "timestamp": "2026-09-26T03:24:47.222428193Z",
+  "model": "glm-5.3"
+}

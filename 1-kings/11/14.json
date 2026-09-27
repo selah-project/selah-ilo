@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Kinayat ni Yahweh ti maysa a kabusor kenn Shelomo: ni ⟨את⟩ Hadad nga Edomita, manipud iti pinarsua ti ari — isu idiay Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kinayat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "kabusor"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kenn Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Hadad nga Edomita"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "nga Edomita"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "manipud iti pinarsua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "idiay Edom"
+    }
+  ],
+  "timestamp": "2026-09-26T12:46:49.389179131Z",
+  "model": "glm-5.3"
+}

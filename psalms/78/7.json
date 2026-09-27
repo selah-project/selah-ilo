@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ikabilda ti talekda kenni El, ken saanda a malipatan dagiti aramid ni El, ket salaknibenda dagiti bilinna.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ikabilda"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kenni El"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ti talekda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saanda"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "a malipatan"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "dagiti aramid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ken dagiti bilinna"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "salaknibenda"
+    }
+  ],
+  "timestamp": "2026-09-26T22:17:54.240649292Z",
+  "model": "glm-5.3"
+}

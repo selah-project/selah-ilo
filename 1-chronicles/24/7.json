@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Rummuar ti umuna a goral kenni Yehoyariv, ti maikadua kenni Yedayah.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "rummuar"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ti goral"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ti umuna"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "kenni Yehoyariv"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "kenni Yedayah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ti maikadua"
+    }
+  ],
+  "timestamp": "2026-09-26T23:42:20.480468687Z",
+  "model": "glm-5.3"
+}

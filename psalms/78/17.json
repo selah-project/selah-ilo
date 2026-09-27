@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 78,
+  "translation": "Ket nagnayonda pay a managbasol kenkuana, a pananglabsing kenni Elyon iti namaga a lugar.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "nagnayonda pay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "a managbasol"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "a pananglabsing"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "kenni Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "iti namaga a lugar"
+    }
+  ],
+  "timestamp": "2026-09-26T22:16:58.665251395Z",
+  "model": "glm-5.3"
+}

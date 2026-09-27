@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Nakabirukanda kenni ⟨את⟩ Adoni-Bezek iti Bezek, ketimmakilabanda kenkuana, ketdinukdanda ⟨את⟩ ti Kanaanan ken ⟨את⟩ ti Perizeo.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "nakabirukanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "iti Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ketimmakilabanda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ketdinukdanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Kanaanan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ti Kanaanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti Perizeo"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ti Perizeo"
+    }
+  ],
+  "timestamp": "2026-09-26T09:35:44.093689043Z",
+  "model": "glm-5.3"
+}

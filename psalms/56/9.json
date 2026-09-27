@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 56,
+  "translation": "Ti panagbanniagak nabilangmo; sika, ikammo dagiti luam iti botiyam; saan kadi dagitoy iti librom?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "ti panagbanniagak"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "nabilangmo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "ikammo"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "dagiti luam"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "iti botiyam"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "saan kadi"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "iti librom"
+    }
+  ],
+  "timestamp": "2026-09-26T21:28:33.912432187Z",
+  "model": "glm-5.3"
+}

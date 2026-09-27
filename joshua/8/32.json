@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "Ket insuratna sadiay iti rabaw dagiti bato ⟨את⟩ ti kopia ti Torah ni Moshe, a sinuratna iti sangoan dagiti anak a lalaki ti Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ket insuratna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti rabaw"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dagiti bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kopia ti Torah ni Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ti kopia"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ti Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "sinuratna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-26T09:08:08.243595649Z",
+  "model": "glm-5.3"
+}

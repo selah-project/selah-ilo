@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Idaydayawyo ni Yah; ta naimbag ti panagkanta iti Elohimtayo; ta nasayaat ken naitutop ti daydayaw.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "idaydayawyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "naimbag"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ti panagkanta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "iti Elohimtayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "nasayaat"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ken naitutop"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ti daydayaw"
+    }
+  ],
+  "timestamp": "2026-09-26T22:31:09.104548409Z",
+  "model": "glm-5.3"
+}

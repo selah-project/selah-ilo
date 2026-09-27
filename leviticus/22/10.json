@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ken ti aniaman a taga-ruar, saanna a mangan iti nasantuan; ti tumungtong ti padi ken ti bayadan a tao, saanda a mangan iti nasantuan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ken ti aniaman"
+    },
+    {
+      "surface": "זר",
+      "gloss": "taga-ruar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iti nasantuan"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "tumungtong"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ken ti bayadan a tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanda"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iti nasantuan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:41:29.664112021Z",
+  "model": "glm-5.3"
+}

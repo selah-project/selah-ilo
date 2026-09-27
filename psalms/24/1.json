@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Mizmor ni David. Ti daga kenni Yahweh ken ti punnoanna, ti sangalubongan ken dagiti agnanaed iti daytoy.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ken ti punnoanna"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ti sangalubongan"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ken dagiti agnanaed"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti daytoy"
+    }
+  ],
+  "timestamp": "2026-09-26T21:03:34.076783139Z",
+  "model": "glm-5.3"
+}

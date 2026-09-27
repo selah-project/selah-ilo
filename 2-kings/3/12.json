@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Kinuna ni Yehoshaphat: Adda ⟨את⟩ ⟨אותו⟩ ti sao ni Yahweh. Ket nagbabaanda kukuana ti ari ti Yisrael, ni Yehoshaphat, ken ti ari ti Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ni Yehoshaphat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adda"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ⟨אותו⟩",
+      "marks": "ti sao ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ket nagbabaanda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kukuana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ni Yehoshaphat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ken ti ari"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ti Edom"
+    }
+  ],
+  "timestamp": "2026-09-26T13:15:02.148928112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ket simmangpetak iti Yerushalayim, ket naginaedak sadiay iti tallo nga aldaw.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "simmangpetak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "naginaedak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tallo"
+    }
+  ],
+  "timestamp": "2026-09-26T23:26:30.365745931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Dagiti sakripisio ti Elohim: ti nadael nga espiritu; ti nadael ken napiga a puso, Elohim, saanmo a babawen.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "dagiti sakripisio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "a nadael"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "a nadael"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "ken napiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saanmo"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "a babawen"
+    }
+  ],
+  "timestamp": "2026-09-26T21:27:03.299811149Z",
+  "model": "glm-5.3"
+}

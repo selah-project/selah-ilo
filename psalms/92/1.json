@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "Salmos a kanta, para iti aldaw ti Shabbat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Salmos"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "a kanta"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "para iti aldaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ti Shabbat"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:59.401003613Z",
+  "model": "glm-5.3"
+}

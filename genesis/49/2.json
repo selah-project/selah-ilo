@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Agsinnublatkayo ken dengngegkayo, dagiti anak ni Yaakov, ket dengngegkayo ni Yisrael amanyo.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "agsinnublatkayo"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ken dengngegkayo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ket dengngegkayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "amanyo"
+    }
+  ],
+  "timestamp": "2026-09-26T03:22:25.907885354Z",
+  "model": "glm-5.3"
+}

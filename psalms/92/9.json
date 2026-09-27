@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "Ngem sika, Yahweh, ⟨iti⟩ kangato, agnanayon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngem sika"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kangato"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "agnanayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:39.757307034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ti amin nga aramid ni Yahweh ket para iti layapna, ken ti dakes a tao pay para iti aldaw ti kadakesan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ti amin"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "nga aramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "ket para iti layapna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ken pay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ti dakes a tao"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "para iti aldaw"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ti kadakesan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:39:57.099764756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Lana para iti silaw, dagiti banglo para iti lana ti panagbendision ken para iti insenso ti banglo",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "para iti silaw"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dagiti banglo"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "para iti lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ti panagbendision"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ken para iti insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ti banglo"
+    }
+  ],
+  "timestamp": "2026-09-26T04:14:56.741314478Z",
+  "model": "glm-5.3"
+}

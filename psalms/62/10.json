@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Laeng nga awan linaon dagiti anak ti tao, limlak dagiti anak ti lalaki; iti timbangan agpangatoanda; da, no maidaya iti awan linaon, nalag-anda amin a kaduada.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "laeng"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "awan linaon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "limmak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "iti timbangan"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "agpangatoanda"
+    },
+    {
+      "surface": "המה",
+      "gloss": "da"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "iti awan linaon"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "amin a kaduada"
+    }
+  ],
+  "timestamp": "2026-09-26T21:35:44.712264971Z",
+  "model": "glm-5.3"
+}

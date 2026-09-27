@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Sika kadi ti nagpakan iti baybay, iti danum ti dakkel a naadalem, ti nangaramid kadagiti naadalem ti baybay a dalan a pagballasiwan dagiti tinubos?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "sika"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "nagpakan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iti baybay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iti danum"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ti naadalem"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "nangaramid"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "kadagiti naadalem"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "a dalan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "a pagballasiwan"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "dagiti tinubos"
+    }
+  ],
+  "timestamp": "2026-09-26T15:45:41.069595153Z",
+  "model": "glm-5.3"
+}

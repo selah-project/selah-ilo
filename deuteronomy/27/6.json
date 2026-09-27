@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Dagiti sibbukel a bato ti ipatakdermo ⟨ti⟩ altar ni Yahweh nga Elohimmo, ken ipangatam kadakuana dagiti tupong a sakripisio kenni Yahweh nga Elohimmo.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "Dagiti bato"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "sibbukel"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ti ipatakdermo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti altar ni Yahweh nga Elohimmo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "ken ipangatam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "dagiti tupong a sakripisio"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohimmo"
+    }
+  ],
+  "timestamp": "2026-09-26T08:28:27.660445716Z",
+  "model": "glm-5.3"
+}

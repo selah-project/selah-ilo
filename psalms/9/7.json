@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Ti kabusor natngadan, dagiti nagdadaelan nga lugar iti amin a panawen, ken dagiti ili binurekmo; napukaw ti lagipda — da.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "ti kabusor"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "natngadan"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "dagiti nagdadaelan nga lugar"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iti amin a panawen"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ken dagiti ili"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "binurekmo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "napukaw"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ti lagipda"
+    },
+    {
+      "surface": "המה",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-09-26T20:50:53.662663371Z",
+  "model": "glm-5.3"
+}

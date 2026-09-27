@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Nagbalin dagiti anak a lalaki ni Noach, dagidiay simmanglad manipud iti arka — ni Shem ken ni Kham ken ni Yafet — ken ni Kham isu ti ama ni Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak a lalaki"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "dagidiay simmanglad"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "iti arka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ni Shem"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ken ni Kham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ken ni Yafet"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ken ni Kham"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ti ama"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ni Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-26T01:50:29.991751942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "No agparuen ti pirak ⟨את⟩ ti pagiliak, ⟨את⟩ ti imposible a kaduak, saan a kas maysa a nangparuat no maipapan kenkuana; saan a mangted iti nasurok a bayad kadagiti papan iti nakairuar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ti pirak"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "agparuen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pagiliak"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ti pagiliak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti imposible a kaduak"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ti imposible a kaduak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kaduak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "a kas maysa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no maipapan kenkuana"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "a nangparuat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "a mangted"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kadagiti papan iti nakairuar"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "iti nasurok a bayad"
+    }
+  ],
+  "timestamp": "2026-09-26T04:08:55.688043291Z",
+  "model": "glm-5.3"
+}

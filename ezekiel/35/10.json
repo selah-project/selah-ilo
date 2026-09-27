@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Ta kinunam: ⟨את⟩ dagiti dua a umili ken ⟨את⟩ dagiti dua a daga kukuak dagitoy, ket tawidendan ida; ket ni Yahweh adda idi sadiay.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "kinunam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti dua a umili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti dua a daga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "dagiti daga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kukuak"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "agbalindan"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "ket tawidendan"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ket ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adda idi"
+    }
+  ],
+  "timestamp": "2026-09-26T19:04:13.257992531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 4,
+  "translation": "No magna ka, saan a masumpitan ti addadmo, ket no agtataray ka, saan a matnagka.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "no magna ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "a masumpitan"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "ti addadmo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ket no"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "agtataray ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "a matnagka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:34:18.099114617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "Nasumpaan ti lalaki a makitkelan kenni kabsatna a babai, anak a babai ni amana wenno anak a babai ni inana, ket sumbolodan ti amin a tattao: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Nasumpaan"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "a makitkelan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "kabsatna a babai"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ni amana"
+    },
+    {
+      "surface": "או",
+      "gloss": "wenno"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak a babai"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ni inana"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ket sumbolodan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tattao"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-26T08:29:37.986795964Z",
+  "model": "glm-5.3"
+}

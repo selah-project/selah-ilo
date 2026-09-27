@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 93,
+  "translation": "Immindatonda, dagiti karayan, ken ni Yahweh; immindatonda dagiti karayan ti timekda; agindatonda dagiti karayan kadagiti allon a tumtumpok.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "immindatonda"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "immindatonda"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "timekda"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "agindatonda"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dagiti karayan"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "allon a tumtumpok"
+    }
+  ],
+  "timestamp": "2026-09-27T00:01:01.098281191Z",
+  "model": "glm-5.3"
+}

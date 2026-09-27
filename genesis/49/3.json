@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 49,
+  "translation": "Reuven, sika ti umuna a anakko a lalaki, ti bilegko ken ti rugi ti kabilegko; ti nakaroan a daydayaw ken ti nakaroan a bileg.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "ti umuna a anakko a lalaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sika"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "ken ti rugi"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "ti kabilegko"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ti nakaroan"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "a daydayaw"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ken ti nakaroan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "a bileg"
+    }
+  ],
+  "timestamp": "2026-09-26T03:22:25.908103765Z",
+  "model": "glm-5.3"
+}

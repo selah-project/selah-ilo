@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 11,
+  "translation": "Ket immurnong ti amin a Yisrael kenni David iti Hebron, a kunkuna: Kitaem, dagiti tulangmo ken dagiti lasagmo, siakami.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "immurnong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "iti Hebron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kitaem"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "dagiti tulangmo"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "ken dagiti lasagmo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "siakami"
+    }
+  ],
+  "timestamp": "2026-09-26T23:37:00.668110432Z",
+  "model": "glm-5.3"
+}

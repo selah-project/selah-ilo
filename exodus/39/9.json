@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 39,
+  "translation": "Kuadrado daytoy, napluog a napluog: inaramid da ⟨את⟩ ti hoshen; maysa a dangadang ti kaatiddoganna ken maysa a dangadang ti kalawaanna, napluog.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "kuadrado"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨nateng⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "napluog"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "inaramid da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti hoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ti hoshen"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "maysa a dangadang"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ti kaatiddoganna"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ken maysa a dangadang"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ti kalawaanna"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "napluog"
+    }
+  ],
+  "timestamp": "2026-09-26T04:43:54.755115595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 87,
+  "translation": "Ni Yahweh ay-ayatenna dagiti ruangan ti Tsiyon, ngatuen kadagiti amin a pagnaedan ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ay-ayatenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ni Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "dagiti ruangan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ti Tsiyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngatuen kadagiti amin"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "a pagnaedan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:05.900334719Z",
+  "model": "glm-5.3"
+}

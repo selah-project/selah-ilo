@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 2:32",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Ken ipaabbavanna ni Yahweh ⟨את⟩ ti darana iti ulona, a timmungpal kadagiti dua a lalaki a nalinteg ken naimbag ngem isuna, ken inpatayna ida babaen ti tabak — ken ti amak a ni David ket saanna nga ammo — ⟨את⟩ ni Avner anak a lalaki ni Ner, ti daulo ti buyot ti Yisrael, ken ⟨את⟩ ni Amasa anak a lalaki ni Yeter, ti daulo ti buyot ti Yehudah.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "ken ipaabbavanna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti darana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ti darana"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "timmungpal"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "kadagiti dua"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "a lalaki"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "וטבים",
+      "gloss": "ken naimbag"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngem isuna"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "ken inpatayna ida"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "babaen ti tabak"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ken ti amak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "a ni David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ket saanna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nga ammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ni Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ni Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti daulo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ni Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ni Amasa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak a lalaki"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ni Yeter"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti daulo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ti buyot"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ti Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-26T12:26:27.993136076Z",
+  "model": "glm-5.3"
+}

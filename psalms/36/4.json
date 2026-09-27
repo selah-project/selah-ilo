@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 36,
+  "translation": "Dagiti sao ti ngiwatna dakes ken panandaya; sinnardengna nga agsiribet ken nga agaramid ti naimbag.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "dagiti sao"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ti ngiwatna"
+    },
+    {
+      "surface": "און",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ken panandaya"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "sinnardengna"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "nga agsiribet"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "nga agaramid ti naimbag"
+    }
+  ],
+  "timestamp": "2026-09-26T21:08:52.699916141Z",
+  "model": "glm-5.3"
+}

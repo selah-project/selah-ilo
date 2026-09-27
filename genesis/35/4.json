@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "Initedda kenni Yaakov ⟨את⟩ amin a dios dagiti ganganaet nga adda kadagiti imada, ken ⟨את⟩ dagiti aring nga adda kadagiti tengngeda; ket inlemmeng ni Yaakov ⟨את⟩ kadaguitoy idiay baba ti kayo nga adda iti asideg ti Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Initedda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin a dios dagiti ganganaet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "a dios"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "dagiti ganganaet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "kadagiti imada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti aring"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "dagiti aring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "kadagiti tengngeda"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "ket inlemmeng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kadaguitoy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "idiay baba ti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "iti asideg"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ti Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-26T02:50:57.920408373Z",
+  "model": "glm-5.3"
+}

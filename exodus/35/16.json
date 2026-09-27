@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 35,
+  "translation": "⟨את⟩ ti altar ti natunaw a sakripisio ken ⟨את⟩ ti rehas nga uinta a kuaanna, ⟨את⟩ dagiti badana ken ⟨את⟩ amin a kasasaadanna, ⟨את⟩ ti labba ken ⟨את⟩ ti pagtakderanna;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ti altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ti natunaw a sakripisio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti rehes"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ti rehes"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "nga uinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuaanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti badana"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dagiti badana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin a kasasaadanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "a kasasaadanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti labba"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ti labba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti pagtakderanna"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ti pagtakderanna"
+    }
+  ],
+  "timestamp": "2026-09-26T04:37:34.574667354Z",
+  "model": "glm-5.3"
+}

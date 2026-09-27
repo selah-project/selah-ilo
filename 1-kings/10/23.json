@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Ket immay-kadakkel ni Shelomoh, ti ari, ngato ngem amin dagiti ari ti daga, iti kabaknang ken iti kaalam.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "immay-kadakkel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngato ngem amin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "iti kabaknang"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "ken iti kaalam"
+    }
+  ],
+  "timestamp": "2026-09-26T12:36:34.354005514Z",
+  "model": "glm-5.3"
+}

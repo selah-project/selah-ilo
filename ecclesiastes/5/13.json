@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 5,
+  "translation": "Napukaw ti kayamanan a dayta babaen iti dakes a panagtrabaho, ket nagputot iti anak, ket awan iti imana ti aniaman.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "napukaw"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "ti kayamanan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "a dayta"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "babaen iti panagtrabaho"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dakes"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ket nagputot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iti anak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ket awan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "iti imana"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ti aniaman"
+    }
+  ],
+  "timestamp": "2026-09-26T23:09:09.148650667Z",
+  "model": "glm-5.3"
+}

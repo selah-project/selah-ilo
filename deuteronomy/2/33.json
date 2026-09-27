@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 2,
+  "translation": "Intedna ni Yahweh, ti Elohimmi, ⟨iti⟩ sanguanmi, ket tinumpokmi ⟨את⟩ niya ken ⟨את⟩ dagiti anakna ken ⟨את⟩ amin dagiti umilina.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "intedna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ti Elohimmi"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "iti sanguanmi"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "tinumpokmi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niya",
+      "marks": "niya (Siḥon)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti anakna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dagiti anakna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "amin dagiti umilina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dagiti umilina"
+    }
+  ],
+  "timestamp": "2026-09-26T07:31:57.758108631Z",
+  "model": "glm-5.3"
+}

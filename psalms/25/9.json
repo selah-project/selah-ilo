@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Iturongna dagiti naulimek iti ukom, ket isursurona dagiti naulimek iti ⟨ti⟩ dalanna.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "Iturongna"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "dagiti naulimek"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "iti ukom"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "ket isursurona"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "dagiti naulimek"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "iti ⟨ti⟩ dalanna"
+    }
+  ],
+  "timestamp": "2026-09-26T21:00:42.958294355Z",
+  "model": "glm-5.3"
+}

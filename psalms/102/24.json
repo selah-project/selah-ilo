@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 102,
+  "translation": "ineddenganna ti bilegna iti dalan, inpennana dagiti aldawko.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ineddenganna"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ti bilegna"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "inpennana"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagiti aldawko"
+    }
+  ],
+  "timestamp": "2026-09-26T22:23:33.485563373Z",
+  "model": "glm-5.3"
+}

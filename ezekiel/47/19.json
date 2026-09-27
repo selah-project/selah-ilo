@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 47:19",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 47,
+  "translation": "Ken ti paset ti abagatan nga agpaabagatan: manipud iti Tamar agingga kadagiti danum ti Meribot idiay Kadesh, ti karayan agingga iti dakkel a baybay; ken ⟨את⟩ daytoy ti paset ti abagatan nga agpaabagatan.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "ken ti paset"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ti abagatan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "agpaabagatan"
+    },
+    {
+      "surface": "מתמר",
+      "gloss": "manipud iti Tamar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dagiti danum"
+    },
+    {
+      "surface": "מריבות",
+      "gloss": "ti Meribot"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "idiay Kadesh"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "baybay"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "dakkel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "paset ti abagatan"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "paset"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "abagatan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "agpaabagatan"
+    }
+  ],
+  "timestamp": "2026-09-26T19:25:47.789379041Z",
+  "model": "glm-5.3"
+}

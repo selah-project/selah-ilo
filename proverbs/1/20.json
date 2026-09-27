@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ti Kinasirib umawag iti ruar; iti dagiti kalawaan a dalan itedna ti timekna.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Ti Kinasirib"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "umawag"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "iti dagiti kalawaan a dalan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ti timekna"
+    }
+  ],
+  "timestamp": "2026-09-27T00:02:16.526502989Z",
+  "model": "glm-5.3"
+}

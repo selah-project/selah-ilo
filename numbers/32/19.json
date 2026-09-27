@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 32:19",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "ta saan kamin a mangtawid ⟨אתם⟩ iti ballasiw ti Yarden ken maipatanor, ta immay ti tawidmi a ballasiw ti Yarden, iti daya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ננחל",
+      "gloss": "kamin a mangtawid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "isuda"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "iti ballasiw"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ken maipatanor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "באה",
+      "gloss": "immay"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "ti tawidmi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": ""
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "a ballasiw"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "iti daya"
+    }
+  ],
+  "timestamp": "2026-09-26T07:17:45.617787346Z",
+  "model": "glm-5.3"
+}

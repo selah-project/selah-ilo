@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 16,
+  "translation": "Ket ikkatanna ti basol ti padi a ilanaan ⟨אתו⟩ ken ti punnoenna ⟨את⟩ imana a mangipapadi imbes ti amaanna; ket sukatenna ⟨את⟩ dagiti bado ti lino, dagiti nasantoan a bado.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ket ikkatanna ti basol"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "ilanaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ti padi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ken ti"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "punnoenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imana"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "imana"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a mangipapadi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "imbes"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amaanna"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ket sukatenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti bado"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "ti lino"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "dagiti bado"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nasantoan"
+    }
+  ],
+  "timestamp": "2026-09-26T05:38:29.844643879Z",
+  "model": "glm-5.3"
+}

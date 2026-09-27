@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Umaykayo, kitaenyo dagiti aramid ni Yahweh, a nangaramid kadagiti dadael iti daga.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Umaykayo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "kitaenyo"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "dagiti aramid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nangaramid"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "kadagiti dadael"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:23.207666365Z",
+  "model": "glm-5.3"
+}

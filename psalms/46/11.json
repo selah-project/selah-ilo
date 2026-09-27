@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 46,
+  "translation": "Aginana kayo, ket ammoenyo a siak ti Elohim; nangatngatoak kadagiti umili, nangatngatoak iti daga.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Aginana kayo"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ket ammoenyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "siak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ti Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "nangatngatoak"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kadagiti umili"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "nangatngatoak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T21:21:23.208315523Z",
+  "model": "glm-5.3"
+}

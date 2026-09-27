@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "Bendisionanka ngem iti amin a pagili; saan a adda kenka nga awan-anak a lalaki wenno awan-anak a babai, ken iti ayupmo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bendisionanka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "addanka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngem iti amin"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "a pagili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "addanto"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kenka"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "awan-anak a lalaki"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "awan-anak a babai"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "ken iti ayupmo"
+    }
+  ],
+  "timestamp": "2026-09-26T07:53:28.826412905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 147,
+  "translation": "Ibbuntonna ⟨ti⟩ yelona a kasla dagiti pureg; siasino ti makatakder iti sango ⟨ti⟩ katalganna?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "ibbuntonna"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "yelona"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "kasla dagiti pureg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "katalganna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siasino"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "makatakder"
+    }
+  ],
+  "timestamp": "2026-09-26T22:32:47.575213608Z",
+  "model": "glm-5.3"
+}

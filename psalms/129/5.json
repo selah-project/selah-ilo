@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 129,
+  "translation": "Mabainanda ken agsublida nga agpaudian, amin dagiti agaw-away iti Tzion.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Mabainanda"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ken agsublida"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nga agpaudian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "dagiti agaw-away"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iti Tzion"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:27.390311588Z",
+  "model": "glm-5.3"
+}

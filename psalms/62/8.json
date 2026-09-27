@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 62,
+  "translation": "Adda iti Elohim ti panangisalakannak ken ti daydayawko; ti bato ti bilegko, ti pagliwliwak — iti Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "adda iti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ti panangisalakannak"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ken ti daydayawko"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ti bato"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ti bilegko"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ti pagliwliwak"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "iti Elohim"
+    }
+  ],
+  "timestamp": "2026-09-26T22:15:36.743046183Z",
+  "model": "glm-5.3"
+}

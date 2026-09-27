@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 10:20",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "ket napasamak iti dayta nga aldaw, saan pay a mangnayon ti nabati ti Yisrael ken dagiti nakatalaw ti balay ni Yaakov nga agsandig kadagiti nagtakit kaniada, no di ket agsandigda kenni Yahweh, ti Nasantuan ti Yisrael, iti pudno.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "pay a mangnayon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "itultuloy"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ti nabati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ופליטת",
+      "gloss": "ken dagiti nakatalaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "להשען",
+      "gloss": "nga agsandig"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "nagtakit kaniada"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "ket agsandigda"
+    },
+    {
+      "surface": "על",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ti Nasantuan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "iti pudno"
+    }
+  ],
+  "timestamp": "2026-09-26T14:38:17.950195755Z",
+  "model": "glm-5.3"
+}

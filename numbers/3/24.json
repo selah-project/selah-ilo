@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ken ti pangulo ti balay ti ama dagiti Gershonita: ni Elyasaf, anak ni Lael.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "Ken ti pangulo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ti ama"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "dagiti Gershonita"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ni Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ni Lael"
+    }
+  ],
+  "timestamp": "2026-09-26T06:06:45.107187030Z",
+  "model": "glm-5.3"
+}

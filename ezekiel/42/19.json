@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Naglikmut iti bangbangir ti baybay, sinukatna, lima a gasut a tikag, iti tikag ti panagsukat.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "naglikmut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ti bangbangir"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "sinukatna"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "a tikag"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "iti tikag"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ti panagsukat"
+    }
+  ],
+  "timestamp": "2026-09-26T19:14:06.323800320Z",
+  "model": "glm-5.3"
+}

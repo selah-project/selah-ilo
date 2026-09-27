@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Dengngenyonto, dagiti adayo, ti aramidko; ket ammoyo, dagiti asideg, ti bilegko.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengngenyonto"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "dagiti adayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "inaramidko"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ket ammoyo"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "dagiti asideg"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "bilegko"
+    }
+  ],
+  "timestamp": "2026-09-26T15:03:49.924364242Z",
+  "model": "glm-5.3"
+}

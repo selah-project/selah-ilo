@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 130,
+  "translation": "Agur-urayka, Yisrael, kenni Yahweh, ta kadua ni Yahweh ti hesed, ken adu kaduana ti panangibain.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "agur-urayka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "ti hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ken adu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaduana"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "ti panangibain"
+    }
+  ],
+  "timestamp": "2026-09-26T22:30:08.596744005Z",
+  "model": "glm-5.3"
+}

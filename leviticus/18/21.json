@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "Ken iti imputotmo saanmo nga ited nga ipasa iti Molokh, ken saanmo a pagdakesan ⟨את⟩ ti nagan ti Elohimmo; siak ti Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "ken iti imputotmo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ited"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "nga ipasa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "iti Molokh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ken saan"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "pagdakesan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti nagan ti Elohimmo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohimmo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T05:31:56.298045752Z",
+  "model": "glm-5.3"
+}

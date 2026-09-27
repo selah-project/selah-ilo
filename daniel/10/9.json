@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Nangngeknak ⟨את⟩ iti timek ti dagiti saona, ket iti panangngegko ⟨את⟩ iti timek ti dagiti saona, siak ket nagnatnginak a naigaed iti rupak, ken ti rupak ⟨ti⟩ mapan iti daga.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "nangngeknak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti timek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "timek"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ti dagiti saona"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "iti panangngegko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iti timek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "timek"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ti dagiti saona"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "siak"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ket adda"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "nagnatnginak"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rupak"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ken ti rupak"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iti daga"
+    }
+  ],
+  "timestamp": "2026-09-26T23:20:25.418957232Z",
+  "model": "glm-5.3"
+}

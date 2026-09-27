@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ta iti kaadu ti kinasirib adda ti kaadu ti keres, ken ti mangnayon iti pannakaammo ket mangnayon iti sakit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "iti kaadu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kinasirib"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kaadu"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "keres"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ken ti mangnayon"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pannakaammo"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "mangnayon"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "iti sakit"
+    }
+  ],
+  "timestamp": "2026-09-26T23:06:15.367035787Z",
+  "model": "glm-5.3"
+}

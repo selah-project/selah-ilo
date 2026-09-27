@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 92,
+  "translation": "Ta inragsaknak ni Yahweh iti aramidmo; iti dagiti aramid ti imam agkantaak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "inragsaknak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "iti aramidmo"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "iti dagiti aramid"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ti imam"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "agkantaak"
+    }
+  ],
+  "timestamp": "2026-09-26T22:21:00.299119339Z",
+  "model": "glm-5.3"
+}

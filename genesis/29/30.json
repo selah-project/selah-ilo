@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 29,
+  "translation": "Immay met kenni Rahel, ket inayatanna met ni ⟨את⟩ Rahel ngem ni Lea, ken nagtrabaho kadakuana pay iti pito a tawen a dadduma pay.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Immay met"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "ket inayatanna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ngem ni Lea"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ken nagtrabaho"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a tawen"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "a dadduma pay"
+    }
+  ],
+  "timestamp": "2026-09-26T02:28:24.645367241Z",
+  "model": "glm-5.3"
+}

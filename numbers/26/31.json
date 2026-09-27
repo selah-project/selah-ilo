@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 26:31",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 26,
+  "translation": "ken ni Asriel, ti pamilia dagiti Asrieli; ken ni Shekhem, ti pamilia dagiti Shekhemi.",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "ken ni Asriel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "dagiti Asrieli"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "ken ni Shekhem"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ti pamilia"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "dagiti Shekhemi"
+    }
+  ],
+  "timestamp": "2026-09-26T07:05:49.589608767Z",
+  "model": "glm-5.3"
+}

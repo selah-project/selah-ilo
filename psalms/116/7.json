@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 116,
+  "translation": "Agsublika, kararwak, iti paginnaanmo, ta ni Yahweh nangited kadagiti nasayaat kenka.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kararwak"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "iti paginnaanmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "nangited kadagiti nasayaat"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "kenka"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:06.887770285Z",
+  "model": "glm-5.3"
+}

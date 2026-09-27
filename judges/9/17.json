@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "a nakilaban ni amak kadakayo, ken inlukatna ⟨את⟩ ti kararuana iti sanguanan, ket diniosna ⟨את⟩ dakayo manipud iti ima ti Midian.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakilaban"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ni amak"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "inlukatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kararuana"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ti kararuana"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "diniosna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dakayo",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "manipud iti ima"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ti Midian"
+    }
+  ],
+  "timestamp": "2026-09-26T09:55:29.979880488Z",
+  "model": "glm-5.3"
+}

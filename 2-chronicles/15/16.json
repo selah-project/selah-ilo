@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 15:16",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 15,
+  "translation": "ket ni Maakhá pay, ti ina ni Asa nga ari, ikkatanna a kas reina, ta nagaramidanna iti maysa a makatktakot nga karikna para iti Asherá; ket tinippok ni Asa ⟨את⟩ kariknana, pinukpukna ken sinunogna iti karayan Kidron.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ket pay"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ni Maakhá"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ti ina"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ni Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga ari"
+    },
+    {
+      "surface": "הסירה",
+      "gloss": "ikkatanna a kas reina"
+    },
+    {
+      "surface": "מגבירה",
+      "gloss": "manipud iti panagturay a kas reina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "nagaramidanna"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "para iti Asherá"
+    },
+    {
+      "surface": "מפלצת",
+      "gloss": "iti maysa a makatktakot nga karikna"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ket tinippok"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ni Asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kariknana"
+    },
+    {
+      "surface": "מפלצתה",
+      "gloss": "kariknana"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "pinukpukna"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "sinunogna"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "iti karayan"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-09-26T23:50:54.694855478Z",
+  "model": "glm-5.3"
+}

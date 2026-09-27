@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 23:41",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 23,
+  "translation": "Ken iparangarangyo daytoy a kas fiesta ni Yahweh, pito nga aldaw iti tunggal tawen; linteg daytoy agingga iti pangpman para kadagiti kaputotan yo; iti maikapito a bulan iparangarangyo ⟨את⟩ daydaytoy.",
+  "tokens": [
+    {
+      "surface": "וחגתם",
+      "gloss": "ken iparangarangyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ daytoy",
+      "marks": "ti fiesta"
+    },
+    {
+      "surface": "חג",
+      "gloss": "kas fiesta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga aldaw"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "iti tunggal tawen"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "linteg"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agingga iti pangpman"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "para kadagiti kaputotan yo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "maikapito"
+    },
+    {
+      "surface": "תחגו",
+      "gloss": "iparangarangyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ daydaytoy",
+      "marks": "ti fiesta"
+    }
+  ],
+  "timestamp": "2026-09-26T05:54:09.867900899Z",
+  "model": "glm-5.3"
+}

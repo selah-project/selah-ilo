@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "ilo",
+  "chapter": 20,
+  "translation": "Ta saan a nakaammo ti kappia iti tianna; iti kaykayatna, saan a makatalawnan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakaammo"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ti kappia"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "iti tianna"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "iti kaykayatna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "makatalawnan"
+    }
+  ],
+  "timestamp": "2026-09-26T22:52:39.159900672Z",
+  "model": "glm-5.3"
+}

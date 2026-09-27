@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 58,
+  "translation": "ti saan a mamati iti timek dagiti manglalahas, ti mangikapet iti lalahas a kalaing.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "iti timek"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "dagiti manglalahas"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "ti mangikapet"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "iti lalahas"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "a kalaing"
+    }
+  ],
+  "timestamp": "2026-09-26T21:31:56.225364927Z",
+  "model": "glm-5.3"
+}

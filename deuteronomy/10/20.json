@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "⟨את⟩ ni Yahweh, ti Elohim mo, butengem, ⟨isu⟩ ⟨ti⟩ serbem, kenkuana agkidketka, ken iti naganna agsapataka.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ti Elohim mo"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "butengem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "isu ti serbem"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "serbem"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "agkidketka"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ken iti naganna"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "agsapataka"
+    }
+  ],
+  "timestamp": "2026-09-26T07:51:59.194704094Z",
+  "model": "glm-5.3"
+}

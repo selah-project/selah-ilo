@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "ket kinuna ni Yahweh kenkuana: Agsublika, sumurokka iti dalanmo iti lawan ti dakkel a kararbakar iti向 ti Damasek, ket umayka, ket ilanaam ⟨את⟩ ni Khazael a kas ari iti Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sumurokka"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "agsublika"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "iti dalanmo"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "iti lawan ti dakkel a kararbakar"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "iti Damasek"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ket umayka"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ket ilanaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Khazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ni Khazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a kas ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-26T13:09:11.630093525Z",
+  "model": "glm-5.3"
+}

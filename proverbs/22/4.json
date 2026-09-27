@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ti bundat ti panagpababa-baba ken ti panagbuteng ken ni Yahweh: kayamanan ken daydayaw ken biag.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "bundat"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "panagpababa-baba"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "panagbuteng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ken ni Yahweh"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ken daydayaw"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ken biag"
+    }
+  ],
+  "timestamp": "2026-09-26T22:41:55.655730739Z",
+  "model": "glm-5.3"
+}

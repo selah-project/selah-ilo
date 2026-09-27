@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 13,
+  "translation": "Kitaen ti padi, ket kitaem, no naksakupan ti tsaraat ⟨את⟩ ti amin a lasagna, idingna a nadalus ⟨את⟩ ti saksakitan; aminna ket nagbaliw a puraw — nadalus isu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "kitaen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ti padi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ket kitaem"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "naksakupan"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ti tsaraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti amin a lasagna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "a lasagna"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "idingna a nadalus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti saksakitan"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ti saksakitan"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "aminna"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "nagbaliw"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "puraw"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nadalus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "isu"
+    }
+  ],
+  "timestamp": "2026-09-26T21:59:06.512583721Z",
+  "model": "glm-5.3"
+}

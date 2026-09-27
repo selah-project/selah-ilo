@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 25,
+  "translation": "Iturongmoak iti lintegmo ken isursuromoak, ta Sika ⟨ti⟩ Elohim ti salakanko; ⟨את⟩ Sika ti inurayko iti amin nga aldaw.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Iturongmoak"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "iti lintegmo"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ken isursuromoak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ti salakanko"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "Sika ti inurayko"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "inurayko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T21:01:31.581734902Z",
+  "model": "glm-5.3"
+}

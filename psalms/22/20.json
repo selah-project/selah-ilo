@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 22,
+  "translation": "Ngem sika, Yahweh, saan nga umadayoka; ti pigsaok, tarayen a tumulong kaniak.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngem sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "nga umadayoka"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "ti pigsaok"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "a tumulong kaniak"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "tarayen"
+    }
+  ],
+  "timestamp": "2026-09-26T20:58:15.899605060Z",
+  "model": "glm-5.3"
+}

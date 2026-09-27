@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 7:38",
+  "book": "leviticus",
+  "lang": "ilo",
+  "chapter": 7,
+  "translation": "nga binilin ni Yahweh ⟨את⟩ ni Moshe iti bantay Sinai, iti aldaw ti panangibilinna ⟨את⟩ dagiti anak ni Yisrael nga itudingda ⟨את⟩ dagiti datonda kenni Yahweh, iti away ti Sinai.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "binilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "צותו",
+      "gloss": "ti panangibilinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "nga itudingda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti datonda"
+    },
+    {
+      "surface": "קרבניהם",
+      "gloss": "dagiti datonda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "iti away"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-26T04:56:53.706259331Z",
+  "model": "glm-5.3"
+}

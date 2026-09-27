@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ilo",
+  "chapter": 27,
+  "translation": "No awan babaina, itedyo ⟨את⟩ ti tawidna kadagiti kabsatna.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babai"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tawidna"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "tawidna"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kadagiti kabsatna"
+    }
+  ],
+  "timestamp": "2026-09-26T07:06:45.145306241Z",
+  "model": "glm-5.3"
+}

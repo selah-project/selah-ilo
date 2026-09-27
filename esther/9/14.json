@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "ilo",
+  "chapter": 9,
+  "translation": "Kinuna ti ari nga aramiden kasta, ket naipaay ti bilin iti Shushan, ken ⟨את⟩ dagiti sangapulo nga anak ni Haman inilanglad.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "nga aramiden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "ket naipaay"
+    },
+    {
+      "surface": "דת",
+      "gloss": "ti bilin"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "iti Shushan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti sangapulo nga anak ni Haman"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "inilanglad"
+    }
+  ],
+  "timestamp": "2026-09-26T23:15:57.440933073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Ket inited ni Elohim ⟨את⟩ ni Daniel iti hesed ken iti panangasi iti sango ti prinsipe dagiti eunuko.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ket inited"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ni Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "iti hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "ken iti panangasi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sango"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti prinsipe"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "dagiti eunuko"
+    }
+  ],
+  "timestamp": "2026-09-26T23:15:11.444217812Z",
+  "model": "glm-5.3"
+}

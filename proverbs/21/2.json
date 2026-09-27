@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "ilo",
+  "chapter": 21,
+  "translation": "Tunggal dalan ti lalaki nalinteg kadagiti matana; ngem ni Yahweh agsukat kadagiti puso.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tunggal"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti lalaki"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "nalinteg"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "kadagiti matana"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ngem agsukat"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "dagiti puso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-26T22:41:32.232887033Z",
+  "model": "glm-5.3"
+}

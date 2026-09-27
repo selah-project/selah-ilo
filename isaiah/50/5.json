@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 50,
+  "translation": "Ni Adonay Yahweh ti nanglukat ⟨iti⟩ talingak, ket siak saan a nagsuppiat, iti likudan saanak a nangsubli.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nanglukat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨iti⟩"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "talingak"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ket siak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "nagsuppiat"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "iti likudan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "nangsubli"
+    }
+  ],
+  "timestamp": "2026-09-26T15:48:48.974906131Z",
+  "model": "glm-5.3"
+}

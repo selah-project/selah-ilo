@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "ilo",
+  "chapter": 14,
+  "translation": "Adda ti gubat a nagbaetan ni Rehavoam ken ni Yaravoam iti amin a dagiti aldaw.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ken ti gubat"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adda"
+    },
+    {
+      "surface": "בין",
+      "gloss": "a nagbaetan"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ni Rehavoam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ken"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yaravoam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagiti aldaw"
+    }
+  ],
+  "timestamp": "2026-09-26T12:54:55.382635845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 10,
+  "translation": "Nagsao ni Shemuel kenni ti umili ti ⟨את⟩ ukom ti pagturayan, ket insuratna iti libro, ket ininnaonna iti sanguanan ni Yahweh; ket ipatulodna ni Shemuel ⟨את⟩ amin ti umili, tunggal maysa iti balayna.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nagsao"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ukom ti pagturayan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukom"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ti pagturayan"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "insuratna"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "iti libro"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ininnaonna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ipatulodna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin ti umili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "iti balayna"
+    }
+  ],
+  "timestamp": "2026-09-26T10:38:11.430568353Z",
+  "model": "glm-5.3"
+}

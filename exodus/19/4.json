@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "ilo",
+  "chapter": 19,
+  "translation": "Dakayo ti nakitayoyo ti inaramidko kadagiti Mitsrayim, ket innalak ⟨את⟩ dakayo kadagiti payak ti agila, ket inegak ⟨את⟩ dakayo kaniak.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Dakayo"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nakitayoyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "inaramidko"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kadagiti Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ket innalak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "payak"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "ti agila"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "ket inegak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dakayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kaniak"
+    }
+  ],
+  "timestamp": "2026-09-26T04:00:10.414313861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "⟨את⟩ dagiti karneiroda ken ⟨את⟩ dagiti bakaoda ken ⟨את⟩ dagiti burikoda ken ⟨את⟩ ti amin nga adda iti ili ken ⟨את⟩ ti amin nga adda iti talon, inalada.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti karneiroda"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "karneiroda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti bakaoda"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "bakaoda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti burikoda"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "burikoda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti amin nga adda iti ili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "adda iti ili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti amin nga adda iti talon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amin a"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "adda iti talon"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "inalada"
+    }
+  ],
+  "timestamp": "2026-09-26T02:49:41.428447474Z",
+  "model": "glm-5.3"
+}

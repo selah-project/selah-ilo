@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "ilo",
+  "chapter": 40,
+  "translation": "Nagriaw ni Paro kadagiti dua a sarisna, iti sar dagiti agiinnum ken iti sar dagiti agipapato.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "Nagriaw"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "על",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua a"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "sarisna"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti sar"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "dagiti agiinnum"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti sar"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ti sar"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "dagiti agipapato"
+    }
+  ],
+  "timestamp": "2026-09-26T03:00:27.524944654Z",
+  "model": "glm-5.3"
+}

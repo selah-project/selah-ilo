@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 42,
+  "translation": "Ibagak kenni El, ti bato kuartak: Apay a lipatannak? Apay a mapanak a nagsangit iti panangidepdepen ti kabusor?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ibagak"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kenni El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ti bato kuartak"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "lipatannak"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nagsangit"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mapanak"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "iti panangidepdepen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ti kabusor"
+    }
+  ],
+  "timestamp": "2026-09-26T21:16:56.641513989Z",
+  "model": "glm-5.3"
+}

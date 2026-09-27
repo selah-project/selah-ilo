@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 109,
+  "translation": "Sinuotanna ti sumpa a kas ti kettenna, ket sumrek daytoy a kas danum iti unegna, ken kas lana iti tulangna.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "sinuotanna"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ti sumpa"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "a kas ti kettenna"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ket sumrek daytoy"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "a kas danum"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "iti unegna"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "ken kas lana"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "iti tulangna"
+    }
+  ],
+  "timestamp": "2026-09-26T22:26:04.240396865Z",
+  "model": "glm-5.3"
+}

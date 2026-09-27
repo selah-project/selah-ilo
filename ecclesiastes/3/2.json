@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Ti panawen a mangipasngay ken ti panawen a matay; ti panawen a mangimula ken ti panawen a mangikkat iti naimula.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ti panawen"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "a mangipasngay"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti panawen"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a matay"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ti panawen"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "a mangimula"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ken ti panawen"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "a mangikkat"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "iti naimula"
+    }
+  ],
+  "timestamp": "2026-09-26T23:07:42.168733014Z",
+  "model": "glm-5.3"
+}

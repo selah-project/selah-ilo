@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 87,
+  "translation": "Bilanganna ni Yahweh idi agsurat ⟨iti⟩ dagiti umili: daytoy ket naipasngay sadiay. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bilanganna"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "idi agsurat ⟨iti⟩"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dagiti umili"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "naipasngay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sadiay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-26T22:20:44.213099259Z",
+  "model": "glm-5.3"
+}

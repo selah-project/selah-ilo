@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 34,
+  "translation": "Ken dagiti karayanna ket mabalbaliwandato nga agbalin iti picho, ken ti tapokna nga agbalin iti asupri; ken ti dagana ket agbalin a picho a agpapatay.",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "ken mabalbaliwanda"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "dagiti karayanna"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "nga agbalin iti picho"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "ken ti tapokna"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "nga agbalin iti asupri"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ket agbalin"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ti dagana"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "a picho"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "a agpapatay"
+    }
+  ],
+  "timestamp": "2026-09-26T15:13:16.866265811Z",
+  "model": "glm-5.3"
+}

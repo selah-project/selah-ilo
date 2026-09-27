@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "ilo",
+  "chapter": 1,
+  "translation": "Kinuna ni David kennuana: Sadino ka manipud immay? Ket kinunana kennuana: Manipud iti kampo ni Yisrael nakatalawak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Kinuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אי",
+      "gloss": "sadino"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "manipud"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "immayka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kennuana"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "manipud iti kampo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "nakatalawak"
+    }
+  ],
+  "timestamp": "2026-09-26T11:30:43.804881291Z",
+  "model": "glm-5.3"
+}

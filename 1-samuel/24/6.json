@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ilo",
+  "chapter": 24,
+  "translation": "Napasamak kalpasan daytoy, ket tinuktok ti puso ni David ⟨את⟩ kenkuana gapu ta inutedna ⟨את⟩ ti pingsi ti bado a ni Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Napasamak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tinuktok"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ti puso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kenkuana"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "inutedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pingsi"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ti pingsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-26T11:07:53.529111756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ilo",
+  "chapter": 3,
+  "translation": "Dagiti hesed ni Yahweh — ta saan a nagibuskami, ta saan a nagibus dagiti kaasina.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Dagiti hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "a nagibuskami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "a nagibus"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "dagiti kaasina"
+    }
+  ],
+  "timestamp": "2026-09-26T23:06:19.857681458Z",
+  "model": "glm-5.3"
+}

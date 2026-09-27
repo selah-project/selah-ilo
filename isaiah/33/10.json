@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ilo",
+  "chapter": 33,
+  "translation": "Ita, agtakderakto, kinuna ni Yahweh; ita, agngatoakto; ita, ipangtokto ti bagik.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ita"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "agtakderakto"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "agngatoakto"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ipangtokto ti bagik"
+    }
+  ],
+  "timestamp": "2026-09-26T15:01:50.819806416Z",
+  "model": "glm-5.3"
+}

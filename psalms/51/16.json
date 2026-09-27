@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 51,
+  "translation": "Isalakanmo manipud kadagiti dara, Elohim, Elohimko ti panangisalakankon, kantianna ti dilaek ti kinalintegmo.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Isalakanmo"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "manipud kadagiti dara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimko"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ti panangisalakankon"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "kantianna"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ti dilaek"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ti kinalintegmo"
+    }
+  ],
+  "timestamp": "2026-09-26T21:26:43.341884341Z",
+  "model": "glm-5.3"
+}
