@@ -2385,3 +2385,161 @@ for the wrong *language*; there the writer reached for the wrong *script*.
 **And the only thing that caught any of it was a regex.** Not care, not attention,
 not a reading. **A fault invisible on the page is invisible to everyone on the page,
 including the person hunting it.**
+
+
+## §64 — The landing, and why the commit came first
+
+23,198 of 23,213 at 20:08, with a residue of **15**. `relay-move-on!` is one full
+pass at batch 4, one retry at batch 2, and then **move on with the residue
+recorded** — so it *finished* rather than hanging, and a residue is the expected
+outcome, not a failure.
+
+**The residue's shape was diagnostic: seven adjacent pairs and one single** —
+1 Chr 22:13–14, 28:11–12; 2 Chr 18:19–20, 32:3–4; Ezra 8:19–20; Ps 105:29–30,
+124:3–4; Ps 110:7. **That is the batch-size-2 retry failing as a pair, not fifteen
+independent failures**, which is why a single relight took all of them in two and a
+half minutes.
+
+**The corpus was committed BEFORE anything touched it.** The repo was initialized
+at 18:46 with zero commits precisely so the first commit could be the landing
+itself — because `PROVENANCE.md` can only say *"the corpus was committed before any
+pass touched it, so every repair is a diff you can read"* if that is literally
+true, and the git log now proves it. Root files were finished before the landing
+for the same reason.
+
+And **2 Kings 16:17 landed at last**, after standing frozen at sixteen verses for
+nine hours. It was one of two unpointed `את` tokens classified from the pointed
+text at 09:19 and **deliberately left OUTSIDE the exclusion set as a live test.**
+It passed: four markers, including the suffixed `אתו` — and `הנחשת` → `gambang`,
+the metals pin from 17:28, in the same clause.
+
+## §65 — §9, and the three things that would have shipped
+
+669 verses, one diff, and every rule obeying the criterion: **a repair is
+deterministic when the Hebrew surface plus the wrong gloss settle the right answer
+without reading the verse.**
+
+**The `ñ` rule came out.** An acute is decoration on a correct word and strips
+cleanly — `nakdégak` → `nakdegak`, `babaí` → `babai`, `Lehí` → `Lehi`. **`ngañ` is
+a corrupted token and stripping gives `ngan`, which is not a word either.** By the
+pass's own criterion that is a re-press, and it would have written `ngan Elohimda`
+into forty verses **looking entirely plausible**.
+
+**The writer was rewritten to work on raw text, line by line.** The first version
+round-tripped through `json/write-str` and produced **563 insertions against 43,773
+deletions**, because the corpus is 2-space pretty-printed with a fixed key order.
+**A repair that rewrites a whole file to change one string is a reformat, not a
+repair**, and it destroys the diff §9 exists to produce. Caught by reading
+`git diff --stat`; reverted with `git checkout .`
+
+**And Exodus 7:7 needed both spellings of the same number.** The row said
+`ennem a pulo` and the flow said `innem a pulo`, so the first application fixed the
+row and **left Moshe sixty years old in the sentence the reader meets** — the exact
+fault the flow-with-the-row rule exists to prevent, happening to the pass that
+states it. All eight numbers were then verified in both surfaces.
+
+## §66 — §10, and the Name reached 6,830 of 6,830
+
+628 seats from the census, **607 on the first pass, 11 json-error and 10
+alignment-error, and the five-rung ladder took all 21. `still-failed` empty.**
+
+Every structural class went to zero:
+
+| | before | after |
+|---|---|---|
+| `empty-tokens` | **52** | **0** |
+| `empty-flow` | 14 | 0 |
+| `notation-leak` | 18 | 0 |
+| `name-empty` · `name-dropped` | 3 | 0 |
+| `ish-tao` | 256 | 3 |
+| `empty-gloss` | 139 | 14 |
+| `foreign-script` | 41 | 3 |
+| `fabricated-marker` | 25 | 1 |
+
+**THE NAME IS NOW 6,830 OF 6,830.** Its last three faults were **absences** —
+Proverbs 21:31 keeping its preposition and losing the Name, Exodus 15:23 and 15:24
+empty — and **an absence cannot be scripted, only re-pressed.** The erasure line
+has read 0 verses at every gate.
+
+**And the 52 token-less verses are the finding of the whole landing.** They had a
+FILE, so `count-missing` called them done all day — **and every token-level check
+walked their tokens, found none, and contributed zero, which looks exactly like
+agreement.** The Name count, the ⟨את⟩ count, the number audit, the abstention
+inventory, the Twelve roll-up, forty-five gates: **all of them read 52 verses as
+silent consent.** `nahum/1/13` held `"tokens": []` and a flow carrying a Hebrew `את`
+welded to Ilocano, an ellipsis, and then **the chair's own deliberation followed by a
+second attempt at the whole verse, both shipped.**
+
+**`count-missing` counts files, not content.**
+
+## §67 — §11, where the floor corrected the instrument rather than the seats
+
+The runbook's rule is *each remaining seat decided against the en floor, never
+guessed*. Reading the 33 `asham` seats against en found **not one fault**:
+
+- **~24 are the VERB `אָשַׁם`, *to become guilty***, which en renders *guilty* and
+  the pin correctly sends to `basol`.
+- **Leviticus 5:19's emphatic already reads `Asham daytoy; nangbasol a nakabasol`**
+  — the noun transliterated and the infinitive absolute **reduplicated exactly as
+  the Hebrew does it.**
+- **Seven are a different root**, because unpointed `ואשם` is also `וָאָשִׂם`, *and
+  I put* (שׂים — five of them), `וְאִשָּׁם` *and their fire* (אֵשׁ), `נָשַׁם` *to
+  pant*, and `שָׁמֵם` *desolate*. **An eighteenth homonym family.**
+
+So the census is now **floor-anchored on both lexical classes**, and `asham` fell
+31 → 1, `goel` 17 → 7. **A Hebrew consonant skeleton does not say which word it is,
+and the floor does.** The census had been built on letters — four hours after
+exp 1016 named that exact cure.
+
+**Of the 74 seats before the floor arbitrated, forty were the chair being right.**
+
+## §68 — The second §9 pass, and five more caught by reading
+
+**The fifteen empty-gloss fills were dropped entirely.** The floor named every sense
+so they looked deterministic; **reading the NEIGHBOURING tokens killed it:**
+
+    numbers/7/84   שתים → sangapulo ket dua  (twelve, WHOLE)   עשרה → ""
+    genesis/46/18  שש   → sangapulo ket innem (sixteen)        עשרה → ""
+    2-samuel/21/7  מפי  → Mefiboshet (the whole name)          בשת  → ""
+
+**An empty gloss is usually the second half of something rendered whole on the first
+token**, and filling it writes *twelve ten*, *sixteen ten*, *Mefiboshet boshet* —
+taking a correct rendering and making it wrong, **which is the exact class §9's
+number rules exist to prevent.** The right test is not *is the gloss empty?* but
+**is the SENSE missing from the verse?**, and that needs the neighbours.
+
+**The A8 flow rule was firing on its string alone, under a comment claiming that was
+safe.** The comment read *"the flow carries no Hebrew, so a token-pair rule fires on
+its string alone — safe, because the rule exists only for words the row has already
+proved"*, and **that is false: the flow carries no Hebrew, so nothing in it proves
+anything.** It cost two regressions — **`joshua/20/3` and `20/5` read *without
+KNOWLEDGE*, Hebrew `דָעַת`, correctly `pannakaammo`, and the flow rule rewrote them
+to `pannakaawat` while the row stayed right.** A semantic error **and** a row/flow
+divergence, from the pass whose first stated rule is that the flow must be repaired
+*with* the row.
+
+**`2-chronicles/35/22` could not be a bare strip** — its row gloss for `אל` is the
+marker *alone*, so removing it would trade a fabricated marker for an empty gloss.
+Replaced with `iti`. **A strip is only safe when something is left standing.**
+
+**And two more the reading cleared:** `tinubbotmo` and `tinubbotna` **are** the
+`tubbot` stem carrying Ilocano's completed-aspect infix `-in-` — the nineteenth time
+a matcher of mine missed an inflection **inside** a word. And **`deuteronomy/19/6`'s
+`ti mangibales` is the sharpest of the night: `גֹּאֵל הַדָּם` is the AVENGER of
+blood, not the redeemer — the same root doing the opposite office, and the chair
+knew.**
+
+## §69 — Two seats that belong to neither the chair nor the rails
+
+- **job/38/37** — `יסספר`, a **doubled samekh**. Not a Hebrew word.
+- **1-kings/20/28** — `ויאא`. Not a Hebrew word.
+
+**The en floor has no gloss for either.** The source token is malformed and both
+chairs hit it identically. In a file otherwise entirely about what a machine got
+wrong and what the rails failed to say, these two are **the text's own seam** — and
+they are held, not guessed.
+
+The third held seat is **daniel/3/12**'s `יתהון`, **Aramaic's own object marker.**
+`xh`'s re-press script holds that exact verse as *"awaits the Aramaic ruling"*, and
+`sv` and `cs` both arrived there the same way. **Four chairs, one unanswered
+question.** Not a chair's fault; the project's.
