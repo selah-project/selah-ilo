@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 24,
-  "translation": "Ken ti tao no tumuktok iti aniaman a kararua ti tao, matayen a matay.",
+  "translation": "No maysa a lalaki ket patayenna ti aniaman a kararua ti tao, matayon a matayen.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ken ti tao"
+      "gloss": "No maysa a lalaki"
     },
     {
       "surface": "כי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "יכה",
-      "gloss": "tumuktok"
+      "gloss": "patayenna"
     },
     {
       "surface": "כל",
-      "gloss": "aniaman"
+      "gloss": "ti aniaman"
     },
     {
       "surface": "נפש",
-      "gloss": "kararua"
+      "gloss": "a kararua"
     },
     {
       "surface": "אדם",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "מות",
-      "gloss": "matayen"
+      "gloss": "matayon"
     },
     {
       "surface": "יומת",
-      "gloss": "a matay"
+      "gloss": "a matayen"
     }
   ],
-  "timestamp": "2026-09-26T05:49:42.088194347Z",
+  "timestamp": "2026-09-27T01:20:18.319042563Z",
   "model": "glm-5.3"
 }

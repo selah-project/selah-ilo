@@ -5,23 +5,23 @@
   "book": "judges",
   "lang": "ilo",
   "chapter": 18,
-  "translation": "Ket kinunada kokuana: Agdedgeka nga umuna, ikkam ti imam iti ngiwatmo ken umayka kumiaken, ket agbalinka kadakami a ama ken a padi; nasaysayaat kadi ti agbalim a padi iti balay ti maysa a tao, no ti agbalim a padi iti maysa a tribu ken iti maysa a pamilia iti Yisrael?",
+  "translation": "Kinunada kennu: Agdardarem, isuam ti imam iti ngiwatmo, umayka kaduami, ket agbalinka a kas ama ken a kas padi kadakami. Ania ti nasaysayaat: ti agbalinmo a padi iti balay ti maysa a lalaki, wenno ti agbalinmo a padi iti tribu ken iti maysa a pamilia iti Yisrael?",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ket kinunada"
+      "gloss": "kinunada"
     },
     {
       "surface": "לו",
-      "gloss": "kokuana"
+      "gloss": "kennu"
     },
     {
       "surface": "החרש",
-      "gloss": "agdedgeka"
+      "gloss": "agdardarem"
     },
     {
       "surface": "שים",
-      "gloss": "ikkam"
+      "gloss": "isuam"
     },
     {
       "surface": "ידך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ולך",
-      "gloss": "ken umayka"
+      "gloss": "umayka"
     },
     {
       "surface": "עמנו",
-      "gloss": "kumiaken"
+      "gloss": "kaduami"
     },
     {
       "surface": "והיה",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "לאב",
-      "gloss": "a ama"
+      "gloss": "a kas ama"
     },
     {
       "surface": "ולכהן",
-      "gloss": "ken a padi"
+      "gloss": "ken a kas padi"
     },
     {
       "surface": "הטוב",
-      "gloss": "nasaysayaat"
+      "gloss": "ti nasaysayaat"
     },
     {
       "surface": "היותך",
-      "gloss": "ti agbalim"
+      "gloss": "ti agbalinmo"
     },
     {
       "surface": "כהן",
@@ -77,19 +77,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "a tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "אחד",
-      "gloss": "maysa"
+      "gloss": "ti maysa"
     },
     {
       "surface": "או",
-      "gloss": "no"
+      "gloss": "wenno"
     },
     {
       "surface": "היותך",
-      "gloss": "ti agbalim"
+      "gloss": "ti agbalinmo"
     },
     {
       "surface": "כהן",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "לשבט",
-      "gloss": "iti maysa a tribu"
+      "gloss": "iti tribu"
     },
     {
       "surface": "ולמשפחה",
@@ -108,6 +108,6 @@
       "gloss": "iti Yisrael"
     }
   ],
-  "timestamp": "2026-09-26T10:18:09.616492074Z",
+  "timestamp": "2026-09-27T01:19:20.739672695Z",
   "model": "glm-5.3"
 }

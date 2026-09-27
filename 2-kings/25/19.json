@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 25,
-  "translation": "Ken manipud iti ili inalana ti maysa a eunuko a nailaok kadagiti lallaki ti gubat, ken lima a lallaki kadagiti nakakita iti rupa ti ari a nabirukan idiay ili, ken ⟨את⟩ ti eskripto, ti pangulo ti buyot, a mangurnong ⟨את⟩ ti umili ti daga, ken innem a pulo a lalaki manipud iti umili ti daga a nabirukan idiay ili.",
+  "translation": "Ken manipud iti ili inalana ti maysa nga eunuko a naikabkabilanna kadagiti lallaki ti gubat, ken lima a lallaki a nakakita iti rupa ti ari, a nabirukanda iti ili, ken ⟨את⟩ ti agsursurat, ti daulo ti buyot, ti agibilin kadagiti umili ti daga, ken innem a pulo a lallaki manipud iti umili ti daga, dagiti nabirukan iti ili.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "Ken manipud iti"
+      "gloss": "ken manipud iti"
     },
     {
       "surface": "העיר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "סריס",
-      "gloss": "ti eunuko"
+      "gloss": "eunuko"
     },
     {
       "surface": "אחד",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": ""
+      "gloss": "(isuna)"
     },
     {
       "surface": "פקיד",
-      "gloss": "nailaok"
+      "gloss": "naikabkabilanna"
     },
     {
       "surface": "על",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "וחמשה",
-      "gloss": "ken lima"
+      "gloss": "ken lima a"
     },
     {
       "surface": "אנשים",
-      "gloss": "a lallaki"
+      "gloss": "lallaki"
     },
     {
       "surface": "מראי",
-      "gloss": "kadagiti nakakita"
+      "gloss": "a nakakita"
     },
     {
       "surface": "פני",
@@ -77,24 +77,24 @@
     },
     {
       "surface": "נמצאו",
-      "gloss": "nabirukan"
+      "gloss": "nabirukanda"
     },
     {
       "surface": "בעיר",
-      "gloss": "idiay ili"
+      "gloss": "iti ili"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "ti eskripto, ti pangulo ti buyot"
+      "marks": "ti agsursurat"
     },
     {
       "surface": "הספר",
-      "gloss": "ti eskripto"
+      "gloss": "ti agsursurat"
     },
     {
       "surface": "שר",
-      "gloss": "ti pangulo"
+      "gloss": "ti daulo"
     },
     {
       "surface": "הצבא",
@@ -102,16 +102,16 @@
     },
     {
       "surface": "המצבא",
-      "gloss": "a mangurnong"
+      "gloss": "ti agibilin kadagiti umili ti daga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti umili ti daga"
+      "marks": "dagiti umili ti daga"
     },
     {
       "surface": "עם",
-      "gloss": "ti umili"
+      "gloss": "umili"
     },
     {
       "surface": "הארץ",
@@ -123,7 +123,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "a lalaki"
+      "gloss": "a lallaki"
     },
     {
       "surface": "מעם",
@@ -135,13 +135,13 @@
     },
     {
       "surface": "הנמצאים",
-      "gloss": "a nabirukan"
+      "gloss": "dagiti nabirukan"
     },
     {
       "surface": "בעיר",
-      "gloss": "idiay ili"
+      "gloss": "iti ili"
     }
   ],
-  "timestamp": "2026-09-26T14:19:38.918556314Z",
+  "timestamp": "2026-09-27T01:10:13.269209920Z",
   "model": "glm-5.3"
 }

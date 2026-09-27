@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Wenno ti tao no agsumpa a makunkuna iti bibig ti mangdadael wenno ti mangaramid ti naimbus, iti aniaman a sao nga ibagana ti tao iti sumpa, ken naillemda kenna, ket isu ket ammo na, ken agbasol iti maysa kadagitoy.",
+  "translation": "Wenno ti maysa a kararua no agsumpa a maparuar iti bibina nga aramidenna ti dakes wenno ti naimbag, iti aniaman a maiparuar ti tao iti sumpa, ket napukaw daytoy kenkuana, ket isu no ammonna, agbasol iti maysa kadagiti daytoy.",
   "tokens": [
     {
       "surface": "או",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "ti tao"
+      "gloss": "kararua"
     },
     {
       "surface": "כי",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "לבטא",
-      "gloss": "a makunkuna"
+      "gloss": "a maparuar"
     },
     {
       "surface": "בשפתים",
-      "gloss": "iti bibig"
+      "gloss": "iti bibina"
     },
     {
       "surface": "להרע",
-      "gloss": "ti mangdadael"
+      "gloss": "nga aramidenna ti dakes"
     },
     {
       "surface": "או",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "להיטיב",
-      "gloss": "ti mangaramid ti naimbus"
+      "gloss": "ti naimbag"
     },
     {
       "surface": "לכל",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "a sao"
+      "gloss": "a"
     },
     {
       "surface": "יבטא",
-      "gloss": "nga ibagana"
+      "gloss": "maiparuar"
     },
     {
       "surface": "האדם",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ונעלם",
-      "gloss": "ken naillemda"
+      "gloss": "ket napukaw"
     },
     {
       "surface": "ממנו",
-      "gloss": "kenna"
+      "gloss": "kenkuana"
     },
     {
       "surface": "והוא",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "ידע",
-      "gloss": "ammo na"
+      "gloss": "no ammonna"
     },
     {
       "surface": "ואשם",
-      "gloss": "ken agbasol"
+      "gloss": "agbasol"
     },
     {
       "surface": "לאחת",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "מאלה",
-      "gloss": "kadagitoy"
+      "gloss": "kadagiti daytoy"
     }
   ],
-  "timestamp": "2026-09-26T05:06:49.843748651Z",
+  "timestamp": "2026-09-27T01:21:30.843950451Z",
   "model": "glm-5.3"
 }

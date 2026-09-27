@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 9,
-  "translation": "ket ni Yehu ket immay ruar kadagiti adipen ti apoyna, ket kinunana: Aduadua kadi? Apay nga immay daytoy a bubon kennika? Ket kinunana kadakuada: Dakayo ammo ⟨את⟩ ti tao ken ⟨את⟩ ti saritana.",
+  "translation": "Ni Yehu ket nagruar kadagiti adipen ti apona, ket kinuna ⟨kanianna⟩: Adda kappia? Apay nga immay daytoy a baliw kenka? Ket kinuna kadakuada: Dakayo, ammo y ⟨את⟩ ti lalaki ken ⟨את⟩ ti sawina.",
   "tokens": [
     {
       "surface": "ויהוא",
-      "gloss": "ket ni Yehu"
+      "gloss": "ni Yehu"
     },
     {
       "surface": "יצא",
-      "gloss": "immay ruar"
+      "gloss": "nagruar"
     },
     {
       "surface": "אל",
@@ -25,31 +25,31 @@
     },
     {
       "surface": "אדניו",
-      "gloss": "ti apoyna"
+      "gloss": "ti apona"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ket kinunana"
+      "gloss": "kinuna"
     },
     {
       "surface": "לו",
-      "gloss": "kenniku"
+      "gloss": "kanianna"
     },
     {
       "surface": "השלום",
-      "gloss": "Aduadua kadi"
+      "gloss": "kappia"
     },
     {
       "surface": "מדוע",
-      "gloss": "Apay"
+      "gloss": "apay"
     },
     {
       "surface": "בא",
-      "gloss": "napan"
+      "gloss": "immay"
     },
     {
       "surface": "המשגע",
-      "gloss": "daytoy a bubon"
+      "gloss": "baliw"
     },
     {
       "surface": "הזה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "אליך",
-      "gloss": "kennika"
+      "gloss": "kenka"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ket kinuna"
+      "gloss": "kinuna"
     },
     {
       "surface": "אליהם",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "Dakayo"
+      "gloss": "dakayo"
     },
     {
       "surface": "ידעתם",
@@ -78,22 +78,22 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti tao"
+      "marks": "ti lalaki"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "ti saritana"
+      "marks": "ti sawina"
     },
     {
       "surface": "שיחו",
-      "gloss": "ti saritana"
+      "gloss": "ti sawina"
     }
   ],
-  "timestamp": "2026-09-26T13:33:39.228851958Z",
+  "timestamp": "2026-09-27T01:10:49.269330538Z",
   "model": "glm-5.3"
 }

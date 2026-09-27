@@ -5,8 +5,33 @@
   "book": "nahum",
   "lang": "ilo",
   "chapter": 1,
-  "translation": "Ita kay bilinennak no madadaelenna ti tudawenna manipud kenniאת... — naisurat: Ita, dadaelennak ti maysa ti tudawena a mangipen kadak, ken dagiti pagkappesam rabawko, butbutengak.",
-  "tokens": [],
-  "timestamp": "2026-09-26T20:08:19.573216445Z",
+  "translation": "ket ita, dadaelenko ti tarikayona manipud kadagiti sagangsam, ket dagiti kadena ket ikkak.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ket ita"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "dadaelenko"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ti tarikayona"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "manipud kadagiti sagangsam"
+    },
+    {
+      "surface": "ומוסרתיך",
+      "gloss": "ket dagiti kadena"
+    },
+    {
+      "surface": "אנתק",
+      "gloss": "ikkak"
+    }
+  ],
+  "timestamp": "2026-09-27T01:20:57.677224924Z",
   "model": "glm-5.3"
 }

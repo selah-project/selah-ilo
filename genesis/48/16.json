@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 48,
-  "translation": "ti anghel a nagsalakan kaniak manipud iti amin a dakes, bendisionanna ⟨את⟩ dagiti ubbing, ket maawagan kaniada ti naganko ken ti nagan dagiti amaak a da ni Avraham ken Yitskhak, ket agdakdakelda a kanayon nga adu iti tengnga ti daga.",
+  "translation": "Ti angel ti goel ⟨את⟩ siak manipud iti amin a dakes, bendisionanna ⟨את⟩ dagiti ubbing, ket maawagan kadakuada ti naganko ken ti nagan dagiti amak a sina Avraham ken Yitskhak, ket agaduda iti kaadu iti tengnga ti daga.",
   "tokens": [
     {
       "surface": "המלאך",
-      "gloss": "ti anghel"
+      "gloss": "ti angel"
     },
     {
       "surface": "הגאל",
-      "gloss": "nagsalakan"
+      "gloss": "ti goel"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "kaniak"
+      "marks": "siak"
     },
     {
       "surface": "מכל",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "kaniada"
+      "gloss": "kadakuada"
     },
     {
       "surface": "שמי",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "אבתי",
-      "gloss": "dagiti amaak"
+      "gloss": "dagiti amak"
     },
     {
       "surface": "אברהם",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "וידגו",
-      "gloss": "ket agdakdakelda"
+      "gloss": "ket agaduda"
     },
     {
       "surface": "לרב",
-      "gloss": "a kanayon nga adu"
+      "gloss": "iti kaadu"
     },
     {
       "surface": "בקרב",
@@ -86,6 +86,6 @@
       "gloss": "ti daga"
     }
   ],
-  "timestamp": "2026-09-26T03:17:24.838034835Z",
+  "timestamp": "2026-09-27T01:15:26.980565861Z",
   "model": "glm-5.3"
 }

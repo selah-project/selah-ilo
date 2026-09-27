@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ilo",
   "chapter": 2,
-  "translation": "ket tinultulodan ni Asahel ni Avner, ken saan a kimmallays nga umay iti kannawan wenno iti kawala manipud iti likudan ni Avner.",
+  "translation": "Ken ni Asahel ket tinultulodanna ni Avner, ket saan a naglikmut nga agannaed iti kanawan ken iti kaigidigan manipud iti likudan ni Avner.",
   "tokens": [
     {
       "surface": "וירדף",
-      "gloss": "ket tinultulodan"
+      "gloss": "ket tinultulodanna"
     },
     {
       "surface": "עשהאל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": ""
+      "gloss": "iti likudan"
     },
     {
       "surface": "אבנר",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ken saan"
+      "gloss": "ket saan"
     },
     {
       "surface": "נטה",
-      "gloss": "a kimmallays"
+      "gloss": "a naglikmut"
     },
     {
       "surface": "ללכת",
-      "gloss": "nga umay"
+      "gloss": "nga agannaed"
     },
     {
       "surface": "על",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "הימין",
-      "gloss": "kannawan"
+      "gloss": "kanawan"
     },
     {
       "surface": "ועל",
-      "gloss": "wenno iti"
+      "gloss": "ken iti"
     },
     {
       "surface": "השמאול",
-      "gloss": "kawala"
+      "gloss": "kaigidigan"
     },
     {
       "surface": "מאחרי",
@@ -60,6 +60,6 @@
       "gloss": "ni Avner"
     }
   ],
-  "timestamp": "2026-09-26T11:27:08.543407059Z",
+  "timestamp": "2026-09-27T01:24:08.252231915Z",
   "model": "glm-5.3"
 }

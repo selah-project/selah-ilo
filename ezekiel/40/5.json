@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "ilo",
   "chapter": 40,
-  "translation": "Kitaen, adda maysa a pader iti ruar ti templo, palikmut ken palikmut; ken iti ima ti tao adda maysa a kawayan a panagsukat, innem a kodo babaen ti kodo ken maysa a dangad; ket sinukatna ⟨את⟩ ti kalawa ti bangen, maysa a kawayan, ken ti katayngato, maysa a kawayan.",
+  "translation": "Ket adu ti maysa a diddigos iti ruar ti balay, palikmutan ken palikmutan; ket iti ima ti lalaki maysa a kawayan ti panagsukat, innem a suko iti suko ken maysa a dangpa; ket sinukatna ⟨את⟩ ti kalawa ti pasdek, maysa a kawayan, ken ti katayag, maysa a kawayan.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "Kitaen"
+      "gloss": "Ket adu"
     },
     {
       "surface": "חומה",
-      "gloss": "pader"
+      "gloss": "diddigos"
     },
     {
       "surface": "מחוץ",
@@ -21,31 +21,31 @@
     },
     {
       "surface": "לבית",
-      "gloss": "ti templo"
+      "gloss": "ti balay"
     },
     {
       "surface": "סביב",
-      "gloss": "palikmut"
+      "gloss": "palikmutan"
     },
     {
       "surface": "סביב",
-      "gloss": "palikmut"
+      "gloss": "ken palikmutan"
     },
     {
       "surface": "וביד",
-      "gloss": "ken iti ima"
+      "gloss": "ket iti ima"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "קנה",
-      "gloss": "kawayan"
+      "gloss": "maysa a kawayan"
     },
     {
       "surface": "המדה",
-      "gloss": "a panagsukat"
+      "gloss": "ti panagsukat"
     },
     {
       "surface": "שש",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "אמות",
-      "gloss": "kodo"
+      "gloss": "a suko"
     },
     {
       "surface": "באמה",
-      "gloss": "babaen ti kodo"
+      "gloss": "iti suko"
     },
     {
       "surface": "וטפח",
-      "gloss": "ken maysa a dangad"
+      "gloss": "ken maysa a dangpa"
     },
     {
       "surface": "וימד",
@@ -70,7 +70,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti kalawa ti bangen"
+      "marks": "ti kalawa"
     },
     {
       "surface": "רחב",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "הבנין",
-      "gloss": "ti bangen"
+      "gloss": "ti pasdek"
     },
     {
       "surface": "קנה",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "וקומה",
-      "gloss": "ken ti katayngato"
+      "gloss": "ken ti katayag"
     },
     {
       "surface": "קנה",
@@ -101,6 +101,6 @@
       "gloss": "maysa"
     }
   ],
-  "timestamp": "2026-09-26T19:16:29.514354663Z",
+  "timestamp": "2026-09-27T01:13:35.444873348Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,11 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 35,
-  "translation": "Agtakderda dagiti saksi ti karusanger; saludsodanda kaniak dagiti banag a saan nga ammo[k].",
+  "translation": "Matarakdanda dagiti saksi ti kinadakes; ti saan a ammoak, isaludsodda kaniak.",
   "tokens": [
     {
-      "surface": "יקומומון",
-      "gloss": ""
-    },
-    {
       "surface": "יקומון",
-      "gloss": "agtakderda"
+      "gloss": "matarakdanda"
     },
     {
       "surface": "עדי",
@@ -21,7 +17,7 @@
     },
     {
       "surface": "חמס",
-      "gloss": "ti karusanger"
+      "gloss": "ti kinadakes"
     },
     {
       "surface": "אשר",
@@ -33,13 +29,13 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "ammo[k]"
+      "gloss": "ammoak"
     },
     {
       "surface": "ישאלוני",
-      "gloss": "saludsodanda kaniak"
+      "gloss": "isaludsodda kaniak"
     }
   ],
-  "timestamp": "2026-09-26T21:07:27.542235171Z",
+  "timestamp": "2026-09-27T01:23:10.921474556Z",
   "model": "glm-5.3"
 }

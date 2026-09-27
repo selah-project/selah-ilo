@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 118,
-  "translation": "El ni Yahweh, ket sinmuannakami iti lawag; ikapoyo ti fiesta babaen kadagiti panangisilpo agingga iti dagiti sara ti altar.",
+  "translation": "El ni Yahweh, ket sinagnanaannakami: ikapkapkadayo ti daton ti fiesta kadagiti hoyo agingga kadagiti sara ti altar.",
   "tokens": [
     {
       "surface": "אל",
@@ -17,37 +17,37 @@
     },
     {
       "surface": "ויאר",
-      "gloss": "sinmuannakami iti lawag"
+      "gloss": "ket sinagnanaannakami"
     },
     {
       "surface": "לנו",
-      "gloss": ""
+      "gloss": "nakami"
     },
     {
       "surface": "אסרו",
-      "gloss": "ikapoyo"
+      "gloss": "ikapkapkadayo"
     },
     {
       "surface": "חג",
-      "gloss": "ti fiesta"
+      "gloss": "ti daton ti fiesta"
     },
     {
       "surface": "בעבתים",
-      "gloss": "babaen kadagiti panangisilpo"
+      "gloss": "kadagiti hoyo"
     },
     {
       "surface": "עד",
-      "gloss": "agingga iti"
+      "gloss": "agingga"
     },
     {
       "surface": "קרנות",
-      "gloss": "dagiti sara"
+      "gloss": "kadagiti sara"
     },
     {
       "surface": "המזבח",
       "gloss": "ti altar"
     }
   ],
-  "timestamp": "2026-09-26T22:28:13.211064241Z",
+  "timestamp": "2026-09-27T01:22:50.846269828Z",
   "model": "glm-5.3"
 }

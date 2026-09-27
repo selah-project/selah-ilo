@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ilo",
   "chapter": 29,
-  "translation": "Ken iti maikatlo nga aldaw: sangapulo ket maysa a baka, dua a karnero a lalaki, ken sangapulo ket uppat a karnero nga anak ti maysa a tawen, amin nga awan biddut.",
+  "translation": "Ken iti maikatlo nga aldaw: sangapulo ket maysa a baka, dua a karnero a lalaki, sangapulo ket uppat a karnero nga anak ti maysa a tawen, nga awan biddutna.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "ken iti aldaw"
+      "gloss": "ken iti maikatlo nga aldaw"
     },
     {
       "surface": "השלישי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "sangapulo ket maysa"
     },
     {
       "surface": "אילם",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "שנה",
-      "gloss": "maysa a tawen"
+      "gloss": "ti maysa a tawen"
     },
     {
       "surface": "ארבעה",
-      "gloss": "uppat"
+      "gloss": "sangapulo ket uppat"
     },
     {
       "surface": "עשר",
-      "gloss": "sangapulo ket"
+      "gloss": "sangapulo ket uppat"
     },
     {
       "surface": "תמימם",
-      "gloss": "awan biddut"
+      "gloss": "nga awan biddutna"
     }
   ],
-  "timestamp": "2026-09-26T07:10:46.983412115Z",
+  "timestamp": "2026-09-27T01:21:40.167066857Z",
   "model": "glm-5.3"
 }

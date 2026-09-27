@@ -5,16 +5,16 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 35,
-  "translation": "ken inayak ida ⟨את⟩ iti balay ni Yahweh, iti kamara dagiti anak ni Khanan nga anak a lalaki ni Yigdalyahu, tao ti Elohim, a asideg iti kamara dagiti panguluan, a ti ngatona ti kamara ni Maaseyahu nga anak a lalaki ni Shallum, salaknib ti pagruaran.",
+  "translation": "ket impankoda ⟨את⟩ ida iti balay ni Yahweh, iti silid dagiti anak ni Hanan, anak ni Yigdalyahu, lalaki ti Elohim, a asideg iti silid dagiti prinsipe, nga adda iti ngato ti silid ni Maaseyahu anak ni Shallum, tumalek ti sangoanan",
   "tokens": [
     {
       "surface": "ואבא",
-      "gloss": "inayak"
+      "gloss": "impankoda"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ida"
+      "marks": "ida (dagiti Rekabita)"
     },
     {
       "surface": "בית",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "לשכת",
-      "gloss": "kamara"
+      "gloss": "silid"
     },
     {
       "surface": "בני",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "חנן",
-      "gloss": "Khanan"
+      "gloss": "Hanan"
     },
     {
       "surface": "בן",
-      "gloss": "anak a lalaki"
+      "gloss": "anak"
     },
     {
       "surface": "יגדליהו",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "האלהים",
@@ -62,27 +62,27 @@
     },
     {
       "surface": "אצל",
-      "gloss": "asideg iti"
+      "gloss": "asideg"
     },
     {
       "surface": "לשכת",
-      "gloss": "kamara"
+      "gloss": "silid"
     },
     {
       "surface": "השרים",
-      "gloss": "dagiti panguluan"
+      "gloss": "dagiti prinsipe"
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "nga"
     },
     {
       "surface": "ממעל",
-      "gloss": "ti ngatona"
+      "gloss": "adda iti ngato"
     },
     {
       "surface": "ללשכת",
-      "gloss": "ti kamara"
+      "gloss": "ti silid"
     },
     {
       "surface": "מעשיהו",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "anak a lalaki"
+      "gloss": "anak"
     },
     {
       "surface": "שלם",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "שמר",
-      "gloss": "salaknib"
+      "gloss": "tumalek"
     },
     {
       "surface": "הסף",
-      "gloss": "ti pagruaran"
+      "gloss": "ti sangoanan"
     }
   ],
-  "timestamp": "2026-09-26T17:20:59.561100303Z",
+  "timestamp": "2026-09-27T01:17:13.802582245Z",
   "model": "glm-5.3"
 }

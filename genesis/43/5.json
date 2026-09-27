@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 43,
-  "translation": "No dina ipatulod, saan kami nga agbaba; ta kinuna ti tao kadakami: saan a makitakayo ti rupak, malaksid no ti kabsatyo ket ⟨את⟩ kadakayo.",
+  "translation": "No saanmo nga ipatulod, saan a bumabakami; ta kinuna ti lalaki kaniakami: saankayo a makakita ti rupak no di laeng ti kabsatyo adda kadakayo ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אינך",
-      "gloss": "dina"
+      "gloss": "saanka"
     },
     {
       "surface": "משלח",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נרד",
-      "gloss": "kami nga agbaba"
+      "gloss": "bumabakami"
     },
     {
       "surface": "כי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "אמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אלינו",
-      "gloss": "kadakami"
+      "gloss": "kaniakami"
     },
     {
       "surface": "לא",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "תראו",
-      "gloss": "makitakayo"
+      "gloss": "makakita"
     },
     {
       "surface": "פני",
-      "gloss": "ti rupak"
+      "gloss": "rupak"
     },
     {
       "surface": "בלתי",
-      "gloss": "malaksid no"
+      "gloss": "no di laeng"
     },
     {
       "surface": "אחיכם",
@@ -65,10 +65,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kadakayo",
-      "marks": "ti kabsatyo — adda iti pamilia dagiti marka"
+      "gloss": "⟨את⟩",
+      "marks": "kadakayo (ti kabsatyo adda kadakayo)"
     }
   ],
-  "timestamp": "2026-09-26T03:08:16.183334322Z",
+  "timestamp": "2026-09-27T01:14:54.108128641Z",
   "model": "glm-5.3"
 }

@@ -5,31 +5,27 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 17,
-  "translation": "Ni Yishmael nga anakna, anak a sangapulo ket tallo a tawen, ⟨את⟩ idi natuli ⟨את⟩ ti lasag ti prepusiona.",
+  "translation": "Ni Yishmael, anakna, anak iti tallo a tawen ken sangapulo, idi inulitana ⟨את⟩ ti lasag ti katulnganna;",
   "tokens": [
-    {
-      "surface": "ולא",
-      "gloss": ""
-    },
     {
       "surface": "וישמעאל",
       "gloss": "Ni Yishmael"
     },
     {
       "surface": "בנו",
-      "gloss": "ngaanakna"
+      "gloss": "anakna"
     },
     {
       "surface": "בן",
-      "gloss": "anak a"
+      "gloss": "anak iti"
     },
     {
       "surface": "שלש",
-      "gloss": "tallo"
+      "gloss": "tallo a tawen"
     },
     {
       "surface": "עשרה",
-      "gloss": "sangapulo ket"
+      "gloss": "ken sangapulo"
     },
     {
       "surface": "שנה",
@@ -37,12 +33,12 @@
     },
     {
       "surface": "בהמלו",
-      "gloss": "⟨את⟩ idi natuli"
+      "gloss": "idi inulitana"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti lasag ti prepusiona"
+      "marks": "ti lasag"
     },
     {
       "surface": "בשר",
@@ -50,9 +46,9 @@
     },
     {
       "surface": "ערלתו",
-      "gloss": "ti prepusiona"
+      "gloss": "ti katulnganna"
     }
   ],
-  "timestamp": "2026-09-26T02:02:25.787012509Z",
+  "timestamp": "2026-09-27T01:14:01.963782117Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 38,
-  "translation": "Maysa a beka iti tunggal maysa a tao, kagudua ti shekel, iti shekel ti nasantuan, iti amin nga immay kadagiti binilang, manipud iti duapulo a tawen ken nangatngato — iti innem a gasut a ribu ken tallo a ribu ken lima a gasut ken limapulo.",
+  "translation": "Maysa a beka iti tunggal ulo, ti kinaudi ket gudua ti shekel, iti shekel ti nasantuan a lugar, para iti tunggal maysa a sumrek kadagiti nabilangan, manipud iti anak ti duapulo a tawen ken nangatngato, iti innem a gasut a ribu ken tallo a ribu ken lima a gasut ken limapulo.",
   "tokens": [
     {
       "surface": "בקע",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לגלגלת",
-      "gloss": "iti tunggal maysa a tao"
+      "gloss": "iti tunggal ulo"
     },
     {
       "surface": "מחצית",
-      "gloss": "kagudua"
+      "gloss": "ti kinaudi ket gudua"
     },
     {
       "surface": "השקל",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "ti nasantuan"
+      "gloss": "ti nasantuan a lugar"
     },
     {
       "surface": "לכל",
-      "gloss": "iti amin"
+      "gloss": "para iti tunggal maysa"
     },
     {
       "surface": "העבר",
-      "gloss": "nga immay"
+      "gloss": "a sumrek"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "iti"
     },
     {
       "surface": "הפקדים",
-      "gloss": "kadagiti binilang"
+      "gloss": "kadagiti nabilangan"
     },
     {
       "surface": "מבן",
-      "gloss": "manipud iti"
+      "gloss": "manipud iti anak ti"
     },
     {
       "surface": "עשרים",
@@ -96,6 +96,6 @@
       "gloss": "ken limapulo"
     }
   ],
-  "timestamp": "2026-09-26T04:46:38.955848084Z",
+  "timestamp": "2026-09-27T01:12:28.719091067Z",
   "model": "glm-5.3"
 }

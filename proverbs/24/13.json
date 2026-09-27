@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "ilo",
   "chapter": 24,
-  "translation": "Anakko, mangan iti diro, ta naimbag dayta, ken ti pureg a nasam-it iti ngiwatmo.",
+  "translation": "Anakko, mangan kadagiti digital, ta naimbag da; ket ti nalaud a Juana ti aliguom, adu ti sakit.",
   "tokens": [
     {
       "surface": "אכל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "דבש",
-      "gloss": "diro"
+      "gloss": "digital"
     },
     {
       "surface": "כי",
@@ -28,15 +28,12 @@
       "gloss": "naimbag"
     },
     {
-      "surface": " "
-    },
-    {
       "surface": "ונפת",
-      "gloss": "ken ti pureg"
+      "gloss": "Juana ti aliguom"
     },
     {
       "surface": "מתוק",
-      "gloss": "nasam-it"
+      "gloss": "adu ti sakit"
     },
     {
       "surface": "על",
@@ -47,6 +44,6 @@
       "gloss": "ngiwatmo"
     }
   ],
-  "timestamp": "2026-09-26T22:43:42.489870411Z",
+  "timestamp": "2026-09-27T01:22:49.847423619Z",
   "model": "glm-5.3"
 }

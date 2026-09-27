@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 25,
-  "translation": "No saan a matubusan kadagitoy, rummuarto isu ken dagiti annakna kenkuana iti tawen ti Yobel.",
+  "translation": "No saan a mabayadan iti daytoy, agruar isu iti tawen ti Yobel, isu ken dagiti annakna a kaduana.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ken no"
+      "gloss": "No saan"
     },
     {
       "surface": "לא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "יגאל",
-      "gloss": "a matubusan"
+      "gloss": "mabayadan"
     },
     {
       "surface": "באלה",
-      "gloss": "kadagitoy"
+      "gloss": "iti daytoy"
     },
     {
       "surface": "ויצא",
-      "gloss": "rummuarto"
+      "gloss": "agruar"
     },
     {
       "surface": "בשנת",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "היבל",
-      "gloss": "ti Yobel"
+      "gloss": "Yobel"
     },
     {
       "surface": "הוא",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "עמו",
-      "gloss": "kenkuana"
+      "gloss": "a kaduana"
     }
   ],
-  "timestamp": "2026-09-26T05:52:05.463274501Z",
+  "timestamp": "2026-09-27T01:20:22.025080276Z",
   "model": "glm-5.3"
 }

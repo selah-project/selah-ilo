@@ -5,8 +5,45 @@
   "book": "job",
   "lang": "ilo",
   "chapter": 10,
-  "translation": "Nakadisdigradyan ti kararuaKo iti biagKo; ibbukodak ti basolkon ti kararuaKo — sarunoenko ti panagsungbat iti nakapaet ti kararuaKo.",
-  "tokens": [],
-  "timestamp": "2026-09-26T22:49:25.801819972Z",
+  "translation": "Naungian ti kararua iti biagko; ipalubosko ti saddamak ni Yahweh, agsaoak iti pait ti kararua.",
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "naungian"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "iti biagko"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "ipalubosko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ti saddamak"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "agsaoak"
+    },
+    {
+      "surface": "במר",
+      "gloss": "iti pait"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ti kararua"
+    }
+  ],
+  "timestamp": "2026-09-27T01:16:48.238246608Z",
   "model": "glm-5.3"
 }

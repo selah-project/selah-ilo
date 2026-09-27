@@ -5,27 +5,27 @@
   "book": "judges",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Ket kinunana kenkuana: Agballasiwtayo manipud iti Beit Lechem ti Yehudah agingga iti patingga ti bantay Efrayim; sadiak, ket nagnaak agingga iti Beit Lechem ti Yehudah, ket ⟨iti⟩ balay ni Yahweh ti mapanak; ket awan tao a mangaw-awid ⟨את⟩ kaniak iti balay.",
+  "translation": "Ken kinunana kanianna: Agballasiwkami manipud iti Beit Lechem ti Yehudah agingga iti patingga ti bantay Efrayim; sadiay nakaiyakarkami, ket naganatak agingga iti Beit Lechem ti Yehudah, ket iti balay ni Yahweh mapanak, ken awan lalaki a mangaw-awid ⟨את⟩ kaniak iti balay.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ket kinunana"
+      "gloss": "ken kinunana"
     },
     {
       "surface": "אליו",
-      "gloss": "kenkuana"
+      "gloss": "kanianna"
     },
     {
       "surface": "עברים",
-      "gloss": "agballasiwtayo"
+      "gloss": "agballasiwkami"
     },
     {
       "surface": "אנחנו",
-      "gloss": "siatatayo"
+      "gloss": "kami"
     },
     {
       "surface": "מבית",
-      "gloss": "manipud iti Beit"
+      "gloss": "manipud iti balay"
     },
     {
       "surface": "לחם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "agingga"
+      "gloss": "agingga iti"
     },
     {
       "surface": "ירכתי",
-      "gloss": "iti patingga"
+      "gloss": "patingga"
     },
     {
       "surface": "הר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "משם",
-      "gloss": "sadiak"
+      "gloss": "sadiay"
     },
     {
       "surface": "אנכי",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "ואלך",
-      "gloss": "ket nagnaak"
+      "gloss": "ket naganatok"
     },
     {
       "surface": "עד",
-      "gloss": "agingga"
+      "gloss": "agingga iti"
     },
     {
       "surface": "בית",
-      "gloss": "iti Beit"
+      "gloss": "balay"
     },
     {
       "surface": "לחם",
@@ -82,11 +82,11 @@
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "ti balay"
+      "marks": "balay ni Yahweh"
     },
     {
       "surface": "בית",
-      "gloss": "ti balay"
+      "gloss": "balay"
     },
     {
       "surface": "יהוה",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "ti mapanak"
+      "gloss": "mapanak"
     },
     {
       "surface": "ואין",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "מאסף",
@@ -114,7 +114,7 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ kaniak",
+      "gloss": "⟨את⟩",
       "marks": "kaniak"
     },
     {
@@ -122,6 +122,6 @@
       "gloss": "iti balay"
     }
   ],
-  "timestamp": "2026-09-26T10:14:28.494308448Z",
+  "timestamp": "2026-09-27T01:18:57.521790047Z",
   "model": "glm-5.3"
 }

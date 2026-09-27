@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ilo",
   "chapter": 17,
-  "translation": "Ken ti tao a agaramid iti kinabasta, a saan dumengngeg iti padi a agtakder nga agserbi sadiay ⟨את⟩ ni Yahweh nga Elohimmo, wenno iti hukom, matayen ti taodagta, ket ikkatem ti dakes manipud iti Yisrael.",
+  "translation": "Ti lalaki a mangaramid iti kinabaknang, a saan a mamati kenn ti padi nga agtaktakder nga agserbi sidiay kenn ⟨את⟩ Yahweh ti Elohimmo, wenno kenn ti hukom — ket matayonto dayta a lalaki, ket ikkatmo ti dakes manipud iti Yisrael.",
   "tokens": [
     {
       "surface": "והאיש",
-      "gloss": "ken ti tao"
+      "gloss": "Ti lalaki"
     },
     {
       "surface": "אשר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "agaramid"
+      "gloss": "mangaramid"
     },
     {
       "surface": "בזדון",
-      "gloss": "iti kinabasta"
+      "gloss": "iti kinabaknang"
     },
     {
       "surface": "לבלתי",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "שמע",
-      "gloss": "dumengngeg"
+      "gloss": "a mamati"
     },
     {
       "surface": "אל",
-      "gloss": "iti"
+      "gloss": "kenn"
     },
     {
       "surface": "הכהן",
-      "gloss": "padi"
+      "gloss": "ti padi"
     },
     {
       "surface": "העמד",
-      "gloss": "a agtakder"
+      "gloss": "agtaktakder"
     },
     {
       "surface": "לשרת",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "שם",
-      "gloss": "sadiay"
+      "gloss": "sidiay"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ni Yahweh"
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "nga Elohimmo"
+      "gloss": "ti Elohimmo"
     },
     {
       "surface": "או",
@@ -70,27 +70,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "iti"
+      "gloss": "kenn"
     },
     {
       "surface": "השפט",
-      "gloss": "hukom"
+      "gloss": "ti hukom"
     },
     {
       "surface": "ומת",
-      "gloss": "matayen"
+      "gloss": "ket matayonto"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "dayta a lalaki"
     },
     {
       "surface": "ההוא",
-      "gloss": "dagta"
+      "gloss": "dayta"
     },
     {
       "surface": "ובערת",
-      "gloss": "ket ikkatem"
+      "gloss": "ket ikkatmo"
     },
     {
       "surface": "הרע",
@@ -101,6 +101,6 @@
       "gloss": "manipud iti Yisrael"
     }
   ],
-  "timestamp": "2026-09-26T08:14:25.070816150Z",
+  "timestamp": "2026-09-27T01:11:55.148139750Z",
   "model": "glm-5.3"
 }

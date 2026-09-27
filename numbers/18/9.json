@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ilo",
   "chapter": 18,
-  "translation": "Daytoy ti agbalin kenka a kasantoan ti kakasantuanan, manipud iti apoy: ti amin a datonda, iti amin a minchada, ken iti amin a basolda, ken iti amin a kasalananda, a isublida kaniak — kasantoan ti kakasantuanan dayta kenka ken kadagiti anakmo a lalaki.",
+  "translation": "Daytoy ti addanto kaniak a kas paset ti kasantuanan kadagiti nasantuan a banag, manipud iti apoy: ti amin a datonda, iti amin a minchahda, ken iti amin a daton ti basolda, ken iti amin a ashamda, a isublianda kaniak — nasantuan kadagiti nasantuan daytoy, kaniak ken kadagiti annakmo.",
   "tokens": [
     {
       "surface": "זה",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "agbalin"
+      "gloss": "addanto"
     },
     {
       "surface": "לך",
-      "gloss": "kenka"
+      "gloss": "kaniak"
     },
     {
       "surface": "מקדש",
-      "gloss": "kasantoan"
+      "gloss": "ti kasantuanan"
     },
     {
       "surface": "הקדשים",
-      "gloss": "ti kakasantuanan"
+      "gloss": "kadagiti nasantuan a banag"
     },
     {
       "surface": "מן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "האש",
-      "gloss": "apoy"
+      "gloss": "iti apoy"
     },
     {
       "surface": "כל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מנחתם",
-      "gloss": "minchada"
+      "gloss": "minchahda"
     },
     {
       "surface": "ולכל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "חטאתם",
-      "gloss": "basolda"
+      "gloss": "daton ti basolda"
     },
     {
       "surface": "ולכל",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אשמם",
-      "gloss": "kasalananda"
+      "gloss": "ashamda"
     },
     {
       "surface": "אשר",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ישיבו",
-      "gloss": "isublida"
+      "gloss": "isublianda"
     },
     {
       "surface": "לי",
@@ -81,25 +81,25 @@
     },
     {
       "surface": "קדש",
-      "gloss": "kasantoan"
+      "gloss": "nasantuan"
     },
     {
       "surface": "קדשים",
-      "gloss": "ti kakasantuanan"
+      "gloss": "kadagiti nasantuan"
     },
     {
       "surface": "לך",
-      "gloss": "kenka"
+      "gloss": "kaniak"
     },
     {
       "surface": "הוא",
-      "gloss": "dayta"
+      "gloss": "daytoy"
     },
     {
       "surface": "ולבניך",
-      "gloss": "ken kadagiti anakmo a lalaki"
+      "gloss": "ken kadagiti annakmo"
     }
   ],
-  "timestamp": "2026-09-26T06:43:49.400074700Z",
+  "timestamp": "2026-09-27T01:22:00.117615063Z",
   "model": "glm-5.3"
 }

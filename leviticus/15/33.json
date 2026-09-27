@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 15,
-  "translation": "ken ti babbai a madawel iti niddaanna, ken ti zazab ⟨את⟩ ti panagzabna, iti lalaki ken iti babai, ken iti tao a maturog ken ti nakarugit a babai.",
+  "translation": "Ken ti babai a marigatan iti kinarugitna a panagbulbulan, ken ti zav, ⟨את⟩ ti zavna, iti lalaki ken iti babai, ken iti lalaki a maturog kadua ti maysa a babai a narugit.",
   "tokens": [
     {
       "surface": "והדוה",
-      "gloss": "ken ti madawel a babai"
+      "gloss": "Ken ti babai a marigatan"
     },
     {
       "surface": "בנדתה",
-      "gloss": "iti niddaanna"
+      "gloss": "iti kinarugitna a panagbulbulan"
     },
     {
       "surface": "והזב",
-      "gloss": "ken ti zazab"
+      "gloss": "ken ti zav"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti panagzabna"
+      "marks": "ti zavna"
     },
     {
       "surface": "זובו",
-      "gloss": "ti panagzabna"
+      "gloss": "ti zavna"
     },
     {
       "surface": "לזכר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ולאיש",
-      "gloss": "ken iti tao"
+      "gloss": "ken iti lalaki"
     },
     {
       "surface": "אשר",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "ken"
+      "gloss": "kadua"
     },
     {
       "surface": "טמאה",
-      "gloss": "nakarugit a babai"
+      "gloss": "ti maysa a babai a narugit"
     }
   ],
-  "timestamp": "2026-09-26T05:29:21.272207491Z",
+  "timestamp": "2026-09-27T01:19:53.161409295Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 15,
-  "translation": "Dayta ti sao ni Yahweh a nagsao ⟨את⟩ kennu Yehu, a kunana: dagiti anak a maikapat a kaputotan agnanaedda a kasukatmo iti trono ti Yisrael; ket napasamak kasta.",
+  "translation": "Daytoy ti sao ni Yahweh a nagsaona kenni Yehu, a kunkuna: Dagiti anak a lalaki agingga iti maikapat a kaputotan ti agnanaeddaka iti trono ti Yisrael; ket napasamak ti kasta.",
   "tokens": [
     {
       "surface": "הוא",
-      "gloss": "dayta"
+      "gloss": "Daytoy"
     },
     {
       "surface": "דבר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "nagsao"
+      "gloss": "nagsaona"
     },
     {
       "surface": "אל",
-      "gloss": "⟨את⟩ kennu"
+      "gloss": "kenni"
     },
     {
       "surface": "יהוא",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "a kunana"
+      "gloss": "a kunkuna"
     },
     {
       "surface": "בני",
-      "gloss": "dagiti anak"
+      "gloss": "Dagiti anak a lalaki"
     },
     {
       "surface": "רביעים",
-      "gloss": "a maikapat a kaputotan"
+      "gloss": "agingga iti maikapat a kaputotan"
     },
     {
       "surface": "ישבו",
-      "gloss": "agnanaedda"
+      "gloss": "ti agnanaeddaka"
     },
     {
       "surface": "לך",
-      "gloss": "a kasukatmo"
+      "gloss": ""
     },
     {
       "surface": "על",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "כן",
-      "gloss": "kasta"
+      "gloss": "ti kasta"
     }
   ],
-  "timestamp": "2026-09-26T13:43:39.517047705Z",
+  "timestamp": "2026-09-27T01:09:39.136072582Z",
   "model": "glm-5.3"
 }

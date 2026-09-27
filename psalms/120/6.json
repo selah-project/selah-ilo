@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 120,
-  "translation": "Nabayagna a nagbiag ti kararwak, a kadua ti mangdadael iti kappia.",
+  "translation": "Nabayagen a nagnaed ti kararwak a kadua ti kabusor ti kappia.",
   "tokens": [
     {
       "surface": "רבת",
-      "gloss": "Nabayagna"
+      "gloss": "nabayagen"
     },
     {
       "surface": "שכנה",
-      "gloss": "nagbiag"
+      "gloss": "nagnaed"
     },
     {
       "surface": "לה",
-      "gloss": ""
+      "gloss": "⟨ti⟩"
     },
     {
       "surface": "נפשי",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "שונא",
-      "gloss": "ti mangdadael"
+      "gloss": "ti kabusor"
     },
     {
       "surface": "שלום",
-      "gloss": "iti kappia"
+      "gloss": "ti kappia"
     }
   ],
-  "timestamp": "2026-09-26T22:28:23.631298831Z",
+  "timestamp": "2026-09-27T01:22:43.754476944Z",
   "model": "glm-5.3"
 }

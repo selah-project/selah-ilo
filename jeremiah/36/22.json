@@ -5,8 +5,50 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 36,
-  "translation": "ket ti ari agarupna agnanaed iti balay ti panaglamlamiis, iti maikasiam a bulan, ket ti 😧 sinao a panangiyallatiw: daytoy nga ayat ti ⟨את⟩ ti apuy ti brasero agsadiantayo a maminsan iti sanguanana nga agsilsilaw.",
-  "tokens": [],
-  "timestamp": "2026-09-26T17:31:29.236847911Z",
+  "translation": "ket ti ari agnanaed iti balay ti panaglamlamiis, iti maikasiam a bulan, ket ti ⟨את⟩ apoy a pagpuoran ket agsilsilung sakbayenna",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ket ti ari"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "agnanaed"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "ti panaglamlamiis"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "iti bulan"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "maikasiam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "apoy a pagpuoran"
+    },
+    {
+      "surface": "האח",
+      "gloss": "apoy a pagpuoran"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sakbayenna"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "agsilsilung"
+    }
+  ],
+  "timestamp": "2026-09-27T01:16:55.712555659Z",
   "model": "glm-5.3"
 }

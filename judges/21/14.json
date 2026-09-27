@@ -5,23 +5,23 @@
   "book": "judges",
   "lang": "ilo",
   "chapter": 21,
-  "translation": "Nagsubli ni Binyamin iti dayta a panawen, ket intedda kaniada dagiti babai a binigelda kadagiti babai ti Yavesh Gilad, ngem saanda a nakabiruk kaniada kas kasta.",
+  "translation": "ket nagnsubli ni Binjamin iti dayta nga oras, ket intedda kadakuada dagiti babai a pinagbiagda kadagiti babai ti Yavesh a Gilad, ngem saanda a nakaammuan iti kasta para kadakuada.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "Nagsubli"
+      "gloss": "nagnsubli"
     },
     {
       "surface": "בנימן",
-      "gloss": "ni Binyamin"
+      "gloss": "ni Binjamin"
     },
     {
       "surface": "בעת",
-      "gloss": "iti panawen"
+      "gloss": "iti dayta nga oras"
     },
     {
       "surface": "ההיא",
-      "gloss": "dayta"
+      "gloss": "iti dayta nga oras"
     },
     {
       "surface": "ויתנו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "kaniada"
+      "gloss": "kadakuada"
     },
     {
       "surface": "הנשים",
@@ -41,23 +41,19 @@
     },
     {
       "surface": "חיו",
-      "gloss": "binigelda"
+      "gloss": "pinagbiagda"
     },
     {
       "surface": "מנשי",
-      "gloss": "kadagiti babai"
+      "gloss": "kadagiti babai ti"
     },
     {
       "surface": "יבש",
-      "gloss": "ti Yavesh"
+      "gloss": "Yavesh"
     },
     {
       "surface": "גלעד",
       "gloss": "Gilad"
-    },
-    {
-      "surface": "וימצאו",
-      "gloss": ""
     },
     {
       "surface": "ולא",
@@ -65,17 +61,17 @@
     },
     {
       "surface": "מצאו",
-      "gloss": "nakabiruk"
+      "gloss": "a nakaammuan"
     },
     {
       "surface": "להם",
-      "gloss": "kaniada"
+      "gloss": "para kadakuada"
     },
     {
       "surface": "כן",
-      "gloss": "kas kasta"
+      "gloss": "iti kasta"
     }
   ],
-  "timestamp": "2026-09-26T10:21:09.615094520Z",
+  "timestamp": "2026-09-27T01:18:28.432016578Z",
   "model": "glm-5.3"
 }

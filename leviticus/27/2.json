@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 27,
-  "translation": "Saoem kadagiti anak a lalaki ni Yisrael ken ikabilam kaniada: No ti maysa a tao mangted iti naisangsangayan a naidnar, iti pategmo dagiti tao, ⟨iti⟩ Yahweh.",
+  "translation": "Ag SAO kadagiti annak ti Yisrael, ket ibagam kaniada: No ti maysa a lalaki mangidededikar iti naisangsangayan a neddere, iti pategmo ti kararua, kenni Yahweh,",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "saoem"
+      "gloss": "Ag SAO"
     },
     {
       "surface": "אל",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "בני",
-      "gloss": "anak a lalaki"
+      "gloss": "annak"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ti Yisrael"
     },
     {
       "surface": "ואמרת",
-      "gloss": "ken ikabilam kaniada"
+      "gloss": "ket ibagam"
     },
     {
       "surface": "אלהם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "ti maysa a tao"
+      "gloss": "ti maysa a lalaki"
     },
     {
       "surface": "כי",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "יפלא",
-      "gloss": "mangted iti naisangsangayan"
+      "gloss": "mangidededikar iti naisangsangayan"
     },
     {
       "surface": "נדר",
-      "gloss": "naidnar"
+      "gloss": "a neddere"
     },
     {
       "surface": "בערכך",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "נפשת",
-      "gloss": "dagiti tao"
+      "gloss": "ti kararua"
     },
     {
       "surface": "ליהוה",
-      "gloss": "iti Yahweh"
+      "gloss": "kenni Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T05:59:38.527086023Z",
+  "timestamp": "2026-09-27T01:20:18.549546008Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,42 @@
   "book": "judges",
   "lang": "ilo",
   "chapter": 7,
-  "translation": "Innalada ⟨את⟩ ti taraon dagiti umili iti imada, ken ⟨את⟩ dagiti shofarda, ken ⟨את⟩ amin a tao ti Yisrael impanna, tunggal maysa iti toldana; ket iti tallo a gasut a tao tinengngelna, ket ti kampo ni Midian adda kenkuana iti baba, iti lames.",
+  "translation": "Inalada ⟨את⟩ ti makan ti umili kadagiti imada, ken ⟨את⟩ dagiti shofar-da; ken amin a lalaki ti Yisrael inpanana, tunggal maysa iti toldana; ket iti tallo a gasut a lallaki tengngelna; ket ti kampo ti Midian adda kenniana iti baba iti tanap.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "Innalada"
+      "gloss": "inalada"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti taraon"
+      "marks": "ti makan"
     },
     {
       "surface": "צדה",
-      "gloss": "ti taraon"
+      "gloss": "makan"
     },
     {
       "surface": "העם",
-      "gloss": "dagiti umili"
+      "gloss": "ti umili"
     },
     {
       "surface": "בידם",
-      "gloss": "iti imada"
+      "gloss": "kadagiti imada"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "dagiti shofarda"
+      "marks": "dagiti shofar-da"
     },
     {
       "surface": "שופרתיהם",
-      "gloss": "dagiti shofarda"
+      "gloss": "dagiti shofar-da"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "amin a tao ti Yisrael"
+      "marks": "amin a lalaki ti Yisrael"
     },
     {
       "surface": "כל",
@@ -48,15 +48,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "a tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "ישראל",
-      "gloss": "ti Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "שלח",
-      "gloss": "impanna"
+      "gloss": "inpanana"
     },
     {
       "surface": "איש",
@@ -76,11 +76,11 @@
     },
     {
       "surface": "האיש",
-      "gloss": "a tao"
+      "gloss": "a lallaki"
     },
     {
       "surface": "החזיק",
-      "gloss": "tinengngelna"
+      "gloss": "tengngelna"
     },
     {
       "surface": "ומחנה",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "מדין",
-      "gloss": "ni Midian"
+      "gloss": "Midian"
     },
     {
       "surface": "היה",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "kenkuana"
+      "gloss": "kenniana"
     },
     {
       "surface": "מתחת",
@@ -104,9 +104,9 @@
     },
     {
       "surface": "בעמק",
-      "gloss": "iti lames"
+      "gloss": "iti tanap"
     }
   ],
-  "timestamp": "2026-09-26T09:49:00.744203412Z",
+  "timestamp": "2026-09-27T01:18:49.580555914Z",
   "model": "glm-5.3"
 }

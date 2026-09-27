@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "ket alaenna ti hisopo ket isuenna iti danum maysa a nadalus a tao, ket wisikanna ti ngato ti tolda ken ti ngato dagiti amin a linaon ken ti ngato dagiti tao a adda idiay, ken ti ngato ti kimmuyog iti tulang wenno iti natayen wenno iti natay wenno iti tanem.",
+  "translation": "ken mangala ti lalaki a nadalus iti ezob, ken ibunusna iti danum, ken ibulosna ⟨iti⟩ ti Tolda, ken iti amin a kasangkapan, ken kadagiti kararua a nagtaudda sadiay, ken ti nangkabeta iti tulang wenno iti napatayan wenno iti natay wenno iti tanem",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "ket alaenna"
+      "gloss": "ken mangala"
     },
     {
       "surface": "אזוב",
-      "gloss": "ti hisopo"
+      "gloss": "ezob"
     },
     {
       "surface": "וטבל",
-      "gloss": "ket isuenna"
+      "gloss": "ken ibunusna"
     },
     {
       "surface": "במים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "maysa a tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "טהור",
@@ -33,35 +33,35 @@
     },
     {
       "surface": "והזה",
-      "gloss": "ket wisikanna"
+      "gloss": "ken ibulosna"
     },
     {
       "surface": "על",
-      "gloss": "iti ngato"
+      "gloss": "⟨iti⟩"
     },
     {
       "surface": "האהל",
-      "gloss": "ti tolda"
+      "gloss": "ti Tolda"
     },
     {
       "surface": "ועל",
-      "gloss": "ken iti ngato"
+      "gloss": "ken iti"
     },
     {
       "surface": "כל",
-      "gloss": "dagiti amin"
+      "gloss": "amin"
     },
     {
       "surface": "הכלים",
-      "gloss": "a linaon"
+      "gloss": "a kasangkapan"
     },
     {
       "surface": "ועל",
-      "gloss": "ken iti ngato"
+      "gloss": "ken kadagiti"
     },
     {
       "surface": "הנפשות",
-      "gloss": "dagiti tao"
+      "gloss": "kararua"
     },
     {
       "surface": "אשר",
@@ -69,19 +69,19 @@
     },
     {
       "surface": "היו",
-      "gloss": "adda"
+      "gloss": "nagtaudda"
     },
     {
       "surface": "שם",
-      "gloss": "idiay"
+      "gloss": "sadiay"
     },
     {
       "surface": "ועל",
-      "gloss": "ken iti ngato"
+      "gloss": "ken ti"
     },
     {
       "surface": "הנגע",
-      "gloss": "ti kimmuyog"
+      "gloss": "nangkabeta"
     },
     {
       "surface": "בעצם",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "בחלל",
-      "gloss": "iti natayen"
+      "gloss": "iti napatayan"
     },
     {
       "surface": "או",
@@ -112,6 +112,6 @@
       "gloss": "iti tanem"
     }
   ],
-  "timestamp": "2026-09-26T06:53:22.322684512Z",
+  "timestamp": "2026-09-27T01:22:33.356441542Z",
   "model": "glm-5.3"
 }

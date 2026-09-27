@@ -5,15 +5,11 @@
   "book": "jonah",
   "lang": "ilo",
   "chapter": 2,
-  "translation": "Intulakannak iti naadalem, iti pus-o ti baybay, ket ti karayan liniklikannak; amin dagiti mellommo ken dagiti allonmo immay kalpas kaniak.",
+  "translation": "Inbellengannak iti naadalem, iti pusot dagiti baybay, ken ti karayan linikmutannak; amin dagiti allonmo ken dagiti allonmo a nangato iti ngatuk linabasanda.",
   "tokens": [
     {
-      "surface": "ויאמר",
-      "gloss": ""
-    },
-    {
       "surface": "ותשליכני",
-      "gloss": "intulakannak"
+      "gloss": "inbellengannak"
     },
     {
       "surface": "מצולה",
@@ -21,19 +17,19 @@
     },
     {
       "surface": "בלבב",
-      "gloss": "iti pus-o"
+      "gloss": "iti pusot"
     },
     {
       "surface": "ימים",
-      "gloss": "ti baybay"
+      "gloss": "dagiti baybay"
     },
     {
       "surface": "ונהר",
-      "gloss": "ket ti karayan"
+      "gloss": "ken ti karayan"
     },
     {
       "surface": "יסבבני",
-      "gloss": "liniklikannak"
+      "gloss": "linikmutannak"
     },
     {
       "surface": "כל",
@@ -41,21 +37,21 @@
     },
     {
       "surface": "משבריך",
-      "gloss": "dagiti mellommo"
+      "gloss": "dagiti allonmo"
     },
     {
       "surface": "וגליך",
-      "gloss": "ken dagiti allonmo"
+      "gloss": "ken dagiti allonmo a nangato"
     },
     {
       "surface": "עלי",
-      "gloss": "kaniak"
+      "gloss": "iti ngatuk"
     },
     {
       "surface": "עברו",
-      "gloss": "immay kalpas"
+      "gloss": "linabasanda"
     }
   ],
-  "timestamp": "2026-09-26T20:02:20.591281047Z",
+  "timestamp": "2026-09-27T01:18:14.942474281Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 89,
-  "translation": "Ti pammatik ken ti hesedko ⟨⟨⟩⟩ —",
-  "tokens": [],
-  "timestamp": "2026-09-26T22:19:50.562097821Z",
+  "translation": "Ken ti pammatik ken ti hesedkko adda kaduana, ken iti naganko ti sarana ket mangato",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "ken ti pammatik"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ken ti hesedkko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "adda kaduana"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "ken iti naganko"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ket mangato"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ti sarana"
+    }
+  ],
+  "timestamp": "2026-09-27T01:23:22.280743929Z",
   "model": "glm-5.3"
 }

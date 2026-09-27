@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 27,
-  "translation": "No talaga nga agsubli ⟨את⟩ ti talon ti nangipasantona ⟨iti⟩, mangnayonna ti maikalima a paset ti pilak iti pagsukatam iti ngatona, ket agtakder daytoy a kukunana.",
+  "translation": "No ti agtubbot ⟨את⟩ ti talon, ti nanginasantuan iti daytoy, ket mangnayon iti maikalima a paset ti pirak ti panangisukatmo iti daytoy, ket agtalinaed daytoy kenkuana.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "no"
+      "gloss": "No"
     },
     {
       "surface": "גאל",
-      "gloss": "talaga"
+      "gloss": "ti agtubbot"
     },
     {
       "surface": "יגאל",
-      "gloss": "nagsubli"
+      "gloss": "agtubbotonna"
     },
     {
       "surface": "את",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "המקדיש",
-      "gloss": "ti nangipasantona"
+      "gloss": "ti nanginasantuan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ti nangipasantona"
+      "gloss": "⟨את⟩ iti daytoy",
+      "marks": "ti talon"
     },
     {
       "surface": "ויסף",
@@ -43,29 +43,29 @@
     },
     {
       "surface": "חמשית",
-      "gloss": "ti maikalima a paset"
+      "gloss": "maikalima a paset"
     },
     {
       "surface": "כסף",
-      "gloss": "ti pilak"
+      "gloss": "pirak"
     },
     {
       "surface": "ערכך",
-      "gloss": "iti pagsukatam"
+      "gloss": "ti panangisukatmo"
     },
     {
       "surface": "עליו",
-      "gloss": "iti ngatona"
+      "gloss": "iti daytoy"
     },
     {
       "surface": "וקם",
-      "gloss": "ket agtakder"
+      "gloss": "ket agtalinaed"
     },
     {
       "surface": "לו",
       "gloss": "kenkuana"
     }
   ],
-  "timestamp": "2026-09-26T06:03:10.460141525Z",
+  "timestamp": "2026-09-27T01:20:54.313344707Z",
   "model": "glm-5.3"
 }

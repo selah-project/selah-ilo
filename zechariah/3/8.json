@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "ilo",
   "chapter": 3,
-  "translation": "Mamati, paliiwen, O Yehoshua a dakkel a padi: sika ken dagiti gayyemmo nga agtugaw iti sanguam — ta tanda dagiti tao isuda; ta yen, siak ti mangiyaon ⟨את⟩ ti adipenko a Tsemach.",
+  "translation": "Mamati kadi, Yehoshua, ti dakkel a padi, sika ken dagiti kaduam a nagtutugaw iti sanguam, ta lallaki ti tanda da; ta adtoy, iyegko ⟨את⟩ ti adipenko a ti Tsemach.",
   "tokens": [
     {
       "surface": "שמע",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "paliiwen"
+      "gloss": "kadi"
     },
     {
       "surface": "יהושע",
-      "gloss": "O Yehoshua"
+      "gloss": "Yehoshua"
     },
     {
       "surface": "הכהן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "a dakkel"
+      "gloss": "ti dakkel"
     },
     {
       "surface": "אתה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ורעיך",
-      "gloss": "ken dagiti gayyemmo"
+      "gloss": "ken dagiti kaduam"
     },
     {
       "surface": "הישבים",
-      "gloss": "nga agtugaw"
+      "gloss": "dagiti agnanaed"
     },
     {
       "surface": "לפניך",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "dagiti tao"
+      "gloss": "lallaki"
     },
     {
       "surface": "מופת",
-      "gloss": "tanda"
+      "gloss": "ti tanda"
     },
     {
       "surface": "המה",
-      "gloss": "isuda"
+      "gloss": "da"
     },
     {
       "surface": "כי",
@@ -65,16 +65,16 @@
     },
     {
       "surface": "הנני",
-      "gloss": "yen, siak"
+      "gloss": "adtoy"
     },
     {
       "surface": "מביא",
-      "gloss": "ti mangiyaon"
+      "gloss": "iyegko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti adipenko"
+      "marks": "ti adipenko a ti Tsemach"
     },
     {
       "surface": "עבדי",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "צמח",
-      "gloss": "a Tsemach"
+      "gloss": "a ti Tsemach"
     }
   ],
-  "timestamp": "2026-09-26T20:31:30.028840677Z",
+  "timestamp": "2026-09-27T01:23:37.294342462Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,40 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 22,
-  "translation": "Ti ari ti Aram nagbilin kadagiti ⟨את⟩ daulo ti karosadda — dagiti tallopulo ken dua — a kumuna: saankayo a makigubat iti ⟨את⟩ bassit wenno ⟨את⟩ dakkel, no di iti ⟨את⟩ ari ti Yisrael laeng.",
+  "translation": "Ken ti ari ti Aram ket bilinanna ⟨את⟩ dagiti kabusor ti karosona a kaduana, tallopulo ken dua, a kunkuna: Saankayo a makilaban iti ⟨את⟩ ti bassit ken ⟨את⟩ ti dakkel, no di iti ⟨את⟩ ti ari ti Yisrael laeng.",
   "tokens": [
     {
       "surface": "ומלך",
-      "gloss": "ti ari"
+      "gloss": "ken ti ari"
     },
     {
       "surface": "ארם",
-      "gloss": "Aram"
+      "gloss": "ti Aram"
     },
     {
       "surface": "צוה",
-      "gloss": "nagbilin"
+      "gloss": "ket bilinanna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti daulo"
+      "marks": "dagiti kabusor ti karosona"
     },
     {
       "surface": "שרי",
-      "gloss": "dagiti daulo"
+      "gloss": "dagiti kabusor"
     },
     {
       "surface": "הרכב",
-      "gloss": "ti karosa"
+      "gloss": "ti karosona"
     },
     {
       "surface": "אשר",
-      "gloss": "ti"
+      "gloss": "a kaduana"
     },
     {
       "surface": "לו",
-      "gloss": "kukuana"
+      "gloss": "kaduana"
     },
     {
       "surface": "שלשים",
@@ -50,32 +50,33 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "a kumuna"
+      "gloss": "a kunkuna"
     },
     {
       "surface": "לא",
-      "gloss": "saankayo"
+      "gloss": "saan"
     },
     {
       "surface": "תלחמו",
-      "gloss": "a makigubat"
+      "gloss": "makilabankayo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bassit"
+      "marks": "ti bassit"
     },
     {
       "surface": "קטן",
-      "gloss": "bassit"
+      "gloss": "ti bassit"
     },
     {
       "surface": "ואת",
-      "gloss": "wenno ⟨את⟩"
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti dakkel"
     },
     {
       "surface": "גדול",
-      "gloss": "dakkel"
+      "gloss": "ti dakkel"
     },
     {
       "surface": "כי",
@@ -83,26 +84,26 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "no di"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ari"
+      "marks": "ti ari ti Yisrael"
     },
     {
       "surface": "מלך",
-      "gloss": "ari"
+      "gloss": "ti ari"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ti Yisrael"
     },
     {
       "surface": "לבדו",
       "gloss": "laeng"
     }
   ],
-  "timestamp": "2026-09-26T13:15:10.176178040Z",
+  "timestamp": "2026-09-27T01:07:31.670368386Z",
   "model": "glm-5.3"
 }

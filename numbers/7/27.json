@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "ilo",
   "chapter": 7,
-  "translation": "maysa a nuang nga anak ti引起 baka, maysa a karnero, maysa a urbon a karnero nga anak ti maysa a tawen, para iti sakripisio a mapukpukel;",
+  "translation": "maysa a baka nga anak ti penchantia, maysa a karnero a lalaki, maysa a karnero nga anak ti maysa a tawen, para iti ⟨ti natuded a sakripisio⟩;",
   "tokens": [
     {
       "surface": "פר",
-      "gloss": "nuang"
+      "gloss": "baka"
     },
     {
       "surface": "אחד",
-      "gloss": "maysa"
+      "gloss": "maysa a"
     },
     {
       "surface": "בן",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "בקר",
-      "gloss": "baka"
+      "gloss": "iti penchantia"
     },
     {
       "surface": "איל",
+      "gloss": "karnero a lalaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa a"
+    },
+    {
+      "surface": "כבש",
       "gloss": "karnero"
     },
     {
       "surface": "אחד",
-      "gloss": "maysa"
-    },
-    {
-      "surface": "כבש",
-      "gloss": "urbon a karnero"
-    },
-    {
-      "surface": "אחד",
-      "gloss": "maysa"
+      "gloss": "maysa a"
     },
     {
       "surface": "בן",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "לעלה",
-      "gloss": "para iti sakripisio a mapukpukel"
+      "gloss": "para iti natuded a sakripisio"
     }
   ],
-  "timestamp": "2026-09-26T06:13:58.842614219Z",
+  "timestamp": "2026-09-27T01:22:55.217591366Z",
   "model": "glm-5.3"
 }

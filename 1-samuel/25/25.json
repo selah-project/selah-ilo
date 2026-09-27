@@ -5,23 +5,23 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 25,
-  "translation": "Saan, dinak pagararan, nga isuenna ti apo ⟨את⟩ ti pusona iti daytoy a tao a dakes, kennu Nabal; ta kas ti naganna, kasta met isuna — Nabal ti naganna, ken ti kauto adda kenkuana; ket siak, ti adipenmo a babai, saanak a nakakita ⟨את⟩ dagiti ubbing ni apo a dimpatulodam.",
+  "translation": "Saanca, agar-apat, nga iparuknoy ti apok ⟨ti⟩ pusona iti daytoy a lalaki a belial, kenni Nabal, ta kas ti naganna kastoy met ti >isuna: Nabal ti naganna, ken ti nabangbang ket kaduana; ngem siak, adipenmo a babai, saanak a nakakita ⟨iti⟩ dagiti ablag ti apok nga imbagam nga ipatulod.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Saan"
+      "gloss": "Saanca"
     },
     {
       "surface": "נא",
-      "gloss": "dinak pagararan"
+      "gloss": "agar-apat"
     },
     {
       "surface": "ישים",
-      "gloss": "isuenna"
+      "gloss": "nga iparuknoy"
     },
     {
       "surface": "אדני",
-      "gloss": "ti apo"
+      "gloss": "ti apok"
     },
     {
       "surface": "את",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "הבליעל",
-      "gloss": "a dakes"
+      "gloss": "belial"
     },
     {
       "surface": "הזה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "על",
-      "gloss": "kennu"
+      "gloss": "kenni"
     },
     {
       "surface": "נבל",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "כשמו",
-      "gloss": "kas ti naganna"
+      "gloss": "kas ti nagan"
     },
     {
       "surface": "כן",
-      "gloss": "kasta met"
+      "gloss": "kastoy"
     },
     {
       "surface": "הוא",
-      "gloss": "isuna"
+      "gloss": "ti isuna"
     },
     {
       "surface": "נבל",
@@ -82,19 +82,19 @@
     },
     {
       "surface": "ונבלה",
-      "gloss": "ken ti kauto"
+      "gloss": "ken ti nabangbang"
     },
     {
       "surface": "עמו",
-      "gloss": "adda kenkuana"
+      "gloss": "kaduana"
     },
     {
       "surface": "ואני",
-      "gloss": "ket siak"
+      "gloss": "ngem siak"
     },
     {
       "surface": "אמתך",
-      "gloss": "ti adipenmo a babai"
+      "gloss": "adipenmo a babai"
     },
     {
       "surface": "לא",
@@ -107,25 +107,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti ubbing ni apo"
+      "marks": "dagiti ablag ti apok"
     },
     {
       "surface": "נערי",
-      "gloss": "dagiti ubbing"
+      "gloss": "dagiti ablag ti"
     },
     {
       "surface": "אדני",
-      "gloss": "ni apo"
+      "gloss": "apok"
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "nga"
     },
     {
       "surface": "שלחת",
-      "gloss": "dimpatulodam"
+      "gloss": "imbagam nga ipatulod"
     }
   ],
-  "timestamp": "2026-09-26T11:13:45.940112548Z",
+  "timestamp": "2026-09-27T01:08:38.131988297Z",
   "model": "glm-5.3"
 }

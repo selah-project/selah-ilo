@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 44,
-  "translation": "Kinunami: Saan a mabalin nga agbabaakami; no ti ubing a kabsatmi adda ⟨iti⟩ kadduatakami, agbabaakami; ta saan a mabalin a makitamii ti rupa ti tao no ti ubing a kabsatmi awan ⟨iti⟩ kadduatakami.",
+  "translation": "Kinunami: Saan kami a makababa; no ti bassit a kabsatmi ket adda kaduami ⟨את⟩, agbabaami; ta saan kami a makakita iti rupa ti lalaki no ti bassit a kabsatmi ket saan a kaduami ⟨את⟩.",
   "tokens": [
     {
       "surface": "ונאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "נוכל",
-      "gloss": "mabalin"
+      "gloss": "kami a makababa"
     },
     {
       "surface": "לרדת",
-      "gloss": "nga agbabaakami"
+      "gloss": "a makababa"
     },
     {
       "surface": "אם",
@@ -33,19 +33,20 @@
     },
     {
       "surface": "אחינו",
-      "gloss": "ti kabsatmi"
+      "gloss": "kabsatmi"
     },
     {
       "surface": "הקטן",
-      "gloss": "ti ubing"
+      "gloss": "ti bassit"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ kadduatakami"
+      "gloss": "⟨את⟩",
+      "marks": "kaduami (with us)"
     },
     {
       "surface": "וירדנו",
-      "gloss": "agbabaakami"
+      "gloss": "agbabaami"
     },
     {
       "surface": "כי",
@@ -57,37 +58,38 @@
     },
     {
       "surface": "נוכל",
-      "gloss": "mabalin"
+      "gloss": "kami a makakita"
     },
     {
       "surface": "לראות",
-      "gloss": "a makitamii"
+      "gloss": "a makakita"
     },
     {
       "surface": "פני",
-      "gloss": "ti rupa"
+      "gloss": "iti rupa"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "ואחינו",
-      "gloss": "ken ti kabsatmi"
+      "gloss": "kabsatmi"
     },
     {
       "surface": "הקטן",
-      "gloss": "ti ubing"
+      "gloss": "ti bassit"
     },
     {
       "surface": "איננו",
-      "gloss": "awan"
+      "gloss": "saan a"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ kadduatakami"
+      "gloss": "⟨את⟩",
+      "marks": "kaduami (with us)"
     }
   ],
-  "timestamp": "2026-09-26T03:11:29.750060995Z",
+  "timestamp": "2026-09-27T01:15:15.885253389Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,65 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 59,
-  "translation": "Niak, kumantak iti bilegmo, ken iti bigat arkantak iti hesedmo, ta dissukanto ⟨⟨ti⟩⟩ wenno —",
-  "tokens": [],
-  "timestamp": "2026-09-26T21:33:21.478935623Z",
+  "translation": "Ni siak, agkantakanto iti bilegmo, ken agkantaak iti bigat iti hesedmo, ta isu ti nangato a kuta kaniak ken pagtalekan iti aldaw ti rigatko.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ken ni siak"
+    },
+    {
+      "surface": "אשיר",
+      "gloss": "agkantakanto"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "iti bilegmo"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "ken agkantaak"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "iti bigat"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iti hesedmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "היית",
+      "gloss": "isu ti"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "nangato a kuta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "ken pagtalekan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "iti aldaw"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ti rigat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-09-27T01:23:41.408547201Z",
   "model": "glm-5.3"
 }

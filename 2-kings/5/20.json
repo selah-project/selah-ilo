@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Kinuna ni Gechazi, ti adipen ni Elisha a tao ti Elohim: Kitaem, inikkanna ti apok ⟨את⟩ ni Naaman daytoy nga Arameano, saan a nangala manipud ⟨את⟩ iti imana ti inayatna. Biag ni Yahweh — no koma saan: agtarayak kalpasidna ket alaekon manipud ⟨את⟩ kenkuana iti aniaman.",
+  "translation": "Kinuna ni Gechazi, ti adipen ni Elisha ti lalaki ti Elohim: Dayta, inulit ti apok ⟨את⟩ ni Naaman ti Arameo daytoy, saan nga alaen iti imanna ⟨את⟩ ti impanna; a kas sibibiag ni Yahweh, no saan a tarayak maipalpalabas kenkuana ket alaek ⟨את⟩ manipud kenkuana ⟨את⟩ ti aniaman.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "האלהים",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "kitaem"
+      "gloss": "dayta"
     },
     {
       "surface": "חשך",
-      "gloss": "inikkanna"
+      "gloss": "inulit"
     },
     {
       "surface": "אדני",
@@ -46,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ni Naaman daytoy nga Arameano"
+      "marks": "ni Naaman"
     },
     {
       "surface": "נעמן",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הארמי",
-      "gloss": "Arameano"
+      "gloss": "ti Arameo"
     },
     {
       "surface": "הזה",
@@ -62,16 +62,16 @@
     },
     {
       "surface": "מקחת",
-      "gloss": "ti panangalana"
+      "gloss": "saan nga alaen"
     },
     {
       "surface": "מידו",
-      "gloss": "manipud iti imana"
+      "gloss": "iti imanna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti inayatna"
+      "marks": "ti impanna"
     },
     {
       "surface": "אשר",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "הביא",
-      "gloss": "inayatna"
+      "gloss": "impanna"
     },
     {
       "surface": "חי",
-      "gloss": "biag"
+      "gloss": "a kas sibibiag"
     },
     {
       "surface": "יהוה",
@@ -95,29 +95,29 @@
     },
     {
       "surface": "אם",
-      "gloss": "koma"
+      "gloss": "saan"
     },
     {
       "surface": "רצתי",
-      "gloss": "agtarayak"
+      "gloss": "a tarayak"
     },
     {
       "surface": "אחריו",
-      "gloss": "kalpasidna"
+      "gloss": "maipalpalabas kenkuana"
     },
     {
       "surface": "ולקחתי",
-      "gloss": "ket alaekon"
+      "gloss": "ket alaek"
     },
     {
       "surface": "מאתו",
-      "gloss": "manipud ⟨את⟩"
+      "gloss": "⟨את⟩ manipud kenkuana"
     },
     {
       "surface": "מאומה",
-      "gloss": "iti aniaman"
+      "gloss": "ti aniaman"
     }
   ],
-  "timestamp": "2026-09-26T13:31:05.907461813Z",
+  "timestamp": "2026-09-27T01:09:53.852180051Z",
   "model": "glm-5.3"
 }

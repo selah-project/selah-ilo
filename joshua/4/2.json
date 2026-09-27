@@ -5,8 +5,57 @@
   "book": "joshua",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "Alaeyo kadagitiimmayo a sao: daytoy ket ti maikadua a panangipatarus.",
-  "tokens": [],
-  "timestamp": "2026-09-26T08:51:27.520579405Z",
+  "translation": "Alaenyokayo manipud iti umili sangapulo ket dua a lallaki, tunggal maysa a lalaki — tunggal maysa a lalaki manipud iti maysa a tribu.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Alaenyokayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kadakayo ⟨kadakayo⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sangapulo ket"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "a lallaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa a lalaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tunggal maysa a lalaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "maysa"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "manipud iti maysa a tribu"
+    }
+  ],
+  "timestamp": "2026-09-27T01:17:34.713796784Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 1,
-  "translation": "Ket kinuna ni Yahweh kaniak: Saanmo a kunaen nga ubbingak, ta iti aniaman a pagipatulodak kenka, mapanka; ken ⟨את⟩ amin aniaman a bilinko kenka, sawem.",
+  "translation": "Kinuna ni Yahweh kaniak: saanmo nga ibaga nga ubingak, ta iti amin a disso a ipatulodkak addanka, ken ⟨את⟩ ti amin nga ibilinko isao.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ket kinuna"
+      "gloss": "kinuna"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלי",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "תאמר",
-      "gloss": "a kunaen"
+      "gloss": "nga ibaga"
     },
     {
       "surface": "נער",
-      "gloss": "nga ubbingak"
+      "gloss": "ubing"
     },
     {
       "surface": "אנכי",
-      "gloss": ""
+      "gloss": "-ak"
     },
     {
       "surface": "כי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "aniaman"
+      "gloss": "amin"
     },
     {
       "surface": "אשר",
@@ -53,16 +53,16 @@
     },
     {
       "surface": "אשלחך",
-      "gloss": "pagipatulodak kenka"
+      "gloss": "ipatulodkak"
     },
     {
       "surface": "תלך",
-      "gloss": "mapanka"
+      "gloss": "addanka"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "amin aniaman a bilinko kenka"
+      "marks": "ti amin"
     },
     {
       "surface": "כל",
@@ -70,17 +70,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aniaman a"
+      "gloss": "nga"
     },
     {
       "surface": "אצוך",
-      "gloss": "bilinko kenka"
+      "gloss": "ibilinko"
     },
     {
       "surface": "תדבר",
-      "gloss": "sawem"
+      "gloss": "isao"
     }
   ],
-  "timestamp": "2026-09-26T16:16:10.205741911Z",
+  "timestamp": "2026-09-27T01:24:02.797711018Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 43,
-  "translation": "Nabutenganda dagiti tao ta ida impan iti balay ni Yosef, ket kinunada: Iti maipapan iti pirak a naisubli kadagiti sako mi idi umuna, isu nga ida impan ditoy, a tumipo koma kaniami ken agtuok koma kaniami ket alaenna koma kaniami a adipen ken ⟨את⟩ dagiti asno mi.",
+  "translation": "Nabuteng dagiti lallaki ta naipan ida iti balay ni Yosef, ket kinunada: Ta iti sao ti pirak a naisubli iti uneg dagiti sakotayo idi umuna, isu a ditoy tayo maiyan-iter, tapno makalkalda kaniatayo, agtinnubla kaniatayo, ken alaennakayo ⟨את⟩ datayo a kas adipen, ken ⟨את⟩ dagiti burikotayo.",
   "tokens": [
     {
       "surface": "וייראו",
-      "gloss": "nabutenganda"
+      "gloss": "nabuteng"
     },
     {
       "surface": "האנשים",
-      "gloss": "dagiti tao"
+      "gloss": "dagiti lallaki"
     },
     {
       "surface": "כי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הובאו",
-      "gloss": "impan ida"
+      "gloss": "naipan ida"
     },
     {
       "surface": "בית",
-      "gloss": "balay"
+      "gloss": "iti balay"
     },
     {
       "surface": "יוסף",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "kinunada"
+      "gloss": "ket kinunada"
     },
     {
       "surface": "על",
-      "gloss": "iti maipapan iti"
+      "gloss": "iti"
     },
     {
       "surface": "דבר",
-      "gloss": "maipapan"
+      "gloss": "sao"
     },
     {
       "surface": "הכסף",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "השב",
-      "gloss": "naisubli"
+      "gloss": "a naisubli"
     },
     {
       "surface": "באמתחתינו",
-      "gloss": "kadagiti sako mi"
+      "gloss": "iti uneg dagiti sakotayo"
     },
     {
       "surface": "בתחלה",
@@ -61,49 +61,51 @@
     },
     {
       "surface": "אנחנו",
-      "gloss": "dakami"
+      "gloss": "tayo"
     },
     {
       "surface": "מובאים",
-      "gloss": "im-impan"
+      "gloss": "maiyan-iter"
     },
     {
       "surface": "להתגלל",
-      "gloss": "a tumipo"
+      "gloss": "tapno makalkalda"
     },
     {
       "surface": "עלינו",
-      "gloss": "kaniami"
+      "gloss": "kaniatayo"
     },
     {
       "surface": "ולהתנפל",
-      "gloss": "ken agtuok"
+      "gloss": "agtinnubla"
     },
     {
       "surface": "עלינו",
-      "gloss": "kaniami"
+      "gloss": "kaniatayo"
     },
     {
       "surface": "ולקחת",
-      "gloss": "ket alaenna"
+      "gloss": "ken alaennakayo"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ kaniami"
+      "gloss": "⟨את⟩",
+      "marks": "datayo a kas adipen"
     },
     {
       "surface": "לעבדים",
-      "gloss": "a adipen"
+      "gloss": "a kas adipen"
     },
     {
       "surface": "ואת",
-      "gloss": "ken ⟨את⟩"
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti burikotayo"
     },
     {
       "surface": "חמרינו",
-      "gloss": "dagiti asno mi"
+      "gloss": "dagiti burikotayo"
     }
   ],
-  "timestamp": "2026-09-26T03:05:37.112649465Z",
+  "timestamp": "2026-09-27T01:15:24.651974263Z",
   "model": "glm-5.3"
 }

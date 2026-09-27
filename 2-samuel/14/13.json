@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "Ket kinuna ti babai: Ket apay a pinapanunotmo kastoy a banag iti umili ti Elohim? Ta iti panagsao ti ari iti daytoy a sao ⟨isuna⟩ kas maysa a makabasol, ta saan nga isubli ti ari ⟨את⟩ ti naipukawna.",
+  "translation": "Ket kinuna ti babai, Ken apay a naaramidmo ti kas daytoy a panunot a maibusor iti umili ti Elohim? ta ti agsao iti daytoy a sao ti ari ket kas maysa a nakabasol, ta saan nga isubli ti ari ⟨את⟩ ti naitalawna.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "ולמה",
-      "gloss": "ket apay"
+      "gloss": "ken apay"
     },
     {
       "surface": "חשבתה",
-      "gloss": "pinapanunotmo"
+      "gloss": "naaramidmo ti panunot"
     },
     {
       "surface": "כזאת",
-      "gloss": "kastoy"
+      "gloss": "ti kas daytoy"
     },
     {
       "surface": "על",
-      "gloss": "iti"
+      "gloss": "a maibusor iti"
     },
     {
       "surface": "עם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "ti Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ומדבר",
-      "gloss": "iti panagsao"
+      "gloss": "ket ti agsao"
     },
     {
       "surface": "המלך",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "כאשם",
-      "gloss": "kas maysa a makabasol"
+      "gloss": "a kas maysa a nakabasol"
     },
     {
       "surface": "לבלתי",
-      "gloss": "ta saan"
+      "gloss": "tapno saan"
     },
     {
       "surface": "השיב",
-      "gloss": "nga isubli"
+      "gloss": "isubli"
     },
     {
       "surface": "המלך",
@@ -74,13 +74,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti naipukawna"
+      "marks": "ti naitalawna"
     },
     {
       "surface": "נדחו",
-      "gloss": "ti naipukawna"
+      "gloss": "ti naitalawna"
     }
   ],
-  "timestamp": "2026-09-26T11:48:20.444989785Z",
+  "timestamp": "2026-09-27T01:11:03.599317547Z",
   "model": "glm-5.3"
 }

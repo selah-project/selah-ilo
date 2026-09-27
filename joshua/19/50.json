@@ -5,8 +5,88 @@
   "book": "joshua",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Segun ti imbagana ni Yahweh, intedanda kenkuana ⟨iti⟩ ti ili a dimpapananna, ⟨iti⟩ Timnat-Serakh iti bantay ni Efrayim; ketipnatnagna ti ili ket agninaedanda... —",
-  "tokens": [],
-  "timestamp": "2026-09-26T09:23:43.898667228Z",
+  "translation": "Babaen iti sao ni Yahweh, initedanda kenkuana ⟨את⟩ ti ili a dinawatna, ⟨את⟩ ti Timnat-Serakh iti bantay Efraim; ket binasaanna ⟨את⟩ ti ili ket nagnaed sadiay.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "babaen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "iti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "initedanda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ili"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "dinawatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti Timnat-Serakh"
+    },
+    {
+      "surface": "תמנת",
+      "gloss": "Timnat"
+    },
+    {
+      "surface": "סרח",
+      "gloss": "Serakh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "iti bantay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ket binasaanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti ili"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ket nagnaed"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sadiay"
+    }
+  ],
+  "timestamp": "2026-09-27T01:17:42.903843446Z",
   "model": "glm-5.3"
 }

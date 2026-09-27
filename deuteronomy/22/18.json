@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ilo",
   "chapter": 22,
-  "translation": "Kalaenda dagiti lakay ti ili a dayta ⟨את⟩ ti tao, ket idusaanda ⟨אתו⟩.",
+  "translation": "ken alaenda dagiti lakay ti dayta nga ili ⟨את⟩ ti lalaki, ken itdotdonda ⟨את⟩",
   "tokens": [
     {
       "surface": "ולקחו",
-      "gloss": "kalaenda"
+      "gloss": "ken alaenda"
     },
     {
       "surface": "זקני",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "a dayta"
+      "gloss": "ti dayta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti tao"
+      "marks": "ti lalaki"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "ויסרו",
-      "gloss": "ket idusaanda"
+      "gloss": "ken itdotdonda"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ti tao"
+      "gloss": "⟨את⟩",
+      "marks": "himi"
     }
   ],
-  "timestamp": "2026-09-26T08:20:23.038851423Z",
+  "timestamp": "2026-09-27T01:11:30.990118679Z",
   "model": "glm-5.3"
 }

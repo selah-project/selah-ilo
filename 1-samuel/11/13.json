@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 11,
-  "translation": "Kinuna ni Shaul: saan a patayen ti maysa a tao iti daytoy nga aldaw, ta iti daytoy nga aldaw inaramid ni Yahweh ti panangisalakan iti Yisrael.",
+  "translation": "Kinuna ni Shaul a saan mapatayen ti lalaki iti daytoy nga aldaw, ta iti dayta nga aldaw aramidenna ni Yahweh ti panangisalakan iti Yisrael.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shaul"
+      "gloss": "ni Shaul"
     },
     {
       "surface": "לא",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "יומת",
-      "gloss": "patayen"
+      "gloss": "mapatayen"
     },
     {
       "surface": "איש",
-      "gloss": "ti maysa a tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "ביום",
-      "gloss": "iti aldaw"
+      "gloss": "iti daytoy nga aldaw"
     },
     {
       "surface": "הזה",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "היום",
-      "gloss": "iti daytoy nga aldaw"
+      "gloss": "iti dayta nga aldaw"
     },
     {
       "surface": "עשה",
-      "gloss": "inaramid"
+      "gloss": "aramidenna"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "תשועה",
@@ -60,6 +60,6 @@
       "gloss": "iti Yisrael"
     }
   ],
-  "timestamp": "2026-09-26T10:37:17.871671596Z",
+  "timestamp": "2026-09-27T01:08:05.921345614Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ilo",
   "chapter": 21,
-  "translation": "Ket tinulonganna ni Avishai a anak ni Tseruyah, ket dinna ⟨את⟩ ti Pelishtiano ket pinatayna. Idi sinumpaanda dagiti tao ni David kenkuana, a maibaga: saanmo a rumuar manen ⟨את⟩ kaduami iti gubat, ket saanmo a paparuyen ⟨את⟩ ti lampara ti Yisrael.",
+  "translation": "Immadanna ni Avishay, anak ni Tseruyah, ket intignatna ⟨את⟩ ti Filisteo ken pinatayna. Idi, nangipan dagiti lallaki ni David iti sumpa kenkuana, a kunkuna: saanka koman a sumrek ⟨את⟩ kaduami iti gubat, ket saanmo a papatayen ⟨את⟩ ti lampara ti Yisrael.",
   "tokens": [
     {
       "surface": "ויעזר",
-      "gloss": "ket tinulonganna"
+      "gloss": "immadanna"
     },
     {
       "surface": "לו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אבישי",
-      "gloss": "ni Avishai"
+      "gloss": "ni Avishay"
     },
     {
       "surface": "בן",
-      "gloss": "a anak"
+      "gloss": "anak"
     },
     {
       "surface": "צרויה",
@@ -29,32 +29,32 @@
     },
     {
       "surface": "ויך",
-      "gloss": "ket dinna"
+      "gloss": "intignatna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti Pelishtiano"
+      "marks": "ti Filisteo"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "ti Pelishtiano"
+      "gloss": "ti Filisteo"
     },
     {
       "surface": "וימיתהו",
-      "gloss": "ket pinatayna"
+      "gloss": "pinatayna"
     },
     {
       "surface": "אז",
-      "gloss": "Idi"
+      "gloss": "idi"
     },
     {
       "surface": "נשבעו",
-      "gloss": "sinumpaanda"
+      "gloss": "nangipan iti sumpa"
     },
     {
       "surface": "אנשי",
-      "gloss": "dagiti tao"
+      "gloss": "dagiti lallaki"
     },
     {
       "surface": "דוד",
@@ -66,19 +66,19 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "a maibaga"
+      "gloss": "a kunkuna"
     },
     {
       "surface": "לא",
-      "gloss": "saanmo"
+      "gloss": "saanka"
     },
     {
       "surface": "תצא",
-      "gloss": "a rumuar"
+      "gloss": "a sumrek"
     },
     {
       "surface": "עוד",
-      "gloss": "manen"
+      "gloss": "koman"
     },
     {
       "surface": "אתנו",
@@ -94,12 +94,12 @@
     },
     {
       "surface": "תכבה",
-      "gloss": "a paparuyen"
+      "gloss": "a papatayen"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti lampara ti Yisrael"
+      "marks": "ti lampara"
     },
     {
       "surface": "נר",
@@ -110,6 +110,6 @@
       "gloss": "ti Yisrael"
     }
   ],
-  "timestamp": "2026-09-26T12:08:12.089121730Z",
+  "timestamp": "2026-09-27T01:10:52.859496656Z",
   "model": "glm-5.3"
 }

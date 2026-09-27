@@ -5,8 +5,53 @@
   "book": "habakkuk",
   "lang": "ilo",
   "chapter": 1,
-  "translation": "Amin iti kawit ti maipangato, iti lambatna maipapan, ken iti dakkel a lambatna maurnong; gapu kasta agragsak isuna ken agliwliweng.",
-  "tokens": [],
-  "timestamp": "2026-09-26T20:12:44.176523312Z",
+  "translation": "Ti aminnadda babaen ti kawit indonna, iguronnna babaen ti balantangna ket urnongnanna babaen ti mikmartana — gapu iti dayta ragsakanna ken napnuan iti ragsak.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "בחכה",
+      "gloss": "babaen ti kawit"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "indonna"
+    },
+    {
+      "surface": "יגרהו",
+      "gloss": "iguronnna"
+    },
+    {
+      "surface": "בחרמו",
+      "gloss": "babaen ti balantangna"
+    },
+    {
+      "surface": "ויאספהו",
+      "gloss": "ket urnongnanna"
+    },
+    {
+      "surface": "במכמרתו",
+      "gloss": "babaen ti mikmartana"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dayta"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ragsakanna"
+    },
+    {
+      "surface": "ויגיל",
+      "gloss": "napnuan iti ragsak"
+    }
+  ],
+  "timestamp": "2026-09-27T01:15:34.258863235Z",
   "model": "glm-5.3"
 }

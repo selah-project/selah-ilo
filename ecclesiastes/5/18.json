@@ -5,15 +5,15 @@
   "book": "ecclesiastes",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Pay ti tunggal tao a naitedna kenkuana ti Elohim iti kayamanan ken tagikua, ken ipangturayanna a mangan iti, ken alaen ⟨את⟩ ti pasetna, ken agragarak iti trabahona — daytoy ti regalo ti Elohim.",
+  "translation": "Pay ti amin a tao a naited ti Elohim kenkuana iti kayamanan ken tagikua, ken pinatgedna a mangmangan iti dayta ken awaten ⟨את⟩ ti pasetna ken ragsaken iti trabahona — daytoy ket daton ti Elohim isu.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "Pay"
+      "gloss": "pay"
     },
     {
       "surface": "כל",
-      "gloss": "ti tunggal"
+      "gloss": "amin"
     },
     {
       "surface": "האדם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "naitedna"
+      "gloss": "naited"
     },
     {
       "surface": "לו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": "iti kayamanan"
+      "gloss": "kayamanan"
     },
     {
       "surface": "ונכסים",
@@ -45,15 +45,19 @@
     },
     {
       "surface": "והשליטו",
-      "gloss": "ken ipangturayanna"
+      "gloss": "ken pinatgedna"
     },
     {
       "surface": "לאכל",
-      "gloss": "a mangan"
+      "gloss": "a mangmangan"
     },
     {
       "surface": "ממנו",
-      "gloss": "iti"
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "ולשאת",
+      "gloss": "ken awaten"
     },
     {
       "surface": "את",
@@ -62,11 +66,11 @@
     },
     {
       "surface": "חלקו",
-      "gloss": "⟨את⟩ ti pasetna"
+      "gloss": "ti pasetna"
     },
     {
       "surface": "ולשמח",
-      "gloss": "ken agragarak"
+      "gloss": "ken ragsaken"
     },
     {
       "surface": "בעמלו",
@@ -78,7 +82,7 @@
     },
     {
       "surface": "מתת",
-      "gloss": "ti regalo"
+      "gloss": "daton"
     },
     {
       "surface": "אלהים",
@@ -86,9 +90,9 @@
     },
     {
       "surface": "היא",
-      "gloss": "daytoy"
+      "gloss": "isu"
     }
   ],
-  "timestamp": "2026-09-26T23:08:01.917584001Z",
+  "timestamp": "2026-09-27T01:11:20.052150658Z",
   "model": "glm-5.3"
 }

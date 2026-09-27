@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 15,
-  "translation": "Ken ti agtugtugaw iti pagtugawan a tinugtugawan ti zav ket agdigos kadagiti badona ken agdigos iti danum, ket saan a malinis agingga iti rabii.",
+  "translation": "Ken ti agnaed iti banag a pagtungtungan ti agayus, labanna dagiti badona ken agdigos iti danum, ket narugit agingga iti rabii.",
   "tokens": [
     {
       "surface": "והישב",
-      "gloss": "ken ti agtugtugaw"
+      "gloss": "ken ti agnaed"
     },
     {
       "surface": "על",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הכלי",
-      "gloss": "pagtugawan"
+      "gloss": "banag"
     },
     {
       "surface": "אשר",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "ישב",
-      "gloss": "tinugtugawan"
+      "gloss": "agnaed"
     },
     {
       "surface": "עליו",
-      "gloss": ""
+      "gloss": "iti dayta"
     },
     {
       "surface": "הזב",
-      "gloss": "ti zav"
+      "gloss": "ti agayus"
     },
     {
       "surface": "יכבס",
-      "gloss": "agdigos"
+      "gloss": "labanna"
     },
     {
       "surface": "בגדיו",
-      "gloss": "kadagiti badona"
+      "gloss": "dagiti badona"
     },
     {
       "surface": "ורחץ",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "ket saan a malinis"
+      "gloss": "ken narugit"
     },
     {
       "surface": "עד",
@@ -64,6 +64,6 @@
       "gloss": "iti rabii"
     }
   ],
-  "timestamp": "2026-09-26T05:30:07.618435209Z",
+  "timestamp": "2026-09-27T01:19:41.432574222Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ilo",
   "chapter": 24,
-  "translation": "Iti ruar agtakderka, ket ti tao a nangautang kenka, iparuarna kennika ⟨את⟩ ti prenda iti ruar.",
+  "translation": "Iti ruar ka nga agtakder, ket ti lalaki a nakautangmo kenkuana mangiruaranto ⟨iti ruar⟩ ⟨את⟩ ti pateg kenka.",
   "tokens": [
     {
       "surface": "בחוץ",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "תעמד",
-      "gloss": "agtakderka"
+      "gloss": "ka nga agtakder"
     },
     {
       "surface": "והאיש",
-      "gloss": "ket ti tao"
+      "gloss": "ket ti lalaki"
     },
     {
       "surface": "אשר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sika"
+      "gloss": "mo"
     },
     {
       "surface": "נשה",
-      "gloss": "nangautang"
+      "gloss": "nakautang"
     },
     {
       "surface": "בו",
@@ -37,26 +37,26 @@
     },
     {
       "surface": "יוציא",
-      "gloss": "iparuarna"
+      "gloss": "mangiruaranto"
     },
     {
       "surface": "אליך",
-      "gloss": "kennika"
+      "gloss": "kenka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti prenda"
+      "marks": "ti pateg"
     },
     {
       "surface": "העבוט",
-      "gloss": "ti prenda"
+      "gloss": "ti pateg"
     },
     {
       "surface": "החוצה",
       "gloss": "iti ruar"
     }
   ],
-  "timestamp": "2026-09-26T08:22:11.897241814Z",
+  "timestamp": "2026-09-27T01:11:41.987429034Z",
   "model": "glm-5.3"
 }

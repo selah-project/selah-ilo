@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Ket itedna ⟨את⟩ asamna kenni Yahweh maipapan iti basolna a binasolanna: babai manipud iti tabel, karnero wenno kalding a babai, para iti basol a daton; ket pakawananna ti padi kenkuana maipapan iti basolna.",
+  "translation": "Ken itedna ⟨את⟩ ti ashamna kenni Yahweh maipapan iti basolna a nakabasolanna, maysa a babai manipud iti karnero, maysa a karniero a babai wenno maysa a kandelaria a kandelaria, kas daton ti basol; ket ipatawaranna isu ti padi maipapan iti basolna.",
   "tokens": [
     {
       "surface": "והביא",
-      "gloss": "Ket itedna"
+      "gloss": "ken itedna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "asamna"
+      "marks": "ti ashamna"
     },
     {
       "surface": "אשמו",
-      "gloss": "asamna"
+      "gloss": "ti ashamna"
     },
     {
       "surface": "ליהוה",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "על",
-      "gloss": "maipapan"
+      "gloss": "maipapan iti"
     },
     {
       "surface": "חטאתו",
-      "gloss": "iti basolna"
+      "gloss": "basolna"
     },
     {
       "surface": "אשר",
@@ -38,23 +38,23 @@
     },
     {
       "surface": "חטא",
-      "gloss": "binasolanna"
+      "gloss": "nakabasolanna"
     },
     {
       "surface": "נקבה",
-      "gloss": "babai"
+      "gloss": "maysa a babai"
     },
     {
       "surface": "מן",
-      "gloss": "manipud"
+      "gloss": "manipud iti"
     },
     {
       "surface": "הצאן",
-      "gloss": "iti tabel"
+      "gloss": "karnero"
     },
     {
       "surface": "כשבה",
-      "gloss": "karnero"
+      "gloss": "maysa a karniero a babai"
     },
     {
       "surface": "או",
@@ -62,23 +62,23 @@
     },
     {
       "surface": "שעירת",
-      "gloss": "kalding a babai"
+      "gloss": "maysa a kandelaria"
     },
     {
       "surface": "עזים",
-      "gloss": "kalding"
+      "gloss": "a kandelaria"
     },
     {
       "surface": "לחטאת",
-      "gloss": "para iti basol a daton"
+      "gloss": "kas daton ti basol"
     },
     {
       "surface": "וכפר",
-      "gloss": "ket pakawananna"
+      "gloss": "ket ipatawaranna"
     },
     {
       "surface": "עליו",
-      "gloss": "kenkuana"
+      "gloss": "isu"
     },
     {
       "surface": "הכהן",
@@ -89,6 +89,6 @@
       "gloss": "maipapan iti basolna"
     }
   ],
-  "timestamp": "2026-09-26T05:07:53.404940552Z",
+  "timestamp": "2026-09-27T01:21:16.640318515Z",
   "model": "glm-5.3"
 }

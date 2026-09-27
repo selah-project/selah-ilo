@@ -5,8 +5,45 @@
   "book": "joshua",
   "lang": "ilo",
   "chapter": 10,
-  "translation": "ket naipakaammo kenni Yehoshua, a maikuna: nabilitaan dagiti lima nga ari, nailemmengda iti.Fileira ti voltear iti Urduitan Simple 1 JsonArrayEndpointV2 Produce ONLY the raw JSON array. No fences, no prose. Follow system prompt's per-verse schema plus verse number.",
-  "tokens": [],
-  "timestamp": "2026-09-26T09:04:31.674052386Z",
+  "translation": "ket naibaga kenni Yehoshua, a kunkuna: Nabirukan dagiti lima nga ari, lemmaedda iti maysa nga abag iti Makkedah.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ket naibaga"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "kenni Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "nabirukan"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "dagiti lima"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "lemmaedda"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "iti maysa nga abag"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "iti Makkedah"
+    }
+  ],
+  "timestamp": "2026-09-27T01:17:31.296998574Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 21,
-  "translation": "Dimmawat ni David iti Nob kenni Akhimelekh ti padi, ket ni Akhimelekh nangngegngeddang a nangsaludat kenni David, ket kinunana kennuana: Apay a sika laeng bileb, ket awan tao ⟨a⟩ ⟨את⟩ kaduam?",
+  "translation": "Ket immay ni David iti Nob kenni Akhimelekh ti padi, ket nangririb ni Akhimelekh iti panangrumsuanna kenni David, ket kinunana kenkuana: Apay a sika laeng, ket awan ti lalaki a kaduam ⟨אתך⟩?",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "dimmawat"
+      "gloss": "ket immay"
     },
     {
       "surface": "דוד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויחרד",
-      "gloss": "nangngegngeddang"
+      "gloss": "ket nangririb"
     },
     {
       "surface": "אחימלך",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לקראת",
-      "gloss": "a nangsaludat"
+      "gloss": "iti panangrumsuanna kenni"
     },
     {
       "surface": "דוד",
-      "gloss": "kenni David"
+      "gloss": "ni David"
     },
     {
       "surface": "ויאמר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "kennuana"
+      "gloss": "kenkuana"
     },
     {
       "surface": "מדוע",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "לבדך",
-      "gloss": "laeng bileb"
+      "gloss": "laeng"
     },
     {
       "surface": "ואיש",
-      "gloss": "ket tao"
+      "gloss": "ket ti lalaki"
     },
     {
       "surface": "אין",
@@ -77,9 +77,10 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ kaduam"
+      "gloss": "⟨אתך⟩",
+      "marks": "kaduam — a kadua"
     }
   ],
-  "timestamp": "2026-09-26T11:04:43.532396292Z",
+  "timestamp": "2026-09-27T01:08:13.075386854Z",
   "model": "glm-5.3"
 }

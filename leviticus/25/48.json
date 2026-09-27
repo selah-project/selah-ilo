@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 25,
-  "translation": "Kalpasan ti pannakabal-i, addaan iti karbengan ti panangisubli; ti maysa kadagiti kabsatna ti mangisubli kenkuana.",
+  "translation": "Kalpasan idi naipaglako, addanto ⟨ti⟩ tubbot kenuana; ti maysa kadagiti kabsatna ti mangtubbot kenkuana.",
   "tokens": [
     {
       "surface": "אחרי",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "נמכר",
-      "gloss": "ti pannakabal-i"
+      "gloss": "naipaglako"
     },
     {
       "surface": "גאלה",
-      "gloss": "karbengan ti panangisubli"
+      "gloss": "tubbot"
     },
     {
       "surface": "תהיה",
-      "gloss": "addaan"
+      "gloss": "addanto"
     },
     {
       "surface": "לו",
-      "gloss": "kanianna"
+      "gloss": "kenuana"
     },
     {
       "surface": "אחד",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "יגאלנו",
-      "gloss": "ti mangisubli kenkuana"
+      "gloss": "mangtubbot kenkuana"
     }
   ],
-  "timestamp": "2026-09-26T05:55:43.788720014Z",
+  "timestamp": "2026-09-27T01:20:44.772540036Z",
   "model": "glm-5.3"
 }

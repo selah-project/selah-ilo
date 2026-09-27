@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 13,
-  "translation": "Ket naari ni tao ti Elohim kenkuana, ken kinunana: No agtibekka iti lima wenno innem a daras, no kasta maidmo ⟨את⟩ ti Aram agingga a maid; ngem ita tallo a daras laeng ti dadaemmo ⟨את⟩ ti Aram.",
+  "translation": "Nakairamman ti lalaki ti Elohim kenkuana, ket kinuna: No binekmo iti lima wenno innem a maminsan, adda koma a binnekmo ⟨את⟩ Aram agingga a maikkat; ngem ita, tallo a maminsan ti bebekem ⟨את⟩ Aram.",
   "tokens": [
     {
       "surface": "ויקצף",
-      "gloss": "ket naari"
+      "gloss": "nakairamman"
     },
     {
       "surface": "עליו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "האלהים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ket kinunana"
+      "gloss": "ket kinuna"
     },
     {
       "surface": "להכות",
-      "gloss": "no agtibekka iti"
+      "gloss": "nga agbekbek"
     },
     {
       "surface": "חמש",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "פעמים",
-      "gloss": "a daras"
+      "gloss": "maminsan"
     },
     {
       "surface": "אז",
-      "gloss": "no kasta"
+      "gloss": "idi"
     },
     {
       "surface": "הכית",
-      "gloss": "maidmo"
+      "gloss": "binekmo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti Aram"
+      "marks": "Aram"
     },
     {
       "surface": "ארם",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "כלה",
-      "gloss": "a maid"
+      "gloss": "maikkat"
     },
     {
       "surface": "ועתה",
@@ -82,22 +82,22 @@
     },
     {
       "surface": "פעמים",
-      "gloss": "a daras"
+      "gloss": "maminsan"
     },
     {
       "surface": "תכה",
-      "gloss": "ti dadaemmo"
+      "gloss": "bebekem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti Aram"
+      "marks": "Aram"
     },
     {
       "surface": "ארם",
       "gloss": "Aram"
     }
   ],
-  "timestamp": "2026-09-26T13:49:54.609107936Z",
+  "timestamp": "2026-09-27T01:09:52.657227924Z",
   "model": "glm-5.3"
 }

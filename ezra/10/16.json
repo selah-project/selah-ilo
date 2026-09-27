@@ -5,11 +5,11 @@
   "book": "ezra",
   "lang": "ilo",
   "chapter": 10,
-  "translation": "Ket kasta ti inaramid dagiti anak ti panagpaili; ket insina ni Ezra ti padi dagiti lallaki, dagiti daulo dagiti am-ama, maipapan iti balay dagiti ammada, aminanda babaen kadagiti nagan; ket nagtugawda iti maysa nga aldaw ti maikasangapulo a bulan, ni Dario, a sukimatenda ti sao.",
+  "translation": "Inaramidda kasta dagiti annak ti panagpatalaw, ket naginaelda ni Ezra ti padi, dagiti lallaki a ulo kadagiti amma, iti balay dagiti ammada, ken amin da kadagiti nagannda, ket nagtugayda iti maysa nga aldaw ti maikasangapulo a bulan, ni Daryosh, ti sao.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "ket inaramid"
+      "gloss": "inaramidda"
     },
     {
       "surface": "כן",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "בני",
-      "gloss": "dagiti anak"
+      "gloss": "dagiti annak"
     },
     {
       "surface": "הגולה",
-      "gloss": "ti panagpaili"
+      "gloss": "ti panagpatalaw"
     },
     {
-      "surface": "ובדלו ל",
-      "gloss": ""
+      "surface": "ויבדלו",
+      "gloss": "naginaelda"
     },
     {
       "surface": "עזרא",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "dagiti daulo"
+      "gloss": "ulo"
     },
     {
       "surface": "האבות",
-      "gloss": "dagiti am-ama"
+      "gloss": "kadagiti amma"
     },
     {
       "surface": "לבית",
-      "gloss": "maipapan iti balay"
+      "gloss": "iti balay"
     },
     {
       "surface": "אבתם",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "וכלם",
-      "gloss": "aminanda"
+      "gloss": "ken amin da"
     },
     {
       "surface": "בשמות",
-      "gloss": "babaen kadagiti nagan"
+      "gloss": "kadagiti nagan"
     },
     {
       "surface": "וישבו",
-      "gloss": "ket nagtugawda"
+      "gloss": "nagtugayda"
     },
     {
       "surface": "ביום",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "אחד",
-      "gloss": "a maysa"
+      "gloss": "maysa"
     },
     {
       "surface": "לחדש",
-      "gloss": "iti bulan"
+      "gloss": "ti maikasangapulo a bulan"
     },
     {
       "surface": "העשירי",
@@ -85,13 +85,13 @@
     },
     {
       "surface": "לדריוש",
-      "gloss": "ni Dario"
+      "gloss": "ni Daryosh"
     },
     {
       "surface": "הדבר",
       "gloss": "ti sao"
     }
   ],
-  "timestamp": "2026-09-26T23:26:54.773943736Z",
+  "timestamp": "2026-09-27T01:14:10.368707394Z",
   "model": "glm-5.3"
 }

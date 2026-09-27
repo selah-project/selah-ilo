@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "Kinuna ti tao kenni Eli: Siak ti immay manipud iti gubat, ken siak ita nga aldaw immayak nga nagtaray manipud iti gubat. Ket kinunana: Ania ti napasamak, anakko?",
+  "translation": "Kinuna ti lalaki kenni Eli: Siak ti immay manipud iti gubat, ket siak manipud iti gubat immayak nga agtaray ita nga aldaw. Ket kinunana: Ania ti napasamak, anakko?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "אל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "manipud"
+      "gloss": "manipud iti"
     },
     {
       "surface": "המערכה",
-      "gloss": "iti gubat"
+      "gloss": "gubat"
     },
     {
       "surface": "ואני",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "manipud"
+      "gloss": "manipud iti"
     },
     {
       "surface": "המערכה",
-      "gloss": "iti gubat"
+      "gloss": "gubat"
     },
     {
       "surface": "נסתי",
-      "gloss": "immayak nga nagtaray"
+      "gloss": "immayak nga agtaray"
     },
     {
       "surface": "היום",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "kinuna"
+      "gloss": "ket kinunana"
     },
     {
       "surface": "מה",
@@ -69,17 +69,17 @@
     },
     {
       "surface": "היה",
-      "gloss": "ti napasamak"
+      "gloss": "ti"
     },
     {
       "surface": "הדבר",
-      "gloss": "a banag"
+      "gloss": "napasamak"
     },
     {
       "surface": "בני",
       "gloss": "anakko"
     }
   ],
-  "timestamp": "2026-09-26T10:33:09.713054311Z",
+  "timestamp": "2026-09-27T01:09:00.241417153Z",
   "model": "glm-5.3"
 }

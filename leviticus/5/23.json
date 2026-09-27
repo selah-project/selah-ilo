@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "ket mangrugi no managbasol ⟨isuna⟩ ket nagsagana iti bileg ti basolna: isublinna ⟨את⟩ ti tinakaw a kinua ti panagtakaw, wenno ⟨את⟩ ti dinakes a kinua ti panangdakes, wenno ⟨את⟩ ti deposito a naited ⟨iti⟩ kenkuana, wenno ⟨את⟩ ti naperdi a banag a nasarvana;",
+  "translation": "ket mapasamak no adda nakabasol isuna, ket isublinana ti ⟨את⟩ natalakawan a banag a tinakawna, wenno ⟨את⟩ ti dindegganna a panangiddeg, wenno ⟨את⟩ ti naidulin kenkuana a deposito, wenno ⟨את⟩ ti naipukaw a banag a nabirukanna,",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ket mangrugi"
+      "gloss": "ket mapasamak"
     },
     {
       "surface": "כי",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "יחטא",
-      "gloss": "managbasol"
+      "gloss": "adda nakabasol isuna"
     },
     {
       "surface": "ואשם",
-      "gloss": "ket nagsagana iti bileg ti basolna"
+      "gloss": "ket nakabasol"
     },
     {
       "surface": "והשיב",
-      "gloss": "isublinna"
+      "gloss": "ket isublinana"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti tinakaw"
+      "marks": "ti natalakawan a banag"
     },
     {
       "surface": "הגזלה",
-      "gloss": "ti tinakaw"
+      "gloss": "ti natalakawan a banag"
     },
     {
       "surface": "אשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "גזל",
-      "gloss": "kinua ti panagtakaw"
+      "gloss": "tinakawna"
     },
     {
       "surface": "או",
@@ -51,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti dinakes"
+      "marks": "ti panangiddeg"
     },
     {
       "surface": "העשק",
-      "gloss": "ti dinakes"
+      "gloss": "ti panangiddeg"
     },
     {
       "surface": "אשר",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "עשק",
-      "gloss": "kinua ti panangdakes"
+      "gloss": "dindegganna"
     },
     {
       "surface": "או",
@@ -84,11 +84,11 @@
     },
     {
       "surface": "הפקד",
-      "gloss": "naited"
+      "gloss": "naidulin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ kenkuana"
     },
     {
       "surface": "או",
@@ -97,11 +97,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti naperdi a banag"
+      "marks": "ti naipukaw a banag"
     },
     {
       "surface": "האבדה",
-      "gloss": "ti naperdi a banag"
+      "gloss": "ti naipukaw a banag"
     },
     {
       "surface": "אשר",
@@ -109,9 +109,9 @@
     },
     {
       "surface": "מצא",
-      "gloss": "nasarvana"
+      "gloss": "nabirukanna"
     }
   ],
-  "timestamp": "2026-09-26T05:05:34.584275273Z",
+  "timestamp": "2026-09-27T01:21:06.498160158Z",
   "model": "glm-5.3"
 }

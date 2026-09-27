@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ilo",
   "chapter": 44,
-  "translation": "Kanti, dagiti langit, ta inaramid ni Yahweh; agpukkawkayo, dagiti nauneg ti daga; sumrek kadagiti kanta, bantay; bakir ken amin a kayo iti unegna — ta nangisalakan ni Yahweh ⟨את⟩ Yaakov, ken iti Yisrael agpadaydayaw.",
+  "translation": "Kantakayo, dagiti langit, ta inaramid ni Yahweh ⟨daytoy⟩; agpukpukawakayo, dagiti nauneg ti daga; bumtakayo iti kanta, dagiti bantay, ti kataltalunan ken ti amin a kayona; ta intubbot ni Yahweh ni Yaakov, ken iti Yisrael agdaydayawanna.",
   "tokens": [
     {
       "surface": "רנו",
-      "gloss": "Kanti"
+      "gloss": "Kantakayo"
     },
     {
       "surface": "שמים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "הריעו",
-      "gloss": "agpukkawkayo"
+      "gloss": "agpukpukawakayo"
     },
     {
       "surface": "תחתיות",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "פצחו",
-      "gloss": "sumrekkayo"
+      "gloss": "bumtakayo iti kanta"
     },
     {
       "surface": "הרים",
-      "gloss": "kadagiti kanta, bantay"
+      "gloss": "dagiti bantay"
     },
     {
       "surface": "רנה",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "יער",
-      "gloss": "bakir"
+      "gloss": "ti kataltalunan"
     },
     {
       "surface": "וכל",
-      "gloss": "ken amin"
+      "gloss": "ken ti amin"
     },
     {
       "surface": "עץ",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "iti unegna"
+      "gloss": "na"
     },
     {
       "surface": "כי",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "גאל",
-      "gloss": "nangisalakan"
+      "gloss": "intubbot"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakov"
+      "gloss": "ni Yaakov"
     },
     {
       "surface": "ובישראל",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "יתפאר",
-      "gloss": "agpadaydayaw"
+      "gloss": "agdaydayawanna"
     }
   ],
-  "timestamp": "2026-09-26T22:07:34.395233734Z",
+  "timestamp": "2026-09-27T01:15:39.438658003Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 22,
-  "translation": "ket ipasangoanda ⟨את⟩ ida iti basol ti akemda no manganda ⟨את⟩ dagiti nasantuan a banagda; ta siak kenni Yahweh ti nagsantuan kaniada.",
+  "translation": "ket pagbasolandanda ⟨את⟩ isuda ti basol ti nakabasolan no manganda ⟨את⟩ kadagiti nasantuanda, ta siak ti Yahweh a mangisantuan kaniada.",
   "tokens": [
     {
       "surface": "והשיאו",
-      "gloss": "ket ipasangoanda"
+      "gloss": "ket pagbasolandanda"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ida",
-      "marks": "basol ti akemda"
+      "gloss": "⟨את⟩ isuda",
+      "marks": "ti basol (עון)"
     },
     {
       "surface": "עון",
-      "gloss": "iti basol"
+      "gloss": "ti basol"
     },
     {
       "surface": "אשמה",
-      "gloss": "ti akemda"
+      "gloss": "ti nakabasolan"
     },
     {
       "surface": "באכלם",
@@ -31,11 +31,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti nasantuan a banagda"
+      "marks": "kadagiti nasantuanda"
     },
     {
       "surface": "קדשיהם",
-      "gloss": "dagiti nasantuan a banagda"
+      "gloss": "kadagiti nasantuanda"
     },
     {
       "surface": "כי",
@@ -47,13 +47,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "kenni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "מקדשם",
-      "gloss": "ti nagsantuan kaniada"
+      "gloss": "a mangisantuan kaniada"
     }
   ],
-  "timestamp": "2026-09-26T05:45:25.521382331Z",
+  "timestamp": "2026-09-27T01:20:35.025786397Z",
   "model": "glm-5.3"
 }

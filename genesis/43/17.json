@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 43,
-  "translation": "Kinemmem ti tao a kas iti imbag ni Yosef, ket impanna dagiti tao ⟨את⟩ iti balay ni Yosef.",
+  "translation": "ket inaramid ti lalaki kas iti imbagana ni Yosef, ket ipan ti lalaki ⟨את⟩ dagiti lallaki iti balay ni Yosef.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "kinemmem"
+      "gloss": "ket inaramid"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "כאשר",
-      "gloss": "a kas iti"
+      "gloss": "kas iti"
     },
     {
       "surface": "אמר",
-      "gloss": "imbag"
+      "gloss": "imbagana"
     },
     {
       "surface": "יוסף",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "impanna"
+      "gloss": "ket ipan"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti tao"
+      "marks": "dagiti lallaki"
     },
     {
       "surface": "האנשים",
-      "gloss": "dagiti tao"
+      "gloss": "dagiti lallaki"
     },
     {
       "surface": "ביתה",
@@ -53,6 +53,6 @@
       "gloss": "ni Yosef"
     }
   ],
-  "timestamp": "2026-09-26T03:05:37.110680338Z",
+  "timestamp": "2026-09-27T01:14:40.693473535Z",
   "model": "glm-5.3"
 }

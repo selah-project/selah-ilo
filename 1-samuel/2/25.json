@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 2,
-  "translation": "No agbasol ti maysa a tao iti sabali a tao, ipatarus ni Elohim; ngem no agbasol ti maysa a tao kenni Yahweh, asinto ti agkararag kadakuana? Ket saanda a nangngeg iti timek ti amada, ta kayat ni Yahweh a patayenda.",
+  "translation": "No ti lalaki agbasol iti lalaki, ti Elohim ti agukom kenkuana; ngem no ti lalaki agbasol kenni Yahweh, asino ti agkararua kenkuana? Ket saanda a nangngeg ti timek ti amada, ta kayat ni Yahweh a patayenda.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "No"
+      "gloss": "no"
     },
     {
       "surface": "יחטא",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "לאיש",
-      "gloss": "iti sabali a tao"
+      "gloss": "iti lalaki"
     },
     {
       "surface": "ופללו",
-      "gloss": "ipatarus"
+      "gloss": "ti agukom"
     },
     {
       "surface": "אלהים",
-      "gloss": "ni Elohim"
+      "gloss": "ti Elohim"
     },
     {
       "surface": "ואם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "מי",
@@ -53,23 +53,23 @@
     },
     {
       "surface": "יתפלל",
-      "gloss": "ti agkararag"
+      "gloss": "ti agkararua"
     },
     {
       "surface": "לו",
-      "gloss": "kadakuana"
+      "gloss": "kenkuana"
     },
     {
       "surface": "ולא",
-      "gloss": "Ket saan"
+      "gloss": "ket saanda"
     },
     {
       "surface": "ישמעו",
-      "gloss": "da nangngeg"
+      "gloss": "a nangngeg"
     },
     {
       "surface": "לקול",
-      "gloss": "iti timek"
+      "gloss": "ti timek"
     },
     {
       "surface": "אביהם",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "kayat"
+      "gloss": "kayatna"
     },
     {
       "surface": "יהוה",
@@ -92,6 +92,6 @@
       "gloss": "a patayenda"
     }
   ],
-  "timestamp": "2026-09-26T10:27:08.176793253Z",
+  "timestamp": "2026-09-27T01:24:00.164317223Z",
   "model": "glm-5.3"
 }

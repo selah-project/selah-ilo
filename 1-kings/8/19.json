@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 8,
-  "translation": "Nupay kasta, sika ti saan a mangibangon iti balay; no di ket ti anakmo a lalaki a rumuar manipud iti bassitmo, isu ti mangibangon iti balay para iti naganek.",
+  "translation": "Ngem sika, saanmo a patarusen ti balay; no di kasta ti anakmo a rumuar manipud iti chalatsmo, isu ti mangipatarus ⟨iti⟩ balay para iti naganko.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "nupay kasta"
+      "gloss": "ngem"
     },
     {
       "surface": "אתה",
@@ -17,35 +17,35 @@
     },
     {
       "surface": "לא",
-      "gloss": "saan"
+      "gloss": "saanmo"
     },
     {
       "surface": "תבנה",
-      "gloss": "mangibangon"
+      "gloss": "a patarusen"
     },
     {
       "surface": "הבית",
-      "gloss": "iti balay"
+      "gloss": "ti balay"
     },
     {
       "surface": "כי",
-      "gloss": "no di ket"
+      "gloss": ";"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "no di kasta"
     },
     {
       "surface": "בנך",
-      "gloss": "anakmo a lalaki"
+      "gloss": "ti anakmo"
     },
     {
       "surface": "היצא",
-      "gloss": "rumuar"
+      "gloss": "a rumuar"
     },
     {
       "surface": "מחלציך",
-      "gloss": "manipud iti bassitmo"
+      "gloss": "manipud iti chalatsmo"
     },
     {
       "surface": "הוא",
@@ -53,17 +53,17 @@
     },
     {
       "surface": "יבנה",
-      "gloss": "mangibangon"
+      "gloss": "ti mangipatarus"
     },
     {
       "surface": "הבית",
-      "gloss": "iti balay"
+      "gloss": "⟨iti⟩ balay"
     },
     {
       "surface": "לשמי",
-      "gloss": "para iti naganek"
+      "gloss": "para iti naganko"
     }
   ],
-  "timestamp": "2026-09-26T12:39:23.680524882Z",
+  "timestamp": "2026-09-27T01:07:36.995781353Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ilo",
   "chapter": 44,
-  "translation": "Gapu ta nangiserbidada idiay ti sanguanda dagiti didiosenda, ket nagbalinanda a pagtinnagawan ti basol iti balay ni Yisrael — isu a nangirayko ti imak kadakuada, ti kinuna ni Adonay Yahweh — ket agdandanto ti basolda.",
+  "translation": "Gapu ta nangserbida da kadakuada ⟨את⟩ iti sango dagiti didiosenda, ken nagbalin da iti balay ni Yisrael a pagtumngek iti basol; isu a nangatoek ti imak kadakuada, kinuna ni Adonay Yahweh, ket agdandanda ti basolda.",
   "tokens": [
     {
       "surface": "יען",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ta"
     },
     {
       "surface": "ישרתו",
-      "gloss": "nangiserbidada"
+      "gloss": "nangserbida da"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "idiay ti sanguanda dagiti didiosenda"
+      "marks": "kadakuada (dagiti umili)"
     },
     {
       "surface": "לפני",
-      "gloss": "idiay ti sanguanda"
+      "gloss": "iti sango"
     },
     {
       "surface": "גלוליהם",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והיו",
-      "gloss": "ket nagbalinanda"
+      "gloss": "ken nagbalin da"
     },
     {
       "surface": "לבית",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "למכשול",
-      "gloss": "a pagtinnagawan"
+      "gloss": "a pagtumngek"
     },
     {
       "surface": "עון",
-      "gloss": "ti basol"
+      "gloss": "iti basol"
     },
     {
       "surface": "על",
-      "gloss": "isu"
+      "gloss": "isu a"
     },
     {
       "surface": "כן",
-      "gloss": "a"
+      "gloss": "ken"
     },
     {
       "surface": "נשאתי",
-      "gloss": "nangirayko"
+      "gloss": "nangatoek"
     },
     {
       "surface": "ידי",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "ti kinuna"
+      "gloss": "kinuna"
     },
     {
       "surface": "אדני",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "ונשאו",
-      "gloss": "ket agdandanto"
+      "gloss": "ket agdandanda"
     },
     {
       "surface": "עונם",
       "gloss": "ti basolda"
     }
   ],
-  "timestamp": "2026-09-26T19:27:13.803910950Z",
+  "timestamp": "2026-09-27T01:13:36.032671552Z",
   "model": "glm-5.3"
 }

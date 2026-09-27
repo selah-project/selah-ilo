@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "ilo",
   "chapter": 10,
-  "translation": "Ket immallintiaw ak ken simmrekak manipud iti bantay, ket inkabilko ⟨את⟩ dagiti lames iti arko nga inaramidko, ket adda da sadiay, kas iti bilin ni Yahweh kaniak.",
+  "translation": "ket nagsubliak ket nagbabaak manipud iti bantay, ket inkabilko ⟨את⟩ dagiti lammek iti arko nga inaramidek, ket agnanaedda sadiay, kas ti bilin ni Yahweh kaniak.",
   "tokens": [
     {
       "surface": "ואפן",
-      "gloss": "immallintiaw ak"
+      "gloss": "ket nagsubliak"
     },
     {
       "surface": "וארד",
-      "gloss": "simmrekak"
+      "gloss": "ket nagbabaak"
     },
     {
       "surface": "מן",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "ואשם",
-      "gloss": "inkabilko"
+      "gloss": "ket inkabilko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti lames"
+      "marks": "dagiti lammek"
     },
     {
       "surface": "הלחת",
-      "gloss": "dagiti lames"
+      "gloss": "dagiti lammek"
     },
     {
       "surface": "בארון",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "inaramidko"
+      "gloss": "inaramidek"
     },
     {
       "surface": "ויהיו",
-      "gloss": "adda da"
+      "gloss": "ket agnanaedda"
     },
     {
       "surface": "שם",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kas iti"
+      "gloss": "kas"
     },
     {
       "surface": "צוני",
-      "gloss": "bilinna kaniak"
+      "gloss": "ti bilinna kaniak"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T22:01:14.344924028Z",
+  "timestamp": "2026-09-27T01:11:12.622279611Z",
   "model": "glm-5.3"
 }

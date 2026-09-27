@@ -5,24 +5,24 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 43,
-  "translation": "Ken ⟨את⟩ ti kabsaryo alayen, ken agtakderkayo, agsublikayo iti tao.",
+  "translation": "Ken alaeyo ⟨את⟩ ti kabsatyo, ket agtakderkayo, agsublikayo iti daydiay lalaki.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "ti kabsaryo"
+      "marks": "ti kabsatyo"
     },
     {
       "surface": "אחיכם",
-      "gloss": "kabsaryo"
+      "gloss": "ti kabsatyo"
     },
     {
       "surface": "קחו",
-      "gloss": "alayen"
+      "gloss": "alaeyo"
     },
     {
       "surface": "וקומו",
-      "gloss": "ken agtakderkayo"
+      "gloss": "agtakderkayo"
     },
     {
       "surface": "שובו",
@@ -34,9 +34,9 @@
     },
     {
       "surface": "האיש",
-      "gloss": "tao"
+      "gloss": "daydiay lalaki"
     }
   ],
-  "timestamp": "2026-09-26T03:06:46.083070533Z",
+  "timestamp": "2026-09-27T01:14:41.350232303Z",
   "model": "glm-5.3"
 }

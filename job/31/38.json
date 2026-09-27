@@ -5,8 +5,37 @@
   "book": "job",
   "lang": "ilo",
   "chapter": 31,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-26T22:57:59.492354635Z",
+  "translation": "No ti daga-ko umawag kontra kenkuak, ken dagiti talonna agsangitda a kadua,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kontra kenkuak"
+    },
+    {
+      "surface": "אדמתי",
+      "gloss": "ti daga-ko"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "umawag"
+    },
+    {
+      "surface": "ויחד",
+      "gloss": "ken a kadua"
+    },
+    {
+      "surface": "תלמיה",
+      "gloss": "dagiti talonna"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "agsangitda"
+    }
+  ],
+  "timestamp": "2026-09-27T01:17:33.399758396Z",
   "model": "glm-5.3"
 }

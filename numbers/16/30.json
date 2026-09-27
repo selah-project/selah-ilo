@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "ilo",
   "chapter": 16,
-  "translation": "Ngem no agparsua ni Yahweh ti baro a banag, ken ti daga lukatanna ⟨את⟩ ngiwatna ket bambammatonna ⟨את⟩ daida ken ⟨את⟩ amin a banag nga anda, ket agbabaenda a sibibiag iti Sheol, ammoyonto a tinuyawda dagiti tao a dagitoy ⟨את⟩ ni Yahweh.",
+  "translation": "No ti maysa a baro a pinarsua ti aramiden ni Yahweh, ken maikkat ti daga ⟨ti⟩ ngiwatna ken lutnegennda ⟨את⟩ ida ken ⟨את⟩ amin a kukuada, ket mapanda bababas a sibibiag iti Sheol, ket ammoyonto a dagitoy a lallaki ket dinaydayawanda ⟨את⟩ ni Yahweh.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Ngem no"
+      "gloss": "no"
     },
     {
       "surface": "בריאה",
-      "gloss": "baro a banag"
+      "gloss": "baro a pinarsua"
     },
     {
       "surface": "יברא",
-      "gloss": "agparsua"
+      "gloss": "aramiden"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ופצתה",
-      "gloss": "ket lukatanna"
+      "gloss": "ken maikkat"
     },
     {
       "surface": "האדמה",
@@ -34,25 +34,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ngiwatna"
+      "marks": "ti ngiwatna"
     },
     {
       "surface": "פיה",
-      "gloss": "ngiwatna"
+      "gloss": "ti ngiwatna"
     },
     {
       "surface": "ובלעה",
-      "gloss": "ket bambammatonna"
+      "gloss": "ken lutnegennda"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "daida"
+      "marks": "ida"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "amin a banag nga anda"
+      "marks": "amin a kukuada"
     },
     {
       "surface": "כל",
@@ -60,15 +60,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "a"
     },
     {
       "surface": "להם",
-      "gloss": "anda"
+      "gloss": "kukuada"
     },
     {
       "surface": "וירדו",
-      "gloss": "ket agbabaenda"
+      "gloss": "ket mapanda bababas"
     },
     {
       "surface": "חיים",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "וידעתם",
-      "gloss": "ammoyonto"
+      "gloss": "ket ammoyonto"
     },
     {
       "surface": "כי",
@@ -88,15 +88,15 @@
     },
     {
       "surface": "נאצו",
-      "gloss": "tinuyawda"
+      "gloss": "dinaydayawanda"
     },
     {
       "surface": "האנשים",
-      "gloss": "dagiti tao"
+      "gloss": "dagiti lallaki"
     },
     {
       "surface": "האלה",
-      "gloss": "a dagitoy"
+      "gloss": "dagitoy"
     },
     {
       "surface": "את",
@@ -108,6 +108,6 @@
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T06:45:03.389205553Z",
+  "timestamp": "2026-09-27T01:22:16.705406228Z",
   "model": "glm-5.3"
 }

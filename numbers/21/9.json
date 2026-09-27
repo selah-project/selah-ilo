@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ilo",
   "chapter": 21,
-  "translation": "Inaramid ni Moshe ti uleg a tanso ken inayona iti poste, ket napasamak, no nakagat ti uleg ⟨ti⟩ ⟨את⟩ maysa a tao, ket immatangna iti uleg a tanso, ket nagbiag.",
+  "translation": "Pinataud ni Moshe ti maysa nga uleg a gambang ken inyakarna iti ngato ti poste; ket napasamak, no nengat ti uleg ⟨את⟩ ti maysa a lalaki, ket nangiturong a kinitana ti uleg a gambang — nagbiag.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "inaramid"
+      "gloss": "Pinataud"
     },
     {
       "surface": "משה",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "נחש",
-      "gloss": "ti uleg"
+      "gloss": "ti maysa nga uleg"
     },
     {
       "surface": "נחשת",
-      "gloss": "a tanso"
+      "gloss": "a gambang"
     },
     {
       "surface": "וישמהו",
-      "gloss": "ken inayona"
+      "gloss": "ken inyakarna"
     },
     {
       "surface": "על",
-      "gloss": "iti"
+      "gloss": "iti ngato"
     },
     {
       "surface": "הנס",
-      "gloss": "poste"
+      "gloss": "ti poste"
     },
     {
       "surface": "והיה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "נשך",
-      "gloss": "nakagat"
+      "gloss": "nengat"
     },
     {
       "surface": "הנחש",
@@ -54,19 +54,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maysa a tao"
+      "marks": "ti maysa a lalaki"
     },
     {
       "surface": "איש",
-      "gloss": "maysa a tao"
+      "gloss": "ti maysa a lalaki"
     },
     {
       "surface": "והביט",
-      "gloss": "ket immatangna"
+      "gloss": "ket nangiturong a kinitana"
     },
     {
       "surface": "אל",
-      "gloss": "iti"
+      "gloss": "ti"
     },
     {
       "surface": "נחש",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "a tanso"
+      "gloss": "a gambang"
     },
     {
       "surface": "וחי",
-      "gloss": "ket nagbiag"
+      "gloss": "nagbiag"
     }
   ],
-  "timestamp": "2026-09-26T06:49:29.984470988Z",
+  "timestamp": "2026-09-27T01:24:10.516091742Z",
   "model": "glm-5.3"
 }

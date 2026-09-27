@@ -5,70 +5,70 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Ken ⟨את⟩ ti nasukatananna manipud iti nasantuan a banag ket ibayadna, ken ⟨את⟩ ti paglimaanna ket inayonna ngato, ket itedna ⟨את⟩ dayta kenni ti padi; ket ti padi agpakpayaawanna kenkuana babaen ti karnero ti asam, ket mapatawar kenkuana.",
+  "translation": "Ken ⟨את⟩ ti nakabasolanna manipud iti nasantuan a banag ibayadanna, ken ⟨את⟩ ti maikalima a pasetna mainayonna iti ngatona, ken itedna daytoy iti padi; ken ti padi agipatawaranna kenkuana babaen iti karnero a lalaki ti asham, ket mapatawaran daytoy kenkuana.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ken ⟨את⟩",
-      "marks": "ti nasukatananna"
+      "gloss": "⟨את⟩ ken",
+      "marks": "ti nakabasolanna"
     },
     {
       "surface": "אשר",
-      "gloss": "ti"
+      "gloss": "ti nakabasolanna"
     },
     {
       "surface": "חטא",
-      "gloss": "nasukatananna"
+      "gloss": "nakabasolanna"
     },
     {
       "surface": "מן",
-      "gloss": "manipud"
+      "gloss": "manipud iti"
     },
     {
       "surface": "הקדש",
-      "gloss": "iti nasantuan a banag"
+      "gloss": "nasantuan a banag"
     },
     {
       "surface": "ישלם",
-      "gloss": "ket ibayadna"
+      "gloss": "ibayadanna"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "ti paglimaanna"
+      "marks": "ti maikalima a pasetna"
     },
     {
       "surface": "חמישתו",
-      "gloss": "ti paglimaanna"
+      "gloss": "ti maikalima a pasetna"
     },
     {
       "surface": "יוסף",
-      "gloss": "ket inayonna"
+      "gloss": "mainayonna"
     },
     {
       "surface": "עליו",
-      "gloss": "ngato"
+      "gloss": "iti ngatona"
     },
     {
       "surface": "ונתן",
-      "gloss": "ket itedna"
+      "gloss": "ken itedna"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "dayta"
+      "gloss": "⟨את⟩ daytoy",
+      "marks": "iti padi"
     },
     {
       "surface": "לכהן",
-      "gloss": "kenni ti padi"
+      "gloss": "iti padi"
     },
     {
       "surface": "והכהן",
-      "gloss": "ket ti padi"
+      "gloss": "ken ti padi"
     },
     {
       "surface": "יכפר",
-      "gloss": "agpakpayaawanna"
+      "gloss": "agipatawaranna"
     },
     {
       "surface": "עליו",
@@ -76,21 +76,21 @@
     },
     {
       "surface": "באיל",
-      "gloss": "babaen ti karnero"
+      "gloss": "karnero a lalaki"
     },
     {
       "surface": "האשם",
-      "gloss": "ti asam"
+      "gloss": "ti asham"
     },
     {
       "surface": "ונסלח",
-      "gloss": "ket mapatawar"
+      "gloss": "ket mapatawaran"
     },
     {
       "surface": "לו",
       "gloss": "kenkuana"
     }
   ],
-  "timestamp": "2026-09-26T05:06:45.814213216Z",
+  "timestamp": "2026-09-27T01:21:21.880505879Z",
   "model": "glm-5.3"
 }

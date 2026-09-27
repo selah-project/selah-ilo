@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Ket inyegda ⟨את⟩ dagiti didiosenda iti apoy, ta saan nga didiosen ida, no di ket ar-aramid ti imamenna ti tao, kayo ken bato; ken isu nga indadaelda.",
+  "translation": "ket innikkanda ⟨את⟩ dagiti diosda iti apoy, ta saan a dios dagitoy, no di ket inaramid ti imada ti tao, kayo ken bato; ket dadaelenda ida.",
   "tokens": [
     {
       "surface": "ונתנו",
-      "gloss": "ket inyegda"
+      "gloss": "innikkanda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti didiosenda"
+      "marks": "dagiti diosda"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "dagiti didiosenda"
+      "gloss": "dagiti diosda"
     },
     {
       "surface": "באש",
@@ -30,31 +30,31 @@
     },
     {
       "surface": "לא",
-      "gloss": "saan"
+      "gloss": "saan a"
     },
     {
       "surface": "אלהים",
-      "gloss": "nga didiosen"
+      "gloss": "dios"
     },
     {
       "surface": "המה",
-      "gloss": "ida"
+      "gloss": "dagitoy"
     },
     {
       "surface": "כי",
-      "gloss": "no di ket"
+      "gloss": "no di"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ket"
     },
     {
       "surface": "מעשה",
-      "gloss": "ar-aramid"
+      "gloss": "inaramid"
     },
     {
       "surface": "ידי",
-      "gloss": "ti imamenna"
+      "gloss": "ti imada"
     },
     {
       "surface": "אדם",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "ויאבדום",
-      "gloss": "ket indadaelda ida"
+      "gloss": "ket dadaelenda ida"
     }
   ],
-  "timestamp": "2026-09-26T14:05:35.396968129Z",
+  "timestamp": "2026-09-27T01:09:41.699077754Z",
   "model": "glm-5.3"
 }

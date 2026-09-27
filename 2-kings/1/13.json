@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 1,
-  "translation": "Ket nagsubli ⟨את⟩ ti Ari ket nangipatnan ti maikatlo a kappitan ti limapulo ken dagiti limapulona; ket nangato ken immay ti maikatlo a kappitan ti limapulo, ket nagtipdok iti tumenganna iti sanguanan ni Eliyahu, ket nagkararag kenkuana, ket nagsao kenkuana: Tao ti Elohim, mapateg koma, paki, ti kararwak ken ti kararua dagiti adipenmo — dagitoy a limapulo — kadagiti matam.",
+  "translation": "Ket nagsubli ⟨isuna⟩ ket immulogna ti maikatlo a kapitan ti limapulo a lallaki ken dagiti limapulo a lallakina; ket simmangpet isuna, ket immay ti kapitan ti maikatlo a limapulo, ket tinidepressna dagiti tuenna iti sango ni Eliyahu, ket naglimmenged isuna ⟨kaduana⟩, ket nagsao isuna kennuana: Lalaki ti Elohim, agbalin koma a baloradua ti kararuak ken ti kararua dagiti adipenmo daytoy a limapulo iti matam.",
   "tokens": [
     {
       "surface": "וישב",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "nangipatnan"
+      "gloss": "immulogna"
     },
     {
       "surface": "שר",
-      "gloss": "kappitan"
+      "gloss": "kapitan"
     },
     {
       "surface": "חמשים",
-      "gloss": "limapulo"
+      "gloss": "ti limapulo"
     },
     {
       "surface": "שלשים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "וחמשיו",
-      "gloss": "ken dagiti limapulona"
+      "gloss": "ken dagiti limapulo a lallakina"
     },
     {
       "surface": "ויעל",
-      "gloss": "nangato"
+      "gloss": "simmangpet"
     },
     {
       "surface": "ויבא",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "שר",
-      "gloss": "kappitan"
+      "gloss": "ti kapitan"
     },
     {
       "surface": "החמשים",
-      "gloss": "ti limapulo"
+      "gloss": "ti maikatlo a limapulo"
     },
     {
       "surface": "השלישי",
-      "gloss": "ti maikatlo"
+      "gloss": "maikatlo"
     },
     {
       "surface": "ויכרע",
-      "gloss": "nagtipdok"
+      "gloss": "tinidepressna"
     },
     {
       "surface": "על",
@@ -61,63 +61,63 @@
     },
     {
       "surface": "ברכיו",
-      "gloss": "tumenganna"
+      "gloss": "dagiti tuenna"
     },
     {
       "surface": "לנגד",
-      "gloss": "iti sanguanan"
+      "gloss": "iti sango"
     },
     {
       "surface": "אליהו",
-      "gloss": "Eliyahu"
+      "gloss": "ni Eliyahu"
     },
     {
       "surface": "ויתחנן",
-      "gloss": "nagkararag"
+      "gloss": "naglimmenged isuna"
     },
     {
       "surface": "אליו",
-      "gloss": "kenkuana"
+      "gloss": "kaduana"
     },
     {
       "surface": "וידבר",
-      "gloss": "nagsao"
+      "gloss": "nagsao isuna"
     },
     {
       "surface": "אליו",
-      "gloss": "kenkuana"
+      "gloss": "kennuana"
     },
     {
       "surface": "איש",
-      "gloss": "tao"
+      "gloss": "Lalaki"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "ti Elohim"
     },
     {
       "surface": "תיקר",
-      "gloss": "mapateg"
+      "gloss": "agbalin koma a baloradua"
     },
     {
       "surface": "נא",
-      "gloss": "paki"
+      "gloss": "koma"
     },
     {
       "surface": "נפשי",
-      "gloss": "kararwak"
+      "gloss": "ti kararuak"
     },
     {
       "surface": "ונפש",
-      "gloss": "kararua"
+      "gloss": "ken ti kararua"
     },
     {
       "surface": "עבדיך",
-      "gloss": "adipenmo"
+      "gloss": "dagiti adipenmo"
     },
     {
       "surface": "אלה",
-      "gloss": "dagitoy"
+      "gloss": "daytoy a"
     },
     {
       "surface": "חמשים",
@@ -125,9 +125,9 @@
     },
     {
       "surface": "בעיניך",
-      "gloss": "kadagiti matam"
+      "gloss": "iti matam"
     }
   ],
-  "timestamp": "2026-09-26T13:21:53.088398399Z",
+  "timestamp": "2026-09-27T01:10:06.698060243Z",
   "model": "glm-5.3"
 }

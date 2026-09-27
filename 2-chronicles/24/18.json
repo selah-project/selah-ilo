@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ilo",
   "chapter": 24,
-  "translation": "Ket iniikkatda ⟨את⟩ ti balay ni Yahweh, ti Elohim dagiti kakabsat da amma, ket inserbida da ⟨את⟩ dagiti Ashera ken ⟨את⟩ dagiti didiosen; ket adda rimmoy a bendision iti Yehudah ken iti Yerushalayim gapu iti daytoy a basolda.",
+  "translation": "ket pinanawanda ⟨את⟩ ti balay ni Yahweh, ti Elohim dagiti amaanda, ket nagserbida kadagiti ⟨את⟩ Asherim ken ⟨את⟩ dagiti idolo; ket napasamak ti kideng iti akinngato ni Yehudah ken Yerushalayim gapu iti daytoy a basolda.",
   "tokens": [
     {
       "surface": "ויעזבו",
-      "gloss": "iniikkatda"
+      "gloss": "pinanawanda"
     },
     {
       "surface": "את",
@@ -30,49 +30,49 @@
     },
     {
       "surface": "אבותיהם",
-      "gloss": "dagiti kakabsat da amma"
+      "gloss": "dagiti amaanda"
     },
     {
       "surface": "ויעבדו",
-      "gloss": "inserbida da"
+      "gloss": "ket nagserbida kadagiti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti Ashera"
+      "marks": "dagiti Asherim"
     },
     {
       "surface": "האשרים",
-      "gloss": "dagiti Ashera"
+      "gloss": "Asherim"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "dagiti didiosen"
+      "marks": "dagiti idolo"
     },
     {
       "surface": "העצבים",
-      "gloss": "dagiti didiosen"
+      "gloss": "dagiti idolo"
     },
     {
       "surface": "ויהי",
-      "gloss": "ket adda"
+      "gloss": "ket napasamak"
     },
     {
       "surface": "קצף",
-      "gloss": "rimmoy a bendision"
+      "gloss": "ti kideng"
     },
     {
       "surface": "על",
-      "gloss": "iti"
+      "gloss": "iti akinngato"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "ni Yehudah"
     },
     {
       "surface": "וירושלם",
-      "gloss": "ken iti Yerushalayim"
+      "gloss": "ken Yerushalayim"
     },
     {
       "surface": "באשמתם",
@@ -83,6 +83,6 @@
       "gloss": "daytoy"
     }
   ],
-  "timestamp": "2026-09-27T00:07:29.006923212Z",
+  "timestamp": "2026-09-27T01:08:48.639782339Z",
   "model": "glm-5.3"
 }

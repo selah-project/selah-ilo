@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ilo",
   "chapter": 22,
-  "translation": "Kinuna ti anghel ni Yahweh kenni Bilam: Umoka kadagiti tao, ngem ⟨את⟩ ti sao a saoek kenka — ⟨אתו⟩ ti saoem. Kalpasanna nagna ni Bilam a kadua dagiti pangulo ni Balak.",
+  "translation": "Kinuna ti anghel ni Yahweh kenni Bilam: mapanka kadua kadagiti lallaki, ngem ti sao laeng a sasaoenko kenka, ⟨isu⟩ ti saoem. Ket nagna ni Bilam kadua kadagiti daulo ni Balak.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "Umoka"
+      "gloss": "mapanka"
     },
     {
       "surface": "עם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "dagiti tao"
+      "gloss": "kadagiti lallaki"
     },
     {
       "surface": "ואפס",
-      "gloss": "ngem"
+      "gloss": "ngem laeng"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אדבר",
-      "gloss": "saoek"
+      "gloss": "sasaoenko"
     },
     {
       "surface": "אליך",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "תדבר",
-      "gloss": "saoem"
+      "gloss": "ti saoem"
     },
     {
       "surface": "וילך",
-      "gloss": "nagna"
+      "gloss": "ket nagna"
     },
     {
       "surface": "בלעם",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "שרי",
-      "gloss": "dagiti pangulo"
+      "gloss": "kadagiti daulo"
     },
     {
       "surface": "בלק",
       "gloss": "ni Balak"
     }
   ],
-  "timestamp": "2026-09-26T07:04:32.079735995Z",
+  "timestamp": "2026-09-27T01:21:55.311921550Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,97 @@
   "book": "ezekiel",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "Anak ti tao, no ti maysa a daga agbasol kaniak babaen ti panangrikna ti pannakailaksid, ken maiyaraty ti imak iti dayta ken nabennak koma iti dayta ti tungtungan ti tinapay, ket ipatulodko iti dayta ti bisin, ket ikkatkoma manipud iti dayta ti tao ken animal — ni Noach, Daniyel ken ni Iyob, isuda iti kinalintegda isalakanda ti bukodda a kararua, kinuna ni Adonay Yahweh.",
-  "tokens": [],
-  "timestamp": "2026-09-26T18:26:38.909669658Z",
+  "translation": "Anak ti tao, no ti daga agbasol kaniak nga agtalek a maibaba, ket iteddok ti imak iti dayta, ket dadaelenko ti tungkod ti tinapayna, ken ipatpatkor iti rinaaw, ken ikkatkonto manipud kennia ti tao ken ti ayup.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "agbasol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "למעל",
+      "gloss": "agtalek a maibaba"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "maibaba"
+    },
+    {
+      "surface": "ונטיתי",
+      "gloss": "ket iteddok ti imak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "imak"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ket dadaelenko"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkod"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ti tinapayna"
+    },
+    {
+      "surface": "והשלחתי",
+      "gloss": "ken ipatpatkor"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iti dayta"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "rinaaw"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ket ikkatkonto"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "manipud kennia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "ken ti ayup"
+    }
+  ],
+  "timestamp": "2026-09-27T01:13:11.811136140Z",
   "model": "glm-5.3"
 }

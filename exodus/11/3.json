@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 11,
-  "translation": "Itedna ni Yahweh ⟨את⟩ ti parabur ti umili kadagiti mata dagiti taga-Mitsrayim; met ti tao a ni Moshe ket dakkel unay iti daga ti Mitsrayim, kadagiti mata dagiti adipen ni Paro ken kadagiti mata ti umili.",
+  "translation": "Ken naited ni Yahweh ⟨את⟩ ti gracias ti umili kadagiti mata dagiti taga-Mitsrayim; ti lalaki a ni Moshe ket dakkel unay iti daga ti Mitsrayim, kadagiti mata dagiti adipen ni Paro ken kadagiti mata ti umili.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "itedna"
+      "gloss": "naited"
     },
     {
       "surface": "יהוה",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti parabur"
+      "marks": "ti gracias"
     },
     {
       "surface": "חן",
-      "gloss": "ti parabur"
+      "gloss": "gracias"
     },
     {
       "surface": "העם",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "גם",
-      "gloss": "met"
+      "gloss": "ket"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "משה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "ni Paro"
+      "gloss": "Paro"
     },
     {
       "surface": "ובעיני",
@@ -85,6 +85,6 @@
       "gloss": "ti umili"
     }
   ],
-  "timestamp": "2026-09-26T03:45:15.606921778Z",
+  "timestamp": "2026-09-27T01:11:48.618815214Z",
   "model": "glm-5.3"
 }

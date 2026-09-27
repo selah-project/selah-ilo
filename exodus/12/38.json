@@ -5,32 +5,28 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 12,
-  "translation": "Ket ⟨את⟩ immay pay ⟨אתם⟩ ti nakalkaldap a tao, adu unay, ken karnero ken baka, taraken a nadagsen unay.",
+  "translation": "Ken maysa a nalalaok nga adu a umili ti nangato ⟨את⟩ kaduada, ken karnero ken baka — dagiti tagikua nga animal, nakaro unay a dakdakkel.",
   "tokens": [
     {
-      "surface": "וגגם",
-      "gloss": ""
-    },
-    {
       "surface": "וגם",
-      "gloss": "ket immay pay"
+      "gloss": "ken maysa a"
     },
     {
       "surface": "ערב",
-      "gloss": "nakalkaldap a tao"
+      "gloss": "nalalaok"
     },
     {
       "surface": "רב",
-      "gloss": "adu unay"
+      "gloss": "adu"
     },
     {
       "surface": "עלה",
-      "gloss": "⟨את⟩ immay"
+      "gloss": "ti nangato"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ti nakalkaldap a tao, adu unay"
+      "gloss": "⟨את⟩",
+      "marks": "kaduada"
     },
     {
       "surface": "וצאן",
@@ -42,17 +38,17 @@
     },
     {
       "surface": "מקנה",
-      "gloss": "taraken"
+      "gloss": "dagiti tagikua nga animal"
     },
     {
       "surface": "כבד",
-      "gloss": "nadagsen"
+      "gloss": "nakaro unay a dakdakkel"
     },
     {
       "surface": "מאד",
-      "gloss": "unay"
+      "gloss": "nakaro unay a dakdakkel"
     }
   ],
-  "timestamp": "2026-09-26T03:48:33.088249789Z",
+  "timestamp": "2026-09-27T01:11:22.577249263Z",
   "model": "glm-5.3"
 }

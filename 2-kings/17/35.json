@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 17,
-  "translation": "Nangted iti ה maysa a tulag kenkuada ⟨אתם⟩ ni Yahweh ket binilinanda, a kuna: saankayo a maarereg kadagiti sabsabali a dios, ken saankayo a mangipalubos kadakuada, ken saankayo a mangserbi kadakuada, ken saankayo a mangsakripisio kadakuada.",
+  "translation": "Nagputon ni Yahweh ti tulag ⟨את⟩ kadakuada ket binilinana ida a kunkuna: saankayo a mabuteng kadagiti sabsabali a dios, saankayo nga agluktay kaniada, saankayo nga agserbi kaniada, ken saankayo a mangaramid iti sakripisio kaniada.",
   "tokens": [
     {
       "surface": "ויכרת",
-      "gloss": "nangted iti maysa a tulag"
+      "gloss": "nagputon"
     },
     {
       "surface": "יהוה",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kenkuada"
+      "gloss": "⟨את⟩",
+      "marks": "kadakuada"
     },
     {
       "surface": "ברית",
-      "gloss": "tulag"
+      "gloss": "ti tulag"
     },
     {
       "surface": "ויצום",
-      "gloss": "binilinanda"
+      "gloss": "ket binilinana"
     },
     {
       "surface": "לאמר",
-      "gloss": "a kuna"
+      "gloss": "a kunkuna"
     },
     {
       "surface": "לא",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "a maarereg"
+      "gloss": "a mabuteng"
     },
     {
       "surface": "אלהים",
@@ -46,27 +46,27 @@
     },
     {
       "surface": "אחרים",
-      "gloss": "sabsabali"
+      "gloss": "a sabsabali"
     },
     {
       "surface": "ולא",
-      "gloss": "ken saankayo"
+      "gloss": "saankayo"
     },
     {
       "surface": "תשתחוו",
-      "gloss": "a mangipalubos"
+      "gloss": "nga agluktay"
     },
     {
       "surface": "להם",
-      "gloss": "kadakuada"
+      "gloss": "kaniada"
     },
     {
       "surface": "ולא",
-      "gloss": "ken saankayo"
+      "gloss": "saankayo"
     },
     {
       "surface": "תעבדום",
-      "gloss": "a mangserbi kadakuada"
+      "gloss": "nga agserbi"
     },
     {
       "surface": "ולא",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "תזבחו",
-      "gloss": "a mangsakripisio"
+      "gloss": "a mangaramid iti sakripisio"
     },
     {
       "surface": "להם",
-      "gloss": "kadakuada"
+      "gloss": "kaniada"
     }
   ],
-  "timestamp": "2026-09-26T13:57:03.927566909Z",
+  "timestamp": "2026-09-27T01:10:09.163918851Z",
   "model": "glm-5.3"
 }

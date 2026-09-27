@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "No lemmengenda ti tao ti daga ⟨את⟩ dagiti matada manipud iti dayta a tao, iti panangitedna ti bukodna a bin-i iti Molech, a saanda a patayen ⟨את⟩ na —",
+  "translation": "No ipalemmenglalemengenda ti umili ti daga ⟨את⟩ dagiti matada manipud iti lalaki a dayta, iti panangitedna ti taudanna kenni Molekh, a saanda a patayen ⟨את⟩ kenkuana",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "העלם",
-      "gloss": "lemmengenda"
+      "gloss": "ipalemmenglalemengenda"
     },
     {
       "surface": "יעלימו",
-      "gloss": "a lemmengen"
+      "gloss": "ti umili"
     },
     {
       "surface": "עם",
-      "gloss": "ti tao"
+      "gloss": "ti umili ti"
     },
     {
       "surface": "הארץ",
-      "gloss": "ti daga"
+      "gloss": "daga"
     },
     {
       "surface": "את",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "manipud"
+      "gloss": "manipud iti"
     },
     {
       "surface": "האיש",
-      "gloss": "iti dayta a tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "ההוא",
-      "gloss": "dayta"
+      "gloss": "a dayta"
     },
     {
       "surface": "בתתו",
@@ -54,25 +54,26 @@
     },
     {
       "surface": "מזרעו",
-      "gloss": "ti bukodna a bin-i"
+      "gloss": "ti taudanna"
     },
     {
       "surface": "למלך",
-      "gloss": "iti Molech"
+      "gloss": "kenni Molekh"
     },
     {
       "surface": "לבלתי",
-      "gloss": "a saanda"
+      "gloss": "a saanda a"
     },
     {
       "surface": "המית",
-      "gloss": "a patayen"
+      "gloss": "patayen"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ na"
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
     }
   ],
-  "timestamp": "2026-09-26T05:47:16.576380161Z",
+  "timestamp": "2026-09-27T01:19:45.486756868Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 18,
-  "translation": "Kinapili ni Moshe dagiti lallaki nga addaan bileg manipud iti amin nga Yisrael, ket inaramidda nga ulo iti iggid ti百姓 — saan: ket initedna ida a kas dagiti ulo iti ngato ti umili, dagiti apo iti sangaribu, dagiti apo iti sangagasut, dagiti apo iti limapulo, ken dagiti apo iti sangapulo.",
+  "translation": "Ken pinili ni Moshe dagiti lallaki nga addaan bileg manipud iti amin a Yisrael, ket initedna ⟨את⟩ da a kas dagiti tugaw iti umili, dagiti daulo ti sangaribu, dagiti daulo ti dagiti gasut, dagiti daulo ti limapulo, ken dagiti daulo ti sangapulo.",
   "tokens": [
     {
       "surface": "ויבחר",
-      "gloss": "kinapili"
+      "gloss": "ken pinili"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חיל",
-      "gloss": "nga addaan bileg"
+      "gloss": "ngaan addaan bileg"
     },
     {
       "surface": "מכל",
@@ -33,58 +33,58 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "initedna"
+      "gloss": "ket initedna"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ida"
+      "marks": "da (dagiti tugaw)"
     },
     {
       "surface": "ראשים",
-      "gloss": "a kas dagiti ulo"
+      "gloss": "a kas dagiti tugaw"
     },
     {
       "surface": "על",
-      "gloss": "iti ngato"
+      "gloss": "iti"
     },
     {
       "surface": "העם",
-      "gloss": "ti umili"
+      "gloss": "umili"
     },
     {
       "surface": "שרי",
-      "gloss": "dagiti apo"
+      "gloss": "dagiti daulo ti"
     },
     {
       "surface": "אלפים",
-      "gloss": "iti sangaribu"
+      "gloss": "sangaribu"
     },
     {
       "surface": "שרי",
-      "gloss": "dagiti apo"
+      "gloss": "dagiti daulo ti"
     },
     {
       "surface": "מאות",
-      "gloss": "iti sangagasut"
+      "gloss": "dagiti gasut"
     },
     {
       "surface": "שרי",
-      "gloss": "dagiti apo"
+      "gloss": "dagiti daulo ti"
     },
     {
       "surface": "חמשים",
-      "gloss": "iti limapulo"
+      "gloss": "limapulo"
     },
     {
       "surface": "ושרי",
-      "gloss": "ken dagiti apo"
+      "gloss": "ken dagiti daulo ti"
     },
     {
       "surface": "עשרת",
-      "gloss": "iti sangapulo"
+      "gloss": "sangapulo"
     }
   ],
-  "timestamp": "2026-09-26T04:01:13.051362850Z",
+  "timestamp": "2026-09-27T01:12:36.579134600Z",
   "model": "glm-5.3"
 }

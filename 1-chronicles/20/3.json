@@ -5,10 +5,10 @@
   "book": "1-chronicles",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "Ken ⟨את⟩ ti umili a adda iti unegna inruarna, ket pinutedna kadagiti lagari ken kadagiti balaod ti landok ken kadagiti lagari; ken kasta aramidenna ni David kadagiti amin nga ili dagiti anak ni Ammon; ket agsubli ni David ken ti amin nga umili iti Yerushalayim.",
+  "translation": "Ken ⟨את⟩ ti umili a adda idiay dayta inruarna, ket ginutolna babaen ti serra ken dagiti palakol a landok ken dagiti serra; ket kastoy ti aramid ni David kadagiti amin a ili dagiti anak ni Amon; ket agsubli ni David ken amin ti umili idiay Yerushalayim.",
   "tokens": [
     {
-      "surface": "וית",
+      "surface": "ואת",
       "gloss": "ken ⟨את⟩",
       "marks": "ti umili"
     },
@@ -22,7 +22,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "iti unegna"
+      "gloss": "idiay dayta"
     },
     {
       "surface": "הוציא",
@@ -30,31 +30,31 @@
     },
     {
       "surface": "וישר",
-      "gloss": "pinutedna"
+      "gloss": "ket ginutolna"
     },
     {
       "surface": "במגרה",
-      "gloss": "kadagiti lagari"
+      "gloss": "iti serra"
     },
     {
       "surface": "ובחריצי",
-      "gloss": "kadagiti balaod"
+      "gloss": "ken dagiti palakol"
     },
     {
       "surface": "הברזל",
-      "gloss": "ti landok"
+      "gloss": "a landok"
     },
     {
       "surface": "ובמגרות",
-      "gloss": "kadagiti lagari"
+      "gloss": "ken dagiti serra"
     },
     {
       "surface": "וכן",
-      "gloss": "ket kasta"
+      "gloss": "ket kastoy"
     },
     {
       "surface": "יעשה",
-      "gloss": "aramidenna"
+      "gloss": "ti aramid"
     },
     {
       "surface": "דויד",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ערי",
-      "gloss": "nga ili"
+      "gloss": "ili"
     },
     {
       "surface": "בני",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "עמון",
-      "gloss": "ni Ammon"
+      "gloss": "ni Amon"
     },
     {
       "surface": "וישב",
-      "gloss": "agsubli"
+      "gloss": "ket agsubli"
     },
     {
       "surface": "דויד",
@@ -86,17 +86,17 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ken ti amin"
+      "gloss": "ken amin"
     },
     {
       "surface": "העם",
-      "gloss": "nga umili"
+      "gloss": "ti umili"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yerushalayim"
+      "gloss": "idiay Yerushalayim"
     }
   ],
-  "timestamp": "2026-09-26T23:41:14.175558904Z",
+  "timestamp": "2026-09-27T01:07:45.841316929Z",
   "model": "glm-5.3"
 }

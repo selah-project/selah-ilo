@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Saan a makaala ti ima ⟨iti⟩ dayta, ta maisagana no bato wenno barit ti agpada; no animal wenno tao, saan a maibiag; no agatiddog ti timek ti yobel, isuda ti sumangpet iti bantay.",
+  "translation": "Saanan a matalmekan iti ima, ta no maisagsagana maipaltog wenno mabalintod; no akka or no tao, saan a maudyat; no umad-adu ti timek ti yobel, isuda sumangpetda bantay.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "תגע",
-      "gloss": "makaala"
+      "gloss": "matalmekan"
     },
     {
       "surface": "בו",
-      "gloss": "iti dayta"
+      "gloss": "iti"
     },
     {
       "surface": "יד",
-      "gloss": "ti ima"
+      "gloss": "ima"
     },
     {
       "surface": "כי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "סקול",
-      "gloss": "bato"
+      "gloss": "maisagsagana"
     },
     {
       "surface": "יסקל",
-      "gloss": "maisagana"
+      "gloss": "maipaltog"
     },
     {
       "surface": "או",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ירה",
-      "gloss": "barit"
+      "gloss": "mapaltogan"
     },
     {
       "surface": "יירה",
-      "gloss": "agpada"
+      "gloss": "mabalintod"
     },
     {
       "surface": "אם",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "בהמה",
-      "gloss": "animal"
+      "gloss": "akkaka"
     },
     {
       "surface": "אם",
-      "gloss": "wenno"
+      "gloss": "no"
     },
     {
       "surface": "איש",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "יחיה",
-      "gloss": "maibiag"
+      "gloss": "maudyat"
     },
     {
       "surface": "במשך",
-      "gloss": "iti kaatiddogan"
+      "gloss": "iti pannakaatiddog"
     },
     {
       "surface": "היבל",
@@ -85,13 +85,13 @@
     },
     {
       "surface": "יעלו",
-      "gloss": "sumangpet"
+      "gloss": "sumangpetda"
     },
     {
       "surface": "בהר",
-      "gloss": "iti bantay"
+      "gloss": "bantay"
     }
   ],
-  "timestamp": "2026-09-26T03:58:21.935399488Z",
+  "timestamp": "2026-09-27T01:12:40.427722043Z",
   "model": "glm-5.3"
 }

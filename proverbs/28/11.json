@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "ilo",
   "chapter": 28,
-  "translation": "Ti baknang a lalaki nalintegan a nasalakniban? Saan — maaramid a nasirib kadagiti matana; ngem ti nadangol a maannatonton sukimatanna.",
-  "tokens": [],
-  "timestamp": "2026-09-26T22:43:35.649720186Z",
+  "translation": "Ti maysa a lalaki a baknang ket nasirib kadagiti matana, ngem ti pintas a makasngab a pannakaawat ket sukimatenna ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "nasirib"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "kadagiti matana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ti maysa a lalaki"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "a baknang"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ngem ti pintas"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "a makasngab a pannakaawat"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "sukimatenna ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T01:22:39.823311392Z",
   "model": "glm-5.3"
 }

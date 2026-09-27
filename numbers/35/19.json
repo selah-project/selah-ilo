@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "ilo",
   "chapter": 35,
-  "translation": "Ti mangibbet iti dara, isu ti agpatay ⟨את⟩ ti mannakapatay; no masarakanna, isu ti agpatay kenkuana.",
+  "translation": "Ti goel ti dara, isu ti agpatay ⟨את⟩ ti mampatay; no makasagana koma isu kenkuana, isu ti agpatay koma kaniakuana.",
   "tokens": [
     {
       "surface": "גאל",
-      "gloss": "Ti mangibbet"
+      "gloss": "ti goel"
     },
     {
       "surface": "הדם",
-      "gloss": "iti dara"
+      "gloss": "ti dara"
     },
     {
       "surface": "הוא",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "ימית",
-      "gloss": "agpatay"
+      "gloss": "ti agpatay"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti mannakapatay"
+      "marks": "ti mampatay"
     },
     {
       "surface": "הרצח",
-      "gloss": "ti mannakapatay"
+      "gloss": "ti mampatay"
     },
     {
       "surface": "בפגעו",
-      "gloss": "no masarakanna"
+      "gloss": "no makasagana koma isu kenkuana"
     },
     {
       "surface": "בו",
-      "gloss": "kenkuana"
+      "gloss": "kaniakuana"
     },
     {
       "surface": "הוא",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "ימיתנו",
-      "gloss": "agpatayenna"
+      "gloss": "isu ti agpatay koma kaniakuana"
     }
   ],
-  "timestamp": "2026-09-26T07:25:23.025263483Z",
+  "timestamp": "2026-09-27T01:22:09.562249531Z",
   "model": "glm-5.3"
 }

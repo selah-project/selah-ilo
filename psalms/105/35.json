@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 105,
-  "translation": "ken rinuotanna amin a ruot iti bagida, ketimmangan",
-  "tokens": [],
-  "timestamp": "2026-09-26T22:24:13.071534133Z",
+  "translation": "Ket immangan ti amin a ruot iti dagada, ket immangan ti bunga ti daga da.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "ket immangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ti amin"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "a ruot"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "iti dagada"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ket immangan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ti bunga"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ti daga da"
+    }
+  ],
+  "timestamp": "2026-09-27T01:22:55.091027752Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 18,
-  "translation": "gapu ta saan da ngaimnen iti timek ni Yahweh ti Elohim da, ket sinungbatanda ⟨את⟩ ti tulagna, ⟨את⟩ amin nga imbilin kenni Moshe, adipen ni Yahweh, ket saan da ngaimnen ken saan da ngaaramid.",
+  "translation": "Ta saanda nangngeg iti timek ni Yahweh nga Elohimda, ket sinallungasinganda ⟨את⟩ ti tulagna, ⟨את⟩ amin nga imbilin ni Moshe, adipen ni Yahweh, ket saanda nangngeg ket saanda inaramid.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "gapu ta"
+      "gloss": "ta"
     },
     {
       "surface": "אשר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "saan"
+      "gloss": "saanda"
     },
     {
       "surface": "שמעו",
-      "gloss": "da ngaimnen"
+      "gloss": "nangngeg"
     },
     {
       "surface": "בקול",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "ti Elohim da"
+      "gloss": "nga Elohimda"
     },
     {
       "surface": "ויעברו",
-      "gloss": "ket sinungbatanda"
+      "gloss": "ket sinallungasinganda"
     },
     {
       "surface": "את",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "kenni Moshe"
+      "gloss": "ni Moshe"
     },
     {
       "surface": "עבד",
@@ -79,21 +79,21 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ket saan"
+      "gloss": "ket saanda"
     },
     {
       "surface": "שמעו",
-      "gloss": "da ngaimnen"
+      "gloss": "nangngeg"
     },
     {
       "surface": "ולא",
-      "gloss": "ken saan"
+      "gloss": "ket saanda"
     },
     {
       "surface": "עשו",
-      "gloss": "da ngaaramid"
+      "gloss": "inaramid"
     }
   ],
-  "timestamp": "2026-09-26T13:53:32.133200829Z",
+  "timestamp": "2026-09-27T01:09:29.256984800Z",
   "model": "glm-5.3"
 }

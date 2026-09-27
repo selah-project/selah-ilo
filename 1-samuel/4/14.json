@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "Nangngeg ni Eli ⟨את⟩ ti timek ti panangruwar, ket kinunana: Ania ti timek daytoy a riwdas? Ket ti tao napardas nga immay ket imbaga kenni Eli.",
+  "translation": "Nangngeg ni Eli ⟨את⟩ ti timek ti singgit, ket kinunana: Ania daytoy a timek ti kulo? Ket ti lalaki imbilina, ket simmangpet ket nangibaga kenni Eli.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti timek ti panangruwar"
+      "marks": "ti timek"
     },
     {
       "surface": "קול",
-      "gloss": "timek"
+      "gloss": "ti timek"
     },
     {
       "surface": "הצעקה",
-      "gloss": "ti panangruwar"
+      "gloss": "ti singgit"
     },
     {
       "surface": "ויאמר",
-      "gloss": "kinuna"
+      "gloss": "ket kinunana"
     },
     {
       "surface": "מה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ההמון",
-      "gloss": "ti riwdas"
+      "gloss": "ti kulo"
     },
     {
       "surface": "הזה",
@@ -50,25 +50,25 @@
     },
     {
       "surface": "והאיש",
-      "gloss": "ket ti tao"
+      "gloss": "ket ti lalaki"
     },
     {
       "surface": "מהר",
-      "gloss": "napardas"
+      "gloss": "imbilina"
     },
     {
       "surface": "ויבא",
-      "gloss": "immay"
+      "gloss": "simmangpet"
     },
     {
       "surface": "ויגד",
-      "gloss": "imbaga"
+      "gloss": "nangibaga"
     },
     {
       "surface": "לעלי",
       "gloss": "kenni Eli"
     }
   ],
-  "timestamp": "2026-09-26T10:33:09.711853710Z",
+  "timestamp": "2026-09-27T01:09:01.291132209Z",
   "model": "glm-5.3"
 }

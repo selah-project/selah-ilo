@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 18,
-  "translation": "Ta ⟨את⟩ amin kadagiti ribribokditoy inaramidda dagiti tao ti daga nga adda sadiay ti sanguanyo, ket narugitan ti daga.",
+  "translation": "ta dagiti lallaki ti daga, dagiti idiay sanguamyo, ket inaramidda ⟨את⟩ amin dagiti kadawyan a baybay-itoy, ket narugitanto ti daga",
   "tokens": [
     {
       "surface": "כי",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amin kadagiti ribribok"
+      "marks": "amin dagiti kadawyan a baybay-itoy"
     },
     {
       "surface": "כל",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "התועבת",
-      "gloss": "kadagiti ribribok"
+      "gloss": "dagiti kadawyan a baybay-itoy"
     },
     {
       "surface": "האל",
-      "gloss": "ditoy"
+      "gloss": "daytoy"
     },
     {
       "surface": "עשו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "dagiti tao"
+      "gloss": "dagiti lallaki"
     },
     {
       "surface": "הארץ",
@@ -42,21 +42,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "dagiti"
     },
     {
       "surface": "לפניכם",
-      "gloss": "sadiay ti sanguanyo"
+      "gloss": "idiay sanguamyo"
     },
     {
       "surface": "ותטמא",
-      "gloss": "ket narugitan"
+      "gloss": "ket narugitanto"
     },
     {
       "surface": "הארץ",
       "gloss": "ti daga"
     }
   ],
-  "timestamp": "2026-09-26T05:32:34.543598318Z",
+  "timestamp": "2026-09-27T01:19:31.531691674Z",
   "model": "glm-5.3"
 }

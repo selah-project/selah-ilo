@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 6,
-  "translation": "Immula ti ari ti Yisrael iti lugar a kinuna kennu ti tao ti Elohim, ket inbalodanna ken nagsalaknib sadiay, saan a maysa ken saan a dua.",
+  "translation": "Ket ipatulod ti ari ti Yisrael ⟨iti⟩ ti disso a kinuna kenni ti lalaki ti Elohim ket binilinanna, ket nagsalaknib ti bagina sadiay — saan a maysa, ken saan a dua.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "immula"
+      "gloss": "ipatulod"
     },
     {
       "surface": "מלך",
-      "gloss": "ti ari"
+      "gloss": "ari"
     },
     {
       "surface": "ישראל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "lugar"
+      "gloss": "ti disso"
     },
     {
       "surface": "אשר",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "kennu"
+      "gloss": "kenni"
     },
     {
       "surface": "איש",
-      "gloss": "tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "האלהים",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "והזהירה",
-      "gloss": "inbalodanna"
+      "gloss": "ket binilinanna"
     },
     {
       "surface": "ונשמר",
-      "gloss": "nagsalaknib"
+      "gloss": "ket nagsalaknib ti bagina"
     },
     {
       "surface": "שם",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אחת",
-      "gloss": "a maysa"
+      "gloss": "maysa"
     },
     {
       "surface": "ולא",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "שתים",
-      "gloss": "a dua"
+      "gloss": "dua"
     }
   ],
-  "timestamp": "2026-09-26T13:28:12.890516896Z",
+  "timestamp": "2026-09-27T01:09:40.746896257Z",
   "model": "glm-5.3"
 }

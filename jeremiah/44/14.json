@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 44,
-  "translation": "ket awanton ti makatalon ken ti mabati manipud iti nabati a tao ni Yehudah, dagiti immay nga agsangaili sadiay iti daga ti Mitsrayim, ket agsubli iti daga ti Yehudah, a ig-gatida ⟨את⟩ dagiti kararuada nga agsubli nga agnanaed sadiay; ta saanda nga agsubli, malaksid kadagiti makatalon.",
+  "translation": "ket saan anto ti nakatalon ken ti mabati manipud iti nabati ti Yehudah, dagiti simmangpet nga agnaed sadiay iti daga ti Mitsrayim, a pagsublianda iti daga ti Yehudah, a sadiay ida iy-angatanda ⟨את⟩ ti kararua da a pagsublianda nga agnaed sadiay; ta saanda a pulos nga agsubli, malaksid kadagiti nakatalon.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "addaonto"
+      "gloss": "anto"
     },
     {
       "surface": "פליט",
-      "gloss": "ti makatalon"
+      "gloss": "ti nakatalon"
     },
     {
       "surface": "ושריד",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "ni Yehudah"
+      "gloss": "ti Yehudah"
     },
     {
       "surface": "הבאים",
-      "gloss": "dagiti immay"
+      "gloss": "dagiti simmangpet"
     },
     {
       "surface": "לגור",
-      "gloss": "nga agsangaili"
+      "gloss": "nga agnaed"
     },
     {
       "surface": "שם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ולשוב",
-      "gloss": "ket agsubli"
+      "gloss": "a pagsublianda"
     },
     {
       "surface": "ארץ",
@@ -65,32 +65,32 @@
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "a sadiay"
     },
     {
       "surface": "המה",
-      "gloss": "da"
+      "gloss": "ida"
     },
     {
       "surface": "מנשאים",
-      "gloss": "ig-gatida"
+      "gloss": "iy-angatanda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti kararuada"
+      "marks": "ti kararua da"
     },
     {
       "surface": "נפשם",
-      "gloss": "dagiti kararuada"
+      "gloss": "ti kararua da"
     },
     {
       "surface": "לשוב",
-      "gloss": "nga agsubli"
+      "gloss": "a pagsublianda"
     },
     {
       "surface": "לשבת",
-      "gloss": "nga agnanaed"
+      "gloss": "nga agnaed"
     },
     {
       "surface": "שם",
@@ -102,25 +102,25 @@
     },
     {
       "surface": "לא",
-      "gloss": "saan"
+      "gloss": "saanda a pulos"
     },
     {
       "surface": "ישובו",
-      "gloss": "agsublida"
+      "gloss": "nga agsubli"
     },
     {
       "surface": "כי",
-      "gloss": ""
-    },
-    {
-      "surface": "אם",
       "gloss": "malaksid"
     },
     {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
       "surface": "פלטים",
-      "gloss": "kadagiti makatalon"
+      "gloss": "kadagiti nakatalon"
     }
   ],
-  "timestamp": "2026-09-26T17:42:59.845884727Z",
+  "timestamp": "2026-09-27T01:17:28.838588434Z",
   "model": "glm-5.3"
 }

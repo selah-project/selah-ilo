@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 25,
-  "translation": "Sangapulo ket walo a kodo ti katayag ti maysa a poste, ken ti korona iti ngatona ket gambang, ken ti katayag ti korona tallo a kodo, ken nakawebban a daras ken dagiti granada iti rabaw ti korona, alikamen dagitoy, amin a gambang; ket kas kadagitoy ti maikadua a poste iti nakawebban a daras.",
+  "translation": "Sangapulo ket walo a kodo ti katayag ti maysa a poste, ken ti balangatna iti ngatona ket gambang, ken tallo a kodo ti katayag ti balangat; ken lakit ken dagiti granada iti ngato ti balangat, nga agpalikmut — amin ket gambang; ken kas dagitoy ti maikadua a poste, agraman ti lakit.",
   "tokens": [
     {
       "surface": "שמנה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אמה",
-      "gloss": "a kodo"
+      "gloss": "kodo"
     },
     {
       "surface": "קומת",
-      "gloss": "ti katayag"
+      "gloss": "katayag"
     },
     {
       "surface": "העמוד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וכתרת",
-      "gloss": "ken ti korona"
+      "gloss": "ken ti balangat"
     },
     {
       "surface": "עליו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הכתרת",
-      "gloss": "ti korona"
+      "gloss": "ti balangat"
     },
     {
       "surface": "שלש",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "אמה",
-      "gloss": "a kodo"
+      "gloss": "kodo"
     },
     {
       "surface": "ושבכה",
-      "gloss": "ken nakawebban a daras"
+      "gloss": "ken lakit"
     },
     {
       "surface": "ורמנים",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "על",
-      "gloss": "iti rabaw"
+      "gloss": "iti ngato"
     },
     {
       "surface": "הכתרת",
-      "gloss": "ti korona"
+      "gloss": "ti balangat"
     },
     {
       "surface": "סביב",
-      "gloss": "alikamen dagitoy"
+      "gloss": "nga agpalikmut"
     },
     {
       "surface": "הכל",
@@ -89,15 +89,15 @@
     },
     {
       "surface": "וכאלה",
-      "gloss": "ket kas kadagitoy"
+      "gloss": "ken kas dagitoy"
     },
     {
       "surface": "לעמוד",
-      "gloss": "ti maikadua a poste"
+      "gloss": "ti poste"
     },
     {
       "surface": "השני",
-      "gloss": ""
+      "gloss": "maikadua"
     },
     {
       "surface": "על",
@@ -105,9 +105,9 @@
     },
     {
       "surface": "השבכה",
-      "gloss": "nakawebban a daras"
+      "gloss": "lakit"
     }
   ],
-  "timestamp": "2026-09-26T14:19:38.911840242Z",
+  "timestamp": "2026-09-27T01:10:01.696722270Z",
   "model": "glm-5.3"
 }

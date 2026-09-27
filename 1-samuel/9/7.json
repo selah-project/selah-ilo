@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 9,
-  "translation": "Ket kinuna ni Shaul iti adipenna: \"Ket dayta, no mapantayo, ania ti itedtayo iti tao? Ta ti tinapay ket naawanen manipud kadagiti sako, ket awan daton a maited iti tao ti Elohim — ania ti ⟨את⟩ kadatayo?\"",
+  "translation": "Kinuna ni Shaul iti adipenna: ket idiay, mapantayo, ngem ania ti itektyo iti lalaki? Ta naawan ti tinapay manipud kadagiti sako, ken awan ti regalo nga maalaen iti lalaki ti Elohim — ania ti ⟨את⟩ adda kaduatayo?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ket kinuna"
+      "gloss": "kinuna"
     },
     {
       "surface": "שאול",
-      "gloss": "ni Shaul"
+      "gloss": "Shaul"
     },
     {
       "surface": "לנערו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "ket dayta"
+      "gloss": "ket idiay"
     },
     {
       "surface": "נלך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "נביא",
-      "gloss": "itedtayo"
+      "gloss": "itektyo"
     },
     {
       "surface": "לאיש",
-      "gloss": "iti tao"
+      "gloss": "iti lalaki"
     },
     {
       "surface": "כי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אזל",
-      "gloss": "naawanen"
+      "gloss": "naawan"
     },
     {
       "surface": "מכלינו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ותשורה",
-      "gloss": "ket daton"
+      "gloss": "ken regalo"
     },
     {
       "surface": "אין",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "להביא",
-      "gloss": "a maited"
+      "gloss": "nga maalaen"
     },
     {
       "surface": "לאיש",
-      "gloss": "iti tao"
+      "gloss": "iti lalaki"
     },
     {
       "surface": "האלהים",
@@ -77,13 +77,14 @@
     },
     {
       "surface": "מה",
-      "gloss": "ania ti"
+      "gloss": "ania"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ kadatayo"
+      "gloss": "⟨את⟩ kaduatayo",
+      "marks": "adda kaduatayo"
     }
   ],
-  "timestamp": "2026-09-26T10:45:37.964464211Z",
+  "timestamp": "2026-09-27T01:09:09.613457677Z",
   "model": "glm-5.3"
 }

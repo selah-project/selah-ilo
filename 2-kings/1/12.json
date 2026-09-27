@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 1,
-  "translation": "Ket simungbat ni Eliyahu ket nagsao kennuada: No tao ti Elohim siak, agbaba koma ti apoy manipud iti langit ken mangan ⟨את⟩kenka ken ⟨את⟩dagiti limapulom; ket nagbaba ti apoy ti Elohim manipud iti langit ken nangan ⟨את⟩kenkuana ken ⟨את⟩dagiti limapulona.",
+  "translation": "Ket ni Eliyah nangsungbat ket nagsao kaniada: No lalaki ti Elohim siak, agturong koma ti apoy a bumaba manipud iti langit ken mangan kadagiti ⟨את⟩ kenka ken ⟨את⟩ dagiti limapulom; ket bumaba ti apoy ti Elohim manipud iti langit kenimmangan kadagiti ⟨את⟩ kenkuana ken ⟨את⟩ dagiti limapulona.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "simungbat"
+      "gloss": "nangsungbat"
     },
     {
       "surface": "אליה",
-      "gloss": "ni Eliyahu"
+      "gloss": "ni Eliyah"
     },
     {
       "surface": "וידבר",
-      "gloss": "ket nagsao"
+      "gloss": "nagsao"
     },
     {
       "surface": "אליהם",
-      "gloss": "kennuada"
+      "gloss": "kaniada"
     },
     {
       "surface": "אם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "האלהים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "תרד",
-      "gloss": "agbaba koma"
+      "gloss": "bumaba"
     },
     {
       "surface": "אש",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "מן",
-      "gloss": "manipud"
+      "gloss": "manipud iti"
     },
     {
       "surface": "השמים",
-      "gloss": "iti langit"
+      "gloss": "langit"
     },
     {
       "surface": "ותאכל",
-      "gloss": "ken mangan"
+      "gloss": "ken mangan kadagiti"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩kenka",
-      "marks": "sika"
+      "gloss": "⟨את⟩",
+      "marks": "kenka"
     },
     {
       "surface": "ואת",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ותרד",
-      "gloss": "ket nagbaba"
+      "gloss": "ket bumaba"
     },
     {
       "surface": "אש",
@@ -87,20 +87,20 @@
     },
     {
       "surface": "מן",
-      "gloss": "manipud"
+      "gloss": "manipud iti"
     },
     {
       "surface": "השמים",
-      "gloss": "iti langit"
+      "gloss": "langit"
     },
     {
       "surface": "ותאכל",
-      "gloss": "ken nangan"
+      "gloss": "kenimmangan kadagiti"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩kenkuana",
-      "marks": "isuna"
+      "gloss": "⟨את⟩",
+      "marks": "kenkuana"
     },
     {
       "surface": "ואת",
@@ -112,6 +112,6 @@
       "gloss": "dagiti limapulona"
     }
   ],
-  "timestamp": "2026-09-26T13:19:54.059780441Z",
+  "timestamp": "2026-09-27T01:10:09.295089706Z",
   "model": "glm-5.3"
 }

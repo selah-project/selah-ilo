@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "Kinuna: Lagipen, ak, ti ari ⟨את⟩ ni Yahweh ti Elohimmo, a saan a padakkelen ti mangibales ti dara ti panagdadael, ken saanda a dadaelenna ⟨את⟩ ti anakko. Ket kinuna: Biag ni Yahweh, no matnag ngamin ti maysa a buok ti anakmo iti daga.",
+  "translation": "Ket kinunana: Lagipen, awagak, ti ari ⟨את⟩ ni Yahweh ti Elohimmo, a saan nga aduenna ti mangibales ti dara a mangdadael, ken saanda a dadaelen ⟨את⟩ ti anakko. Ket kinuna: Ti sibibiag ni Yahweh — no ti maysa kadagiti buok ti anakmo matnag iti daga.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "kinuna"
+      "gloss": "ket kinunana"
     },
     {
       "surface": "יזכר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "ak"
+      "gloss": "awagak"
     },
     {
       "surface": "המלך",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "ti Elohimmo"
+      "gloss": "Elohimmo"
     },
     {
       "surface": "מהרבית",
-      "gloss": "a padakkelen"
+      "gloss": "aduenna"
     },
     {
       "surface": "גאל",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "לשחת",
-      "gloss": "ti panagdadael"
+      "gloss": "a mangdadael"
     },
     {
       "surface": "ולא",
-      "gloss": "ken saanda"
+      "gloss": "ken saan"
     },
     {
       "surface": "ישמידו",
-      "gloss": "a dadaelenna"
+      "gloss": "dadaelenda"
     },
     {
       "surface": "את",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "חי",
-      "gloss": "Biag"
+      "gloss": "sibibiag"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אם",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "משערת",
-      "gloss": "ti maysa a buok"
+      "gloss": "ti maysa kadagiti buok"
     },
     {
       "surface": "בנך",
@@ -102,6 +102,6 @@
       "gloss": "iti daga"
     }
   ],
-  "timestamp": "2026-09-26T11:46:52.506061033Z",
+  "timestamp": "2026-09-27T01:11:03.794076507Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,74 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 28,
-  "translation": "Dimteng ti sao ni Yahweh kenni Yirmeyahu, kalpasan ti panagdadael ni Khananyahu ti propeta ⟨iti-את⟩ —",
-  "tokens": [],
-  "timestamp": "2026-09-26T17:13:46.161337713Z",
+  "translation": "Napasamak ti sao ni Yahweh kenni Yirmeyah, kalpasan ti panangdadael ni Khananyah a propeta iti ⟨את⟩ ti pasig manipud iti tengnged ni Yirmeyah a propeta, a kunkuna:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "napasamak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ti sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kalpasan ti"
+    },
+    {
+      "surface": "שבור",
+      "gloss": "panangdadael"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ni Khananyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "a propeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti pasig"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "ti pasig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manipud iti"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "tengnged"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ni Yirmeyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "a propeta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    }
+  ],
+  "timestamp": "2026-09-27T01:17:06.393417414Z",
   "model": "glm-5.3"
 }

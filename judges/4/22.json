@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "Ken, sumurot ni Barak ⟨את⟩ ni Sisera, ket simmuar ni Yael ti masabatanna, ket kinunana kenkuana: Sumka, ket ipamkitak ⟨את⟩ ti tao a ti birukem; ket immay kenkuana, ken ni Sisera natnag a natay, ket ti pako iti temporona.",
+  "translation": "Ket ida, ni Barak agtarat-aray kadagiti mipalubos ti ⟨את⟩ ni Sisera, ket immay ni Yael iti panangkasasarungkara kenkuana, ket kinunana kennuana: Umayka, ket ipakitak kenka ⟨את⟩ ti lalaki a sapsapulemmo. Ket simrek isuna kadakuana, ket ida, ni Sisera natnag natay, ket ti pagsarunan ti tolda idiay templona.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "ken"
+      "gloss": "ket ida"
     },
     {
       "surface": "ברק",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "רדף",
-      "gloss": "sumurot"
+      "gloss": "agtarat-aray kadagiti mipalubos"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ותצא",
-      "gloss": "ket simmuar"
+      "gloss": "ket immay ruar"
     },
     {
       "surface": "יעל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לקראתו",
-      "gloss": "ti masabatanna"
+      "gloss": "iti panangkasasarungkara kenkuana"
     },
     {
       "surface": "ותאמר",
@@ -46,24 +46,24 @@
     },
     {
       "surface": "לו",
-      "gloss": "kenkuana"
+      "gloss": "kennuana"
     },
     {
       "surface": "לך",
-      "gloss": "sumka"
+      "gloss": "Umayka"
     },
     {
       "surface": "ואראך",
-      "gloss": "ket ipamkitak"
+      "gloss": "ket ipakitak kenka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti tao"
+      "marks": "ti lalaki"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "אשר",
@@ -75,19 +75,19 @@
     },
     {
       "surface": "מבקש",
-      "gloss": "ti birukem"
+      "gloss": "sapsapulemmo"
     },
     {
       "surface": "ויבא",
-      "gloss": "ket immay"
+      "gloss": "ket simrek isuna"
     },
     {
       "surface": "אליה",
-      "gloss": "kenkuana"
+      "gloss": "kadakuana"
     },
     {
       "surface": "והנה",
-      "gloss": "ken"
+      "gloss": "ket ida"
     },
     {
       "surface": "סיסרא",
@@ -99,17 +99,17 @@
     },
     {
       "surface": "מת",
-      "gloss": "a natay"
+      "gloss": "natay"
     },
     {
       "surface": "והיתד",
-      "gloss": "ket ti pako"
+      "gloss": "ket ti pagsarunan ti tolda"
     },
     {
       "surface": "ברקתו",
-      "gloss": "iti temporona"
+      "gloss": "idiay templona"
     }
   ],
-  "timestamp": "2026-09-26T09:42:31.997410042Z",
+  "timestamp": "2026-09-27T01:18:37.417147990Z",
   "model": "glm-5.3"
 }

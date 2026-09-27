@@ -5,8 +5,41 @@
   "book": "habakkuk",
   "lang": "ilo",
   "chapter": 1,
-  "translation": "ket inaramidmo ti tao a kas dagiti ikan ti baybay, a kas ti agsidsiddong nga awan ti mangituray iti bagienna?",
-  "tokens": [],
-  "timestamp": "2026-09-26T20:12:44.176271444Z",
+  "translation": "Ket inaramidmo ti tao a kas dagiti ikan ti baybay, a kas ti agdangdangadang a parsua, nga awan ti agturay kadakuada.",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "ket inaramidmo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "a kas dagiti ikan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ti baybay"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "a kas ti agdangdangadang a parsua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awan"
+    },
+    {
+      "surface": "משל",
+      "gloss": "agturay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kadakuada"
+    }
+  ],
+  "timestamp": "2026-09-27T01:15:32.390401184Z",
   "model": "glm-5.3"
 }

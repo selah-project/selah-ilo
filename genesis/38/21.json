@@ -5,28 +5,28 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 38,
-  "translation": "Sinalsaludsodna ⟨ti⟩ ⟨את⟩ dagiti tao ti dissona, nga imbagana: Sadino ti kedesha, dayta ⟨iti⟩ Enayim, iti igid ti dalan? Ket kinunada: Awan ti kedesha ⟨iti⟩ daytoy a disso.",
+  "translation": "Nangsaludsod ⟨את⟩ dagiti lallaki ti lugarna, a kunkuna: Sadino ti putag — isuna idiay Enaim, iti igid ti dalan? Ket kinunada: saan nga adda ti putag ditoy.",
   "tokens": [
     {
       "surface": "וישאל",
-      "gloss": "sinalsaludsodna"
+      "gloss": "Nangsaludsod"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti tao"
+      "marks": "dagiti lallaki ti lugarna"
     },
     {
       "surface": "אנשי",
-      "gloss": "dagiti tao"
+      "gloss": "dagiti lallaki"
     },
     {
       "surface": "מקמה",
-      "gloss": "ti dissona"
+      "gloss": "ti lugarna"
     },
     {
       "surface": "לאמר",
-      "gloss": "nga imbagana"
+      "gloss": "a kunkuna"
     },
     {
       "surface": "איה",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "הקדשה",
-      "gloss": "ti kedesha"
+      "gloss": "ti putag"
     },
     {
       "surface": "הוא",
-      "gloss": "dayta"
+      "gloss": "isuna"
     },
     {
       "surface": "בעינים",
-      "gloss": "iti Enayim"
+      "gloss": "idiay Enaim"
     },
     {
       "surface": "על",
@@ -58,21 +58,21 @@
     },
     {
       "surface": "לא",
-      "gloss": "awan"
+      "gloss": "saan"
     },
     {
       "surface": "היתה",
-      "gloss": "adda"
+      "gloss": "nga adda"
     },
     {
       "surface": "בזה",
-      "gloss": "iti daytoy a disso"
+      "gloss": "ditoy"
     },
     {
       "surface": "קדשה",
-      "gloss": "kedesha"
+      "gloss": "ti putag"
     }
   ],
-  "timestamp": "2026-09-26T02:56:48.897896984Z",
+  "timestamp": "2026-09-27T01:15:18.054308119Z",
   "model": "glm-5.3"
 }

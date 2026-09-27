@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "No ti kararua agtraydor ken agbasol nga saan a ammo kadagiti nasantuan a banag ni Yahweh, ipanna'idonna ⟨את⟩ ti asamna kenni Yahweh: maysa a karnero a awan biddutna manipud kadagiti ayup, iti balormo a pilak, shekel babaen ti shekel ti nasantuan, para iti asam.",
+  "translation": "No ti kararua ket agtatakder a mangtalek ken agbasol babaen ti biddut kadagiti nasantuan a banag ni Yahweh, isu nga itedna ⟨ti⟩ ⟨את⟩ ashamna kenni Yahweh: maysa a karnero a lalaki a naan-anay manipud iti rebba, iti pategmo a pirak — dagiti shekel babaen ti shekel ti nasantuan a lugar, para iti asham.",
   "tokens": [
     {
       "surface": "נפש",
-      "gloss": "no ti kararua"
+      "gloss": "kararua"
     },
     {
       "surface": "כי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "תמעל",
-      "gloss": "agtraydor"
+      "gloss": "agtatakder a mangtalek"
     },
     {
       "surface": "מעל",
-      "gloss": "iti panagtaydor"
+      "gloss": "a mangtalek"
     },
     {
       "surface": "וחטאה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בשגגה",
-      "gloss": "nga saan a ammo"
+      "gloss": "babaen ti biddut"
     },
     {
       "surface": "מקדשי",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "והביא",
-      "gloss": "ipanna'idonna"
+      "gloss": "isu nga itedna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti asamna"
+      "marks": "ti ashamna"
     },
     {
       "surface": "אשמו",
-      "gloss": "ti asamna"
+      "gloss": "ashamna"
     },
     {
       "surface": "ליהוה",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "איל",
-      "gloss": "maysa a karnero"
+      "gloss": "karnero a lalaki"
     },
     {
       "surface": "תמים",
-      "gloss": "a awan biddutna"
+      "gloss": "aan-anay"
     },
     {
       "surface": "מן",
@@ -70,19 +70,19 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "kadagiti ayup"
+      "gloss": "iti rebba"
     },
     {
       "surface": "בערכך",
-      "gloss": "iti balormo"
+      "gloss": "iti pategmo"
     },
     {
       "surface": "כסף",
-      "gloss": "a pilak"
+      "gloss": "pirak"
     },
     {
       "surface": "שקלים",
-      "gloss": "shekel"
+      "gloss": "dagiti shekel"
     },
     {
       "surface": "בשקל",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "ti nasantuan"
+      "gloss": "ti nasantuan a lugar"
     },
     {
       "surface": "לאשם",
-      "gloss": "para iti asam"
+      "gloss": "para iti asham"
     }
   ],
-  "timestamp": "2026-09-26T05:06:45.811284817Z",
+  "timestamp": "2026-09-27T01:21:24.575729899Z",
   "model": "glm-5.3"
 }

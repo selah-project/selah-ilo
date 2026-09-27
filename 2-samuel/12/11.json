@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ilo",
   "chapter": 12,
-  "translation": "Kasta ti kinuna ni Yahweh: Aya, ibangbangonko kennaka ti dakes manipud iti balaymo, ken alaek ⟨את⟩ dagiti babbaiмo kadagiti matamo, ken itedko kadagiti kaarrubam, ket makitulog ⟨isuna⟩ kadagiti babbaiмo iti sango ti mata ti init daytoy.",
+  "translation": "Kasta ti kinuna ni Yahweh: Sadinoka, agtacderak nga agpablin iti umisigka a dakes manipud iti balaymo, ket alakon ⟨את⟩ dagiti asawam iti sanguam, ken itedko kadagiti kaarrubam, ket matnagto a matnatalek kadagiti asawam kadagiti mata daytoy nga init.",
   "tokens": [
     {
       "surface": "כה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Aya"
+      "gloss": "Sadinoka"
     },
     {
       "surface": "מקים",
-      "gloss": "ibangbangonko"
+      "gloss": "agtacderak nga agpablin"
     },
     {
       "surface": "עליך",
-      "gloss": "kennaka"
+      "gloss": "iti umisigka"
     },
     {
       "surface": "רעה",
-      "gloss": "ti dakes"
+      "gloss": "a dakes"
     },
     {
       "surface": "מביתך",
@@ -41,20 +41,20 @@
     },
     {
       "surface": "ולקחתי",
-      "gloss": "ken alaek"
+      "gloss": "ket alakon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti babbaiмo"
+      "marks": "dagiti asawam"
     },
     {
       "surface": "נשיך",
-      "gloss": "dagiti babbaiмo"
+      "gloss": "dagiti asawam"
     },
     {
       "surface": "לעיניך",
-      "gloss": "kadagiti matamo"
+      "gloss": "iti sanguam"
     },
     {
       "surface": "ונתתי",
@@ -66,29 +66,29 @@
     },
     {
       "surface": "ושכב",
-      "gloss": "ket makitulog"
+      "gloss": "ket matnagto a matnatalek"
     },
     {
       "surface": "עם",
-      "gloss": "kadua"
+      "gloss": "kadagiti"
     },
     {
       "surface": "נשיך",
-      "gloss": "dagiti babbaiмo"
+      "gloss": "asawam"
     },
     {
       "surface": "לעיני",
-      "gloss": "iti sango ti mata"
+      "gloss": "kadagiti mata"
     },
     {
       "surface": "השמש",
-      "gloss": "ti init"
+      "gloss": "daytoy nga init"
     },
     {
       "surface": "הזאת",
       "gloss": "daytoy"
     }
   ],
-  "timestamp": "2026-09-26T11:41:55.063748300Z",
+  "timestamp": "2026-09-27T01:10:41.767989795Z",
   "model": "glm-5.3"
 }

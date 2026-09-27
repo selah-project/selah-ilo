@@ -5,8 +5,105 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 36,
-  "translation": "ket napasamak, no binasa ni Yehudi tallo wenno uppat a panid, rimsuenna daytoy babaen ti labaha ti eskribano ket inpannuronna iti apuy a adda iti brasero, agingga a nalpas amin ti gutib iti apuy a adda iti brasero.",
-  "tokens": [],
-  "timestamp": "2026-09-26T17:31:29.239796503Z",
+  "translation": "Ket napasamak, idi agbasa ni Yehudi kadagiti tallo wenno uppat a panid, rinautna dayta iti taray ti agsursurat ket inayonna iti apoy nga adda iti dalupan, agingga a naikkat amin ti rolyo iti apoy nga adda iti dalupan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ket napasamak"
+    },
+    {
+      "surface": "כקרוא",
+      "gloss": "idi agbasa"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "ni Yehudi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tallo"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "panid"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "wenno uppat"
+    },
+    {
+      "surface": "יקרעה",
+      "gloss": "rinautna dayta"
+    },
+    {
+      "surface": "בתער",
+      "gloss": "iti taray"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ti agsursurat"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "ket inayonna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האח",
+      "gloss": "dalupan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga a"
+    },
+    {
+      "surface": "תם",
+      "gloss": "naikkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "ti rolyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga adda"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "האח",
+      "gloss": "dalupan"
+    }
+  ],
+  "timestamp": "2026-09-27T01:17:18.215885273Z",
   "model": "glm-5.3"
 }

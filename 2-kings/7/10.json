@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 7,
-  "translation": "Immayda ket immawagda iti agbantay ti ili, ket ibinbagada kadakuada, nga kumuna: Immaykami iti kampo ti Aram, ket kitaen, awan sadiay maysa a tao ken ti timek ti tao; malaksid laeng ti kabalio a nacapet ken ti buriko a nacapet, ken dagiti tolda a kas ti impapanda.",
+  "translation": "Immayda ket inawaganda ti agbantay ti ruangan ti ili, ket ibinagada kadakuada a kunkuna: Simmangpetkami iti kampo ti Aram, ket wen, awan sadiay ti lalaki ken ti timek ti tao, no di ti kabalyo a nakadena ken ti asno a nakadena, ken dagiti tolda kas iti kadauganda.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "immayda"
+      "gloss": "Immayda"
     },
     {
       "surface": "ויקראו",
-      "gloss": "immawagda"
+      "gloss": "ket inawaganda"
     },
     {
       "surface": "אל",
-      "gloss": "iti"
+      "gloss": "⟨iti⟩"
     },
     {
       "surface": "שער",
-      "gloss": "agbantay"
+      "gloss": "ti agbantay ti ruangan"
     },
     {
       "surface": "העיר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויגידו",
-      "gloss": "ibinbagada"
+      "gloss": "ket ibinagada"
     },
     {
       "surface": "להם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nga kumuna"
+      "gloss": "a kunkuna"
     },
     {
       "surface": "באנו",
-      "gloss": "immaykami"
+      "gloss": "Simmangpetkami"
     },
     {
       "surface": "אל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "ket kitaen"
+      "gloss": "ket wen"
     },
     {
       "surface": "אין",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "maysa a tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "וקול",
-      "gloss": "ken ti timek"
+      "gloss": "ken awan ti timek"
     },
     {
       "surface": "אדם",
@@ -81,27 +81,27 @@
     },
     {
       "surface": "כי",
-      "gloss": "malaksid"
+      "gloss": "no"
     },
     {
       "surface": "אם",
-      "gloss": "laeng"
+      "gloss": "di"
     },
     {
       "surface": "הסוס",
-      "gloss": "ti kabalio"
+      "gloss": "ti kabalyo"
     },
     {
       "surface": "אסור",
-      "gloss": "nacapet"
+      "gloss": "a nakadena"
     },
     {
       "surface": "והחמור",
-      "gloss": "ken ti buriko"
+      "gloss": "ken ti asno"
     },
     {
       "surface": "אסור",
-      "gloss": "nacapet"
+      "gloss": "a nakadena"
     },
     {
       "surface": "ואהלים",
@@ -109,13 +109,13 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "a kas ti"
+      "gloss": "kas iti"
     },
     {
       "surface": "המה",
-      "gloss": "impapanda"
+      "gloss": "kadauganda"
     }
   ],
-  "timestamp": "2026-09-26T13:39:41.961520795Z",
+  "timestamp": "2026-09-27T01:11:03.855238902Z",
   "model": "glm-5.3"
 }

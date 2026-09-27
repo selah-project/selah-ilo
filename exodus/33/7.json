@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 33,
-  "translation": "Ni Moshe ket alañana ⟨את⟩ ti tolda ken iyaenna iti ruar ti kampo, iti adayo manipud iti kampo, ket inawagnana ti nagan na a Tolda ti Gimong; ket agpaysu a ti tunggal maysa a tummakdaw kenni Yahweh ket rumuaranto nga agpampanaw iti Tolda ti Gimong a nagtaeng iti ruar ti kampo.",
+  "translation": "Ni Moshe kinuana ⟨את⟩ ti tolda ket pinnaorna kadakuana iti ruar ti kampo, adayo manipud iti kampo, ket inawaganna dayta a Tolda ti Gimong; ket napasamak a tunggal maysa a agbiruk kenni Yahweh ket rummuar iti Tolda ti Gimong a iti ruar ti kampo.",
   "tokens": [
     {
       "surface": "ומשה",
-      "gloss": "ni Moshe ket"
+      "gloss": "Ni Moshe"
     },
     {
       "surface": "יקח",
-      "gloss": "alañana"
+      "gloss": "kinuana"
     },
     {
       "surface": "את",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "ונטה",
-      "gloss": "ken iyaenna"
+      "gloss": "pinnaorna"
     },
     {
       "surface": "לו",
-      "gloss": "na"
+      "gloss": "kadakuana"
     },
     {
       "surface": "מחוץ",
-      "gloss": "iti ruar"
+      "gloss": "ruar"
     },
     {
       "surface": "למחנה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הרחק",
-      "gloss": "iti adayo"
+      "gloss": "adayo"
     },
     {
       "surface": "מן",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "המחנה",
-      "gloss": "kampo"
+      "gloss": "ti kampo"
     },
     {
       "surface": "וקרא",
-      "gloss": "ket inawagnana"
+      "gloss": "inawaganna"
     },
     {
       "surface": "לו",
-      "gloss": "ti nagan na"
+      "gloss": "dayta"
     },
     {
       "surface": "אהל",
@@ -66,19 +66,19 @@
     },
     {
       "surface": "מועד",
-      "gloss": "ti Gimong"
+      "gloss": "Gimong"
     },
     {
       "surface": "והיה",
-      "gloss": "ket agpaysu"
+      "gloss": "ket napasamak"
     },
     {
       "surface": "כל",
-      "gloss": "ti tunggal maysa"
+      "gloss": "tunggal maysa"
     },
     {
       "surface": "מבקש",
-      "gloss": "a tumtakdaw"
+      "gloss": "agbiruk"
     },
     {
       "surface": "יהוה",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "יצא",
-      "gloss": "ket rumuaranto"
+      "gloss": "rummuar"
     },
     {
       "surface": "אל",
-      "gloss": "nga agpampanaw iti"
+      "gloss": "iti"
     },
     {
       "surface": "אהל",
@@ -98,11 +98,11 @@
     },
     {
       "surface": "מועד",
-      "gloss": "ti Gimong"
+      "gloss": "Gimong"
     },
     {
       "surface": "אשר",
-      "gloss": "a nagtaeng"
+      "gloss": "a"
     },
     {
       "surface": "מחוץ",
@@ -113,6 +113,6 @@
       "gloss": "ti kampo"
     }
   ],
-  "timestamp": "2026-09-26T04:32:01.418057117Z",
+  "timestamp": "2026-09-27T01:12:54.041115161Z",
   "model": "glm-5.3"
 }

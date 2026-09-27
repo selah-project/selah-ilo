@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 33,
-  "translation": "Kinuna ni Yahweh kenni Moshe, rupa iti rupa, a kas iti panagsao ti maysa a tao kenni gayyemna; ket nagsubli ⟨iti⟩ kampo; ket ti adipenna a ni Yehoshua, anak ni Nun, a ubbing, saan nga umikkat iti uneg ti Tolda.",
+  "translation": "ket nagsao ni Yahweh kenni Moshe, rupa iti rupa, a kas ti panagagsao ti maysa a lalaki iti kaarrubana; ket agsubli ⟨ni Moshe⟩ iti kampo, ngem ti adipenna a ni Yehoshua, anak ni Nun, a napayor, saan a lumakat iti uneg ti Tolda.",
   "tokens": [
     {
       "surface": "ודבר",
-      "gloss": "kinuna"
+      "gloss": "ket nagsao"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "ni Moshe"
+      "gloss": "Moshe"
     },
     {
       "surface": "פנים",
@@ -37,27 +37,27 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "a kas iti"
+      "gloss": "a kas ti"
     },
     {
       "surface": "ידבר",
-      "gloss": "panagsao"
+      "gloss": "panagagsao"
     },
     {
       "surface": "איש",
-      "gloss": "ti maysa a tao"
+      "gloss": "ti maysa a lalaki"
     },
     {
       "surface": "אל",
-      "gloss": "kenni"
+      "gloss": "iti"
     },
     {
       "surface": "רעהו",
-      "gloss": "gayyemna"
+      "gloss": "kaarrubana"
     },
     {
       "surface": "ושב",
-      "gloss": "ket nagsubli"
+      "gloss": "ket agsubli"
     },
     {
       "surface": "אל",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "ומשרתו",
-      "gloss": "ket ti adipenna"
+      "gloss": "ngem ti adipenna"
     },
     {
       "surface": "יהושע",
-      "gloss": "a ni Yehoshua"
+      "gloss": "Yehoshua"
     },
     {
       "surface": "בן",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "נער",
-      "gloss": "a ubbing"
+      "gloss": "a napayor"
     },
     {
       "surface": "לא",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "ימיש",
-      "gloss": "nga umikkat"
+      "gloss": "a lumakat"
     },
     {
       "surface": "מתוך",
@@ -104,6 +104,6 @@
       "gloss": "ti Tolda"
     }
   ],
-  "timestamp": "2026-09-26T04:38:49.803767968Z",
+  "timestamp": "2026-09-27T01:12:44.194352575Z",
   "model": "glm-5.3"
 }

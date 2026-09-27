@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "Ken imamatenna ti ⟨את⟩ karnero ti aramid ti basol, ket alaen ti padi iti dara ti aramid ti basol ken idenna iti igid ti lapayag ti tengnga a bagi ti taengan ti mabalinen a nadaldit, iti kanawan, ken iti siko iti imana a kanawan, ken iti siko iti sakaana a kanawan.",
+  "translation": "Ket inatayna ⟨את⟩ ti karnero ti asham, ket inalana ti padi iti dara ti asham, ken initedna iti puntingan ti tenga ti madalus, ti kanawan, ken iti dakkel a ramay ti kanawanna nga ima, ken iti dakkel a ramay ti kanawanna a saka.",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "imamatenna"
+      "gloss": "ket inatayna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "karnero ti aramid ti basol"
+      "marks": "ti karnero ti asham"
     },
     {
       "surface": "כבש",
-      "gloss": "karnero"
+      "gloss": "ti karnero"
     },
     {
       "surface": "האשם",
-      "gloss": "ti aramid ti basol"
+      "gloss": "ti asham"
     },
     {
       "surface": "ולקח",
-      "gloss": "ket alaen"
+      "gloss": "ken inalana"
     },
     {
       "surface": "הכהן",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "האשם",
-      "gloss": "ti aramid ti basol"
+      "gloss": "ti asham"
     },
     {
       "surface": "ונתן",
-      "gloss": "ket idenna"
+      "gloss": "ken initedna"
     },
     {
       "surface": "על",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "תנוך",
-      "gloss": "igid ti lapayag"
+      "gloss": "puntingan"
     },
     {
       "surface": "אזן",
-      "gloss": "tengnga a bagi"
+      "gloss": "ti tenga"
     },
     {
       "surface": "המטהר",
-      "gloss": "ti mabalinen a nadaldit"
+      "gloss": "ti madalus"
     },
     {
       "surface": "הימנית",
-      "gloss": "iti kanawan"
+      "gloss": "ti kanawan"
     },
     {
       "surface": "ועל",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "בהן",
-      "gloss": "siko"
+      "gloss": "dakkel a ramay"
     },
     {
       "surface": "ידו",
-      "gloss": "imana"
+      "gloss": "ti kanawanna nga ima"
     },
     {
       "surface": "הימנית",
-      "gloss": "a kanawan"
+      "gloss": "ti kanawan"
     },
     {
       "surface": "ועל",
@@ -86,17 +86,17 @@
     },
     {
       "surface": "בהן",
-      "gloss": "siko"
+      "gloss": "dakkel a ramay"
     },
     {
       "surface": "רגלו",
-      "gloss": "sakaana"
+      "gloss": "ti kanawanna a saka"
     },
     {
       "surface": "הימנית",
-      "gloss": "a kanawan"
+      "gloss": "ti kanawan"
     }
   ],
-  "timestamp": "2026-09-26T05:26:30.727883239Z",
+  "timestamp": "2026-09-27T01:19:43.144336221Z",
   "model": "glm-5.3"
 }

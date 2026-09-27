@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 6,
-  "translation": "Ken dagitoy dagiti tumbo ti balitok a sinublida dagiti Pelishtio a kas daton ti basol kenni Yahweh: maysa para iti Ashdod, maysa para iti Aza, maysa para iti Ashkelon, maysa para iti Gat, maysa para iti Ekron.",
+  "translation": "Dagitoy dagiti bunggor ti balitok a sinublida dagiti Filisteo a kas asham kenni Yahweh: maysa para iti Ashdod, maysa para iti Aza, maysa para iti Ashkelon, maysa para iti Gat, maysa para iti Ekron.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "ken dagitoy"
+      "gloss": "dagitoy"
     },
     {
       "surface": "טחרי",
-      "gloss": "dagiti tumbo"
+      "gloss": "dagiti bunggor"
     },
     {
       "surface": "הזהב",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "dagiti Pelishtio"
+      "gloss": "dagiti Filisteo"
     },
     {
       "surface": "אשם",
-      "gloss": "daton ti basol"
+      "gloss": "asham"
     },
     {
       "surface": "ליהוה",
@@ -80,6 +80,6 @@
       "gloss": "maysa"
     }
   ],
-  "timestamp": "2026-09-26T10:33:39.387321359Z",
+  "timestamp": "2026-09-27T01:09:09.307749661Z",
   "model": "glm-5.3"
 }

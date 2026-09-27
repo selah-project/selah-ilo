@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 18,
-  "translation": "Insao dagiti adipen ni Shaul kadagiti tengnged ni David ⟨את⟩ dagitoy a sao, ket kinuna ni David: Basit kadi kadagiti matayo ti agbalinak a manugang iti ari, ken siak tao a pobre ken naibabaan?",
+  "translation": "Nagsao dagiti adipen ni Shaul kadagiti tengnged ni David ⟨את⟩ kadagiti sao a dagitoy, ket kinuna ni David: Malaka kadi kadagiti matamyo ti agbalin a manugang ti ari, ta siak ket maysa a lalaki a pobre ken naibabaas?",
   "tokens": [
     {
       "surface": "וידברו",
-      "gloss": "insao"
+      "gloss": "Nagsao dagiti"
     },
     {
       "surface": "עבדי",
-      "gloss": "dagiti adipen"
+      "gloss": "adipen"
     },
     {
       "surface": "שאול",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagitoy a sao"
+      "marks": "kadagiti sao a dagitoy"
     },
     {
       "surface": "הדברים",
-      "gloss": "dagiti sao"
+      "gloss": "kadagiti sao"
     },
     {
       "surface": "האלה",
@@ -50,27 +50,27 @@
     },
     {
       "surface": "הנקלה",
-      "gloss": "basit kadi"
+      "gloss": "Malaka kadi"
     },
     {
       "surface": "בעיניכם",
-      "gloss": "kadagiti matayo"
+      "gloss": "kadagiti matamyo"
     },
     {
       "surface": "התחתן",
-      "gloss": "agbalinak a manugang"
+      "gloss": "ti agbalin a manugang"
     },
     {
       "surface": "במלך",
-      "gloss": "iti ari"
+      "gloss": "ti ari"
     },
     {
       "surface": "ואנכי",
-      "gloss": "ken siak"
+      "gloss": "ta siak ket"
     },
     {
       "surface": "איש",
-      "gloss": "tao"
+      "gloss": "maysa a lalaki"
     },
     {
       "surface": "רש",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "ונקלה",
-      "gloss": "ken naibabaan"
+      "gloss": "ken naibabaas"
     }
   ],
-  "timestamp": "2026-09-26T10:58:46.323967658Z",
+  "timestamp": "2026-09-27T01:24:17.110960747Z",
   "model": "glm-5.3"
 }

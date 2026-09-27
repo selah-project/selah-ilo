@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "Alaenna ti padi ⟨את⟩ ti karnero iti basol ken ⟨את⟩ ti log ti lana, ket iyaw-awna ti padi ⟨את⟩ dagitoy a panangiyaw-aw iti sangoan ni Yahweh.",
+  "translation": "Ken alaen ti padi ⟨את⟩ ti karnero ti asham ken ⟨את⟩ ti log ti lana, ket iyanodna ⟨iti⟩ kadagita ti padi a kas panagyanod iti sanguanan ni Yahweh.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "alaenna"
+      "gloss": "ken alaen"
     },
     {
       "surface": "הכהן",
@@ -18,24 +18,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti karnero"
+      "marks": "ti karnero ti asham"
     },
     {
       "surface": "כבש",
-      "gloss": "karnero"
+      "gloss": "ti karnero"
     },
     {
       "surface": "האשם",
-      "gloss": "iti basol"
+      "gloss": "ti asham"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "ti log"
+      "marks": "ti log ti lana"
     },
     {
       "surface": "לג",
-      "gloss": "log"
+      "gloss": "ti log"
     },
     {
       "surface": "השמן",
@@ -43,12 +43,11 @@
     },
     {
       "surface": "והניף",
-      "gloss": "iyaw-awna"
+      "gloss": "ket iyanodna"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "dagitoy"
+      "gloss": "⟨אתם⟩"
     },
     {
       "surface": "הכהן",
@@ -56,17 +55,17 @@
     },
     {
       "surface": "תנופה",
-      "gloss": "panangiyaw-aw"
+      "gloss": "a kas panagyanod"
     },
     {
       "surface": "לפני",
-      "gloss": "iti sangoan ni"
+      "gloss": "iti sanguanan"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T05:25:13.622074409Z",
+  "timestamp": "2026-09-27T01:19:38.267809787Z",
   "model": "glm-5.3"
 }

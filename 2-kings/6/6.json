@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 6,
-  "translation": "Kinuna ti tao ti Elohim, Sadinon natnag? Ket inipakitana ⟨את⟩ ti disso, ket kinitanna ti kayo ket inilonna sadiay, ket naglutang ti landok.",
+  "translation": "Kinuna ti lalaki ti Elohim: Sadino natnag dayta? Pinakitana kenkuana ⟨את⟩ ti disso; kinisana ti kayo ken inbuesna sadiay, ket pinaglayapna ti landok.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "האלהים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אנה",
-      "gloss": "sadinon"
+      "gloss": "sadino"
     },
     {
       "surface": "נפל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויראהו",
-      "gloss": "inipakitana"
+      "gloss": "pinakitana"
     },
     {
       "surface": "את",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "ויקצב",
-      "gloss": "kinitanna"
+      "gloss": "kinisana"
     },
     {
       "surface": "עץ",
-      "gloss": "ti kayo"
+      "gloss": "kayo"
     },
     {
       "surface": "וישלך",
-      "gloss": "inilonna"
+      "gloss": "inbuesna"
     },
     {
       "surface": "שמה",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "ויצף",
-      "gloss": "naglutang"
+      "gloss": "pinaglayapna"
     },
     {
       "surface": "הברזל",
       "gloss": "ti landok"
     }
   ],
-  "timestamp": "2026-09-26T13:23:56.750645893Z",
+  "timestamp": "2026-09-27T01:10:56.212610719Z",
   "model": "glm-5.3"
 }

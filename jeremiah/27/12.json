@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 27,
-  "translation": "Ken kenni Tsidkiyahu ari ti Yehudah nagsaak a kas kadagiti amin a sao a daytoy, a kunkuna: iyem yo ⟨את⟩ dagiti tengngegyo babaen ti yugo ti ari ti Babilonia, ket agserbikayo ⟨את⟩ kenkuana ken ⟨את⟩ ti umilina, ket agbiagkayo.",
+  "translation": "Ken ni Tsidkiyahu, ari ti Yehudah, nagsaok a kas kadagiti amin kadagiti sao a daytoy, a kunkuna: Iyegyo ⟨את⟩ dagiti tengngedyo iti pasig ti ari ti Bavel, ket agserbikayo ⟨אתו⟩ kenkuana ken ti umilina, ket agbiagkayo.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "ken kenni"
+      "gloss": "ken ni"
     },
     {
       "surface": "צדקיה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "nagsaak"
+      "gloss": "nagsaok"
     },
     {
       "surface": "ככל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "a sao"
+      "gloss": "kadagiti sao"
     },
     {
       "surface": "האלה",
@@ -45,28 +45,28 @@
     },
     {
       "surface": "הביאו",
-      "gloss": "iyem yo"
+      "gloss": "Iyegyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti tengngegyo"
+      "marks": "dagiti tengngedyo"
     },
     {
       "surface": "צואריכם",
-      "gloss": "dagiti tengngegyo"
+      "gloss": "dagiti tengngedyo"
     },
     {
       "surface": "בעל",
-      "gloss": "babaen ti"
+      "gloss": "iti pasig"
     },
     {
       "surface": "מלך",
-      "gloss": "yugo ti ari"
+      "gloss": "ti ari"
     },
     {
       "surface": "בבל",
-      "gloss": "ti Babilonia"
+      "gloss": "ti Bavel"
     },
     {
       "surface": "ועבדו",
@@ -74,18 +74,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ kenkuana",
-      "marks": "kenkuana"
+      "gloss": "⟨אתו⟩",
+      "marks": "kenkuana ken ti umilina"
     },
     {
       "surface": "ועמו",
-      "gloss": "ken ⟨את⟩ ti umilina"
+      "gloss": "ken ti umilina"
     },
     {
       "surface": "וחיו",
       "gloss": "ket agbiagkayo"
     }
   ],
-  "timestamp": "2026-09-26T17:07:47.580802600Z",
+  "timestamp": "2026-09-27T01:16:58.510465226Z",
   "model": "glm-5.3"
 }

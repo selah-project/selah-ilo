@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Dengngemmo ti timpuyog ken awatemmo ti turay; tapno maalamatmo iti maudi a paset ti biagmo.",
-  "tokens": [],
-  "timestamp": "2026-09-26T22:39:55.048697698Z",
+  "translation": "Dengngeg ti laysap ken awatem ti panursuro, tapno agbalinka a nasalibo iti uudim.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dengngeg"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ti laysap"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "ken awatem"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ti panursuro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tapno"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "agbalinka a nasalibo"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "iti uudim"
+    }
+  ],
+  "timestamp": "2026-09-27T01:22:38.221632358Z",
   "model": "glm-5.3"
 }

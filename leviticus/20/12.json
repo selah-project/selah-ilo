@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "Ken ti tao a maturog ⟨iti⟩ ⟨את⟩ asawa ti anakna a lalaki — matayen a matayenda dagusuda; gulo ti inaramidda; ti darada ⟨ket⟩ iti kaniada.",
+  "translation": "Ken ti lalaki a maturoganna ⟨את⟩ ti asawa ti anakna a lalaki, maipatpatingga a matayenda dagiti dua: nalaokda nga aramid ti aramidda; ti darada ket kadakuada.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ken ti tao"
+      "gloss": "ken ti lalaki"
     },
     {
       "surface": "אשר",
@@ -17,36 +17,36 @@
     },
     {
       "surface": "ישכב",
-      "gloss": "maturog"
+      "gloss": "maturoganna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "asawa ti anakna a lalaki"
+      "marks": "ti asawa ti anakna a lalaki"
     },
     {
       "surface": "כלתו",
-      "gloss": "asawa ti anakna a lalaki"
+      "gloss": "ti asawa ti anakna a lalaki"
     },
     {
       "surface": "מות",
-      "gloss": "matayen"
+      "gloss": "maipatpatingga"
     },
     {
       "surface": "יומתו",
-      "gloss": "matayenda"
+      "gloss": "a matayenda"
     },
     {
       "surface": "שניהם",
-      "gloss": "dagusuda"
+      "gloss": "dagiti dua"
     },
     {
       "surface": "תבל",
-      "gloss": "gulo"
+      "gloss": "nalaokda nga aramid"
     },
     {
       "surface": "עשו",
-      "gloss": "inaramidda"
+      "gloss": "ti aramidda"
     },
     {
       "surface": "דמיהם",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "בם",
-      "gloss": "iti kaniada"
+      "gloss": "kadakuada"
     }
   ],
-  "timestamp": "2026-09-26T05:43:00.282925080Z",
+  "timestamp": "2026-09-27T01:19:34.354560935Z",
   "model": "glm-5.3"
 }

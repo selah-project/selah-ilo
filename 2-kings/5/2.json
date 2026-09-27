@@ -5,8 +5,57 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Ket dagiti umili ti Aram ket immayda a nagurnong ⟨⟨ti⟩⟩ a mangala iti被封, nupay kasta adda",
-  "tokens": [],
-  "timestamp": "2026-09-26T13:29:36.971204310Z",
+  "translation": "Immayda dagiti gunglo manipud iti Aram, ket dinnukotda manipud iti daga ti Yisrael maysa a bassit nga ubing a babai, ket nagbalin nga agserserbi iti sanguanan ti asawa ni Naaman.",
+  "tokens": [
+    {
+      "surface": "וארם",
+      "gloss": "iti Aram"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "dagiti gunglo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dinnukotda"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "maysa a ubing a babai"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "bassit"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "nagbalin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sanguanan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    }
+  ],
+  "timestamp": "2026-09-27T01:09:40.920079276Z",
   "model": "glm-5.3"
 }

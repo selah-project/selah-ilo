@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 6,
-  "translation": "ket alaenyo ⟨את⟩ ti arko ni Yahweh, ket ikabilnyo ⟨את⟩ iti kariton, ken ⟨את⟩ dagiti banag a balitok a isublinyo kenkuana a kas daton ti basol ikabilnyo iti kahon iti bangirna, ket ipatulodnyo ⟨את⟩ ket mapan.",
+  "translation": "Ken alaenyo ti arko ni Yahweh ken ikabilyo ⟨את⟩ daytoy iti karison, ken ⟨את⟩ dagiti kasangkapan a balitok a mangisublikayo koma kenkuana a kas asham, ikabilyo iti kahon iti bangirna, ken ipatulodyo ⟨את⟩ daytoy ket agnanaedanto a mapan.",
   "tokens": [
     {
       "surface": "ולקחתם",
-      "gloss": "ket alaenyo"
+      "gloss": "ken alaenyo"
     },
     {
       "surface": "את",
@@ -26,12 +26,12 @@
     },
     {
       "surface": "ונתתם",
-      "gloss": "ket ikabilnyo"
+      "gloss": "ken ikabilyo"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ti arko"
+      "marks": "daytoy (ti arko)"
     },
     {
       "surface": "אל",
@@ -39,16 +39,16 @@
     },
     {
       "surface": "העגלה",
-      "gloss": "ti kariton"
+      "gloss": "karison"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "dagiti banag a balitok"
+      "marks": "dagiti kasangkapan a balitok"
     },
     {
       "surface": "כלי",
-      "gloss": "dagiti banag"
+      "gloss": "dagiti kasangkapan"
     },
     {
       "surface": "הזהב",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "השבתם",
-      "gloss": "a isublinyo"
+      "gloss": "a mangisublikayo"
     },
     {
       "surface": "לו",
@@ -68,11 +68,11 @@
     },
     {
       "surface": "אשם",
-      "gloss": "daton ti basol"
+      "gloss": "a kas asham"
     },
     {
       "surface": "תשימו",
-      "gloss": "ikabilnyo"
+      "gloss": "ikabilyo"
     },
     {
       "surface": "בארגז",
@@ -84,18 +84,18 @@
     },
     {
       "surface": "ושלחתם",
-      "gloss": "ket ipatulodnyo"
+      "gloss": "ken ipatulodyo"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ti arko"
+      "marks": "daytoy (ti arko)"
     },
     {
       "surface": "והלך",
-      "gloss": "ket mapan"
+      "gloss": "ket agnanaedanto a mapan"
     }
   ],
-  "timestamp": "2026-09-26T10:36:48.789232746Z",
+  "timestamp": "2026-09-27T01:09:08.449150661Z",
   "model": "glm-5.3"
 }

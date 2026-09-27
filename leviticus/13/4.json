@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 13,
-  "translation": "No ti puraw a banag puraw dayta iti kudil ti lasagna, ket awan ti naadalemnа ti rupana iti kudil, ket ti buokna saan nga agbaliw a puraw, iserraanto ti padi ⟨את⟩ ti negael iti pito nga aldaw.",
+  "translation": "No ti nasilsil ket puraw daytoy iti panit ti lasagna, ken ti langana saan a naun-nek ngem iti panit, ken ti buokna saan a nagbaliw a puraw, iserraanna ti padi ⟨את⟩ ti biddut iti pito nga aldaw.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "no"
+      "gloss": "No"
     },
     {
       "surface": "בהרת",
-      "gloss": "puraw a banag"
+      "gloss": "ti nasilsil"
     },
     {
       "surface": "לבנה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "dayta"
+      "gloss": "daytoy"
     },
     {
       "surface": "בעור",
-      "gloss": "iti kudil"
+      "gloss": "iti panit"
     },
     {
       "surface": "בשרו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ועמק",
-      "gloss": "ket ti kaadalem"
+      "gloss": "ken ti kaunegna"
     },
     {
       "surface": "אין",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "מראה",
-      "gloss": "ti rupana"
+      "gloss": "ti langana"
     },
     {
       "surface": "מן",
-      "gloss": "iti"
+      "gloss": "ngem iti"
     },
     {
       "surface": "העור",
-      "gloss": "kudil"
+      "gloss": "ti panit"
     },
     {
       "surface": "ושערה",
-      "gloss": "ket ti buokna"
+      "gloss": "ken ti buokna"
     },
     {
       "surface": "לא",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "הפך",
-      "gloss": "agbaliw"
+      "gloss": "nagbaliw"
     },
     {
       "surface": "לבן",
-      "gloss": "puraw"
+      "gloss": "a puraw"
     },
     {
       "surface": "והסגיר",
-      "gloss": "iserraanto"
+      "gloss": "iserraanna"
     },
     {
       "surface": "הכהן",
@@ -78,11 +78,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti negael"
+      "marks": "ti biddut"
     },
     {
       "surface": "הנגע",
-      "gloss": "ti negael"
+      "gloss": "ti biddut"
     },
     {
       "surface": "שבעת",
@@ -93,6 +93,6 @@
       "gloss": "nga aldaw"
     }
   ],
-  "timestamp": "2026-09-26T05:27:54.034077149Z",
+  "timestamp": "2026-09-27T01:19:49.170535013Z",
   "model": "glm-5.3"
 }

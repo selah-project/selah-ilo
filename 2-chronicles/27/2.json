@@ -5,8 +5,81 @@
   "book": "2-chronicles",
   "lang": "ilo",
   "chapter": 27,
-  "translation": " ket inaramidna ti nalinteg ⟨iti⟩ matada — ti umiso iti matmi — imbagana; {hmm}",
-  "tokens": [],
-  "timestamp": "2026-09-26T23:55:18.859902857Z",
+  "translation": "Ken inaramidna ti umiso iti matmi ni Yahweh, kas iti amin nga inaramid ni Uzziyahu ti amana; laengen saan a simrek iti templo ni Yahweh, ket ti umili ket agtultuloy a mannadadael.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ken inaramidna"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ti umiso"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "iti matmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kas iti amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inaramid"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "ni Uzziyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ti amana"
+    },
+    {
+      "surface": "רק",
+      "gloss": "laengen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a simrek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iti"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ket agtultuloy pay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ti umili"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "a mannadadael"
+    }
+  ],
+  "timestamp": "2026-09-27T01:24:09.687538978Z",
   "model": "glm-5.3"
 }

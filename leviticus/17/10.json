@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 17,
-  "translation": "ket ti aniaman a tao iti balay ni Yisrael, ken ti estranghero nga aggayammat kadakuada, no mangmangan ⟨siak⟩ iti aniaman a dara — iparigatak ti rupak iti kararua a mangmangan ⟨את⟩ ti dara, ket ikkatak ⟨אתה⟩ nga agmaymaysa iti tengnga ti pagiliana.",
+  "translation": "Ken ti tunggal maysa a lalaki, manipud iti balay ni Yisrael ken manipud kadagiti ganganaet a ganganaed kadakuada, a mangan iti aniaman a dara: isardengkonto ti rupak manipud iti kararua a mangan iti ⟨את⟩ dara, ket maikkatko ⟨את⟩ ti sardengna manipud iti tengnga ti umilina.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ket ti tao"
+      "gloss": "Ken ti tunggal maysa a lalaki"
     },
     {
       "surface": "איש",
-      "gloss": "aniaman a tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "מבית",
-      "gloss": "iti balay"
+      "gloss": "manipud iti balay"
     },
     {
       "surface": "ישראל",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ומן",
-      "gloss": "ken"
+      "gloss": "ken manipud kadagiti"
     },
     {
       "surface": "הגר",
-      "gloss": "ti estranghero"
+      "gloss": "ganganaet"
     },
     {
       "surface": "הגר",
-      "gloss": "aggayammat"
+      "gloss": "a ganganaed"
     },
     {
       "surface": "בתוכם",
@@ -41,35 +41,35 @@
     },
     {
       "surface": "אשר",
-      "gloss": "no"
+      "gloss": "a"
     },
     {
       "surface": "יאכל",
-      "gloss": "mangmangan"
+      "gloss": "mangan"
     },
     {
       "surface": "כל",
-      "gloss": "aniaman"
+      "gloss": "iti aniaman"
     },
     {
       "surface": "דם",
-      "gloss": "dara"
+      "gloss": "a dara"
     },
     {
       "surface": "ונתתי",
-      "gloss": "iparigatak"
+      "gloss": "isardengkonto"
     },
     {
       "surface": "פני",
-      "gloss": "rupak"
+      "gloss": "ti rupak"
     },
     {
       "surface": "בנפש",
-      "gloss": "iti kararua"
+      "gloss": "manipud iti kararua"
     },
     {
       "surface": "האכלת",
-      "gloss": "ti agmangan"
+      "gloss": "a mangan"
     },
     {
       "surface": "את",
@@ -78,26 +78,26 @@
     },
     {
       "surface": "הדם",
-      "gloss": "ti dara"
+      "gloss": "dara"
     },
     {
       "surface": "והכרתי",
-      "gloss": "ket ikkatak"
+      "gloss": "ket maikkatko"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
-      "marks": "agmaymaysa"
+      "gloss": "⟨את⟩",
+      "marks": "manipud iti tengnga"
     },
     {
       "surface": "מקרב",
-      "gloss": "iti tengnga"
+      "gloss": "manipud iti tengnga"
     },
     {
       "surface": "עמה",
-      "gloss": "ti pagiliana"
+      "gloss": "ti umilina"
     }
   ],
-  "timestamp": "2026-09-26T05:37:43.257279984Z",
+  "timestamp": "2026-09-27T01:19:52.364964787Z",
   "model": "glm-5.3"
 }

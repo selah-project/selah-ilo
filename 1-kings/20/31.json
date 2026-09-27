@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "Kinuna dagiti adipenna kenkuana: Men, nangngegkami a dagiti ari ti balay ti Yisrael, ari ti hesed isuda; ikabilta, men, dagiti sako kadagiti beklanmi ken dagiti lubid kadagiti ulomi, ket ruarta kenni ari ti Yisrael; mabalin a ibiaganna ⟨את⟩ ti kararuam.",
+  "translation": "Kinuna dagiti adipenna kenkuana: Kitaem man, nadengngegmi a dagiti ari ti balay ni Yisrael ket ari dagiti hesed isuda; ilaokami man dagiti saketi kadagiti barukongmi ken dagiti luben kadagiti ulomi, ket agluarkami iti ari ni Yisrael — amangan no biagenna ⟨את⟩ ti kararua mo.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "אליו",
-      "gloss": "dagiti adipenna kenkuana"
+      "gloss": "kenkuana"
     },
     {
       "surface": "עבדיו",
-      "gloss": ""
+      "gloss": "dagiti adipenna"
     },
     {
       "surface": "הנה",
-      "gloss": "men"
+      "gloss": "kitaem"
     },
     {
       "surface": "נא",
-      "gloss": "nainegan"
+      "gloss": "man"
     },
     {
       "surface": "שמענו",
-      "gloss": "nangngegkami"
+      "gloss": "nadengngegmi"
     },
     {
       "surface": "כי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ti Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כי",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "ari"
+      "gloss": "ari dagiti"
     },
     {
       "surface": "חסד",
-      "gloss": "ti hesed"
+      "gloss": "hesed"
     },
     {
       "surface": "הם",
@@ -65,23 +65,23 @@
     },
     {
       "surface": "נשימה",
-      "gloss": "ikabilta"
+      "gloss": "ilaokami"
     },
     {
       "surface": "נא",
-      "gloss": "men"
+      "gloss": "man"
     },
     {
       "surface": "שקים",
-      "gloss": "dagiti sako"
+      "gloss": "dagiti saketi"
     },
     {
       "surface": "במתנינו",
-      "gloss": "kadagiti beklanmi"
+      "gloss": "kadagiti barukongmi"
     },
     {
       "surface": "וחבלים",
-      "gloss": "ken dagiti lubid"
+      "gloss": "ken dagiti luben"
     },
     {
       "surface": "בראשנו",
@@ -89,11 +89,11 @@
     },
     {
       "surface": "ונצא",
-      "gloss": "ket ruarta"
+      "gloss": "ket agluarkami"
     },
     {
       "surface": "אל",
-      "gloss": "kenni"
+      "gloss": "iti"
     },
     {
       "surface": "מלך",
@@ -101,26 +101,26 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ti Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אולי",
-      "gloss": "mabalin"
+      "gloss": "amangan no"
     },
     {
       "surface": "יחיה",
-      "gloss": "ibiaganna"
+      "gloss": "biagenna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti kararuam"
+      "marks": "ti kararua mo"
     },
     {
       "surface": "נפשך",
-      "gloss": "ti kararuam"
+      "gloss": "kararua mo"
     }
   ],
-  "timestamp": "2026-09-26T13:12:13.233404441Z",
+  "timestamp": "2026-09-27T01:07:59.995750720Z",
   "model": "glm-5.3"
 }

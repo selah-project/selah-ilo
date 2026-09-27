@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 17,
-  "translation": "Immay maysa kadagiti padi a bininiagda manipud iti Shomron, ket nagñaed iti Bet-El, ket nagbalin a maestro a mangisuro kadakuada ⟨את⟩ no kasano ti butengendan ⟨את⟩ ni Yahweh.",
+  "translation": "Ket immay ti maysa kadagiti padi a naipatalaw manipud iti Shomron, ket nagnaed iti Beit-El, ket nagbalin a mangisuro kadakuada ⟨את⟩ no kasano ti panagbutenganda ⟨את⟩ kenni Yahweh.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "maysa"
+      "gloss": "ti maysa"
     },
     {
       "surface": "מהכהנים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הגלו",
-      "gloss": "bininiagda"
+      "gloss": "naipatalaw"
     },
     {
       "surface": "משמרון",
@@ -33,28 +33,28 @@
     },
     {
       "surface": "וישב",
-      "gloss": "nagñaed"
+      "gloss": "ket nagnaed"
     },
     {
       "surface": "בבית",
-      "gloss": "iti balay"
+      "gloss": "iti Beit-"
     },
     {
       "surface": "אל",
-      "gloss": "Bet-El"
+      "gloss": "El"
     },
     {
       "surface": "ויהי",
-      "gloss": "nagbalin"
+      "gloss": "ket nagbalin"
     },
     {
       "surface": "מורה",
-      "gloss": "a maestro"
+      "gloss": "a mangisuro"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "kadakuada"
+      "marks": "no kasano ti panagbutenganda"
     },
     {
       "surface": "איך",
@@ -62,18 +62,18 @@
     },
     {
       "surface": "ייראו",
-      "gloss": "butengendan"
+      "gloss": "ti panagbutenganda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ni Yahweh"
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "kenni Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T13:58:49.520527279Z",
+  "timestamp": "2026-09-27T01:09:59.326094353Z",
   "model": "glm-5.3"
 }

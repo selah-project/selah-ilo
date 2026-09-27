@@ -5,15 +5,15 @@
   "book": "ecclesiastes",
   "lang": "ilo",
   "chapter": 2,
-  "translation": "Ta iti tao a naimbag iti rupana, itedna ⟨את⟩ ti kinasirib ken ⟨את⟩ ti ammo ken ⟨את⟩ ti ragsak; ket iti makabasol, itedna ti trabaho, a mangurnong ken mangitipon, nga mangited iti naimbag iti sango ti Elohim; daytoy met ket hebel ken pannakapuyot ti angin.",
+  "translation": "Ta ⟨ti⟩ tao a naimbag iti sangoanna, itedna ⟨ti⟩ kinasirib ken ⟨ti⟩ ammo ken ⟨ti⟩ ragsak; ket ti agbasol, itedna ti trabaho ti agurnong ken agtipon, ti ited ⟨iti⟩ maysa a naimbang iti sango ni Elohim. Daytoy pay ket awanan pateg ken pannariri ti angin.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Ta"
+      "gloss": "ta"
     },
     {
       "surface": "לאדם",
-      "gloss": "iti tao"
+      "gloss": "ti tao"
     },
     {
       "surface": "שטוב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "iti rupana"
+      "gloss": "iti sangoanna"
     },
     {
       "surface": "נתן",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "חכמה",
-      "gloss": "ti kinasirib"
+      "gloss": "kinasirib"
     },
     {
       "surface": "ודעת",
-      "gloss": "ken ⟨את⟩ ti ammo"
+      "gloss": "ken ammo"
     },
     {
       "surface": "ושמחה",
-      "gloss": "ken ⟨את⟩ ti ragsak"
+      "gloss": "ken ragsak"
     },
     {
       "surface": "ולחוטא",
-      "gloss": "ket iti makabasol"
+      "gloss": "ket ti agbasol"
     },
     {
       "surface": "נתן",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "לאסוף",
-      "gloss": "a mangurnong"
+      "gloss": "ti agurnong"
     },
     {
       "surface": "ולכנוס",
-      "gloss": "ken mangitipon"
+      "gloss": "ken agtipon"
     },
     {
       "surface": "לתת",
-      "gloss": "nga mangited"
+      "gloss": "ti ited"
     },
     {
       "surface": "לטוב",
-      "gloss": "iti naimbag"
+      "gloss": "iti maysa a naimbang"
     },
     {
       "surface": "לפני",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "ti Elohim"
+      "gloss": "ni Elohim"
     },
     {
       "surface": "גם",
-      "gloss": "met"
+      "gloss": "pay"
     },
     {
       "surface": "זה",
@@ -85,17 +85,17 @@
     },
     {
       "surface": "הבל",
-      "gloss": "hebel"
+      "gloss": "awanan pateg"
     },
     {
       "surface": "ורעות",
-      "gloss": "ken pannakapuyot"
+      "gloss": "ken pannariri"
     },
     {
       "surface": "רוח",
       "gloss": "ti angin"
     }
   ],
-  "timestamp": "2026-09-26T23:07:33.404801533Z",
+  "timestamp": "2026-09-27T01:11:30.331084186Z",
   "model": "glm-5.3"
 }

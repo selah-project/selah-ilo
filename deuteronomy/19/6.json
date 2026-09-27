@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "No koma sumurot ti mangibales ti dara kalpasan ti mammatay, ta agpudot ti pasona, ket maabotanna ta atiddog ti dalan, ken patayenna ti kararua — ket awan kokomatan ti ipapatay kenkuana, ta saan nga inay-ayanna isuna kenkuana idi kalman idi pay.",
+  "translation": "Saan koma a surotan ti mangibales ti dara ti pumatay, no agbunok ti pusona, ket maabotanna, ta atiddog ti dalan, ket patayenna ti kararua; ket awan kenkuana iti ukom ti matay, ta saan nga isu ti naariw kenkuana idi kalman, iti nakalmanan.",
   "tokens": [
     {
       "surface": "פן",
-      "gloss": "no koma"
+      "gloss": "saan koma"
     },
     {
       "surface": "ירדף",
-      "gloss": "sumurot"
+      "gloss": "surotan"
     },
     {
       "surface": "גאל",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "kalpasan"
+      "gloss": "⟨ti pumatay⟩"
     },
     {
       "surface": "הרצח",
-      "gloss": "ti mammatay"
+      "gloss": "ti pumatay"
     },
     {
       "surface": "כי",
-      "gloss": "ta"
+      "gloss": "no"
     },
     {
       "surface": "יחם",
-      "gloss": "agpudot"
+      "gloss": "agbunok"
     },
     {
       "surface": "לבבו",
-      "gloss": "ti pasona"
+      "gloss": "ti pusona"
     },
     {
       "surface": "והשיגו",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "והכהו",
-      "gloss": "ken patayenna"
+      "gloss": "ket patayenna"
     },
     {
       "surface": "נפש",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ולו",
-      "gloss": "ket kenkuana"
+      "gloss": "kenkuana"
     },
     {
       "surface": "אין",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "משפט",
-      "gloss": "kokomatan"
+      "gloss": "iti ukom"
     },
     {
       "surface": "מות",
-      "gloss": "ti ipapatay"
+      "gloss": "ti matay"
     },
     {
       "surface": "כי",
@@ -93,11 +93,11 @@
     },
     {
       "surface": "שנא",
-      "gloss": "inay-ayanna"
+      "gloss": "naariw"
     },
     {
       "surface": "הוא",
-      "gloss": "isuna"
+      "gloss": "isu"
     },
     {
       "surface": "לו",
@@ -109,9 +109,9 @@
     },
     {
       "surface": "שלשום",
-      "gloss": "idi pay"
+      "gloss": "iti nakalmanan"
     }
   ],
-  "timestamp": "2026-09-26T08:18:22.054505208Z",
+  "timestamp": "2026-09-27T01:11:58.998519270Z",
   "model": "glm-5.3"
 }

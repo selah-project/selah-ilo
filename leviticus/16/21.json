@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 16,
-  "translation": "Ket ikabil ni Aharon ⟨את⟩ dagiti dua nga imana iti ulo ti kalding a sibibiag, ken iparangaranganna iti ngatona ⟨את⟩ ti amin a kadakesan dagiti anak ni Yisrael ken ⟨את⟩ ti amin a lappedada, iti amin a basolda, ken itedna ⟨אתם⟩ dagitoy iti ulo ti kalding, ken ipatulodna babaen iti ima ti tao a naitudingan iti metallib.",
+  "translation": "Ket isuarna ni Aharon ⟨את⟩ dagiti dua a imana iti ulo ti kalding a sibibiag, ken ikumpesanna iti ngatona ⟨את⟩ amin a dagiti basol dagiti annak ni Yisrael ken ⟨את⟩ amin a panagsuppiatda, iti amin a basolda; ket itedna ⟨את⟩ ida iti ulo ti kalding, ket ipatulodna babaen iti ima ti maysa a lalaki a naisagana iti kaaduan.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "ikabil"
+      "gloss": "isuarna"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "ni Aharon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti dua nga imana"
+      "marks": "dagiti dua a imana"
     },
     {
       "surface": "שתי",
-      "gloss": "dua"
+      "gloss": "dagiti dua"
     },
     {
       "surface": "ידו",
@@ -42,20 +42,20 @@
     },
     {
       "surface": "החי",
-      "gloss": "sibibiag"
+      "gloss": "a sibibiag"
     },
     {
       "surface": "והתודה",
-      "gloss": "iparangaranganna"
+      "gloss": "ken ikumpesanna"
     },
     {
       "surface": "עליו",
-      "gloss": "ngatona"
+      "gloss": "iti ngatona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amin"
+      "marks": "amin a dagiti basol"
     },
     {
       "surface": "כל",
@@ -63,20 +63,20 @@
     },
     {
       "surface": "עונת",
-      "gloss": "kadakesan"
+      "gloss": "a dagiti basol"
     },
     {
       "surface": "בני",
-      "gloss": "anak"
+      "gloss": "dagiti annak"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ni Yisrael"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "amin"
+      "marks": "amin a panagsuppiatda"
     },
     {
       "surface": "כל",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "פשעיהם",
-      "gloss": "lappedada"
+      "gloss": "a panagsuppiatda"
     },
     {
       "surface": "לכל",
@@ -92,16 +92,16 @@
     },
     {
       "surface": "חטאתם",
-      "gloss": "basolda"
+      "gloss": "a basolda"
     },
     {
       "surface": "ונתן",
-      "gloss": "itedna"
+      "gloss": "ket itedna"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "dagitoy"
+      "gloss": "⟨את⟩ ida",
+      "marks": "iti ulo ti kalding"
     },
     {
       "surface": "על",
@@ -113,29 +113,29 @@
     },
     {
       "surface": "השעיר",
-      "gloss": "kalding"
+      "gloss": "ti kalding"
     },
     {
       "surface": "ושלח",
-      "gloss": "ipatulodna"
+      "gloss": "ket ipatulodna"
     },
     {
       "surface": "ביד",
-      "gloss": "iti ima"
+      "gloss": "babaen iti ima"
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti maysa a lalaki"
     },
     {
       "surface": "עתי",
-      "gloss": "naitudingan"
+      "gloss": "a naisagana"
     },
     {
       "surface": "המדברה",
-      "gloss": "iti metallib"
+      "gloss": "iti kaaduan"
     }
   ],
-  "timestamp": "2026-09-26T05:35:36.652683719Z",
+  "timestamp": "2026-09-27T01:20:16.444630718Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Nagsubli isuna iti tao ti Elohim, isuna ken amin a kampoenna, ket immay ket immatakder iti sanguanna, ket kinuna: Daytoy, naammonakon nga awan ti Elohim iti amin a daga no saan iti Yisrael; ket ita, alaem man ti bendision iti ⟨את⟩ ti adipenmo.",
+  "translation": "Nagsubli ni Naaman iti lalaki ti Elohim, isuna ken amin ti kampona, ket immay ket nagtakder iti sanguana, ket kinuna: Kitaem, ammoak ita nga awan ti Elohim iti amin a daga no saan iti Yisrael; ket ita, alaem iti bendision manipud ⟨את⟩ ti adipenmo.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "Nagsubli"
+      "gloss": "nagsubli"
     },
     {
       "surface": "אל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "האלהים",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "מחנהו",
-      "gloss": "a kampoenna"
+      "gloss": "ti kampona"
     },
     {
       "surface": "ויבא",
-      "gloss": "ket immay"
+      "gloss": "immay"
     },
     {
       "surface": "ויעמד",
-      "gloss": "ket immatakder"
+      "gloss": "nagtakder"
     },
     {
       "surface": "לפניו",
-      "gloss": "iti sanguanna"
+      "gloss": "iti sanguana"
     },
     {
       "surface": "ויאמר",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Daytoy"
+      "gloss": "Kitaem"
     },
     {
       "surface": "נא",
-      "gloss": "man"
+      "gloss": "ita"
     },
     {
       "surface": "ידעתי",
-      "gloss": "naammonakon"
+      "gloss": "ammoak"
     },
     {
       "surface": "כי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "ti Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "בכל",
@@ -81,19 +81,19 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "a daga"
+      "gloss": "ti daga"
     },
     {
       "surface": "כי",
-      "gloss": "no saan"
+      "gloss": "no"
     },
     {
       "surface": "אם",
-      "gloss": "iti"
+      "gloss": "saan"
     },
     {
       "surface": "בישראל",
-      "gloss": "Yisrael"
+      "gloss": "iti Yisrael"
     },
     {
       "surface": "ועתה",
@@ -105,15 +105,15 @@
     },
     {
       "surface": "נא",
-      "gloss": "man"
+      "gloss": "nga"
     },
     {
       "surface": "ברכה",
-      "gloss": "ti bendision"
+      "gloss": "bendision"
     },
     {
       "surface": "מאת",
-      "gloss": "iti ⟨את⟩",
+      "gloss": "manipud ⟨את⟩",
       "marks": "ti adipenmo"
     },
     {
@@ -121,6 +121,6 @@
       "gloss": "ti adipenmo"
     }
   ],
-  "timestamp": "2026-09-26T13:28:55.148304475Z",
+  "timestamp": "2026-09-27T01:09:47.308707108Z",
   "model": "glm-5.3"
 }

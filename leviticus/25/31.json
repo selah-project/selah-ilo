@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 25,
-  "translation": "Ken dagiti balay ti away nga awan kukuada didigra a palikmut, kas iti talon ti daga mabibilang; addaan karbengan a panangisubli, ken iti Yubileo rumuar.",
+  "translation": "Dagiti balay dagiti purok nga awan kadakuada ti didigra nga agpalikmut ket maibilangda a kas ⟨ti⟩ talon ti daga; tubbot ti mabalin kenkuana, ket iti Yubel rumuar ⟨dayta⟩.",
   "tokens": [
     {
       "surface": "ובתי",
-      "gloss": "ken dagiti balay"
+      "gloss": "Dagiti balay"
     },
     {
       "surface": "החצרים",
-      "gloss": "ti away"
+      "gloss": "dagiti purok"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "kukuada"
+      "gloss": "kadakuada"
     },
     {
       "surface": "חמה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "סביב",
-      "gloss": "palikmut"
+      "gloss": "nga agpalikmut"
     },
     {
       "surface": "על",
-      "gloss": "kas iti"
+      "gloss": "a kas"
     },
     {
       "surface": "שדה",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "יחשב",
-      "gloss": "mabibilang"
+      "gloss": "maibilangda"
     },
     {
       "surface": "גאלה",
-      "gloss": "kabenggan a panangisubli"
+      "gloss": "tubbot"
     },
     {
       "surface": "תהיה",
-      "gloss": "addaan"
+      "gloss": "ti mabalin"
     },
     {
       "surface": "לו",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "וביבל",
-      "gloss": "ken iti Yubileo"
+      "gloss": "ket iti Yubel"
     },
     {
       "surface": "יצא",
       "gloss": "rumuar"
     }
   ],
-  "timestamp": "2026-09-26T05:50:29.751355589Z",
+  "timestamp": "2026-09-27T01:20:32.569897301Z",
   "model": "glm-5.3"
 }

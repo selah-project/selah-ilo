@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "Ta ti tao, ti tao a sumpaanna ⟨את⟩ amana ken ⟨את⟩ inana — matayen a matay; ti amana ken inana sumpaanna; ti darana ⟨ket⟩ iti kenkuana.",
+  "translation": "Ta ti tunggal lalaki a mangudbud ⟨iti⟩ amana ken ⟨iti⟩ inana, matayen a pudno; ti amana ken ti inana ti nangudbudanna, ti darana ket adda ⟨iti⟩ kenkuana.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti tunggal"
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יקלל",
-      "gloss": "sumpaanna"
+      "gloss": "mangudbud"
     },
     {
       "surface": "את",
@@ -51,19 +51,19 @@
     },
     {
       "surface": "יומת",
-      "gloss": "matay"
+      "gloss": "a pudno"
     },
     {
       "surface": "אביו",
-      "gloss": "amana"
+      "gloss": "ti amana"
     },
     {
       "surface": "ואמו",
-      "gloss": "ken inana"
+      "gloss": "ken ti inana"
     },
     {
       "surface": "קלל",
-      "gloss": "sumpaanna"
+      "gloss": "ti nangudbudanna"
     },
     {
       "surface": "דמיו",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "iti kenkuana"
+      "gloss": "adda ⟨iti⟩ kenkuana"
     }
   ],
-  "timestamp": "2026-09-26T05:43:00.281656099Z",
+  "timestamp": "2026-09-27T01:20:15.256123705Z",
   "model": "glm-5.3"
 }

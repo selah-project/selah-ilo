@@ -5,24 +5,24 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 15,
-  "translation": "ket napasamak, idi agturaydin, binendisionanna — saan: inna dadaelen ti intero a balay ni Yarovam; saan a nangibati kadagiti aganges ⟨את⟩ amin a bagi ni Yarovam agingga iti pannakadadaelna, kas iti sao ni Yahweh a nagsao babaen ti ima ti adipenna a ni Akhiya a Shilonita.",
+  "translation": "Napasamak idi agturay, tinnaddaenna ⟨את⟩ ti amin a balay ni Yaravam; saan a nangibati ⟨ti⟩ aniaman a naariranok kenni Yaravam agingga iti panagdadaelna kaniaku, segun ti sao ni Yahweh a naisao babaen ti ima ti adipenna a ni Ajiya a Shilonita.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ket napasamak"
+      "gloss": "napasamak"
     },
     {
       "surface": "כמלכו",
-      "gloss": "idi agturaydin"
+      "gloss": "idi agturay"
     },
     {
       "surface": "הכה",
-      "gloss": "inna dadaelen"
+      "gloss": "tinnaddaenna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amin"
+      "marks": "ti amin a balay ni Yaravam"
     },
     {
       "surface": "כל",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yarovam"
+      "gloss": "Yaravam"
     },
     {
       "surface": "לא",
@@ -46,31 +46,31 @@
     },
     {
       "surface": "כל",
-      "gloss": "kadagiti"
+      "gloss": "aniaman"
     },
     {
       "surface": "נשמה",
-      "gloss": "aganges"
+      "gloss": "naariranok"
     },
     {
       "surface": "לירבעם",
-      "gloss": "ni Yarovam"
+      "gloss": "kenni Yaravam"
     },
     {
       "surface": "עד",
-      "gloss": "agingga iti"
+      "gloss": "agingga"
     },
     {
       "surface": "השמדו",
-      "gloss": "pannakadadaelna"
+      "gloss": "iti panagdadaelna kaniaku"
     },
     {
       "surface": "כדבר",
-      "gloss": "kas iti sao"
+      "gloss": "segun ti sao"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אשר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "nagsao"
+      "gloss": "naisao"
     },
     {
       "surface": "ביד",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "אחיה",
-      "gloss": "ni Akhiya"
+      "gloss": "Ajiya"
     },
     {
       "surface": "השילני",
       "gloss": "a Shilonita"
     }
   ],
-  "timestamp": "2026-09-26T12:56:57.671725585Z",
+  "timestamp": "2026-09-27T01:07:47.344146984Z",
   "model": "glm-5.3"
 }

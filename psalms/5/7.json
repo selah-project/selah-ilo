@@ -5,41 +5,42 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Idadadaelmo dagiti agsasao iti palso; ti tao ti dara ken ti panandaya nasukatan ni Yahweh.",
+  "translation": "Dadaelenmo dagiti agsasarita iti ⟨את⟩ bulbulod; ti lalaki iti dara ken limed ket didigraenna ni Yahweh.",
   "tokens": [
     {
       "surface": "תאבד",
-      "gloss": "idadadaelmo"
+      "gloss": "Dadaelenmo"
     },
     {
       "surface": "דברי",
-      "gloss": "dagiti agsasao"
+      "gloss": "dagiti agsasarita"
     },
     {
       "surface": "כזב",
-      "gloss": "iti palso"
+      "gloss": "iti bulbulod"
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki",
+      "marks": "ti lalaki iti dara ken limed"
     },
     {
       "surface": "דמים",
-      "gloss": "ti dara"
+      "gloss": "iti dara"
     },
     {
       "surface": "ומרמה",
-      "gloss": "ken ti panandaya"
+      "gloss": "ken limed"
     },
     {
       "surface": "יתעב",
-      "gloss": "nasukatan"
+      "gloss": "ket didigraenna"
     },
     {
       "surface": "יהוה",
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T20:43:54.024062001Z",
+  "timestamp": "2026-09-27T01:23:24.738609708Z",
   "model": "glm-5.3"
 }

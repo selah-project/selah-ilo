@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "Dagiti anak ti tao, agingga no kadan, ti daydayawko maibabaan? Ayatendayo ti awan linaonna, ket birukendayo ti ulbod. Selah.",
+  "translation": "Dagiti anak ti lalaki, agingga ania ti daydayawko ⟨ket⟩ para iti bain? Ayatenyo ti awan linaon, ken birukenyo ti kabuktutan. Selah.",
   "tokens": [
     {
       "surface": "בני",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "עד",
@@ -21,37 +21,37 @@
     },
     {
       "surface": "מה",
-      "gloss": "no kadan"
+      "gloss": "ania"
     },
     {
       "surface": "כבודי",
-      "gloss": "ti daydayawko"
+      "gloss": "daydayawko"
     },
     {
       "surface": "לכלמה",
-      "gloss": "maibabaan"
+      "gloss": "iti bain"
     },
     {
       "surface": "תאהבון",
-      "gloss": "ayatendayo"
+      "gloss": "ayatenyo"
     },
     {
       "surface": "ריק",
-      "gloss": "ti awan linaonna"
+      "gloss": "ti awan linaon"
     },
     {
       "surface": "תבקשו",
-      "gloss": "ket birukendayo"
+      "gloss": "birukenyo"
     },
     {
       "surface": "כזב",
-      "gloss": "ti ulbod"
+      "gloss": "ti kabuktutan"
     },
     {
       "surface": "סלה",
       "gloss": "Selah"
     }
   ],
-  "timestamp": "2026-09-26T20:45:08.902707559Z",
+  "timestamp": "2026-09-27T01:23:03.539547863Z",
   "model": "glm-5.3"
 }

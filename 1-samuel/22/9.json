@@ -5,8 +5,86 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 22,
-  "translation": "Simungbat ni Doeg ti Edomita, nga nakatakder iti addUser kadagiti adipen ni Shaul, ket kinuna: Nakitak ⟨את⟩ ti anak a lalaki ni Yishay simmangpet iti Nob, kenni Akhimelekh anak ni Akhituv.",
-  "tokens": [],
-  "timestamp": "2026-09-26T11:08:33.016891917Z",
+  "translation": "Ket nagsungbat ni Doeg ti Edomita, a natengngel iti nagturay kadagiti adipen ni Shaul, ket kinuna: Nakitak ⟨את⟩ ti anak ni Yishay idi simmangpet iti Nob, kenni Akhimelekh nga anak ni Akhitub.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "nagsungbat"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ti Edomita"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "natengngel"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti nagturay kadagiti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "adipen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Nakitak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti anak ni Yishay"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ti anak"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "idi simmangpet"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "iti Nob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelekh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Akhitub"
+    }
+  ],
+  "timestamp": "2026-09-27T01:08:27.202982927Z",
   "model": "glm-5.3"
 }

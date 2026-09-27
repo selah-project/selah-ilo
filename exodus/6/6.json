@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 6,
-  "translation": "Kasta ngarud, saoem kadagiti anak ni Yisrael: Siak ti Yahweh, ket ikkatko ⟨את⟩ dakayo manipud iti baba dagiti dagsen a trabaho ti Mitsrayim, ket isalbaak ⟨את⟩ dakayo iti panagpaadipenda, ket isubliko ⟨את⟩ dakayo babaen iti nawayway a sikking ken kadagiti dakkel a hustisia.",
+  "translation": "Isu a kunaem kadagiti anak ti Yisrael: siak ⟨ti⟩ Yahweh, ken iparuakko dakayo ⟨את⟩ manipud iti baba dagiti pakarigrigatan ti Mitsrayim, ken isalakannak dakayo ⟨את⟩ manipud iti panagserbi da, ken itubbotko dakayo ⟨את⟩ babaen iti naunat a braso ken babaen kadagiti dakkel nga ukom.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Kasta ngarud"
+      "gloss": "Isu a"
     },
     {
       "surface": "אמר",
-      "gloss": "saoem"
+      "gloss": "kunaem"
     },
     {
       "surface": "לבני",
-      "gloss": "kadagiti anak"
+      "gloss": "kadagiti anak ti"
     },
     {
       "surface": "ישראל",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "והוצאתי",
-      "gloss": "ikkatko"
+      "gloss": "ken iparuakko"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "dakayo"
+      "marks": "dakayo — manipud iti baba dagiti pakarigrigatan"
     },
     {
       "surface": "מתחת",
@@ -46,51 +46,51 @@
     },
     {
       "surface": "סבלת",
-      "gloss": "dagsen a trabaho"
+      "gloss": "dagiti pakarigrigatan"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "ti Mitsrayim"
     },
     {
       "surface": "והצלתי",
-      "gloss": "isalbaak"
+      "gloss": "ken isalakannak"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "dakayo"
+      "marks": "dakayo — manipud iti panagserbi da"
     },
     {
       "surface": "מעבדתם",
-      "gloss": "panagpaadipenda"
+      "gloss": "iti panagserbi da"
     },
     {
       "surface": "וגאלתי",
-      "gloss": "isubliko"
+      "gloss": "ken itubbotko"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "dakayo"
+      "marks": "dakayo — babaen iti naunat a braso"
     },
     {
       "surface": "בזרוע",
-      "gloss": "babaen iti sikking"
+      "gloss": "babaen iti braso"
     },
     {
       "surface": "נטויה",
-      "gloss": "nawayway"
+      "gloss": "a naunat"
     },
     {
       "surface": "ובשפטים",
-      "gloss": "ken kadagiti hustisia"
+      "gloss": "ken babaen kadagiti ukom"
     },
     {
       "surface": "גדלים",
-      "gloss": "dakkel"
+      "gloss": "a dakkel"
     }
   ],
-  "timestamp": "2026-09-26T03:36:42.523452955Z",
+  "timestamp": "2026-09-27T01:13:48.527969896Z",
   "model": "glm-5.3"
 }

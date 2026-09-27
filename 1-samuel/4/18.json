@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "Ket napasamak, idi naibagana ti ⟨את⟩ arko ti Elohim, ket matnag isuna manipud iti trono agpauduy, iti asideg ti ima ti ruangan, ket nabaliwan ti takdernganna ket natay, ta lakayen ti tao ken nadagsen; ket isu ti nagukom iti ⟨את⟩ Yisrael uppat a pulo a tawen.",
+  "translation": "ket napasamak, idi naibagana ⟨את⟩ ti arko ti Elohim, ket natnag isuna manipud iti tugawna nga agpauday, iti igid ti ruangan, ket natukkol ti tengngedna ket natay, ta nalakayen ti lalaki ken nadagsen, ket isu ti nangukom ⟨את⟩ ti Yisrael uppat a pulo a tawen.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti arko ti Elohim"
+      "marks": "ti arko"
     },
     {
       "surface": "ארון",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ויפל",
-      "gloss": "ket matnag"
+      "gloss": "ket natnag"
     },
     {
       "surface": "מעל",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "הכסא",
-      "gloss": "trono"
+      "gloss": "tugawna"
     },
     {
       "surface": "אחרנית",
-      "gloss": "agpauduy"
+      "gloss": "nga agpauday"
     },
     {
       "surface": "בעד",
-      "gloss": "iti asideg"
+      "gloss": "iti igid"
     },
     {
       "surface": "יד",
-      "gloss": "ti ima"
+      "gloss": "ti igid"
     },
     {
       "surface": "השער",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "ותשבר",
-      "gloss": "ket nabaliwan"
+      "gloss": "ket natukkol"
     },
     {
       "surface": "מפרקתו",
-      "gloss": "ti takdernganna"
+      "gloss": "ti tengngedna"
     },
     {
       "surface": "וימת",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "זקן",
-      "gloss": "lakayen"
+      "gloss": "nalakayen"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "וכבד",
@@ -90,16 +90,16 @@
     },
     {
       "surface": "שפט",
-      "gloss": "nagukom"
+      "gloss": "ti nangukom"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisrael"
+      "marks": "ti Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "iti Yisrael"
+      "gloss": "ti Yisrael"
     },
     {
       "surface": "ארבעים",
@@ -110,6 +110,6 @@
       "gloss": "a tawen"
     }
   ],
-  "timestamp": "2026-09-26T10:31:29.418562149Z",
+  "timestamp": "2026-09-27T01:09:08.268957018Z",
   "model": "glm-5.3"
 }

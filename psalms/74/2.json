@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 74,
-  "translation": "Lagipenmo ti gimongmo a ginatangmo idiay ugma; insalakanmo ti tribu ti tawidmo — daytoy bantay Tsiyon, a sadiay agnanaedka.",
+  "translation": "Lagipenmo ti gimongmo, a pinarsuam idi kapalman, ti tribu ti tawidmo a tinubbotmo, ti bantay Tsiyon, daytoy a nagnaedka ⟨iti unegna⟩.",
   "tokens": [
     {
       "surface": "זכר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "קנית",
-      "gloss": "ginatangmo"
+      "gloss": "pinarsuam"
     },
     {
       "surface": "קדם",
-      "gloss": "idiay ugma"
+      "gloss": "idi kapalman"
     },
     {
       "surface": "גאלת",
-      "gloss": "insalakanmo"
+      "gloss": "tinubbotmo"
     },
     {
       "surface": "שבט",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הר",
-      "gloss": "bantay"
+      "gloss": "ti bantay"
     },
     {
       "surface": "ציון",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "שכנת",
-      "gloss": "agnanaedka"
+      "gloss": "nagnaedka"
     },
     {
       "surface": "בו",
-      "gloss": "sadiay"
+      "gloss": "⟨iti unegna⟩"
     }
   ],
-  "timestamp": "2026-09-26T22:17:06.733825589Z",
+  "timestamp": "2026-09-27T01:23:45.294613246Z",
   "model": "glm-5.3"
 }

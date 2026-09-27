@@ -5,15 +5,15 @@
   "book": "micah",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Ket agbalin a ti nabati ni Yaakov iti tengnga dagiti adu nga umili, kas iti nay-iti a manipud ⟨את⟩ kenni Yahweh, kas iti tudo iti ngato ti ruot, a saan nga ur-urayen ti tao ken saan a mannamnama kadagiti anak ti tao.",
+  "translation": "Ken agbalin a ti sumagmamano a nabati ni Yaakov ket adda iti tengnga dagiti adu nga umili, a kas ti nagtudo manipud iti ⟨את⟩ ni Yahweh, a kas dagiti ur-uran iti ngato ti ruot, a saan nga agur-uray iti maysa a lalaki ken saan nga agur-uray kadagiti anak ti tao.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ket agbalin"
+      "gloss": "ken agbalin"
     },
     {
       "surface": "שארית",
-      "gloss": "ti nabati"
+      "gloss": "ti sumagmamano a nabati"
     },
     {
       "surface": "יעקב",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "כטל",
-      "gloss": "kas iti nay-iti"
+      "gloss": "a kas ti nagtudo"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "kenni Yahweh"
+      "gloss": "manipud iti ⟨את⟩",
+      "marks": "ni Yahweh"
     },
     {
       "surface": "יהוה",
-      "gloss": "kenni Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "כרביבים",
-      "gloss": "kas iti tudo"
+      "gloss": "a kas dagiti ur-uran"
     },
     {
       "surface": "עלי",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "יקוה",
-      "gloss": "ur-urayen"
+      "gloss": "agur-uray"
     },
     {
       "surface": "לאיש",
-      "gloss": "ti tao"
+      "gloss": "iti maysa a lalaki"
     },
     {
       "surface": "ולא",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ייחל",
-      "gloss": "mannamnama"
+      "gloss": "agur-uray"
     },
     {
       "surface": "לבני",
@@ -89,6 +89,6 @@
       "gloss": "ti tao"
     }
   ],
-  "timestamp": "2026-09-26T20:07:14.458132697Z",
+  "timestamp": "2026-09-27T01:21:09.364892962Z",
   "model": "glm-5.3"
 }

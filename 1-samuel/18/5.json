@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 18,
-  "translation": "Immay ni David iti amin a papaten nga ipatulodna ni Shaul kennia, ket nagsageppes isuna; ken inikkanna ni Shaul nga agtakder iti rabaw dagiti tao ti gubat; ket nasayaat daytoy kadagiti mata ti amin a umili, ken kadagiti mata dagiti adipen ni Shaul.",
+  "translation": "Ket rummuar ni David iti amin a ipatulodna ni Shaul, ken nagtignay a nasirib; ket ni Shaul nangidulin kenkuana kadagiti lallaki ti gubat, ken nasayaat daytoy kadagiti mata ti amin a umili, ken pay kadagiti mata dagiti adipen ni Shaul.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "Immay"
+      "gloss": "ket rummuar"
     },
     {
       "surface": "דוד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "a papaten"
+      "gloss": "a"
     },
     {
       "surface": "ישלחנו",
-      "gloss": "ipatulodna kennia"
+      "gloss": "ipatulodna"
     },
     {
       "surface": "שאול",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ישכיל",
-      "gloss": "nagsageppes isuna"
+      "gloss": "nagtignay a nasirib"
     },
     {
       "surface": "וישמהו",
-      "gloss": "inikkanna"
+      "gloss": "nangidulin kenkuana"
     },
     {
       "surface": "שאול",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "על",
-      "gloss": "iti rabaw"
+      "gloss": "iti"
     },
     {
       "surface": "אנשי",
-      "gloss": "dagiti tao"
+      "gloss": "kadagiti lallaki"
     },
     {
       "surface": "המלחמה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "וייטב",
-      "gloss": "nasayaat"
+      "gloss": "ken nasayaat"
     },
     {
       "surface": "בעיני",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "amin"
+      "gloss": "ti amin"
     },
     {
       "surface": "העם",
-      "gloss": "a umili"
+      "gloss": "umili"
     },
     {
       "surface": "וגם",
-      "gloss": "ken"
+      "gloss": "ken pay"
     },
     {
       "surface": "בעיני",
@@ -88,6 +88,6 @@
       "gloss": "ni Shaul"
     }
   ],
-  "timestamp": "2026-09-26T11:00:14.806274024Z",
+  "timestamp": "2026-09-27T01:08:35.281777982Z",
   "model": "glm-5.3"
 }

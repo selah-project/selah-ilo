@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 27,
-  "translation": "No ti tao pinasantuana ⟨את⟩ balayna a nasantuan kenni Yahweh, ti padi agpateganna dayta, no naimbas wenno dakes; a kas ti pategen ti padi ⟨ti⟩, kasta ti agtakder.",
+  "translation": "No ti maysa a lalaki no ipasantuanna ⟨את⟩ ti balayna a kas nasantuan a banag kenni Yahweh, ti padi ti sukatananna, no naimbag no dakes; a kas ti isukatanna ⟨את⟩ ti padi, kasta ti agtakder.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ken ti tao"
+      "gloss": "no ti maysa a lalaki"
     },
     {
       "surface": "כי",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "יקדש",
-      "gloss": "pinasantuana"
+      "gloss": "ipasantuanna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "balayna"
+      "marks": "ti balayna"
     },
     {
       "surface": "ביתו",
-      "gloss": "balayna"
+      "gloss": "ti balayna"
     },
     {
       "surface": "קדש",
-      "gloss": "a nasantuan"
+      "gloss": "a kas nasantuan a banag"
     },
     {
       "surface": "ליהוה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "והעריכו",
-      "gloss": "agpateganna"
+      "gloss": "ti sukatananna"
     },
     {
       "surface": "הכהן",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "טוב",
-      "gloss": "naimbas"
+      "gloss": "naimbag"
     },
     {
       "surface": "ובין",
-      "gloss": "wenno"
+      "gloss": "no"
     },
     {
       "surface": "רע",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "יעריך",
-      "gloss": "ti pategen"
+      "gloss": "ti isukatanna"
     },
     {
       "surface": "אתו",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "יקום",
-      "gloss": "agtakder"
+      "gloss": "ti agtakder"
     }
   ],
-  "timestamp": "2026-09-26T06:00:12.824993747Z",
+  "timestamp": "2026-09-27T01:20:40.321727395Z",
   "model": "glm-5.3"
 }

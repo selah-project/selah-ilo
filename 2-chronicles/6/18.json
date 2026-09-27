@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "ilo",
   "chapter": 6,
-  "translation": "Ta pudno kadi nga agnaed ti Elohim ⟨את⟩ ti tao iti daga? Kitaem, ti langit ken ti langit ti langit saanda a makaawat Kenka — kaadu pay daytoy a balay a inpatakderko?",
+  "translation": "Ta no pudno nga agnaed ti Elohim ⟨iti⟩ ⟨את⟩ ti tao iti daga — samtoy, ti langit ken ti langit dagiti langit ket saanda a makaawat kenka, no kasta koma ti balay daytoy a pinarsuak.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ta"
+      "gloss": "ta no"
     },
     {
       "surface": "האמנם",
-      "gloss": "pudno kadi"
+      "gloss": "pudno nga"
     },
     {
       "surface": "ישב",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "kitaem"
+      "gloss": "samtoy"
     },
     {
       "surface": "שמים",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "ti langit"
+      "gloss": "dagiti langit"
     },
     {
       "surface": "לא",
@@ -62,23 +62,23 @@
     },
     {
       "surface": "יכלכלוך",
-      "gloss": "a makaawat Kenka"
+      "gloss": "a makaawat kenka"
     },
     {
       "surface": "אף",
-      "gloss": "kaadu pay"
+      "gloss": "no kasta"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "koma"
     },
     {
       "surface": "הבית",
-      "gloss": "daytoy a balay"
+      "gloss": "ti balay"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "daytoy"
     },
     {
       "surface": "אשר",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "בניתי",
-      "gloss": "inpatakderko"
+      "gloss": "pinarsuak"
     }
   ],
-  "timestamp": "2026-09-26T23:45:39.716401117Z",
+  "timestamp": "2026-09-27T01:09:34.899501724Z",
   "model": "glm-5.3"
 }

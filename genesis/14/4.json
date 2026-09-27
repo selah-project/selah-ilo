@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "Sangapulo ket dua a tawen nagserbida da kenni Khedarlaomer ⟨את⟩, ngem idi ti maikasangapulo ket tallo a tawen nagrebeldeda.",
+  "translation": "Duanapulo ket dua a tawen ti nagservida da ⟨iti⟩ ⟨את⟩ Kedarlaomer, ket idi maikatallo a sangapulo ket maysa a tawenimmaddaanda.",
   "tokens": [
     {
       "surface": "שתים",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "sangapulo ket"
+      "gloss": "napulo ket dua a tawen"
     },
     {
       "surface": "שנה",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "nagserbida"
+      "gloss": "nagservida da"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kenni Khedarlaomer"
+      "marks": "Kedarlaomer"
     },
     {
       "surface": "כדרלעמר",
-      "gloss": "Khedarlaomer"
+      "gloss": "Kedarlaomer"
     },
     {
       "surface": "ושלש",
-      "gloss": "ken idi ti maikasangapulo ket tallo"
+      "gloss": "ket idi maikatallo"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "sangapulo ket maysa"
     },
     {
       "surface": "שנה",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "מרדו",
-      "gloss": "nagrebeldeda"
+      "gloss": "immaddaanda"
     }
   ],
-  "timestamp": "2026-09-26T01:57:49.674059437Z",
+  "timestamp": "2026-09-27T01:13:56.427684328Z",
   "model": "glm-5.3"
 }

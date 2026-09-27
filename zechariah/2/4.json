@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "ilo",
   "chapter": 2,
-  "translation": "Kinunak: Ania dagitoy nga umay nga aramiden? Kinunana nga agsao: Dagitoy ti dagiti sanga a nangwawit iti ⟨את⟩ ni Yehudah, nga ti tungngal maysa ket saan a nangato iti ulona, ket umayda nga agsardeng ⟨את⟩ kadakuada, nga itudokanda ⟨את⟩ ti sanga ti nasion nga agtamdek iti sanga a simmangan ⟨את⟩ ti daga ni Yehudah a mangwawit kadi.",
+  "translation": "Kinunak: Ania dagitoy nga ummáy a mangaramid? Ket kinunana, a kunkuna: Dagitoy ti dagiti sara a naiwarwaranda ⟨את⟩ ti Yehudah, iti kasta a pamaypay nga awan ti lalaki a nangato ti ulona; ket immayda dagitoy a mangbuteng kadakuada ⟨אתם⟩, a mangipababa ⟨את⟩ dagiti sara ti dagiti pagilian, dagiti mangato ti sara kasupadiat ti daga ti Yehudah, a maiwarwar dayta.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "באים",
-      "gloss": "ngaat umay"
+      "gloss": "ummáy"
     },
     {
       "surface": "לעשות",
-      "gloss": "nga aramiden"
+      "gloss": "a mangaramid"
     },
     {
       "surface": "ויאמר",
-      "gloss": "kinunana"
+      "gloss": "ket kinunana"
     },
     {
       "surface": "לאמר",
-      "gloss": "nga agsao"
+      "gloss": "a kunkuna"
     },
     {
       "surface": "אלה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הקרנות",
-      "gloss": "ti dagiti sanga"
+      "gloss": "ti dagiti sara"
     },
     {
       "surface": "אשר",
@@ -49,24 +49,24 @@
     },
     {
       "surface": "זרו",
-      "gloss": "nangwawit"
+      "gloss": "naiwarwaranda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ni Yehudah"
+      "marks": "ti Yehudah"
     },
     {
       "surface": "יהודה",
-      "gloss": "ni Yehudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "כפי",
-      "gloss": "nga ti tungngal"
+      "gloss": "iti kasta a pamaypay"
     },
     {
       "surface": "איש",
-      "gloss": "maysa"
+      "gloss": "lalaki"
     },
     {
       "surface": "לא",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "iti ulona"
+      "gloss": "ti ulona"
     },
     {
       "surface": "ויבאו",
-      "gloss": "ket umayda"
+      "gloss": "ket immayda"
     },
     {
       "surface": "אלה",
@@ -90,54 +90,55 @@
     },
     {
       "surface": "להחריד",
-      "gloss": "nga agsardeng"
+      "gloss": "a mangbuteng"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ kadakuada"
+      "gloss": "⟨אתם⟩",
+      "marks": "kadakuada"
     },
     {
       "surface": "לידות",
-      "gloss": "nga itudokanda"
+      "gloss": "a mangipababa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti sanga ti nasion"
+      "marks": "dagiti sara"
     },
     {
       "surface": "קרנות",
-      "gloss": "ti sanga"
+      "gloss": "ti dagiti sara"
     },
     {
       "surface": "הגוים",
-      "gloss": "ti nasion"
+      "gloss": "ti dagiti pagilian"
     },
     {
       "surface": "הנשאים",
-      "gloss": "nga agtamdek"
+      "gloss": "dagiti mangato"
     },
     {
       "surface": "קרן",
-      "gloss": "iti sanga"
+      "gloss": "sara"
     },
     {
       "surface": "אל",
-      "gloss": "a simmangan"
+      "gloss": "kasupadiat"
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨את⟩ ti daga"
+      "gloss": "ti daga"
     },
     {
       "surface": "יהודה",
-      "gloss": "ni Yehudah"
+      "gloss": "ti Yehudah"
     },
     {
       "surface": "לזרותה",
-      "gloss": "a mangwawit kadi"
+      "gloss": "a maiwarwar dayta"
     }
   ],
-  "timestamp": "2026-09-26T20:28:53.715105555Z",
+  "timestamp": "2026-09-27T01:23:50.455498683Z",
   "model": "glm-5.3"
 }

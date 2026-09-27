@@ -5,28 +5,28 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 12,
-  "translation": "Ti amam ket nanggadelgad iti ⟨את⟩ pagtallikodannmi; sika ita, pangngaasim a gapuanam ti napadsok a panagserbi ti amam, ket ti nadagsen a pagtallikodan a naitedna kadmiami, ket agserbirkami keniка.",
+  "translation": "Ti amamom ket nanggawid ⟨את⟩ ti jugokami a nakaro; ket sika ita, pangbabaem ti nakaro a panagserbi ti amamom ken ti nadagsen a jugona a naitedna kaniami, ket agserbirkami kaniam.",
   "tokens": [
     {
       "surface": "אביך",
-      "gloss": "ti amam"
+      "gloss": "ti amamom"
     },
     {
       "surface": "הקשה",
-      "gloss": "nanggadelgad"
+      "gloss": "nanggawid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pagtallikodannmi"
+      "marks": "ti jugokami"
     },
     {
       "surface": "עלנו",
-      "gloss": "pagtallikodannmi"
+      "gloss": "ti jugokami a nakaro"
     },
     {
       "surface": "ואתה",
-      "gloss": "sika"
+      "gloss": "ket sika"
     },
     {
       "surface": "עתה",
@@ -34,23 +34,23 @@
     },
     {
       "surface": "הקל",
-      "gloss": "pangngaasim a gapuanam"
+      "gloss": "pangbabaem"
     },
     {
       "surface": "מעבדת",
-      "gloss": "panagserbi"
+      "gloss": "ti panagserbi"
     },
     {
       "surface": "אביך",
-      "gloss": "ti amam"
+      "gloss": "ti amamom"
     },
     {
       "surface": "הקשה",
-      "gloss": "napadsok"
+      "gloss": "nakaro"
     },
     {
       "surface": "ומעלו",
-      "gloss": "ti pagtallikodan"
+      "gloss": "ken ti jugona"
     },
     {
       "surface": "הכבד",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "עלינו",
-      "gloss": "kadmiami"
+      "gloss": "kaniami"
     },
     {
-      "surface": "ונעבדך",
-      "gloss": "agserbirkami kenika"
+      "surface": "וונעבדך",
+      "gloss": "ket agserbirkami kaniam"
     }
   ],
-  "timestamp": "2026-09-26T12:50:48.276935100Z",
+  "timestamp": "2026-09-27T01:07:44.351875711Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ilo",
   "chapter": 23,
-  "translation": "Ni Benayahu, anak ni Yehoyada, anak ni tao a napigsa ken adu dagiti aramidna, manipud iti Kavtseel — isu ti dinenna ⟨את⟩ dagiti dua a lalaki-a-leon ti Moab; ket isu ket immabur ket dinenna ⟨את⟩ ti leon iti tengnga ti adday iti aldaw ti niebe.",
+  "translation": "Ken ni Benayahu, anak ni Yehoyada, anak ti maysa a lalaki a sibibiag ken adu dagiti aramidna, manipud iti Miqbetsel — isu ti nangtungpal ⟨את⟩ dua a lalaki-leon ti Moav; ket isu ti simmukat ken nangtungpal ⟨את⟩ ti leon iti tengnga ti abang, iti aldaw ti niebe.",
   "tokens": [
     {
       "surface": "ובניהו",
-      "gloss": "Ni Benayahu"
+      "gloss": "Ken ni Benayahu"
     },
     {
       "surface": "בן",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "ni tao"
+      "gloss": "ti maysa a lalaki"
     },
     {
       "surface": "חי",
-      "gloss": "a napigsa"
+      "gloss": "a sibibiag"
     },
     {
       "surface": "רב",
-      "gloss": "ken adu"
+      "gloss": "adu"
     },
     {
       "surface": "פעלים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מקבצאל",
-      "gloss": "manipud iti Kavtseel"
+      "gloss": "manipud iti Miqbetsel"
     },
     {
       "surface": "הוא",
@@ -49,36 +49,36 @@
     },
     {
       "surface": "הכה",
-      "gloss": "ti dinenna"
+      "gloss": "ti nangtungpal"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti dua a lalaki-a-leon"
+      "marks": "dua a lalaki-leon"
     },
     {
       "surface": "שני",
-      "gloss": "dagiti dua"
+      "gloss": "dua"
     },
     {
       "surface": "אראל",
-      "gloss": "a lalaki-a-leon"
+      "gloss": "a lalaki-leon"
     },
     {
       "surface": "מואב",
-      "gloss": "ti Moab"
+      "gloss": "ti Moav"
     },
     {
       "surface": "והוא",
-      "gloss": "ket isu ket"
+      "gloss": "ket isu"
     },
     {
       "surface": "ירד",
-      "gloss": "immabur"
+      "gloss": "ti simmukat"
     },
     {
       "surface": "והכה",
-      "gloss": "ket dinenna"
+      "gloss": "ken nangtungpal"
     },
     {
       "surface": "את",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "הבאר",
-      "gloss": "ti adday"
+      "gloss": "ti abang"
     },
     {
       "surface": "ביום",
@@ -106,6 +106,6 @@
       "gloss": "ti niebe"
     }
   ],
-  "timestamp": "2026-09-26T12:14:17.971937909Z",
+  "timestamp": "2026-09-27T01:10:45.321031824Z",
   "model": "glm-5.3"
 }

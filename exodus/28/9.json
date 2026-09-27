@@ -5,30 +5,50 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 28,
-  "translation": "Ken alaem ⟨ti⟩ dua a bato ti shoham, ket ipaammo wenno ipitaocham kadagiti dua ti nagan dagiti anak a lalaki ni Yisrael.",
+  "translation": "Ken alam ⟨את⟩ dagiti dua a bato ti shoham, ken ukitam kadakuada dagiti nagan dagiti anak ni Yisrael.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "ken alaem"
+      "gloss": "ken alam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dua a bato ti shoham"
+      "marks": "dagiti dua a bato ti shoham"
     },
     {
       "surface": "שתי",
-      "gloss": "dua"
+      "gloss": "dagiti dua"
     },
     {
       "surface": "אבני",
       "gloss": "a bato"
     },
     {
-      "surface": "shoham placeholder",
-      "gloss": ""
+      "surface": "שהם",
+      "gloss": "ti shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "ken ukitam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "dagiti nagan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
     }
   ],
-  "timestamp": "2026-09-26T04:18:46.784942738Z",
+  "timestamp": "2026-09-27T01:23:57.302863665Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 8,
-  "translation": "ket inkabilko sadiay ti disso para iti arko, a sadiay ti tulag ni Yahweh, a tinulagna kadua dagiti ammamatayo idi ipapananna ⟨את⟩ da manipud iti daga ti Mitsrayim.",
+  "translation": "ket inyegkoaditoy sadiay maysa a dissu para iti arko, a sadiay ti tulag ni Yahweh a tinulagna kadagiti ammatayo, idi ipalabasna ⟨את⟩ caduada manipud iti daga ti Mitsrayim.",
   "tokens": [
     {
       "surface": "ואשם",
-      "gloss": "ket inkabilko"
+      "gloss": "ket inyegkoaditoy"
     },
     {
       "surface": "שם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מקום",
-      "gloss": "ti disso"
+      "gloss": "maysa a dissu"
     },
     {
       "surface": "לארון",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ברית",
-      "gloss": "tulag"
+      "gloss": "ti tulag"
     },
     {
       "surface": "יהוה",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "עם",
-      "gloss": "kadua"
+      "gloss": "kadagiti"
     },
     {
       "surface": "אבתינו",
-      "gloss": "dagiti ammamatayo"
+      "gloss": "ammatayo"
     },
     {
       "surface": "בהוציאו",
-      "gloss": "idi ipapananna"
+      "gloss": "idi ipalabasna"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "da"
+      "gloss": "⟨את⟩ caduada",
+      "marks": "caduada — dagiti ammatayo a nangruar"
     },
     {
       "surface": "מארץ",
@@ -73,6 +73,6 @@
       "gloss": "ti Mitsrayim"
     }
   ],
-  "timestamp": "2026-09-26T12:40:46.606804961Z",
+  "timestamp": "2026-09-27T01:07:22.114334791Z",
   "model": "glm-5.3"
 }

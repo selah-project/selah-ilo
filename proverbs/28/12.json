@@ -5,8 +5,41 @@
   "book": "proverbs",
   "lang": "ilo",
   "chapter": 28,
-  "translation": "Iti panagragsak dagiti nalinteg dakkel ti daydayaw; ngem no agtakder dagiti dakes, aglemmeng ti tao.",
-  "tokens": [],
-  "timestamp": "2026-09-26T22:43:35.649856108Z",
+  "translation": "Idi agragsak dagiti nalinteg, adu ti daydayaw; ket no agtakder dagiti dakes, malemmeng ti tao.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "agragsak"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dagiti nalinteg"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "adu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "daydayaw"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "ket no agtakder"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dagiti dakes"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "malemmeng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ti tao"
+    }
+  ],
+  "timestamp": "2026-09-27T01:22:46.870765614Z",
   "model": "glm-5.3"
 }

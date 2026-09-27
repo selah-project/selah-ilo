@@ -5,57 +5,99 @@
   "book": "1-chronicles",
   "lang": "ilo",
   "chapter": 15,
-  "translation": "⟨את⟩ ket impundarna ni David ⟨ti balay nga addaan iti maysa a disso⟩ iti maysa a disso ti arko ti Elohim, ket immukladna a tolda.",
+  "translation": "Idi dayta, kinuna ni David: saan a maysa man no saan nga dagiti Levitas ti mangala iti ⟨את⟩ arko ti Elohim, ta kaniada pinili ni Yahweh a mangala iti ⟨את⟩ arko ni Yahweh ken agserbi kanianna agingga iti agnanayon.",
   "tokens": [
     {
-      "surface": "ויעש",
-      "gloss": "inaramidna"
+      "surface": "אז",
+      "gloss": "idi dayta"
     },
     {
-      "surface": "לו",
-      "gloss": "kenkuana"
-    },
-    {
-      "surface": "בתים",
-      "gloss": "balbalay"
-    },
-    {
-      "surface": "בעיר",
-      "gloss": "iti ili"
+      "surface": "אמר",
+      "gloss": "kinuna"
     },
     {
       "surface": "דויד",
       "gloss": "ni David"
     },
     {
-      "surface": "ויכן",
-      "gloss": "⟨את⟩ ket impundarna"
+      "surface": "לא",
+      "gloss": "saan"
     },
     {
-      "surface": "מקום",
-      "gloss": "maysa a disso"
+      "surface": "לשאת",
+      "gloss": "a mangala"
     },
     {
-      "surface": "לארון",
-      "gloss": "iti arko"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arko ti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arko"
     },
     {
       "surface": "האלהים",
       "gloss": "ti Elohim"
     },
     {
-      "surface": "ויט",
-      "gloss": "ket immukladna"
+      "surface": "כי",
+      "gloss": "ta"
     },
     {
-      "surface": "לו",
-      "gloss": "kenkuana"
+      "surface": "אם",
+      "gloss": "no saan nga"
     },
     {
-      "surface": "אהל",
-      "gloss": "tolda"
+      "surface": "הלוים",
+      "gloss": "dagiti Levitas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pinili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "a mangala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arko ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "ken agserbi kanianna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "agingga iti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "agnanayon"
     }
   ],
-  "timestamp": "2026-09-26T23:39:23.818225039Z",
+  "timestamp": "2026-09-27T01:07:38.918771780Z",
   "model": "glm-5.3"
 }

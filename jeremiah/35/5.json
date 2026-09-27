@@ -5,8 +5,61 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 35,
-  "translation": "Ket iniddaem ko kadagiti anak ti balay dagiti Rekabita dagiti gutob a napno iti balayongsong, ken dagiti koppa, ket kinunak kadakuada: Inumkayo iti balayongsong. Saanda a nanginum.",
-  "tokens": [],
-  "timestamp": "2026-09-26T17:23:07.331593122Z",
+  "translation": "Ket inkabilko iti sangoan dagiti annak ti balay dagiti Rekabita dagiti kopa a napno iti bino ken dagiti bao, ket kinunak kadakuada: Inumkayo iti bino.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ket inkabilko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "iti sangoan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dagiti annak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ti balay"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "dagiti Rekabita"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "dagiti kopa"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "a napno"
+    },
+    {
+      "surface": "יין",
+      "gloss": "iti bino"
+    },
+    {
+      "surface": "וכסות",
+      "gloss": "ken dagiti bao"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ket kinunak"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kadakuada"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "Inumkayo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "iti bino"
+    }
+  ],
+  "timestamp": "2026-09-27T01:16:50.697861243Z",
   "model": "glm-5.3"
 }

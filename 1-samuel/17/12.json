@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 17,
-  "translation": "Ni David ket anak ti maysa a lalaki nga Eprateo daytoy, manipud iti Beth-lehem ti Yehudah, ket Yishay ti naganna, ket walo nga anakna; ket ti lalaki ket naglakayen kadagiti aldaw ni Shaul, immay a lakay kadagiti tao.",
+  "translation": "Ni David ket anak ti lalaki nga Epratita a dayta, manipud iti Beit-Lechem ti Yehudah, ket ti naganna ket Yishay, ken adda kenkuana walo nga annak; ket ti lalaki ket timmadaen iti al-aldaw ni Shaul, simmangpet a lakay kadagiti lallaki.",
   "tokens": [
     {
       "surface": "ודוד",
-      "gloss": "ni David"
+      "gloss": "ken ni David"
     },
     {
       "surface": "בן",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "איש",
-      "gloss": "ti maysa a lalaki"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "אפרתי",
-      "gloss": "nga Eprateo"
+      "gloss": "nga Epratita"
     },
     {
       "surface": "הזה",
-      "gloss": "daytoy"
+      "gloss": "a dayta"
     },
     {
       "surface": "מבית",
-      "gloss": "manipud iti"
+      "gloss": "manipud iti Beit-Lechem"
     },
     {
       "surface": "לחם",
-      "gloss": "Beth-lehem"
+      "gloss": "iti Beit-Lechem"
     },
     {
       "surface": "יהודה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ולו",
-      "gloss": "ket adda kennuana"
+      "gloss": "ken adda kenkuana"
     },
     {
       "surface": "שמנה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "בנים",
-      "gloss": "nga anak"
+      "gloss": "ngaanak"
     },
     {
       "surface": "והאיש",
@@ -65,25 +65,25 @@
     },
     {
       "surface": "בימי",
-      "gloss": "kadagiti aldaw"
+      "gloss": "iti al-aldaw ni"
     },
     {
       "surface": "שאול",
-      "gloss": "ni Shaul"
+      "gloss": "Shaul"
     },
     {
       "surface": "זקן",
-      "gloss": "naglakayen"
+      "gloss": "timmadaen"
     },
     {
       "surface": "בא",
-      "gloss": "immay"
+      "gloss": "simmangpet"
     },
     {
       "surface": "באנשים",
-      "gloss": "kadagiti tao"
+      "gloss": "kadagiti lallaki"
     }
   ],
-  "timestamp": "2026-09-26T10:54:17.047723259Z",
+  "timestamp": "2026-09-27T01:08:13.365561330Z",
   "model": "glm-5.3"
 }

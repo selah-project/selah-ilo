@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 1,
-  "translation": "Kitaem, imbes nga agsaoka pay laeng sadiay kadua ti ari, sumrekakto kalpasanmo ken pasnekenna­ko ⟨את⟩ dagiti saom.",
+  "translation": "Kitaem, no makisao pay laengka sadiay kadagiti sao iti ari, sumrekak kalpasanmo ket ukodakonto ⟨את⟩ dagiti saom.",
   "tokens": [
     {
       "surface": "הנה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עודך",
-      "gloss": "imbes nga"
+      "gloss": "no makisao pay laengka"
     },
     {
       "surface": "מדברת",
-      "gloss": "agsaoka pay laeng"
+      "gloss": "makisao"
     },
     {
       "surface": "שם",
@@ -25,27 +25,27 @@
     },
     {
       "surface": "עם",
-      "gloss": "kadua"
+      "gloss": "kadagiti sao iti"
     },
     {
       "surface": "המלך",
-      "gloss": "ti ari"
+      "gloss": "ari"
     },
     {
       "surface": "ואני",
-      "gloss": "sumrekakto"
+      "gloss": "ket siak"
     },
     {
       "surface": "אבוא",
-      "gloss": "kalpasanmo"
+      "gloss": "sumrekak"
     },
     {
       "surface": "אחריך",
-      "gloss": ""
+      "gloss": "kalpasanmo"
     },
     {
       "surface": "ומלאתי",
-      "gloss": "ken pasnekan­nakonto"
+      "gloss": "ukodakonto"
     },
     {
       "surface": "את",
@@ -57,6 +57,6 @@
       "gloss": "dagiti saom"
     }
   ],
-  "timestamp": "2026-09-26T12:17:04.340661194Z",
+  "timestamp": "2026-09-27T01:07:30.728649447Z",
   "model": "glm-5.3"
 }

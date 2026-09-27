@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 2,
-  "translation": "Ket saanda nga imbagа: Sadino ni Yahweh, ti nangipangato ⟨את⟩ kadatayo manipud iti daga ti Mitsrayim, ti nangidaulo ⟨את⟩ kadatayo iti away, iti daga ti akaba a tanap ken dagiti naabut, iti daga ti namaga ken ti sipnget ti ipupusay, iti daga a saan a nakaballasiw iti dayta ti maysa a lalaki, ket saan nga agnanaed ti tao sadiay?",
+  "translation": "Ken saanda a kinuna: Sadino ni Yahweh ti nangipayonna ⟨את⟩ datayo manipud iti daga ti Mitsrayim, ti nangidaulo ⟨את⟩ datayo iti tipasi, iti daga ti naulbaw a tanap ken ti naatiddog a lenneg, iti daga a namaga ken iti sipnget ti ipupusay, iti daga a saan a naagballasiwan ti lalaki ken saan nga agnaed ti tao sadiay?",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ket saanda"
+      "gloss": "ken saanda"
     },
     {
       "surface": "אמרו",
-      "gloss": "imbaga"
+      "gloss": "a kinuna"
     },
     {
       "surface": "איה",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "המעלה",
-      "gloss": "ti nangipangato"
+      "gloss": "ti nangipayonna"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "kadatayo"
+      "marks": "datayo — manipud iti daga ti Mitsrayim"
     },
     {
       "surface": "מארץ",
@@ -47,11 +47,11 @@
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "kadatayo"
+      "marks": "datayo — iti tipasi"
     },
     {
       "surface": "במדבר",
-      "gloss": "iti away"
+      "gloss": "iti tipasi"
     },
     {
       "surface": "בארץ",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "ערבה",
-      "gloss": "ti akaba a tanap"
+      "gloss": "ti naulbaw a tanap"
     },
     {
       "surface": "ושוחה",
-      "gloss": "ken dagiti naabut"
+      "gloss": "ken ti naatiddog a lenneg"
     },
     {
       "surface": "בארץ",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "ציה",
-      "gloss": "ti namaga"
+      "gloss": "a namaga"
     },
     {
       "surface": "וצלמות",
-      "gloss": "ken ti sipnget ti ipupusay"
+      "gloss": "ken iti sipnget ti ipupusay"
     },
     {
       "surface": "בארץ",
@@ -83,11 +83,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "saan"
+      "gloss": "a saan"
     },
     {
       "surface": "עבר",
-      "gloss": "nakaballasiw"
+      "gloss": "naagballasiwan"
     },
     {
       "surface": "בה",
@@ -95,15 +95,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "ti maysa a lalaki"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "ולא",
-      "gloss": "ket saan"
+      "gloss": "ken saan"
     },
     {
       "surface": "ישב",
-      "gloss": "agnanaed"
+      "gloss": "agnaed"
     },
     {
       "surface": "אדם",
@@ -114,6 +114,6 @@
       "gloss": "sadiay"
     }
   ],
-  "timestamp": "2026-09-26T16:15:32.850591284Z",
+  "timestamp": "2026-09-27T01:17:03.514905939Z",
   "model": "glm-5.3"
 }

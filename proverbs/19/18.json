@@ -5,8 +5,49 @@
   "book": "proverbs",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Turukenmo ti anakmo ta adda pagtarayatan; ket iti ipapataymo kenkuana saanmo a tarayenenna ti kararwam.",
-  "tokens": [],
-  "timestamp": "2026-09-26T22:39:55.048286789Z",
+  "translation": "Idisiplina ti anakmo, ta adda pay ti paguray; ket iti panangipatayna kenkuana, saanmo nga iyangat ti kararwam.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "Idisiplina"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ti anakmo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adda pay"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ti paguray"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ket saan"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "iti panangipatayna kenkuana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "iyangat"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ti kararwam"
+    }
+  ],
+  "timestamp": "2026-09-27T01:22:52.373306364Z",
   "model": "glm-5.3"
 }

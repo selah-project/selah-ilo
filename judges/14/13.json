@@ -5,8 +5,81 @@
   "book": "judges",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "No dika makabael a mangibaga kaniak, wenno koma ti umay: itedyo koma kaniak ti tallopulo a lino ken tallopulo a sabsabali a bado. Ket kinunada kakuana: Ibagam ti bagi a riddlemo, ket dengngegyo koma.",
-  "tokens": [],
-  "timestamp": "2026-09-26T10:07:56.497612771Z",
+  "translation": "No saan kayo a makabael nga ibagak, itedyo kaniak tallopulo a bado a lino ken tallopulo a sabsabali a bado. Kinunada kaniak: Iyawagmo ti misteriom, ket dengngentayo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "No"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "תוכלו",
+      "gloss": "kayo a makabael"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "nga ibagak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "itedyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tallopulo"
+    },
+    {
+      "surface": "סדינים",
+      "gloss": "a bado a lino"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ken tallopulo"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "a sabsabali"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "a bado"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kinunada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniak"
+    },
+    {
+      "surface": "חודה",
+      "gloss": "Iyawagmo"
+    },
+    {
+      "surface": "חידתך",
+      "gloss": "ti misteriom"
+    },
+    {
+      "surface": "ונשמענה",
+      "gloss": "ket dengngentayo"
+    }
+  ],
+  "timestamp": "2026-09-27T01:18:47.517468502Z",
   "model": "glm-5.3"
 }

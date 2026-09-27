@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ilo",
   "chapter": 28,
-  "translation": "Ken sika, Shelomoh, anakko, ammoem ⟨את⟩ ti Elohim ni amam, ken serbianam nga addaan napno a puso ken kararua a makaay-awat; ta amin dagiti puso biruken ni Yahweh, ken amin a porma ti panunot maawatanna; no birukenmo, mabiruannaka; ken no bay-aganmo, ikkatannaka nga agnanayon.",
+  "translation": "Ken sika, Shelomoh, anakko, ammoem ⟨את⟩ ti Elohim ti amam, ket serbianam nga addaan iti naan-anay a puso ken iti kararua a makairuknoy; ta amin dagiti puso masukimatam ni Yahweh, ket tunggal panangiballigi a panunot maawatanna; no birukenmo daydiay, mabirbirkanto, ngem no bay-am daydiay, isu nga ikkatannaka agnanayon.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti Elohim"
+      "marks": "ti Elohim ti amam"
     },
     {
       "surface": "אלהי",
@@ -34,27 +34,27 @@
     },
     {
       "surface": "אביך",
-      "gloss": "ni amam"
+      "gloss": "ti amam"
     },
     {
       "surface": "ועבדהו",
-      "gloss": "ken serbianam"
+      "gloss": "ket serbianam"
     },
     {
       "surface": "בלב",
-      "gloss": "addaan puso"
+      "gloss": "nga addaan iti puso"
     },
     {
       "surface": "שלם",
-      "gloss": "napno"
+      "gloss": "naan-anay"
     },
     {
       "surface": "ובנפש",
-      "gloss": "ken kararua"
+      "gloss": "ken iti kararua"
     },
     {
       "surface": "חפצה",
-      "gloss": "a makaay-awat"
+      "gloss": "a makairuknoy"
     },
     {
       "surface": "כי",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "דורש",
-      "gloss": "biruken"
+      "gloss": "masukimatam"
     },
     {
       "surface": "יהוה",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ken amin"
+      "gloss": "ken tunggal"
     },
     {
       "surface": "יצר",
-      "gloss": "a porma"
+      "gloss": "panangiballigi"
     },
     {
       "surface": "מחשבות",
-      "gloss": "ti panunot"
+      "gloss": "a panunot"
     },
     {
       "surface": "מבין",
@@ -98,33 +98,33 @@
     },
     {
       "surface": "תדרשנו",
-      "gloss": "birukenmo"
+      "gloss": "birukenmo daydiay"
     },
     {
       "surface": "ימצא",
-      "gloss": "mabiruannaka"
+      "gloss": "mabirbirkanto"
     },
     {
       "surface": "לך",
-      "gloss": ""
+      "gloss": "kanto"
     },
     {
       "surface": "ואם",
-      "gloss": "ken no"
+      "gloss": "ngem no"
     },
     {
       "surface": "תעזבנו",
-      "gloss": "bay-aganmo"
+      "gloss": "bay-am daydiay"
     },
     {
       "surface": "יזניחך",
-      "gloss": "ikkatannaka"
+      "gloss": "isu nga ikkatannaka"
     },
     {
       "surface": "לעד",
-      "gloss": "ngaanayon a saan — agnanayon"
+      "gloss": "agnanayon"
     }
   ],
-  "timestamp": "2026-09-27T00:07:18.557168230Z",
+  "timestamp": "2026-09-27T01:07:34.943022146Z",
   "model": "glm-5.3"
 }

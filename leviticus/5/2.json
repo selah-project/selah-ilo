@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Wenno maysa a tao a makadkad iti aniaman a naruget a banag, wenno iti natay a naruget nga animal, wenno iti natay a naruget nga ayup, wenno iti natay a naruget a mannaradit, ken naillemda kenna, ket isu ket naruget ken agbasol.",
+  "translation": "Wenno ti maysa a kararua no makadungpar iti aniaman a narugit a banag, wenno iti bangkay ti narugit a sibibiag nga animal, wenno iti bangkay ti narugit a bigbigat nga animal, wenno iti bangkay ti narugit a mannalibsib a parsua, ket nalipatananna dayta, ket isu ket narugit, ken nakabasol.",
   "tokens": [
     {
       "surface": "או",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "נפש",
-      "gloss": "maysa a tao"
+      "gloss": "ti maysa a kararua"
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "no"
     },
     {
       "surface": "תגע",
-      "gloss": "makadkad"
+      "gloss": "makadungpar"
     },
     {
       "surface": "בכל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "טמא",
-      "gloss": "naruget"
+      "gloss": "a narugit"
     },
     {
       "surface": "או",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "בנבלת",
-      "gloss": "iti natay"
+      "gloss": "iti bangkay"
     },
     {
       "surface": "חיה",
-      "gloss": "nga animal"
+      "gloss": "ti sibibiag nga animal"
     },
     {
       "surface": "טמאה",
-      "gloss": "a naruget"
+      "gloss": "ti narugit"
     },
     {
       "surface": "או",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "בנבלת",
-      "gloss": "iti natay"
+      "gloss": "iti bangkay"
     },
     {
       "surface": "בהמה",
-      "gloss": "nga ayup"
+      "gloss": "ti bigbigat nga animal"
     },
     {
       "surface": "טמאה",
-      "gloss": "a naruget"
+      "gloss": "a narugit"
     },
     {
       "surface": "או",
@@ -73,37 +73,37 @@
     },
     {
       "surface": "בנבלת",
-      "gloss": "iti natay"
+      "gloss": "iti bangkay"
     },
     {
       "surface": "שרץ",
-      "gloss": "a mannaradit"
+      "gloss": "ti mannalibsib a parsua"
     },
     {
       "surface": "טמא",
-      "gloss": "a naruget"
+      "gloss": "a narugit"
     },
     {
       "surface": "ונעלם",
-      "gloss": "ken naillemda"
+      "gloss": "ket nalipatananna"
     },
     {
       "surface": "ממנו",
-      "gloss": "kenna"
+      "gloss": "dayta"
     },
     {
       "surface": "והוא",
-      "gloss": "ket isu"
+      "gloss": "ket isu ket"
     },
     {
       "surface": "טמא",
-      "gloss": "naruget"
+      "gloss": "narugit"
     },
     {
       "surface": "ואשם",
-      "gloss": "ken agbasol"
+      "gloss": "ken nakabasol"
     }
   ],
-  "timestamp": "2026-09-26T05:06:49.839290956Z",
+  "timestamp": "2026-09-27T01:21:21.703591160Z",
   "model": "glm-5.3"
 }

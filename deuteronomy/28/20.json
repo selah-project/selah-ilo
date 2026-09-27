@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ilo",
   "chapter": 28,
-  "translation": "Ipatulod ni Yahweh kenka ⟨את⟩ ti sumpa, ⟨את⟩ ti girruod ken ⟨את⟩ ti panangdaway, iti amin nga aramiden ti imam, agingga iti pannakadadaelmo ken agingga iti napardas a pannakapukawmo, gapu iti dakes a tignaymo a nagibbika kaniak.",
+  "translation": "Ipatulod ni Yahweh kenka ⟨את⟩ ti sumpa, ⟨את⟩ ti kaallilaw ken ⟨את⟩ ti dungdunga, iti amin nga isingising ti imam a aramidenmo, agingga a maikkatka ken agingga a mapukawka napardas, gapu iti dakes nga aramidem a nagibbaymo kaniak.",
   "tokens": [
     {
       "surface": "ישלח",
-      "gloss": "Ipatulod"
+      "gloss": "ipatulodna"
     },
     {
       "surface": "יהוה",
@@ -31,20 +31,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti girruod"
+      "marks": "ti kaallilaw"
     },
     {
       "surface": "המהומה",
-      "gloss": "ti girruod"
+      "gloss": "ti kaallilaw"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "ti panangdaway"
+      "marks": "ti dungdunga"
     },
     {
       "surface": "המגערת",
-      "gloss": "ti panangdaway"
+      "gloss": "ti dungdunga"
     },
     {
       "surface": "בכל",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "משלח",
-      "gloss": "aramiden"
+      "gloss": "isingising"
     },
     {
       "surface": "ידך",
@@ -60,11 +60,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "a"
     },
     {
       "surface": "תעשה",
-      "gloss": "mo"
+      "gloss": "aramidenmo"
     },
     {
       "surface": "עד",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "השמדך",
-      "gloss": "iti pannakadadaelmo"
+      "gloss": "a maikkatka"
     },
     {
       "surface": "ועד",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "אבדך",
-      "gloss": "iti pannakapukawmo"
+      "gloss": "a mapukawka"
     },
     {
       "surface": "מהר",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "מעלליך",
-      "gloss": "tignaymo"
+      "gloss": "aramidem"
     },
     {
       "surface": "אשר",
@@ -104,9 +104,9 @@
     },
     {
       "surface": "עזבתני",
-      "gloss": "a nagibbika kaniak"
+      "gloss": "nagibbaymo kaniak"
     }
   ],
-  "timestamp": "2026-09-26T08:34:28.766736481Z",
+  "timestamp": "2026-09-27T01:11:45.033622487Z",
   "model": "glm-5.3"
 }

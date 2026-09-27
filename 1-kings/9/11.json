@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 9,
-  "translation": "Ni Hirам ari ti Tsor nangted kenni Shelomoh ⟨את⟩ dagiti kayo ti sedro ken dagiti kayo ti bersho ken balitok, no aniaman ti kayatna; kalpasanna inted ti ari a ni Shelomoh kenni Hirам dagiti duapulo nga ili iti daga ti Galil.",
+  "translation": "Ni Hiram, ari ti Tsor, tinulonganna ni ⟨את⟩ Shelomoh kadagiti kayo ti sedro ken kadagiti kayo ti berot ken balitok, segun iti amin a kayatna; kalpasanna inted ti ari a ni Shelomoh kenni Hiram ti duapulo nga ili iti daga ti Galilea.",
   "tokens": [
     {
       "surface": "חירם",
-      "gloss": "ni Hiram"
+      "gloss": "Hiram"
     },
     {
       "surface": "מלך",
@@ -21,32 +21,32 @@
     },
     {
       "surface": "נשא",
-      "gloss": "nangted"
+      "gloss": "tinulonganna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kenni Shelomoh"
+      "marks": "ni Shelomoh"
     },
     {
       "surface": "שלמה",
-      "gloss": "kenni Shelomoh"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "בעצי",
-      "gloss": "dagiti kayo"
+      "gloss": "kadagiti kayo ti"
     },
     {
       "surface": "ארזים",
-      "gloss": "ti sedro"
+      "gloss": "sedro"
     },
     {
       "surface": "ובעצי",
-      "gloss": "ken dagiti kayo"
+      "gloss": "ken kadagiti kayo ti"
     },
     {
       "surface": "ברושים",
-      "gloss": "ti bersho"
+      "gloss": "berot"
     },
     {
       "surface": "ובזהב",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "no aniaman"
+      "gloss": "iti amin"
     },
     {
       "surface": "חפצו",
-      "gloss": "ti kayatna"
+      "gloss": "a kayatna"
     },
     {
       "surface": "אז",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "a ni Shelomoh"
+      "gloss": "ni Shelomoh"
     },
     {
       "surface": "לחירם",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "עשרים",
-      "gloss": "dagiti duapulo"
+      "gloss": "ti duapulo"
     },
     {
       "surface": "עיר",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "הגליל",
-      "gloss": "ti Galil"
+      "gloss": "ti Galilea"
     }
   ],
-  "timestamp": "2026-09-26T12:37:24.034144109Z",
+  "timestamp": "2026-09-27T01:08:17.445617305Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 13,
-  "translation": "Ta kas iti dumiddekel ti pigaw kadagiti talingkingan ti tao, kasta a inddekelko kaniak ⟨את⟩ ti amin a balay ni Yisrael ken ⟨את⟩ ti amin a balay ni Yehudah, kinuna ni Yahweh — nga agbalinda kaniak a umili, ken nagan, ken daydayaw, ken pinta; ngem saanda a nangngeg.",
+  "translation": "Ta kas ti panagkitket ti eazor iti bagi ti lalaki, kasta ti inkitketko kaniak ⟨את⟩ ti amin a balay ni Yisrael ken ⟨את⟩ ti amin a balay ni Yehudah, kuna ni Yahweh, nga agbalinda kaniak a kas umili, ken kas nagan, ken kas daydayaw, ken kas pammadayaw — ngem saanda a dinengngeg.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kas iti"
+      "gloss": "kas"
     },
     {
       "surface": "ידבק",
-      "gloss": "dumiddekel"
+      "gloss": "panagkitket"
     },
     {
       "surface": "האזור",
-      "gloss": "ti pigaw"
+      "gloss": "eazor"
     },
     {
       "surface": "אל",
-      "gloss": "kadagiti"
+      "gloss": "iti"
     },
     {
       "surface": "מתני",
-      "gloss": "talingkingan"
+      "gloss": "bagi"
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "כן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הדבקתי",
-      "gloss": "inddekelko"
+      "gloss": "inkitketko"
     },
     {
       "surface": "אלי",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "a balay"
+      "gloss": "balay"
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ואת",
@@ -75,19 +75,19 @@
     },
     {
       "surface": "בית",
-      "gloss": "a balay"
+      "gloss": "balay"
     },
     {
       "surface": "יהודה",
-      "gloss": "ni Yehudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "נאם",
-      "gloss": "kinuna"
+      "gloss": "kuna"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "להיות",
@@ -99,19 +99,19 @@
     },
     {
       "surface": "לעם",
-      "gloss": "a umili"
+      "gloss": "a kas umili"
     },
     {
       "surface": "ולשם",
-      "gloss": "ken nagan"
+      "gloss": "ken kas nagan"
     },
     {
       "surface": "ולתהלה",
-      "gloss": "ken daydayaw"
+      "gloss": "ken kas daydayaw"
     },
     {
       "surface": "ולתפארת",
-      "gloss": "ken pinta"
+      "gloss": "ken kas pammadayaw"
     },
     {
       "surface": "ולא",
@@ -119,9 +119,9 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "a nangngeg"
+      "gloss": "dinengngegda"
     }
   ],
-  "timestamp": "2026-09-26T16:45:36.387687856Z",
+  "timestamp": "2026-09-27T01:17:25.491805769Z",
   "model": "glm-5.3"
 }

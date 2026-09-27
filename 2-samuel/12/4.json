@@ -5,27 +5,27 @@
   "book": "2-samuel",
   "lang": "ilo",
   "chapter": 12,
-  "translation": "ket immay maysa a managnaetti nga umaay kenni tao a nakakapbaro, ket dinna kayat nga alaen manipud iti bukodna a karnero ken manipud iti bukodna a baka nga aramiden para iti bisita nga umay kenua; ngem inalana ⟨את⟩ ti karnero a babai ti tao a makaawis, ket inaramidna para iti tao nga ummay kenua.",
+  "translation": "Simmangpet ti maysa a bisita kenni ti lalaki a baknang, ket inayanna nga alaen manipud iti karnerona ken manipud iti bakaenna a maaramid para iti bisita nga umay kaniakuana, ngem inalana ⟨את⟩ ti karnero a babai ti awkisan a lalaki, ken inaramidna daytoy para iti lalaki nga umay kaniakuana.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "ket immay"
+      "gloss": "simmangpet"
     },
     {
       "surface": "הלך",
-      "gloss": "maysa a managnaetti"
+      "gloss": "ti maysa a bisita"
     },
     {
       "surface": "לאיש",
-      "gloss": "kenni tao"
+      "gloss": "kenni ti lalaki"
     },
     {
       "surface": "העשיר",
-      "gloss": "a nakakapbaro"
+      "gloss": "a baknang"
     },
     {
       "surface": "ויחמל",
-      "gloss": "dinna kayat"
+      "gloss": "inayanna"
     },
     {
       "surface": "לקחת",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "מצאנו",
-      "gloss": "manipud iti bukodna a karnero"
+      "gloss": "manipud iti karnerona"
     },
     {
       "surface": "ומבקרו",
-      "gloss": "ken manipud iti bukodna a baka"
+      "gloss": "ken manipud iti bakaenna"
     },
     {
       "surface": "לעשות",
-      "gloss": "nga aramiden"
+      "gloss": "a maaramid"
     },
     {
       "surface": "לארח",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הבא",
-      "gloss": "nggumay"
+      "gloss": "ngañ umay"
     },
     {
       "surface": "לו",
-      "gloss": "kenua"
+      "gloss": "kaniakuana"
     },
     {
       "surface": "ויקח",
@@ -62,7 +62,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti karnero a babai ti tao a makaawis"
+      "marks": "ti karnero a babai"
     },
     {
       "surface": "כבשת",
@@ -70,29 +70,29 @@
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "הראש",
-      "gloss": "a makaawis"
+      "gloss": "ti awkisan"
     },
     {
       "surface": "ויעשה",
-      "gloss": "ket inaramidna"
+      "gloss": "ken inaramidna"
     },
     {
       "surface": "לאיש",
-      "gloss": "para iti tao"
+      "gloss": "para iti lalaki"
     },
     {
       "surface": "הבא",
-      "gloss": "nggumay"
+      "gloss": "ngañ umay"
     },
     {
       "surface": "אליו",
-      "gloss": "kenua"
+      "gloss": "kaniakuana"
     }
   ],
-  "timestamp": "2026-09-26T11:46:35.127429874Z",
+  "timestamp": "2026-09-27T01:11:03.038550969Z",
   "model": "glm-5.3"
 }

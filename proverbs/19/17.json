@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Ti agparparunay kenni Yahweh ti mammankadua iti maysa a nabaknang; ken ti imbagana ket ibayadanna kenkuana.",
-  "tokens": [],
-  "timestamp": "2026-09-26T22:39:55.048017040Z",
+  "translation": "Ti mangipaay iti utang kenni Yahweh ti agasi ⟨iti⟩ nailanglaw, ket ti aramidna pagbayadanna ⟨kenkuana⟩.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "ti mangipaay iti utang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kenni Yahweh"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ti agasi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nailanglaw"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "ket ti aramidna"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "pagbayadanna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kenkuana"
+    }
+  ],
+  "timestamp": "2026-09-27T01:22:45.715458616Z",
   "model": "glm-5.3"
 }

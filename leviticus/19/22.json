@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Ken agpatawar ti padi kadakuana babaen iti karnero iti basol, sango ni Yahweh, maipapan iti basolna a binasolna; ket mapatawar kenkuana manipud iti basolna a binasolna.",
+  "translation": "ket ipatawaranto ti padi ⟨iti⟩ basolna babaen ti karnero a lalaki ti asham iti sango ni Yahweh maipapan iti basolna a nakabasolanna, ket patawarento daytoy basolna a nakabasolanna.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "agpatawar"
+      "gloss": "ket ipatawaranto"
     },
     {
       "surface": "עליו",
-      "gloss": "kadakuana"
+      "gloss": "iti"
     },
     {
       "surface": "הכהן",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "באיל",
-      "gloss": "iti karnero"
+      "gloss": "babaen ti karnero a lalaki"
     },
     {
       "surface": "האשם",
-      "gloss": "iti basol"
+      "gloss": "ti asham"
     },
     {
       "surface": "לפני",
-      "gloss": "sango"
+      "gloss": "iti sango ni"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "על",
-      "gloss": "maipapan"
+      "gloss": "maipapan iti"
     },
     {
       "surface": "חטאתו",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "חטא",
-      "gloss": "binasolna"
+      "gloss": "nakabasolanna"
     },
     {
       "surface": "ונסלח",
-      "gloss": "mapatawar"
+      "gloss": "ket patawarento"
     },
     {
       "surface": "לו",
-      "gloss": "kenkuana"
+      "gloss": "daytoy"
     },
     {
       "surface": "מחטאתו",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "חטא",
-      "gloss": "binasolna"
+      "gloss": "nakabasolanna"
     }
   ],
-  "timestamp": "2026-09-26T05:45:22.979288034Z",
+  "timestamp": "2026-09-27T01:19:38.763753389Z",
   "model": "glm-5.3"
 }

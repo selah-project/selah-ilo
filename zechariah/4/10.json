@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "Ta asino ti agbaba iti aldaw ti bassit a banag? Ket agragsakda, ket makitada ⟨את⟩ ti bato ti estaño iti ima ni Zerubabel — pito, dagitoy — dagiti mata ni Yahweh, da ti agbanniaga iti amin a daga.",
+  "translation": "Ta asino ti nangailili iti aldaw dagiti bassit a banag? Maragsakda, ket makitada ⟨את⟩ ti bato ti lata iti ima ni Zerubabel. Dagitoy a pito — dagiti mata ni Yahweh — isuda ti agyal-yallatiw iti amin a daga.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Ta"
+      "gloss": "ta"
     },
     {
       "surface": "מי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בז",
-      "gloss": "ti agbaba"
+      "gloss": "nangailili"
     },
     {
       "surface": "ליום",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "קטנות",
-      "gloss": "ti bassit a banag"
+      "gloss": "dagiti bassit a banag"
     },
     {
       "surface": "ושמחו",
-      "gloss": "ket agragsakda"
+      "gloss": "maragsakda"
     },
     {
       "surface": "וראו",
@@ -38,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti bato"
+      "marks": "ti bato ti lata"
     },
     {
       "surface": "האבן",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הבדיל",
-      "gloss": "ti estaño"
+      "gloss": "ti lata"
     },
     {
       "surface": "ביד",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "המה",
-      "gloss": "da"
+      "gloss": "isuda"
     },
     {
       "surface": "משוטטים",
-      "gloss": "ti agbanniaga"
+      "gloss": "agyal-yallatiw"
     },
     {
       "surface": "בכל",
@@ -89,6 +89,6 @@
       "gloss": "a daga"
     }
   ],
-  "timestamp": "2026-09-26T20:27:21.304283430Z",
+  "timestamp": "2026-09-27T01:23:34.864996201Z",
   "model": "glm-5.3"
 }

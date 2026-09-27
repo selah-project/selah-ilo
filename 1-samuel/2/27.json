@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 2,
-  "translation": "Ket immay ti maysa a tao ti Elohim kenni Eli, ket kinunana kenkuana: Kasta ti imbaga ni Yahweh: No makitakto a nagparangak iti balay ti amam, idi adda da iti Mitsrayim, iti balay ni Paro?",
+  "translation": "Ket immay ti maysa a lalaki ti Elohim kenni Eli, ket kinunana: Kasta ti kinuna ni Yahweh: Saan kadi a nangiparangak iti balay ni amam, idi addaada iti Mitsrayim, iti balay ni Paro?",
   "tokens": [
     {
       "surface": "ויבא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "ti maysa a tao"
+      "gloss": "ti maysa a lalaki"
     },
     {
       "surface": "אלהים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ket kinuna"
+      "gloss": "ket kinunana"
     },
     {
       "surface": "אליו",
-      "gloss": "kenkuana"
+      "gloss": ""
     },
     {
       "surface": "כה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ti imbaga"
+      "gloss": "ti kinuna"
     },
     {
       "surface": "יהוה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הנגלה",
-      "gloss": "No makitakto"
+      "gloss": "Saan kadi"
     },
     {
       "surface": "נגליתי",
-      "gloss": "nagparangak"
+      "gloss": "a nangiparangak"
     },
     {
       "surface": "אל",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "אביך",
-      "gloss": "ti amam"
+      "gloss": "ni amam"
     },
     {
       "surface": "בהיותם",
-      "gloss": "idi adda da"
+      "gloss": "idi addaada"
     },
     {
       "surface": "במצרים",
@@ -84,6 +84,6 @@
       "gloss": "ni Paro"
     }
   ],
-  "timestamp": "2026-09-26T10:27:08.178592233Z",
+  "timestamp": "2026-09-27T01:08:16.782611428Z",
   "model": "glm-5.3"
 }

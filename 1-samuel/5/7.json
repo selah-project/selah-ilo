@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "Ket nakita dagiti tao ti Ashdod nga kasta, ket kinunada: saan a manganed ti arko ti Elohim ti Yisrael kadakami, ta nagdagsen ti imana kadakami ken kenni Dagon ti diostayo.",
+  "translation": "ket nakita dagiti lallaki ti Ashdod a kasta, ket kinunada: saan nga agnanaed ti arko ti Elohim ni Yisrael kaduatakayo ta napigsa ti imana kadatayo ken kenni Dagon a diostayo.",
   "tokens": [
     {
       "surface": "ויראו",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "dagiti tao"
+      "gloss": "dagiti lallaki ti"
     },
     {
       "surface": "אשדוד",
-      "gloss": "ti Ashdod"
+      "gloss": "Ashdod"
     },
     {
       "surface": "כי",
-      "gloss": "nga"
+      "gloss": "a"
     },
     {
       "surface": "כן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "a manganed"
+      "gloss": "agnanaed"
     },
     {
       "surface": "ארון",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ti Yisrael"
+      "gloss": "ni Yisrael"
     },
     {
       "surface": "עמנו",
-      "gloss": "kadakami"
+      "gloss": "kaduatakayo"
     },
     {
       "surface": "כי",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "קשתה",
-      "gloss": "nagdagsen"
+      "gloss": "napigsa"
     },
     {
       "surface": "ידו",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "עלינו",
-      "gloss": "kadakami"
+      "gloss": "kadatayo"
     },
     {
       "surface": "ועל",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "ti diostayo"
+      "gloss": "a diostayo"
     }
   ],
-  "timestamp": "2026-09-26T10:36:16.261417926Z",
+  "timestamp": "2026-09-27T01:08:59.262832512Z",
   "model": "glm-5.3"
 }

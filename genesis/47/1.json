@@ -5,8 +5,81 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 47,
-  "translation": "Dimteng ni Yosef ket inlawlawaganna kenni Paro, ken kinunana: Ti apak ken dagiti kabsatko, ken dagiti karnero da, ken dagiti挐...",
-  "tokens": [],
-  "timestamp": "2026-09-26T03:19:10.434542045Z",
+  "translation": "Immay ni Yosef ket nangibaga kenni Paro, ket kinunana: Ni amak ken dagiti kabsatko, dagiti karneroda ken dagiti gadoda, ken amin a tagikuada, immayda manipud iti daga ti Kenaan; ket kitam, addaanda iti daga ti Goshen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Immay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nangibaga"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kenni Paro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ni amak"
+    },
+    {
+      "surface": "ואחי",
+      "gloss": "dagiti kabsatko"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "dagiti karneroda"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "dagiti gadoda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tagikuada"
+    },
+    {
+      "surface": "באו",
+      "gloss": "immayda"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "manipud iti daga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ti Kenaan"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ket kitam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iti daga"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ti Goshen"
+    }
+  ],
+  "timestamp": "2026-09-27T01:14:49.044056122Z",
   "model": "glm-5.3"
 }

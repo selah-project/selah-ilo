@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "ilo",
   "chapter": 3,
-  "translation": "Kinunana kaniada: Suromkayo kaniak, ta inited ni Yahweh ⟨את⟩ dagiti kabusoryo, ⟨את⟩ ti Moab, kadagiti imayo. Nagbabada iti likodna ket inalada ⟨את⟩ dagiti pagballasiwan ti Yarden a mapan iti Moab, ket saanda a nangipalubos iti maysa a tao a makaballasiw.",
+  "translation": "Kinuna kaniada: Sumurotkayo kaniak, ta naited ni Yahweh ⟨את⟩ dagiti kabusoryo, ⟨ti⟩ Moav, kadagiti imayo; ket nagbabaada kalpasanna ket inalada ⟨את⟩ dagiti pagballasiwan ti Yarden a mapan iti Moav, ken saan da a pinabalinan ti maysa a lalaki nga agballasiw.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kinunana"
+      "gloss": "kinuna"
     },
     {
       "surface": "אלהם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "רדפו",
-      "gloss": "suromkayo"
+      "gloss": "sumurotkayo"
     },
     {
       "surface": "אחרי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "inited"
+      "gloss": "naited"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "את",
@@ -47,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti Moab"
+      "marks": "Moav"
     },
     {
       "surface": "מואב",
-      "gloss": "ti Moab"
+      "gloss": "Moav"
     },
     {
       "surface": "בידכם",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "וירדו",
-      "gloss": "nagbabada"
+      "gloss": "nagbabaada"
     },
     {
       "surface": "אחריו",
-      "gloss": "iti likodna"
+      "gloss": "kalpasanna"
     },
     {
       "surface": "וילכדו",
@@ -72,7 +72,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti pagballasiwan"
+      "marks": "dagiti pagballasiwan ti Yarden"
     },
     {
       "surface": "מעברות",
@@ -84,25 +84,25 @@
     },
     {
       "surface": "למואב",
-      "gloss": "a mapan iti Moab"
+      "gloss": "a mapan iti Moav"
     },
     {
       "surface": "ולא",
-      "gloss": "ket saanda"
+      "gloss": "ken saan"
     },
     {
       "surface": "נתנו",
-      "gloss": "a nangipalubos"
+      "gloss": "pinabalinan"
     },
     {
       "surface": "איש",
-      "gloss": "iti maysa a tao"
+      "gloss": "ti maysa a lalaki"
     },
     {
       "surface": "לעבר",
-      "gloss": "a makaballasiw"
+      "gloss": "nga agballasiw"
     }
   ],
-  "timestamp": "2026-09-26T09:40:57.277864325Z",
+  "timestamp": "2026-09-27T01:19:10.849463455Z",
   "model": "glm-5.3"
 }

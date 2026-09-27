@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "Immay ⟨isuna⟩ ken, aduy, ni Eli natugaw iti trono iti igid ti dalan, agur-uray, ta adda ti mabuteg ti pusona iti arko ti Elohim; ket ti tao immay mangibaga iti ili, ket nagruwar ti amin nga ili.",
+  "translation": "ket immay isuna, ken vaklen, ni Eli agtutugaw ⟨iti⟩ tugaw iti igid ti dalan, agpalpaliiw, ta nalnad ti pusona gapu iti arko ti Elohim; ket ti lalaki immay nga ibagana ⟨iti⟩ ili, ket insangelina ti amin nga ili.",
   "tokens": [
     {
       "surface": "ויבוא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "ken, aduy"
+      "gloss": "ken vaklen"
     },
     {
       "surface": "עלי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "natugaw"
+      "gloss": "agtutugaw"
     },
     {
       "surface": "על",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "הכסא",
-      "gloss": "trono"
+      "gloss": "tugaw"
     },
     {
       "surface": "יך",
-      "gloss": "laeng"
+      "gloss": "igid"
     },
     {
       "surface": "דרך",
-      "gloss": "igid ti dalan"
+      "gloss": "ti dalan"
     },
     {
       "surface": "מצפה",
-      "gloss": "agur-uray"
+      "gloss": "agpalpaliiw"
     },
     {
       "surface": "כי",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "חרד",
-      "gloss": "mabuteg"
+      "gloss": "nalnad"
     },
     {
       "surface": "על",
-      "gloss": "iti"
+      "gloss": "gapu iti"
     },
     {
       "surface": "ארון",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "והאיש",
-      "gloss": "ket ti tao"
+      "gloss": "ket ti lalaki"
     },
     {
       "surface": "בא",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "להגיד",
-      "gloss": "mangibaga"
+      "gloss": "nga ibagana"
     },
     {
       "surface": "בעיר",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "ותזעק",
-      "gloss": "nagruwar"
+      "gloss": "ket insangelina"
     },
     {
       "surface": "כל",
@@ -100,6 +100,6 @@
       "gloss": "nga ili"
     }
   ],
-  "timestamp": "2026-09-26T10:33:09.710877738Z",
+  "timestamp": "2026-09-27T01:08:48.039166459Z",
   "model": "glm-5.3"
 }

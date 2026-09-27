@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "No maysa a kararua no makabasol ken aramidenna maysa kadagiti bilin ni Yahweh a saan nga aramiden, ket saan nga ammo, agbasol isuna ket awidenna ti basolna.",
+  "translation": "Ken no ti maysa a kararua, no agbasol ken aramidenna ti maysa kadagiti amin a bilin ni Yahweh a saan nga aramiden, ken saananna nga ammo, ket nagbasol isuna ket agbitbitinanna ti kadaksananna.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "no"
+      "gloss": "ken no"
     },
     {
       "surface": "נפש",
-      "gloss": "maysa a kararua"
+      "gloss": "kararua"
     },
     {
       "surface": "כי",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "תחטא",
-      "gloss": "makabasol"
+      "gloss": "agbasol"
     },
     {
       "surface": "ועשתה",
-      "gloss": "aramidenna"
+      "gloss": "ken aramidenna"
     },
     {
       "surface": "אחת",
-      "gloss": "maysa"
+      "gloss": "ti maysa"
     },
     {
       "surface": "מכל",
-      "gloss": "kadagiti"
+      "gloss": "kadagiti amin"
     },
     {
       "surface": "מצות",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ket saan"
+      "gloss": "ken saananna"
     },
     {
       "surface": "ידע",
@@ -65,17 +65,17 @@
     },
     {
       "surface": "ואשם",
-      "gloss": "agbasol"
+      "gloss": "ket nagbasol"
     },
     {
       "surface": "ונשא",
-      "gloss": "awidenna"
+      "gloss": "agbitbitinanna"
     },
     {
       "surface": "עונו",
-      "gloss": "ti basolna"
+      "gloss": "ti kadaksananna"
     }
   ],
-  "timestamp": "2026-09-26T05:02:20.551851998Z",
+  "timestamp": "2026-09-27T01:21:33.328961790Z",
   "model": "glm-5.3"
 }

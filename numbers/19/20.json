@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Ken ti tao a maawan-nadalus ken saanna a nadalusanna ti bagina, maikkat dayta a kararua manipud iti tengnga ti gimong, ta rinugitanna ⟨את⟩ ti nasantuan a dissu ni Yahweh; saan a nawisikan iti ngatona ti danum ti pannakaisina — naruot isuna.",
+  "translation": "Ken ti lalaki a narugit ket saan a mandalus ti bagina, ti kararua a dayta ket maikkat manipud iti tengnga ti gimong, ta ⟨את⟩ ti nasantuan a lugar ni Yahweh rinugitanna — ti danum ti niddah ket saan a naisida kaniakenna; narugit ti barona.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ken ti tao"
+      "gloss": "ken ti lalaki"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יטמא",
-      "gloss": "maawan-nadalus"
+      "gloss": "narugit"
     },
     {
       "surface": "ולא",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "יתחטא",
-      "gloss": "a nadalusanna ti bagina"
+      "gloss": "mandalus ti bagina"
     },
     {
       "surface": "ונכרתה",
-      "gloss": "maikkat"
+      "gloss": "ket maikkat"
     },
     {
       "surface": "הנפש",
-      "gloss": "dayta a kararua"
+      "gloss": "ti kararua"
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "a dayta"
     },
     {
       "surface": "מתוך",
@@ -54,15 +54,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti nasantuan a dissu"
+      "marks": "ti nasantuan a lugar ni Yahweh"
     },
     {
       "surface": "מקדש",
-      "gloss": "nasantuan a dissu"
+      "gloss": "ti nasantuan a lugar"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "טמא",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "נדה",
-      "gloss": "ti pannakaisina"
+      "gloss": "ti niddah"
     },
     {
       "surface": "לא",
@@ -82,21 +82,21 @@
     },
     {
       "surface": "זרק",
-      "gloss": "nawisikan"
+      "gloss": "a naisida"
     },
     {
       "surface": "עליו",
-      "gloss": "iti ngatona"
+      "gloss": "kaniakenna"
     },
     {
       "surface": "טמא",
-      "gloss": "naruot"
+      "gloss": "narugit"
     },
     {
       "surface": "הוא",
-      "gloss": "isuna"
+      "gloss": "ti barona"
     }
   ],
-  "timestamp": "2026-09-26T06:53:22.323667190Z",
+  "timestamp": "2026-09-27T01:22:07.808701926Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "Ket nag asideg dagiti anak ni Yehudah kenni Yehoshua idiay Gilgal, ket kinuna ni Kalev nga anak ni Yefuneh ti Kenizio kenkuana: Sika, ammo mo ⟨את⟩ ti sao a naisao ni Yahweh kenni Moshe, ti tao ti Elohim, maipapan kenkuak ken maipapan kenka, idiay Kadesh-Barnea.",
+  "translation": "Naglinangdag dagiti anak ni Yehudah kenni Yehoshua iti Gilgal, ket kinuna ni Kalev, anak ni Yefunne ti Keniziano, kenkuana: Sika ti ammo ⟨את⟩ ti sao a nagsao ni Yahweh kenni Moshe, lalaki ti Elohim, maipapan kaniak ken maipapan kenka, idiay Kadesh-Barnea.",
   "tokens": [
     {
       "surface": "ויגשו",
-      "gloss": "ket nagasideg"
+      "gloss": "naglinangdag"
     },
     {
       "surface": "בני",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ken"
+      "gloss": "kenni"
     },
     {
       "surface": "יהושע",
-      "gloss": "ni Yehoshua"
+      "gloss": "Yehoshua"
     },
     {
       "surface": "בגלגל",
-      "gloss": "idiay Gilgal"
+      "gloss": "iti Gilgal"
     },
     {
       "surface": "ויאמר",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "יפנה",
-      "gloss": "ni Yefuneh"
+      "gloss": "ni Yefunne"
     },
     {
       "surface": "הקנזי",
-      "gloss": "ti Kenizio"
+      "gloss": "ti Keniziano"
     },
     {
       "surface": "אתה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "ammo mo"
+      "gloss": "ti ammo"
     },
     {
       "surface": "את",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "naisao"
+      "gloss": "nagsao"
     },
     {
       "surface": "יהוה",
@@ -86,15 +86,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ken"
+      "gloss": "kenni"
     },
     {
       "surface": "משה",
-      "gloss": "ni Moshe"
+      "gloss": "Moshe"
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "lalaki"
     },
     {
       "surface": "האלהים",
@@ -106,11 +106,11 @@
     },
     {
       "surface": "אדותי",
-      "gloss": "kenkuak"
+      "gloss": "kaniak"
     },
     {
       "surface": "ועל",
-      "gloss": "ket maipapan"
+      "gloss": "ken maipapan"
     },
     {
       "surface": "אדותיך",
@@ -125,6 +125,6 @@
       "gloss": "-Barnea"
     }
   ],
-  "timestamp": "2026-09-26T09:15:23.027914488Z",
+  "timestamp": "2026-09-27T01:18:02.350517085Z",
   "model": "glm-5.3"
 }

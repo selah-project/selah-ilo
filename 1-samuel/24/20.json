@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 24,
-  "translation": "Ta no makita ti tao ⟨את⟩ ti kabusorna, ibbawna koma a mapan iti naimbag a dalan; ket ibayadannaka ni Yahweh ti naimbang iti bayad ti aramidmo kaniak ita nga aldaw daytoy.",
+  "translation": "Ta no ti maysa a lalaki makasarak iti ⟨את⟩ kabusorna, ket ibatina iti nasayaat a dalan — ket ni Yahweh agbayadannakanto iti nasayaat a banag iti lugar ti ita nga aldaw a daytoy nga inaramidmo kaniak.",
   "tokens": [
     {
       "surface": "וכי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "ימצא",
-      "gloss": "makita"
+      "gloss": "makasarak"
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti maysa a lalaki"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti kabusorna"
+      "marks": "kabusorna"
     },
     {
       "surface": "איבו",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ושלחו",
-      "gloss": "ibbawna"
+      "gloss": "ket ibatina"
     },
     {
       "surface": "בדרך",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "טובה",
-      "gloss": "a naimbag"
+      "gloss": "nasayaat"
     },
     {
       "surface": "ויהוה",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "ישלמך",
-      "gloss": "ibayadannaka"
+      "gloss": "agbayadannakanto"
     },
     {
       "surface": "טובה",
-      "gloss": "ti naimbag"
+      "gloss": "nasayaat a banag"
     },
     {
       "surface": "תחת",
-      "gloss": "iti bayad ti"
+      "gloss": "iti lugar ti"
     },
     {
       "surface": "היום",
@@ -62,21 +62,21 @@
     },
     {
       "surface": "הזה",
-      "gloss": "daytoy"
+      "gloss": "a daytoy"
     },
     {
       "surface": "אשר",
-      "gloss": "ti"
+      "gloss": "nga"
     },
     {
       "surface": "עשיתה",
-      "gloss": "aramidmo"
+      "gloss": "inaramidmo"
     },
     {
       "surface": "לי",
       "gloss": "kaniak"
     }
   ],
-  "timestamp": "2026-09-26T11:08:09.265671147Z",
+  "timestamp": "2026-09-27T01:08:35.189611588Z",
   "model": "glm-5.3"
 }

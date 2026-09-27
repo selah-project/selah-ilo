@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "Ken ti tao a maturog ⟨iti⟩ ⟨את⟩ asawa ti amana — ti nakardaro ti amana ti linukatanna — matayen a matayenda dagusuda; ti darada ⟨ket⟩ iti kaniada.",
+  "translation": "Ken ti lalaki a maturugananna ⟨את⟩ ti asawa ti amana — ti lamolamo ti amana ikitna — agpada a matayenda; ti darada ket kadakuada.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ken ti tao"
+      "gloss": "Ken ti lalaki"
     },
     {
       "surface": "אשר",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "ישכב",
-      "gloss": "maturog"
+      "gloss": "maturugananna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "asawa"
+      "marks": "ti asawa ti amana"
     },
     {
       "surface": "אשת",
-      "gloss": "asawa"
+      "gloss": "ti asawa"
     },
     {
       "surface": "אביו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ערות",
-      "gloss": "ti nakardaro"
+      "gloss": "ti lamolamo"
     },
     {
       "surface": "אביו",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "גלה",
-      "gloss": "linukatanna"
+      "gloss": "ikitna"
     },
     {
       "surface": "מות",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "שניהם",
-      "gloss": "dagusuda"
+      "gloss": "agpada"
     },
     {
       "surface": "דמיהם",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "בם",
-      "gloss": "iti kaniada"
+      "gloss": "kadakuada"
     }
   ],
-  "timestamp": "2026-09-26T05:43:00.282609791Z",
+  "timestamp": "2026-09-27T01:19:50.374972605Z",
   "model": "glm-5.3"
 }

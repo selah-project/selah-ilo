@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ilo",
   "chapter": 27,
-  "translation": "Ti maikasangapulo ket dua, para iti ti maikasangapulo ket dua a bulan, ni Kheldai ti Netofati, iti Otniel; ken iti pannakabingbingayna duapulo ket uppat a ribu.",
+  "translation": "Ti maikasangapulo ket dua, para iti maikasangapulo ket dua a bulan, ni Khelday ti Netofati, a kabsat ni Otniel; ket iti pannakabingayna duapulo ket uppat a ribu.",
   "tokens": [
     {
       "surface": "השנים",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "sangapulo ket dua"
     },
     {
       "surface": "לשנים",
-      "gloss": "para iti ti maikasangapulo ket dua"
+      "gloss": "para iti maikasangapulo ket dua"
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "sangapulo ket dua"
     },
     {
       "surface": "החדש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "חלדי",
-      "gloss": "Kheldai"
+      "gloss": "Khelday"
     },
     {
       "surface": "הנטופתי",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "לעתניאל",
-      "gloss": "iti Otniel"
+      "gloss": "a kabsat ni Otniel"
     },
     {
       "surface": "ועל",
-      "gloss": "ken iti"
+      "gloss": "ket iti"
     },
     {
       "surface": "מחלקתו",
-      "gloss": "pannakabingbingayna"
+      "gloss": "pannakabingayna"
     },
     {
       "surface": "עשרים",
@@ -60,6 +60,6 @@
       "gloss": "a ribu"
     }
   ],
-  "timestamp": "2026-09-26T23:41:40.902668758Z",
+  "timestamp": "2026-09-27T01:07:47.726826491Z",
   "model": "glm-5.3"
 }

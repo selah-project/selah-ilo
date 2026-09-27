@@ -5,8 +5,127 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 29,
-  "translation": "Ket pattayenmo ⟨את⟩ ti karnero, ket alaem ti darana, ken ipakmo iti patingga ti tengagna ni Aharon ken iti patingga ti tengangan kanigid…",
-  "tokens": [],
-  "timestamp": "2026-09-26T23:59:15.991554509Z",
+  "translation": "Ken pattayenmo ⟨את⟩ ti karnero a lalaki, ket alaenmo ti darana, ken ikabilmo iti patingga ti talinga ni Aharon ken iti patingga ti kannawan a talinga dagiti annakna, ken iti siri ti kannawan nga imada, ken iti siri ti kannawan a sakada, ket iwarasmo ⟨את⟩ ti dara iti lawlaw ti altar.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ken pattayenmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti karnero a lalaki"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ti karnero a lalaki"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ket alaenmo"
+    },
+    {
+      "surface": "מדמו",
+      "gloss": "ti darana"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ken ikabilmo"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "patingga"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "talinga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "patingga"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "talinga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dagiti annakna"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kannawan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "siri"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "imada"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kannawan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ken iti"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "siri"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "sakada"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kannawan"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "ket iwarasmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti dara"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ti dara"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iti lawlaw"
+    }
+  ],
+  "timestamp": "2026-09-27T01:12:53.358271684Z",
   "model": "glm-5.3"
 }

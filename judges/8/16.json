@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "ilo",
   "chapter": 8,
-  "translation": "Inalana ⟨את⟩ dagiti lakay ti ili ken ⟨את⟩ dagiti dika ti desierto ken ⟨את⟩ dagiti siksika a mula, ket insuronana kadakuada ⟨את⟩ dagiti tao ti Sukkot.",
+  "translation": "Kinuana ⟨את⟩ dagiti lakay ti ili, ken ⟨את⟩ dagiti sicnit ti mai pagdissuan, ken ⟨את⟩ dagiti lummot, ket inammannana kadakuada ⟨את⟩ dagiti lallaki ti Sukkot.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "inalana"
+      "gloss": "kinuana"
     },
     {
       "surface": "את",
@@ -27,28 +27,28 @@
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "dagiti dika ti desierto"
+      "marks": "dagiti sicnit ti mai pagdissuan"
     },
     {
       "surface": "קוצי",
-      "gloss": "dagiti dika"
+      "gloss": "dagiti sicnit"
     },
     {
       "surface": "המדבר",
-      "gloss": "ti desierto"
+      "gloss": "ti mai pagdissuan"
     },
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "dagiti siksika a mula"
+      "marks": "dagiti lumlot"
     },
     {
       "surface": "הברקנים",
-      "gloss": "dagiti siksika a mula"
+      "gloss": "dagiti lumlot"
     },
     {
       "surface": "וידע",
-      "gloss": "insuronana"
+      "gloss": "inammannana"
     },
     {
       "surface": "בהם",
@@ -57,17 +57,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti tao ti Sukkot"
+      "marks": "dagiti lallaki ti Sukkot"
     },
     {
       "surface": "אנשי",
-      "gloss": "dagiti tao"
+      "gloss": "dagiti lallaki"
     },
     {
       "surface": "סכות",
       "gloss": "ti Sukkot"
     }
   ],
-  "timestamp": "2026-09-26T09:56:10.769501720Z",
+  "timestamp": "2026-09-27T01:18:47.274367721Z",
   "model": "glm-5.3"
 }

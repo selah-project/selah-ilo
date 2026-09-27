@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "ket alaenna ti padi ti maysa a karnero ken ipangrunana ⟨את⟩ dayta a kas daton a panagbayad iti basol, ken ⟨את⟩ ti log ti lana, ket iwagwagnada ⟨את⟩ dagitoy a panangiwagwag iti sangoan ni Yahweh.",
+  "translation": "Ken aluen ti padi ti maysa a karnero, ken ipangonna a kas asham, ken ⟨את⟩ ti log ti lana, ken iyuyonna ⟨את⟩ dagitoy a kas panangiyuy iti sango ni Yahweh.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "ket alaenna"
+      "gloss": "ken aluen"
     },
     {
       "surface": "הכהן",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "הכבש",
-      "gloss": "ti karnero"
+      "gloss": "ti maysa a karnero"
     },
     {
       "surface": "האחד",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "והקריב",
-      "gloss": "ken ipangrunana"
+      "gloss": "ken ipangonna"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "dayta"
+      "marks": "a kas asham"
     },
     {
       "surface": "לאשם",
-      "gloss": "a kas daton a panagbayad iti basol"
+      "gloss": "a kas asham"
     },
     {
       "surface": "ואת",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "לג",
-      "gloss": "ti log"
+      "gloss": "log"
     },
     {
       "surface": "השמן",
@@ -56,26 +56,26 @@
     },
     {
       "surface": "והניף",
-      "gloss": "ket iwagwagnada"
+      "gloss": "ken iyuyonna"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "dagitoy"
+      "marks": "dagitoy a kas panangiyuy"
     },
     {
       "surface": "תנופה",
-      "gloss": "a panangiwagwag"
+      "gloss": "a kas panangiyuy"
     },
     {
       "surface": "לפני",
-      "gloss": "iti sangoan"
+      "gloss": "iti sango"
     },
     {
       "surface": "יהוה",
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T05:22:29.943273968Z",
+  "timestamp": "2026-09-27T01:19:31.577463119Z",
   "model": "glm-5.3"
 }

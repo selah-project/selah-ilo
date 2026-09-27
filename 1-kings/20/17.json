@@ -5,8 +5,65 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "Ketimmay dagiti [[[kailian]]] a lallaki]] ti [[dagiti [[kailian]]]] ti [[probinsia]] iti [[umuna]], ket [[immawag]] ni Ben-Hadad, ket [[imbaganda]] kenkuana [[a kuna]]: adda [[lallaki]] a [[immay]] manipud iti [[Shomron]].",
-  "tokens": [],
-  "timestamp": "2026-09-26T13:06:51.559711980Z",
+  "translation": " ket rumuarden dagiti kaarian kadagiti principalken dagiti probinsia ⟨is-una⟩, ket imbaon ni Ben-Hadad, ket ibagada kaniana, nga itedanda: Dagiti lallaki ket nangruarda manipud iti Samaria.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ket rumuarden"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "dagiti kaarian"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kadagiti prinsipe"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "ti probinsia"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "is-una"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ket imbaon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ni Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ket ibagada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga itedanda"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "dagiti lallaki"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nangruarda"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "manipud iti Samaria"
+    }
+  ],
+  "timestamp": "2026-09-27T01:07:42.471129079Z",
   "model": "glm-5.3"
 }

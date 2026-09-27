@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "ilo",
   "chapter": 3,
-  "translation": "Adda dagiti lallaki a Yahudi a naidutokmo ⟨את⟩ da iti aramid ti probinsia ti Bavel — ni Shadrakh, ni Meshakh ken ni Abed-Nego; dagitoy a lallaki, kenka, ari, ti bilin saanda a sinuot — saanda nga agserbi kenni Elohimmo, ken iti ladawan a balitok a nangatdukmo saanda nga agsagod.",
+  "translation": "Adda dagiti lallaki a Judio a naidutokam ⟨את⟩ kadakuada iti panagserbi iti probinsia ti Bavel — ni Shadrakh, ni Meshakh ken ni Abed-Nego; dagiti lallaki dayta, ari, saanda a ginandat ti bilinmo, ari: ti Elohimmo saanda a serbianda, ken iti estatua ti balitok a pinatakdermo saanda a mangsagada.",
   "tokens": [
     {
       "surface": "איתי",
-      "gloss": "Adda"
+      "gloss": "adda"
     },
     {
       "surface": "גברין",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יהודאין",
-      "gloss": "a Yahudi"
+      "gloss": "a Judio"
     },
     {
       "surface": "די",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "מנית",
-      "gloss": "naidutokmo"
+      "gloss": "naidutokam"
     },
     {
       "surface": "יתהון",
       "gloss": "⟨את⟩",
-      "marks": "da (dagitoy a lallaki a Yahudi)"
+      "marks": "kadakuada"
     },
     {
       "surface": "על",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "עבידת",
-      "gloss": "aramid"
+      "gloss": "panagserbi"
     },
     {
       "surface": "מדינת",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "ti Bavel"
     },
     {
       "surface": "שדרך",
-      "gloss": "Shadrakh"
+      "gloss": "ni Shadrakh"
     },
     {
       "surface": "מישך",
-      "gloss": "Meshakh"
+      "gloss": "ni Meshakh"
     },
     {
       "surface": "ועבד",
@@ -70,19 +70,19 @@
     },
     {
       "surface": "אלך",
-      "gloss": "ditoy"
+      "gloss": "dayta"
     },
     {
       "surface": "לא",
-      "gloss": "saan"
+      "gloss": "saanda"
     },
     {
       "surface": "שמו",
-      "gloss": "sinuot"
+      "gloss": "ginandat"
     },
     {
       "surface": "עליך",
-      "gloss": "kenka"
+      "gloss": "iti"
     },
     {
       "surface": "מלכא",
@@ -90,27 +90,27 @@
     },
     {
       "surface": "טעם",
-      "gloss": "ti bilin"
+      "gloss": "bilin"
     },
     {
       "surface": "לאלהיך",
-      "gloss": "kenni Elohimmo"
+      "gloss": "ti Elohimmo"
     },
     {
       "surface": "לא",
-      "gloss": "saan"
+      "gloss": "saanda"
     },
     {
       "surface": "פלחין",
-      "gloss": "agserbi"
+      "gloss": "serbianda"
     },
     {
       "surface": "ולצלם",
-      "gloss": "ken iti ladawan"
+      "gloss": "ken iti estatua"
     },
     {
       "surface": "דהבא",
-      "gloss": "balitok"
+      "gloss": "ti balitok"
     },
     {
       "surface": "די",
@@ -118,17 +118,17 @@
     },
     {
       "surface": "הקימת",
-      "gloss": "nangatdukmo"
+      "gloss": "pinatakdermo"
     },
     {
       "surface": "לא",
-      "gloss": "saan"
+      "gloss": "saanda"
     },
     {
       "surface": "סגדין",
-      "gloss": "agsagod"
+      "gloss": "mangsagada"
     }
   ],
-  "timestamp": "2026-09-26T23:15:59.468313430Z",
+  "timestamp": "2026-09-27T01:10:46.164489069Z",
   "model": "glm-5.3"
 }

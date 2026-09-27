@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 1,
-  "translation": "Naragsak ti tao a saan a nagna iti payo dagiti dakes, ket iti dalan dagiti makabasol saan a nagtakder, ken iti pagtugaoan dagiti mangnguyaw saan a nagtugao.",
+  "translation": "Naragsak ti lalaki a saan a nagna iti balakad dagiti dakes, ken iti dalan dagiti nakabasol saan a nagtakder, ken iti pagtugawan dagiti mangnguya saan a nagtugaw.",
   "tokens": [
     {
       "surface": "אשרי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בעצת",
-      "gloss": "iti payo"
+      "gloss": "iti balakad"
     },
     {
       "surface": "רשעים",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ובדרך",
-      "gloss": "ket iti dalan"
+      "gloss": "ken iti dalan"
     },
     {
       "surface": "חטאים",
-      "gloss": "dagiti makabasol"
+      "gloss": "dagiti nakabasol"
     },
     {
       "surface": "לא",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ובמושב",
-      "gloss": "ken iti pagtugaoan"
+      "gloss": "ken iti pagtugawan"
     },
     {
       "surface": "לצים",
-      "gloss": "dagiti mangnguyaw"
+      "gloss": "dagiti mangnguya"
     },
     {
       "surface": "לא",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "ישב",
-      "gloss": "nagtugao"
+      "gloss": "nagtugaw"
     }
   ],
-  "timestamp": "2026-09-26T20:48:03.319548747Z",
+  "timestamp": "2026-09-27T01:23:11.841461115Z",
   "model": "glm-5.3"
 }

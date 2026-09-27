@@ -5,32 +5,32 @@
   "book": "joshua",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "Ken ⟨את⟩ dagiti sangapulo ket dua a bato a daytoy, nga inalada manipud iti Yarden, pinatakder ni Yehoshua iti Gilgal.",
+  "translation": "Ken ⟨את⟩ dagitoy a sangapulo ket dua a bato a inalada manipud iti Yarden, inpatakder ni Yehoshua idiay Gilgal.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "dagiti sangapulo ket dua a bato"
+      "marks": "dagitoy a sangapulo ket dua a bato"
     },
     {
       "surface": "שתים",
-      "gloss": "sangapulo ket dua"
+      "gloss": "ket dua"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "sangapulo"
     },
     {
       "surface": "האבנים",
-      "gloss": "a bato"
+      "gloss": "dagiti bato"
     },
     {
       "surface": "האלה",
-      "gloss": "dagiti daytoy"
+      "gloss": "dagitoy"
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "a"
     },
     {
       "surface": "לקחו",
@@ -38,25 +38,25 @@
     },
     {
       "surface": "מן",
-      "gloss": "manipud"
+      "gloss": "manipud iti"
     },
     {
       "surface": "הירדן",
-      "gloss": "iti Yarden"
+      "gloss": "Yarden"
     },
     {
       "surface": "הקים",
-      "gloss": "pinatakder"
+      "gloss": "inpatakder"
     },
     {
       "surface": "יהושע",
-      "gloss": "ni Yehoshua"
+      "gloss": "Yehoshua"
     },
     {
       "surface": "בגלגל",
-      "gloss": "iti Gilgal"
+      "gloss": "idiay Gilgal"
     }
   ],
-  "timestamp": "2026-09-26T08:50:08.101678627Z",
+  "timestamp": "2026-09-27T01:17:38.520811402Z",
   "model": "glm-5.3"
 }

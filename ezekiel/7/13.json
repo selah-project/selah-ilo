@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ilo",
   "chapter": 7,
-  "translation": "Ta ti aglako saan a makasubli iti ⟨ti⟩ naibaba-na, ket uray no adda pay iti biag ti biagda; ta ti damag maipapan iti amin a gimongna saan a makasubli, ket ti tao iti basol-na a kas biag-na, saan a mapigsaan.",
+  "translation": "Ta ti aglako ket saan a agsubli ⟨iti⟩ ti nalakona, ket ti biagda ket adda pay kadagiti sibibiag; ta ti rebelasion ket maipapan iti amin a umilina, saan a mabalinen a maibusor, ket ti lalaki ket saan a makabileg iti biagna gapu iti basolna.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הממכר",
-      "gloss": "ti naibabana"
+      "gloss": "ti nalakona"
     },
     {
       "surface": "לא",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ישוב",
-      "gloss": "a makasubli"
+      "gloss": "agsubli"
     },
     {
       "surface": "ועוד",
-      "gloss": "ket uray no adda pay"
+      "gloss": "pay"
     },
     {
       "surface": "בחיים",
-      "gloss": "iti biag"
+      "gloss": "kadagiti sibibiag"
     },
     {
       "surface": "חיתם",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "חזון",
-      "gloss": "ti damag"
+      "gloss": "ti rebelasion"
     },
     {
       "surface": "אל",
-      "gloss": "maipapan iti"
+      "gloss": "maipapan"
     },
     {
       "surface": "כל",
-      "gloss": "amin a"
+      "gloss": "amin"
     },
     {
       "surface": "המונה",
-      "gloss": "gimongna"
+      "gloss": "umilina"
     },
     {
       "surface": "לא",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "ישוב",
-      "gloss": "a makasubli"
+      "gloss": "agsubli"
     },
     {
       "surface": "ואיש",
-      "gloss": "ket ti tao"
+      "gloss": "ken ti lalaki"
     },
     {
       "surface": "בעונו",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "חיתו",
-      "gloss": "a kas biagna"
+      "gloss": "ti biagna"
     },
     {
       "surface": "לא",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "יתחזקו",
-      "gloss": "a mapigsaan"
+      "gloss": "makabileg"
     }
   ],
-  "timestamp": "2026-09-26T18:06:53.448222059Z",
+  "timestamp": "2026-09-27T01:13:53.481748813Z",
   "model": "glm-5.3"
 }

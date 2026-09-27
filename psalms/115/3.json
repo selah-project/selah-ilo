@@ -5,19 +5,15 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 115,
-  "translation": "Ngem ti Elohimtayo adda ⟨iti⟩ dagiti langit, amin a kayatna aramidenna.",
+  "translation": "Ngem ti Elohimtayo ket adda iti langit, amin a kayatna ket inaramidna.",
   "tokens": [
-    {
-      "surface": "ויאמרו",
-      "gloss": ""
-    },
     {
       "surface": "ואלהינו",
       "gloss": "Ngem ti Elohimtayo"
     },
     {
       "surface": "בשמים",
-      "gloss": "adda ⟨iti⟩ dagiti langit"
+      "gloss": "iti langit"
     },
     {
       "surface": "כל",
@@ -33,9 +29,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "aramidenna"
+      "gloss": "inaramidna"
     }
   ],
-  "timestamp": "2026-09-26T22:26:48.299224992Z",
+  "timestamp": "2026-09-27T01:22:43.716860698Z",
   "model": "glm-5.3"
 }

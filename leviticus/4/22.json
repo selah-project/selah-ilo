@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "No ti nasi agbasaol ken aramidenna maysa kadagiti bilin ni Yahweh ti Elohimna a saan a masapul nga aramiden, iti di pannakaawat, ket adda basolna.",
+  "translation": "No ti nasi makabasol ket aramidenna ti maysa kadagiti amin a bilin ni Yahweh ti Elohimna, a saan nga aramiden, iti di-kinaammo, ket agbasol;",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "No"
+      "gloss": "no"
     },
     {
       "surface": "נשיא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "יחטא",
-      "gloss": "agbasaol"
+      "gloss": "makabasol"
     },
     {
       "surface": "ועשה",
-      "gloss": "ken aramidenna"
+      "gloss": "ket aramidenna"
     },
     {
       "surface": "אחת",
-      "gloss": "maysa"
+      "gloss": "ti maysa"
     },
     {
       "surface": "מכל",
@@ -53,17 +53,17 @@
     },
     {
       "surface": "תעשינה",
-      "gloss": "masapul nga aramiden"
+      "gloss": "ngaan aramiden"
     },
     {
       "surface": "בשגגה",
-      "gloss": "iti di pannakaammo"
+      "gloss": "iti di-kinaammo"
     },
     {
       "surface": "ואשם",
-      "gloss": "ket adda basolna"
+      "gloss": "ket agbasol"
     }
   ],
-  "timestamp": "2026-09-26T21:59:39.292871693Z",
+  "timestamp": "2026-09-27T01:20:36.114592942Z",
   "model": "glm-5.3"
 }

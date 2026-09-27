@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "Maurnong ni Aharon iti ummana, ta saan a sumrek ⟨⟨⟩⟩ iti daga a naitedko kadagiti anak a lalaki ni Yisrael, gapu ta rimmawdayo iti ⟨את⟩ ngiwatko, iti danum ti Meribah.",
+  "translation": "Maurnong ni Aharon kadagiti umilina, ta saan nga agsumrek ⟨iti⟩ daga a naitedko kadagiti anak ti Yisrael, gapu ta sinupsuppiatyo ⟨את⟩ ti ngiwatko idiiti danum ti Meribah.",
   "tokens": [
     {
       "surface": "יאסף",
-      "gloss": "Maurnong"
+      "gloss": "maurnong"
     },
     {
       "surface": "אהרן",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "iti"
+      "gloss": "kadagiti"
     },
     {
       "surface": "עמיו",
-      "gloss": "ummana"
+      "gloss": "umilina"
     },
     {
       "surface": "כי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יבא",
-      "gloss": "a sumrek"
+      "gloss": "agsumrek"
     },
     {
       "surface": "אל",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "לבני",
-      "gloss": "kadagiti anak a lalaki"
+      "gloss": "kadagiti anak"
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "ti Yisrael"
     },
     {
       "surface": "על",
@@ -69,26 +69,26 @@
     },
     {
       "surface": "מריתם",
-      "gloss": "rimmawdayo"
+      "gloss": "sinupsuppiatyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ngiwatko"
+      "marks": "ti ngiwatko"
     },
     {
       "surface": "פי",
-      "gloss": "ngiwatko"
+      "gloss": "ti ngiwatko"
     },
     {
       "surface": "למי",
-      "gloss": "iti danum"
+      "gloss": "idiiti danum"
     },
     {
       "surface": "מריבה",
       "gloss": "ti Meribah"
     }
   ],
-  "timestamp": "2026-09-26T06:52:28.153500872Z",
+  "timestamp": "2026-09-27T01:22:00.459814831Z",
   "model": "glm-5.3"
 }

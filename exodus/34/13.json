@@ -5,8 +5,52 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 34,
-  "translation": "Ta ti altar da ket dadaelendayo, ken ti poste da ket bpparen…",
-  "tokens": [],
-  "timestamp": "2026-09-26T04:37:19.479518386Z",
+  "translation": "Ta ⟨את⟩ dagiti altarda ti ikkatyo, ken ⟨את⟩ dagiti batotayoanda a dadaelenyo, ken ⟨את⟩ dagiti Asherahda nga ulesna ket putrenyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti altarda"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "dagiti altarda"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "ti ikkatyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti batotayoanda"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "dagiti batotayoanda"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "a dadaelenyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti Asherahda"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "dagiti Asherahda"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "ket putrenyo"
+    }
+  ],
+  "timestamp": "2026-09-27T01:12:18.323266266Z",
   "model": "glm-5.3"
 }

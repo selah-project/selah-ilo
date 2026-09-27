@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ilo",
   "chapter": 37,
-  "translation": "ket iniddanda ⟨את⟩ dagiti diosda iti apoy, ta saan a diosda ida, nono aramid dagiti im-ima ti tao, kayo ken bato — isu a indadaelda ida.",
+  "translation": "ket inikkanda ⟨את⟩ dagiti diosda iti apoy, ta saan a dios dagitoy, no di ket aramid dagiti ima ti tao, kayo ken bato; ket dadaelenda ida.",
   "tokens": [
     {
       "surface": "ונתן",
-      "gloss": "ket iniddanda"
+      "gloss": "ket inikkanda"
     },
     {
       "surface": "את",
@@ -30,23 +30,23 @@
     },
     {
       "surface": "לא",
-      "gloss": "saan"
+      "gloss": "saan a"
     },
     {
       "surface": "אלהים",
-      "gloss": "a diosda"
+      "gloss": "dios"
     },
     {
       "surface": "המה",
-      "gloss": "ida"
+      "gloss": "dagitoy"
     },
     {
       "surface": "כי",
-      "gloss": "nono"
+      "gloss": "no di ket"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "no di ket"
     },
     {
       "surface": "מעשה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ידי",
-      "gloss": "dagiti im-ima"
+      "gloss": "dagiti ima"
     },
     {
       "surface": "אדם",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "ויאבדום",
-      "gloss": "isu a indadaelda ida"
+      "gloss": "ket dadaelenda ida"
     }
   ],
-  "timestamp": "2026-09-26T15:19:09.772448414Z",
+  "timestamp": "2026-09-27T01:15:40.451503206Z",
   "model": "glm-5.3"
 }

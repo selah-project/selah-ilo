@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 23,
-  "translation": "ket inayonanna ⟨את⟩ amin dagiti padi manipud kadagiti ili ti Yehudah, ket dinainganna ⟨את⟩ dagiti nangato a lugar a sadino nangngelda idiay dagiti padi, manipud iti Geva agingga iti Beer-Sheba, ket dinaddanna ⟨את⟩ dagiti nangato a lugar dagiti ruaran a mabirukan iti sango ti ruaran ni Yehoshua, ti daulo ti ili, a iti kannigid ti tao iti ruaran ti ili.",
+  "translation": "Idin inawidna ⟨את⟩ amin dagiti padi manipud kadagiti ili ti Yehudah, ket pinarugitna ⟨את⟩ dagiti nangato a lugar a sadiay nagpaaso dagiti padi, manipud iti Giva agingga iti Beer-Sheba, ket dadaelenna ⟨את⟩ dagiti nangato a lugar dagiti pagaraban a sadiay ruangan ti ruangan ni Yehoshua, ti agturay ti ili, a mabirukan iti kannigid ti maysa a lalaki iti ruangan ti ili.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "inayonanna"
+      "gloss": "inawidna"
     },
     {
       "surface": "את",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "ti Yehudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "ויטמא",
-      "gloss": "ket dinainganna"
+      "gloss": "ket pinarugitna"
     },
     {
       "surface": "את",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "קטרו",
-      "gloss": "nangngelda"
+      "gloss": "nagpaaso"
     },
     {
       "surface": "שמה",
-      "gloss": "idiay"
+      "gloss": "sadiay"
     },
     {
       "surface": "הכהנים",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "מגבע",
-      "gloss": "manipud iti Geva"
+      "gloss": "manipud iti Giva"
     },
     {
       "surface": "עד",
@@ -79,12 +79,12 @@
     },
     {
       "surface": "ונתץ",
-      "gloss": "ket dinaddanna"
+      "gloss": "ket dadaelenna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dagiti nangato a lugar"
+      "marks": "dagiti nangato a lugar dagiti pagaraban"
     },
     {
       "surface": "במות",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "השערים",
-      "gloss": "dagiti ruaran"
+      "gloss": "dagiti pagaraban"
     },
     {
       "surface": "אשר",
@@ -100,11 +100,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "iti sango"
+      "gloss": "ruangan"
     },
     {
       "surface": "שער",
-      "gloss": "ti ruaran"
+      "gloss": "ti ruangan"
     },
     {
       "surface": "יהושע",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "שר",
-      "gloss": "ti daulo"
+      "gloss": "ti agturay"
     },
     {
       "surface": "העיר",
@@ -132,17 +132,17 @@
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti maysa a lalaki"
     },
     {
       "surface": "בשער",
-      "gloss": "iti ruaran"
+      "gloss": "iti ruangan"
     },
     {
       "surface": "העיר",
       "gloss": "ti ili"
     }
   ],
-  "timestamp": "2026-09-26T14:08:31.664186355Z",
+  "timestamp": "2026-09-27T01:10:07.414702193Z",
   "model": "glm-5.3"
 }

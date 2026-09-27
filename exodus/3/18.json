@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 3,
-  "translation": "ket dengngegenda ti timekmo, ket umayka sika ken dagiti lakay ni Yisrael iti ari ti Mitsrayim, ket ibagayo koma: ni Yahweh, ti Elohim dagiti Hebreno, ket sinabatannakami; ket ita, ipalubosmon nga aganniakami tallo nga aldaw iti liwaliwan, tapno agdatonkami kenni Yahweh ti Elohimmi.",
+  "translation": "Ken mangngegda iti timekmo, ket sumrekaka, sika ken dagiti lakay ti Yisrael, kenni ari ti Mitsrayim, ken kunaenyo kenkuana: Ti Yahweh, ti Elohim dagiti Hebreo, nakasarakannakami; ket ita, agtallikayo, mapankami koma iti dalan tallo nga aldaw iti desierto, a mangsakripisio kenni Yahweh ti Elohimtayo.",
   "tokens": [
     {
       "surface": "ושמעו",
-      "gloss": "ket dengngegenda"
+      "gloss": "ket mangngegda"
     },
     {
       "surface": "לקלך",
-      "gloss": "ti timekmo"
+      "gloss": "iti timekmo"
     },
     {
       "surface": "ובאת",
-      "gloss": "ket umayka"
+      "gloss": "ket sumrekaka"
     },
     {
       "surface": "אתה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "ti Yisrael"
     },
     {
       "surface": "אל",
-      "gloss": "iti"
+      "gloss": "kenni"
     },
     {
       "surface": "מלך",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "ואמרתם",
-      "gloss": "ket ibagayo"
+      "gloss": "ken kunaenyo"
     },
     {
       "surface": "אליו",
-      "gloss": "koma"
+      "gloss": "kenkuana"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Ti Yahweh"
     },
     {
       "surface": "אלהי",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "העבריים",
-      "gloss": "dagiti Hebreno"
+      "gloss": "dagiti Hebreo"
     },
     {
       "surface": "נקרה",
-      "gloss": "sinabatannakami"
+      "gloss": "nakasarakannakami"
     },
     {
       "surface": "עלינו",
-      "gloss": ""
+      "gloss": "kaniakami"
     },
     {
       "surface": "ועתה",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "נלכה",
-      "gloss": "aganniakami"
+      "gloss": "mapankami"
     },
     {
       "surface": "נא",
-      "gloss": "ipalubosmon"
+      "gloss": "agtallikayo, koma"
     },
     {
       "surface": "דרך",
-      "gloss": "iti"
+      "gloss": "iti dalan"
     },
     {
       "surface": "שלשת",
@@ -97,11 +97,11 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "iti liwaliwan"
+      "gloss": "iti desierto"
     },
     {
       "surface": "ונזבחה",
-      "gloss": "tapno agdatonkami"
+      "gloss": "a mangsakripisio"
     },
     {
       "surface": "ליהוה",
@@ -109,9 +109,9 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "ti Elohimmi"
+      "gloss": "ti Elohimtayo"
     }
   ],
-  "timestamp": "2026-09-26T03:33:52.384176027Z",
+  "timestamp": "2026-09-27T01:12:58.421612178Z",
   "model": "glm-5.3"
 }

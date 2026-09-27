@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "Kinuna ni Shaul kenni Elohim: no agbabaak koma a sumurot kadagiti Pelishtiano, itedam koma ⟨את⟩ dagitoy iti ima ti Yisrael? Ngem saananda nga insungbatan iti dayta nga aldaw.",
+  "translation": "Ket nagsaludsod ni Shaul kenni Elohim: no agbabaak koma no agtalek kadagiti Filisteo, no itedam koma dagitoy iti ima ni Yisrael? Ngem saan a nagsungbat kaniaku iti dayta nga aldaw.",
   "tokens": [
     {
       "surface": "וישאל",
-      "gloss": "kinuna"
+      "gloss": "ket nagsaludsod"
     },
     {
       "surface": "שאול",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "a sumurot"
+      "gloss": "no agtalek kadakuan"
     },
     {
       "surface": "פלשתים",
-      "gloss": "kadagiti Pelishtiano"
+      "gloss": "kadagiti Filisteo"
     },
     {
       "surface": "התתנם",
-      "gloss": "itedam koma"
+      "gloss": "no itedam koma dagitoy"
     },
     {
       "surface": "ביד",
@@ -41,11 +41,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ti Yisrael"
-    },
-    {
-      "surface": "וישאל",
-      "gloss": ""
+      "gloss": "ni Yisrael"
     },
     {
       "surface": "ולא",
@@ -53,7 +49,7 @@
     },
     {
       "surface": "ענהו",
-      "gloss": "nga insungbatan"
+      "gloss": "a nagsungbat kaniaku"
     },
     {
       "surface": "ביום",
@@ -64,6 +60,6 @@
       "gloss": "dayta"
     }
   ],
-  "timestamp": "2026-09-26T10:50:58.695792484Z",
+  "timestamp": "2026-09-27T01:08:11.145720969Z",
   "model": "glm-5.3"
 }

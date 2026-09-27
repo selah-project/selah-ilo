@@ -5,16 +5,16 @@
   "book": "ecclesiastes",
   "lang": "ilo",
   "chapter": 8,
-  "translation": "Ket nakitak ⟨את⟩ ti amin nga aramid ti Elohim, a ti tao saan a makabael a makabiruk ⟨את⟩ ti aramid a naaramid babaen ti init: ta uray no agtrabaho ti tao a biruken ⟨daytoy⟩, saan a mabirukan; ken pay uray no kunaen ti nasirib nga ammoanna, saan a makabael a makabiruk ⟨daytoy⟩.",
+  "translation": "ket nakitak ⟨את⟩ ti amin nga aramid ti Elohim, a ti tao saan a makabiruk ⟨iti⟩ aramid a naaramid iti baba ti init; ta iti dayta a panagbain a mangbain ti tao, saanna a mabirukan; ket uray no kunaen ti naan-anayo nga ammoenna, saan a makabiruk.",
   "tokens": [
     {
       "surface": "וראיתי",
-      "gloss": "ket nakitak"
+      "gloss": "nakitak"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti amin nga aramid ti Elohim"
+      "marks": "ti amin nga aramid"
     },
     {
       "surface": "כל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "makabael"
+      "gloss": "a makabiruk"
     },
     {
       "surface": "האדם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "למצוא",
-      "gloss": "a makabiruk"
+      "gloss": "nga mangbiruk"
     },
     {
       "surface": "את",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "babaen"
+      "gloss": "iti baba"
     },
     {
       "surface": "השמש",
@@ -75,15 +75,15 @@
     },
     {
       "surface": "בשל",
-      "gloss": "ta uray no"
+      "gloss": "ta iti dayta a"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "a"
     },
     {
       "surface": "יעמל",
-      "gloss": "agtrabaho"
+      "gloss": "mangbain"
     },
     {
       "surface": "האדם",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "לבקש",
-      "gloss": "a biruken"
+      "gloss": "nga agbiruk"
     },
     {
       "surface": "ולא",
-      "gloss": "ket saan"
+      "gloss": "ket saanna"
     },
     {
       "surface": "ימצא",
@@ -103,11 +103,11 @@
     },
     {
       "surface": "וגם",
-      "gloss": "ken pay"
+      "gloss": "ket uray"
     },
     {
       "surface": "אם",
-      "gloss": "uray no"
+      "gloss": "no"
     },
     {
       "surface": "יאמר",
@@ -115,11 +115,11 @@
     },
     {
       "surface": "החכם",
-      "gloss": "ti nasirib"
+      "gloss": "ti naan-anayo"
     },
     {
       "surface": "לדעת",
-      "gloss": "nga ammoanna"
+      "gloss": "nga ammoenna"
     },
     {
       "surface": "לא",
@@ -127,13 +127,13 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "makabael"
+      "gloss": "a makabiruk"
     },
     {
       "surface": "למצא",
-      "gloss": "a makabiruk"
+      "gloss": "nga mangbiruk"
     }
   ],
-  "timestamp": "2026-09-26T23:09:41.669770115Z",
+  "timestamp": "2026-09-27T01:11:24.493242330Z",
   "model": "glm-5.3"
 }

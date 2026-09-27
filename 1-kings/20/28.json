@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "Ketimmay ti tao ti Elohim ket nagsao iti ari ni Yisrael, ket kinuna: Kasta ti kinuna ni Yahweh: Gapu ta kinunada ti Aram, Elohim dagiti bantay ni Yahweh, ket saan nga Elohim dagiti tanap isuna, ket itedko ⟨את⟩ ti amin a daytoy a dakkel a kadakupan iti imam, ket ammuenyonto a siak ti Yahweh.",
+  "translation": "Ket nangrugi nga immay ti lalaki ti ⟨ti⟩ Elohim ket kinunana iti ari ti Yisrael, ket kinuna: Kastoy ti imbagana a kinuna ni Yahweh: Gapu ta kinuna ti Aram: Elohim dagiti bantay ni Yahweh, ken saan nga Elohim dagiti tanap; ket itedko ⟨את⟩ ti amin daytoy a dakkel a kadakkelan a timbuel itim, ket ammoenyo a siak ti Yahweh.",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "Ketimmay"
+      "gloss": "nangrugi nga immay"
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "האלהים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ket nagsao"
+      "gloss": "ket kinunana"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "ti Yisrael"
     },
     {
       "surface": "ויאמר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "Kasta"
+      "gloss": "kastoy"
     },
     {
       "surface": "אמר",
-      "gloss": "ti kinuna"
+      "gloss": "ti imbagana"
     },
     {
       "surface": "יהוה",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "יען",
-      "gloss": "Gapu ta"
+      "gloss": "gapu ta"
     },
     {
       "surface": "אשר",
-      "gloss": "ta"
+      "gloss": "a"
     },
     {
       "surface": "אמרו",
@@ -80,8 +80,10 @@
       "gloss": "ni Yahweh"
     },
     {
-      "surface": "ולא",
-      "gloss": "ket saan"
+      "surface": "ויאא",
+      "gloss": "",
+      "surface_alt": null,
+      "gloss_note": ""
     },
     {
       "surface": "אלהי",
@@ -97,12 +99,12 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "ket itedko"
+      "gloss": "ken itedko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti amin a kadakupan"
+      "marks": "ti amin daytoy a dakkel a kadakkelan a timbuel"
     },
     {
       "surface": "כל",
@@ -110,11 +112,11 @@
     },
     {
       "surface": "ההמון",
-      "gloss": "a kadakupan"
+      "gloss": "ti timbuel"
     },
     {
       "surface": "הגדול",
-      "gloss": "dakkel"
+      "gloss": "a dakkel"
     },
     {
       "surface": "הזה",
@@ -126,7 +128,7 @@
     },
     {
       "surface": "וידעתם",
-      "gloss": "ket ammuenyonto"
+      "gloss": "ket ammoenyo"
     },
     {
       "surface": "כי",
@@ -141,6 +143,6 @@
       "gloss": "ti Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T13:11:20.490265521Z",
+  "timestamp": "2026-09-27T01:24:15.964455337Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jonah",
   "lang": "ilo",
   "chapter": 1,
-  "translation": "ket immawaganda kenni Yahweh ket kinunada: Ay Yahweh, saan koma a mapukawkami iti kararua daytoy a tao, ket saanmo koma a ited kadakami ti dara ti awan basolna, ta sika, Yahweh, no ania ti naayatmo, isu ti aramidmo.",
+  "translation": "Ket immawaganda kenni Yahweh ken kinunada: Ay, Yahweh, saanmo koma a papatayenkami iti kararua ti daytoy a lalaki, ket saanmo koma ited iti adda kadakami ti dara a awan basolna; ta sika, Yahweh, no ania ti naayatmo, isu ti aramidmo.",
   "tokens": [
     {
       "surface": "ויקראו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ket kinunada"
+      "gloss": "ken kinunada"
     },
     {
       "surface": "אנה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "saan koma"
+      "gloss": "saanmo"
     },
     {
       "surface": "נא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נאבדה",
-      "gloss": "a mapukawkami"
+      "gloss": "a papatayenkami"
     },
     {
       "surface": "בנפש",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "daytoy a tao"
+      "gloss": "ti daytoy a lalaki"
     },
     {
       "surface": "הזה",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ket saanmo koma"
+      "gloss": "ken saanmo"
     },
     {
       "surface": "תתן",
-      "gloss": "a itedmo"
+      "gloss": "koma ited"
     },
     {
       "surface": "עלינו",
-      "gloss": "kadakami"
+      "gloss": "iti adda kadakami"
     },
     {
       "surface": "דם",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "נקיא",
-      "gloss": "ti awan basolna"
+      "gloss": "a awan basolna"
     },
     {
       "surface": "כי",
@@ -100,6 +100,6 @@
       "gloss": "isu ti aramidmo"
     }
   ],
-  "timestamp": "2026-09-26T20:03:16.379859388Z",
+  "timestamp": "2026-09-27T01:18:15.886034513Z",
   "model": "glm-5.3"
 }

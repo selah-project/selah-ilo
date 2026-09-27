@@ -5,8 +5,45 @@
   "book": "proverbs",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Ti tao a natged iti lier ket agsagsagaba iti multa; ta no salaknibannam, maysa pay laeng nga addition.",
-  "tokens": [],
-  "timestamp": "2026-09-26T22:39:55.048447088Z",
+  "translation": "Ti lalaki nga adu ti raemna agpennoda ti padusa, no isalakanmo, mangnayanka pay.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "nga adu ti raemna"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "raem"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "agpennoda"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "ti padusa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(no)"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "isalakanmo"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "pay"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "mangnayanka"
+    }
+  ],
+  "timestamp": "2026-09-27T01:22:44.775719038Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 5,
-  "translation": "No saan a makadanon ti imana iti kaadu ti maysa a karnero, itedna ⟨את⟩ asamna a binasolanna: dua a kalapati wenno dua nga anak ti kalapati kenni Yahweh, maysa para iti basol ken maysa para iti sinunog.",
+  "translation": "No di saan makatungpal ti imana ti makaala iti maysa a karnero, mangeganna ⟨את⟩ ti ashamna a nakabasolanna, dua a turtogato wenno dua nga anak ti kalapati kenni Yahweh: ti maysa para iti daton ti basol ken ti maysa para iti natuded a sakripisio.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "No"
+      "gloss": "no di"
     },
     {
       "surface": "לא",
@@ -17,32 +17,32 @@
     },
     {
       "surface": "תגיע",
-      "gloss": "makadanon"
+      "gloss": "makatungpal"
     },
     {
       "surface": "ידו",
-      "gloss": "ti imana"
+      "gloss": "timana"
     },
     {
       "surface": "די",
-      "gloss": "iti kaadu"
+      "gloss": "ti makaala"
     },
     {
       "surface": "שה",
-      "gloss": "ti maysa a karnero"
+      "gloss": "iti maysa a karnero"
     },
     {
       "surface": "והביא",
-      "gloss": "itedna"
+      "gloss": "mangeganna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "asamna"
+      "marks": "ti ashamna"
     },
     {
       "surface": "אשמו",
-      "gloss": "asamna"
+      "gloss": "ti ashamna"
     },
     {
       "surface": "אשר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "חטא",
-      "gloss": "binasolanna"
+      "gloss": "nakabasolanna"
     },
     {
       "surface": "שתי",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "תרים",
-      "gloss": "a kalapati"
+      "gloss": "a turtogato"
     },
     {
       "surface": "או",
@@ -82,21 +82,21 @@
     },
     {
       "surface": "אחד",
-      "gloss": "maysa"
+      "gloss": "ti maysa"
     },
     {
       "surface": "לחטאת",
-      "gloss": "para iti basol"
+      "gloss": "para iti daton ti basol"
     },
     {
       "surface": "ואחד",
-      "gloss": "ken maysa"
+      "gloss": "ken ti maysa"
     },
     {
       "surface": "לעלה",
-      "gloss": "para iti sinunog"
+      "gloss": "para iti natuded a sakripisio"
     }
   ],
-  "timestamp": "2026-09-26T05:07:53.406788350Z",
+  "timestamp": "2026-09-27T01:21:29.879586499Z",
   "model": "glm-5.3"
 }

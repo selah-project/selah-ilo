@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 21,
-  "translation": "Ken ti anak a babai ti tao a padi, no agbakla, isuna ti ⟨את⟩ amana dinadawayna; iti apoy maisulo.",
+  "translation": "Ken ti anak a babai ti maysa a lalaki a padi, no mangrugi ⟨a⟩ agputag, ⟨את⟩ ti amana isuna ti mangdadael; iti apoy masulo.",
   "tokens": [
     {
       "surface": "ובת",
-      "gloss": "Ken ti anak a babai"
+      "gloss": "ken ti anak a babai"
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti maysa a lalaki"
     },
     {
       "surface": "כהן",
-      "gloss": "a padi"
+      "gloss": "padi"
     },
     {
       "surface": "כי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "תחל",
-      "gloss": "agbakla"
+      "gloss": "mangrugi a mangdadael"
     },
     {
       "surface": "לזנות",
-      "gloss": "a mamagbasol"
+      "gloss": "agputag"
     },
     {
       "surface": "את",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מחללת",
-      "gloss": "dinadawayna"
+      "gloss": "ti mangdadael"
     },
     {
       "surface": "באש",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "תשרף",
-      "gloss": "maisulo"
+      "gloss": "masulo"
     }
   ],
-  "timestamp": "2026-09-26T05:42:15.431567829Z",
+  "timestamp": "2026-09-27T01:20:48.370469141Z",
   "model": "glm-5.3"
 }

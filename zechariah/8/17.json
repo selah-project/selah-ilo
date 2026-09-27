@@ -5,16 +5,16 @@
   "book": "zechariah",
   "lang": "ilo",
   "chapter": 8,
-  "translation": "Ken ⟨את⟩ ti dakes nga aramid iti kabsat, saankayo nga ituding kadagiti pusoyo, ket ti sumpa a palsiaan, saankayo nga ayaten; ta ⟨את⟩ amin dagitoy a dakes ti naikkayak, kinuna ni Yahweh Tsevaot.",
+  "translation": "Ken ti tunggal maysa ⟨את⟩ ti dakes ti kaarrubana saanyo a pagpanpanunotan iti pusoyo, ken ti sumpa a pulos saanyo a ayaten, ta ⟨את⟩ amin dagitoy a diak ayaten, kuna ni Yahweh.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ken ti tao"
+      "gloss": "ken ti tunggal maysa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti dakes nga aramid"
+      "marks": "ti dakes ti kaarrubana"
     },
     {
       "surface": "רעת",
@@ -22,35 +22,35 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "iti kabsat"
+      "gloss": "ti kaarrubana"
     },
     {
       "surface": "אל",
-      "gloss": "saan"
+      "gloss": "saanyo"
     },
     {
       "surface": "תחשבו",
-      "gloss": "nga itududyokayo"
+      "gloss": "a pagpanpanunotan"
     },
     {
       "surface": "בלבבכם",
-      "gloss": "kadagiti pusoyo"
+      "gloss": "iti pusoyo"
     },
     {
       "surface": "ושבעת",
-      "gloss": "ket ti sumpa"
+      "gloss": "ken ti sumpa"
     },
     {
       "surface": "שקר",
-      "gloss": "a palsiaan"
+      "gloss": "a pulos"
     },
     {
       "surface": "אל",
-      "gloss": "saan"
+      "gloss": "saanyo"
     },
     {
       "surface": "תאהבו",
-      "gloss": "nga ayatennakayo"
+      "gloss": "a ayaten"
     },
     {
       "surface": "כי",
@@ -75,17 +75,17 @@
     },
     {
       "surface": "שנאתי",
-      "gloss": "naikkayak"
+      "gloss": "diak ayaten"
     },
     {
       "surface": "נאם",
-      "gloss": "kinuna"
+      "gloss": "kuna"
     },
     {
       "surface": "יהוה",
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T20:30:40.640322203Z",
+  "timestamp": "2026-09-27T01:23:36.018060047Z",
   "model": "glm-5.3"
 }

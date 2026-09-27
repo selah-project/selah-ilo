@@ -5,19 +5,19 @@
   "book": "judges",
   "lang": "ilo",
   "chapter": 8,
-  "translation": "Immay kadagiti tao ti Sukkot ket kinunana: Yari ni Zevah ken ni Tsalmona, a dina bainnak, nga kuna: No adda ita ti ima ni Zevah ken ni Tsalmona iti imam, a nangitedka kadagiti taonom a napuyoton iti tinapay?",
+  "translation": "Ket immay kadagiti lallaki ti Sukkot ket kinuna: Kitaem, ni Zevakh ken ni Tsalmona, a dinisiyo ⟨את⟩ siak, a kunkuna: No kadi adda ita ni Zevakh ken ni Tsalmona iti imam, ta itedtayo ti tinapay kadagiti lallakim a nakaelda?",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "immay"
+      "gloss": "Ket immay"
     },
     {
       "surface": "אל",
-      "gloss": "kadagiti"
+      "gloss": "kada"
     },
     {
       "surface": "אנשי",
-      "gloss": "tao"
+      "gloss": "dagiti lallaki"
     },
     {
       "surface": "סכות",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "kinunana"
+      "gloss": "ket kinuna"
     },
     {
       "surface": "הנה",
-      "gloss": "yari"
+      "gloss": "Kitaem"
     },
     {
       "surface": "זבח",
-      "gloss": "Zevah"
+      "gloss": "ni Zevakh"
     },
     {
       "surface": "וצלמנע",
-      "gloss": "ken Tsalmona"
+      "gloss": "ken ni Tsalmona"
     },
     {
       "surface": "אשר",
@@ -45,27 +45,28 @@
     },
     {
       "surface": "חרפתם",
-      "gloss": "dina bainnak"
+      "gloss": "dinisiyo"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ -nak"
+      "gloss": "⟨את⟩",
+      "marks": "siak"
     },
     {
       "surface": "לאמר",
-      "gloss": "nga kuna"
+      "gloss": "a kunkuna"
     },
     {
       "surface": "הכף",
-      "gloss": "no kadi"
+      "gloss": "No kadi"
     },
     {
       "surface": "זבח",
-      "gloss": "Zevah"
+      "gloss": "ni Zevakh"
     },
     {
       "surface": "וצלמנע",
-      "gloss": "ken Tsalmona"
+      "gloss": "ken ni Tsalmona"
     },
     {
       "surface": "עתה",
@@ -77,25 +78,25 @@
     },
     {
       "surface": "כי",
-      "gloss": "a"
+      "gloss": "ta"
     },
     {
       "surface": "נתן",
-      "gloss": "nangited"
+      "gloss": "itedtayo"
     },
     {
       "surface": "לאנשיך",
-      "gloss": "kadagiti taonom"
+      "gloss": "kadagiti lallakim"
     },
     {
       "surface": "היעפים",
-      "gloss": "a napuyoton"
+      "gloss": "a nakaelda"
     },
     {
       "surface": "לחם",
-      "gloss": "iti tinapay"
+      "gloss": "ti tinapay"
     }
   ],
-  "timestamp": "2026-09-26T09:56:10.769327591Z",
+  "timestamp": "2026-09-27T01:18:59.446603555Z",
   "model": "glm-5.3"
 }

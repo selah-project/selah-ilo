@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "ket kinuna ni Yahweh kenkuana: Agsublika, sumurokka iti dalanmo iti lawan ti dakkel a kararbakar iti向 ti Damasek, ket umayka, ket ilanaam ⟨את⟩ ni Khazael a kas ari iti Aram.",
+  "translation": "Kinuna ni Yahweh kenkuana: Agturongka, agsublika iti dalanmo, iti liwa ti Damasek; ket no sumrekaka, ilanaam ⟨את⟩ ni HazaEl a kas ari iti Aram.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ket kinuna"
+      "gloss": "kinuna"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "sumurokka"
+      "gloss": "agturongka"
     },
     {
       "surface": "שוב",
@@ -33,28 +33,28 @@
     },
     {
       "surface": "מדברה",
-      "gloss": "iti lawan ti dakkel a kararbakar"
+      "gloss": "iti liwa"
     },
     {
       "surface": "דמשק",
-      "gloss": "iti Damasek"
+      "gloss": "ti Damasek"
     },
     {
       "surface": "ובאת",
-      "gloss": "ket umayka"
+      "gloss": "ket no sumrekaka"
     },
     {
       "surface": "ומשחת",
-      "gloss": "ket ilanaam"
+      "gloss": "ilanaam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ni Khazael"
+      "marks": "ni HazaEl"
     },
     {
       "surface": "חזאל",
-      "gloss": "ni Khazael"
+      "gloss": "ni HazaEl"
     },
     {
       "surface": "למלך",
@@ -69,6 +69,6 @@
       "gloss": "Aram"
     }
   ],
-  "timestamp": "2026-09-26T13:09:11.630093525Z",
+  "timestamp": "2026-09-27T01:07:30.658381353Z",
   "model": "glm-5.3"
 }

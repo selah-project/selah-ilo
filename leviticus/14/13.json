@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "Pattayenna ti padi ⟨את⟩ ti karnero iti disso a maipattay ⟨את⟩ ti daton ti basol ken ⟨את⟩ ti naipuoran a daton, iti disso ti nasantuanan; ta kas ti daton ti basol, ti pannakabasolan a daton ⟨isu⟩ iti padi; nasantuan kadagiti nasantuan daytoy.",
+  "translation": "Ket pattayenna ⟨את⟩ ti karnero iti disso a pattayenda ti daton ti basol ken ⟨את⟩ ti natuded a sakripisio, iti nasantuan a disso; ta kas ti daton ti basol, ti asham ket para iti padi: nasantuan kadagiti nasantuan dayta.",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "Pattayenna"
+      "gloss": "ket pattayenna"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ישחט",
-      "gloss": "maipattay"
+      "gloss": "pattayenda"
     },
     {
       "surface": "את",
@@ -44,11 +44,11 @@
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "ti naipuoran a daton"
+      "marks": "ti natuded a sakripisio"
     },
     {
       "surface": "העלה",
-      "gloss": "ti naipuoran a daton"
+      "gloss": "ti natuded a sakripisio"
     },
     {
       "surface": "במקום",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "ti nasantuanan"
+      "gloss": "ti nasantuan"
     },
     {
       "surface": "כי",
@@ -68,15 +68,15 @@
     },
     {
       "surface": "האשם",
-      "gloss": "ti pannakabasolan a daton"
+      "gloss": "ti asham"
     },
     {
       "surface": "הוא",
-      "gloss": "isu"
+      "gloss": "ket"
     },
     {
       "surface": "לכהן",
-      "gloss": "iti padi"
+      "gloss": "para iti padi"
     },
     {
       "surface": "קדש",
@@ -88,9 +88,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "daytoy"
+      "gloss": "dayta"
     }
   ],
-  "timestamp": "2026-09-26T05:27:07.812875521Z",
+  "timestamp": "2026-09-27T01:19:31.520988038Z",
   "model": "glm-5.3"
 }

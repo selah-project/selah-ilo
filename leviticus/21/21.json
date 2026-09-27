@@ -5,8 +5,99 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 21,
-  "translation": "Ti tunggal lalaki aAdda ti daga, saan a lumasideg iti sadinoman a lugar... iti ania man a tao nga agraman iti bengngay, iti pinsan ni Aharon a padi, saan a sumangpet nga agpadaton kadagiti apoy a daton ni Yahweh; bengngay ti adda kenkuana; ⟨את⟩ tinapay ti Elohim na saan a sumangpet nga agpadaton.",
-  "tokens": [],
-  "timestamp": "2026-09-26T05:40:54.767583371Z",
+  "translation": "Tunggal lalaki a addaan depekto, manipud iti kaputotan ni Aharon a padi, saan a sumrek a mangidaton ⟨את⟩ dagiti sakripisio ti apoy ni Yahweh; adda depekto kenkuana; ⟨את⟩ ti tinapay ti Elohimna saan a sumrek a mangidaton.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tunggal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "מום",
+      "gloss": "depekto"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "manipud iti kaputotan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a padi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "a sumrek"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "a mangidaton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti sakripisio ti apoy"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "dagiti sakripisio ti apoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מום",
+      "gloss": "depekto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kenkuana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti tinapay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ti Elohimna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saan"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "a sumrek"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "a mangidaton"
+    }
+  ],
+  "timestamp": "2026-09-27T01:20:27.711046372Z",
   "model": "glm-5.3"
 }

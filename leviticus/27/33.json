@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 27,
-  "translation": "Saananna a sudsuden no naimbag wenno dakes, ket saanna a sukatanen; no isukatanna, isu ken ti kasukatanna agbalin a nasantuan, saan a matubus.",
+  "translation": "Saananna a sukaten ⟨iti⟩ nagbaetan ti naimbag ken ti dakes, ken saananna a baliwan; ngem no baliwanna, ket agbalin a dayta ken ti panangbaliwna ⟨ket⟩ nasantuan — saan a matubbotan.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יבקר",
-      "gloss": "a sudsuden"
+      "gloss": "sukatenna"
     },
     {
       "surface": "בין",
-      "gloss": "no"
+      "gloss": "iti nagbaetan"
     },
     {
       "surface": "טוב",
@@ -25,43 +25,43 @@
     },
     {
       "surface": "לרע",
-      "gloss": "wenno dakes"
+      "gloss": "ti dakes"
     },
     {
       "surface": "ולא",
-      "gloss": "ket saanna"
+      "gloss": "ken saananna"
     },
     {
       "surface": "ימירנו",
-      "gloss": "a sukatanen"
+      "gloss": "baliwan"
     },
     {
       "surface": "ואם",
-      "gloss": "no"
+      "gloss": "ngem no"
     },
     {
       "surface": "המר",
-      "gloss": "isukatanna"
+      "gloss": "baliwanna"
     },
     {
       "surface": "ימירנו",
-      "gloss": "isukatanna"
+      "gloss": "baliwanna"
     },
     {
       "surface": "והיה",
-      "gloss": "ket"
+      "gloss": "ket agbalin"
     },
     {
       "surface": "הוא",
-      "gloss": "isu"
+      "gloss": "dayta"
     },
     {
       "surface": "ותמורתו",
-      "gloss": "ken ti kasukatanna"
+      "gloss": "ken ti panangbaliwna"
     },
     {
       "surface": "יהיה",
-      "gloss": "agbalin a"
+      "gloss": "agbalin"
     },
     {
       "surface": "קדש",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "יגאל",
-      "gloss": "matubus"
+      "gloss": "matubbotan"
     }
   ],
-  "timestamp": "2026-09-26T05:57:56.706794514Z",
+  "timestamp": "2026-09-27T01:20:46.910024895Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "Ket siak, isu nga itedko ⟨את⟩ ti rupak iti dayta a tao, ket ukasenkok ⟨את⟩ na manipud iti tengnga ti tattona; ta iti bukodna a bin-i initedna iti Molech, tapno narugitanna ⟨את⟩ ti nasantuan ko ken tapno baliwanna ⟨את⟩ ti nagan ti kinasanto ko.",
+  "translation": "Ket siak, isetarna ⟨את⟩ ti rupak iti dayta a lalaki, ket ikkatkonto ⟨את⟩ isuna manipud iti tengnga ti umilina, ta manipud iti bukelna intedna kenni Molekh, tapno maiparugit ⟨את⟩ ti nasantuan a lugarko ken tapno mabalbalin ⟨את⟩ ti nasantuan a naganko.",
   "tokens": [
     {
       "surface": "ואני",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתן",
-      "gloss": "itedko"
+      "gloss": "isetarna"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "באיש",
-      "gloss": "iti dayta a tao"
+      "gloss": "iti dayta a lalaki"
     },
     {
       "surface": "ההוא",
@@ -34,11 +34,12 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "ket ukasenkok"
+      "gloss": "ket ikkatkonto"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ na"
+      "gloss": "⟨את⟩ isuna",
+      "marks": "isuna"
     },
     {
       "surface": "מקרב",
@@ -46,7 +47,7 @@
     },
     {
       "surface": "עמו",
-      "gloss": "ti tattona"
+      "gloss": "ti umilina"
     },
     {
       "surface": "כי",
@@ -54,15 +55,15 @@
     },
     {
       "surface": "מזרעו",
-      "gloss": "iti bukodna a bin-i"
+      "gloss": "manipud iti bukelna"
     },
     {
       "surface": "נתן",
-      "gloss": "initedna"
+      "gloss": "intedna"
     },
     {
       "surface": "למלך",
-      "gloss": "iti Molech"
+      "gloss": "kenni Molekh"
     },
     {
       "surface": "למען",
@@ -70,25 +71,25 @@
     },
     {
       "surface": "טמא",
-      "gloss": "narugitanna"
+      "gloss": "maiparugit"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti nasantoan ko"
+      "marks": "ti nasantuan a lugarko"
     },
     {
       "surface": "מקדשי",
-      "gloss": "ti nasantuan ko"
+      "gloss": "ti nasantuan a lugarko"
     },
     {
       "surface": "ולחלל",
-      "gloss": "ken tapno baliwanna"
+      "gloss": "ken tapno mabalbalin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti nagan"
+      "marks": "ti nasantuan a naganko"
     },
     {
       "surface": "שם",
@@ -96,9 +97,9 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "ti kinasanto ko"
+      "gloss": "nasantuan a naganko"
     }
   ],
-  "timestamp": "2026-09-26T05:47:16.575062147Z",
+  "timestamp": "2026-09-27T01:20:08.530893790Z",
   "model": "glm-5.3"
 }

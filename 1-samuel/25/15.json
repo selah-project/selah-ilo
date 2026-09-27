@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 25,
-  "translation": "Dagiti tao ket naimbelda un-unay kadakami, ken saan kamin inala-aw, ket awan ti naperdi kadakami iti aniaman, iti amin nga aldaw a nagsursor kami ⟨את⟩ kadakuada idi adda kami iti talon.",
+  "translation": "Ngem dagiti lallaki ket naimbagda kaniakami un-unay, ken saan kamin nainsultaar, ken saan kamin naipukaw iti aniaman, amin dagiti aldaw a nagsursor kami kadakuada ⟨את⟩, idi adda kami iti talon.",
   "tokens": [
     {
       "surface": "והאנשים",
-      "gloss": "dagiti tao"
+      "gloss": "Ngem dagiti lallaki"
     },
     {
       "surface": "טבים",
-      "gloss": "naimbelda"
+      "gloss": "naimbagda"
     },
     {
       "surface": "לנו",
-      "gloss": "kadakami"
+      "gloss": "kaniakami"
     },
     {
       "surface": "מאד",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ken saan kamin"
+      "gloss": "ken saan"
     },
     {
       "surface": "הכלמנו",
-      "gloss": "inala-aw"
+      "gloss": "nainsultaar"
     },
     {
       "surface": "ולא",
-      "gloss": "ket awan ti"
+      "gloss": "ken saan"
     },
     {
       "surface": "פקדנו",
-      "gloss": "naperdi kadakami"
+      "gloss": "naipukaw"
     },
     {
       "surface": "מאומה",
@@ -45,19 +45,20 @@
     },
     {
       "surface": "כל",
-      "gloss": "iti amin"
+      "gloss": "amin"
     },
     {
       "surface": "ימי",
-      "gloss": "nga aldaw"
+      "gloss": "dagiti aldaw"
     },
     {
       "surface": "התהלכנו",
-      "gloss": "a nagsursor kami"
+      "gloss": "nagsursor kami"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ kadakuada"
+      "gloss": "kadakuada ⟨את⟩",
+      "marks": "kadakuada"
     },
     {
       "surface": "בהיותנו",
@@ -68,6 +69,6 @@
       "gloss": "iti talon"
     }
   ],
-  "timestamp": "2026-09-26T11:12:55.365383321Z",
+  "timestamp": "2026-09-27T01:08:23.863255802Z",
   "model": "glm-5.3"
 }

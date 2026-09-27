@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 35,
-  "translation": "Ken iti balay dagiti Rekabita kinuna ni Yirmeyahu: Kasta kinuna ni Yahweh ti Tsevaot, Elohim ti Yisrael: Ta tumtaykayo iti bilin ni Yehonadab nga amayo, ket salaknibennakayo ⟨את⟩ amin a bilinna, ket inar-aramidyo kas iti amin a bilinna ⟨את⟩ kadakayo;",
+  "translation": "Ken iti balay dagiti Rekabiteo kinuna ni Yirmeyahu: Kastoy ti kinuna ni Yahweh Tsevaot, ti Elohim ti Yisrael: Ta ipupusay ta dinengngegyo iti bilin ni Yehonadab nga amamyo, ket sinalaknibyo ⟨את⟩ amin dagiti bilinna, ken inaramidyo segun iti amin a imbilinna ⟨את⟩ kadakayo.",
   "tokens": [
     {
       "surface": "ולבית",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הרכבים",
-      "gloss": "dagiti Rekabita"
+      "gloss": "dagiti Rekabiteo"
     },
     {
       "surface": "אמר",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeyahu"
+      "gloss": "ni Yirmeyahu"
     },
     {
       "surface": "כה",
-      "gloss": "Kasta"
+      "gloss": "Kastoy"
     },
     {
       "surface": "אמר",
-      "gloss": "kinuna"
+      "gloss": "ti kinuna"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "צבאות",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "ti Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ti Yisrael"
     },
     {
       "surface": "יען",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ta"
     },
     {
       "surface": "שמעתם",
-      "gloss": "tumtaykayo"
+      "gloss": "dinengngegyo"
     },
     {
       "surface": "על",
@@ -69,36 +69,36 @@
     },
     {
       "surface": "יהונדב",
-      "gloss": "Yehonadab"
+      "gloss": "ni Yehonadab"
     },
     {
       "surface": "אביכם",
-      "gloss": "amayo"
+      "gloss": "amamyo"
     },
     {
       "surface": "ותשמרו",
-      "gloss": "ket salaknibennakayo"
+      "gloss": "sinalaknibyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "amin a bilinna"
+      "marks": "amin dagiti bilinna"
     },
     {
       "surface": "כל",
-      "gloss": "amin a"
+      "gloss": "amin"
     },
     {
       "surface": "מצותיו",
-      "gloss": "bilinna"
+      "gloss": "dagiti bilinna"
     },
     {
       "surface": "ותעשו",
-      "gloss": "ket inar-aramidyo"
+      "gloss": "inaramidyo"
     },
     {
       "surface": "ככל",
-      "gloss": "kas iti amin"
+      "gloss": "segun iti amin"
     },
     {
       "surface": "אשר",
@@ -106,14 +106,13 @@
     },
     {
       "surface": "צוה",
-      "gloss": "bilinna"
+      "gloss": "imbilinna"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "kadakayo"
+      "gloss": "⟨את⟩ kadakayo"
     }
   ],
-  "timestamp": "2026-09-26T22:09:39.014297448Z",
+  "timestamp": "2026-09-27T01:16:59.097026849Z",
   "model": "glm-5.3"
 }

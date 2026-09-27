@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "ilo",
   "chapter": 9,
-  "translation": "Ket kinuna ni Gaal anak ni Ebed: Siasino ni Avimelekh, ken siasino ti Shekhem, ta no koma agserbitayo kenkuana? Saan kadi nga anak ni Yerubaal, ken ni Zevul ti mangiturong kenkuana? Agserbikayo ⟨את⟩ kadagiti tao ni Khamor ama ti Shekhem, ket apay nga agserbitayo kenkuana ditayo?",
+  "translation": "Kinuna ni Gaal, anak ni Ebed: Siasino ni Avimelekh, ken siasino ti Shekhem, a nasken nga agserbitayo kanianna? Saan kadi nga anak ni Yerubbaal, ken ni Zebul ti impanna nga opisial? Agserbikayo ⟨את⟩ kadagiti lallaki ni Hamor, ama ti Shekhem; ket apay a nasken nga agserbitayo kanianna, siakami?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ta no koma"
+      "gloss": "a nasken"
     },
     {
       "surface": "נעבדנו",
-      "gloss": "agserbitayo kenkuana"
+      "gloss": "nga agserbitayo kanianna"
     },
     {
       "surface": "הלא",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "ירבעל",
-      "gloss": "ni Yerubaal"
+      "gloss": "ni Yerubbaal"
     },
     {
       "surface": "וזבל",
-      "gloss": "ken ni Zevul"
+      "gloss": "ken ni Zebul"
     },
     {
       "surface": "פקידו",
-      "gloss": "ti mangiturong kenkuana"
+      "gloss": "ti impanna nga opisial"
     },
     {
       "surface": "עבדו",
@@ -74,15 +74,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kadagiti tao"
+      "marks": "kadagiti lallaki ni Hamor"
     },
     {
       "surface": "אנשי",
-      "gloss": "kadagiti tao"
+      "gloss": "kadagiti lallaki"
     },
     {
       "surface": "חמור",
-      "gloss": "ni Khamor"
+      "gloss": "ni Hamor"
     },
     {
       "surface": "אבי",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "נעבדנו",
-      "gloss": "agserbitayo kenkuana"
+      "gloss": "a nasken nga agserbitayo kanianna"
     },
     {
       "surface": "אנחנו",
-      "gloss": "ditayo"
+      "gloss": "siakami"
     }
   ],
-  "timestamp": "2026-09-26T09:58:19.866745066Z",
+  "timestamp": "2026-09-27T01:18:59.767155102Z",
   "model": "glm-5.3"
 }

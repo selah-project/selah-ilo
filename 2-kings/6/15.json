@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "ilo",
   "chapter": 6,
-  "translation": "Nasapa a bigat, agtaraken ti adipen ti tao ti Elohim ket rumuar, ket kitaem — maysa a buyot ti agliklikmut ⟨את⟩ ti ili, ken kabalyo ken karo; ket kinuna ti naarona kennuana: Aduy, apok, kasano tay aramiden?",
+  "translation": "Intuno bigat immula iti panagnaed ti adipen ti lalaki ti Elohim, ket rummuar, ket adunen, ti buyot ti likmutanna ⟨את⟩ ti ili, ken kabalyo ken karetela; ket kinuna ti mangted ti lalaki kenkuana: Apo, apay, kasano tayto aramiden?",
   "tokens": [
     {
       "surface": "וישכם",
-      "gloss": "nasapa a bigat"
+      "gloss": "intuno bigat"
     },
     {
       "surface": "משרת",
-      "gloss": "ti adipen"
+      "gloss": "ti panagnaed ti adipen"
     },
     {
       "surface": "איש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "האלהים",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "לקום",
-      "gloss": "agtaraken"
+      "gloss": "agtakder"
     },
     {
       "surface": "ויצא",
-      "gloss": "ket rumuar"
+      "gloss": "ket rummuar"
     },
     {
       "surface": "והנה",
-      "gloss": "ket kitaem"
+      "gloss": "ket adunen"
     },
     {
       "surface": "חיל",
-      "gloss": "maysa a buyot"
+      "gloss": "buyot"
     },
     {
       "surface": "סובב",
-      "gloss": "agliklikmut"
+      "gloss": "ti likmutanna"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ורכב",
-      "gloss": "ken karo"
+      "gloss": "ken karetela"
     },
     {
       "surface": "ויאמר",
@@ -66,19 +66,19 @@
     },
     {
       "surface": "נערו",
-      "gloss": "ti naarona"
+      "gloss": "ti mangted ti lalaki"
     },
     {
       "surface": "אליו",
-      "gloss": "kennuana"
+      "gloss": "kenkuana"
     },
     {
       "surface": "אהה",
-      "gloss": "Aduy"
+      "gloss": "Apo, apay"
     },
     {
       "surface": "אדני",
-      "gloss": "apok"
+      "gloss": "Apok"
     },
     {
       "surface": "איכה",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "tay aramiden"
+      "gloss": "tayto aramiden"
     }
   ],
-  "timestamp": "2026-09-26T13:25:25.612431485Z",
+  "timestamp": "2026-09-27T01:10:59.957842468Z",
   "model": "glm-5.3"
 }

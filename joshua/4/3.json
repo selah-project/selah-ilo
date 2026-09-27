@@ -5,8 +5,112 @@
   "book": "joshua",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-26T08:51:27.520844754Z",
+  "translation": "Ken bilinanyo ⟨את⟩ kaniada, a kunkuna: ialaanyo koma manipud ditoy, manipud iti uneg ti Yarden, manipud iti nakaisardengan a nakatdek dagiti saka dagiti padi, sangapulo ket dua a bato, ken agballasiwanyo ⟨את⟩ ida kadakayo, ken ikkanyo ⟨את⟩ ida iti paggagannuan a magnaedkayo iti sadiay ita a rabii.",
+  "tokens": [
+    {
+      "surface": "וצוו",
+      "gloss": "ken bilinanyo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kaniada (a kunkuna)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "ialaanyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "koma"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "manipud ditoy"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "manipud iti uneg"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ti Yarden"
+    },
+    {
+      "surface": "ממצב",
+      "gloss": "manipud iti nakaisardengan"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "dagiti saka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dagiti padi"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a nakatdek"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sangapulo"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "a bato"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "ken agballasiwanyo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ida (kadakayo)"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kadakayo"
+    },
+    {
+      "surface": "והנחתם",
+      "gloss": "ken ikkanyo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ida (iti paggagannuan)"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "iti paggagannuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "magnaedkayo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iti sadiay"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ita a rabii"
+    }
+  ],
+  "timestamp": "2026-09-27T01:18:06.621154825Z",
   "model": "glm-5.3"
 }

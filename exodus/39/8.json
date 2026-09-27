@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 39,
-  "translation": "Inaramidna ⟨את⟩ ti khoshen, aramid ti panagabel, kas iti aramid ti ephod: balitok, asul, ken purpura, ken sinida ti uleg, ken nañob a nasisida a lino.",
+  "translation": "Ken inaramidna ⟨את⟩ ti choshen, aramid ti managabel, a kas ti aramid ti ephod — balitok, teal-azul ken purpura ken totog ti shani, ken lino a nabilod.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "inaramidna"
+      "gloss": "ken inaramidna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti khoshen"
+      "marks": "ti choshen"
     },
     {
       "surface": "החשן",
-      "gloss": "ti khoshen"
+      "gloss": "ti choshen"
     },
     {
       "surface": "מעשה",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "חשב",
-      "gloss": "ti panagabel"
+      "gloss": "ti managabel"
     },
     {
       "surface": "כמעשה",
-      "gloss": "kas iti aramid"
+      "gloss": "a kas ti aramid"
     },
     {
       "surface": "אפד",
@@ -41,8 +41,8 @@
       "gloss": "balitok"
     },
     {
-      "surface": "תכלת",
-      "gloss": "asul"
+      "surface": "תכלet",
+      "gloss": "teal-azul"
     },
     {
       "surface": "וארגמן",
@@ -50,21 +50,21 @@
     },
     {
       "surface": "ותולעת",
-      "gloss": "ken uleg"
+      "gloss": "ken totog"
     },
     {
       "surface": "שני",
-      "gloss": "ti sinida"
+      "gloss": "ti shani"
     },
     {
       "surface": "ושש",
-      "gloss": "ken nañob a lino"
+      "gloss": "ken lino"
     },
     {
       "surface": "משזר",
-      "gloss": "a nasisida"
+      "gloss": "a nabilod"
     }
   ],
-  "timestamp": "2026-09-26T04:47:52.397296446Z",
+  "timestamp": "2026-09-27T01:12:18.366788439Z",
   "model": "glm-5.3"
 }

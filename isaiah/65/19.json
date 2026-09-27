@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ilo",
   "chapter": 65,
-  "translation": "Ken agliwliwak iti Yerushalayim ken agsiragsakak iti umilik; ket saan a madiengngeganinton iti dayta ti timek ti panagsangit ken ti timek ti panagwallit.",
+  "translation": "Ken maragsakak iti Yerushalayim, ket agragsakak iti umilik, ket saan a manginggeg pay kenkuana ti timek ti panagsangit ken ti timek ti panangisumsungaw.",
   "tokens": [
     {
       "surface": "וגלתי",
-      "gloss": "ken agliwliwak"
+      "gloss": "ken maragsakak"
     },
     {
       "surface": "בירושלם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וששתי",
-      "gloss": "ken agsiragsakak"
+      "gloss": "ket agragsakak"
     },
     {
       "surface": "בעמי",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ket saan"
+      "gloss": "ken saan"
     },
     {
       "surface": "ישמע",
-      "gloss": "madiengngeganinton"
+      "gloss": "a manginggeg"
     },
     {
       "surface": "בה",
-      "gloss": "iti dayta"
+      "gloss": "kenkuana"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "pay"
     },
     {
       "surface": "קול",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "זעקה",
-      "gloss": "ti panagwallit"
+      "gloss": "ti panangisumsungaw"
     }
   ],
-  "timestamp": "2026-09-26T16:09:52.752364248Z",
+  "timestamp": "2026-09-27T01:15:49.416616506Z",
   "model": "glm-5.3"
 }

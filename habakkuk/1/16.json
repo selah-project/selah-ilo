@@ -5,8 +5,57 @@
   "book": "habakkuk",
   "lang": "ilo",
   "chapter": 1,
-  "translation": "Gapu kasta agsaksakripisio isuna iti lambatna ken agsursurong iti insenso iti dakkel a lambatna, ta babaen kadagita nalukmeg ti pasetna ken nabaknang ti kanenna.",
-  "tokens": [],
-  "timestamp": "2026-09-26T20:12:44.176745216Z",
+  "translation": "Isu a mangisakripisio iti kitana, ken ag-insenso iti lambatna, ta babaen kadakuada nataba ti pasetna ken napno ti kanenna.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "isu a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "isu a"
+    },
+    {
+      "surface": "יזבח",
+      "gloss": "mangisakripisio"
+    },
+    {
+      "surface": "לחרמו",
+      "gloss": "iti kitana"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ag-insenso"
+    },
+    {
+      "surface": "למכמרתו",
+      "gloss": "iti lambatna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "babaen kadakuada"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "nataba"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "ti pasetna"
+    },
+    {
+      "surface": "ומאכלו",
+      "gloss": "ti kanenna"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "napno"
+    }
+  ],
+  "timestamp": "2026-09-27T01:15:35.679033351Z",
   "model": "glm-5.3"
 }

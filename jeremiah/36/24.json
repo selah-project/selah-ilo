@@ -5,8 +5,67 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 36,
-  "translation": "ket saanda a nakaammo ti panagbuteng ken saanda a nagsipsipda ⟨את⟩ dagiti badada — ti ari ken amin dagiti adipenna a nangngeg ⟨את⟩ amin dagiti saonadaytoy.",
-  "tokens": [],
-  "timestamp": "2026-09-26T17:31:29.240574529Z",
+  "translation": "Ken saanda a nakemmak, ket saanda a nagsirsirad ⟨את⟩ dagiti badoda — ti ari ken amin dagiti adipenna, dagiti agdengngeg ⟨את⟩ kadagiti amin a sao a daytoy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "a nakemmak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ket saanda"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "a nagsirsirad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti badoda"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "dagiti badoda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ti ari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ken amin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dagiti adipenna"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "dagiti agdengngeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadagiti amin a sao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a daytoy"
+    }
+  ],
+  "timestamp": "2026-09-27T01:16:48.301530450Z",
   "model": "glm-5.3"
 }

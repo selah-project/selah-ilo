@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 25,
-  "translation": "Ken saan kayo a mangdadanes ti maysa a tao ⟨את⟩ kakaarrubana, ket agbutengka iti Elohimmo, ta siak ti Yahweh nga Elohim yu.",
+  "translation": "Ken saankayo a tettenden ti tunggal maysa ⟨את⟩ ti kabagianna, ket agbutengka iti Elohimmo; ta siak ti Yahweh ti Elohimyo.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ken saan"
+      "gloss": "ken saankayo"
     },
     {
       "surface": "תונו",
-      "gloss": "kaykayo a mangdadanes"
+      "gloss": "a tettenden"
     },
     {
       "surface": "איש",
-      "gloss": "ti maysa a tao"
+      "gloss": "ti tunggal maysa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kakaarrubana"
+      "marks": "ti kabagianna"
     },
     {
       "surface": "עמיתו",
-      "gloss": "kakaarrubana"
+      "gloss": "ti kabagianna"
     },
     {
       "surface": "ויראת",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "ti Elohim yu"
+      "gloss": "ti Elohimyo"
     }
   ],
-  "timestamp": "2026-09-26T05:52:18.656093623Z",
+  "timestamp": "2026-09-27T01:20:38.033834051Z",
   "model": "glm-5.3"
 }

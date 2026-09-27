@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ilo",
   "chapter": 35,
-  "translation": "Ket saan a nangiyalinggay ni Yoshiyahu iti rupana manipud kakuana, ta naglemmeng isuna tapno makilabanna; ket saanna nangngeg ti saon ni Nekho, a manipud iti ngiwat ti Elohim, ket simmangpet isuna a makilaban iti tanap ti Megiddo.",
+  "translation": "Nupay kasta, saan a nangibalbaliw ni Yoshyahu ti rupana manipud kennia, ta naglemmeng isuna tapno aglaban kaniakuanna, ket saanna a nangngeg ⟨את⟩ dagiti sao ni Nekho manipud iti ngiwat ti Elohim, ket immay isuna a makilaban iti tanap ti Megiddo.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "הסב",
-      "gloss": "nangiyalinggay"
+      "gloss": "nangibalbaliw"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "ni Yoshiyahu"
+      "gloss": "ni Yoshyahu"
     },
     {
       "surface": "פניו",
-      "gloss": "iti rupana"
+      "gloss": "ti rupana"
     },
     {
       "surface": "ממנו",
-      "gloss": "manipud kakuana"
+      "gloss": "manipud kennia"
     },
     {
       "surface": "כי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "להלחם",
-      "gloss": "tapno makilabanna"
+      "gloss": "tapno makilaban"
     },
     {
       "surface": "בו",
-      "gloss": "kadakuana"
+      "gloss": "kaniakuanna"
     },
     {
       "surface": "התחפש",
@@ -49,31 +49,31 @@
     },
     {
       "surface": "שמע",
-      "gloss": "nangngeg"
+      "gloss": "a nangngeg"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "דברי",
-      "gloss": "ti saon"
+      "gloss": "iti"
     },
     {
       "surface": "נכו",
-      "gloss": "ni Nekho"
+      "gloss": "dagiti sao"
     },
     {
       "surface": "מפי",
-      "gloss": "a manipud iti ngiwat"
+      "gloss": "ni Nekho"
     },
     {
       "surface": "אלהים",
-      "gloss": "ti Elohim"
+      "gloss": "manipud iti ngiwat ti Elohim"
     },
     {
       "surface": "ויבא",
-      "gloss": "ket simmangpet isuna"
+      "gloss": "ket immay"
     },
     {
       "surface": "להלחם",
@@ -88,6 +88,6 @@
       "gloss": "ti Megiddo"
     }
   ],
-  "timestamp": "2026-09-26T23:58:57.418101735Z",
+  "timestamp": "2026-09-27T01:09:32.766126532Z",
   "model": "glm-5.3"
 }

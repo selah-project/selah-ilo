@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "ilo",
   "chapter": 17,
-  "translation": "ken saan a nangited iti ruangan ti Tolda ti Gimong, a mangited iti daton kenni Yahweh sango ti Mishkan ni Yahweh — dara ti maibilin kadaguito a tao: dara ti nagbuyaas; ket maikkat dayta a tao manipud iti tengnga ti umilina.",
+  "translation": "ken iti ruangan ti Tolda ti Gimong, saan a naisubli nga idiay dayta a mangited ti daton kenni Yahweh iti sango ti Mishkan ni Yahweh — dara ti maibilang kadaguiti dayta a lalaki: dara ti inpunanna; ket maiikkat ti dayta a lalaki manipud iti tengnga ti umilina.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "ken"
+      "gloss": "ken iti"
     },
     {
       "surface": "פתח",
-      "gloss": "iti ruangan"
+      "gloss": "ruangan"
     },
     {
       "surface": "אהל",
-      "gloss": "ti Tolda"
+      "gloss": "Tolda"
     },
     {
       "surface": "מועד",
-      "gloss": "ti Gimong"
+      "gloss": "Gimong"
     },
     {
       "surface": "לא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הביאו",
-      "gloss": "a nangited"
+      "gloss": "idiayna"
     },
     {
       "surface": "להקריב",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "קרבן",
-      "gloss": "iti daton"
+      "gloss": "ti daton"
     },
     {
       "surface": "ליהוה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "sango"
+      "gloss": "iti sango"
     },
     {
       "surface": "משכן",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "יחשב",
-      "gloss": "ti maibilin"
+      "gloss": "maibilang"
     },
     {
       "surface": "לאיש",
-      "gloss": "kadaguito a tao"
+      "gloss": "iti dayta a lalaki"
     },
     {
       "surface": "ההוא",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "שפך",
-      "gloss": "ti nagbuyaas"
+      "gloss": "inpunanna"
     },
     {
       "surface": "ונכרת",
-      "gloss": "ket maikkat"
+      "gloss": "ket maiikkat"
     },
     {
       "surface": "האיש",
-      "gloss": "ti tao"
+      "gloss": "ti lalaki"
     },
     {
       "surface": "ההוא",
@@ -100,6 +100,6 @@
       "gloss": "ti umilina"
     }
   ],
-  "timestamp": "2026-09-26T05:38:50.558154491Z",
+  "timestamp": "2026-09-27T01:19:56.338127748Z",
   "model": "glm-5.3"
 }

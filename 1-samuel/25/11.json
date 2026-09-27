@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 25,
-  "translation": "Ken alaek ⟨את⟩ ti tinapayko ken ⟨את⟩ ti danumko ken ⟨את⟩ ti lasag ti natabakko para kadagiti agputputot kaniak, ket itedko kadagiti lalaki a saan a kabalaamko, sadinonto ngata tiaggayan da?",
+  "translation": "Agti koma nga alaek ti tinapayko ken ⟨את⟩ ti danumko ken ⟨את⟩ ti lasag a naisagadak para kadagiti manggurgeggedek, ket itedko kadagiti lallaki a saan koma nga ammo no sadinonto ida?",
   "tokens": [
     {
       "surface": "ולקחתי",
-      "gloss": "ken alaek"
+      "gloss": "aalaek"
     },
     {
       "surface": "את",
@@ -18,35 +18,37 @@
     },
     {
       "surface": "לחמי",
-      "gloss": "ti tinapayko"
+      "gloss": "tinapayko"
     },
     {
       "surface": "ואת",
-      "gloss": "ken ⟨את⟩"
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti danumko"
     },
     {
       "surface": "מימי",
-      "gloss": "ti danumko"
+      "gloss": "danumko"
     },
     {
       "surface": "ואת",
-      "gloss": "ken ⟨את⟩"
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti lasag a naisagadak"
     },
     {
       "surface": "טבחתי",
-      "gloss": "ti lasag ti natabakko"
+      "gloss": "lasag a naisagadak"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "a"
     },
     {
       "surface": "טבחתי",
-      "gloss": "natabakko"
+      "gloss": "nisagadak"
     },
     {
       "surface": "לגזזי",
-      "gloss": "para kadagiti agputputot kaniak"
+      "gloss": "para kadagiti manggurgeggedek"
     },
     {
       "surface": "ונתתי",
@@ -54,7 +56,7 @@
     },
     {
       "surface": "לאנשים",
-      "gloss": "kadagiti lalaki"
+      "gloss": "kadagiti lallaki"
     },
     {
       "surface": "אשר",
@@ -66,21 +68,21 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "a kabalaamko"
+      "gloss": "ammo"
     },
     {
       "surface": "אי",
-      "gloss": "sadinonto"
+      "gloss": "no sadino"
     },
     {
       "surface": "מזה",
-      "gloss": "ngata"
+      "gloss": "sadino"
     },
     {
       "surface": "המה",
-      "gloss": "tiaggayan da"
+      "gloss": "ida"
     }
   ],
-  "timestamp": "2026-09-26T11:11:09.930291845Z",
+  "timestamp": "2026-09-27T01:08:34.415035614Z",
   "model": "glm-5.3"
 }

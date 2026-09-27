@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 17,
-  "translation": "Kinua ni Avraham ⟨את⟩ ni Yishmael nga anakna, ken ⟨את⟩ amin dagiti naiyanak iti balayna, ken ⟨את⟩ amin dagiti binilianna iti pirak, amin a lalaki kadagiti tao iti balay ni Avraham, ket inulogna ⟨את⟩ ti lasag ti arlaanda iti umno unay nga aldaw daytoy, a kas ti imbagana ⟨את⟩ kenkuana ni Elohim.",
+  "translation": "Kinuana ni Avraham ⟨את⟩ ni Yishmael nga anakna, ken ⟨את⟩ amin dagiti naiyanak iti balayna, ken ⟨את⟩ amin dagiti naala iti pirakna, amin a lalaki kadagiti lallaki ti balay ni Avraham, ket inulintegna ⟨את⟩ ti lasag ti arlatda iti mismo daytoy nga aldaw, kas iti nagsao ni Elohim ⟨את⟩ ⟨iti⟩ kaduana.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "kinua"
+      "gloss": "kinuana"
     },
     {
       "surface": "אברהם",
@@ -30,8 +30,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ken ⟨את⟩",
-      "marks": "amin dagiti naiyanak iti balayna"
+      "gloss": "ken ⟨את⟩"
     },
     {
       "surface": "כל",
@@ -47,8 +46,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ken ⟨את⟩",
-      "marks": "amin dagiti binilianna iti pirak"
+      "gloss": "ken ⟨את⟩"
     },
     {
       "surface": "כל",
@@ -56,7 +54,7 @@
     },
     {
       "surface": "מקנת",
-      "gloss": "dagiti binilianna"
+      "gloss": "dagiti naala"
     },
     {
       "surface": "כספו",
@@ -64,27 +62,27 @@
     },
     {
       "surface": "כל",
-      "gloss": "amin"
+      "gloss": "amin a"
     },
     {
       "surface": "זכר",
-      "gloss": "a lalaki"
+      "gloss": "lalaki"
     },
     {
       "surface": "באנשי",
-      "gloss": "kadagiti tao"
+      "gloss": "kadagiti lallaki"
     },
     {
       "surface": "בית",
-      "gloss": "iti balay"
+      "gloss": "ti balay"
     },
     {
       "surface": "אברהם",
-      "gloss": "Avraham"
+      "gloss": "ni Avraham"
     },
     {
       "surface": "וימל",
-      "gloss": "inulogna"
+      "gloss": "ket inulintegna"
     },
     {
       "surface": "את",
@@ -97,15 +95,15 @@
     },
     {
       "surface": "ערלתם",
-      "gloss": "ti arlaanda"
+      "gloss": "ti arlatda"
     },
     {
       "surface": "בעצם",
-      "gloss": "iti umno unay"
+      "gloss": "iti mismo"
     },
     {
       "surface": "היום",
-      "gloss": "nga aldaw"
+      "gloss": "daytoy nga aldaw"
     },
     {
       "surface": "הזה",
@@ -113,22 +111,21 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "a kas ti"
+      "gloss": "kas iti"
     },
     {
       "surface": "דבר",
-      "gloss": "imbagana"
+      "gloss": "nagsao"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ kenkuana",
-      "marks": "ni Avraham"
+      "gloss": "⟨את⟩ ⟨iti⟩ kaduana"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "ni Elohim"
     }
   ],
-  "timestamp": "2026-09-26T02:02:03.957028657Z",
+  "timestamp": "2026-09-27T01:14:30.257831823Z",
   "model": "glm-5.3"
 }
