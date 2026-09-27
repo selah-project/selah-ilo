@@ -295,3 +295,94 @@ none can be found by a spell-check and none can be fixed without the verse.
 
 **Six of these were things a probe accused and a reading acquitted.** Anything
 added to this file from here on gets read first.
+
+
+---
+
+# §11 · THE HAND PASS — the thirty-five, each decided against the en floor
+
+Written 2026-09-26 21:45, after §10 took the census from 628 to 74 and the
+floor-anchoring took it to 35. **The runbook's rule is *decided against the en
+floor, never guessed*, and reading these is where three more of my own probe's
+convictions collapsed.**
+
+## Fillable — 15 empty glosses, now DETERMINISTIC because the floor names the word
+
+The row has a hole and the flow usually reads fine, which is why nothing looked
+wrong. The floor supplies the sense and the Ilocano is standard:
+
+| verse | Hebrew | en floor | fill |
+|---|---|---|---|
+| genesis/42/21 | `על` | concerning | `maipapan iti` |
+| genesis/42/21 | `הזאת` | this | `daytoy` |
+| genesis/46/18 | `עשרה` | -teen | `sangapulo ket` |
+| jeremiah/44/14 | `אם` | except | `malaksid` |
+| jeremiah/25/8 · 2-kings/18/12 · numbers/20/24 | `אשר` | that | `a` |
+| 2-chronicles/18/17 | `אם` | only | `no saan` |
+| 1-samuel/2/27 | `אליו` | to him | `kenkuana` |
+| ezekiel/5/6 | `בהם` | in them | `kadakuada` |
+| 2-kings/15/12 | `לך` | for you | `kenka` |
+| numbers/7/84 ×3 | `עשרה` `עשר` `עשרה` | ten | `sangapulo` |
+| 2-samuel/21/7 | `בשת` | son of | part of `Mephiboshet` — a tokenisation seam |
+
+## HELD — 2, and the reason is that the FLOOR IS EMPTY TOO
+
+- **job/38/37** — `יסספר`, a **doubled samekh**. Not a Hebrew word. **en has no
+  gloss either.**
+- **1-kings/20/28** — `ויאא`. Not a Hebrew word. **en has no gloss either.**
+
+**The chair is not at fault in either: the SOURCE TOKEN is malformed, and both
+chairs hit it identically.** That is an OSHB-side seam, not a rendering fault, and
+it is the first thing in this whole file that belongs to neither the chair nor the
+rails.
+
+## HELD — 1 fabricated marker, and three chairs have now arrived at it
+
+- **daniel/3/12** — `יתהון` → `⟨את⟩`. **Aramaic's own object marker.** `xh`'s
+  re-press script holds this exact seat as *"awaits the Aramaic ruling"*, and `sv`
+  and `cs` both reached it the same way. **Four chairs, one unanswered question.**
+  Not the chair's fault; the project's.
+
+## Removable — 4 fabricated markers, deterministic (no `את` in the Hebrew)
+
+| verse | Hebrew | en floor | why |
+|---|---|---|---|
+| proverbs/28/11 | `יחקרנו` | will search him out | the `-nu` is an object SUFFIX, not the marker |
+| 2-kings/14/19 | `וימתהו` | and put him to death | the `-hu` is an object suffix |
+| 2-chronicles/35/22 | `אל` | to | a preposition |
+| 2-chronicles/8/18 | `אוניות` | ships | a plain noun |
+
+**Two of the four are the את-family logic stretched one step too far** — a
+pronominal object *suffix* is not the object *marker*, and the rails' own
+את-family rule (which rightly covers `אתו` · `אתי` · `אתך`) does not reach `-nu`
+or `-hu`.
+
+## CLEARED BY READING — the `goel` eight, and my matcher was wrong again
+
+| verse | ilo | verdict |
+|---|---|---|
+| psalms/74/2 | `tinubbotmo` | **CORRECT — `tubbot` with the `-in-` infix** |
+| isaiah/52/9 | `tinubbotna` | **CORRECT — same** |
+| deuteronomy/19/6 | `ti mangibales` | **CORRECT — this is the `goel ha-dam`, the AVENGER of blood** |
+| leviticus/27/20 ×2 · 25/54 | `maibayad` · `mabayadan` | defensible — Leviticus' redemption-PRICE sense |
+| psalms/77/16 · exodus/15/13 | `bumuyodam` · `binawimo` | genuinely unclear; held for an ear |
+
+**`tinubbotmo` contains the `tubbot` stem with Ilocano's completed-aspect infix
+`-in-`, and my exclusion regex looked for the bare stem.** That is the same fault
+as scoring `lallaki` a failure because the plural reduplicates — **an agglutinative
+target inflects INSIDE the word, and a matcher anchored on the bare stem will
+convict its own pin.**
+
+And Deuteronomy 19:6's `mangibales` is the sharpest of them: `גֹּאֵל הַדָּם` is the
+**avenger** of blood, not the redeemer — the same root doing the opposite office.
+The chair knew.
+
+## What the hand pass leaves
+
+**19 deterministic** (15 fills + 4 marker removals) → a second §9 run.
+**3 held** (two malformed source tokens, one Aramaic ruling).
+**2 for an ear** (psalms/77/16, exodus/15/13).
+**11 defensible or cleared.**
+
+**Of the thirty-five, eleven were the chair being right.** Of the seventy-four
+before the floor-anchoring, **forty** were.
