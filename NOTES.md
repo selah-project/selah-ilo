@@ -1,4 +1,4 @@
-# NOTES — selah-ilo, chair 98
+# NOTES — selah-ilo, chair 99
 
 Working notes in English, written *during* the burn rather than after it,
 because what went wrong on this pass is the most useful thing it produced.

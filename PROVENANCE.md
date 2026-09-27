@@ -1,6 +1,6 @@
 # PROVENANCE — how this rendering came to be
 
-*Ilocano (Ilokano), chair 98. Floor 23,213 verses.*
+*Ilocano (Ilokano), chair 99. Floor 23,213 verses.*
 
 This is the record of how the text in this repository was produced and what had
 to be corrected in it. A machine-assisted rendering has no standing unless you
