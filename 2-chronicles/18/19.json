@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 18:19",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 18,
+  "translation": "ket kinuna ni Yahweh: Sino ti mangibulaok ⟨את⟩ kenni Ahab, ari ti Yisrael, ken umay ⟨את⟩ ngato ken matnag iti Ramoth ti Gilead? ket daytoy agsao kasta, ket dayta agsao kasta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ket kinuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ti mangibulaok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenni Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ti Yisrael"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ken umay ngato"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ken matnag"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "iti Ramoth"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ti Gilead"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ket (agsao)"
+    },
+    {
+      "surface": "זה",
+      "gloss": "daytoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "agsao"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ket dayta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "agsao"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kasta"
+    }
+  ],
+  "timestamp": "2026-09-27T00:16:31.886743628Z",
+  "model": "glm-5.3"
+}

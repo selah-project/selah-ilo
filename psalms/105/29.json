@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 105,
+  "translation": "Binaliwanna ⟨את⟩ dagiti danumda iti dara, ket pinatayna ⟨את⟩ dagiti ikananda.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Binaliwanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti danumda"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "dagiti danumda"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "iti dara"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ket pinatayna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti ikananda"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "dagiti ikananda"
+    }
+  ],
+  "timestamp": "2026-09-27T00:16:20.547723887Z",
+  "model": "glm-5.3"
+}

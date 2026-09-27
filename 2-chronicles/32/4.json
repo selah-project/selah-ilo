@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Ket inurnongda ti maysa nga umili nga adu, ket sinerraanda ⟨את⟩ amin dagiti ubbog ken ⟨את⟩ ti karayan nga agayus iti uneg ti daga, a kunkuna: Apay nga umayda dagiti ari ti Ashur ket mabirukda iti adu a danum?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ket inurnongda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umili"
+    },
+    {
+      "surface": "רב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "ket sinerraanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "dagiti ubbog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "ti karayan"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ti karayan"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "nga agayus"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iti uneg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a kunkuna"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apay"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "ng umayda"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dagiti ari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "ket mabirukda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "danum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "adu"
+    }
+  ],
+  "timestamp": "2026-09-27T00:16:35.796200151Z",
+  "model": "glm-5.3"
+}

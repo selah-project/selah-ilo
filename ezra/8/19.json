@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "ilo",
+  "chapter": 8,
+  "translation": "ken ⟨את⟩ Hashavjah, ket kaduana ⟨את⟩ ni Yeshajah, a maysa kadagiti annak ni Merari, ken dagiti kabsatna ken dagiti annakda, duapulo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "Hashavjah"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Hashavjah"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ket kaduana ⟨את⟩",
+      "marks": "ni Yeshajah"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeshajah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "a maysa kadagiti annak"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dagiti kabsatna"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ken dagiti annakda"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duapulo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:16:55.589796883Z",
+  "model": "glm-5.3"
+}

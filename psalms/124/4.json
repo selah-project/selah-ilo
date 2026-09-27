@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 124,
+  "translation": "Idi koma ti danum innulonannakami, ti napardas a karayan nakaballasiw iti kararuatayo.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "idi koma"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ti danum"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "innulonannakami"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ti napardas a karayan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nakaballasiw"
+    },
+    {
+      "surface": "על",
+      "gloss": "iti"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "kararuatayo"
+    }
+  ],
+  "timestamp": "2026-09-27T00:16:28.140219196Z",
+  "model": "glm-5.3"
+}

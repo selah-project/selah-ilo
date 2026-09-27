@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "ilo",
+  "chapter": 32,
+  "translation": "Nagtignay kadua kadagiti sarona ken kadagiti napipigsaanna nga serraanda ⟨את⟩ dagiti danum dagiti ubbog a ⟨adda⟩ iti ruar ti ili, ket tinulonganda.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "nagtignay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadua"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "kadagiti sarona"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "ken kadagiti napipigsaanna"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "nga serraanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagiti danum"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "dagiti danum"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "dagiti ubbog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "iti ruar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ti ili"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "ket tinulonganda"
+    }
+  ],
+  "timestamp": "2026-09-27T00:16:35.795516978Z",
+  "model": "glm-5.3"
+}

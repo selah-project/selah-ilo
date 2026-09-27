@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ilo",
+  "chapter": 110,
+  "translation": "Manipud iti maysa a karayan iti dalan uminumonna; gapu iti kasta iyangatona ti ulona.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "Manipud iti maysa a karayan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "iti dalan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "uminumonna"
+    },
+    {
+      "surface": "על",
+      "gloss": "gapu iti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "iyangatona"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ti ulona"
+    }
+  ],
+  "timestamp": "2026-09-27T00:16:15.898092505Z",
+  "model": "glm-5.3"
+}

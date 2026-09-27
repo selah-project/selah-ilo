@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "ilo",
+  "chapter": 28,
+  "translation": "Itedna ni David kenni Shelomo nga anakna ⟨את⟩ ti plano ti pasilio ken ⟨את⟩ dagiti kamarana, ken dagiti pagipenpenanna, ken dagiti ngato a kamarana, ken dagiti uneg a kamarana, ken ti balay ti kapporet.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "itedna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kenni Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga anakna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti plano ti pasilio"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ti plano"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "ti pasilio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ken ⟨את⟩",
+      "marks": "dagiti kamarana"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "dagiti kamarana"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "ken dagiti pagipenpenanna"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "ken dagiti ngato a kamarana"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "ken dagiti uneg a kamarana"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "ti adda iti uneg"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ken ti balay"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ti kapporet"
+    }
+  ],
+  "timestamp": "2026-09-27T00:16:32.863009258Z",
+  "model": "glm-5.3"
+}
