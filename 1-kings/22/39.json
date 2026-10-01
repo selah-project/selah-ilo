@@ -5,27 +5,15 @@
   "book": "1-kings",
   "lang": "ilo",
   "chapter": 22,
-  "translation": "Ti nabati a dagiti sao ni Ahab, ken amin nga inaramidna, ken ti balay ti gading a pinatakderna, ken amin dagiti ili a pinatakderna — saan kadi dagitoy a naisurat iti libro dagiti sao ti aldaw kadagiti ari ti Yisrael?",
+  "translation": "Ti nabati kadagiti sao ni Ahab, ken amin nga aramidenna, ket ti balay ti ngipen ti elepante a pinatakderanna, ken amin dagiti ili a pinatakderanna — saan kadi dagitoy a naisurat iti libro ti dagiti sao dagiti aldaw kadagiti ari ti Yisrael?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "Ti nabati a"
+      "gloss": "Ti nabati"
     },
     {
       "surface": "דברי",
-      "gloss": "dagiti sao"
-    },
-    {
-      "surface": "אחאב",
-      "gloss": "ni Ahab"
-    },
-    {
-      "surface": "ויתר",
-      "gloss": "Ti nabati a"
-    },
-    {
-      "surface": "דברי",
-      "gloss": "dagiti sao"
+      "gloss": "kadagiti sao"
     },
     {
       "surface": "אחאב",
@@ -41,15 +29,15 @@
     },
     {
       "surface": "עשה",
-      "gloss": "inaramidna"
+      "gloss": "aramidenna"
     },
     {
       "surface": "ובית",
-      "gloss": "ken ti balay"
+      "gloss": "ket ti balay"
     },
     {
       "surface": "השן",
-      "gloss": "ti gading"
+      "gloss": "ti ngipen ti elepante"
     },
     {
       "surface": "אשר",
@@ -57,7 +45,7 @@
     },
     {
       "surface": "בנה",
-      "gloss": "pinatakderna"
+      "gloss": "pinatakderanna"
     },
     {
       "surface": "וכל",
@@ -73,7 +61,7 @@
     },
     {
       "surface": "בנה",
-      "gloss": "pinatakderna"
+      "gloss": "pinatakderanna"
     },
     {
       "surface": "הלוא",
@@ -85,7 +73,7 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "naisurat"
+      "gloss": "a naisurat"
     },
     {
       "surface": "על",
@@ -97,11 +85,11 @@
     },
     {
       "surface": "דברי",
-      "gloss": "dagiti sao"
+      "gloss": "ti dagiti sao"
     },
     {
       "surface": "הימים",
-      "gloss": "ti aldaw"
+      "gloss": "dagiti aldaw"
     },
     {
       "surface": "למלכי",
@@ -112,6 +100,6 @@
       "gloss": "ti Yisrael"
     }
   ],
-  "timestamp": "2026-09-26T13:14:01.914937217Z",
+  "timestamp": "2026-10-01T05:23:59.643107756Z",
   "model": "glm-5.3"
 }

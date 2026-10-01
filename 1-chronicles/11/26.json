@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "ilo",
   "chapter": 11,
-  "translation": "Dagiti mannakabalin ti buyot: ni Asahel a kabsat ni Yoab, ni Elchanan anak ni Dodo, manipud iti Beit Lechem.",
+  "translation": "Ken dagiti nakagaget a mannakabalin ti buyot: ni Asahel, ti kabsat ni Yoav, ni Elchanan, anak ni Dodo, manipud iti Bet-Lechem.",
   "tokens": [
     {
       "surface": "וגבורי",
-      "gloss": "Dagiti mannakabalin"
+      "gloss": "Ken dagiti nakagaget a mannakabalin"
     },
     {
       "surface": "החילים",
@@ -20,12 +20,16 @@
       "gloss": "ni Asahel"
     },
     {
+      "surface": "אל",
+      "gloss": "ni Asahel"
+    },
+    {
       "surface": "אחי",
-      "gloss": "a kabsat"
+      "gloss": "ti kabsat"
     },
     {
       "surface": "יואב",
-      "gloss": "ni Yoab"
+      "gloss": "ni Yoav"
     },
     {
       "surface": "אלחנן",
@@ -41,13 +45,13 @@
     },
     {
       "surface": "מבית",
-      "gloss": "manipud iti Beit"
+      "gloss": "manipud iti Bet-"
     },
     {
       "surface": "לחם",
       "gloss": "Lechem"
     }
   ],
-  "timestamp": "2026-09-26T23:37:08.564754767Z",
+  "timestamp": "2026-10-01T05:24:09.433365185Z",
   "model": "glm-5.3"
 }

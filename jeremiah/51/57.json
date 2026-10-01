@@ -5,47 +5,43 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 51,
-  "translation": "Ket ipainumak kadagiti prinsepe na ken kadagiti bersiona, dagiti gobernador na ken dagiti opisalna, ken dagiti bilegna a lallaki, ket matnda nga agnanayon a turog ken saanda a mabalin a mamaga, deklarasion ti Ari, a ni Yahweh ti Tsevaot ti naganna.",
+  "translation": "Ken ipainumko a baddek dagiti mangidaulona, dagiti nasiribna, dagiti gobernadorna, dagiti opisialna, ken dagiti napigsana; ket agturoganda iti turog nga agnanayon ket saanda nga agriing — kuna ti Ari, Yahweh ti Tsevaot ti naganna.",
   "tokens": [
     {
       "surface": "והשכרתי",
-      "gloss": "ipainumak"
+      "gloss": "ken ipainumko a baddek"
     },
     {
       "surface": "שריה",
-      "gloss": "kadagiti prinsepe na"
+      "gloss": "dagiti mangidaulona"
     },
     {
-      "surface": "ו",
-      "gloss": "ken"
-    },
-    {
-      "surface": "חכמיה",
-      "gloss": "kadagiti bersiona"
+      "surface": "וחכמיה",
+      "gloss": "dagiti nasiribna"
     },
     {
       "surface": "פחותיה",
-      "gloss": "dagiti gobernador na"
+      "gloss": "dagiti gobernadorna"
     },
     {
       "surface": "וסגניה",
-      "gloss": "ken dagiti opisalna"
+      "gloss": "dagiti opisialna"
     },
     {
-      "surface": "וגיבוריה",
-      "gloss": "ken dagiti bilegna a lallaki"
+      "surface": "וגבוריה",
+      "gloss": "ken dagiti napigsana"
     },
     {
       "surface": "וישנו",
-      "gloss": "ket matnda"
+      "gloss": "ket agturoganda"
     },
     {
       "surface": "שנת",
-      "gloss": "turog"
+      "gloss": "iti turog"
     },
     {
       "surface": "עולם",
-      "gloss": "agganayon"
+      "gloss": "nga agnanayon"
     },
     {
       "surface": "ולא",
@@ -53,11 +49,11 @@
     },
     {
       "surface": "יקיצו",
-      "gloss": "a mamaga"
+      "gloss": "nga agriing"
     },
     {
       "surface": "נאם",
-      "gloss": "deklarasion"
+      "gloss": "kuna"
     },
     {
       "surface": "המלך",
@@ -65,7 +61,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "צבאות",
@@ -76,6 +72,6 @@
       "gloss": "ti naganna"
     }
   ],
-  "timestamp": "2026-09-26T17:59:16.816711580Z",
+  "timestamp": "2026-10-01T05:24:02.857926869Z",
   "model": "glm-5.3"
 }

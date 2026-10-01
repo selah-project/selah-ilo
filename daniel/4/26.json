@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "ilo",
   "chapter": 4,
-  "translation": "Iti patingga dagiti bulan a sangapulo ket dua, iti igian ti palacio ti pagarianan ti Bavel ⟨agtakder⟩ nga agnanaed.",
+  "translation": "Idi nagpason dagiti bulan a sangapulo ket dua, iti ngato ti palasio ti pagarian ti Babilonia ⟨ti ari⟩ nagsonsor",
   "tokens": [
     {
       "surface": "לקצת",
-      "gloss": "iti patingga"
+      "gloss": "idi nagpason"
     },
     {
       "surface": "ירחין",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "על",
-      "gloss": "iti"
+      "gloss": "iti ngato"
     },
     {
       "surface": "היכל",
-      "gloss": "igian ti palacio"
+      "gloss": "palasio"
     },
     {
       "surface": "מלכותא",
-      "gloss": "ti pagarianan"
+      "gloss": "pagarian"
     },
     {
       "surface": "די",
@@ -41,13 +41,17 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babilonia"
     },
     {
       "surface": "מהלך",
-      "gloss": "agnaed"
+      "gloss": "nagsonsor"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨agsisinto⟩"
     }
   ],
-  "timestamp": "2026-09-26T23:16:37.550506812Z",
+  "timestamp": "2026-10-01T05:24:12.055735417Z",
   "model": "glm-5.3"
 }

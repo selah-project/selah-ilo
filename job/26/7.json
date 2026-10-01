@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "ilo",
   "chapter": 26,
-  "translation": "Palawaenna ti amianan iti ngato ti awan linaon, ket italenna ⟨את⟩ ti daga iti awan ti aniaman.",
+  "translation": "Iwarwarna ti amianan iti ⟨awan linaon⟩, ket tagtag-ayenna ti daga iti awan aniaman.",
   "tokens": [
     {
       "surface": "נטה",
-      "gloss": "Palawaenna"
+      "gloss": "iwarwarna"
     },
     {
       "surface": "צפון",
@@ -17,20 +17,15 @@
     },
     {
       "surface": "על",
-      "gloss": "iti ngato"
+      "gloss": "iti"
     },
     {
       "surface": "תהו",
-      "gloss": "ti awan linaon"
+      "gloss": "awan linaon"
     },
     {
       "surface": "תלה",
-      "gloss": "italenna"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ti daga"
+      "gloss": "tagtag-ayenna"
     },
     {
       "surface": "ארץ",
@@ -42,13 +37,13 @@
     },
     {
       "surface": "בלי",
-      "gloss": "iti awan"
+      "gloss": "awan"
     },
     {
       "surface": "מה",
-      "gloss": "ti aniaman"
+      "gloss": "aniaman"
     }
   ],
-  "timestamp": "2026-09-27T00:03:24.168280407Z",
+  "timestamp": "2026-10-01T05:24:24.446357896Z",
   "model": "glm-5.3"
 }

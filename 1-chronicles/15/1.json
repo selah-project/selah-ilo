@@ -5,99 +5,57 @@
   "book": "1-chronicles",
   "lang": "ilo",
   "chapter": 15,
-  "translation": "Kinuna ni David: saan a maysa a saan a Levita ti agdakkel ti arko ti Elohim, ta kadakuada pinili ni Yahweh nga idakkelnda ti arko ni Yahweh ken agserbida kenkuana agingga iti agnanayon.",
+  "translation": "ket inaramidna kadakuana dagiti balay iti ili ni David, ken nangitudonna ti maysa a lugar para iti arko ti Elohim, ken indacpana para kenkuana ti maysa a tolda.",
   "tokens": [
     {
-      "surface": "אז",
-      "gloss": "Idi"
+      "surface": "ויעש",
+      "gloss": "ket inaramidna"
     },
     {
-      "surface": "אמר",
-      "gloss": "kinuna"
+      "surface": "לו",
+      "gloss": "kadakuana"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "dagiti balay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "iti ili"
     },
     {
       "surface": "דויד",
       "gloss": "ni David"
     },
     {
-      "surface": "לא",
-      "gloss": "saan"
+      "surface": "ויכן",
+      "gloss": "ken nangitudonna"
     },
     {
-      "surface": "לשאת",
-      "gloss": "agdakkel"
+      "surface": "מקום",
+      "gloss": "ti maysa a lugar"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "arko"
-    },
-    {
-      "surface": "ארון",
-      "gloss": "arko"
+      "surface": "לארון",
+      "gloss": "para iti arko"
     },
     {
       "surface": "האלהים",
       "gloss": "ti Elohim"
     },
     {
-      "surface": "כי",
-      "gloss": "no di"
+      "surface": "ויט",
+      "gloss": "ken indacpana"
     },
     {
-      "surface": "אם",
-      "gloss": "di"
+      "surface": "לו",
+      "gloss": "para kenkuana"
     },
     {
-      "surface": "הלוים",
-      "gloss": "dagiti Levita"
-    },
-    {
-      "surface": "כי",
-      "gloss": "ta"
-    },
-    {
-      "surface": "בם",
-      "gloss": "kadakuada"
-    },
-    {
-      "surface": "בחר",
-      "gloss": "pinili"
-    },
-    {
-      "surface": "יהוה",
-      "gloss": "ni Yahweh"
-    },
-    {
-      "surface": "לשאת",
-      "gloss": "ngem idakkelnda"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "arko"
-    },
-    {
-      "surface": "ארון",
-      "gloss": "arko"
-    },
-    {
-      "surface": "יהוה",
-      "gloss": "ni Yahweh"
-    },
-    {
-      "surface": "ולשרתו",
-      "gloss": "ken agserbida kenkuana"
-    },
-    {
-      "surface": "עד",
-      "gloss": "agingga iti"
-    },
-    {
-      "surface": "עולם",
-      "gloss": "agnanayon"
+      "surface": "אהל",
+      "gloss": "ti maysa a tolda"
     }
   ],
-  "timestamp": "2026-09-26T23:39:23.817562051Z",
+  "timestamp": "2026-10-01T05:24:10.892016778Z",
   "model": "glm-5.3"
 }

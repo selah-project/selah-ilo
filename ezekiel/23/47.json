@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "ilo",
   "chapter": 23,
-  "translation": "ket ipaltiing ti gimong kadakuada iti bato, ket maikkatda ⟨את⟩ ida babaen kadagiti tabakda; dagiti anakda a lallaki ken dagiti anakda a babai patayenda, ket dagiti balayda apuyannaenda.",
+  "translation": "Ken ibatoan ti gimong ⟨את⟩ ida babaen iti bato, ken ipatayda ⟨את⟩ ida kadagiti tabakda; dagiti annakda a lallaki ken dagiti annakda a babbai papatayenda, ken dagiti balayda maisuda iti apoy.",
   "tokens": [
     {
       "surface": "ורגמו",
-      "gloss": "ket ipaltiing"
+      "gloss": "ibatoan"
     },
     {
       "surface": "עליהן",
-      "gloss": "kadakuada"
+      "gloss": "kaniada"
     },
     {
       "surface": "אבן",
-      "gloss": "iti bato"
+      "gloss": "bato"
     },
     {
       "surface": "קהל",
@@ -25,38 +25,42 @@
     },
     {
       "surface": "וברא",
-      "gloss": "ket maikkatda"
+      "gloss": "ipatayda"
     },
     {
       "surface": "אותהן",
       "gloss": "⟨את⟩",
-      "marks": "ida"
+      "marks": "ida kadagiti tabakda"
     },
     {
       "surface": "בחרבותם",
-      "gloss": "babaen kadagiti tabakda"
+      "gloss": "kadagiti tabakda"
     },
     {
       "surface": "בניהם",
-      "gloss": "dagiti anakda a lallaki"
+      "gloss": "dagiti annakda a lallaki"
     },
     {
       "surface": "ובנותיהם",
-      "gloss": "ken dagiti anakda a babai"
+      "gloss": "ken dagiti annakda a babbai"
     },
     {
       "surface": "יהרגו",
-      "gloss": "patayenda"
+      "gloss": "papatayenda"
     },
     {
       "surface": "ובתיהן",
-      "gloss": "ket dagiti balayda"
+      "gloss": "ken dagiti balayda"
     },
     {
       "surface": "באש",
-      "gloss": "apuyannaenda"
+      "gloss": "iti apoy"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "maisuda"
     }
   ],
-  "timestamp": "2026-09-26T18:45:34.856032823Z",
+  "timestamp": "2026-10-01T05:24:18.352088470Z",
   "model": "glm-5.3"
 }

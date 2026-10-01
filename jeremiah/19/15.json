@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "Kasta ti kinuna ni Yahweh ti Tsevaot, ti Elohim ni Yisrael: Samenak, ipatungparko iti daytoy nga ili ken iti amin a pagtaenganna ⟨את⟩ ti amin a dakes nga imbagak maipapan kenkuana, ta nangitkeda ⟨את⟩ tengngedda tapno saanda a mamati ⟨את⟩ dagiti saok.",
+  "translation": "Kasta ti kinuna ni Yahweh ti Tsevaot, ti Elohim ti Yisrael: Narung, maiyegko iti daytoy nga ili ken iti amin a pagilianna ⟨את⟩ ti amin a dakes a naisao kaniak maipapan kenkuana, ta inpigsaanda ⟨את⟩ tengngedda tapno saanda a mammetgaw ⟨את⟩ dagiti saok.",
   "tokens": [
     {
       "surface": "כה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "ti Yisrael"
     },
     {
       "surface": "הנני",
-      "gloss": "Samenak"
+      "gloss": "Narung"
     },
     {
       "surface": "מבי",
-      "gloss": "ipatungparko"
+      "gloss": "maiyegko"
     },
     {
       "surface": "אל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "עריה",
-      "gloss": "pagtaenganna"
+      "gloss": "pagilianna"
     },
     {
       "surface": "את",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nga"
+      "gloss": "a"
     },
     {
       "surface": "דברתי",
-      "gloss": "imbagak"
+      "gloss": "naisao kaniak"
     },
     {
       "surface": "עליה",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "הקשו",
-      "gloss": "nangitkeda"
+      "gloss": "inpigsaanda"
     },
     {
       "surface": "את",
@@ -111,14 +111,18 @@
     },
     {
       "surface": "שמוע",
-      "gloss": "a mamati"
+      "gloss": "a mammetgaw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "dagiti saok"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dagiti saok"
     }
   ],
-  "timestamp": "2026-09-26T16:51:36.885703842Z",
+  "timestamp": "2026-10-01T05:24:08.346938869Z",
   "model": "glm-5.3"
 }

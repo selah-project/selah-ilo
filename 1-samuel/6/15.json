@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "ilo",
   "chapter": 6,
-  "translation": "ket dagiti Levita ikiniddada ⟨את⟩ ti arko ni Yahweh ken ⟨את⟩ ti kahon a kasasaadanna, a dina dagiti paggapuanan a balitok, ket inikkanda iti bassit a dakkel a bato; ket dagiti lalaki ti Beith-Shemesh indatonda dagiti sakripisio a sinuno ket immayanda mangsakripisio kadagiti sakripisio iti dayta nga aldaw iti Yahweh.",
+  "translation": "Ken dagiti Levita kinitirada ⟨את⟩ ti arko ni Yahweh ken ⟨את⟩ ti kaban a ⟨את⟩ kaduaanna, a iti unegna dagiti kasangkapan a balitok, ken inyalada iti nalatak a bato; ken dagiti lallaki ti Beit-Shemesh innalada dagiti natuded a sakripisio ken nangidatonanda kadagiti sakripisio iti dayta nga aldaw kenni Yahweh.",
   "tokens": [
     {
       "surface": "והלוים",
-      "gloss": "ket dagiti Levita"
+      "gloss": "dagiti Levita"
     },
     {
       "surface": "הורידו",
-      "gloss": "ikiniddada"
+      "gloss": "kinitirada"
     },
     {
       "surface": "את",
@@ -31,11 +31,11 @@
     {
       "surface": "ואת",
       "gloss": "ken ⟨את⟩",
-      "marks": "ti kahon"
+      "marks": "ti kaban"
     },
     {
       "surface": "הארגז",
-      "gloss": "ti kahon"
+      "gloss": "ti kaban"
     },
     {
       "surface": "אשר",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ iti asidegna"
+      "gloss": "⟨את⟩ kaduaanna"
     },
     {
       "surface": "אשר",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "בו",
-      "gloss": "dina"
+      "gloss": "iti unegna"
     },
     {
       "surface": "כלי",
-      "gloss": "paggapuanan"
+      "gloss": "dagiti kasangkapan"
     },
     {
       "surface": "זהב",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "וישמו",
-      "gloss": "inikkanda"
+      "gloss": "ken inyalada"
     },
     {
       "surface": "אל",
@@ -75,31 +75,31 @@
     },
     {
       "surface": "הגדולה",
-      "gloss": "dakkel"
+      "gloss": "nalatak"
     },
     {
       "surface": "ואנשי",
-      "gloss": "ket dagiti lalaki"
+      "gloss": "ken dagiti lallaki"
     },
     {
       "surface": "בית",
-      "gloss": "ti Beith-Shemesh"
+      "gloss": "ti Beit"
     },
     {
       "surface": "שמש",
-      "gloss": "Beith-Shemesh"
+      "gloss": "Shemesh"
     },
     {
       "surface": "העלו",
-      "gloss": "indatonda"
+      "gloss": "innalada"
     },
     {
       "surface": "עלות",
-      "gloss": "dagiti sakripisio a sinuno"
+      "gloss": "dagiti natuded a sakripisio"
     },
     {
       "surface": "ויזבחו",
-      "gloss": "immayanda mangsakripisio"
+      "gloss": "ken nangidatonanda"
     },
     {
       "surface": "זבחים",
@@ -107,13 +107,17 @@
     },
     {
       "surface": "ביום",
-      "gloss": "iti dayta nga aldaw"
+      "gloss": "iti aldaw"
     },
     {
       "surface": "ההוא",
       "gloss": "dayta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kenni Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T10:34:54.063941249Z",
+  "timestamp": "2026-10-01T05:24:29.853711988Z",
   "model": "glm-5.3"
 }

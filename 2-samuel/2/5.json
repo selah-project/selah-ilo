@@ -5,13 +5,98 @@
   "book": "2-samuel",
   "lang": "ilo",
   "chapter": 2,
-  "translation": "Kinuna ni David: Pinanawagan-na Dagiti Anak ti Israel a Agbalin nga Ari — and intedmo kadakuada ti Kappia, ken Iloko-ppia.",
+  "translation": "Ni Davíd ket nangipaay kadagiti mensahero kadagiti lallaki ti Yavesh-Gilad, ket kinunana kaniada: Nabendisionanakayo ni Yahweh gapu ta inaramidayo daytoy a hesed kadagiti apoyo, kenni Shaul, ta inkararuaryo ⟨את⟩ isuna.",
   "tokens": [
     {
+      "surface": "וישלח",
+      "gloss": "nangipaay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "kadagiti mensahero"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kadagiti lallaki"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
       "surface": "ויאמר",
-      "gloss": "Kinuna ni David:"
+      "gloss": "ket kinunana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kaniada"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "Nabendisionanakayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": ""
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gapu ta"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "inaramidayo"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "daytoy a hesed"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "עם",
+      "gloss": "kadagiti"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "apoyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kenni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ותקברו",
+      "gloss": "ta inkararuaryo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isuna (ni Shaul)"
     }
   ],
-  "timestamp": "2026-09-26T11:26:47.079064667Z",
+  "timestamp": "2026-10-01T05:24:09.425731873Z",
   "model": "glm-5.3"
 }

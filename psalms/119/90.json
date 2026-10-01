@@ -5,29 +5,33 @@
   "book": "psalms",
   "lang": "ilo",
   "chapter": 119,
-  "translation": "Kasapulan koma ti pannakatalna, Datoy ken daytoy a kaputotan ti pannakamatalekm ken ni Elohim: pinatakderna ti daga, ket agtaktakder.",
+  "translation": "Iti nasasaruno a kaputotan agingga iti kaputotan ⟨ti⟩ kinamatalekmoka; pinatakdermo ⟨את⟩ ti daga, ket agtakder ⟨dayta⟩.",
   "tokens": [
     {
-      "surface": "לדור ודור",
-      "gloss": "iti agnanayon"
+      "surface": "לדר",
+      "gloss": "iti kaputotan"
     },
     {
-      "surface": "יהוה",
-      "gloss": "Yahweh"
+      "surface": "ודר",
+      "gloss": "ken kaputotan"
     },
     {
-      "surface": "דברך",
-      "gloss": "ti saom"
+      "surface": "אמונתך",
+      "gloss": "ti kinamatalekmoka"
     },
     {
-      "surface": "נצב",
-      "gloss": "agtaktakder"
+      "surface": "כוננת",
+      "gloss": "pinatakdermo"
     },
     {
-      "surface": "בשמים",
-      "gloss": "kadagiti langit"
+      "surface": "ארץ",
+      "gloss": "ti daga"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ken agtakder"
     }
   ],
-  "timestamp": "2026-09-26T22:27:26.961117453Z",
+  "timestamp": "2026-10-01T05:24:15.665949626Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ilo",
   "chapter": 26,
-  "translation": "Ken aramidentam iti abbong lima a poste ti kayo ti shittim, ken balitukenam ⟨אתם⟩ iti balitok, ken dagiti kawilarda ket balitok, ken ibulosam kadakuada lima a pagtungtungan a gambang.",
+  "translation": "Ken aramidemmo iti abbong ti ruangan dagiti lima a poste ti kayo ti shittim, ket balutamda iti balitok, ken dagiti kawitda ket balitok, ken ibainmo kaniada dagiti lima a batayan ti gambang.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "ken aramidentam"
+      "gloss": "ken aramidemmo"
     },
     {
       "surface": "למסך",
-      "gloss": "iti abbong"
+      "gloss": "iti abbong ti ruangan"
     },
     {
       "surface": "חמשה",
@@ -29,24 +29,20 @@
     },
     {
       "surface": "וצפית",
-      "gloss": "ken balitukenam"
+      "gloss": "ket balutam"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "iti balitok"
+      "gloss": "⟨את⟩",
+      "marks": "ida"
     },
     {
       "surface": "זהב",
-      "gloss": "balitok"
+      "gloss": "iti balitok"
     },
     {
-      "surface": "והם",
-      "gloss": "ken"
-    },
-    {
-      "surface": "וויהם",
-      "gloss": "dagiti kawilarda"
+      "surface": "וגויהם",
+      "gloss": "ken dagiti kawitda"
     },
     {
       "surface": "זהב",
@@ -54,11 +50,11 @@
     },
     {
       "surface": "ויצקת",
-      "gloss": "ken ibulosam"
+      "gloss": "ket ibainmo"
     },
     {
       "surface": "להם",
-      "gloss": "kadakuada"
+      "gloss": "kaniada"
     },
     {
       "surface": "חמשה",
@@ -66,13 +62,13 @@
     },
     {
       "surface": "אדני",
-      "gloss": "a pagtungtungan"
+      "gloss": "a batayan"
     },
     {
       "surface": "נחשת",
-      "gloss": "gambang"
+      "gloss": "ti gambang"
     }
   ],
-  "timestamp": "2026-09-26T21:58:43.817043511Z",
+  "timestamp": "2026-10-01T05:24:02.517087801Z",
   "model": "glm-5.3"
 }

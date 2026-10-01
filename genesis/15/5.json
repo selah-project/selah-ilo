@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "ilo",
   "chapter": 15,
-  "translation": "Kinuaenna ⟨את⟩ iti ruar, ken kinuna: Tarayam ⟨ita⟩ kadagiti langit ken bilangenmo dagiti bituen, no makabaelka a bilangenda ⟨ita⟩. Ket kinuna kakuana: Kas kasta ti tumungpal a pinarsua <mo>.",
+  "translation": "Kinuaanna ⟨את⟩ iti ruar, ket kinuna: Tarayam ita iti langit ken bilangenda dagiti bituen, no makabilangaka nga agbilang kadagiti ⟨את⟩; ket kinuna kaniak: Kasta ti agbalin a kaputotam.",
   "tokens": [
     {
       "surface": "ויוצא",
-      "gloss": "kinuaenna"
+      "gloss": "kinuaanna"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "iti ruar (isu)"
+      "marks": "iti ruar"
     },
     {
       "surface": "החוצה",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ken kinuna"
+      "gloss": "ket kinuna"
     },
     {
       "surface": "הבט",
-      "gloss": "tarayam"
+      "gloss": "Tarayam"
     },
     {
       "surface": "נא",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "השמימה",
-      "gloss": "kadagiti langit"
+      "gloss": "iti langit"
     },
     {
       "surface": "וספר",
-      "gloss": "ken bilangenmo"
+      "gloss": "ken bilangenda"
     },
     {
       "surface": "הכוכבים",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "תוכל",
-      "gloss": "makabaelka"
+      "gloss": "makabilangaka"
     },
     {
       "surface": "לספר",
-      "gloss": "a bilangenda"
+      "gloss": "nga agbilang"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
+      "gloss": "kadagiti ⟨את⟩",
       "marks": "dagiti bituen"
     },
     {
@@ -67,21 +67,21 @@
     },
     {
       "surface": "לו",
-      "gloss": "kakuana"
+      "gloss": "kaniak"
     },
     {
       "surface": "כה",
-      "gloss": "kas kasta"
+      "gloss": "Kasta"
     },
     {
       "surface": "יהיה",
-      "gloss": "ti tumungpal"
+      "gloss": "ti agbalin"
     },
     {
       "surface": "זרעך",
-      "gloss": "pinarsuam"
+      "gloss": "kaputotam"
     }
   ],
-  "timestamp": "2026-09-26T01:57:14.061930260Z",
+  "timestamp": "2026-10-01T05:24:00.073879815Z",
   "model": "glm-5.3"
 }

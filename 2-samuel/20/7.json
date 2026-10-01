@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "ilo",
   "chapter": 20,
-  "translation": "Rinmuar kadakuana dagiti lallaki ni Yoav, ken dagiti Kereti ken dagiti Peleti, ken amin dagiti natibker; rinmuarda iti Yerushalayim a sumurot kadakuana — ni Sheba anak ni Bikhri.",
+  "translation": "Immay kalpasanna dagiti lallaki ni Yoav, ken dagiti Kereti ken dagiti Peleti, ken amin dagiti napigsa a lallaki, ket immayda manipud iti Yerushalayim nga agsurot kalpasan ni Sheba anak ni Bikhri.",
   "tokens": [
     {
       "surface": "ויצאו",
-      "gloss": "Rinmuar"
+      "gloss": "immay"
     },
     {
       "surface": "אחריו",
-      "gloss": "kadakuana"
+      "gloss": "kalpasanna"
     },
     {
       "surface": "אנשי",
@@ -22,10 +22,6 @@
     {
       "surface": "יואב",
       "gloss": "ni Yoav"
-    },
-    {
-      "surface": "ויצאו",
-      "gloss": "ken dagiti Kereti"
     },
     {
       "surface": "והכרתי",
@@ -41,23 +37,23 @@
     },
     {
       "surface": "הגברים",
-      "gloss": "dagiti natibker"
+      "gloss": "dagiti napigsa a lallaki"
     },
     {
       "surface": "ויצאו",
-      "gloss": "rinmuarda"
+      "gloss": "ket immayda"
     },
     {
       "surface": "מירושלם",
-      "gloss": "iti Yerushalayim"
+      "gloss": "manipud iti Yerushalayim"
     },
     {
       "surface": "לרדף",
-      "gloss": "a sumurot"
+      "gloss": "nga agsurot"
     },
     {
       "surface": "אחרי",
-      "gloss": "kadakuana"
+      "gloss": "kalpasan"
     },
     {
       "surface": "שבע",
@@ -72,6 +68,6 @@
       "gloss": "ni Bikhri"
     }
   ],
-  "timestamp": "2026-09-26T12:07:17.911257860Z",
+  "timestamp": "2026-10-01T05:24:31.868231038Z",
   "model": "glm-5.3"
 }

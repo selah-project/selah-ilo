@@ -5,23 +5,23 @@
   "book": "2-samuel",
   "lang": "ilo",
   "chapter": 19,
-  "translation": "ket insungbatna amin a lalaki ni Yehudah kadagiti lalaki ni Yisrael: Ta asideg niyo ti ari kaniak, ket apay a nasngaledka iti daytoy a banag? Adda kadi mangankan kami iti tagikua ti ari? Wenno adda kadi naited a regalo kadakami?",
+  "translation": "Ket simungbat dagiti amin a lallaki ti Yehudah kadagiti lallaki ti Yisrael: ta asideg kami iti ari, ket apay a nagatakka iti daytoy a banag? No adda kadi nangankami iti sapasap iti bukod ti ari, wenno adda kadi daton a naited kaniakami?",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "ket insungbatna"
+      "gloss": "ket simungbat"
     },
     {
       "surface": "כל",
-      "gloss": "amin"
+      "gloss": "dagiti amin"
     },
     {
       "surface": "איש",
-      "gloss": "a lalaki"
+      "gloss": "a lallaki"
     },
     {
       "surface": "יהודה",
-      "gloss": "ni Yehudah"
+      "gloss": "ti Yehudah"
     },
     {
       "surface": "על",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "a lalaki"
+      "gloss": "lallaki"
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "ti Yisrael"
     },
     {
       "surface": "כי",
-      "gloss": "Ta"
+      "gloss": "ta"
     },
     {
       "surface": "קרוב",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ni yo ti ari"
+      "gloss": "ti ari"
     },
     {
       "surface": "אלי",
-      "gloss": "kaniak"
+      "gloss": "kami"
     },
     {
       "surface": "ולמה",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "חרה",
-      "gloss": "a nasngaledka"
+      "gloss": "nagatakka"
     },
     {
       "surface": "לך",
-      "gloss": "-mo"
+      "gloss": "kenka"
     },
     {
       "surface": "על",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "a banag"
+      "gloss": "daytoy a banag"
     },
     {
       "surface": "הזה",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "האכול",
-      "gloss": "Adda kadi mangankan"
+      "gloss": "mangan"
     },
     {
       "surface": "אכלנו",
-      "gloss": "kami"
+      "gloss": "nangankami"
     },
     {
       "surface": "מן",
@@ -93,21 +93,25 @@
     },
     {
       "surface": "המלך",
-      "gloss": "tagikua ti ari"
+      "gloss": "bukod ti ari"
     },
     {
       "surface": "אם",
-      "gloss": "Wenno adda kadi"
+      "gloss": "wenno"
     },
     {
       "surface": "נשאת",
-      "gloss": "naited a regalo"
+      "gloss": "daton"
     },
     {
       "surface": "נשא",
-      "gloss": "kadakami"
+      "gloss": "naited"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kaniakami"
     }
   ],
-  "timestamp": "2026-09-26T12:08:35.047322528Z",
+  "timestamp": "2026-10-01T05:55:22.682291155Z",
   "model": "glm-5.3"
 }

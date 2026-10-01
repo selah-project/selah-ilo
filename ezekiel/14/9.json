@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ilo",
   "chapter": 14,
-  "translation": "No ti propeta, no maallilaw <no nagsao iti sao> — siak a Yahweh, siak ti nakaililaw ⟨את⟩ ti propeta a dayta, ket intayabko ⟨את⟩ ti imak kadakuana, ket dadaelenkon <kenkuana> manipud iti tengnga ti umilik a Yisrael.",
+  "translation": "Ken ti propeta, no maallilaw isuna ket nagsao ti maysa a sao, siak ni Yahweh ti nangallilaw ⟨את⟩ iti propeta a dayta, ket iyawatko ⟨את⟩ ti imak kadagenna ken ikkatkono isuna manipud iti tengnga ti umilik a ni Yisrael.",
   "tokens": [
     {
       "surface": "והנביא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "יפתה",
-      "gloss": "maallilaw"
+      "gloss": "maallilaw isuna"
     },
     {
       "surface": "ודבר",
-      "gloss": "nagsao"
+      "gloss": "ket nagsao"
     },
     {
       "surface": "דבר",
-      "gloss": "iti sao"
+      "gloss": "ti maysa a sao"
     },
     {
       "surface": "אני",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "פתיתי",
-      "gloss": "ti nakaililaw"
+      "gloss": "ti nangallilaw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ti propeta"
+      "marks": "iti propeta a dayta"
     },
     {
       "surface": "הנביא",
-      "gloss": "ti propeta"
+      "gloss": "iti propeta"
     },
     {
       "surface": "ההוא",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ונטיתי",
-      "gloss": "ket intayabko"
+      "gloss": "ket iyawatko"
     },
     {
       "surface": "את",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "עליו",
-      "gloss": "kadakuana"
+      "gloss": "kadagenna"
     },
     {
       "surface": "והשמדתיו",
-      "gloss": "ket dadaelenkon"
+      "gloss": "ken ikkatkono isuna"
     },
     {
       "surface": "מתוך",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "a Yisrael"
+      "gloss": "a ni Yisrael"
     }
   ],
-  "timestamp": "2026-09-26T18:20:55.675397349Z",
+  "timestamp": "2026-10-01T05:24:03.257625825Z",
   "model": "glm-5.3"
 }

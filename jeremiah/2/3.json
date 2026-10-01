@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "ilo",
   "chapter": 2,
-  "translation": "Nasantuan ti Yisrael kenni Yahweh, ti umuna a bunga ti apitna; amin dagiti mangan ⟨את⟩ kenkuana ket agbasolda; maumman ti dakes kadakuada, ti pakasaritaan ni Yahweh.",
+  "translation": "Nasantuan ni Yisrael kenni Yahweh, ti immuna a bunga ti apitna; amin dagiti mangan kenkuana agbasolda, umay ti dakes kaniada, kuna ni Yahweh.",
   "tokens": [
     {
       "surface": "קדש",
-      "gloss": "Nasantuan"
+      "gloss": "nasantuan"
     },
     {
       "surface": "ישראל",
-      "gloss": "ti Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ליהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ראשית",
-      "gloss": "ti umuna a bunga"
+      "gloss": "ti immuna a bunga"
     },
     {
       "surface": "תבואתה",
@@ -33,38 +33,33 @@
     },
     {
       "surface": "אכליו",
-      "gloss": "dagiti mangan"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "kenkuana (iti Yisrael)"
+      "gloss": "dagiti mangan kenkuana"
     },
     {
       "surface": "יאשמו",
-      "gloss": "ket agbasolda"
+      "gloss": "agbasolda"
     },
     {
       "surface": "רעה",
-      "gloss": "ti dakes"
+      "gloss": "dakes"
     },
     {
       "surface": "תבא",
-      "gloss": "maumman"
+      "gloss": "umay"
     },
     {
       "surface": "אליהם",
-      "gloss": "kadakuada"
+      "gloss": "kaniada"
     },
     {
       "surface": "נאם",
-      "gloss": "ti pakasaritaan"
+      "gloss": "kuna"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-09-26T16:14:27.980747070Z",
+  "timestamp": "2026-10-01T05:23:52.758507613Z",
   "model": "glm-5.3"
 }

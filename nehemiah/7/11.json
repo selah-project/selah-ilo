@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "ilo",
   "chapter": 7,
-  "translation": "Dagiti anak ni Pakhat-Moav, manipud kadagiti anak ni Yeshua ken ni Yoav, dua a ribu ken walo a gasut sangapulo ket walo.",
+  "translation": "Dagiti anak ni Pahat-Moab, manipud kadagiti anak ni Yeshua ken ni Yoav, dua a ribu ken walo a gasut ken sangapulo ket walo.",
   "tokens": [
     {
       "surface": "בני",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "פחת",
-      "gloss": "ni Pakhat"
+      "gloss": "ni Pahat"
     },
     {
       "surface": "מואב",
-      "gloss": "Moav"
+      "gloss": "Moab"
     },
     {
       "surface": "לבני",
@@ -28,10 +28,30 @@
       "gloss": "ni Yeshua"
     },
     {
-      "surface": "ואלפים ויואב",
+      "surface": "ויואב",
       "gloss": "ken ni Yoav"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dua a ribu"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ken walo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a gasut"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "sangapulo ket walo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "walo"
     }
   ],
-  "timestamp": "2026-09-26T23:27:46.472306471Z",
+  "timestamp": "2026-10-01T05:24:13.867512647Z",
   "model": "glm-5.3"
 }
